@@ -1,0 +1,127 @@
+{
+    "title": "pizza_homemade_``_hot_pockets_''",
+    "id": "edc5a4815b",
+    "table": [
+        {
+            "instructions": "preheat oven to 350 degrees f",
+            "input": "NA",
+            "actions": "preheat",
+            "output": "NA"
+        },
+        {
+            "instructions": "line a baking sheet with parchment paper .",
+            "input": "NA",
+            "actions": "line",
+            "output": "NA"
+        },
+        {
+            "instructions": "on a floured work surface , roll out pie_crust into a large rectangle",
+            "input": "pie_crust",
+            "actions": "roll",
+            "output": "rolled_pie_crust"
+        },
+        {
+            "instructions": "slice off rounded edges if using store bought .",
+            "input": "rolled_pie_crust",
+            "actions": "slice",
+            "output": "rolled pie crust with sliced edges"
+        },
+        {
+            "instructions": "slice into four strips .",
+            "input": "rolled pie crust with sliced edges",
+            "actions": "slice",
+            "output": "sliced pie crust"
+        },
+        {
+            "instructions": "spoon marinara over bottom half of strips",
+            "input": "(marinara; pie crust slices)",
+            "actions": "spoon",
+            "output": "marinara spooned over pie crust slices"
+        },
+        {
+            "instructions": "top with mozzarella and pepperoni .",
+            "input": "(pie crust slices; mozzarella; pepperoni)",
+            "actions": "top",
+            "output": "pie crust slices topped with mozzarella and pepperoni"
+        },
+        {
+            "instructions": "fold over tops .",
+            "input": "pie crust slices topped with mozzarella and pepperoni",
+            "actions": "fold",
+            "output": "folded pie crust slices"
+        },
+        {
+            "instructions": "use your fingers to pinch to seal",
+            "input": "folded pie crust slices",
+            "actions": "use",
+            "output": "sealed pie crust pockets"
+        },
+        {
+            "instructions": "press the twines of a fork to crimp .",
+            "input": "sealed pie crust pockets",
+            "actions": "press",
+            "output": "sealed pie crust pockets with pressed twines"
+        },
+        {
+            "instructions": "brush with egg wash",
+            "input": "(sealed pie crust pockets; egg wash)",
+            "actions": "brush",
+            "output": "sealed pie crust pockets brushed with egg wash"
+        },
+        {
+            "instructions": "transfer to prepared baking sheet .",
+            "input": "sealed pie crust pockets brushed with egg wash",
+            "actions": "transfer",
+            "output": "sealed pie crust pockets brushed with egg wash"
+        },
+        {
+            "instructions": "bake until golden and puffy , 18 to 20 minutes .",
+            "input": "uncooked pie crust pockets",
+            "actions": "bake",
+            "output": "baked pizza hot pockets"
+        }
+    ],
+    "ingredients": [
+        {
+            "text": "1 lb. store-bought or homemade pie crust"
+        },
+        {
+            "text": "1/2 c. marinara"
+        },
+        {
+            "text": "1 1/2 c. shredded mozzarella"
+        },
+        {
+            "text": "1/2 c. mini pepperoni"
+        },
+        {
+            "text": "1 large egg, beaten with 1 tbsp. water"
+        }
+    ],
+    "recipe": [
+        {
+            "text": "Preheat oven to 350 degrees F and line a baking sheet with parchment paper."
+        },
+        {
+            "text": "On a floured work surface, roll out pie crust into a large rectangle and slice off rounded edges (if using store-bought)."
+        },
+        {
+            "text": "Slice into four strips."
+        },
+        {
+            "text": "Spoon marinara over bottom half of strips and top with mozzarella and pepperoni."
+        },
+        {
+            "text": "Fold over tops."
+        },
+        {
+            "text": "Use your fingers to pinch to seal and press the twines of a fork to crimp."
+        },
+        {
+            "text": "Brush with egg wash and transfer to prepared baking sheet."
+        },
+        {
+            "text": "Bake until golden and puffy, 18 to 20 minutes."
+        }
+    ]
+}

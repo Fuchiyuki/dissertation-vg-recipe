@@ -1,0 +1,88 @@
+{
+    "title": "pesto_tomato_naan_personal_pizzas",
+    "id": "77372c2941",
+    "table": [
+        {
+            "instructions": "preheat your oven to 415 degrees f .",
+            "input": "NA",
+            "actions": "preheat",
+            "output": "NA"
+        },
+        {
+            "instructions": "place naan on a sheet pan",
+            "input": "naan",
+            "actions": "place",
+            "output": "naan"
+        },
+        {
+            "instructions": "spread with equal amounts of pesto on each .",
+            "input": "Naan on a sheet pan",
+            "actions": "spread",
+            "output": "Naan with pesto"
+        },
+        {
+            "instructions": "lay slices of tomato",
+            "input": "Naan with pesto",
+            "actions": "lay",
+            "output": "Naan with pesto and tomato"
+        },
+        {
+            "instructions": "season with kosher_salt and black_pepper ,",
+            "input": "Naan with pesto and tomato",
+            "actions": "season",
+            "output": "Naan with pesto, tomato, salt, and pepper"
+        },
+        {
+            "instructions": "finally top with some mozzarella slices .",
+            "input": "Naan with pesto, tomato, salt, and pepper",
+            "actions": "top",
+            "output": "Naan with pesto, tomato, salt, pepper, and mozzarella"
+        },
+        {
+            "instructions": "place in the preheated oven for 8 10 minutes or until cheese is melted and the crust is a deep golden and crispy .",
+            "input": "Naan with pesto, tomato, salt, pepper, and mozzarella",
+            "actions": "place",
+            "output": "Naan pizza"
+        },
+        {
+            "instructions": "serve !",
+            "input": "Naan pizza",
+            "actions": "serve",
+            "output": "Served naan pizza"
+        }
+    ],
+    "ingredients": [
+        {
+            "text": "2 whole Naan"
+        },
+        {
+            "text": "4 Tablespoons Basil Pesto"
+        },
+        {
+            "text": "1 whole Tomato, Sliced Thin"
+        },
+        {
+            "text": "Kosher Salt And Black Pepper To Taste"
+        },
+        {
+            "text": "6 ounces, weight Fresh Mozzarella, Sliced Thin"
+        }
+    ],
+    "recipe": [
+        {
+            "text": "Preheat your oven to 415 degrees F."
+        },
+        {
+            "text": "Place naan on a sheet pan and spread with equal amounts of pesto on each."
+        },
+        {
+            "text": "Lay slices of tomato, season with kosher salt and black pepper, and finally top with some mozzarella slices."
+        },
+        {
+            "text": "Place in the preheated oven for 8-10 minutes OR until cheese is melted and the crust is a deep golden and crispy."
+        },
+        {
+            "text": "Let cool for a few minutes and serve!"
+        }
+    ]
+}

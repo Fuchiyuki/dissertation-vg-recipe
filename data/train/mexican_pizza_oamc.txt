@@ -1,0 +1,97 @@
+{
+    "title": "mexican_pizza_oamc",
+    "id": "6e47096920",
+    "table": [
+        {
+            "instructions": "brown ground_beef with onions and garlic .",
+            "input": "(ground_beef; garlic; onion)",
+            "action": "brown",
+            "output": "browned_ground_beef mixture"
+        },
+        {
+            "instructions": "then drain",
+            "input": "browned_ground_beef mixture",
+            "action": "drain",
+            "output": "browned_ground_beef mixture drained from excess fat"
+        },
+        {
+            "instructions": "add in tomato_paste , chilies , refried_bean , water and salsa .",
+            "input": "(browned_ground_beef mixture drained from excess fat; tomato_paste; chilies; refried beans; water; salsa)",
+            "action": "add",
+            "output": "browned_ground_beef mixture with tomato paste, chilies, refried beans, water, and salsa"
+        },
+        {
+            "instructions": "simmer for 10 minutes .",
+            "input": "browned_ground_beef mixture with tomato paste, chilies, refried beans, water, and salsa",
+            "action": "simmer",
+            "output": "cooked ground_beef mixture sauce"
+        },
+        {
+            "instructions": "spread sauce evenly on both pizzas .",
+            "input": "(Pizza dough; cooked ground_beef mixture sauce)",
+            "action": "spread",
+            "output": "Pizza dough topped with cooked ground_beef mixture sauce"
+        },
+        {
+            "instructions": "freeze with bags of cheese attached .",
+            "input": "Pizza dough with sauce",
+            "action": "freeze",
+            "output": "Pizzas frozen with bags of cheese attached"
+        }
+    ],
+    "ingredients": [
+        {
+            "text": "2 refrigerated prepared pizza crust"
+        },
+        {
+            "text": "2 lbs ground beef"
+        },
+        {
+            "text": "1 onion, chopped"
+        },
+        {
+            "text": "2 garlic cloves, chopped"
+        },
+        {
+            "text": "1 (16 ounce) can refried beans"
+        },
+        {
+            "text": "1 (8 ounce) can tomato paste"
+        },
+        {
+            "text": "13 cup water"
+        },
+        {
+            "text": "1 (12 ounce) jar salsa"
+        },
+        {
+            "text": "1 (4 ounce) can green chilies, chopped and drained"
+        },
+        {
+            "text": "3 cups mozzarella cheese, shredded"
+        },
+        {
+            "text": "2 cups cheddar cheese, shredded"
+        }
+    ],
+    "recipe": [
+        {
+            "text": "prebake pizza dough at 400 degrees for 10 minutes."
+        },
+        {
+            "text": "brown ground beef with onions and garlic."
+        },
+        {
+            "text": "Then drain and add in tomato paste, chilies, refried beans, water and salsa."
+        },
+        {
+            "text": "Simmer for 10 minutes."
+        },
+        {
+            "text": "Spread sauce evenly on both pizzas."
+        },
+        {
+            "text": "Freeze with bags of cheese attached."
+        }
+    ]
+}

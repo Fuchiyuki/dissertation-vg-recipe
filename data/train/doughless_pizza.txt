@@ -1,0 +1,94 @@
+{
+    "title": "doughless_pizza",
+    "id": "4a59d4f007",
+    "table": [
+        {
+            "instructions": "mix hamburger with the bran",
+            "input": "(hamburger; bran)",
+            "action": "mix",
+            "output": "hamburger and bran mix"
+        },
+        {
+            "instructions": "spread onto a pizza\u2012pan that is lightly greased .",
+            "input": "hamburger and bran mix",
+            "action": "spread",
+            "output": "spread hamburger and bran mix"
+        },
+        {
+            "instructions": "put under broiler 5 minutes .",
+            "input": "spread hamburger and bran mix",
+            "action": "put",
+            "output": "broiled spread hamburger and bran mix"
+        },
+        {
+            "instructions": "the meat will shrink slightly .",
+            "input": "broiled spread hamburger and bran mix",
+            "action": "shrink",
+            "output": "broiled spread hamburger and bran mix"
+        },
+        {
+            "instructions": "remove",
+            "input": "broiled spread hamburger and bran mix",
+            "action": "remove",
+            "output": "broiled spread hamburger and bran mix"
+        },
+        {
+            "instructions": "spread on the pizza_sauce , toppings and your favorite pizza cheese .",
+            "input": "(pizza sauce; toppings; pizza cheese; broiled spread hamburger and bran mix)",
+            "action": "spread",
+            "output": "broiled spread hamburger and bran mix with pizza_sauce , toppings and favorite pizza cheese"
+        },
+        {
+            "instructions": "bake 10 to 15 minutes or till cheese is bubbly .",
+            "input": "uncooked meat crust pizza",
+            "action": "bake",
+            "output": "baked meat crust pizza"
+        }
+    ],
+    "ingredients": [
+        {
+            "text": "2 lbs ground beef"
+        },
+        {
+            "text": "1 cup wheat bran or 1 cup oat bran"
+        },
+        {
+            "text": "salt"
+        },
+        {
+            "text": "1 (12 ounce) jaryour favorite pizza sauce"
+        },
+        {
+            "text": "onion"
+        },
+        {
+            "text": "mushroom"
+        },
+        {
+            "text": "green pepper"
+        },
+        {
+            "text": "olive"
+        },
+        {
+            "text": "cheese, to taste"
+        }
+    ],
+    "recipe": [
+        {
+            "text": "Mix hamburger with the bran and spread onto a pizza pan that is lightly greased."
+        },
+        {
+            "text": "Put under broiler 5 minutes."
+        },
+        {
+            "text": "The meat will shrink slightly."
+        },
+        {
+            "text": "Remove and spread on the pizza sauce, toppings and your favorite pizza cheese."
+        },
+        {
+            "text": "Bake 10 to 15 minutes or till cheese is bubbly."
+        }
+    ]
+}

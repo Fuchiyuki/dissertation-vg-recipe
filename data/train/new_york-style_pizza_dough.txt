@@ -1,0 +1,145 @@
+{
+    "title": "new_york-style_pizza_dough",
+    "id": "f5cf4eacb2",
+    "table": [
+        {
+            "instructions": "combine flour , sugar , salt and yeast in the bowl of a food processor .",
+            "input": "(flour; sugar; salt; yeast)",
+            "actions": "combine",
+            "output": "flour mixture"
+        },
+        {
+            "instructions": "add olive_oil and both amounts of water .",
+            "input": "(flour mixture; olive_oil; water)",
+            "actions": "add",
+            "output": "olive_oil and water added to flour mixture"
+        },
+        {
+            "instructions": "run food processor until mixture forms a ball that rides around the bowl above the blade .",
+            "input": "olive_oil and water added to flour mixture",
+            "actions": "run",
+            "output": "dough"
+        },
+        {
+            "instructions": "this will take about 15 seconds .",
+            "input": "NA",
+            "actions": "take",
+            "output": "NA"
+        },
+        {
+            "instructions": "transfer dough , ball to a lightly floured surface",
+            "input": "dough",
+            "actions": "transfer",
+            "output": "dough"
+        },
+        {
+            "instructions": "knead once or twice by hand until a smooth ball is formed .",
+            "input": "dough",
+            "actions": "knead",
+            "output": "kneaded dough"
+        },
+        {
+            "instructions": "place in a covered container or in a zipper lock freezer bag .",
+            "input": "kneaded dough",
+            "actions": "place",
+            "output": "covered dough"
+        },
+        {
+            "instructions": "place in the refrigerator",
+            "input": "covered dough",
+            "actions": "place",
+            "output": "refrigerated dough"
+        },
+        {
+            "instructions": "remove from refrigerator",
+            "input": "refrigerated dough",
+            "actions": "remove",
+            "output": "refrigerated dough"
+        },
+        {
+            "instructions": "shape it into a ball ,",
+            "input": "refrigerated dough",
+            "actions": "shape",
+            "output": "shaped dough"
+        }
+    ],
+    "ingredients": [
+        {
+            "text": "2- 1/4 cups Bread Flour"
+        },
+        {
+            "text": "2- 1/4 teaspoons Sugar"
+        },
+        {
+            "text": "1- 1/2 teaspoon Kosher Salt"
+        },
+        {
+            "text": "1 teaspoon Instant Yeast"
+        },
+        {
+            "text": "1- 1/2 Tablespoon Extra Virgin Olive Oil"
+        },
+        {
+            "text": "3/4 cups Lukewarm Water"
+        },
+        {
+            "text": "3 Tablespoons Lukewarm Water"
+        }
+    ],
+    "recipe": [
+        {
+            "text": "1."
+        },
+        {
+            "text": "Combine flour, sugar, salt and yeast in the bowl of a food processor."
+        },
+        {
+            "text": "Pulse 3 to 4 times until incorporated."
+        },
+        {
+            "text": "Add olive oil and both amounts of water."
+        },
+        {
+            "text": "Run food processor until mixture forms a ball that rides around the bowl above the blade."
+        },
+        {
+            "text": "This will take about 15 seconds."
+        },
+        {
+            "text": "Continue processing 15 seconds longer."
+        },
+        {
+            "text": "2."
+        },
+        {
+            "text": "Transfer dough ball to a lightly floured surface and knead once or twice by hand until a smooth ball is formed."
+        },
+        {
+            "text": "Place in a covered container or in a zipper-lock freezer bag."
+        },
+        {
+            "text": "Place in the refrigerator and allow to rise at least 1 day, and up to 5."
+        },
+        {
+            "text": "Remove from refrigerator, shape it into a ball, and allow to rest at room temperature for at least 2 hours before baking."
+        },
+        {
+            "text": "Notes: 1."
+        },
+        {
+            "text": "The longer you let it rise the more sourdough flavor it has."
+        },
+        {
+            "text": "2."
+        },
+        {
+            "text": "This makes enough dough for a 14 pizza."
+        },
+        {
+            "text": "3."
+        },
+        {
+            "text": "You can cook this pizza dough using your favorite method."
+        }
+    ]
+}

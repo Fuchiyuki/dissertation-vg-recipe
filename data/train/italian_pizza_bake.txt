@@ -1,0 +1,115 @@
+{
+    "title": "italian_pizza_bake",
+    "id": "f5ad365249",
+    "table": [
+        {
+            "instructions": "saute pepper and onion over medium high heat until onion is tender .",
+            "input": "(pepper; onion)",
+            "action": "saute",
+            "output": "sauteed_pepper and onion mix"
+        },
+        {
+            "instructions": "stir in chicken , tomatoes , and herb blend .",
+            "input": "chicken; tomatoes; herb blend; sauteed_pepper and onion mix",
+            "action": "stir",
+            "output": "chicken mixture"
+        },
+        {
+            "instructions": "spray 8 x 4 loaf pan with nonstick_spray .",
+            "input": "NA",
+            "action": "spray",
+            "output": "NA"
+        },
+        {
+            "instructions": "combine bisquick , egg_substitute , water , and garlic_powder .",
+            "input": "bisquick; egg substitute; water; garlic powder",
+            "action": "combine",
+            "output": "batter"
+        },
+        {
+            "instructions": "spread batter in pan .",
+            "input": "batter",
+            "action": "spread",
+            "output": "batter spread in pan"
+        },
+        {
+            "instructions": "spoon chicken mixture over batter .",
+            "input": "chicken mixture; batter",
+            "action": "spoon",
+            "output": "chicken mixture spooned over batter"
+        },
+        {
+            "instructions": "sprinkle with cheese .",
+            "input": "cheese; batter with chicken mixture",
+            "action": "sprinkle",
+            "output": "cheese sprinkled over batter with chicken mixture"
+        },
+        {
+            "instructions": "bake 20 23 minutes or until golden brown .",
+            "input": "uncooked batter with chicken mixture",
+            "action": "bake",
+            "output": "baked pizza bake"
+        }
+    ],
+    "ingredients": [
+        {
+            "text": "13 cup Bisquick, heart smart mix (tm)"
+        },
+        {
+            "text": "2 tablespoons egg substitute"
+        },
+        {
+            "text": "1 tablespoon water"
+        },
+        {
+            "text": "18 teaspoon garlic powder"
+        },
+        {
+            "text": "14 cup green pepper, diced"
+        },
+        {
+            "text": "14 cup onion, chopped"
+        },
+        {
+            "text": "12 cup cooked chicken breast, chopped"
+        },
+        {
+            "text": "12 cup canned tomato, with italian seasonings and drained"
+        },
+        {
+            "text": "14 teaspoon Italian herb seasoning"
+        },
+        {
+            "text": "14 cup reduced-fat mozzarella cheese, shredded"
+        }
+    ],
+    "recipe": [
+        {
+            "text": "Saute pepper and onion over medium-high heat until onion is tender."
+        },
+        {
+            "text": "Stir in chicken, tomatoes, and herb blend."
+        },
+        {
+            "text": "Spray 8 X 4 loaf pan with nonstick spray."
+        },
+        {
+            "text": "Combine Bisquick , egg substitute, water, and garlic powder."
+        },
+        {
+            "text": "Spread batter in pan."
+        },
+        {
+            "text": "Spoon chicken mixture over batter."
+        },
+        {
+            "text": "Sprinkle with cheese."
+        },
+        {
+            "text": "Bake 20-23 minutes or until golden brown."
+        },
+        {
+            "text": "Loosen from sides of pan."
+        }
+    ]
+}

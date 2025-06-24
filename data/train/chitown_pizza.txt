@@ -1,0 +1,91 @@
+{
+    "title": "chitown_pizza",
+    "id": "5d0005dd14",
+    "table": [
+        {
+            "instructions": "mix up your dough",
+            "input": "dough",
+            "action": "mix",
+            "output": "mixed_dough"
+        },
+        {
+            "instructions": "lay dough out in pan also do n't forget to butter pan i buttered",
+            "input": "mixed_dough",
+            "action": "lay",
+            "output": "buttered pan with dough"
+        },
+        {
+            "instructions": "make pizza add toppings and cheese",
+            "input": "(pan with dough; toppings; cheese)",
+            "action": "make",
+            "output": "pizza with toppings and cheese"
+        },
+        {
+            "instructions": "add sauce",
+            "input": "(pizza with toppings and cheese; pizza sauce)",
+            "action": "add",
+            "output": "uncooked pizza"
+        },
+        {
+            "instructions": "bake 400 for 40 50mins",
+            "input": "uncooked pizza",
+            "action": "bake",
+            "output": "baked pizza"
+        }
+    ],
+    "ingredients": [
+        {
+            "text": "1/2 lb ground beef"
+        },
+        {
+            "text": "bunch turkey pepperoni"
+        },
+        {
+            "text": "1 chopped onion"
+        },
+        {
+            "text": "1 chopped mushrooms"
+        },
+        {
+            "text": "1/3 cup black olives"
+        },
+        {
+            "text": "2 cup all-purpose flour"
+        },
+        {
+            "text": "2 eggs"
+        },
+        {
+            "text": "1 tbsp garlic powder"
+        },
+        {
+            "text": "1 cheese(your fav)"
+        },
+        {
+            "text": "1 chopped parsley (dry)"
+        },
+        {
+            "text": "1 cup water"
+        },
+        {
+            "text": "1 pizza sauce"
+        }
+    ],
+    "recipe": [
+        {
+            "text": "Mix up your dough"
+        },
+        {
+            "text": "Lay dough out in pan(also don't forget to butter pan I buttered then used cornmeal coating)"
+        },
+        {
+            "text": "Make pizza(add toppings & cheese)"
+        },
+        {
+            "text": "Add sauce"
+        },
+        {
+            "text": "Bake @ 400 for 40-50mins then let cool lil bit then enjoy"
+        }
+    ]
+}

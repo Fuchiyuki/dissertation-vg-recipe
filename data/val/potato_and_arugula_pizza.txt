@@ -1,0 +1,172 @@
+{
+    "title": "potato_and_arugula_pizza",
+    "id": "79868046fe",
+    "table": [
+        {
+            "instructions": "preheat oven to 350f .",
+            "input": "NA",
+            "action": "preheat",
+            "output": "NA"
+        },
+        {
+            "instructions": "peel potatoes",
+            "input": "potatoes",
+            "action": "peel",
+            "output": "peeled_potatoes"
+        },
+        {
+            "instructions": "slice into thin rounds .",
+            "input": "peeled_potatoes",
+            "action": "slice",
+            "output": "thin potato rounds"
+        },
+        {
+            "instructions": "arrange slices on lightly oiled baking sheet ;",
+            "input": "thin potato rounds",
+            "action": "arrange",
+            "output": "arranged potato rounds"
+        },
+        {
+            "instructions": "brush with 2 tbsp olive_oil .",
+            "input": "(olive oil; thin potato rounds)",
+            "action": "brush",
+            "output": "lightly oiled potato rounds"
+        },
+        {
+            "instructions": "bake 10 minutes , or until lightly browned .",
+            "input": "potato rounds with olive oil",
+            "action": "bake",
+            "output": "browned potato rounds"
+        },
+        {
+            "instructions": "transfer to platter , salt to taste .",
+            "input": "(browned potato rounds; salt)",
+            "action": "transfer",
+            "output": "salted potato rounds"
+        },
+        {
+            "instructions": "roll out pizza_dough",
+            "input": "pizza dough",
+            "action": "roll",
+            "output": "rolled out pizza dough"
+        },
+        {
+            "instructions": "place dough on sheet .",
+            "input": "rolled out pizza dough",
+            "action": "place",
+            "output": "dough on a sheet"
+        },
+        {
+            "instructions": "brush dough with 1 tbsp olive_oil and 12 of the garlic_paste ;",
+            "input": "(dough on a sheet; olive_oil; garlic paste)",
+            "action": "brush",
+            "output": "uncooked pizza crust with olive oil and garlic paste"
+        },
+        {
+            "instructions": "sprinkle with pepper_flake .",
+            "input": "(uncooked pizza crust with olive oil and garlic paste; pepper flake)",
+            "action": "sprinkle",
+            "output": "pepper flake sprinkled on uncooked pizza crust with olive oil and garlic paste"
+        },
+        {
+            "instructions": "arrange potatoes on crust , overlapping .",
+            "input": "(browned potato rounds; uncooked pizza crust with olive oil, garlic paste and red pepper flake)",
+            "action": "arrange",
+            "output": "potatoes rounds on uncooked pizza crust with olive oil, garlic paste and red pepper flake"
+        },
+        {
+            "instructions": "brush remaining oil and garlic over potatoes ,",
+            "input": "(oil; garlic; uncooked pizza crust with olive oil, garlic paste, red pepper flake and potato rounds)",
+            "action": "brush",
+            "output": "oil and garlic brushed on uncooked pizza crust with olive oil, garlic paste, red pepper flake and potato rounds"
+        },
+        {
+            "instructions": "sprinkle with cheese .",
+            "input": "(cheese; uncooked pizza crust with olive oil, garlic paste, red pepper flake and potato rounds)",
+            "action": "sprinkle",
+            "output": "assembled potato pizza"
+        },
+        {
+            "instructions": "bake for 20 minutes or until pizza is deep golden brown .",
+            "input": "assembled potato pizza",
+            "action": "bake",
+            "output": "baked potato pizza"
+        },
+        {
+            "instructions": "remove from oven",
+            "input": "baked potato pizza",
+            "action": "remove",
+            "output": "baked potato pizza"
+        },
+        {
+            "instructions": "sprinkle with arugula or spinach .",
+            "input": "(arugula; baked potato pizza)",
+            "action": "sprinkle",
+            "output": "potato_and_arugula_pizza"
+        }
+    ],
+    "ingredients": [
+        {
+            "text": "1 pizza dough"
+        },
+        {
+            "text": "1 14 lbs potatoes"
+        },
+        {
+            "text": "4 tablespoons olive oil"
+        },
+        {
+            "text": "salt"
+        },
+        {
+            "text": "2 garlic cloves, peeled and mashed to a paste"
+        },
+        {
+            "text": "red pepper flakes, to taste"
+        },
+        {
+            "text": "2 tablespoons parmesan cheese"
+        },
+        {
+            "text": "12 cup arugula leaf, stemmed and cut into strips (can substitute spinach)"
+        }
+    ],
+    "recipe": [
+        {
+            "text": "Preheat oven to 350F."
+        },
+        {
+            "text": "Peel potatoes and slice into thin rounds."
+        },
+        {
+            "text": "Arrange slices on lightly oiled baking sheet; brush with 2 Tbsp olive oil."
+        },
+        {
+            "text": "Bake 10 minutes, or until lightly browned."
+        },
+        {
+            "text": "Transfer to platter, salt to taste."
+        },
+        {
+            "text": "Increase oven to 500."
+        },
+        {
+            "text": "Roll out pizza dough to 14 inch round, dust baking sheet with cornmeal, place dough on sheet."
+        },
+        {
+            "text": "Brush dough with 1 tbsp olive oil and 1/2 of the garlic paste; sprinkle with pepper flakes."
+        },
+        {
+            "text": "Arrange potatoes on crust, overlapping."
+        },
+        {
+            "text": "Brush remaining oil and garlic over potatoes, then sprinkle with cheese."
+        },
+        {
+            "text": "Bake for 20 minutes or until pizza is deep golden brown."
+        },
+        {
+            "text": "Remove from oven and sprinkle with arugula or spinach."
+        }
+    ]
+}

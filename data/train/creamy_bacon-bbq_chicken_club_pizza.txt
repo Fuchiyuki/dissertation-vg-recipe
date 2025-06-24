@@ -1,0 +1,73 @@
+{
+    "title": "creamy_bacon-bbq_chicken_club_pizza",
+    "id": "5c69195913",
+    "table": [
+        {
+            "instructions": "heat oven to 425 degrees f .",
+            "input": "NA",
+            "actions": "heat",
+            "output": "NA"
+        },
+        {
+            "instructions": "spread pizza_crust with dressing .",
+            "input": "(pizza_crust; dressing)",
+            "actions": "spread",
+            "output": "dressing_spread_over_pizza_crust"
+        },
+        {
+            "instructions": "top with 1 cup , cheese , tomatoes , bacon and chicken ;",
+            "input": "(cheese; tomatoes; bacon; chicken; pizza_crust)",
+            "actions": "top",
+            "output": "pizza_crust_topped_with_cheese, tomatoes, bacon and chicken"
+        },
+        {
+            "instructions": "sprinkle with remaining cheese .",
+            "input": "(pizza; remaining_cheese)",
+            "actions": "sprinkle",
+            "output": "remaining_cheese sprinkled over pizza"
+        },
+        {
+            "instructions": "bake 8 min .",
+            "input": "uncooked pizza",
+            "actions": "bake",
+            "output": "baked creamy_bacon-bbq_chicken_club_pizza"
+        }
+    ],
+    "ingredients": [
+        {
+            "text": "1 ready-to-use baked pizza crust (12 inch)"
+        },
+        {
+            "text": "1/4 cup MIRACLE WHIP Dressing"
+        },
+        {
+            "text": "1-1/2 cups KRAFT Shredded Colby & Monterey Jack Cheeses, divided"
+        },
+        {
+            "text": "1 tomato, chopped King Sooper's 1 lb For $0.99 thru 02/09"
+        },
+        {
+            "text": "6 slices OSCAR MAYER Fully Cooked Bacon, chopped"
+        },
+        {
+            "text": "16 slices OSCAR MAYER Deli Fresh Bold Barbecue Seasoned Chicken Breast, cut into strips"
+        }
+    ],
+    "recipe": [
+        {
+            "text": "Heat oven to 425 degrees F."
+        },
+        {
+            "text": "Spread pizza crust with dressing."
+        },
+        {
+            "text": "Top with 1 cup cheese, tomatoes, bacon and chicken; sprinkle with remaining cheese."
+        },
+        {
+            "text": "Bake 8 min."
+        },
+        {
+            "text": "or until cheese is melted."
+        }
+    ]
+}

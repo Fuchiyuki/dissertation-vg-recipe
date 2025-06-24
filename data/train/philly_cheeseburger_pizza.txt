@@ -1,0 +1,178 @@
+{
+    "title": "philly_cheeseburger_pizza",
+    "id": "500e705b26",
+    "table": [
+        {
+            "instructions": "preheat oven to 425 degrees or according to directions on your pizza_dough package",
+            "input": "NA",
+            "action": "preheat",
+            "output": "NA"
+        },
+        {
+            "instructions": "brown the ground_beef",
+            "input": "ground beef",
+            "action": "brown",
+            "output": "browned ground beef"
+        },
+        {
+            "instructions": "then drain",
+            "input": "browned ground beef",
+            "action": "drain",
+            "output": "browned ground beef without excess fat"
+        },
+        {
+            "instructions": "set aside .",
+            "input": "browned ground beef without excess fat",
+            "action": "set",
+            "output": "browned ground beef without excess fat"
+        },
+        {
+            "instructions": "while beef is cooking , chop the peppers",
+            "input": "peppers",
+            "action": "chop",
+            "output": "chopped peppers"
+        },
+        {
+            "instructions": "thinly slice the mushrooms and onions .",
+            "input": "(mushrooms; onions)",
+            "action": "slice",
+            "output": "sliced mushrooms and onions"
+        },
+        {
+            "instructions": "roll out pizza_dough",
+            "input": "pizza dough",
+            "action": "roll",
+            "output": "rolled out pizza dough"
+        },
+        {
+            "instructions": "place on cookie sheet .",
+            "input": "pizza dough",
+            "action": "place",
+            "output": "pizza dough on cookie sheet"
+        },
+        {
+            "instructions": "spread sauce on dough as much or little as you like",
+            "input": "(pizza dough; sauce)",
+            "action": "spread",
+            "output": "pizza dough with sauce"
+        },
+        {
+            "instructions": "i use about 34 of a cup",
+            "input": "NA",
+            "action": "use",
+            "output": "NA"
+        },
+        {
+            "instructions": "sprinkle mozzarella_cheese on top .",
+            "input": "(mozzarella; pizza dough with sauce)",
+            "action": "sprinkle",
+            "output": "pizza dough with sauce and mozzarella cheese"
+        },
+        {
+            "instructions": "saute the veggies",
+            "input": "(sliced mushrooms and onions; chopped peppers)",
+            "action": "saute",
+            "output": "sauteed vegetables"
+        },
+        {
+            "instructions": "add the beef and then veggies to the pizza .",
+            "input": "(browned ground beef without excess fat; sauteed vegetables; pizza dough with sauce and mozzarella cheese)",
+            "action": "add",
+            "output": "pizza dough with sauce, mozzarella cheese, ground beef, and sauteed vegetables"
+        },
+        {
+            "instructions": "sprinkle with adobo or garlic_salt ,",
+            "input": "(adobo; garlic salt; pizza dough with sauce, mozzarella cheese, ground beef, and sauteed vegetables)",
+            "action": "sprinkle",
+            "output": "pizza dough with sauce, mozzarella, ground beef and sauteed vegetables sprinkled with adobo and garlic salt"
+        },
+        {
+            "instructions": "lay american_cheese_slice on top of pizza .",
+            "input": "(american cheese slices; pizza dough with sauce, mozzarella, ground beef and sauteed vegetables sprinkled with adobo and garlic salt)",
+            "action": "lay",
+            "output": "pizza dough with sauce, mozzarella, ground beef and sauteed vegetables sprinkled with adobo and garlic salt and topped with american cheese slices"
+        },
+        {
+            "instructions": "cook pizza for 15 17 minutes",
+            "input": "uncooked philly_cheeseburger_pizza",
+            "action": "cook",
+            "output": "baked philly_cheeseburger_pizza"
+        }
+    ],
+    "ingredients": [
+        {
+            "text": "3/4 pounds Ground Beef"
+        },
+        {
+            "text": "1/2 whole Green Bell Pepper"
+        },
+        {
+            "text": "8 whole White Button Mushrooms"
+        },
+        {
+            "text": "1/2 whole Yellow Onion"
+        },
+        {
+            "text": "1 package Pizza Dough"
+        },
+        {
+            "text": "1 cup Pizza Sauce Or Marinara Sauce"
+        },
+        {
+            "text": "1/2 cups Shredded Mozzarella Cheese"
+        },
+        {
+            "text": "1 teaspoon Garlic Salt Or Adobo Seasoning"
+        },
+        {
+            "text": "8 slices American Cheese"
+        }
+    ],
+    "recipe": [
+        {
+            "text": "1."
+        },
+        {
+            "text": "Preheat oven to 425 degrees (or according to directions on your pizza dough package) 2."
+        },
+        {
+            "text": "Brown the ground beef and then drain and set aside."
+        },
+        {
+            "text": "3."
+        },
+        {
+            "text": "While beef is cooking, chop the peppers and thinly slice the mushrooms and onions."
+        },
+        {
+            "text": "4."
+        },
+        {
+            "text": "Roll out pizza dough and place on cookie sheet."
+        },
+        {
+            "text": "5."
+        },
+        {
+            "text": "Spread sauce on dough (as much or little as you like, I use about 3/4 of a cup) then sprinkle mozzarella cheese on top."
+        },
+        {
+            "text": "6."
+        },
+        {
+            "text": "Saute the veggies and add the beef and then veggies to the pizza."
+        },
+        {
+            "text": "7."
+        },
+        {
+            "text": "Sprinkle with Adobo or garlic salt, then lay American cheese slices on top of pizza."
+        },
+        {
+            "text": "8."
+        },
+        {
+            "text": "Cook pizza for 15-17 minutes and enjoy!"
+        }
+    ]
+}

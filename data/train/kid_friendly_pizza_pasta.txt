@@ -1,0 +1,109 @@
+{
+    "title": "kid_friendly_pizza_pasta",
+    "id": "f05cc4c40c",
+    "table": [
+        {
+            "instructions": "boil noodles according to package directions .",
+            "input": "noodles",
+            "actions": "boil",
+            "output": "boiled_noodles"
+        },
+        {
+            "instructions": "drain .",
+            "input": "boiled_noodles",
+            "actions": "drain",
+            "output": "cooked_pasta"
+        },
+        {
+            "instructions": "rinse pasta to get rid of starch .",
+            "input": "cooked_pasta",
+            "actions": "rinse",
+            "output": "rinsed_pasta"
+        },
+        {
+            "instructions": "place pasta in small bowl",
+            "input": "rinsed_pasta",
+            "actions": "place",
+            "output": "rinsed_pasta"
+        },
+        {
+            "instructions": "add pizza_sauce",
+            "input": "(rinsed_pasta; pizza_sauce)",
+            "actions": "add",
+            "output": "pasta_with_pizza_sauce"
+        },
+        {
+            "instructions": "stir to mix .",
+            "input": "pasta_with_pizza_sauce",
+            "actions": "stir",
+            "output": "pasta_with_stirred_pizza_sauce"
+        },
+        {
+            "instructions": "place in microwave for 30 sec .",
+            "input": "pasta_with_stirred_pizza_sauce",
+            "actions": "place",
+            "output": "heated_pasta_with_sauce"
+        },
+        {
+            "instructions": "to heat sauce and pasta .",
+            "input": "NA",
+            "actions": "heat",
+            "output": "NA"
+        },
+        {
+            "instructions": "adjust time accordingly .",
+            "input": "NA",
+            "actions": "adjust",
+            "output": "NA"
+        },
+        {
+            "instructions": "top with cheese .",
+            "input": "(cheese; pasta_with_pizza_sauce)",
+            "actions": "top",
+            "output": "pasta_with_pizza_sauce_topped with cheese"
+        }
+    ],
+    "ingredients": [
+        {
+            "text": "14 cup alphabet pasta"
+        },
+        {
+            "text": "1 -2 tablespoon pizza sauce"
+        },
+        {
+            "text": "1 tablespoon mozzarella cheese"
+        }
+    ],
+    "recipe": [
+        {
+            "text": "Boil noodles according to package directions."
+        },
+        {
+            "text": "Drain."
+        },
+        {
+            "text": "Rinse pasta to get rid of starch."
+        },
+        {
+            "text": "Place pasta in small bowl, add pizza sauce, stir to mix."
+        },
+        {
+            "text": "Place in microwave for 30 sec."
+        },
+        {
+            "text": "to heat sauce and pasta."
+        },
+        {
+            "text": "Every microwave is different so adjust time accordingly."
+        },
+        {
+            "text": "Top with cheese."
+        },
+        {
+            "text": "My little guy loves this."
+        },
+        {
+            "text": "Save leftover pasta if there is any for another meal."
+        }
+    ]
+}

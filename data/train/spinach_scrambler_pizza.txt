@@ -1,0 +1,178 @@
+{
+    "title": "spinach_scrambler_pizza",
+    "id": "3a22920a2a",
+    "table": [
+        {
+            "instructions": "melt butter together with garlic and pepper .",
+            "input": "(butter; pepper)",
+            "actions": "melt",
+            "output": "(melted_butter; pepper)"
+        },
+        {
+            "instructions": "brush on pita",
+            "input": "(pita; butter_mixture)",
+            "actions": "brush",
+            "output": "brushed_pita_with_butter_mixture"
+        },
+        {
+            "instructions": "lightly grill or broil for a few minutes until a little crisp .",
+            "input": "brushed_pita_with_butter_mixture",
+            "actions": "grill",
+            "output": "grilled_pita"
+        },
+        {
+            "instructions": "spread cooled pita with cream_cheese and then pesto .",
+            "input": "(cooled_pita; cream_cheese; pesto)",
+            "actions": "spread",
+            "output": "cooled_pita_spreaded_with_cream_cheese_and_pesto"
+        },
+        {
+            "instructions": "set aside .",
+            "input": "cooled_pita_spreaded_with_cream_cheese_and_pesto",
+            "actions": "set",
+            "output": "cooled_pita_spreaded_with_cream_cheese_and_pesto"
+        },
+        {
+            "instructions": "in a skillet , saute oil with spinach and red_pepper until spinach is just wilted .",
+            "input": "(oil; spinach; red_pepper)",
+            "actions": "saute",
+            "output": "sauted mix of spinach and red_pepper"
+        },
+        {
+            "instructions": "add bacon and eggs .",
+            "input": "(sauted mix of spinach and red_pepper; bacon; eggs)",
+            "actions": "add",
+            "output": "sauted mix of spinach, red_pepper, bacon and eggs"
+        },
+        {
+            "instructions": "season with salt and pepper .",
+            "input": "sauted_mix",
+            "actions": "season",
+            "output": "seasoned_sauted_mix_with_salt and pepper"
+        },
+        {
+            "instructions": "lightly cook eggs .",
+            "input": "seasoned_sauteed_mixture",
+            "actions": "cook",
+            "output": "cooked_mixture"
+        },
+        {
+            "instructions": "do n't over cook .",
+            "input": "NA",
+            "actions": "cook",
+            "output": "NA"
+        },
+        {
+            "instructions": "leave a little soft and runny .",
+            "input": "NA",
+            "actions": "leave",
+            "output": "NA"
+        },
+        {
+            "instructions": "spoon egg mixture on top of pita .",
+            "input": "(sauteed_egg_mixture; cooled_pita)",
+            "actions": "spoon",
+            "output": "cooled_pita_topped_with_egg_mixture"
+        },
+        {
+            "instructions": "top with fresh mozzarella_cheese .",
+            "input": "(cooled_pita_topped_with_egg_mixture; fresh_mozzarella_cheese)",
+            "actions": "top",
+            "output": "pita_topped_with_egg_mixture_and fresh mozzarella_cheese"
+        },
+        {
+            "instructions": "bake in a preheated 350 degree oven for 5 10 minutes until eggs are set .",
+            "input": "pita_topped_with_egg_mixture_and fresh mozzarella_cheese",
+            "actions": "bake",
+            "output": "scrambled_egg_spinach_pizza"
+        }
+    ],
+    "ingredients": [
+        {
+            "text": "1 large pita bread"
+        },
+        {
+            "text": "1 tablespoon butter, melted"
+        },
+        {
+            "text": "14 teaspoon fresh garlic, minced"
+        },
+        {
+            "text": "14 teaspoon black pepper"
+        },
+        {
+            "text": "1 tablespoon olive oil"
+        },
+        {
+            "text": "14 cup roasted red pepper, diced"
+        },
+        {
+            "text": "2 cups fresh spinach"
+        },
+        {
+            "text": "4 eggs, beaten"
+        },
+        {
+            "text": "2 slices bacon, cooked and crumbled"
+        },
+        {
+            "text": "2 ounces cream cheese, softened"
+        },
+        {
+            "text": "1 tablespoon pesto sauce"
+        },
+        {
+            "text": "12 cup fresh mozzarella cheese, diced"
+        },
+        {
+            "text": "12 cup parmesan cheese, shredded"
+        },
+        {
+            "text": "1 tablespoon pine nuts"
+        }
+    ],
+    "recipe": [
+        {
+            "text": "Melt butter together with garlic and pepper."
+        },
+        {
+            "text": "Brush on pita and lightly grill or broil for a few minutes until a little crisp."
+        },
+        {
+            "text": "Spread cooled pita with cream cheese and then pesto."
+        },
+        {
+            "text": "Set aside."
+        },
+        {
+            "text": "In a skillet, saute oil with spinach and red pepper until spinach is just wilted."
+        },
+        {
+            "text": "Add bacon and eggs."
+        },
+        {
+            "text": "Season with salt and pepper."
+        },
+        {
+            "text": "Lightly cook eggs."
+        },
+        {
+            "text": "Don't over cook."
+        },
+        {
+            "text": "Leave a little soft and runny."
+        },
+        {
+            "text": "Spoon egg mixture on top of pita."
+        },
+        {
+            "text": "Top with fresh mozzarella cheese."
+        },
+        {
+            "text": "Bake in a preheated 350 degree oven for 5-10 minutes until eggs are set."
+        },
+        {
+            "text": "Before serving, top with parmesan and pinenuts."
+        }
+    ]
+}

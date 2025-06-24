@@ -1,0 +1,97 @@
+{
+    "title": "easy_hummus_pizza",
+    "id": "e0018afaa9",
+    "table": [
+        {
+            "instructions": "preheat the oven to 475 degrees c 220 degrees c.",
+            "input": "NA",
+            "actions": "preheat",
+            "output": "NA"
+        },
+        {
+            "instructions": "roll out pizza_crust",
+            "input": "pizza_crust",
+            "actions": "roll",
+            "output": "rolled_pizza_crust"
+        },
+        {
+            "instructions": "place on a pizza\u2012pan or baking sheet .",
+            "input": "rolled_pizza_crust",
+            "actions": "place",
+            "output": "rolled_pizza_crust"
+        },
+        {
+            "instructions": "spread a thin layer of hummus over the crust .",
+            "input": "(rolled_pizza_crust; hummus)",
+            "actions": "spread",
+            "output": "hummus spread on pizza crust "
+        },
+        {
+            "instructions": "arrange sliced peppers and broccoli over the hummus ,",
+            "input": "(sliced pepper;  broccoli; hummus pizza)",
+            "actions": "arrange",
+            "output": "pizza with hummus, broccoli and sliced peppers"
+        },
+        {
+            "instructions": "top with shredded_cheese .",
+            "input": "(shredded cheese; pizza with hummus, broccoli and sliced peppers)",
+            "actions": "top",
+            "output": "hummus and vegetables pizza topped with shredded cheese"
+        },
+        {
+            "instructions": "bake for 10 to 15 minutes in the preheated oven , until the crust is golden brown and cheese is melted in the center .",
+            "input": "uncooked hummus pizza",
+            "actions": "bake",
+            "output": "baked hummus pizza"
+        },
+        {
+            "instructions": "slice",
+            "input": "baked hummus pizza",
+            "actions": "slice",
+            "output": "sliced hummus pizza"
+        },
+        {
+            "instructions": "serve .",
+            "input": "hummus pizza",
+            "actions": "serve",
+            "output": "hummus pizza"
+        }
+    ],
+    "ingredients": [
+        {
+            "text": "10 ounces Pillsbury refrigerated classic pizza crust (1 can)"
+        },
+        {
+            "text": "1 cup hummus"
+        },
+        {
+            "text": "1 12 cups bell peppers, sliced (any color)"
+        },
+        {
+            "text": "1 cup broccoli floret"
+        },
+        {
+            "text": "2 cups monterey jack cheese, shredded"
+        }
+    ],
+    "recipe": [
+        {
+            "text": "Preheat the oven to 475 degrees C (220 degrees C)."
+        },
+        {
+            "text": "Roll out pizza crust and place on a pizza pan or baking sheet."
+        },
+        {
+            "text": "Spread a thin layer of hummus over the crust."
+        },
+        {
+            "text": "Arrange sliced peppers and broccoli over the hummus, and top with shredded cheese."
+        },
+        {
+            "text": "Bake for 10 to 15 minutes in the preheated oven, until the crust is golden brown and cheese is melted in the center."
+        },
+        {
+            "text": "Slice and serve."
+        }
+    ]
+}

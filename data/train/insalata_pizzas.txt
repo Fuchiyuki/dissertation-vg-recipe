@@ -1,0 +1,151 @@
+{
+    "title": "insalata_pizzas",
+    "id": "652dfa6a91",
+    "table": [
+        {
+            "instructions": "preheat oven to 47",
+            "input": "NA",
+            "actions": "preheat",
+            "output": "NA"
+        },
+        {
+            "instructions": "place pitas on a baking sheet .",
+            "input": "pitas",
+            "actions": "place",
+            "output": "pitas"
+        },
+        {
+            "instructions": "spread 12 teaspoon , garlic on each pita .",
+            "input": "(pita; garlic)",
+            "actions": "spread",
+            "output": "garlic spread on pitas"
+        },
+        {
+            "instructions": "sprinkle each pita with 14 cup , cheese ,",
+            "input": "(cheese; garlic spread on pitas)",
+            "actions": "sprinkle",
+            "output": "garlic spread on pitas with sprinkled cheese"
+        },
+        {
+            "instructions": "divide onion evenly among pitas .",
+            "input": "(pitas_with_toppings; onion)",
+            "actions": "divide",
+            "output": "pitas_topped with onion"
+        },
+        {
+            "instructions": "bake at 475 for 8 minutes or until edges are lightly browned and cheese is bubbly .",
+            "input": "unbaked pitas",
+            "actions": "bake",
+            "output": "baked pitas"
+        },
+        {
+            "instructions": "combine vinegar , oil , and pepper in a large bowl , stirring with a whisk .",
+            "input": "(vinegar; oil; pepper)",
+            "actions": "combine",
+            "output": "vinaigrette"
+        },
+        {
+            "instructions": "stir in tomatoes , olives , and basil .",
+            "input": "(vinaigrette; tomaotes: olives; basil)",
+            "actions": "stir",
+            "output": "tomatoes , olives and basil sirred in vinaigrette"
+        },
+        {
+            "instructions": "add salad_green ,",
+            "input": "(salad_green; tomatoes , olives and basil sirred in vinaigrette)",
+            "actions": "add",
+            "output": "dressed_salad"
+        },
+        {
+            "instructions": "toss gently to coat .",
+            "input": "dressed_salad",
+            "actions": "toss",
+            "output": "coted salad"
+        },
+        {
+            "instructions": "place 1 pita on each of 4 plates ;",
+            "input": "baked pitas",
+            "actions": "place",
+            "output": "baked pitas"
+        },
+        {
+            "instructions": "top each pita with about 1 cup , salad .",
+            "input": "(baked_pitas; coated_salad)",
+            "actions": "top",
+            "output": "baked pitas topped with coated salad"
+        },
+        {
+            "instructions": "serve immediately .",
+            "input": "baked pitas topped with coated salad",
+            "actions": "serve",
+            "output": "insalata_pizzas"
+        }
+    ],
+    "ingredients": [
+        {
+            "text": "0.4 (7 inch) pita bread"
+        },
+        {
+            "text": "2 teaspoons garlic, bottled minced"
+        },
+        {
+            "text": "1 cup mozzarella cheese, part-skim preshredded"
+        },
+        {
+            "text": "12 cup vidalia onions or 12 cup other sweet onion, thinly sliced"
+        },
+        {
+            "text": "1 tablespoon cider vinegar"
+        },
+        {
+            "text": "2 teaspoons extra virgin olive oil"
+        },
+        {
+            "text": "14 teaspoon crushed red pepper flakes"
+        },
+        {
+            "text": "1 cup grape tomatoes, quartered"
+        },
+        {
+            "text": "14 cup kalamata olive, pitted coarsely chopped"
+        },
+        {
+            "text": "2 tablespoons basil leaves, chopped"
+        },
+        {
+            "text": "4 cups gourmet salad greens"
+        }
+    ],
+    "recipe": [
+        {
+            "text": "Preheat oven to 475."
+        },
+        {
+            "text": "Place pitas on a baking sheet."
+        },
+        {
+            "text": "Spread 1/2 teaspoon garlic on each pita."
+        },
+        {
+            "text": "Sprinkle each pita with 1/4 cup cheese, and divide onion evenly among pitas."
+        },
+        {
+            "text": "Bake at 475 for 8 minutes or until edges are lightly browned and cheese is bubbly."
+        },
+        {
+            "text": "While pitas bake, combine vinegar, oil, and pepper in a large bowl, stirring with a whisk."
+        },
+        {
+            "text": "Stir in tomatoes, olives, and basil."
+        },
+        {
+            "text": "Add salad greens, and toss gently to coat."
+        },
+        {
+            "text": "Place 1 pita on each of 4 plates; top each pita with about 1 cup salad."
+        },
+        {
+            "text": "Serve immediately."
+        }
+    ]
+}

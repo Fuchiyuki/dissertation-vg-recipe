@@ -1,0 +1,130 @@
+{
+    "title": "clare_'s_quick_pepperoni_pizza_mac",
+    "id": "b2aa1f0c9a",
+    "table": [
+        {
+            "instructions": "in a non stick pot , cook macaroni according to package directions .",
+            "input": "macaroni",
+            "action": "cook",
+            "output": "cooked_macaroni"
+        },
+        {
+            "instructions": "drain .",
+            "input": "macaroni",
+            "action": "drain",
+            "output": "drained macaroni"
+        },
+        {
+            "instructions": "spray the pot with some cooking_spray .",
+            "input": "NA",
+            "action": "spray",
+            "output": "NA"
+        },
+        {
+            "instructions": "add green_pepper , tomato , and pepperoni .",
+            "input": "(green_pepper; tomato; pepperoni)",
+            "action": "add",
+            "output": "vegetable and meat filling"
+        },
+        {
+            "instructions": "cook",
+            "input": "vegetable and meat filling",
+            "action": "cook",
+            "output": "cooked vegetable and meat sauce"
+        },
+        {
+            "instructions": "stir for a few minutes .",
+            "input": "cooked vegetable and meat sauce",
+            "action": "stir",
+            "output": "cooked vegetable and meat sauce"
+        },
+        {
+            "instructions": "add macaroni and sauce",
+            "input": "(drained macaroni; cooked vegetable and meat sauce)",
+            "action": "add",
+            "output": "macaroni with cooked vegetable and meat sauce"
+        },
+        {
+            "instructions": "heat through .",
+            "input": "macaroni with cooked vegetable and meat sauce",
+            "action": "heat",
+            "output": "warmed macaroni with cooked vegetable and meat sauce"
+        },
+        {
+            "instructions": "add cheese",
+            "input": "(cheese; warmed macaroni with cooked vegetable and meat sauce)",
+            "action": "add",
+            "output": "pepperoni macaroni and cheese"
+        },
+        {
+            "instructions": "stir until melted",
+            "input": "pepperoni macaroni and cheese",
+            "action": "stir",
+            "output": "pepperoni macaroni and cheese"
+        },
+        {
+            "instructions": "top with parmesan or red_pepper_flake to taste !",
+            "input": "(parmesan; red_pepper_flake; pepperoni macaroni and cheese)",
+            "action": "top",
+            "output": "garnished pepperoni macaroni and cheese with parmesan and red pepper flake"
+        }
+    ],
+    "ingredients": [
+        {
+            "text": "14 cup elbow macaroni"
+        },
+        {
+            "text": "12 small green pepper, chopped"
+        },
+        {
+            "text": "1 small tomatoes, chopped"
+        },
+        {
+            "text": "12 cup prepared pasta sauce or 12 cup pizza sauce"
+        },
+        {
+            "text": "12-34 cup shredded cheese (use a good melt-able blend)"
+        },
+        {
+            "text": "15 slices turkey pepperoni, chopped in half"
+        },
+        {
+            "text": "parmesan cheese (optional)"
+        },
+        {
+            "text": "red pepper flakes (optional)"
+        }
+    ],
+    "recipe": [
+        {
+            "text": "In a non-stick pot, cook macaroni according to package directions."
+        },
+        {
+            "text": "Drain."
+        },
+        {
+            "text": "Spray the pot with some cooking spray."
+        },
+        {
+            "text": "Add green pepper, tomato, and pepperoni."
+        },
+        {
+            "text": "Cook and stir for a few minutes."
+        },
+        {
+            "text": "Add macaroni and sauce and heat through."
+        },
+        {
+            "text": "(You may want to add more sauce depending on your taste."
+        },
+        {
+            "text": ")."
+        },
+        {
+            "text": "Add cheese and stir until melted, mixed, and heated through."
+        },
+        {
+            "text": "Top with parmesan or red pepper flakes to taste!"
+        }
+    ]
+}

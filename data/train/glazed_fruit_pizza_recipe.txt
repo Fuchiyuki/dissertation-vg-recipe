@@ -1,0 +1,94 @@
+{
+    "title": "glazed_fruit_pizza_recipe",
+    "id": "3940792f3e",
+    "table": [
+        {
+            "instructions": "open crescent_roll",
+            "input": "crescent_roll",
+            "action": "open",
+            "output": "opened_crescent_roll"
+        },
+        {
+            "instructions": "shape into a circle like a pizza .",
+            "input": "opened_crescent_roll",
+            "action": "shape",
+            "output": "opened_crescent_roll shaped as pizza"
+        },
+        {
+            "instructions": "place on a cookie sheet or pizza\u2012pan .",
+            "input": "opened_crescent_roll shaped as pizza",
+            "action": "place",
+            "output": "uncooked crescent roll pizza crust"
+        },
+        {
+            "instructions": "bake as directed on package .",
+            "input": "uncooked crescent roll pizza crust",
+            "action": "bake",
+            "output": "baked crescent roll pizza crust"
+        },
+        {
+            "instructions": "when done and cold , spread with softened cream_cheese .",
+            "input": "(softened cream cheese; baked crescent roll pizza crust)",
+            "action": "spread",
+            "output": "baked crescent roll pizza crust with softened cream_cheese"
+        },
+        {
+            "instructions": "now arrange fruit around top making a circle design , alternating different fruits with each row or circle .",
+            "input": "(fruit; baked crescent roll pizza crust with softened cream_cheese)",
+            "action": "arrange",
+            "output": "baked crescent roll pizza crust with softened cream_cheese and arranged fruit"
+        },
+        {
+            "instructions": "make a glaze with the left over juice and about 1 tsp cornstarch cooking until thickened..",
+            "input": "(juice; cornstarch)",
+            "action": "make",
+            "output": "glaze"
+        },
+        {
+            "instructions": "glaze top of fruit and when set serve like you would pizza .",
+            "input": "(baked crescent roll pizza crust with softened cream_cheese and arranged fruit; glaze)",
+            "action": "glaze",
+            "output": "glazed_fruit_pizza"
+        }
+    ],
+    "ingredients": [
+        {
+            "text": "1 can crescent rolls"
+        },
+        {
+            "text": "1 (8 ounce.) softened cream cheese"
+        },
+        {
+            "text": "1 can Dole Tropical fruit salad or 1 can fruit cocktail or you can use combinations of fresh fruits - bananas, pineapple, strawberries, etc."
+        }
+    ],
+    "recipe": [
+        {
+            "text": "Save juice from fruit for glaze."
+        },
+        {
+            "text": "Open crescent rolls and shape into a circle like a pizza."
+        },
+        {
+            "text": "Place on a cookie sheet or pizza pan."
+        },
+        {
+            "text": "Bake as directed on package."
+        },
+        {
+            "text": "When done and cold, spread with softened cream cheese."
+        },
+        {
+            "text": "Now arrange fruit around top making a circle design, alternating different fruits with each row or circle."
+        },
+        {
+            "text": "Make a glaze with the left over juice and about 1 tsp."
+        },
+        {
+            "text": "cornstarch cooking until thickened."
+        },
+        {
+            "text": "Glaze top of fruit and when set serve like you would pizza."
+        }
+    ]
+}

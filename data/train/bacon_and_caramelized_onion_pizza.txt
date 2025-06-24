@@ -1,0 +1,172 @@
+{
+    "title": "bacon_and_caramelized_onion_pizza",
+    "id": "72e54e0d98",
+    "table": [
+        {
+            "instructions": "cook",
+            "input": "NA",
+            "actions": "cook",
+            "output": "NA"
+        },
+        {
+            "instructions": "stir bacon in large skillet on medium heat until crisp .",
+            "input": "bacon",
+            "actions": "stir",
+            "output": "crisp bacon"
+        },
+        {
+            "instructions": "remove bacon from skillet with slotted spoon , reserving drippings in skillet ;",
+            "input": "cooked crisp bacon",
+            "actions": "remove",
+            "output": "cooked crisp bacon"
+        },
+        {
+            "instructions": "drain bacon on paper towels .",
+            "input": "cooked crisp bacon",
+            "actions": "drain",
+            "output": "drained cooked bacon"
+        },
+        {
+            "instructions": "add onions to skillet ;",
+            "input": "onions",
+            "actions": "add",
+            "output": "onions added to skillet"
+        },
+        {
+            "instructions": "cook 8 min .",
+            "input": "onions added to skillet",
+            "actions": "cook",
+            "output": "cooking onions"
+        },
+        {
+            "instructions": "stir in beer and garlic ;",
+            "input": "(beer; cooking onions; garlic)",
+            "actions": "stir",
+            "output": "stirred beer and garlic in cooking onions"
+        },
+        {
+            "instructions": "cook on high heat 5 min .",
+            "input": "beer garlic and cooking onions",
+            "actions": "cook",
+            "output": "cooking onion mixture"
+        },
+        {
+            "instructions": "add sugar , pepper and thyme ;",
+            "input": "(sugar; pepper; thyme; cooking onion mixture)",
+            "actions": "add",
+            "output": "sugar, pepper and thyme added to cooking onion mixture"
+        },
+        {
+            "instructions": "mix well .",
+            "input": "cooking onion mixture",
+            "actions": "mix",
+            "output": "cooking onion mixture"
+        },
+        {
+            "instructions": "remove from heat ;",
+            "input": "cooking onion mixture",
+            "actions": "remove",
+            "output": "caramelized onion mixture"
+        },
+        {
+            "instructions": "heat oven to 400 degrees f",
+            "input": "NA",
+            "actions": "heat",
+            "output": "NA"
+        },
+        {
+            "instructions": "spread pizza_crust with mustard ;",
+            "input": "(pizza_crust; mustard)",
+            "actions": "spread",
+            "output": "mustard spread on pizza_crust"
+        },
+        {
+            "instructions": "place on baking sheet .",
+            "input": "pizza_crust with mustard",
+            "actions": "place",
+            "output": "pizza_crust with mustard"
+        },
+        {
+            "instructions": "top with onions , cheese and bacon .",
+            "input": "(pizza_crust with mustard; caramelized onion mixture; cheese; bacon)",
+            "actions": "top",
+            "output": "pizza_crust with mustard topped with caramelized onion mixture, cheese and bacon"
+        },
+        {
+            "instructions": "bake 10 min .",
+            "input": "uncooked bacon and caramelized onion pizza",
+            "actions": "bake",
+            "output": "baked bacon and caramelized onion pizza"
+        }
+    ],
+    "ingredients": [
+        {
+            "text": "4 slices OSCAR MAYER Super Thick Cut Applewood Smoked Bacon, cut into 1/2-inch-wide slices"
+        },
+        {
+            "text": "1 onion, sliced King Sooper's 1 lb For $0.99 thru 02/09"
+        },
+        {
+            "text": "1/4 cup dark stout beer"
+        },
+        {
+            "text": "1 clove garlic, minced"
+        },
+        {
+            "text": "1 Tbsp. brown sugar"
+        },
+        {
+            "text": "1/2 tsp. coarse ground black pepper"
+        },
+        {
+            "text": "1/4 tsp. dried thyme leaves"
+        },
+        {
+            "text": "1 ready-to-use baked pizza crust (12 inch)"
+        },
+        {
+            "text": "1 tsp. GREY POUPON Dijon Mustard"
+        },
+        {
+            "text": "1 pkg. (8 oz.) CRACKER BARREL Shredded Vermont Sharp White Cheddar Cheese"
+        }
+    ],
+    "recipe": [
+        {
+            "text": "Cook and stir bacon in large skillet on medium heat until crisp."
+        },
+        {
+            "text": "Remove bacon from skillet with slotted spoon, reserving drippings in skillet; drain bacon on paper towels."
+        },
+        {
+            "text": "Add onions to skillet; cook 8 min."
+        },
+        {
+            "text": "or until crisp-tender, stirring occasionally."
+        },
+        {
+            "text": "Stir in beer and garlic; cook on high heat 5 min."
+        },
+        {
+            "text": "or until thickened, stirring frequently."
+        },
+        {
+            "text": "Add sugar, pepper and thyme; mix well."
+        },
+        {
+            "text": "Remove from heat; cool."
+        },
+        {
+            "text": "Heat oven to 400 degrees F. Spread pizza crust with mustard; place on baking sheet."
+        },
+        {
+            "text": "Top with onions, cheese and bacon."
+        },
+        {
+            "text": "Bake 10 min."
+        },
+        {
+            "text": "or until pizza is heated through and cheese is melted."
+        }
+    ]
+}

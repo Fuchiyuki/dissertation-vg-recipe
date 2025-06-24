@@ -1,0 +1,100 @@
+{
+    "title": "hummus_veggie_pizza",
+    "id": "e770aa884d",
+    "table": [
+        {
+            "instructions": "preheat oven to 425 degrees f .",
+            "input": "NA",
+            "action": "preheat",
+            "output": "NA"
+        },
+        {
+            "instructions": "in a medium bowl , mix together hummus and 12 cup , ricotta_cheese until well combined .",
+            "input": "(hummus; ricotta_cheese)",
+            "action": "mix",
+            "output": "(mixed_hummus; ricotta_cheese)"
+        },
+        {
+            "instructions": "spread evenly over pizza_dough",
+            "input": "Pizza dough",
+            "action": "spread",
+            "output": "Pizza dough topped with hummus and ricotta mixture"
+        },
+        {
+            "instructions": "add broccoli_floret , corn , zucchini , and red onion .",
+            "input": "Broccoli florets, Corn, Zucchini, Red onion",
+            "action": "add",
+            "output": "Pizza topped with vegetables added"
+        },
+        {
+            "instructions": "drop remaining ricotta_cheese over pizza .",
+            "input": "Remaining ricotta cheese",
+            "action": "drop",
+            "output": "Pizza with remaining ricotta cheese dropped on top"
+        },
+        {
+            "instructions": "bake for about 20 minutes , or until pizza appears done .",
+            "input": "NA",
+            "action": "bake",
+            "output": "Baked pizza until it appears done"
+        },
+        {
+            "instructions": "slice",
+            "input": "Baked pizza",
+            "action": "slice",
+            "output": "Sliced pizza"
+        }
+    ],
+    "ingredients": [
+        {
+            "text": "1 cup Hummus"
+        },
+        {
+            "text": "1 cup Ricotta Cheese, Divided"
+        },
+        {
+            "text": "Your Favorite Pizza Dough (homemade Or Store-bought)"
+        },
+        {
+            "text": "1 cup Broccoli Florets"
+        },
+        {
+            "text": "1/2 cups Yellow Corn"
+        },
+        {
+            "text": "1/2 cups Zucchini, Diced"
+        },
+        {
+            "text": "1/2 Medium Red Onion, Thinly Sliced"
+        },
+        {
+            "text": "Salt And Pepper, to taste"
+        }
+    ],
+    "recipe": [
+        {
+            "text": "Preheat oven to 425 degrees F."
+        },
+        {
+            "text": "In a medium bowl, mix together hummus and 1/2 cup ricotta cheese until well combined."
+        },
+        {
+            "text": "Spread evenly over pizza dough and add broccoli florets, corn, zucchini, and red onion."
+        },
+        {
+            "text": "Give it a few grinds of salt and pepper."
+        },
+        {
+            "text": "Drop remaining ricotta cheese over pizza."
+        },
+        {
+            "text": "Transfer pizza to oven (I baked mine on a pizza stone) and bake for about 20 minutes, or until pizza appears done."
+        },
+        {
+            "text": "Let cool a bit and slice and eat."
+        },
+        {
+            "text": "Recipe adapted from Poppytalk."
+        }
+    ]
+}

@@ -1,0 +1,178 @@
+{
+    "title": "quick-as-a-wink_pizza",
+    "id": "8ac312dd66",
+    "table": [
+        {
+            "instructions": "preheat your oven to 475 degrees f .",
+            "input": "NA",
+            "actions": "preheat",
+            "output": "NA"
+        },
+        {
+            "instructions": "cut your french_bread in half horizontally .",
+            "input": "french_bread",
+            "actions": "cut",
+            "output": "cut_french_bread"
+        },
+        {
+            "instructions": "then cut the halves into three pieces .",
+            "input": "french_bread",
+            "actions": "cut",
+            "output": "cut_french_bread"
+        },
+        {
+            "instructions": "spread a pretty thick layer of the marbled jack_cheese over the bread .",
+            "input": "(jack_cheese; cut_french_bread)",
+            "actions": "spread",
+            "output": "jack_cheese_spread_on_french_bread"
+        },
+        {
+            "instructions": "thinly slice the tomatoes , bell_pepper , and onions",
+            "input": "(tomatoes; bell_pepper; onions)",
+            "actions": "slice",
+            "output": "sliced_tomatoes, bell_pepper and onions"
+        },
+        {
+            "instructions": "spread them on a cookie sheet .",
+            "input": "sliced_tomatoes, bell_pepper and onions",
+            "actions": "spread",
+            "output": "spread sliced_tomatoes, bell_pepper and onions"
+        },
+        {
+            "instructions": "cut the ham and the dry salami into pieces",
+            "input": "(ham; dry_salami)",
+            "actions": "cut",
+            "output": "cut_ham and dry_salami"
+        },
+        {
+            "instructions": "spread them on another cookie sheet .",
+            "input": "cut_ham and dry_salami",
+            "actions": "spread",
+            "output": "spread ham and dry_salami"
+        },
+        {
+            "instructions": "place both cookie sheets in the oven",
+            "input": "(spread vegetables; spread meats)",
+            "actions": "place",
+            "output": "(spread vegetables; spread meats)"
+        },
+        {
+            "instructions": "leave them there until the everything starts to sizzle a little .",
+            "input": "(spread vegetables; spread meats)",
+            "actions": "leave",
+            "output": "sizzling_spread_vegetables and sizzling_spread_meats"
+        },
+        {
+            "instructions": "keep a eye on them though , they burn quickly .",
+            "input": "NA",
+            "actions": "burn",
+            "output": "NA"
+        },
+        {
+            "instructions": "take them out",
+            "input": "sizzling_spread_vegetables and sizzling_spread_meats",
+            "actions": "take",
+            "output": "cooked_sliced_vegetables and cooked_spread_meats"
+        },
+        {
+            "instructions": "spread the ham and the salami on the breads .",
+            "input": "(cooked_meats; french_bread with jack_cheese)",
+            "actions": "spread",
+            "output": "cooked_meats_spread on french_bread with jack_cheese"
+        },
+        {
+            "instructions": "then spread the tomatoes , bell_pepper , and onions on top of the salami and ham .",
+            "input": "(french_bread with jack_cheese and cooked meats; cooked_sliced_vegetables)",
+            "actions": "spread",
+            "output": "french_bread with jack_cheese, cooked meats and cooked sliced vegetables"
+        },
+        {
+            "instructions": "spread a layer of mozzarella_cheese on top along with the freshly cut basil to taste .",
+            "input": "(french_bread with jack_cheese, cooked meats and cooked sliced vegetables; mozzarella_cheese)",
+            "actions": "spread",
+            "output": "french_bread with jack_cheese, mozzarella_cheese, cooked meats and cooked sliced vegetables"
+        },
+        {
+            "instructions": "leave them there for 1 2 minutes or until the cheese is melted and the bread is golden brown .",
+            "input": "french_bread with jack_cheese, mozzarella_cheese, cooked meats and cooked sliced vegetables",
+            "actions": "leave",
+            "output": "quick pizza with melted cheese"
+        },
+        {
+            "instructions": "serve warm",
+            "input": "quick pizza with melted cheese",
+            "actions": "serve",
+            "output": "quick pizza with melted cheese"
+        }
+    ],
+    "ingredients": [
+        {
+            "text": "1- 1/2 loaf French Bread"
+        },
+        {
+            "text": "2- 1/2 cups Marbled Jack Cheese"
+        },
+        {
+            "text": "3 whole Tomatoes"
+        },
+        {
+            "text": "2 whole Bell Peppers (use Green, Red, Or Orange)"
+        },
+        {
+            "text": "13 Onion"
+        },
+        {
+            "text": "4 slices Ham (the Kind You Use For Sandwiches)"
+        },
+        {
+            "text": "5 slices Italian Dry Salami"
+        },
+        {
+            "text": "2 cups Mozzarella Cheese"
+        },
+        {
+            "text": "Freshly-cut Basil, To Taste"
+        }
+    ],
+    "recipe": [
+        {
+            "text": "Preheat your oven to 475 degrees F."
+        },
+        {
+            "text": "Cut your French bread in half horizontally."
+        },
+        {
+            "text": "Then cut the halves into three pieces."
+        },
+        {
+            "text": "Spread a pretty thick layer of the marbled jack cheese over the bread."
+        },
+        {
+            "text": "Thinly slice the tomatoes, bell peppers, and onions and spread them on a cookie sheet."
+        },
+        {
+            "text": "Cut the ham and the dry salami into pieces and spread them on another cookie sheet."
+        },
+        {
+            "text": "Place both cookie sheets in the oven and leave them there until the everything starts to sizzle a little."
+        },
+        {
+            "text": "Keep a eye on them though, they burn quickly."
+        },
+        {
+            "text": "Take them out and spread the ham and the salami on the breads."
+        },
+        {
+            "text": "Then spread the tomatoes, bell peppers, and onions on top of the salami and ham."
+        },
+        {
+            "text": "Spread a layer of mozzarella cheese on top along with the freshly-cut basil to taste."
+        },
+        {
+            "text": "Place the pieces of bread directly on your oven grate (this wont make your oven messy I promise) and leave them there for 1-2 minutes or until the cheese is melted and the bread is golden brown."
+        },
+        {
+            "text": "Serve warm and enjoy!"
+        }
+    ]
+}

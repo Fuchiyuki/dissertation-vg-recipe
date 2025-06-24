@@ -1,0 +1,97 @@
+{
+    "title": "kd_pizza",
+    "id": "48939ca7a7",
+    "table": [
+        {
+            "instructions": "heat oven to 350 degrees f .",
+            "input": "NA",
+            "actions": "heat",
+            "output": "NA"
+        },
+        {
+            "instructions": "prepare dinner as directed on package , using the sensible solution directions .",
+            "input": "dinner_package",
+            "actions": "prepare",
+            "output": "prepared_dinner_from_package"
+        },
+        {
+            "instructions": "stir in egg .",
+            "input": "(egg; prepared_dinner_from_package)",
+            "actions": "stir",
+            "output": "macaroni mixture"
+        },
+        {
+            "instructions": "press macaroni mixture onto bottom of greased 12 inch , pizza\u2012pan .",
+            "input": "macaroni mixture",
+            "actions": "press",
+            "output": "pressed macaroni mixture"
+        },
+        {
+            "instructions": "bake 5 min .",
+            "input": "uncooked macaroni mixture",
+            "actions": "bake",
+            "output": "baked macaroni crust"
+        },
+        {
+            "instructions": "top with remaining_ingredient .",
+            "input": "(remaining ingredient; baked macaroni crust)",
+            "actions": "top",
+            "output": "baked macaroni crust topped with remaining ingredient"
+        },
+        {
+            "instructions": "bake 15 min .",
+            "input": "uncooked pizza",
+            "actions": "bake",
+            "output": "baked pizza"
+        }
+    ],
+    "ingredients": [
+        {
+            "text": "1 pkg. (225 g) Kraft Dinner Macaroni and Cheese"
+        },
+        {
+            "text": "1 egg, beaten"
+        },
+        {
+            "text": "1 cup pizza sauce"
+        },
+        {
+            "text": "1/4 cup sliced pepperoni"
+        },
+        {
+            "text": "1/2 cup sliced green peppers"
+        },
+        {
+            "text": "1/2 cup sliced fresh mushrooms"
+        },
+        {
+            "text": "1 cup Cracker Barrel Shredded Part Skim Mozzarella Cheese"
+        }
+    ],
+    "recipe": [
+        {
+            "text": "Heat oven to 350 degrees F."
+        },
+        {
+            "text": "Prepare Dinner as directed on package, using the Sensible Solution directions."
+        },
+        {
+            "text": "Stir in egg."
+        },
+        {
+            "text": "Press macaroni mixture onto bottom of greased 12-inch pizza pan."
+        },
+        {
+            "text": "Bake 5 min."
+        },
+        {
+            "text": "Top with remaining ingredients."
+        },
+        {
+            "text": "Bake 15 min."
+        },
+        {
+            "text": "or until heated through."
+        }
+    ]
+}

@@ -1,0 +1,148 @@
+{
+    "title": "lamb_goat_cheese_pizza",
+    "id": "c22259a2fa",
+    "table": [
+        {
+            "instructions": "place pizza_crust on pizza\u2012pan .",
+            "input": "pizza_crust",
+            "actions": "place",
+            "output": "pizza_crust"
+        },
+        {
+            "instructions": "brush with oil .",
+            "input": "(oil; pizza_crust)",
+            "actions": "brush",
+            "output": "greased_pizza_crust"
+        },
+        {
+            "instructions": "sprinkle with rosemary .",
+            "input": "(rosemary; greased_pizza_crust)",
+            "actions": "sprinkle",
+            "output": "rosemary_greased_pizza_crust"
+        },
+        {
+            "instructions": "add layer of tomatoes .",
+            "input": "(tomatoes; rosemary_greased_pizza_crust)",
+            "actions": "add",
+            "output": "tomatoes_rosemary_greased_pizza_crust"
+        },
+        {
+            "instructions": "in medium skillet cook onion over medium high heat for 2 minutes .",
+            "input": "onions",
+            "actions": "cook",
+            "output": "cooked_onions"
+        },
+        {
+            "instructions": "add lamb cook",
+            "input": "cooked_lamb",
+            "actions": "add",
+            "output": "cooked_lamb"
+        },
+        {
+            "instructions": "crumble until no longer pink .",
+            "input": "cooked_lamb",
+            "actions": "crumble",
+            "output": "crumbled_cooked_lamb"
+        },
+        {
+            "instructions": "drain well",
+            "input": "crumbled_cooked_lamb",
+            "actions": "drain",
+            "output": "crumbled_cooked_lamb"
+        },
+        {
+            "instructions": "sprinkle with cheese and bell_pepper .",
+            "input": "(crumbled_cooked_lamb; cheese; bell_pepper)",
+            "actions": "sprinkle",
+            "output": "uncooked_pizza"
+        },
+        {
+            "instructions": "bake in 375 oven for 8 to 10 minutes .",
+            "input": "uncooked_pizza",
+            "actions": "bake",
+            "output": "cooked_pizza"
+        },
+        {
+            "instructions": "remove from oven",
+            "input": "cooked_pizza",
+            "actions": "remove",
+            "output": "cooked_pizza"
+        },
+        {
+            "instructions": "cut into 8 slices .",
+            "input": "cooked_pizza",
+            "actions": "cut",
+            "output": "sliced_pizza"
+        }
+    ],
+    "ingredients": [
+        {
+            "text": "12 lb ground lamb"
+        },
+        {
+            "text": "1 pre baked pizza crust"
+        },
+        {
+            "text": "1 tablespoon olive oil"
+        },
+        {
+            "text": "1 teaspoon chopped fresh rosemary leaf"
+        },
+        {
+            "text": "4 roma tomatoes, thinly sliced"
+        },
+        {
+            "text": "14 cup chopped red onion"
+        },
+        {
+            "text": "14 cup chopped pepperoncini pepper"
+        },
+        {
+            "text": "12 cup crumbled goat cheese"
+        },
+        {
+            "text": "13 cup chopped yellow bell pepper"
+        },
+        {
+            "text": "13 cup chopped red bell pepper"
+        },
+        {
+            "text": "12 cup chopped fresh mango"
+        }
+    ],
+    "recipe": [
+        {
+            "text": "Place pizza crust on pizza pan."
+        },
+        {
+            "text": "Brush with oil."
+        },
+        {
+            "text": "Sprinkle with rosemary."
+        },
+        {
+            "text": "Add layer of tomatoes."
+        },
+        {
+            "text": "In medium skillet cook onion over medium-high heat for 2 minutes."
+        },
+        {
+            "text": "Add lamb (cook and crumble until no longer pink)."
+        },
+        {
+            "text": "Drain well"
+        },
+        {
+            "text": "Distribute over pizza crust."
+        },
+        {
+            "text": "Sprinkle with cheese & bell peppers."
+        },
+        {
+            "text": "Bake in 375 oven for 8 to 10 minutes."
+        },
+        {
+            "text": "Remove from oven and cut into 8 slices."
+        }
+    ]
+}

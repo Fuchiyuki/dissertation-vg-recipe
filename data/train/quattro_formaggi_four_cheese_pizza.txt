@@ -1,0 +1,142 @@
+{
+    "title": "quattro_formaggi_four_cheese_pizza",
+    "id": "db06eaabc5",
+    "table": [
+        {
+            "instructions": "preheat the oven to 425 degrees .",
+            "input": "NA",
+            "action": "preheat",
+            "output": "NA"
+        },
+        {
+            "instructions": "roll out pizza_dough on a lightly floured surface to 10 12 inches .",
+            "input": "pizza_dough",
+            "action": "roll",
+            "output": "rolled_pizza_dough"
+        },
+        {
+            "instructions": "place on lightly greased baking sheet or seasoned pizza stone .",
+            "input": "NA",
+            "action": "place",
+            "output": "NA"
+        },
+        {
+            "instructions": "pinch up the dough edges to make thin rim .",
+            "input": "rolled_pizza_dough",
+            "action": "pinch",
+            "output": "crust with thin edges"
+        },
+        {
+            "instructions": "brush dough with garlic_oil",
+            "input": "(garlic oil; crust with thin edges)",
+            "action": "brush",
+            "output": "crust brushed with garlic oil"
+        },
+        {
+            "instructions": "top with red onion .",
+            "input": "(red onion; crust brushed with garlic oil)",
+            "action": "top",
+            "output": "crust brushed with garlic oil topped with red onion"
+        },
+        {
+            "instructions": "scatter , saga blue and mozzarella_cheese over dough .",
+            "input": "(mozzarella cheese; saga blue cheese)",
+            "action": "scatter",
+            "output": "mozzarella cheese and saga blue scattered on crust with garlic oil and red onion"
+        },
+        {
+            "instructions": "mix together the gruyere , parmesan and thyme .",
+            "input": "(gruyere; parmesan; thyme)",
+            "action": "mix",
+            "output": "gruyere, parmesan and thyme mixture"
+        },
+        {
+            "instructions": "sprinkle over .",
+            "input": "(gruyere, parmesan and thyme mixture; crust with garlic oil, red onion, mozzarella cheese and saga blue)",
+            "action": "sprinkle",
+            "output": "gruyere, parmesan and thyme mixture sprinkled on crust with garlic oil, red onion, mozzarella cheese and saga blue"
+        },
+        {
+            "instructions": "grind black_pepper over entire pizza .",
+            "input": "(black pepper; uncooked quattro_formaggi_four_cheese_pizza)",
+            "action": "grind",
+            "output": "uncooked quattro_formaggi_four_cheese_pizza with ground black pepper"
+        },
+        {
+            "instructions": "bake for 15 20 minutes , until crisp and golden and the cheese is bubbling .",
+            "input": "uncooked quattro_formaggi_four_cheese_pizza",
+            "action": "bake",
+            "output": "baked quattro_formaggi_four_cheese_pizza"
+        },
+        {
+            "instructions": "serve immediately !",
+            "input": "baked quattro_formaggi_four_cheese_pizza",
+            "action": "serve",
+            "output": "baked quattro_formaggi_four_cheese_pizza ready to eat"
+        }
+    ],
+    "ingredients": [
+        {
+            "text": "1 pizza dough (for 10-12 inch pizza)"
+        },
+        {
+            "text": "1 tablespoon garlic oil"
+        },
+        {
+            "text": "12 small red onion, very thinly sliced"
+        },
+        {
+            "text": "2 ounces saga blue cheese, cubed"
+        },
+        {
+            "text": "2 ounces gruyere cheese, grated"
+        },
+        {
+            "text": "2 ounces mozzarella cheese, cubed"
+        },
+        {
+            "text": "2 tablespoons freshly grated parmesan cheese"
+        },
+        {
+            "text": "1 tablespoon chopped fresh thyme"
+        },
+        {
+            "text": "black pepper"
+        }
+    ],
+    "recipe": [
+        {
+            "text": "Preheat the oven to 425 degrees."
+        },
+        {
+            "text": "Roll out pizza dough on a lightly floured surface to 10-12 inches."
+        },
+        {
+            "text": "Place on lightly greased baking sheet or seasoned pizza stone."
+        },
+        {
+            "text": "Pinch up the dough edges to make thin rim."
+        },
+        {
+            "text": "Brush dough with garlic oil and top with red onion."
+        },
+        {
+            "text": "Scatter saga blue and mozzarella cheese over dough."
+        },
+        {
+            "text": "Mix together the gruyere, parmesan and thyme."
+        },
+        {
+            "text": "Sprinkle over."
+        },
+        {
+            "text": "Grind black pepper over entire pizza."
+        },
+        {
+            "text": "Bake for 15-20 minutes, until crisp and golden and the cheese is bubbling."
+        },
+        {
+            "text": "Serve immediately!"
+        }
+    ]
+}

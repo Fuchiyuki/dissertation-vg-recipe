@@ -1,0 +1,139 @@
+{
+    "title": "leftover_roasted_potatoes_pizza",
+    "id": "3cd99c92fe",
+    "table": [
+        {
+            "instructions": "prepare homemade pizza_dough or follow directions for store bought pizza_dough .",
+            "input": "pizza dough ingredients ",
+            "action": "prepare",
+            "output": "pizza dough"
+        },
+        {
+            "instructions": "  i usually bake my pizza_dough before i put any ingredients on it .",
+            "input": "NA",
+            "action": "bake",
+            "output": "baked_pizza_crust"
+        },
+        {
+            "instructions": "set aside .",
+            "input": "baked_pizza_crust",
+            "action": "set",
+            "output": "baked_pizza_crust"
+        },
+        {
+            "instructions": "if desired , spread mayo dijon mixture over the baked_pizza_crust .",
+            "input": "(mayo dijon mixture; baked_pizza_crust)",
+            "action": "spread",
+            "output": "mayo dijon mixture spread over baked_pizza_crust"
+        },
+        {
+            "instructions": "place provolone slices on next .",
+            "input": "(provolone slices; baked_pizza_crust with mayo dijon mixture)",
+            "action": "place",
+            "output": "provolone slices placed on baked_pizza_crust with mayo dijon mixture"
+        },
+        {
+            "instructions": "spoon the potato mixture evenly over the provolone_cheese .",
+            "input": "(potato mixture; pizza crust with provolone slices and mayo dijon sauce)",
+            "action": "spoon",
+            "output": "potato mixture spooned over pizza crust with provolone"
+        },
+        {
+            "instructions": "sprinkle with bacon and shredded_cheddar_cheese .",
+            "input": "(pizza crust with potato mixture and provolone; bacon; shredded cheddar cheese)",
+            "action": "sprinkle",
+            "output": "bacon and shredded cheddar cheese sprinkled over pizza crust with potato mixture"
+        },
+        {
+            "instructions": "bake until crust is golden and cheese is melted .",
+            "input": "uncooked potatoes pizza",
+            "action": "bake",
+            "output": "baked potato pizza"
+        },
+        {
+            "instructions": "if desired , sprinkle with green_onion",
+            "input": "(green_onion; baked potato pizza)",
+            "action": "sprinkle",
+            "output": "green onion sprinkled over baked potato pizza"
+        },
+        {
+            "instructions": "serve with a side of sour_cream and salsa .",
+            "input": "(baked potato pizza; sour_cream; salsa)",
+            "action": "serve",
+            "output": "baked potato pizza served with a side of sour_cream and salsa"
+        }
+    ],
+    "ingredients": [
+        {
+            "text": "1 whole Homemade Or Store-bought Pizza Dough"
+        },
+        {
+            "text": "2 cups Leftover Roasted/baked Potato, Chopped"
+        },
+        {
+            "text": "2 Tablespoons Olive Oil"
+        },
+        {
+            "text": "2 Tablespoons Dry Ranch Dressing/seasoning Mix"
+        },
+        {
+            "text": "2 Tablespoons Mayonnaise-Dijon Mustard Mix"
+        },
+        {
+            "text": "8 slices Provolone Cheese"
+        },
+        {
+            "text": "8 strips Crispy Cooked Bacon, Roughly Chopped"
+        },
+        {
+            "text": "1 cup Shredded Cheddar Cheese, Or More As Needed"
+        },
+        {
+            "text": "1/4 cups Sliced Green Onions (about 3 Stalks), Optional"
+        },
+        {
+            "text": "Salsa And Sour Cream, Optional"
+        }
+    ],
+    "recipe": [
+        {
+            "text": "Prepare homemade pizza dough or follow directions for store-bought pizza dough."
+        },
+        {
+            "text": "(I usually bake my pizza dough BEFORE I put any ingredients on it."
+        },
+        {
+            "text": "To the point where it is almost done.)"
+        },
+        {
+            "text": "While dough is baking: mix chopped potatoes, olive oil and ranch dressing mix in a medium bowl."
+        },
+        {
+            "text": "Set aside."
+        },
+        {
+            "text": "If desired, spread mayo-dijon mixture over the baked pizza crust."
+        },
+        {
+            "text": "Place provolone slices on next."
+        },
+        {
+            "text": "Spoon the potato mixture evenly over the provolone cheese."
+        },
+        {
+            "text": "Sprinkle with bacon and shredded cheddar cheese."
+        },
+        {
+            "text": "Bake until crust is golden and cheese is melted."
+        },
+        {
+            "text": "If desired, sprinkle with green onions and serve with a side of sour cream and salsa."
+        },
+        {
+            "text": "(This can also be cut up into small squares to serve as an appetizer.)"
+        },
+        {
+            "text": "Yum-O."
+        }
+    ]
+}

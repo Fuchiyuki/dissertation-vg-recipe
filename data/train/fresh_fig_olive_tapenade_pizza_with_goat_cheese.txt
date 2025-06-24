@@ -1,0 +1,163 @@
+{
+    "title": "fresh_fig_olive_tapenade_pizza_with_goat_cheese",
+    "id": "c977ab1b6a",
+    "table": [
+        {
+            "instructions": "preheat the oven to 425 degrees f .",
+            "input": "NA",
+            "action": "preheat",
+            "output": "NA"
+        },
+        {
+            "instructions": "if you have a pizza stone , put the stone in the middle of the rack before preheating the oven .",
+            "input": "NA",
+            "action": "put",
+            "output": "NA"
+        },
+        {
+            "instructions": "in a small saucepan , add the balsamic_vinegar ,",
+            "input": "balsamic vinegar",
+            "action": "add",
+            "output": "balsamic vinegar"
+        },
+        {
+            "instructions": "lower the temperature to medium low or low ,",
+            "input": "balsamic vinegar",
+            "action": "lower",
+            "output": "warmed balsamic vinegar"
+        },
+        {
+            "instructions": "cook until vinegar has been thickened , about 10 minutes .",
+            "input": "warmed balsamic vinegar",
+            "action": "cook",
+            "output": "thickened balsamic vinegar"
+        },
+        {
+            "instructions": "remove from the heat",
+            "input": "thickened balsamic vinegar",
+            "action": "remove",
+            "output": "balsamic reduction"
+        },
+        {
+            "instructions": "set aside .",
+            "input": "thickened balsamic vinegar",
+            "action": "set",
+            "output": "cooled thickened balsamic vinegar"
+        },
+        {
+            "instructions": "meanwhile in a food processor , add olives , olive_oil , garlic , lemon_juice , zest and black_pepper .",
+            "input": "(olives; olive_oil;  garlic; lemon_juice; zest; black_pepper)",
+            "action": "add",
+            "output": "tapenade"
+        },
+        {
+            "instructions": "spread tapenade over pizza_crust",
+            "input": "(tapenade; pizza crust)",
+            "action": "spread",
+            "output": "tapenade spread on pizza crust"
+        },
+        {
+            "instructions": "arrange halved figs over tapenade .",
+            "input": "(figs; pizza crust with tapenade)",
+            "action": "arrange",
+            "output": "figs arranged over tapenade pizza crust"
+        },
+        {
+            "instructions": "top with goat_cheese .",
+            "input": "(goat cheese; pizza crust with tapenade and figs)",
+            "action": "top",
+            "output": "pizza crust with tapenade, figs and goat"
+        },
+        {
+            "instructions": "bake in the oven for 15 to 20 minutes , or until the crust is golden brown , and cheese starts to brown in spots .",
+            "input": "uncooked pizza crust with tapenade, figs and goat",
+            "action": "bake",
+            "output": "baked fresh_fig_olive_tapenade_pizza_with_goat_cheese"
+        },
+        {
+            "instructions": "remove from the oven ,",
+            "input": "baked fresh_fig_olive_tapenade_pizza_with_goat_cheese",
+            "action": "remove",
+            "output": "baked fresh_fig_olive_tapenade_pizza_with_goat_cheese"
+        },
+        {
+            "instructions": "cut with a pizza cutter",
+            "input": "baked fresh_fig_olive_tapenade_pizza_with_goat_cheese",
+            "action": "cut",
+            "output": "cut baked fresh_fig_olive_tapenade_pizza_with_goat_cheese"
+        },
+        {
+            "instructions": "serve warm with balsamic_reduction drizzled on top .",
+            "input": "(cut baked fresh_fig_olive_tapenade_pizza_with_goat_cheese; balsamic reduction)",
+            "action": "serve",
+            "output": "cut baked fresh_fig_olive_tapenade_pizza_with_goat_cheese served with balsamic reduction"
+        }
+    ],
+    "ingredients": [
+        {
+            "text": "1/2 cup balsamic vinegar crumbled"
+        },
+        {
+            "text": "1/4 cup kalamata olives drained and pitted"
+        },
+        {
+            "text": "2 tablespoons olive oil"
+        },
+        {
+            "text": "1 clove garlic"
+        },
+        {
+            "text": "1 tablespoon lemon juice"
+        },
+        {
+            "text": "1 teaspoon lemon zest"
+        },
+        {
+            "text": "1 x black pepper to taste"
+        },
+        {
+            "text": "1 each pizza shell 12-inch, homemade or store-bought"
+        },
+        {
+            "text": "8 each figs fresh, top stems removed, halved"
+        },
+        {
+            "text": "1 cup goat (chevre) cheese crumbled"
+        }
+    ],
+    "recipe": [
+        {
+            "text": "Preheat the oven to 425 degrees F. If you have a pizza stone, put the stone in the middle of the rack before preheating the oven."
+        },
+        {
+            "text": "In a small saucepan, add the balsamic vinegar, and bring to a boil over high heat."
+        },
+        {
+            "text": "Lower the temperature to medium-low or low, and cook until vinegar has been thickened, about 10 minutes."
+        },
+        {
+            "text": "Remove from the heat and set aside."
+        },
+        {
+            "text": "Meanwhile In a food processor, add olives, olive oil, garlic, lemon juice, zest and black pepper."
+        },
+        {
+            "text": "Process until almost smooth."
+        },
+        {
+            "text": "Spread tapenade over pizza crust, arrange halved figs over tapenade."
+        },
+        {
+            "text": "Top with goat cheese."
+        },
+        {
+            "text": "Bake in the oven for 15 to 20 minutes, or until the crust is golden-brown, and cheese starts to brown in spots."
+        },
+        {
+            "text": "Remove from the oven, and let cool for a few minutes."
+        },
+        {
+            "text": "Cut with a pizza cutter and serve warm with balsamic reduction drizzled on top."
+        }
+    ]
+}

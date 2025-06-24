@@ -1,0 +1,148 @@
+{
+    "title": "individual_roast_beef_pizza",
+    "id": "b30649729d",
+    "table": [
+        {
+            "instructions": "preheat oven to 350f .",
+            "input": "NA",
+            "actions": "preheat",
+            "output": "NA"
+        },
+        {
+            "instructions": "lightly brush the pita_round with 1 teaspoon of the olive_oil",
+            "input": "(pita_round; olive_oil)",
+            "actions": "brush",
+            "output": "pita_round brushed_with olive_oil"
+        },
+        {
+            "instructions": "sprinkle with italian_seasoning blend .",
+            "input": "(italian_seasoning blend; brushed pite_round)",
+            "actions": "sprinkle",
+            "output": "italian_seasoning blend sprinkled over brushed pita round"
+        },
+        {
+            "instructions": "preheat remaining oil in a non stick skillet over medium high heat ;",
+            "input": "olive oil",
+            "actions": "preheat",
+            "output": "heated olive oil"
+        },
+        {
+            "instructions": "add onion",
+            "input": "(heated olive oil; onion)",
+            "actions": "add",
+            "output": "onion added to heated olive oil"
+        },
+        {
+            "instructions": "cook until onion begins to brown lightly .",
+            "input": "onion added to heated olive oil",
+            "actions": "cook",
+            "output": "cooked onions"
+        },
+        {
+            "instructions": "add the green_bell_pepper",
+            "input": "(cooked onions; green_bell_pepper)",
+            "actions": "add",
+            "output": "green_bell_pepper added to cooked onions"
+        },
+        {
+            "instructions": "cook until crisp tender .",
+            "input": "green_bell_pepper added to cooked onions",
+            "actions": "cook",
+            "output": "cooked green bell pepper mixture"
+        },
+        {
+            "instructions": "add the roasted_red_pepper and leftover roast_beef",
+            "input": "(cooked green bell pepper mixture; roasted red pepper; leftover_roast_beef)",
+            "actions": "add",
+            "output": "roasted_red_pepper and leftover roast_beef added to green bell pepper mixture"
+        },
+        {
+            "instructions": "cook stirring frequently until warm .",
+            "input": "roasted_red_pepper and leftover roast_beef added to green bell pepper mixture",
+            "actions": "cook",
+            "output": "cooked meat and vegetable mixture"
+        },
+        {
+            "instructions": "divide the meat and vegetable mixture evenly between the pita_round , top with shredded_cheese .",
+            "input": "(shredded_cheese; brushed_pita_round; cooked meat and vegetable mixture)",
+            "actions": "divide",
+            "output": "uncooked roast beef pizza"
+        },
+        {
+            "instructions": "bake in oven for 8 to 10 minutes or until cheese melted and pita_round are hot .",
+            "input": "uncooked roast beef pizza",
+            "actions": "bake",
+            "output": "baked roast beef pizza"
+        },
+        {
+            "instructions": "sprinkle with crushed_red_pepper",
+            "input": "(baked roast beef pizza; crushed_red_pepper)",
+            "actions": "sprinkle",
+            "output": "crushed_red_pepper sprinkled over baked roast beef pizza"
+        },
+        {
+            "instructions": "serve immediately .",
+            "input": "roast_beef_pizza",
+            "actions": "serve",
+            "output": "served roast_beef_pizza"
+        }
+    ],
+    "ingredients": [
+        {
+            "text": "2 (6 inch) pita bread rounds"
+        },
+        {
+            "text": "1 tablespoon olive oil, divided"
+        },
+        {
+            "text": "12 teaspoon italian seasoning"
+        },
+        {
+            "text": "12 cup onion, thinly sliced and separated into rings"
+        },
+        {
+            "text": "12 medium green bell pepper, cut into thin strips"
+        },
+        {
+            "text": "1 roasted red pepper, cut into thin strips"
+        },
+        {
+            "text": "2 -3 ounces leftover cooked beef, sliced thin"
+        },
+        {
+            "text": "12 cup mozzarella cheese, shredded"
+        },
+        {
+            "text": "18 cup parmesan cheese, grated"
+        },
+        {
+            "text": "14 teaspoon crushed red pepper flakes"
+        }
+    ],
+    "recipe": [
+        {
+            "text": "Preheat oven to 350F."
+        },
+        {
+            "text": "Lightly brush the pita rounds with 1 teaspoon of the olive oil and sprinkle with Italian seasoning blend."
+        },
+        {
+            "text": "Preheat remaining oil in a non-stick skillet over medium-high heat; add onion and cook until onion begins to brown lightly."
+        },
+        {
+            "text": "Add the green bell pepper and cook until crisp tender."
+        },
+        {
+            "text": "Add the roasted red pepper and leftover roast beef, cook stirring frequently until warm."
+        },
+        {
+            "text": "Divide the meat and vegetable mixture evenly between the pita rounds, top with shredded cheeses."
+        },
+        {
+            "text": "Bake in oven for 8 to 10 minutes or until cheese melted and pita rounds are hot."
+        },
+        {
+            "text": "Sprinkle with crushed red pepper and serve immediately."
+        }
+    ]
+}

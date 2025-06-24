@@ -1,0 +1,124 @@
+{
+    "title": "quick_pizza_with_olives_and_anchovies",
+    "id": "cfee2b9732",
+    "table": [
+        {
+            "instructions": "make bread_dough according to pack instructions .",
+            "input": "pack_of_ bread_dough",
+            "actions": "make",
+            "output": "made_bread_dough"
+        },
+        {
+            "instructions": "knead for 5 minutes till dough feels smooth and springy .",
+            "input": "bread_dough",
+            "actions": "knead",
+            "output": "kneaded_bread_dough"
+        },
+        {
+            "instructions": "divide into two",
+            "input": "kneaded_bread_dough",
+            "actions": "divide",
+            "output": "divided_bread_dough"
+        },
+        {
+            "instructions": "roll out on lightly floured surface .",
+            "input": "bread dough",
+            "actions": "roll",
+            "output": "rolled bread dough"
+        },
+        {
+            "instructions": "make 2 large thin circles .",
+            "input": "rolled bread dough",
+            "actions": "make",
+            "output": "pizza crust"
+        },
+        {
+            "instructions": "lift these onto 2 baking sheets .",
+            "input": "pizza crust",
+            "actions": "lift",
+            "output": "pizza crust"
+        },
+        {
+            "instructions": "spoon on pizza_topping",
+            "input": "(pizza crust; pizza topping)",
+            "actions": "spoon",
+            "output": "pizza_topping_spooned_on_pizza_crust"
+        },
+        {
+            "instructions": ", spread thinly with back of spoon .",
+            "input": "pizza_topping_spooned_on_pizza_crust",
+            "actions": "spread",
+            "output": "pizza_topping_spread_on_pizza_crust"
+        },
+        {
+            "instructions": "top with cheese , anchovies and olives",
+            "input": "(pizza_topping_spread_on_pizza_crust; cheese; anchovies; olives)",
+            "actions": "top",
+            "output": "pizza_crust_toppped_with_cheese, anchovies and olives"
+        },
+        {
+            "instructions": "drizzle oil over top .",
+            "input": "(pizza_crust_toppped_with_cheese, anchovies and olives; oil)",
+            "actions": "drizzle",
+            "output": "oil_drizzled_on_pizza"
+        },
+        {
+            "instructions": "bake for 20 minutes at 190 c or temp suggested on bread pack .",
+            "input": "uncooked_pizza",
+            "actions": "bake",
+            "output": "pizza_with_olives_and_anchovies"
+        }
+    ],
+    "ingredients": [
+        {
+            "text": "495 g bread mix"
+        },
+        {
+            "text": "flour, for rolling out"
+        },
+        {
+            "text": "250 g pizza sauce"
+        },
+        {
+            "text": "125 g fresh mozzarella cheese, ball sliced"
+        },
+        {
+            "text": "1 cup cheddar cheese, grated"
+        },
+        {
+            "text": "30 g anchovies, drained"
+        },
+        {
+            "text": "34 cup pitted olive, green and black"
+        },
+        {
+            "text": "olive oil, to drizzle"
+        }
+    ],
+    "recipe": [
+        {
+            "text": "Make bread dough according to pack instructions."
+        },
+        {
+            "text": "Knead for 5 minutes till dough feels smooth and springy."
+        },
+        {
+            "text": "Divide into two, roll out on lightly floured surface."
+        },
+        {
+            "text": "Make 2 large thin circles."
+        },
+        {
+            "text": "Lift these onto 2 baking sheets."
+        },
+        {
+            "text": "Spoon on pizza topping, spread thinly with back of spoon."
+        },
+        {
+            "text": "Top with cheese, anchovies and olives, drizzle oil over top."
+        },
+        {
+            "text": "Bake for 20 minutes at 190 C or temp suggested on bread pack."
+        }
+    ]
+}

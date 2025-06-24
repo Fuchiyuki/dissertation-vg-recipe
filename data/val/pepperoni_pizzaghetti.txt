@@ -1,0 +1,151 @@
+{
+    "title": "pepperoni_pizzaghetti",
+    "id": "6ab9df9aaf",
+    "table": [
+        {
+            "instructions": "cook pasta until al dente .",
+            "input": "pasta",
+            "actions": "cook",
+            "output": "cooked_pasta"
+        },
+        {
+            "instructions": "drain well .",
+            "input": "cooked_pasta",
+            "actions": "drain",
+            "output": "drained_cooked_pasta"
+        },
+        {
+            "instructions": "meanwhile , make the sauce .",
+            "input": "NA",
+            "actions": "make",
+            "output": "NA"
+        },
+        {
+            "instructions": "heat non stick deep skillet or dutch oven .",
+            "input": "NA",
+            "actions": "heat",
+            "output": "NA"
+        },
+        {
+            "instructions": "add oil and sliced peppers , onions , pepperoni and garlic ;",
+            "input": "(oil; sliced_peppers; onion; pepperoni; garlic)",
+            "actions": "add",
+            "output": "sliced peppers , onions , pepperoni and garlic added to oil"
+        },
+        {
+            "instructions": "saute until veggies are crisp tender .",
+            "input": "sliced peppers , onions , pepperoniand garlic",
+            "actions": "saute",
+            "output": "sauteed veggies and pepperoni"
+        },
+        {
+            "instructions": "drain if your pepperoni is very fatty .",
+            "input": "sauteed veggies and pepperoni",
+            "actions": "drain",
+            "output": "drained_sauteed veggies and pepperoni"
+        },
+        {
+            "instructions": "stir in tomato_with_juice , oregano , basil , pepperand salt , if desired .",
+            "input": "(tomato_with_juice; oregano; basil; pepper; salt; drained_sauteed veggies and pepperoni)",
+            "actions": "stir",
+            "output": "tomato_with_juice, oregano, basil, pepper and salt stirred in sauteed veggies and pepperoni"
+        },
+        {
+            "instructions": "cook over medium heat just until hot ,",
+            "input": "uncooked tomato and pepperoni sauce",
+            "actions": "cook",
+            "output": "cooked tomato and pepperoni sauce"
+        },
+        {
+            "instructions": "toss with pasta .",
+            "input": "(cooked tomato and pepperoni sauce; drained_cooked_pasta)",
+            "actions": "toss",
+            "output": "drained_cooked_pasta tossed in cooked tomato and pepperoni sauce"
+        },
+        {
+            "instructions": "sprinkle with parmesan_cheese",
+            "input": "(parmesan_cheese; pasta_tossed in sauce)",
+            "actions": "sprinkle",
+            "output": "parmesan_cheese sprinkled over pasta_tossed in sauce"
+        },
+        {
+            "instructions": "toss",
+            "input": "parmesan_cheese sprinkled over pasta_tossed in sauce",
+            "actions": "serve",
+            "output": "tossed pepperoni_pizzaghetti"
+        },
+        {
+            "instructions": "serve .",
+            "input": "tossed pepperoni_pizzaghetti",
+            "actions": "serve",
+            "output": "pepperoni_pizzaghetti"
+        }
+    ],
+    "ingredients": [
+        {
+            "text": "12 lb spaghetti"
+        },
+        {
+            "text": "1 tablespoon olive oil"
+        },
+        {
+            "text": "1 large onion, sliced"
+        },
+        {
+            "text": "2 garlic cloves, minced"
+        },
+        {
+            "text": "12 lb pepperoni, sliced and quartered"
+        },
+        {
+            "text": "2 large bell peppers, sliced (any color)"
+        },
+        {
+            "text": "1 (16 ounce) can diced tomatoes"
+        },
+        {
+            "text": "1 teaspoon oregano"
+        },
+        {
+            "text": "1 teaspoon basil"
+        },
+        {
+            "text": "12 teaspoon salt (optional)"
+        },
+        {
+            "text": "14 teaspoon cracked black pepper"
+        },
+        {
+            "text": "12 cup parmesan cheese"
+        }
+    ],
+    "recipe": [
+        {
+            "text": "Cook pasta until al dente."
+        },
+        {
+            "text": "Drain well."
+        },
+        {
+            "text": "Meanwhile, make the sauce."
+        },
+        {
+            "text": "Heat non-stick deep skillet or dutch oven."
+        },
+        {
+            "text": "Add oil and sliced peppers, onions, pepperoni& garlic; saute until veggies are crisp-tender."
+        },
+        {
+            "text": "Drain if your pepperoni is very fatty."
+        },
+        {
+            "text": "Stir in tomatoes with juice, oregano, basil, pepper& salt, if desired."
+        },
+        {
+            "text": "Cook over medium heat just until hot, then toss with pasta."
+        },
+        {
+            "text": "Sprinkle with parmesan cheese, toss& serve."
+        }
+    ]
+}

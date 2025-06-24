@@ -1,0 +1,181 @@
+{
+    "title": "roasted_tomato_pizza_margherita",
+    "id": "a6661ae2be",
+    "table": [
+        {
+            "instructions": "preheat oven to 425 degrees f .",
+            "input": "NA",
+            "actions": "preheat",
+            "output": "NA"
+        },
+        {
+            "instructions": "slice tomatoes in half , then in quarters .",
+            "input": "tomatoes",
+            "actions": "slice",
+            "output": "sliced_tomatoes"
+        },
+        {
+            "instructions": "lay in an even layer on a baking sheet .",
+            "input": "sliced_tomatoes",
+            "actions": "lay",
+            "output": "sliced_tomatoes"
+        },
+        {
+            "instructions": "toss with 2 tablespoons , olive_oil , salt and pepper .",
+            "input": "(sliced_tomatoes, olive_oil; salt; pepper)",
+            "actions": "toss",
+            "output": "seasoned_sliced_tomatoes"
+        },
+        {
+            "instructions": "roast in the oven until tender , about 30 minutes .",
+            "input": "seasoned_sliced_tomatoes",
+            "actions": "roast",
+            "output": "roasted_sliced_tomatoes"
+        },
+        {
+            "instructions": ", peel the skins off the tomatoes .",
+            "input": "roasted_sliced_tomatoes",
+            "actions": "peel",
+            "output": "peeled_roasted_sliced_tomatoes"
+        },
+        {
+            "instructions": "discard skins",
+            "input": "peeled_roasted_sliced_tomatoes",
+            "actions": "discard",
+            "output": "peeled_roasted_sliced_tomatoes"
+        },
+        {
+            "instructions": "put tomatoes in a blender or food processor .",
+            "input": "peeled_roasted_sliced_tomatoes",
+            "actions": "put",
+            "output": "blended_roasted_tomatoes"
+        },
+        {
+            "instructions": "set aside .",
+            "input": "blended_roasted_tomatoes",
+            "actions": "set",
+            "output": "blended_roasted_tomatoes"
+        },
+        {
+            "instructions": "drop oven temperature to 350 degrees f . ;",
+            "input": "na",
+            "actions": "drop",
+            "output": "NA"
+        },
+        {
+            "instructions": "roll out pizza_dough onto a baking sheet .",
+            "input": "rolled_pizza_dough",
+            "actions": "roll",
+            "output": "unrolled_pizza_dough"
+        },
+        {
+            "instructions": "spread tomato puree onto the crust ,",
+            "input": "(unrolled_pizza_dough; tomato_puree)",
+            "actions": "spread",
+            "output": "pizza_crust_topped_with_tomato_puree"
+        },
+        {
+            "instructions": "place whole or halved basil leaves randomly around the pizza .",
+            "input": "pizza_crust_topped_with_tomato_puree, basil_leaves",
+            "actions": "place",
+            "output": "pizza_crust_topped_with_tomato_puree_and_basil_leaves"
+        },
+        {
+            "instructions": "slice mozzarella about 14 inch thick",
+            "input": "whole_mozzarella",
+            "actions": "slice",
+            "output": "sliced_mozzarella"
+        },
+        {
+            "instructions": "spread slices over the pizza .",
+            "input": "pizza_crust_topped_with_tomato_puree_and_basil_leaves, sliced_mozzarella",
+            "actions": "spread",
+            "output": "pizza_crust_topped_with_tomato_puree, basil, and sliced_mozzarella"
+        },
+        {
+            "instructions": "drizzle everything with the remaining 2 tablespoons , olive_oil .",
+            "input": "pizza_crust_topped_with_tomato_puree, basil, and sliced_mozzarella, olive_oil",
+            "actions": "drizzle",
+            "output": "pizza_crust_topped_with_tomato_puree, basil, sliced_mozzarella and olive oil"
+        },
+        {
+            "instructions": "sprinkle with salt and pepper .",
+            "input": "(pizza_crust_topped_with_tomato_puree, basil, sliced_mozzarella and olive oil; salt; pepper)",
+            "actions": "sprinkle",
+            "output": "uncooked_pizza"
+        },
+        {
+            "instructions": "bake 1520 minutes , or until crust is brown and cheese is melted .",
+            "input": "uncooked_pizza",
+            "actions": "bake",
+            "output": "cooked_roasted_tomato_pizza_margherita"
+        }
+    ],
+    "ingredients": [
+        {
+            "text": "5 whole Large Tomatoes"
+        },
+        {
+            "text": "4 Tablespoons Olive Oil, Divided"
+        },
+        {
+            "text": "1 package (14 Oz. Package) Refrigerated Pizza Crust"
+        },
+        {
+            "text": "1 bunch Fresh Basil"
+        },
+        {
+            "text": "8 ounces, weight Fresh Mozzarella Cheese"
+        },
+        {
+            "text": "Salt And Pepper"
+        }
+    ],
+    "recipe": [
+        {
+            "text": "Preheat oven to 425 degrees F. Slice tomatoes in half, then in quarters."
+        },
+        {
+            "text": "Lay in an even layer on a baking sheet."
+        },
+        {
+            "text": "Toss with 2 tablespoons olive oil, salt and pepper."
+        },
+        {
+            "text": "Roast in the oven until tender, about 30 minutes."
+        },
+        {
+            "text": "Using tongs or your fingers (carefully!"
+        },
+        {
+            "text": "), peel the skins off the tomatoes."
+        },
+        {
+            "text": "They should fall off easily."
+        },
+        {
+            "text": "Discard skins and put tomatoes in a blender or food processor."
+        },
+        {
+            "text": "Pulse or blend until smooth, set aside."
+        },
+        {
+            "text": "Drop oven temperature to 350 degrees F. Roll out pizza dough onto a baking sheet."
+        },
+        {
+            "text": "Spread tomato puree onto the crust, then place whole or halved basil leaves randomly around the pizza."
+        },
+        {
+            "text": "Slice mozzarella about 1/4 inch thick, spread slices over the pizza."
+        },
+        {
+            "text": "Drizzle everything with the remaining 2 tablespoons olive oil."
+        },
+        {
+            "text": "Sprinkle with salt and pepper."
+        },
+        {
+            "text": "Bake 1520 minutes, or until crust is brown and cheese is melted."
+        }
+    ]
+}

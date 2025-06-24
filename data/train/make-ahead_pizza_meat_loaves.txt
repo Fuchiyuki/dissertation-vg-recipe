@@ -1,0 +1,157 @@
+{
+    "title": "make-ahead_pizza_meat_loaves",
+    "id": "1c6e8307f0",
+    "table": [
+        {
+            "instructions": "combine 34 cup , pasta_sauce , stuffing , eggs , onion , green_pepper , oregano and garlic_powder ;",
+            "input": "(pasta_sauce; stuffing; eggs; onion; green_pepper; oregano; garlic_powder)",
+            "action": "combine",
+            "output": "pasta sauce, eggs and stuffing mixture"
+        },
+        {
+            "instructions": "add beef",
+            "input": "(Uncooked beef; pasta sauce, eggs and stuffing mixture)",
+            "action": "add",
+            "output": "Beef added to pasta sauce, eggs and stuffing mixture"
+        },
+        {
+            "instructions": "mix well .",
+            "input": "meat loaf mixture",
+            "action": "mix",
+            "output": "mixed meat loaf mixture"
+        },
+        {
+            "instructions": "shape firmly into six loaves , placing one piece of cheese in center of each loaf .",
+            "input": "(mixed meat loaf mixture; cheese)",
+            "action": "shape",
+            "output": "shaped meatloaf with cheese at the center"
+        },
+        {
+            "instructions": "place loaves in baking pan .",
+            "input": "Meatloaf stuffed with cheese",
+            "action": "place",
+            "output": "Meatloaf stuffed with cheese"
+        },
+        {
+            "instructions": "bake at 400 degrees for 30 minutes or until no pink remains and meat thermometer reads 160 degrees .",
+            "input": "Meatloaf stuffed with cheese",
+            "action": "bake",
+            "output": "Baked Meatloaf stuffed with cheese"
+        },
+        {
+            "instructions": "cool slightly .",
+            "input": "Baked Meatloaf stuffed with cheese",
+            "action": "cool",
+            "output": "Cooled Baked Meatloaf stuffed with cheese"
+        },
+        {
+            "instructions": "wrap",
+            "input": "Cooled Baked Meatloaf stuffed with cheese",
+            "action": "wrap",
+            "output": "Wrapped baked meatloaf"
+        },
+        {
+            "instructions": "refrigerate up to 3 days .",
+            "input": "Wrapped baked meatloaf",
+            "action": "refrigerate",
+            "output": "Refrigerated Wrapped baked meatloaf"
+        },
+        {
+            "instructions": "cover",
+            "input": "Refrigerated Wrapped baked meatloaf",
+            "action": "cover",
+            "output": "Covered Refrigerated Wrapped baked meatloaf"
+        },
+        {
+            "instructions": "refrigerate remaining pasta_sauce .",
+            "input": "remaining Pasta sauce",
+            "action": "refrigerate",
+            "output": "Refrigerated remaining Pasta sauce"
+        },
+        {
+            "instructions": "to reheat place meat loaves and remaining pasta_sauce in a skillet .",
+            "input": "(refrigerated Meatloaf; remaining pasta sauce)",
+            "action": "reheat",
+            "output": "meatloaf in remaining pasta sauce"
+        },
+        {
+            "instructions": "cover",
+            "input": "meatloaf in remaining pasta sauce",
+            "action": "cover",
+            "output": "Covered meatloaf in remaining pasta sauce"
+        },
+        {
+            "instructions": "heat through .",
+            "input": "Covered meatloaf in remaining pasta sauce",
+            "action": "heat",
+            "output": "heated meatloaf in remaining pasta sauce"
+        },
+        {
+            "instructions": "serve the heated sauce with the meat loafs immediately after , if you want .",
+            "input": "heated meatloaf in remaining pasta sauce",
+            "action": "serve",
+            "output": "heated meatloaf in remaining pasta sauce ready to serve"
+        }
+    ],
+    "ingredients": [
+        {
+            "text": "1 (26 ounce) jar pasta sauce, divided"
+        },
+        {
+            "text": "1 12 cups herb seasoned stuffing mix"
+        },
+        {
+            "text": "2 eggs, beaten"
+        },
+        {
+            "text": "1 medium onion, chopped"
+        },
+        {
+            "text": "14 cup green pepper, chopped"
+        },
+        {
+            "text": "1 teaspoon dried oregano"
+        },
+        {
+            "text": "14 teaspoon garlic powder"
+        },
+        {
+            "text": "1 12 lbs ground beef"
+        },
+        {
+            "text": "4 ounces mozzarella cheese, cut into 6 pieces"
+        }
+    ],
+    "recipe": [
+        {
+            "text": "Combine 3/4 cup pasta sauce, stuffing, eggs, onion, green pepper, oregano and garlic powder; add beef and mix well."
+        },
+        {
+            "text": "Shape firmly into six loaves, placing one piece of cheese in center of each loaf."
+        },
+        {
+            "text": "Place loaves in baking pan."
+        },
+        {
+            "text": "Bake at 400 degrees for 30 minutes or until no pink remains and meat thermometer reads 160 degrees."
+        },
+        {
+            "text": "Cool slightly."
+        },
+        {
+            "text": "Wrap and refrigerate up to 3 days."
+        },
+        {
+            "text": "Cover and refrigerate remaining pasta sauce."
+        },
+        {
+            "text": "To reheat: Place meat loaves and remaining pasta sauce in a skillet."
+        },
+        {
+            "text": "Cover and heat through."
+        },
+        {
+            "text": "You can also make bake these and serve the heated sauce with the meat loafs immediately after, if you want."
+        }
+    ]
+}

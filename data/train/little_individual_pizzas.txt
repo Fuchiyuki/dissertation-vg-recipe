@@ -1,0 +1,106 @@
+{
+    "title": "little_individual_pizzas",
+    "id": "22f52a0133",
+    "table": [
+        {
+            "instructions": "turn the oven on broil put bread_slice on cookie sheet to brown .",
+            "input": "bread_slice",
+            "action": "turn",
+            "output": "turned_bread_slice"
+        },
+        {
+            "instructions": "when browned , turn over .",
+            "input": "browned_bread",
+            "action": "turn",
+            "output": "browned_bread"
+        },
+        {
+            "instructions": "place one slice of spam diagonally across the bread",
+            "input": "(browned_bread; spam)",
+            "action": "place",
+            "output": "spam_on_bread"
+        },
+        {
+            "instructions": "take a half piece of cheese",
+            "input": "(spam_on_bread; cheese)",
+            "action": "take",
+            "output": "cheese_spam_bread"
+        },
+        {
+            "instructions": "put a dab of mustard on top .",
+            "input": "(cheese_spam_bread; mustard)",
+            "action": "put",
+            "output": "cheese_spam_bread_mustard"
+        },
+        {
+            "instructions": "put back under the broiler to melt cheese .",
+            "input": "cheese_spam_bread_mustard",
+            "action": "put",
+            "output": "broiled_cheese_spam_bread_mustard"
+        },
+        {
+            "instructions": "in a sauce pan , put the tomato_sauce and oregano to taste , warm .",
+            "input": "tomato_sauce, oregano",
+            "action": "put",
+            "output": "warmed_sauce_mixture"
+        },
+        {
+            "instructions": "remove pizzas from oven",
+            "input": "pizzas",
+            "action": "remove",
+            "output": "cooked_pizza"
+        },
+        {
+            "instructions": "put some sauce on top of each .",
+            "input": "warmed_sauce_mixture",
+            "action": "put",
+            "output": "sauce_covered_cooked_pizza"
+        }
+    ],
+    "ingredients": [
+        {
+            "text": "1 can Spam, sliced thin"
+        },
+        {
+            "text": "12 slices bread"
+        },
+        {
+            "text": "1 can tomato sauce"
+        },
+        {
+            "text": "to taste oregano"
+        },
+        {
+            "text": "6 slices cheese"
+        },
+        {
+            "text": "to taste mustard"
+        }
+    ],
+    "recipe": [
+        {
+            "text": "Turn the oven on broil - Put bread slices on cookie sheet to brown."
+        },
+        {
+            "text": "When browned, turn over."
+        },
+        {
+            "text": "Place one slice of spam diagonally across the bread, take a half piece of cheese and cross over the spam."
+        },
+        {
+            "text": "Put a dab of mustard on top."
+        },
+        {
+            "text": "Put back under the broiler to melt cheese."
+        },
+        {
+            "text": "In a sauce pan, put the tomato sauce and oregano to taste, warm."
+        },
+        {
+            "text": "Remove pizzas from oven and put some sauce on top of each."
+        },
+        {
+            "text": "ENJOY"
+        }
+    ]
+}

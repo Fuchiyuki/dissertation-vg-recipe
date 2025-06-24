@@ -1,0 +1,187 @@
+{
+    "title": "grandma_'s_pizza",
+    "id": "ec9bd35f56",
+    "table": [
+        {
+            "instructions": "preheat oven to 450 f .",
+            "input": "NA",
+            "action": "preheat",
+            "output": "NA"
+        },
+        {
+            "instructions": "grease 1 long cookie sheet pan with thin layer of olive_oil .",
+            "input": "NA",
+            "action": "grease",
+            "output": "NA"
+        },
+        {
+            "instructions": "roll out pizza_dough ;",
+            "input": "dough",
+            "action": "roll",
+            "output": "flatten_pizza_dough"
+        },
+        {
+            "instructions": "poke holes in dough when on sheet to prevent it from bubbling up .",
+            "input": "flattened_pizza_dough",
+            "action": "poke",
+            "output": "poked_flattened_pizza_dough"
+        },
+        {
+            "instructions": "add half package of shredded mozzarella over oiled dough evenly to edge ' s.",
+            "input": "shreded_mozzarella",
+            "action": "add",
+            "output": "uncooked_pizza crust with cheese"
+        },
+        {
+            "instructions": "put into oven until cheese melts and dough begins to bake 5 minutes .",
+            "input": "uncooked_pizza crust with cheese",
+            "action": "put",
+            "output": "baked_cheese_pizza"
+        },
+        {
+            "instructions": "in blender , add plum tomatoes ,",
+            "input": "plum tomatoes",
+            "action": "add",
+            "output": "plum tomatoes"
+        },
+        {
+            "instructions": "puree to thick consistency .",
+            "input": "plum tomatoes",
+            "action": "puree",
+            "output": "tomato puree"
+        },
+        {
+            "instructions": "in small bowl combine eggs , ricotta_cheese , few pinches of grated cheese , salt , pepper , onion , garlic_powder , minced parsley",
+            "input": "(eggs; ricotta_cheese; grated_cheese; salt; pepper; onion; garlic_powder; minced parsley)",
+            "action": "combine",
+            "output": "ricotta_cheese_mix"
+        },
+        {
+            "instructions": "mix to semi thick consistency .",
+            "input": "ricotta_cheese_mix",
+            "action": "mix",
+            "output": "ricotta_cheese_mix"
+        },
+        {
+            "instructions": "atop add thin layer of pureed tomatoes .",
+            "input": "(tomato puree; baked_cheese_pizza)",
+            "action": "add",
+            "output": "tomato puree added to baked_cheese_pizza"
+        },
+        {
+            "instructions": "remove from oven .",
+            "input": "baking cheese and tomato pizza",
+            "action": "remove",
+            "output": "baked cheese and tomato pizza"
+        },
+        {
+            "instructions": "spoon on remaining tomatoes",
+            "input": "(remaining tomato puree; baked cheese and tomato pizza)",
+            "action": "spoon",
+            "output": "remaining tomato puree spooned on baked cheese and tomato pizza"
+        },
+        {
+            "instructions": "spoon on dabs of ricotta_cheese mix , remaining grated cheese , shredded mozzarella",
+            "input": "(ricotta_cheese_mix; remaining grated_cheese; shredded_mozzarella)",
+            "action": "spoon",
+            "output": "ricotta_cheese_mix, grated_cheese and shredded_mozzarella spooned over baked cheese and tomato pizza"
+        },
+        {
+            "instructions": "cut fresh_mozzarella into 18 slices",
+            "input": "(fresh_mozzarella; baked cheese and tomato pizza)",
+            "action": "cut",
+            "output": "sliced_mozzarella on top of baked cheese and tomato pizza"
+        },
+        {
+            "instructions": "place chopped basil atop",
+            "input": "(chopped_basil; baked cheese and tomato pizza with fresh mozzarella)",
+            "action": "place",
+            "output": "baked cheese and tomato pizza with fresh mozzarella and basil"
+        },
+        {
+            "instructions": "bake until cheese melts .",
+            "input": "assembled tomato mozzarella pizza",
+            "action": "bake",
+            "output": "baked tomato mozzarella pizza"
+        }
+    ],
+    "ingredients": [
+        {
+            "text": "1 large pizza dough"
+        },
+        {
+            "text": "6 plumb tomatoes"
+        },
+        {
+            "text": "1/2 cup olive oil"
+        },
+        {
+            "text": "1/2 tsp salt"
+        },
+        {
+            "text": "1/2 tsp pepper"
+        },
+        {
+            "text": "1 tbsp garlic powder"
+        },
+        {
+            "text": "1/2 tbsp onion powder"
+        },
+        {
+            "text": "1 bunch fresh Basil, chopped"
+        },
+        {
+            "text": "1 small bunch, Italian curly parsley, minced"
+        },
+        {
+            "text": "1 packages shredded mozzarella cheese"
+        },
+        {
+            "text": "1 large fresh mozzarella cheese, preferably in water."
+        },
+        {
+            "text": "1 medium container, ricotta cheese (pot cheese)"
+        },
+        {
+            "text": "1 cup grated Parmesan Romano cheese."
+        },
+        {
+            "text": "2 large eggs"
+        }
+    ],
+    "recipe": [
+        {
+            "text": "preheat oven to 450 F."
+        },
+        {
+            "text": "grease 1 long cookie sheet pan with thin layer of olive oil."
+        },
+        {
+            "text": "roll out pizza dough think enough to cover entire sheet pan."
+        },
+        {
+            "text": "poke holes in dough when on sheet to prevent it from bubbling up."
+        },
+        {
+            "text": "apply thin coating of olive oil to pizza dough, add half package of shredded mozzarella over oiled dough evenly to edge's."
+        },
+        {
+            "text": "put into oven until cheese melts and dough begins to bake (5 minutes)."
+        },
+        {
+            "text": "in blender, add plumb tomatoes,and puree to thick consistency."
+        },
+        {
+            "text": "in small bowl combine eggs,ricotta cheese, few pinches of grated cheese, salt, pepper, onion,garlic powder, minced parsley and mix to semi thick consistency."
+        },
+        {
+            "text": "atop add thin layer of pureed tomatoes."
+        },
+        {
+            "text": "and put back in oven for 2 minutes, remove from oven."
+        },
+        {
+            "text": "spoon on remaining tomatoes, spoon on dabs of ricotta cheese mix,remaining grated cheese, shredded mozzarella, cut fresh mozzarella into 1/8 slices,apply over pizza, place chopped Basil atop and bake until cheese melts."
+        }
+    ]
+}

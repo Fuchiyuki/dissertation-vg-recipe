@@ -1,0 +1,142 @@
+{
+    "title": "healthified_easy_no-yeast_thin_pizza_crust",
+    "id": "45835804dd",
+    "table": [
+        {
+            "instructions": "heat oven to 40",
+            "input": "NA",
+            "actions": "heat",
+            "output": "NA"
+        },
+        {
+            "instructions": "in medium bowl , mix flour , baking_powder and salt .",
+            "input": "(flour; baking_powder; salt)",
+            "actions": "mix",
+            "output": "mixed_dry ingredients"
+        },
+        {
+            "instructions": "stir in milk and oil until soft dough forms .",
+            "input": "(mixed_dry ingredients; milk; oil)",
+            "actions": "stir",
+            "output": "dough"
+        },
+        {
+            "instructions": "if dough is dry , stir in 1 to 2 tablespoons additional liquid .",
+            "input": "(dough; additional_liquid)",
+            "actions": "stir",
+            "output": "additional_liquid stirred in dough"
+        },
+        {
+            "instructions": "on lightly floured surface , knead dough 10 times .",
+            "input": "dough",
+            "actions": "knead",
+            "output": "kneaded dough"
+        },
+        {
+            "instructions": "shape dough into ball .",
+            "input": "kneaded dough",
+            "actions": "shape",
+            "output": "ball-shaped dough"
+        },
+        {
+            "instructions": "cover with bowl ;",
+            "input": "ball-shaped dough",
+            "actions": "cover",
+            "output": "covered dough balls"
+        },
+        {
+            "instructions": "place dough on ungreased cookie sheet ;",
+            "input": "covered dough balls",
+            "actions": "place",
+            "output": "dough balls"
+        },
+        {
+            "instructions": "flatten slightly .",
+            "input": "dough balls",
+            "actions": "flatten",
+            "output": "flattened dough"
+        },
+        {
+            "instructions": "roll out to 12 inch round pizza\u2012pan .",
+            "input": "flattened dough",
+            "actions": "roll",
+            "output": "rolled dough"
+        },
+        {
+            "instructions": "poke holes in the dough with a fork .",
+            "input": "rolled dough",
+            "actions": "poke",
+            "output": "poked rolled dough"
+        },
+        {
+            "instructions": "bake 8 minutes at 400f ,",
+            "input": "uncooked pizza crust",
+            "actions": "bake",
+            "output": "baked pizza crust"
+        },
+        {
+            "instructions": "put on the toppings",
+            "input": "(baked pizza crust; toppings)",
+            "actions": "put",
+            "output": "pizza crust with toppings"
+        },
+        {
+            "instructions": "bake for another 20 25 minutes until they are cooked .",
+            "input": "uncooked pizza",
+            "actions": "bake",
+            "output": "cooked pizza"
+        }
+    ],
+    "ingredients": [
+        {
+            "text": "1 13 cups all-purpose flour"
+        },
+        {
+            "text": "1 teaspoon baking powder"
+        },
+        {
+            "text": "12 teaspoon kosher salt"
+        },
+        {
+            "text": "12 cup skim milk"
+        },
+        {
+            "text": "2 tablespoons olive oil"
+        }
+    ],
+    "recipe": [
+        {
+            "text": "Heat oven to 400F"
+        },
+        {
+            "text": "In medium bowl, mix flour, baking powder and salt."
+        },
+        {
+            "text": "Stir in milk and oil until soft dough forms."
+        },
+        {
+            "text": "If dough is dry, stir in 1 to 2 tablespoons additional liquid."
+        },
+        {
+            "text": "On lightly floured surface, knead dough 10 times."
+        },
+        {
+            "text": "Shape dough into ball."
+        },
+        {
+            "text": "Cover with bowl; let stand 10 minutes."
+        },
+        {
+            "text": "Place dough on ungreased cookie sheet; flatten slightly."
+        },
+        {
+            "text": "Roll out to 12-inch round pizza pan."
+        },
+        {
+            "text": "Poke holes in the dough with a fork."
+        },
+        {
+            "text": "Bake 8 minutes at 400F, then put on the toppings and bake for another 20-25 minutes until they are cooked."
+        }
+    ]
+}

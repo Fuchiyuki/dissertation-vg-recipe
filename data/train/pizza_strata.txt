@@ -1,0 +1,157 @@
+{
+    "title": "pizza_strata",
+    "id": "4758f373c5",
+    "table": [
+        {
+            "instructions": "preheat oven to 400 f .",
+            "input": "NA",
+            "actions": "preheat",
+            "output": "NA"
+        },
+        {
+            "instructions": "oil a 2 quart , baking dish .",
+            "input": "NA",
+            "actions": "oil",
+            "output": "NA"
+        },
+        {
+            "instructions": "heat the oil in a medium saucepan over medium heat until hot .",
+            "input": "oil",
+            "actions": "heat",
+            "output": "heated_oil"
+        },
+        {
+            "instructions": "add garlic",
+            "input": "(heated_oil; garlic)",
+            "actions": "add",
+            "output": "garlic in heated oil"
+        },
+        {
+            "instructions": "swirl until golden .",
+            "input": "garlic in heated oil",
+            "actions": "swirl",
+            "output": "cooked garlic"
+        },
+        {
+            "instructions": "stir in tomatoes with their juice , the oregano , salt and pepper .",
+            "input": "(cooked garlic; tomatoes_with_juice; oregano; sat; pepper)",
+            "actions": "stir",
+            "output": "tomatoes, oregano salt and pepper stirred in cooked garlic"
+        },
+        {
+            "instructions": "simmer until thickened .",
+            "input": "uncooked tomato sauce",
+            "actions": "simmer",
+            "output": "simmering tomato sauce"
+        },
+        {
+            "instructions": "remove from heat when sauce is thickened .",
+            "input": "simmering tomato sauce",
+            "actions": "remove",
+            "output": "thickened tomato sauce"
+        },
+        {
+            "instructions": "beat eggs with half and half with a pinch of salt and pepper .",
+            "input": "(eggs; half_and_half; salt; pepper)",
+            "actions": "beat",
+            "output": "beaten_egg_mixture"
+        },
+        {
+            "instructions": "beat into cooled tomato_sauce",
+            "input": "(cooled_tomato_sauce; beaten_egg_mixture)",
+            "actions": "beat",
+            "output": "beaten_egg and tomato mixture"
+        },
+        {
+            "instructions": "transfer into baking dish .",
+            "input": "beaten_egg and tomato mixture",
+            "actions": "transfer",
+            "output": "tomato_egg_sauce"
+        },
+        {
+            "instructions": "toss the bread and pepperoni in the tomato , egg , sauce .",
+            "input": "(tomato_egg_sauce; bread; pepperoni)",
+            "actions": "toss",
+            "output": "bread and pepperoni tossed in tomato egg sauce"
+        },
+        {
+            "instructions": "sprinkle with cheese .",
+            "input": "(cheese; bread and pepperoni in tomato egg sauce)",
+            "actions": "sprinkle",
+            "output": "cheese sprinkled in bread and pepperoni in tomato egg sauce"
+        },
+        {
+            "instructions": "bake until set , about 35 40 minutes .",
+            "input": "uncooked pizza strata",
+            "actions": "bake",
+            "output": "baked pizza strata"
+        }
+    ],
+    "ingredients": [
+        {
+            "text": "2 tablespoons extra virgin olive oil"
+        },
+        {
+            "text": "3 garlic cloves, finely chopped"
+        },
+        {
+            "text": "1 (28 ounce) can diced tomatoes"
+        },
+        {
+            "text": "1 12 teaspoons oregano"
+        },
+        {
+            "text": "4 large eggs"
+        },
+        {
+            "text": "1 cup half-and-half"
+        },
+        {
+            "text": "8 cups bread, stale and cubed"
+        },
+        {
+            "text": "2 ounces sliced pepperoni"
+        },
+        {
+            "text": "1 12 cups mozzarella cheese, shredded"
+        }
+    ],
+    "recipe": [
+        {
+            "text": "Preheat oven to 400 F."
+        },
+        {
+            "text": "Oil a 2 quart baking dish."
+        },
+        {
+            "text": "Heat the oil in a medium saucepan over medium heat until hot."
+        },
+        {
+            "text": "Add garlic and swirl until golden."
+        },
+        {
+            "text": "Stir in tomatoes with their juice, the oregano, salt and pepper."
+        },
+        {
+            "text": "Simmer until thickened."
+        },
+        {
+            "text": "Remove from heat when sauce is thickened."
+        },
+        {
+            "text": "Beat eggs with half and half with a pinch of salt and pepper."
+        },
+        {
+            "text": "Beat into cooled tomato sauce and transfer into baking dish."
+        },
+        {
+            "text": "Toss the bread and pepperoni in the tomato egg sauce."
+        },
+        {
+            "text": "Sprinkle with cheese."
+        },
+        {
+            "text": "Bake until set, about 35-40 minutes."
+        }
+    ]
+}

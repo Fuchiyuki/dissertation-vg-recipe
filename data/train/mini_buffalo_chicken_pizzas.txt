@@ -1,0 +1,157 @@
+{
+    "title": "mini_buffalo_chicken_pizzas",
+    "id": "9eb09fd444",
+    "table": [
+        {
+            "instructions": "heat oven to 425f .",
+            "input": "NA",
+            "action": "heat",
+            "output": "NA"
+        },
+        {
+            "instructions": "lightly coat cookie sheet with olive_oil .",
+            "input": "NA",
+            "action": "coat",
+            "output": "NA"
+        },
+        {
+            "instructions": "unroll dough onto clean , dry surface .",
+            "input": "dough",
+            "action": "unroll",
+            "output": "unrolled_dough"
+        },
+        {
+            "instructions": "using a biscuit cutter , cut 8 10 mini pizza_dough .",
+            "input": "dough",
+            "action": "cut",
+            "output": "cut mini pizza dough rolls"
+        },
+        {
+            "instructions": "place circles on oiled cookie sheet .",
+            "input": "cut mini pizza dough rolls",
+            "action": "place",
+            "output": "cut mini pizza dough rolls"
+        },
+        {
+            "instructions": "melt butter in large skillet over medium high heat .",
+            "input": "butter",
+            "action": "melt",
+            "output": "melted butter"
+        },
+        {
+            "instructions": "add chicken , onion and hot_pepper_sauce .",
+            "input": "(chicken; onion; hot pepper sauce; melted butter)",
+            "action": "add",
+            "output": "chicken, onion, hot pepper sauce added to melted butter"
+        },
+        {
+            "instructions": "cook 4 to 6 minutes or until chicken is no longer pink in center , stirring occasionally .",
+            "input": "chicken, onion, hot pepper sauce added to melted butter",
+            "action": "cook",
+            "output": "cooked chicken mixture"
+        },
+        {
+            "instructions": "remove from heat .",
+            "input": "cooked chicken mixture",
+            "action": "remove",
+            "output": "cooked chicken mixture"
+        },
+        {
+            "instructions": "stir in tomatoes .",
+            "input": "(tomatoes; cooked chicken mixture)",
+            "action": "stir",
+            "output": "stirred chicken mixture with tomatoes"
+        },
+        {
+            "instructions": "with slotted spoon , spoon mixture over dough circles to within 14 inch of edges .",
+            "input": "(stirred chicken mixture with tomatoes; cut mini pizza dough rolls)",
+            "action": "spoon",
+            "output": "chicken mixture with tomatoes spread on cut mini pizza dough rolls"
+        },
+        {
+            "instructions": "sprinkle with cheese .",
+            "input": "(cheese; chicken mixture with tomatoes spread on cut mini pizza dough rolls)",
+            "action": "sprinkle",
+            "output": "chicken mixture with tomatoes and cheese on cut mini pizza dough rolls"
+        },
+        {
+            "instructions": "bake at 425f for 12 to 15 minutes or until crust is deep golden brown .",
+            "input": "uncooked mini_buffalo_chicken_pizzas",
+            "action": "bake",
+            "output": "baked mini_buffalo_chicken_pizzas"
+        }
+    ],
+    "ingredients": [
+        {
+            "text": "olive oil (to coat pan)"
+        },
+        {
+            "text": "1 (13 7/8 ounce) refrigerated prepared pizza crust"
+        },
+        {
+            "text": "3 tablespoons butter or 3 tablespoons margarine"
+        },
+        {
+            "text": "1 lb skinless chicken breast half, cut into 1/2-inch pieces"
+        },
+        {
+            "text": "3 tablespoons hot pepper sauce (I like Frank's Red Hot Sauce)"
+        },
+        {
+            "text": "1 cup monterey jack cheese, shredded"
+        },
+        {
+            "text": "1 cup plum tomato, diced (optional)"
+        },
+        {
+            "text": "12 cup sweet onion, chopped (optional)"
+        }
+    ],
+    "recipe": [
+        {
+            "text": "Heat oven to 425F."
+        },
+        {
+            "text": "Lightly coat cookie sheet with olive oil."
+        },
+        {
+            "text": "Unroll dough onto clean, dry surface."
+        },
+        {
+            "text": "Using a biscuit cutter, cut 8-10 mini pizza doughs."
+        },
+        {
+            "text": "(Number will depend on size of biscuit cutter."
+        },
+        {
+            "text": ")."
+        },
+        {
+            "text": "Place circles on oiled cookie sheet."
+        },
+        {
+            "text": "Melt butter in large skillet over medium-high heat."
+        },
+        {
+            "text": "Add chicken, onion and hot pepper sauce."
+        },
+        {
+            "text": "Cook 4 to 6 minutes or until chicken is no longer pink in center, stirring occasionally."
+        },
+        {
+            "text": "Remove from heat."
+        },
+        {
+            "text": "Stir in tomatoes."
+        },
+        {
+            "text": "With slotted spoon, spoon mixture over dough circles to within 1/4 inch of edges."
+        },
+        {
+            "text": "Sprinkle with cheese."
+        },
+        {
+            "text": "Bake at 425F for 12 to 15 minutes or until crust is deep golden brown."
+        }
+    ]
+}

@@ -1,0 +1,154 @@
+{
+    "title": "curried_fruit_and_cream_pizza",
+    "id": "794644454f",
+    "table": [
+        {
+            "instructions": "make the pizza_dough .",
+            "input": "pizza_dough",
+            "action": "make",
+            "output": "made_pizza_dough"
+        },
+        {
+            "instructions": "preheat an oven to 450f .",
+            "input": "NA",
+            "action": "preheat",
+            "output": "NA"
+        },
+        {
+            "instructions": "if using a baking stone or tiles , place in the oven now .",
+            "input": "NA",
+            "action": "place",
+            "output": "NA"
+        },
+        {
+            "instructions": "place all the fruits in a saucepan .",
+            "input": "fruits",
+            "action": "place",
+            "output": "fruits_in_saucepan"
+        },
+        {
+            "instructions": "pour in the cream",
+            "input": "(fruits_in_saucepan; cream)",
+            "action": "pour",
+            "output": "cream_poured_over_fruits"
+        },
+        {
+            "instructions": "gently stir in the curry_powder .",
+            "input": "(cream_poured_over_fruits; curry powser)",
+            "action": "stir",
+            "output": "fruits_in_curry_cream"
+        },
+        {
+            "instructions": "cover",
+            "input": "fruits_in_curry_cream",
+            "action": "cover",
+            "output": "covered_fruits_in_curry_cream"
+        },
+        {
+            "instructions": "cook over low heat until the fruits are soft and the cream is absorbed , about 15 minutes .",
+            "input": "covered_fruits_in_curry_cream",
+            "action": "cook",
+            "output": "cooked_soft_fruits_in_curry_cream"
+        },
+        {
+            "instructions": "roll out the pizza_dough",
+            "input": "pizza_dough",
+            "action": "roll",
+            "output": "rolled_out_pizza_dough"
+        },
+        {
+            "instructions": "cover with the fruit mixture .",
+            "input": "(rolled_out_pizza_dough; cooked_soft_fruits_in_curry_cream)",
+            "action": "cover",
+            "output": "pizza_dough_covered_with_cooked_soft_fruits_in_curry_cream"
+        },
+        {
+            "instructions": "transfer the pizza to the oven",
+            "input": "pizza_dough_covered_with_cooked_soft_fruits_in_curry_cream",
+            "action": "transfer",
+            "output": "pizza_dough_covered_with_cooked_soft_fruits_in_curry_cream"
+        },
+        {
+            "instructions": "bake for 10 minutes .",
+            "input": "pizza_dough_covered_with_cooked_soft_fruits_in_curry_cream",
+            "action": "bake",
+            "output": "partially_baked_ curried_fruit_and_cream_pizza"
+        },
+        {
+            "instructions": "reduce the temperature to 400f 200c",
+            "input": "partially_baked_ curried_fruit_and_cream_pizza",
+            "action": "reduce",
+            "output": "partially_baked_ curried_fruit_and_cream_pizza"
+        },
+        {
+            "instructions": "bake until the crust is golden , about 10 minutes .",
+            "input": "partially_baked_ curried_fruit_and_cream_pizza",
+            "action": "bake",
+            "output": "fully_baked_golden_ curried_fruit_and_cream_pizza"
+        },
+        {
+            "instructions": "serve immediately .",
+            "input": "fully_baked_golden_ curried_fruit_and_cream_pizza",
+            "action": "serve",
+            "output": "fully_baked_golden_ curried_fruit_and_cream_pizza ready to eat"
+        }
+    ],
+    "ingredients": [
+        {
+            "text": "1 each pizza dough"
+        },
+        {
+            "text": "2 each apples peeled, cored, 1/2 inch dice"
+        },
+        {
+            "text": "1 each pears peeled, cored, 1/2inch dice"
+        },
+        {
+            "text": "2 ounces candied pineapple 1/2 inch dice"
+        },
+        {
+            "text": "1 each bananas peeled, 1/2inch dice"
+        },
+        {
+            "text": "3 ounces grapes, seedless"
+        },
+        {
+            "text": "1/2 cup heavy whipping cream"
+        },
+        {
+            "text": "2 tablespoons curry powder"
+        }
+    ],
+    "recipe": [
+        {
+            "text": "Make the pizza dough."
+        },
+        {
+            "text": "Preheat an oven to 450F."
+        },
+        {
+            "text": "If using a baking stone or tiles, place in the oven now."
+        },
+        {
+            "text": "Place all the fruits in a saucepan."
+        },
+        {
+            "text": "Pour in the cream and gently stir in the curry powder."
+        },
+        {
+            "text": "Cover and cook over low heat until the fruits are soft and the cream is absorbed, about 15 minutes."
+        },
+        {
+            "text": "Roll out the pizza dough and cover with the fruit mixture."
+        },
+        {
+            "text": "Transfer the pizza to the oven and bake for 10 minutes."
+        },
+        {
+            "text": "Reduce the temperature to 400F (200C) and bake until the crust is golden, about 10 minutes."
+        },
+        {
+            "text": "Serve immediately."
+        }
+    ]
+}

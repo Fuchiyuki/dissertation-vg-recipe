@@ -1,0 +1,79 @@
+{
+    "title": "halloween_pizza",
+    "id": "c8a09e347c",
+    "table": [
+        {
+            "instructions": "place pizza on a 12 in .",
+            "input": "pizza crust",
+            "action": "place",
+            "output": "pizza crust"
+        },
+        {
+            "instructions": "arrange olives in a circle around edge of pizza .",
+            "input": "(olives; pizza crust)",
+            "action": "arrange",
+            "output": "olives_arranged_on_pizza crust"
+        },
+        {
+            "instructions": "cut a nose , eyes and mouth from red_pepper .",
+            "input": "red_pepper",
+            "action": "cut",
+            "output": "cut_red_pepper in shape of nose, eyes and mouth"
+        },
+        {
+            "instructions": "cut a stem and eyebrows from green_pepper .",
+            "input": "green_pepper",
+            "action": "cut",
+            "output": "cut_green_pepper in shape of stem and eybrows"
+        },
+        {
+            "instructions": "make a jack o'lantern face on pizza .",
+            "input": "(olives_arranged_on_pizza; red_pepper cuts; green_pepper cuts)",
+            "action": "make",
+            "output": "pizza_with_jack_o_lantern_face "
+        },
+        {
+            "instructions": "bake according to package directions .",
+            "input": "uncooked_pizza",
+            "action": "bake",
+            "output": "baked_pizza"
+        }
+    ],
+    "ingredients": [
+        {
+            "text": "1 frozen cheese pizza (12 inches)"
+        },
+        {
+            "text": "1 (6 ounce) can pitted ripe olives, drained and halved"
+        },
+        {
+            "text": "1 medium sweet red pepper"
+        },
+        {
+            "text": "1 small green pepper"
+        }
+    ],
+    "recipe": [
+        {
+            "text": "Place pizza on a 12-in."
+        },
+        {
+            "text": "pizza pan."
+        },
+        {
+            "text": "Arrange olives in a circle around edge of pizza."
+        },
+        {
+            "text": "Cut a nose, eyes and mouth from red pepper."
+        },
+        {
+            "text": "Cut a stem and eyebrows from green pepper."
+        },
+        {
+            "text": "Make a jack-o'-lantern face on pizza."
+        },
+        {
+            "text": "Bake according to package directions."
+        }
+    ]
+}

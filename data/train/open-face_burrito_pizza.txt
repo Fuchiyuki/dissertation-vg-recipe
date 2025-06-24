@@ -1,0 +1,205 @@
+{
+    "title": "open-face_burrito_pizza",
+    "id": "7b0deedc94",
+    "table": [
+        {
+            "instructions": "heat oven to 350f",
+            "input": "NA",
+            "action": "heat",
+            "output": "NA"
+        },
+        {
+            "instructions": "brush 1 teaspoon of the oil on 15x12",
+            "input": "NA",
+            "action": "brush",
+            "output": "NA"
+        },
+        {
+            "instructions": "unroll pizza_crust dough on cookie sheet into 12x9 inch rectangle ;",
+            "input": "pizza crust dough",
+            "action": "unroll",
+            "output": "pizza crust unrolled on cookie sheet"
+        },
+        {
+            "instructions": "brush with 2 teaspoons , oil .",
+            "input": "(oil; pizza crust unrolled on cookie sheet)",
+            "action": "brush",
+            "output": "pizza crust brushed with oil"
+        },
+        {
+            "instructions": "bake 10 minutes .",
+            "input": "pizza crust brushed with oil",
+            "action": "bake",
+            "output": "baked crust"
+        },
+        {
+            "instructions": "meanwhile , in 12 inch skillet , heat remaining 1 tablespoon oil over medium heat .",
+            "input": "oil",
+            "action": "heat",
+            "output": "oil heated"
+        },
+        {
+            "instructions": "add onion and garlic ;",
+            "input": "(onion; garlic; oil heated)",
+            "action": "add",
+            "output": "onion and garlic added to heated oil"
+        },
+        {
+            "instructions": "cook about 5 minutes , stirring occasionally , until onion is tender .",
+            "input": "onion and garlic added to heated oil",
+            "action": "cook",
+            "output": "cooked onion mixture"
+        },
+        {
+            "instructions": "stir in undrained beans , cumin , coriander and pepper ;",
+            "input": "(undrained beans; cumin; coriander; pepper; cooked onion mixture)",
+            "action": "stir",
+            "output": "undrained beans , cumin , coriander and pepper stirred in cooked onion mixture"
+        },
+        {
+            "instructions": "cook 1 minute .",
+            "input": "undrained beans , cumin , coriander and pepper stirred in cooked onion mixture",
+            "action": "cook",
+            "output": "seasoned beans mixture"
+        },
+        {
+            "instructions": "stir in rice and butter .",
+            "input": "(seasoned beans mixture; rice; butter)",
+            "action": "stir",
+            "output": "seasoned beans and rice mixture"
+        },
+        {
+            "instructions": "stir in chiles .",
+            "input": "(chiles; seasoned beans and rice mixture)",
+            "action": "stir",
+            "output": "spicy beans and rice mixture"
+        },
+        {
+            "instructions": "remove from heat ;",
+            "input": "spicy beans and rice mixture",
+            "action": "remove",
+            "output": "spicy beans and rice mixture"
+        },
+        {
+            "instructions": "set aside .",
+            "input": "spicy beans and rice mixture",
+            "action": "set",
+            "output": "spicy beans and rice mixture"
+        },
+        {
+            "instructions": "using slotted spoon , spread thin layer of salsa over partially baked crust .",
+            "input": "(baked crust; spicy beans and rice mixture)",
+            "action": "spread",
+            "output": "spicy beans and rice mixture spread on baked crust"
+        },
+        {
+            "instructions": "sprinkle with 1 tablespoon of the cilantro , the corn and remaining 1 12 cups cheese .",
+            "input": "(baked crust with spicy beans and rice mixture; cilantro; corn; remaining cheese)",
+            "action": "sprinkle",
+            "output": "baked crust with spicy beans and rice mixture, cilantro, corn and remaining cheese"
+        },
+        {
+            "instructions": "bake 20 to 30 minutes longer or until edges of crust are golden brown and cheese is melted .",
+            "input": "baked crust with spicy beans and rice mixture, cilantro, corn and remaining cheese",
+            "action": "bake",
+            "output": "baked open face burrito pizza"
+        },
+        {
+            "instructions": "garnish with remaining 1 tablespoon , cilantro .",
+            "input": "(cilantro; baked open face burrito pizza)",
+            "action": "garnish",
+            "output": "baked open face burrito pizza garnished with cilantro"
+        }
+    ],
+    "ingredients": [
+        {
+            "text": "2 tablespoons olive oil"
+        },
+        {
+            "text": "1 (13 7/8 ounce) can Pillsbury refrigerated classic pizza crust"
+        },
+        {
+            "text": "12 cup chopped onion (about 1 small)"
+        },
+        {
+            "text": "1 garlic clove, finely chopped"
+        },
+        {
+            "text": "1 (15 ounce) can black beans, undrained"
+        },
+        {
+            "text": "1 teaspoon ground cumin"
+        },
+        {
+            "text": "1 teaspoon ground coriander"
+        },
+        {
+            "text": "1 teaspoon pepper"
+        },
+        {
+            "text": "2 cups cooked rice (any variety)"
+        },
+        {
+            "text": "1 tablespoon land o lakes butter"
+        },
+        {
+            "text": "1 (4 1/2 ounce) canchopped green chilies"
+        },
+        {
+            "text": "1 cup fresh salsa (any variety)"
+        },
+        {
+            "text": "1 (8 ounce) bagshredded Mexican blend cheese (2 cups)"
+        },
+        {
+            "text": "2 tablespoons chopped fresh cilantro, if desired"
+        },
+        {
+            "text": "1 cup frozen corn, thawed, drained"
+        }
+    ],
+    "recipe": [
+        {
+            "text": "Heat oven to 350F Brush 1 teaspoon of the oil on 15x12-inch cookie sheet."
+        },
+        {
+            "text": "Unroll pizza crust dough on cookie sheet into 12x9-inch rectangle; brush with 2 teaspoons oil."
+        },
+        {
+            "text": "Bake 10 minutes."
+        },
+        {
+            "text": "Meanwhile, in 12-inch skillet, heat remaining 1 tablespoon oil over medium heat."
+        },
+        {
+            "text": "Add onion and garlic; cook about 5 minutes, stirring occasionally, until onion is tender."
+        },
+        {
+            "text": "Stir in undrained beans, cumin, coriander and pepper; cook 1 minute."
+        },
+        {
+            "text": "Stir in rice and butter."
+        },
+        {
+            "text": "Stir in chiles."
+        },
+        {
+            "text": "Remove from heat; set aside."
+        },
+        {
+            "text": "Using slotted spoon, spread thin layer of salsa over partially baked crust."
+        },
+        {
+            "text": "Layer with 1/2 cup of the cheese and the bean mixture."
+        },
+        {
+            "text": "Sprinkle with 1 tablespoon of the cilantro, the corn and remaining 1 1/2 cups cheese."
+        },
+        {
+            "text": "Bake 20 to 30 minutes longer or until edges of crust are golden brown and cheese is melted."
+        },
+        {
+            "text": "Garnish with remaining 1 tablespoon cilantro."
+        }
+    ]
+}

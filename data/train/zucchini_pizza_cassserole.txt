@@ -1,0 +1,148 @@
+{
+    "title": "zucchini_pizza_cassserole",
+    "id": "65a5df9cb3",
+    "table": [
+        {
+            "instructions": "place the shredded_zucchini in a strainer ;",
+            "input": "shredded_zucchini",
+            "actions": "place",
+            "output": "shredded_zucchini"
+        },
+        {
+            "instructions": "sprinkle with salt .",
+            "input": "(shredded_zucchini; salt)",
+            "actions": "sprinkle",
+            "output": "salted_shredded_zucchini"
+        },
+        {
+            "instructions": "squeeze out moisture .",
+            "input": "(moisture; salted_shredded_zucchini)",
+            "actions": "squeeze",
+            "output": "squeezed_salted_shredded_zucchini"
+        },
+        {
+            "instructions": "combine zucchini with the eggs , parmesan , pepper , and half of the mozzarella and cheddar_cheese .",
+            "input": "(zucchini; eggs; parmesan; pepper; mozzarella; cheddar)",
+            "actions": "combine",
+            "output": "zucchini_eggs_and_cheese_mix"
+        },
+        {
+            "instructions": "press into a greased 13x9 inch , baking dish .",
+            "input": "zucchini_eggs_and_cheese_mix",
+            "actions": "press",
+            "output": "pressed_zucchini_eggs_and_cheese_mix"
+        },
+        {
+            "instructions": "bake , uncovered , at 400 degrees f for 20 minutes .",
+            "input": "uncooked_zucchini_eggs_and_cheese_mix",
+            "actions": "bake",
+            "output": "baked_zucchini_eggs_and_cheese_mix"
+        },
+        {
+            "instructions": "meanwhile , cook beef over medium heat until meat is no longer pink ;",
+            "input": "raw_beef",
+            "actions": "cook",
+            "output": "cooking_beef"
+        },
+        {
+            "instructions": "drain grease .",
+            "input": "(grease;cooking_beef)",
+            "actions": "drain",
+            "output": "drained_cooking_beef"
+        },
+        {
+            "instructions": "add tomato_sauce",
+            "input": "(tomato_sauce; cooking_beef)",
+            "actions": "add",
+            "output": "beef_and_tomato_sauce"
+        },
+        {
+            "instructions": "mix to combine .",
+            "input": "beef_and_tomato_sauce",
+            "actions": "mix",
+            "output": "beef_and_tomato_sauce"
+        },
+        {
+            "instructions": "then spoon it over the zucchini mixture .",
+            "input": "beef_and_tomato_sauce, zucchini_mixture",
+            "actions": "spoon",
+            "output": "zucchini_mixture_topped_with_beef_and_tomato_sauce"
+        },
+        {
+            "instructions": "sprinkle with remaining cheeses .",
+            "input": "zucchini_mixture_topped_with_beef_and_tomato_sauce, cheeses",
+            "actions": "sprinkle",
+            "output": "zucchini_mixture_topped_with_beef_sauce_and_cheeses"
+        },
+        {
+            "instructions": "bake 20 minutes longer or until heated through .",
+            "input": "uncooked_zucchini_pizza_casserole",
+            "actions": "bake",
+            "output": "cooked_zucchini_pizza_casserole"
+        }
+    ],
+    "ingredients": [
+        {
+            "text": "4 cups Shredded, Unpeeled Zucchini"
+        },
+        {
+            "text": "1/2 teaspoons Salt"
+        },
+        {
+            "text": "2 whole Eggs"
+        },
+        {
+            "text": "1/2 cups Parmesan Cheese"
+        },
+        {
+            "text": "1/2 teaspoons Black Pepper"
+        },
+        {
+            "text": "2 cups Shredded Part-skim Mozzarella Cheese, Divided"
+        },
+        {
+            "text": "1 cup Shredded Cheddar Cheese, Divided"
+        },
+        {
+            "text": "1 pound Ground Beef"
+        },
+        {
+            "text": "1 can (15 Oz. Size) Italian Tomato Sauce"
+        }
+    ],
+    "recipe": [
+        {
+            "text": "Place the shredded zucchini in a strainer; sprinkle with salt."
+        },
+        {
+            "text": "Let stand for 10 minutes."
+        },
+        {
+            "text": "Squeeze out moisture."
+        },
+        {
+            "text": "Combine zucchini with the eggs, Parmesan, pepper, and half of the mozzarella and cheddar cheeses."
+        },
+        {
+            "text": "Press into a greased 13x9-inch baking dish."
+        },
+        {
+            "text": "Bake, uncovered, at 400 degrees F for 20 minutes."
+        },
+        {
+            "text": "Meanwhile, cook beef over medium heat until meat is no longer pink; drain grease."
+        },
+        {
+            "text": "Add tomato sauce and mix to combine."
+        },
+        {
+            "text": "Then spoon it over the zucchini mixture."
+        },
+        {
+            "text": "Sprinkle with remaining cheeses."
+        },
+        {
+            "text": "Bake 20 minutes longer or until heated through."
+        }
+    ]
+}

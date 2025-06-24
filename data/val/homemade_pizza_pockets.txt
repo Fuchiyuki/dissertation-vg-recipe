@@ -1,0 +1,199 @@
+{
+    "title": "homemade_pizza_pockets",
+    "id": "d046a16672",
+    "table": [
+        {
+            "instructions": "mix the dough ingredients ;",
+            "input": "ingredients",
+            "actions": "mix",
+            "output": "mixed_ingredients"
+        },
+        {
+            "instructions": "while dough is rising , prepare the filling .",
+            "input": "NA",
+            "actions": "prepare",
+            "output": "NA"
+        },
+        {
+            "instructions": "chop the mushrooms , zucchini , bell_pepper",
+            "input": "(mushrooms; zucchini; bell_pepper)",
+            "actions": "chop",
+            "output": "chopped mushrooms, zucchini and bell_pepper"
+        },
+        {
+            "instructions": "saute for 510 minutes .",
+            "input": "chopped mushrooms, zucchini and bell_pepper",
+            "actions": "saute",
+            "output": "sauteed chopped vegetable mixture"
+        },
+        {
+            "instructions": "season with italian_seasoning , parsley and basil .",
+            "input": "(sauteed chopped vegetable mixture; italian_seasoning; parsley; basil)",
+            "actions": "season",
+            "output": "seasoned chopped vegetable mixture with italian_seasoning, parsley and basil"
+        },
+        {
+            "instructions": "mix pizza_sauce , spinach , cheese , and sauteed vegetables together .",
+            "input": "(pizza_sauce; spinach; cheese; sauteed vegetables)",
+            "actions": "mix",
+            "output": "filling"
+        },
+        {
+            "instructions": "form dough into a log",
+            "input": "dough",
+            "actions": "form",
+            "output": "shaped dough in a log"
+        },
+        {
+            "instructions": "divide into 18 equal pieces .",
+            "input": "shaped dough in a log",
+            "actions": "divide",
+            "output": "divided dough"
+        },
+        {
+            "instructions": "using a rolling pin , shape each piece into an oval .",
+            "input": "divided dough",
+            "actions": "shape",
+            "output": "shaped piece of dough"
+        },
+        {
+            "instructions": "place about 14 cup of the filling in the lower half of the dough",
+            "input": "(filling; shaped piece of dough)",
+            "actions": "place",
+            "output": "filling placed in piece of dough"
+        },
+        {
+            "instructions": "fold the dough over in half .",
+            "input": "filling placed in piece of dough",
+            "actions": "fold",
+            "output": "folded piece of dough"
+        },
+        {
+            "instructions": "using fingers , pinch dough together to seal all edges .",
+            "input": "folded piece of dough",
+            "actions": "pinch",
+            "output": "sealed piece of dough"
+        },
+        {
+            "instructions": "place pocket on a lightly sprayed cookie sheet and , with a pastry brush",
+            "input": "sealed piece of dough",
+            "actions": "place",
+            "output": "uncooked pizza pocket"
+        },
+        {
+            "instructions": "brush dough with egg_white wash egg_white and water whisked together .",
+            "input": "(egg_white_wash; uncooked pizza pocket)",
+            "actions": "brush",
+            "output": "uncooked pizza pocket brushed with  egg_white wash"
+        },
+        {
+            "instructions": "bake at 350 degrees f for 15 minutes or until golden brown .",
+            "input": "uncooked pizza pocket",
+            "actions": "bake",
+            "output": "baked pizza pocket"
+        },
+        {
+            "instructions": "remove from oven",
+            "input": "baked pizza pocket",
+            "actions": "remove",
+            "output": "baked pizza pocket"
+        }
+    ],
+    "ingredients": [
+        {
+            "text": "1/2 cups Water"
+        },
+        {
+            "text": "4 teaspoons Yeast"
+        },
+        {
+            "text": "3/4 cups Warm Milk"
+        },
+        {
+            "text": "1/2 cups Oil"
+        },
+        {
+            "text": "1/4 cups Sugar"
+        },
+        {
+            "text": "1 whole Egg"
+        },
+        {
+            "text": "1 teaspoon Salt"
+        },
+        {
+            "text": "4- 1/2 cups Flour"
+        },
+        {
+            "text": "1 cup Sliced Portobella Mushrooms"
+        },
+        {
+            "text": "1 whole Zucchini, Chopped"
+        },
+        {
+            "text": "1/2 whole Bell Pepper, Chopped"
+        },
+        {
+            "text": "1 teaspoon Italian Seasoning"
+        },
+        {
+            "text": "1 teaspoon Parsley"
+        },
+        {
+            "text": "1/2 teaspoons Basil"
+        },
+        {
+            "text": "2- 1/2 cups Pizza Or Spaghetti Sauce"
+        },
+        {
+            "text": "4 cups Baby Spinach"
+        },
+        {
+            "text": "2 cups Mozzarella Cheese"
+        },
+        {
+            "text": "1 whole Egg White Mixed With 1 Tablespoon Water (For Egg Wash)"
+        }
+    ],
+    "recipe": [
+        {
+            "text": "Mix the dough ingredients; let rise in a greased clean bowl for 1 hour."
+        },
+        {
+            "text": "While dough is rising, prepare the filling."
+        },
+        {
+            "text": "Chop the mushrooms, zucchini, bell pepper and saute for 510 minutes."
+        },
+        {
+            "text": "Season with Italian seasoning, parsley and basil."
+        },
+        {
+            "text": "Mix pizza sauce, spinach, cheese, and sauteed vegetables together."
+        },
+        {
+            "text": "Form dough into a log, divide into 18 equal pieces."
+        },
+        {
+            "text": "Using a rolling pin, shape each piece into an oval."
+        },
+        {
+            "text": "Place about 1/4 cup of the filling in the lower half of the dough, fold the dough over in half."
+        },
+        {
+            "text": "Allow room around the edges to seal."
+        },
+        {
+            "text": "Using fingers, pinch dough together to seal all edges."
+        },
+        {
+            "text": "Place pocket on a lightly sprayed cookie sheet and, with a pastry brush, brush dough with egg white wash (egg white and water whisked together)."
+        },
+        {
+            "text": "Bake at 350 degrees F for 15 minutes or until golden brown."
+        },
+        {
+            "text": "Remove from oven, cool and enjoy!"
+        }
+    ]
+}

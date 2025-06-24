@@ -1,0 +1,139 @@
+{
+    "title": "grilled_ham_and_pineapple_pizza",
+    "id": "57a94c4277",
+    "table": [
+        {
+            "instructions": "preheat grill to medium high heat .",
+            "input": "NA",
+            "action": "preheat",
+            "output": "NA"
+        },
+        {
+            "instructions": "arrange pineapple and ham slices on grill rack coated with cooking_spray .",
+            "input": "(ham; pineapple)",
+            "action": "arrange",
+            "output": "ham and pineapple slices"
+        },
+        {
+            "instructions": "grill ham 1 minute , turning once .",
+            "input": "uncooked ham slices",
+            "action": "grill",
+            "output": "grilled ham slices"
+        },
+        {
+            "instructions": "remove ham from grill .",
+            "input": "grilled ham slices",
+            "action": "remove",
+            "output": "grilled ham slices"
+        },
+        {
+            "instructions": "grill pineapple 9 minutes , turning once .",
+            "input": "uncooked pineapple slices",
+            "action": "grill",
+            "output": "grilled pineapple slices"
+        },
+        {
+            "instructions": "remove from grill ;",
+            "input": "grilled pineapple slices",
+            "action": "remove",
+            "output": "grilled pineapple slices"
+        },
+        {
+            "instructions": "coarsely chop pineapple .",
+            "input": "grilled pineapple slices",
+            "action": "chop",
+            "output": "chopped grilled pineapple"
+        },
+        {
+            "instructions": "spread sauce evenly over crust , leaving a 12 inch border ;",
+            "input": "(crust; sauce)",
+            "action": "spread",
+            "output": "sauced crust"
+        },
+        {
+            "instructions": "top evenly with cheese .",
+            "input": "(cheese; sauced crust)",
+            "action": "top",
+            "output": "sauced crust with cheese"
+        },
+        {
+            "instructions": "arrange pineapple and ham over cheese .",
+            "input": "(sauced crust with cheese; chopped grilled pineapple; grilled ham slices)",
+            "action": "arrange",
+            "output": "chopped grilled pineapple, chopped grilled pineapple and grilled ham slices"
+        },
+        {
+            "instructions": "place pizza on grill rack coated with cooking_spray ;",
+            "input": "uncooked ham_and_pineapple_pizza",
+            "action": "place",
+            "output": "uncooked ham_and_pineapple_pizza"
+        },
+        {
+            "instructions": "grill 7 minutes or until cheese melts .",
+            "input": "uncooked ham_and_pineapple_pizza",
+            "action": "grill",
+            "output": "grilled_ham_and_pineapple_pizza"
+        },
+        {
+            "instructions": "cut into 8 slices .",
+            "input": "grilled_ham_and_pineapple_pizza",
+            "action": "cut",
+            "output": "sliced grilled_ham_and_pineapple_pizza"
+        }
+    ],
+    "ingredients": [
+        {
+            "text": "2 (1/2-inch-thick) slices fresh pineapple"
+        },
+        {
+            "text": "3 ounces thinly sliced lower-sodium ham (such as Boar's Head)"
+        },
+        {
+            "text": "Cooking spray"
+        },
+        {
+            "text": "1/2 cup spicy tomato and basil pasta sauce"
+        },
+        {
+            "text": "1 (8-ounce) prebaked thin pizza crust"
+        },
+        {
+            "text": "2 ounces shredded part-skim mozzarella cheese (about 1/2 cup)"
+        }
+    ],
+    "recipe": [
+        {
+            "text": "1."
+        },
+        {
+            "text": "Preheat grill to medium-high heat.2."
+        },
+        {
+            "text": "Arrange pineapple and ham slices on grill rack coated with cooking spray."
+        },
+        {
+            "text": "Grill ham 1 minute, turning once."
+        },
+        {
+            "text": "Remove ham from grill."
+        },
+        {
+            "text": "Grill pineapple 9 minutes, turning once."
+        },
+        {
+            "text": "Remove from grill; coarsely chop pineapple."
+        },
+        {
+            "text": "Spread sauce evenly over crust, leaving a 1/2-inch border; top evenly with cheese."
+        },
+        {
+            "text": "Arrange pineapple and ham over cheese."
+        },
+        {
+            "text": "Place pizza on grill rack coated with cooking spray; grill 7 minutes or until cheese melts."
+        },
+        {
+            "text": "Cut into 8 slices."
+        }
+    ]
+}

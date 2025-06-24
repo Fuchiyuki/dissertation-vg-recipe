@@ -1,0 +1,145 @@
+{
+    "title": "barbecue_cashew-chicken_pizza_with_french-fried_onions",
+    "id": "f1d15bee5e",
+    "table": [
+        {
+            "instructions": "heat oven to 400f ;",
+            "input": "NA",
+            "action": "heat",
+            "output": "NA"
+        },
+        {
+            "instructions": "spray 13x9 inch pan or 12 inch , pizza\u2012pan with cooking_spray .",
+            "input": "NA",
+            "action": "spray",
+            "output": "NA"
+        },
+        {
+            "instructions": "unroll pizza_crust dough on pan ;",
+            "input": "pizza_crust dough",
+            "action": "unroll",
+            "output": "unrolled_pizza_crust dough"
+        },
+        {
+            "instructions": "press dough to edges of pan .",
+            "input": "unrolled_pizza_crust dough",
+            "action": "press",
+            "output": "pressed unrolled_pizza_crust dough"
+        },
+        {
+            "instructions": "bake 7 8 minutes or until golden brown .",
+            "input": "pressed unrolled_pizza_crust dough",
+            "action": "bake",
+            "output": "partially baked crust"
+        },
+        {
+            "instructions": "meanwhile , in medium bowl , mix barbecue_sauce , jelly , pepper and chopped_onion .",
+            "input": "barbecue_sauce, jelly, pepper, chopped_onion",
+            "action": "mix",
+            "output": "combined sauce"
+        },
+        {
+            "instructions": "spread evenly over partially baked crust .",
+            "input": "(combined sauce; partially baked crust)",
+            "action": "spread",
+            "output": "partially baked crust with sauce on top"
+        },
+        {
+            "instructions": "top with chicken , cashews , chopped_cilantro and cheese .",
+            "input": "(chicken, cashews, chopped_cliantro, cheese; partially baked crust with sauce on top)",
+            "action": "top",
+            "output": "crust topped with sauce mixtrue, chicken, cashews, chopped_cilantro and cheese"
+        },
+        {
+            "instructions": "bake 7 8 minutes longer or until cheese is melted and crust is deep golden brown .",
+            "input": "crust topped with sauce mixtrue, chicken, cashews, chopped_cilantro and cheese",
+            "action": "bake",
+            "output": "baked barbecue_cashew-chicken_pizza"
+        },
+        {
+            "instructions": "sprinkle french_fried_onion over pizza .",
+            "input": "(french fried onion; baked barbecue_cashew-chicken_pizza)",
+            "action": "sprinkle",
+            "output": "baked barbecue_cashew-chicken_pizza topped with french fried onion"
+        },
+        {
+            "instructions": "bake 2 3 minutes longer or until onions are golden .",
+            "input": "barbecue_cashew-chicken_pizza_with_french-fried_onions",
+            "action": "bake",
+            "output": "doubly baked barbecue_cashew-chicken_pizza_with_french-fried_onions"
+        },
+        {
+            "instructions": "garnish with cilantro_sprig .",
+            "input": "(cilantro sprig; barbecue_cashew-chicken_pizza_with_french-fried_onions)",
+            "action": "garnish",
+            "output": "barbecue_cashew-chicken_pizza_with_french-fried_onions garnished with cilantro sprig"
+        }
+    ],
+    "ingredients": [
+        {
+            "text": "1 (13 7/8 ounce) refrigerated prepared pizza crust"
+        },
+        {
+            "text": "14 cup whiskey-flavored barbecue sauce or 14 cup regular barbecue sauce"
+        },
+        {
+            "text": "1 tablespoon grape jelly"
+        },
+        {
+            "text": "14 teaspoon pepper"
+        },
+        {
+            "text": "14 cup chopped sweet onion (such as Vidalia, Maui or Walla Walla)"
+        },
+        {
+            "text": "1 12 cups cubed cooked chicken breasts"
+        },
+        {
+            "text": "13 cup cashew halves"
+        },
+        {
+            "text": "2 tablespoons chopped fresh cilantro"
+        },
+        {
+            "text": "1 cup finely shredded mozzarella cheese or 1 cup Italian cheese blend"
+        },
+        {
+            "text": "34 cup French-fried onions"
+        },
+        {
+            "text": "8 fresh fresh cilantro stems, if desired"
+        }
+    ],
+    "recipe": [
+        {
+            "text": "Heat oven to 400F Spray 13x9-inch pan or 12-inch pizza pan with cooking spray."
+        },
+        {
+            "text": "Unroll pizza crust dough on pan; press dough to edges of pan."
+        },
+        {
+            "text": "Bake 7-8 minutes or until golden brown."
+        },
+        {
+            "text": "Meanwhile, in medium bowl, mix barbecue sauce, jelly, pepper and chopped onion."
+        },
+        {
+            "text": "Spread evenly over partially baked crust."
+        },
+        {
+            "text": "Top with chicken, cashews, chopped cilantro and cheese."
+        },
+        {
+            "text": "Bake 7-8 minutes longer or until cheese is melted and crust is deep golden brown."
+        },
+        {
+            "text": "Sprinkle French-fried onions over pizza."
+        },
+        {
+            "text": "Bake 2-3 minutes longer or until onions are golden."
+        },
+        {
+            "text": "Garnish with cilantro sprigs."
+        }
+    ]
+}

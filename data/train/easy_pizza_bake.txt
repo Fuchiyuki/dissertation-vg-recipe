@@ -1,0 +1,115 @@
+{
+    "title": "easy_pizza_bake",
+    "id": "ab844c307d",
+    "table": [
+        {
+            "instructions": "use a large baking dish 13 x 9 is too small .",
+            "input": "NA",
+            "action": "use",
+            "output": "NA"
+        },
+        {
+            "instructions": "lightly coat dish with cooking_spray .",
+            "input": "NA",
+            "action": "coat",
+            "output": "NA"
+        },
+        {
+            "instructions": "taking biscuits , cut them into sections of about 1 inch i cut mine 3 strips across , then 3 strips down to make 9 pieces per biscuit once these are in cubes",
+            "input": "biscuits",
+            "action": "cut",
+            "output": "cut biscuits"
+        },
+        {
+            "instructions": "scatter them in the bottom of the prepared baking dish .",
+            "input": "cut biscuits",
+            "action": "scatter",
+            "output": "cut biscuits in baking dish"
+        },
+        {
+            "instructions": "in a large bowl , combine your spaghetti sauce , seasoning , meat and vegetables",
+            "input": "(spaghetti sauce; seasoning; meat; vegetables)",
+            "action": "combine",
+            "output": "seasoned vegetable and meat tomato sauce"
+        },
+        {
+            "instructions": "mix well .",
+            "input": "seasoned vegetable and meat tomato sauce",
+            "action": "mix",
+            "output": "seasoned vegetable and meat tomato sauce"
+        },
+        {
+            "instructions": "pour this mixture over the biscuits ,",
+            "input": "(seasoned vegetable and meat tomato sauce; cut biscuits)",
+            "action": "pour",
+            "output": "Spaghetti, vegetable and meat sauce topped biscuits"
+        },
+        {
+            "instructions": "top with cheese .",
+            "input": "(cheese; Spaghetti, vegetable and meat sauce topped biscuits)",
+            "action": "top",
+            "output": "Spaghetti, vegetable and meat sauce topped biscuit with cheese"
+        },
+        {
+            "instructions": "bake 300 degrees until done approximately 30 40 minutes depending on your oven .",
+            "input": "uncooked biscuit pizza",
+            "action": "bake",
+            "output": "baked biscuit pizza"
+        },
+        {
+            "instructions": "make sure your biscuit cubes have room to spread out",
+            "input": "NA",
+            "action": "make",
+            "output": "NA"
+        }
+    ],
+    "ingredients": [
+        {
+            "text": "2 (16 1/3 ounce) packages Pillsbury Grands refrigerated buttermilk biscuits (the cheese ones are especially good)"
+        },
+        {
+            "text": "3 cups spaghetti sauce"
+        },
+        {
+            "text": "4 cups shredded mozzarella cheese (can use less)"
+        },
+        {
+            "text": "2 cups meat (beef, sausage, ham or pepperoni)"
+        },
+        {
+            "text": "2 cups of diced vegetables (onion, pepper, mushrooms, black olives, pineapple, etc.)"
+        }
+    ],
+    "recipe": [
+        {
+            "text": "Use a large baking dish (13 X 9 is too small)."
+        },
+        {
+            "text": "Lightly coat dish with cooking spray."
+        },
+        {
+            "text": "Taking biscuits, cut them into sections of about 1 inch (I cut mine 3 strips across, then 3 strips down to make 9 pieces per biscuit) Once these are in \"cubes\", scatter them in the bottom of the prepared baking dish."
+        },
+        {
+            "text": "In a large bowl, combine your spaghetti sauce, seasoning, meat and vegetables and mix well."
+        },
+        {
+            "text": "(This is where your creativity comes in -- how many combinations can there be?"
+        },
+        {
+            "text": "You can mix and match meats and veggies as well as use different types of sauce."
+        },
+        {
+            "text": "The combinations are endless.)"
+        },
+        {
+            "text": "Pour this mixture over the biscuits, then top with cheese."
+        },
+        {
+            "text": "Bake @ 300 degrees until done (approximately 30-40 minutes depending on your oven)."
+        },
+        {
+            "text": "Make SURE your biscuit cubes have room to spread out and bake thoroughly -- this is why you use a larger pan."
+        }
+    ]
+}

@@ -1,0 +1,214 @@
+{
+    "title": "pizza_topping",
+    "id": "d289aa35ed",
+    "table": [
+        {
+            "instructions": "cut chicken_breast into little chunks .",
+            "input": "chicken_breast",
+            "action": "cut",
+            "output": "chicken_breast chunks"
+        },
+        {
+            "instructions": "whisk yogurt , spices and all the sauces except pizza_sauce in a bowl .",
+            "input": "(yogurt, spices; worcestershire sauce; soy sauce; chilli sauce; mustard paste)",
+            "action": "whisk",
+            "output": "sauce mixture"
+        },
+        {
+            "instructions": "add chicken into the bowl",
+            "input": "(chicken; sauce mixture)",
+            "action": "add",
+            "output": "chicken added to sauce mixture"
+        },
+        {
+            "instructions": "refrigerate for 30 minutes .",
+            "input": "chicken added to sauce mixture",
+            "action": "refrigerate",
+            "output": "refrigerated marinated chicken"
+        },
+        {
+            "instructions": "heat oven to 170 c.",
+            "input": "NA",
+            "action": "heat",
+            "output": "NA"
+        },
+        {
+            "instructions": "heat butter in a pan",
+            "input": "butter",
+            "action": "heat",
+            "output": "melted butter"
+        },
+        {
+            "instructions": "put refrigerated chicken in it .",
+            "input": "(refrigerated marinated chicken; melted butter)",
+            "action": "put",
+            "output": "refrigerated marinated chicken in melted butter"
+        },
+        {
+            "instructions": "cook for 15 20 minutes .",
+            "input": "refrigerated marinated chicken in melted butter",
+            "action": "cook",
+            "output": "cooked marinated chicken"
+        },
+        {
+            "instructions": "Grease a 12\" pizza pan (mine was 14\" rectangular pan) , line it with flour.",
+            "input": "NA",
+            "action": "line",
+            "output": "NA"
+        },
+        {
+            "instructions": "lay pizza_crust in the pizza\u2012pan .",
+            "input": "pizza crust",
+            "action": "lay",
+            "output": "pizza crust"
+        },
+        {
+            "instructions": "spread pizza_sauce on it .",
+            "input": "(pizza sauce; pizza crust)",
+            "action": "spread",
+            "output": "sauce spread on crust"
+        },
+        {
+            "instructions": "then add cooked_chicken to it",
+            "input": "(cooked marinated chicken; sauced pizza crust)",
+            "action": "add",
+            "output": "pizza crust with sauce and cooked marinated chicken"
+        },
+        {
+            "instructions": "sprinkle chopped_onion , tomatoes , bell_pepper and olives on top of it .",
+            "input": "(chopped_onion; tomatoes; bell_pepper; olives; pizza crust with sauce and cooked marinated chicken)",
+            "action": "sprinkle",
+            "output": "pizza crust with sauce, cooked marinated chicken, chopped_onion , tomatoes , bell_pepper and olives"
+        },
+        {
+            "instructions": "add as much as cheese as you want .",
+            "input": "(cheese; pizza crust with sauce, cooked marinated chicken, chopped_onion , tomatoes , bell_pepper and olives)",
+            "action": "add",
+            "output": "pizza crust with sauce, cooked marinated chicken, chopped_onion , tomatoes , bell_pepper, olives and cheese"
+        },
+        {
+            "instructions": "Let it cook in the oven for 35-40minutes. then take out",
+            "input": "uncooked chicken pizza",
+            "action": "take",
+            "output": "baked chicken pizza"
+        },
+        {
+            "instructions": "serve hot .",
+            "input": "baked chicken pizza",
+            "action": "serve",
+            "output": "baked chicken pizza ready to eat"
+        }
+    ],
+    "ingredients": [
+        {
+            "text": "1 medium pizza crust"
+        },
+        {
+            "text": "1 can pizza sauce"
+        },
+        {
+            "text": "500 grams chicken breast"
+        },
+        {
+            "text": "1/2 cup yogurt"
+        },
+        {
+            "text": "1/2 tbsp White vinegar"
+        },
+        {
+            "text": "1/2 tbsp worcestershire sauce"
+        },
+        {
+            "text": "1 tsp soy sauce"
+        },
+        {
+            "text": "2 tbsp chilli sauce"
+        },
+        {
+            "text": "1/2 tsp mustard paste"
+        },
+        {
+            "text": "1 tsp garlic paste"
+        },
+        {
+            "text": "1 tsp ginger paste"
+        },
+        {
+            "text": "1 tsp red pepper powder"
+        },
+        {
+            "text": "1 tsp ground black pepper"
+        },
+        {
+            "text": "1/2 tsp garam masala"
+        },
+        {
+            "text": "1 salt"
+        },
+        {
+            "text": "2 tbsp butter"
+        },
+        {
+            "text": "1/2 cup chopped onions"
+        },
+        {
+            "text": "1/2 cup chopped tomatoes"
+        },
+        {
+            "text": "1/2 cup chopped bell pepper"
+        },
+        {
+            "text": "10 each olives"
+        },
+        {
+            "text": "1 cup shredded mozzarella cheese"
+        }
+    ],
+    "recipe": [
+        {
+            "text": "Cut chicken breast into little chunks."
+        },
+        {
+            "text": "Whisk yogurt, spices and all the sauces except pizza sauce in a bowl."
+        },
+        {
+            "text": "Add chicken into the bowl and refrigerate for 30 minutes."
+        },
+        {
+            "text": "(it tastes better if you leave for two hours or so)."
+        },
+        {
+            "text": "Heat oven to 170 C."
+        },
+        {
+            "text": "Heat butter in a pan and put refrigerated chicken in it."
+        },
+        {
+            "text": "Cook for 15-20 minutes."
+        },
+        {
+            "text": "Grease a 12\" pizza pan (mine was 14\" rectangular pan) , line it with flour."
+        },
+        {
+            "text": "Lay pizza crust in the pizza pan."
+        },
+        {
+            "text": "Spread pizza sauce on it."
+        },
+        {
+            "text": "Then add cooked chicken to it"
+        },
+        {
+            "text": "Sprinkle chopped onions, tomatoes, bell peppers and olives on top of it."
+        },
+        {
+            "text": "Add as much as cheese as you want."
+        },
+        {
+            "text": "Let it cook in the oven for 35-40minutes."
+        },
+        {
+            "text": "Then take out and serve hot."
+        }
+    ]
+}

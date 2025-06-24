@@ -1,0 +1,121 @@
+{
+    "title": "spring_fruit_pizza_cookie_mix",
+    "id": "79758a9347",
+    "table": [
+        {
+            "instructions": "heat oven to 375 degrees .",
+            "input": "NA",
+            "action": "heat",
+            "output": "NA"
+        },
+        {
+            "instructions": "lightly spray a 14 pizza\u2012pan or 15x10 , baking pan with cooking_spray .",
+            "input": "NA",
+            "action": "spray",
+            "output": "NA"
+        },
+        {
+            "instructions": "in medium bowl , stir cookie mix , melted_butter and egg until soft dough forms .",
+            "input": "(cookie mix; melted_butter; egg)",
+            "action": "stir",
+            "output": "cookie dough"
+        },
+        {
+            "instructions": "press dough in bottom of pan .",
+            "input": "cookie dough",
+            "action": "press",
+            "output": "Press cookie dough"
+        },
+        {
+            "instructions": "bake 10 15 minutes or until light golden brown .",
+            "input": "Press cookie dough",
+            "action": "bake",
+            "output": "baked cookie"
+        },
+        {
+            "instructions": "cool completely , about 45 minutes .",
+            "input": "baked cookie",
+            "action": "cool",
+            "output": "cooled cookie"
+        },
+        {
+            "instructions": "in a chilled medium bowl , beat whipping_cream with electric mixer on high until soft peaks form .",
+            "input": "whipping_cream",
+            "action": "beat",
+            "output": "whipped_cream"
+        },
+        {
+            "instructions": "gently stir frosting into whipped_cream .",
+            "input": "(Frosting; whippped_cream)",
+            "action": "stir",
+            "output": "mixed frosting and whipped_cream"
+        },
+        {
+            "instructions": "spread over cookie",
+            "input": "(baked cookie; mixed frosting and whipped_cream)",
+            "action": "spread",
+            "output": "mixed frosting and whipped_cream spread over baked cookie"
+        },
+        {
+            "instructions": "arrange fruit on top .",
+            "input": "(fruit; baked cookie with mixed frosting and whipped_cream spread)",
+            "action": "arrange",
+            "output": "fruit arranged on baked cookie with mixed frosting and whipped_cream spread"
+        }
+    ],
+    "ingredients": [
+        {
+            "text": "1 (18 ounce) envelope sugar cookie mix"
+        },
+        {
+            "text": "12 cup butter, melted"
+        },
+        {
+            "text": "1 egg"
+        },
+        {
+            "text": "1 cup whipping cream"
+        },
+        {
+            "text": "12 cup cream cheese frosting"
+        },
+        {
+            "text": "3 12 cups fresh sliced strawberries or 3 12 cups blueberries or 3 12 cups raspberries or 3 12 cups kiwi, etc"
+        }
+    ],
+    "recipe": [
+        {
+            "text": "Heat oven to 375 degrees."
+        },
+        {
+            "text": "Lightly spray a 14\" pizza pan or 15x10\" baking pan with cooking spray."
+        },
+        {
+            "text": "In medium bowl, stir cookie mix, melted butter and egg until soft dough forms."
+        },
+        {
+            "text": "Press dough in bottom of pan."
+        },
+        {
+            "text": "Bake 10-15 minutes or until light golden brown."
+        },
+        {
+            "text": "Cool completely, about 45 minutes."
+        },
+        {
+            "text": "In a chilled medium bowl, beat whipping cream with electric mixer on high until soft peaks form."
+        },
+        {
+            "text": "Gently stir frosting into whipped cream."
+        },
+        {
+            "text": "Spread over cookie pizza."
+        },
+        {
+            "text": "Arrange fruit on top."
+        },
+        {
+            "text": "**NOTE: You can use thawed whipped topping instead of whipping cream, but I find it makes it a little too sweet."
+        }
+    ]
+}

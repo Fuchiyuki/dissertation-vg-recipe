@@ -1,0 +1,148 @@
+{
+    "title": "easy_whole_wheat_pizza_dough",
+    "id": "0cd467f1e6",
+    "table": [
+        {
+            "instructions": "in large bowl , stir together the yeast , warm_water and honey .",
+            "input": "(yeast; warm_water; honey)",
+            "actions": "stir",
+            "output": "yeast mixture"
+        },
+        {
+            "instructions": "set aside 10 minute or until foamy .",
+            "input": "yeast mixture",
+            "actions": "set",
+            "output": "yeast mixture"
+        },
+        {
+            "instructions": "in glass , measuring cup , combine cold_water , oil and salt .",
+            "input": "(cold_water; oil; salt)",
+            "actions": "combine",
+            "output": "cold_water_mixture"
+        },
+        {
+            "instructions": "add it to the yeast mixture",
+            "input": "(yeast_mixture; cold_water_mixture)",
+            "actions": "add",
+            "output": "liquid mixture"
+        },
+        {
+            "instructions": "stir in the whole_wheat_flour and 1 34 cups unbleached_flour .",
+            "input": "(liquid mixture; whole_wheat_flour; unbleached_flour)",
+            "actions": "stir",
+            "output": "stirred mixture"
+        },
+        {
+            "instructions": "beat the mixture , adding more unbleached_flour as needed to make a soft but manageable dough .",
+            "input": "stirred dough",
+            "actions": "beat",
+            "output": "beaten dough"
+        },
+        {
+            "instructions": "knead on lightly floured surface 5 minute or until smooth and elastic .",
+            "input": "dough",
+            "actions": "knead",
+            "output": "kneaded dough"
+        },
+        {
+            "instructions": "put dough in a lightly greased bowl",
+            "input": "kneaded dough",
+            "actions": "put",
+            "output": "dough"
+        },
+        {
+            "instructions": "turn to coat .",
+            "input": "greased dough",
+            "actions": "turn",
+            "output": "greased dough"
+        },
+        {
+            "instructions": "cover loosely",
+            "input": "greased dough",
+            "actions": "cover",
+            "output": "covered dough"
+        },
+        {
+            "instructions": "punch down the dough",
+            "input": "risen dough",
+            "actions": "punch",
+            "output": "punched down dough"
+        },
+        {
+            "instructions": "roll out into a 14 inch circle .",
+            "input": "punched down dough",
+            "actions": "roll",
+            "output": "rolled dough"
+        },
+        {
+            "instructions": "put on toppings or you choice",
+            "input": "(pizza crust; toppings)",
+            "actions": "put",
+            "output": "toppings on pizza crust"
+        },
+        {
+            "instructions": "bake 20 minute at 450 degrees f .",
+            "input": "uncooked pizza ",
+            "actions": "bake",
+            "output": "whole wheat pizza"
+        }
+    ],
+    "ingredients": [
+        {
+            "text": "14 ounce active dry yeast"
+        },
+        {
+            "text": "14 cup warm water"
+        },
+        {
+            "text": "1 teaspoon honey"
+        },
+        {
+            "text": "34 cup cold water"
+        },
+        {
+            "text": "1 tablespoon olive oil"
+        },
+        {
+            "text": "12 teaspoon salt"
+        },
+        {
+            "text": "1 cup whole wheat flour"
+        },
+        {
+            "text": "1 34-2 cups unbleached flour"
+        }
+    ],
+    "recipe": [
+        {
+            "text": "In large bowl, stir together the yeast, warm water and honey."
+        },
+        {
+            "text": "Set aside 10 minute or until foamy."
+        },
+        {
+            "text": "In glass measuring cup, combine cold water, oil and salt."
+        },
+        {
+            "text": "Add it to the yeast mixture and stir in the whole wheat flour and 1 3/4 cups unbleached flour."
+        },
+        {
+            "text": "Beat the mixture, adding more unbleached flour as needed to make a soft but manageable dough."
+        },
+        {
+            "text": "Knead on lightly floured surface 5 minute or until smooth and elastic."
+        },
+        {
+            "text": "Put dough in a lightly greased bowl and turn to coat."
+        },
+        {
+            "text": "Cover loosely and let rise in a warm, draft free place for 45-60 minute or until doubled."
+        },
+        {
+            "text": "Punch down the dough and roll out into a 14 inch circle."
+        },
+        {
+            "text": "Put on toppings or you choice and bake 20 minute at 450 degrees F."
+        }
+    ]
+}

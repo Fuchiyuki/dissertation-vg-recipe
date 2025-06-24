@@ -1,0 +1,64 @@
+{
+    "title": "pb_and_banana_pizza",
+    "id": "591213efc3",
+    "table": [
+        {
+            "instructions": "heat the pita_bread in the microwave for a minute or so .",
+            "input": "pita_bread",
+            "actions": "heat",
+            "output": "heated_pita_bread"
+        },
+        {
+            "instructions": "spread the peanut_butter on the bread ,",
+            "input": "(peanut_butter; heated_pita_bread)",
+            "actions": "spread",
+            "output": "heated_pita_bread_with_spreaded_peanut_butter"
+        },
+        {
+            "instructions": "make sure you cover all of the top .",
+            "input": "NA",
+            "actions": "make",
+            "output": "NA"
+        },
+        {
+            "instructions": "slice the banana in several pieces not to thick or too thin .",
+            "input": "banana",
+            "actions": "slice",
+            "output": "sliced_banana"
+        },
+        {
+            "instructions": "place the slices of banana over the peanut_butter .",
+            "input": "(banana_slices; heated_pita_bread_with_spreaded_peanut_butter)",
+            "actions": "place",
+            "output": "pita_bread_topped_with_peanut_butter_and_banana_slices"
+        }
+    ],
+    "ingredients": [
+        {
+            "text": "1 pita bread (or any flat bread..not toast)"
+        },
+        {
+            "text": "3 tablespoons peanut butter"
+        },
+        {
+            "text": "1 banana"
+        }
+    ],
+    "recipe": [
+        {
+            "text": "Heat the pita bread in the microwave fora minute or so."
+        },
+        {
+            "text": "Spread the peanut butter on the bread, and make sure you cover all of the top."
+        },
+        {
+            "text": "Slice the banana in several pieces (not to thick or too thin)."
+        },
+        {
+            "text": "Place the slices of banana over the peanut butter."
+        },
+        {
+            "text": "Enjoy your snack with a glass of milk -- mmm."
+        }
+    ]
+}

@@ -1,0 +1,118 @@
+{
+    "title": "chili_cheese_dog_pizza_gluten-free",
+    "id": "0bdb52d0ad",
+    "table": [
+        {
+            "instructions": "preheat oven to 425f .",
+            "input": "NA",
+            "actions": "preheat",
+            "output": "NA"
+        },
+        {
+            "instructions": "spray cookie sheet pizza\u2012pan with cooking_spray .",
+            "input": "NA",
+            "actions": "spray",
+            "output": "NA"
+        },
+        {
+            "instructions": "mix baking_mix , water , and melted_butter until soft dough form .",
+            "input": "(baking_mix; water; melted_butter)",
+            "actions": "mix",
+            "output": "dough"
+        },
+        {
+            "instructions": "add a little extra water if needed .",
+            "input": "(dough; water)",
+            "actions": "add",
+            "output": "dough"
+        },
+        {
+            "instructions": "pat dough into a 12 circle on prepared pan .",
+            "input": "dough",
+            "actions": "pat",
+            "output": "patted_dough"
+        },
+        {
+            "instructions": "pinch edge of circle to form a rim .",
+            "input": "patted_dough",
+            "actions": "pinch",
+            "output": "shaped_dough"
+        },
+        {
+            "instructions": "spread chili over dough .",
+            "input": "(chili; dough)",
+            "actions": "spread",
+            "output": "chili_spread_over_dough"
+        },
+        {
+            "instructions": "top with frankfurters .",
+            "input": "(pizza; frankfurters)",
+            "actions": "top",
+            "output": "pizza_topped_with_frankfurters"
+        },
+        {
+            "instructions": "then top with cheese .",
+            "input": "(pizza; cheese)",
+            "actions": "top",
+            "output": "pizza_topped_with_cheese"
+        },
+        {
+            "instructions": "bake until .",
+            "input": "uncooked_chs",
+            "actions": "bake",
+            "output": "chili_cheese_dog_pizza"
+        }
+    ],
+    "ingredients": [
+        {
+            "text": "2 cup gluten-free baking mix"
+        },
+        {
+            "text": "1/2 cup water"
+        },
+        {
+            "text": "1/2 cup melted butter"
+        },
+        {
+            "text": "7 1/2 oz chili"
+        },
+        {
+            "text": "5 frankfurters, thinly sliced"
+        },
+        {
+            "text": "1 cup Shredded cheddar cheese (4 oz.)"
+        }
+    ],
+    "recipe": [
+        {
+            "text": "Preheat oven to 425F."
+        },
+        {
+            "text": "Spray cookie sheet/pizza pan with cooking spray."
+        },
+        {
+            "text": "Mix baking mix, water, & melted butter until soft dough form."
+        },
+        {
+            "text": "Add a little extra water if needed."
+        },
+        {
+            "text": "Pat dough into a 12\" circle on prepared pan."
+        },
+        {
+            "text": "Pinch edge of circle to form a rim."
+        },
+        {
+            "text": "Spread chili over dough."
+        },
+        {
+            "text": "Top with frankfurters."
+        },
+        {
+            "text": "Then top with cheese."
+        },
+        {
+            "text": "Bake until.crust is golden brown, 20 to 25 minutes."
+        }
+    ]
+}

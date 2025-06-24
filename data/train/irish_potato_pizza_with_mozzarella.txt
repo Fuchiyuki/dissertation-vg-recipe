@@ -1,0 +1,106 @@
+{
+    "title": "irish_potato_pizza_with_mozzarella",
+    "id": "a704e671db",
+    "table": [
+        {
+            "instructions": "preheat oven to 375 degrees fahrenheit .",
+            "input": "NA",
+            "action": "preheat",
+            "output": "NA"
+        },
+        {
+            "instructions": "peel",
+            "input": "NA",
+            "action": "peel",
+            "output": "NA"
+        },
+        {
+            "instructions": "boil potatoes until fork tender .",
+            "input": "potatoes",
+            "action": "boil",
+            "output": "boiled_potatoes"
+        },
+        {
+            "instructions": "drain",
+            "input": "boiled_potatoes",
+            "action": "drain",
+            "output": "drained potatoes"
+        },
+        {
+            "instructions": "mash until smooth .",
+            "input": "drained boiled potatoes",
+            "action": "mash",
+            "output": "mashed potatoes"
+        },
+        {
+            "instructions": "add olive_oil to make a smooth mixture ;",
+            "input": "(olive oil; mashed potatoes)",
+            "action": "add",
+            "output": "olive oil in mashed potatoes "
+        },
+        {
+            "instructions": "add salt and pepper to taste .",
+            "input": "(salt; pepper)",
+            "action": "add",
+            "output": "seasoned mashed potatoes"
+        },
+        {
+            "instructions": "spread potato dough into a large even round , onto an oiled baking dish",
+            "input": "seasoned mashed potatoes",
+            "action": "spread",
+            "output": "seasoned mashed potatoes spread into a dish"
+        },
+        {
+            "instructions": "add toppings",
+            "input": "(toppings; seasoned mashed potatoes spread into a dish)",
+            "action": "add",
+            "output": "toppings added to mashed potatoes"
+        },
+        {
+            "instructions": "bake for 15 to 20 minutes until cheese is melted and beginning to brown .",
+            "input": "assembled mashed potato pizza",
+            "action": "bake",
+            "output": "baked mashed potato pizza"
+        }
+    ],
+    "ingredients": [
+        {
+            "text": "1 12 lbs russet potatoes"
+        },
+        {
+            "text": "4 tablespoons olive oil"
+        },
+        {
+            "text": "salt and pepper"
+        },
+        {
+            "text": "12 cup tomato sauce"
+        },
+        {
+            "text": "6 ounces pre-shredded mozzarella cheese"
+        },
+        {
+            "text": "12 cup parmesan cheese"
+        }
+    ],
+    "recipe": [
+        {
+            "text": "Preheat oven to 375 degrees Fahrenheit."
+        },
+        {
+            "text": "Peel and boil potatoes until fork tender."
+        },
+        {
+            "text": "Drain and mash until smooth."
+        },
+        {
+            "text": "Add olive oil to make a smooth mixture; add salt and pepper to taste."
+        },
+        {
+            "text": "Spread potato dough into a large even round, onto an oiled and floured baking sheet."
+        },
+        {
+            "text": "Add toppings and bake for 15 to 20 minutes until cheese is melted and beginning to brown."
+        }
+    ]
+}

@@ -1,0 +1,277 @@
+{
+    "title": "pad_gra_prao_pizza",
+    "id": "5395ac26a5",
+    "table": [
+        {
+            "instructions": "knead the pizza_dough ,",
+            "input": "pizza_dough",
+            "action": "knead",
+            "output": "kneaded_pizza_dough"
+        },
+        {
+            "instructions": "roll it out into a 30 cm , diameter circle right before baking .",
+            "input": "kneaded_pizza_dough",
+            "action": "roll",
+            "output": "rolled_pizza_dough"
+        },
+        {
+            "instructions": "while proofing the dough , crush the ingredients with thai mortar and pestle .",
+            "input": "(garlic; chili peppers; red shishito pepper)",
+            "action": "crush",
+            "output": "crushed pepper and garlic mixture"
+        },
+        {
+            "instructions": "saute them in a heated frying pan with the oil until fragrant .",
+            "input": "crushed pepper and garlic mixture",
+            "action": "saute",
+            "output": "sauteed crushed pepper and garlic mixture"
+        },
+        {
+            "instructions": "add the ground_meat , slowly add the water ,",
+            "input": "(sauteed crushed pepper and garlic mixture; ground chicken; water)",
+            "action": "add",
+            "output": "ground chicken and water added to sauteed crushed pepper and garlic mixture"
+        },
+        {
+            "instructions": "stir fry .",
+            "input": "ground chicken and water added to sauteed crushed pepper and garlic mixture",
+            "action": "stir",
+            "output": "stir fried ground chicken mixture"
+        },
+        {
+            "instructions": "add the onion , green_bean , and straw_mushroom ,",
+            "input": "(onion; green_bean; straw_mushroom; stir fried ground chicken mixture )",
+            "action": "add",
+            "output": "onion , green_bean , and straw_mushroom added to stir fried ground chicken mixture"
+        },
+        {
+            "instructions": "add the mixed seasoning ingredients .",
+            "input": "(onion , green_bean , and straw_mushroom added to stir fried ground chicken mixture; Oyster sauce; fish sauce; Thai seasoning sauce; black soy sauce)",
+            "action": "add",
+            "output": "thai chicken mixture"
+        },
+        {
+            "instructions": "stir in the dissolved tapioca powder in water to thicken the sauce .",
+            "input": "(tapioca powder; water; thai chicken mixture)",
+            "action": "stir",
+            "output": "dissolved tapioca powder in water stirred into thai chicken mixture"
+        },
+        {
+            "instructions": "add the holy_basil at the end",
+            "input": "(holy basil; thickened thai chicken mixture)",
+            "action": "add",
+            "output": "thickened thai chicken mixture with holy basil"
+        },
+        {
+            "instructions": "stir , and the topping is ready .",
+            "input": "thickened thai chicken mixture with holy basil",
+            "action": "stir",
+            "output": "thickened thai chicken mixture with holy basil"
+        },
+        {
+            "instructions": "preheat the oven to 250c .",
+            "input": "NA",
+            "action": "preheat",
+            "output": "topping_is_ready"
+        },
+        {
+            "instructions": "spread out the step 5 topping ,",
+            "input": "(pizza dough; thickened thai chicken mixture with holy basil)",
+            "action": "spread",
+            "output": "pizza crust with spread thickened thai chicken mixture with holy basil "
+        },
+        {
+            "instructions": "sprinkle with the onion , shishito pepper , and garlic .",
+            "input": "(onion; shishito_pepper; garlic; pizza crust with spread thickened thai chicken mixture with holy basil )",
+            "action": "sprinkle",
+            "output": "pizza crust with spread thickened thai chicken mixture with holy basil, onion , shishito pepper , and garlic"
+        },
+        {
+            "instructions": "drop one egg on top ,",
+            "input": "(egg; pizza crust with spread thickened thai chicken mixture with holy basil, onion , shishito pepper , and garlic)",
+            "action": "drop",
+            "output": "pizza crust with spread thickened thai chicken mixture with holy basil, onion , shishito pepper , garlic and egg at the center"
+        },
+        {
+            "instructions": "bake for 7 minutes total .",
+            "input": "uncooked pad_gra_prao_pizza",
+            "action": "bake",
+            "output": "baked pad_gra_prao_pizza"
+        },
+        {
+            "instructions": "sprinkle with the shredded_cheese",
+            "input": "(shredded_cheese; baked pad_gra_prao_pizza)",
+            "action": "sprinkle",
+            "output": "baked pad_gra_prao_pizza with shredded chicken"
+        },
+        {
+            "instructions": "drop one more egg on top",
+            "input": "(egg; baked pad_gra_prao_pizza with shredded chicken)",
+            "action": "drop",
+            "output": "baked pad_gra_prao_pizza with shredded chicken and egg on top"
+        },
+        {
+            "instructions": "break the yolk ,",
+            "input": "baked pad_gra_prao_pizza with shredded chicken and egg on top",
+            "action": "break",
+            "output": "baked pad_gra_prao_pizza with shredded chicken and egg on top with broken yolk"
+        },
+        {
+            "instructions": "bake for remaining 3 minutes .",
+            "input": "baked pad_gra_prao_pizza with shredded chicken and egg on top with broken yolk",
+            "action": "bake",
+            "output": "twice baked pad_gra_prao_pizza with shredded chicken and egg on top with broken yolk"
+        },
+        {
+            "instructions": "top with the deep fried holy_basil",
+            "input": "(deep-fried_holy_basil; twice baked pad_gra_prao_pizza with shredded chicken and egg on top with broken yolk)",
+            "action": "top",
+            "output": "twice baked pad_gra_prao_pizza with shredded chicken,  egg on top with broken yolk and deep fried holy basil"
+        },
+        {
+            "instructions": "serve .",
+            "input": "twice baked pad_gra_prao_pizza with shredded chicken,  egg on top with broken yolk and deep fried holy basil",
+            "action": "serve",
+            "output": "twice baked pad_gra_prao_pizza with shredded chicken,  egg on top with broken yolk and deep fried holy basil ready to serve"
+        }
+    ],
+    "ingredients": [
+        {
+            "text": "2 clove Garlic"
+        },
+        {
+            "text": "8 Red chili peppers"
+        },
+        {
+            "text": "1 Red shishito pepper"
+        },
+        {
+            "text": "100 grams Ground chicken"
+        },
+        {
+            "text": "3 Green beans *cut into 5 mm lengths"
+        },
+        {
+            "text": "1/4 Onion *thinly sliced"
+        },
+        {
+            "text": "10 Straw mushrooms *cut in half and boiled"
+        },
+        {
+            "text": "1/2 Red shishito pepper *chopped"
+        },
+        {
+            "text": "60 ml Water"
+        },
+        {
+            "text": "1 tbsp Vegetable oil"
+        },
+        {
+            "text": "1 bunch Holy basil"
+        },
+        {
+            "text": "2 Eggs"
+        },
+        {
+            "text": "100 ml Shredded cheese"
+        },
+        {
+            "text": "1/4 Onion *sliced"
+        },
+        {
+            "text": "1/2 Red shishito pepper *chopped"
+        },
+        {
+            "text": "1 bunch Holy basil *deep-fried"
+        },
+        {
+            "text": "2 clove Garlic *sliced"
+        },
+        {
+            "text": "1 tbsp Oyster sauce"
+        },
+        {
+            "text": "1 tbsp Fish sauce"
+        },
+        {
+            "text": "1 tsp Thai seasoning sauce"
+        },
+        {
+            "text": "1 tsp Sugar"
+        },
+        {
+            "text": "1/4 tsp Siew dam (black soy sauce)"
+        },
+        {
+            "text": "2 tsp + 1 dash bit of water Tapioca powder (*or katakuriko or cornstarch if not available)"
+        },
+        {
+            "text": "250 grams All-purpose flour"
+        },
+        {
+            "text": "10 grams Sugar"
+        },
+        {
+            "text": "4 grams Salt"
+        },
+        {
+            "text": "160 grams Water"
+        },
+        {
+            "text": "1 tbsp Olive oil"
+        },
+        {
+            "text": "1/2 tsp Dry yeast"
+        },
+        {
+            "text": "1 Corn meal"
+        }
+    ],
+    "recipe": [
+        {
+            "text": "Knead the pizza dough, and let it proof for 1 hour at around 30C."
+        },
+        {
+            "text": "A 2nd proofing is not required."
+        },
+        {
+            "text": "Roll it out into a 30 cm diameter circle right before baking."
+        },
+        {
+            "text": "While proofing the dough, crush the ingredients with Thai mortar and pestle."
+        },
+        {
+            "text": "Saute them in a heated frying pan with the oil until fragrant."
+        },
+        {
+            "text": "Add the ground meat, slowly add the water, and stir-fry."
+        },
+        {
+            "text": "When the chicken starts to cook through, add the onion, green beans, and straw mushrooms, and continue stir-frying."
+        },
+        {
+            "text": "Add the mixed seasoning ingredients."
+        },
+        {
+            "text": "Once everything is cooked through, and the liquid starts to evaporate, stir in the dissolved tapioca powder in water to thicken the sauce."
+        },
+        {
+            "text": "Add the holy basil at the end, stir, and the topping is ready."
+        },
+        {
+            "text": "Preheat the oven to 250C."
+        },
+        {
+            "text": "Spread out the Step 5 topping, and sprinkle with the onion, shishito pepper, and garlic."
+        },
+        {
+            "text": "Drop one egg on top, and bake for 7 minutes total."
+        },
+        {
+            "text": "When the edges of the crust start to turn brown, sprinkle with the shredded cheese, drop one more egg on top, break the yolk, and bake for remaining 3 minutes."
+        },
+        {
+            "text": "Top with the deep-fried holy basil and serve."
+        }
+    ]
+}

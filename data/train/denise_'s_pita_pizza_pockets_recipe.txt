@@ -1,0 +1,91 @@
+{
+    "title": "denise_'s_pita_pizza_pockets_recipe",
+    "id": "76fa27bb16",
+    "table": [
+        {
+            "instructions": "cook",
+            "input": "italian_sausage",
+            "actions": "cook",
+            "output": "cooked_italian_sausage"
+        },
+        {
+            "instructions": "crumble italian_sausage .",
+            "input": "italian_sausage",
+            "actions": "crumble",
+            "output": "crumbled_italian_sausage"
+        },
+        {
+            "instructions": "cut pita_round in half",
+            "input": "pita_round",
+            "actions": "cut",
+            "output": "cut_pita_round"
+        },
+        {
+            "instructions": "split them open",
+            "input": "pita_round",
+            "actions": "split",
+            "output": "open_pita_round"
+        },
+        {
+            "instructions": "spread sauce inside .",
+            "input": "sauce",
+            "actions": "spread",
+            "output": "sauce_inside_pita_round"
+        },
+        {
+            "instructions": "fill pita_pocket with 14 cup of cheese and other fillings of choice .",
+            "input": "pita_pocket, cheese, other fillings",
+            "actions": "fill",
+            "output": "filled_pita_pocket"
+        },
+        {
+            "instructions": "place on a cookie sheet",
+            "input": "filled_pita_pocket",
+            "actions": "place",
+            "output": "filled_pita_pocket"
+        },
+        {
+            "instructions": "bake at 350f for 10 minutes or until cheese has completely melted .",
+            "input": "uncooked_pita_pocket",
+            "actions": "bake",
+            "output": "cooked_pita_pocket"
+        }
+    ],
+    "ingredients": [
+        {
+            "text": "4 pita bread"
+        },
+        {
+            "text": "1 cup spaghetti sauce or 1 cup marinara sauce or 1 cup pizza sauce"
+        },
+        {
+            "text": "2 cups shredded mozzarella cheese"
+        },
+        {
+            "text": "1 (12 ounce) package pepperoni"
+        },
+        {
+            "text": "1 lb Italian sausage"
+        }
+    ],
+    "recipe": [
+        {
+            "text": "Cook and crumble Italian sausage."
+        },
+        {
+            "text": "Cut pita rounds in half, split them open and spread sauce inside."
+        },
+        {
+            "text": "Fill pita pockets with 1/4 cup of cheese and other fillings of choice."
+        },
+        {
+            "text": "We made ours with some pepperoni, some sausage and some a combination of the two."
+        },
+        {
+            "text": "Place on a cookie sheet and bake at 350F for 10 minutes or until cheese has completely melted."
+        },
+        {
+            "text": "Enjoy!"
+        }
+    ]
+}

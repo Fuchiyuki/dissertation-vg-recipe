@@ -1,0 +1,133 @@
+{
+    "title": "peking_pizza",
+    "id": "8a2ef3571a",
+    "table": [
+        {
+            "instructions": "heat a grill pan over high heat .",
+            "input": "NA",
+            "actions": "heat",
+            "output": "NA"
+        },
+        {
+            "instructions": "drizzle oil over chicken_cutlet .",
+            "input": "(oil; chicken_cutlet)",
+            "actions": "drizzle",
+            "output": "drizzled_oil_over_chicken_cutlet"
+        },
+        {
+            "instructions": "grill chicken 3 or 4 minutes on each side .",
+            "input": "chicken_cutlet",
+            "actions": "grill",
+            "output": "grilled_chicken_cutlet"
+        },
+        {
+            "instructions": "slice chicken into very thin strips .",
+            "input": "grilled_chicken_cutlet",
+            "actions": "slice",
+            "output": "sliced_grilled_chicken_cutlet"
+        },
+        {
+            "instructions": "sprinkle the edges of your boboli with sesame_seed .",
+            "input": "(boboli pizza crust; sesame seed)",
+            "actions": "sprinkle",
+            "output": "sesame_seeds_sprinkled_over_boboli pizza crust"
+        },
+        {
+            "instructions": "cover the pie with 3 tablespoons of hoisin_sauce and barbecue_sauce .",
+            "input": "(pie; hoisin_sauce; barbecue_sauce)",
+            "actions": "cover",
+            "output": "pie_covered_with_sauce"
+        },
+        {
+            "instructions": "cover pie with cheese .",
+            "input": "(pie_covered_with_sauce; cheese)",
+            "actions": "cover",
+            "output": "pie_covered_with_sauce_and_cheese"
+        },
+        {
+            "instructions": "top with sliced_chicken and scallions and red_pepper .",
+            "input": "(pie_covered_with_sauce_and_cheese; sliced_chicken; scallions; red_pepper)",
+            "actions": "top",
+            "output": "pie_topped_with_sliced_chicken and scallions and red_pepper"
+        },
+        {
+            "instructions": "bake in pre heated oven at 450 degrees for 10 to 15 minutes , until crisp and cheese is bubbly .",
+            "input": "uncooked_pizza",
+            "actions": "bake",
+            "output": "baked_pizza"
+        },
+        {
+            "instructions": "cut into slices .",
+            "input": "whole_baked_pizza",
+            "actions": "cut",
+            "output": "sliced_baked_pizza"
+        }
+    ],
+    "ingredients": [
+        {
+            "text": "1 Boboli pizza crust, crust large"
+        },
+        {
+            "text": "12 lb boneless skinless chicken breast, cutlets thin cut"
+        },
+        {
+            "text": "extra virgin olive oil"
+        },
+        {
+            "text": "McCormick's Montreal Brand steak seasoning"
+        },
+        {
+            "text": "3 tablespoons plum sauce or 3 tablespoons hoisin sauce"
+        },
+        {
+            "text": "3 tablespoons barbecue sauce"
+        },
+        {
+            "text": "2 cups monterey jack cheese or 2 cups mozzarella cheese, shredded"
+        },
+        {
+            "text": "2 scallions, chopped in 1-inch pieces on an angle"
+        },
+        {
+            "text": "14 red bell pepper, chopped"
+        }
+    ],
+    "recipe": [
+        {
+            "text": "For Chicken:."
+        },
+        {
+            "text": "Heat a grill pan over high heat."
+        },
+        {
+            "text": "Drizzle oil over chicken cutlets."
+        },
+        {
+            "text": "and season with Montreal Seasoning."
+        },
+        {
+            "text": "Grill chicken 3 or 4 minutes on each side."
+        },
+        {
+            "text": "Slice chicken into very thin strips."
+        },
+        {
+            "text": "Sprinkle the edges of your boboli with sesame seeds."
+        },
+        {
+            "text": "Cover the pie with 3 tablespoons of Hoisin sauce and barbecue sauce."
+        },
+        {
+            "text": "Cover pie with cheese."
+        },
+        {
+            "text": "Top with sliced chicken and scallions and red pepper."
+        },
+        {
+            "text": "Bake in pre-heated oven at 450 degrees for 10 to 15 minutes, until crisp and cheese is bubbly."
+        },
+        {
+            "text": "Cut into slices."
+        }
+    ]
+}

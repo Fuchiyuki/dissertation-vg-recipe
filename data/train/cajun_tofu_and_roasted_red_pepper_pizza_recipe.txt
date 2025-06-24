@@ -1,0 +1,127 @@
+{
+    "title": "cajun_tofu_and_roasted_red_pepper_pizza_recipe",
+    "id": "1c8c7997b4",
+    "table": [
+        {
+            "instructions": "preheat oven to 450f .",
+            "input": "NA",
+            "actions": "preheat",
+            "output": "NA"
+        },
+        {
+            "instructions": "crumble tofu into bowl .",
+            "input": "tofu",
+            "actions": "crumble",
+            "output": "crumbled_tofu"
+        },
+        {
+            "instructions": "add in oil and all spices .",
+            "input": "(crumbled_tofu; oil; spices)",
+            "actions": "add",
+            "output": "crumbled_tofu_with_oil_and_spices"
+        },
+        {
+            "instructions": "mix .",
+            "input": "crumbled_tofu_with_oil_and_spices",
+            "actions": "mix",
+            "output": "cajun_tofu"
+        },
+        {
+            "instructions": "marinate in refrigerator for at least 30 min .",
+            "input": "cajun_tofu",
+            "actions": "marinate",
+            "output": "marinated_cajun_tofu"
+        },
+        {
+            "instructions": "place pizza_crust on baking sheet",
+            "input": "pizza_crust",
+            "actions": "place",
+            "output": "pizza_crust"
+        },
+        {
+            "instructions": "spread with pizza_sauce .",
+            "input": "(pizza_crust; pizza_sauce)",
+            "actions": "spread",
+            "output": "pizza_crust_with_pizza_sauce"
+        },
+        {
+            "instructions": "top with crumbled cajun tofu , red_pepper and mozzarella_cheese .",
+            "input": "(pizza_crust_with_pizza_sauce; marinated_cajun_tofu; red_pepper; mozzarella_cheese )",
+            "actions": "top",
+            "output": "cajun_tofu_pizza_and_red_pepper"
+        },
+        {
+            "instructions": "bake 8 to 12 min or possibly till toppings are heated throughout .",
+            "input": "cajun_tofu_pizza_and_red_pepper",
+            "actions": "bake",
+            "output": "baked_cajun_tofu_pizza_and_red_pepper"
+        }
+    ],
+    "ingredients": [
+        {
+            "text": "1 pkt lowfat tofu (12 ounces)"
+        },
+        {
+            "text": "1 Tbsp. vegetable oil"
+        },
+        {
+            "text": "1 Tbsp. cayenne pepper"
+        },
+        {
+            "text": "1 tsp crushed red pepper"
+        },
+        {
+            "text": "1 tsp black pepper"
+        },
+        {
+            "text": "1 tsp grnd cumin"
+        },
+        {
+            "text": "1 x prepared Italian pizza crust (12- or possibly 16-oz)"
+        },
+        {
+            "text": "1 1/2 c. nonfat pizza sauce"
+        },
+        {
+            "text": "2 jar roasted red peppers (7 ounces) liquid removed"
+        },
+        {
+            "text": "3 c. nonfat mozzarella cheese shredded"
+        }
+    ],
+    "recipe": [
+        {
+            "text": "* Note which the oil is used in the marinade only, and which most of it will be thrown away."
+        },
+        {
+            "text": "Preheat oven to 450F."
+        },
+        {
+            "text": "Crumble tofu into bowl."
+        },
+        {
+            "text": "Add in oil and all spices."
+        },
+        {
+            "text": "Mix."
+        },
+        {
+            "text": "Marinate in refrigerator for at least 30 min."
+        },
+        {
+            "text": "Place pizza crust on baking sheet and spread with pizza sauce."
+        },
+        {
+            "text": "Top with crumbled Cajun tofu, red peppers and mozzarella cheese."
+        },
+        {
+            "text": "Bake 8 to 12 min or possibly till toppings are heated throughout."
+        },
+        {
+            "text": "Yield: One pizza cut into 8 wedges."
+        },
+        {
+            "text": "Serving size: 1 wedge."
+        }
+    ]
+}

@@ -1,0 +1,133 @@
+{
+    "title": "thai-one-on_pizza",
+    "id": "b8a23f6cb0",
+    "table": [
+        {
+            "instructions": "preheat oven to 425 degrees .",
+            "input": "NA",
+            "action": "preheat",
+            "output": "NA"
+        },
+        {
+            "instructions": "in a medium bowl , combine the peanut_butter , chili , garlic_sauce and coconut_milk .",
+            "input": "(peanut_butter; chili; garlic_sauce; coconut_milk)",
+            "action": "combine",
+            "output": "peanut sauce"
+        },
+        {
+            "instructions": "spread the pizza_crust with the peanut_sauce .",
+            "input": "(pizza crust; peanut sauce)",
+            "action": "spread",
+            "output": "peanut sauce spread on pizza crust"
+        },
+        {
+            "instructions": "top with the chicken , mango and scallions .",
+            "input": "(chicken; mango; scallion; pizza crust with peanut sauce)",
+            "action": "top",
+            "output": "pizza crust with peanut sauce topped with chicken , mango and scallions"
+        },
+        {
+            "instructions": "sprinkle with the cheese .",
+            "input": "(cheese; pizza crust with peanut sauce topped with chicken , mango and scallions)",
+            "action": "sprinkle",
+            "output": "pizza crust with peanut sauce topped with chicken , mango, scallions and cheese"
+        },
+        {
+            "instructions": "bake for 10 12 minutes or until cheese is melted .",
+            "input": "uncooked thai chicken pizza",
+            "action": "bake",
+            "output": "baked thai chicken pizza"
+        },
+        {
+            "instructions": "remove from oven",
+            "input": "baked thai chicken pizza",
+            "action": "remove",
+            "output": "baked thai chicken pizza"
+        },
+        {
+            "instructions": "sprinkle with the bean_sprout , mint and nuts .",
+            "input": "(bean sprouts; mint; nuts; baked thai chicken pizza)",
+            "action": "sprinkle",
+            "output": "bean_sprout , mint and nuts sprinkled over baked thai chicken pizza"
+        },
+        {
+            "instructions": "slice",
+            "input": "baked garnished thai chicken pizza",
+            "action": "slice",
+            "output": "sliced baked garnished thai chicken pizza"
+        },
+        {
+            "instructions": "serve immediately with the lime_wedge for some extra zing .",
+            "input": "(sliced baked garnished thai chicken pizza; lime wedge)",
+            "action": "serve",
+            "output": "sliced baked garnished thai chicken pizza served with lime wedge"
+        }
+    ],
+    "ingredients": [
+        {
+            "text": "12 cup peanut butter (ideally natural)"
+        },
+        {
+            "text": "1 tablespoon thai chili-garlic sauce (Sriracha)"
+        },
+        {
+            "text": "6 tablespoons canned unsweetened coconut milk"
+        },
+        {
+            "text": "1 lb prepared pizza dough, at room temperature (I like Oops, It's a Fat Free Pizza Crust)"
+        },
+        {
+            "text": "1 12 cups cooked chicken (sliced or shredded)"
+        },
+        {
+            "text": "1 ripe mango, peeled, pitted and cut into matchstick-size slices"
+        },
+        {
+            "text": "3 scallions, sliced thinly on an angle (white and green parts)"
+        },
+        {
+            "text": "1 cup grated mozzarella cheese"
+        },
+        {
+            "text": "12 cup fresh bean sprout, brown root ends snapped off"
+        },
+        {
+            "text": "14 cup fresh mint leaves, cut into ribbons or 14 cup fresh cilantro"
+        },
+        {
+            "text": "2 tablespoons dry roasted peanuts, chopped"
+        },
+        {
+            "text": "1 lime, cut into 4 wedges"
+        }
+    ],
+    "recipe": [
+        {
+            "text": "Preheat oven to 425 degrees."
+        },
+        {
+            "text": "In a medium bowl, combine the peanut butter, chili garlic sauce and coconut milk."
+        },
+        {
+            "text": "Spread the pizza crust with the peanut sauce."
+        },
+        {
+            "text": "Top with the chicken, mango and scallions."
+        },
+        {
+            "text": "Sprinkle with the cheese."
+        },
+        {
+            "text": "Bake for 10-12 minutes or until cheese is melted."
+        },
+        {
+            "text": "Remove from oven and sprinkle with the bean sprouts, mint and nuts."
+        },
+        {
+            "text": "Slice and serve immediately with the lime wedges for some extra zing."
+        },
+        {
+            "text": "Optional: top with thinly sliced Thai bird chiles and serve with a Thai beer to beat the heat!"
+        }
+    ]
+}

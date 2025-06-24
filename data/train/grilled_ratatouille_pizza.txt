@@ -1,0 +1,133 @@
+{
+    "title": "grilled_ratatouille_pizza",
+    "id": "a7c15156c2",
+    "table": [
+        {
+            "instructions": "heat barbecue to medium high heat .",
+            "input": "NA",
+            "action": "heat",
+            "output": "NA"
+        },
+        {
+            "instructions": "toss vegetables with dressing in large bowl .",
+            "input": "vegetables",
+            "action": "toss",
+            "output": "tossed_vegetables"
+        },
+        {
+            "instructions": "grill 5 to 6 min .",
+            "input": "tossed_vegetables",
+            "action": "grill",
+            "output": "grilled vegetables"
+        },
+        {
+            "instructions": "remove from barbecue ;",
+            "input": "grilled vegetables",
+            "action": "remove",
+            "output": "grilled vegetables"
+        },
+        {
+            "instructions": "set aside .",
+            "input": "grilled vegetables",
+            "action": "set",
+            "output": "grilled vegetables"
+        },
+        {
+            "instructions": "place naan breads on barbecue grate ;",
+            "input": "naan",
+            "action": "place",
+            "output": "naan"
+        },
+        {
+            "instructions": "grill 1 min .",
+            "input": "naan",
+            "action": "grill",
+            "output": "grilled naans"
+        },
+        {
+            "instructions": "transfer , grilled sides up , to work surface ;",
+            "input": "grilled naans",
+            "action": "transfer",
+            "output": "grilled naans"
+        },
+        {
+            "instructions": "top with layers of half the cheese , vegetables and remaining cheese .",
+            "input": "(grilled naans; cheese; vegetables)",
+            "action": "top",
+            "output": "grilled naans topped with half cheese, vegetables and remaining cheese"
+        },
+        {
+            "instructions": "return to barbecue .",
+            "input": "grilled naans topped with half cheese, vegetables and remaining cheese",
+            "action": "return",
+            "output": "grilled naans topped with half cheese, vegetables and remaining cheese"
+        },
+        {
+            "instructions": "grill 3 to 4 min .",
+            "input": "grilled naans topped with half cheese, vegetables and remaining cheese",
+            "action": "grill",
+            "output": "grilled ratatouille naans"
+        },
+        {
+            "instructions": "cut each naan into 4 wedges .",
+            "input": "grilled ratatouille naans",
+            "action": "cut",
+            "output": "cut grilled ratatouille naans"
+        }
+    ],
+    "ingredients": [
+        {
+            "text": "1/2 eggplant, cut crosswise into 1/4-inch-thick slices"
+        },
+        {
+            "text": "1 small zucchini, cut diagonally into 1/4-inch-thick slices"
+        },
+        {
+            "text": "1/2 each red and yellow pepper"
+        },
+        {
+            "text": "1/4 cup Kraft Extra Virgin Olive Oil Tuscan Italian Dressing"
+        },
+        {
+            "text": "1 pkg. (250 g) naan breads (2 breads)"
+        },
+        {
+            "text": "1 cup Cracker Barrel Crumbled Feta Cheese with Oregano, Sun Dried Tomatoes and Black Pepper, divided"
+        }
+    ],
+    "recipe": [
+        {
+            "text": "Heat barbecue to medium-high heat."
+        },
+        {
+            "text": "Toss vegetables with dressing in large bowl."
+        },
+        {
+            "text": "Grill 5 to 6 min."
+        },
+        {
+            "text": "on each side or until crisp-tender."
+        },
+        {
+            "text": "Remove from barbecue; set aside."
+        },
+        {
+            "text": "Place naan breads on barbecue grate; grill 1 min."
+        },
+        {
+            "text": "Transfer, grilled sides up, to work surface; top with layers of half the cheese, vegetables and remaining cheese."
+        },
+        {
+            "text": "Return to barbecue."
+        },
+        {
+            "text": "Grill 3 to 4 min."
+        },
+        {
+            "text": "or until cheese is heated through and begins to soften."
+        },
+        {
+            "text": "Cut each naan into 4 wedges."
+        }
+    ]
+}

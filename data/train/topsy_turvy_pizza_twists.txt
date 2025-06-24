@@ -1,0 +1,169 @@
+{
+    "title": "topsy_turvy_pizza_twists",
+    "id": "58813149c4",
+    "table": [
+        {
+            "instructions": "preheat oven to 37",
+            "input": "NA",
+            "action": "preheat",
+            "output": "NA"
+        },
+        {
+            "instructions": "blend pepperoni , provolone_cheese , olives , parmesan_cheese , green_onion , oregano and garlic_powder in medium bowl ;",
+            "input": "(pepperoni; provolone_cheese; olives; parmesan_cheese; green_onion; oregano; garlic_powder)",
+            "action": "blend",
+            "output": "cheese, olives, seasonings and pepperoni mixture"
+        },
+        {
+            "instructions": "set aside .",
+            "input": "cheese, olives, seasonings and pepperoni mixture",
+            "action": "set",
+            "output": "cheese, olives, seasonings and pepperoni mixture"
+        },
+        {
+            "instructions": "on lightly floured surface , roll 1 piece , dough to 15x9 inch rectangle .",
+            "input": "Dough ball",
+            "action": "roll",
+            "output": "Rolled dough"
+        },
+        {
+            "instructions": "spread pepperoni mixture evenly over dough ;",
+            "input": "(Rolled dough; cheese, olives, seasonings and pepperoni mixture)",
+            "action": "spread",
+            "output": "Rolled dough with cheese, olives, seasonings and pepperoni mixture"
+        },
+        {
+            "instructions": "press lightly .",
+            "input": "Rolled dough with cheese, olives, seasonings and pepperoni mixture",
+            "action": "press",
+            "output": "Pressed rolled dough with cheese, olives, seasonings and pepperoni mixture"
+        },
+        {
+            "instructions": "roll remaining dough to 15x9 inch rectangle ;",
+            "input": "remaining dough",
+            "action": "roll",
+            "output": "rolled remaining dough in rectangle shape"
+        },
+        {
+            "instructions": "place over filling .",
+            "input": "(rolled remaining dough in rectangle shape; Pressed rolled dough with cheese, olives, seasonings and pepperoni mixture)",
+            "action": "place",
+            "output": "Pressed rolled dough with cheese, olives, seasonings and pepperoni mixture topped with rolled remaining dough in rectangle shape"
+        },
+        {
+            "instructions": "press lightly to compact filling .",
+            "input": "Pressed rolled dough with cheese, olives, seasonings and pepperoni mixture topped with rolled remaining dough in rectangle shape",
+            "action": "press",
+            "output": "Pressed rolled dough with cheese, olives, seasonings and pepperoni mixture topped with rolled remaining dough in rectangle shape and pressed lightly"
+        },
+        {
+            "instructions": "cut crosswise in half .",
+            "input": "Pressed rolled dough with cheese, olives, seasonings and pepperoni mixture topped with rolled remaining dough in rectangle shape and pressed lightly",
+            "action": "cut",
+            "output": "pressed rolled dough with cheese, olives, seasonings and pepperoni mixture topped with rolled remaining dough in rectangle shape cut crosswise in half"
+        },
+        {
+            "instructions": "cut lengthwise into 1 inch pieces total of 28 strips .",
+            "input": "pressed rolled dough with cheese, olives, seasonings and pepperoni mixture topped with rolled remaining dough in rectangle shape cut crosswise in half",
+            "action": "cut",
+            "output": "pressed rolled dough with cheese, olives, seasonings and pepperoni mixture topped with rolled remaining dough in rectangle shape cut crosswise in half and then legthwise in strips"
+        },
+        {
+            "instructions": "carefully twist each strip 6 to 7 times to form tight spirals ;",
+            "input": "pressed rolled dough with cheese, olives, seasonings and pepperoni mixture topped with rolled remaining dough in rectangle shape cut crosswise in half and then legthwise in strips",
+            "action": "twist",
+            "output": "Twisted strips of dough with cheese, olives, seasonings and pepperoni mixture"
+        },
+        {
+            "instructions": "pinch ends to seal .",
+            "input": "Twisted strips of dough with cheese, olives, seasonings and pepperoni mixture",
+            "action": "pinch",
+            "output": "Twisted strips of dough with cheese, olives, seasonings and pepperoni mixture sealed"
+        },
+        {
+            "instructions": "place on large cookie sheet sprayed with nonstick cooking_spray .",
+            "input": "Twisted strips of dough with cheese, olives, seasonings and pepperoni mixture sealed",
+            "action": "place",
+            "output": "Twisted strips of dough with cheese, olives, seasonings and pepperoni mixture sealed"
+        },
+        {
+            "instructions": "bake 12 to 14 minutes or until golden brown .",
+            "input": "Twisted strips of dough with cheese, olives, seasonings and pepperoni mixture sealed",
+            "action": "bake",
+            "output": "Baked pizza twists with cheese, olives, seasonings and pepperoni mixture"
+        },
+        {
+            "instructions": "serve with warmed pizza_sauce .",
+            "input": "(Baked pizza twists with cheese, olives, seasonings and pepperoni mixture; warmed pizza sauce)",
+            "action": "serve",
+            "output": "Baked pizza twists with cheese, olives, seasonings and pepperoni mixture served with warmed pizza sauce"
+        }
+    ],
+    "ingredients": [
+        {
+            "text": "14 lb pepperoni, finely chopped"
+        },
+        {
+            "text": "2 ounces provolone cheese, finely chopped"
+        },
+        {
+            "text": "14 cup sliced ripe olives"
+        },
+        {
+            "text": "3 tablespoons shredded parmesan cheese"
+        },
+        {
+            "text": "2 tablespoons finely chopped green onions"
+        },
+        {
+            "text": "1 12 teaspoons oregano leaves"
+        },
+        {
+            "text": "12 teaspoon garlic powder"
+        },
+        {
+            "text": "2 (13 7/8 ounce) cansrefrigerated pizza dough"
+        },
+        {
+            "text": "1 23 cups pizza sauce, heated"
+        }
+    ],
+    "recipe": [
+        {
+            "text": "Preheat oven to 375F"
+        },
+        {
+            "text": "Blend pepperoni, provolone cheese, olives, Parmesan cheese, green onions, oregano and garlic powder in medium bowl; Set aside."
+        },
+        {
+            "text": "On lightly floured surface, roll 1 piece dough to 15x9 inch rectangle."
+        },
+        {
+            "text": "Spread pepperoni mixture evenly over dough; press lightly."
+        },
+        {
+            "text": "Roll remaining dough to 15x9 inch rectangle; place over filling."
+        },
+        {
+            "text": "Press lightly to compact filling."
+        },
+        {
+            "text": "Cut crosswise in half."
+        },
+        {
+            "text": "Cut lengthwise into 1-inch pieces (total of 28 strips)."
+        },
+        {
+            "text": "Carefully twist each strip 6 to 7 times to form tight spirals; pinch ends to seal."
+        },
+        {
+            "text": "Place on large cookie sheet sprayed with nonstick cooking spray."
+        },
+        {
+            "text": "Bake 12 to 14 minutes or until golden brown."
+        },
+        {
+            "text": "Serve with warmed pizza sauce."
+        }
+    ]
+}

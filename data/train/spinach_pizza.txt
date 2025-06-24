@@ -1,0 +1,175 @@
+{
+    "title": "spinach_pizza",
+    "id": "a48c276559",
+    "table": [
+        {
+            "instructions": "thaw spinach completely",
+            "input": "spinach",
+            "action": "thaw",
+            "output": "thawed_spinach"
+        },
+        {
+            "instructions": "press out all water .",
+            "input": "thawed_spinach",
+            "action": "press",
+            "output": "thawed_spinach without excess water"
+        },
+        {
+            "instructions": "heat milk in saucepan, when hot stir in flour.\u00a0",
+            "input": "milk; flour",
+            "action": "stir",
+            "output": "white sauce"
+        },
+        {
+            "instructions": "stir until sauce begins to thicken. turn heat down .",
+            "input": "white sauce",
+            "action": "turn",
+            "output": "thickened white sauce"
+        },
+        {
+            "instructions": "add nutritional_yeast and spinach .",
+            "input": "heated mixture; nutritional yeast; thawed_spinach without excess water",
+            "action": "add",
+            "output": "white sauce and spinach mixture"
+        },
+        {
+            "instructions": "stir constantly until thick and gooey , only about 3 to 4 min .",
+            "input": "white sauce and spinach mixture",
+            "action": "stir",
+            "output": "thickened white sauce and spinach gooey mixture"
+        },
+        {
+            "instructions": "in separate pan , saute onion , garlic , until onion is tender .",
+            "input": "(onion; garlic)",
+            "action": "saute",
+            "output": "sauteed onion and garlic"
+        },
+        {
+            "instructions": "stir in tomatoes , mushrooms , and spices .",
+            "input": "sauteed onion and garlic; tomatoes; mushrooms; spices",
+            "action": "stir",
+            "output": "tomato mixture"
+        },
+        {
+            "instructions": "saute until just done .",
+            "input": "tomato mixture",
+            "action": "saute",
+            "output": "cooked tomato mixture"
+        },
+        {
+            "instructions": "preheat oven to 425 degrees f .",
+            "input": "NA",
+            "action": "preheat",
+            "output": "NA"
+        },
+        {
+            "instructions": "using a very sharp bread knife , split each pita_bread so that you have two round flat pieces instead of one thick one .",
+            "input": "pita bread",
+            "action": "split",
+            "output": "split pita bread"
+        },
+        {
+            "instructions": "place each piece of bread on a cookie sheet or pizza\u2012pan .",
+            "input": "split pita bread",
+            "action": "place",
+            "output": "arranged pita bread on a sheet"
+        },
+        {
+            "instructions": "spread spinach sauce over each .",
+            "input": "(split pita bread; thickened white sauce and spinach gooey mixturee)",
+            "action": "spread",
+            "output": "pita bread with thickened white sauce and spinach gooey mixture"
+        },
+        {
+            "instructions": "top with tomato mixture , being careful to avoid the juice .",
+            "input": "(pita bread with thickened white sauce and spinach gooey mixture; cooked tomato mixture)",
+            "action": "top",
+            "output": "pita bread with tomato mixture and spinach sauce"
+        },
+        {
+            "instructions": "bake for 5 to 7 min .",
+            "input": "uncooked spinach pizza",
+            "action": "bake",
+            "output": "baked spinach pizza"
+        },
+        {
+            "instructions": "watch closely so that the edges of the pita do n't burn .",
+            "input": "NA",
+            "action": "watch",
+            "output": "NA"
+        }
+    ],
+    "ingredients": [
+        {
+            "text": "3 whole pita bread"
+        },
+        {
+            "text": "13 cup nutritional yeast flakes"
+        },
+        {
+            "text": "1 medium onions"
+        },
+        {
+            "text": "6 each italian plum (roma) tomatoes"
+        },
+        {
+            "text": "8 ounces mushrooms"
+        },
+        {
+            "text": "4 cloves garlic"
+        }
+    ],
+    "recipe": [
+        {
+            "text": "Thaw spinach completely, press out all water."
+        },
+        {
+            "text": "Heat milk in saucepan, when hot but not boiling stir in flour."
+        },
+        {
+            "text": "Stir until sauce begins to thicken, turn heat down."
+        },
+        {
+            "text": "Add nutritional yeast and spinach."
+        },
+        {
+            "text": "Stir constantly until thick and gooey, only about 3 to 4 min."
+        },
+        {
+            "text": "In separate pan, saute onion, garlic, until onion is tender."
+        },
+        {
+            "text": "Stir in tomatoes, mushrooms, and spices."
+        },
+        {
+            "text": "Saute until just done."
+        },
+        {
+            "text": "Preheat oven to 425 degrees F."
+        },
+        {
+            "text": "Using a very sharp bread knife, split each pita bread so that you have two round flat pieces instead of one thick one."
+        },
+        {
+            "text": "Place each piece of bread on a cookie sheet or pizza pan."
+        },
+        {
+            "text": "Spread spinach sauce over each."
+        },
+        {
+            "text": "Top with tomato mixture, being careful to avoid the juice."
+        },
+        {
+            "text": "Bake for 5 to 7 min."
+        },
+        {
+            "text": "Watch closely so that the edges of the pita don't burn."
+        },
+        {
+            "text": "Makes a nice crunchy crust."
+        },
+        {
+            "text": "This made enough for 5 individual pizzas."
+        }
+    ]
+}

@@ -1,0 +1,151 @@
+{
+    "title": "salami_honey_pizza",
+    "id": "be5d8383f2",
+    "table": [
+        {
+            "instructions": "preheat the oven to 475f .",
+            "input": "NA",
+            "action": "preheat",
+            "output": "NA"
+        },
+        {
+            "instructions": "drizzle 2 tablespoons of olive_oil over the bottom of a rimmed half sheet pan .",
+            "input": "NA",
+            "action": "drizzle",
+            "output": "NA"
+        },
+        {
+            "instructions": "sprinkle the semolina or cornmeal over the surface evenly .",
+            "input": "NA",
+            "action": "sprinkle",
+            "output": "NA"
+        },
+        {
+            "instructions": "use oiled hands to press the pizza_dough over the bottom of the half sheet pan , stretching the dough as thinly as possible without tearing it .",
+            "input": "pizza dough",
+            "action": "use",
+            "output": "stretched pizza dough"
+        },
+        {
+            "instructions": "try to get the dough to reach into the corners and up to the edges of the pan .",
+            "input": "stretched pizza dough",
+            "action": "try",
+            "output": "stretched pizza dough"
+        },
+        {
+            "instructions": "try again .",
+            "input": "stretched pizza dough",
+            "action": "try",
+            "output": "stretched pizza dough"
+        },
+        {
+            "instructions": "spread the pizza_sauce",
+            "input": "(pizza sauce; stretched pizza dough)",
+            "action": "spread",
+            "output": "stretched pizza dough with spread pizza sauce"
+        },
+        {
+            "instructions": "tear the provolone slices into 2 inch pieces",
+            "input": "(provolone slices; stretched pizza dough with spread pizza sauce)",
+            "action": "tear",
+            "output": "stretched pizza dough with pizza sauce and teared provolone slices"
+        },
+        {
+            "instructions": "arrange the salami slices on top .",
+            "input": "(salami slices; stretched pizza dough with pizza sauce and teared provolone slices)",
+            "action": "arrange",
+            "output": "stretched pizza dough with pizza sauce, teared provolone slices and salami slices"
+        },
+        {
+            "instructions": "bake the pizza for 15 minutes , or until the crust is deep golden brown around the outside , the cheese is melted and bubbly , and the salami pieces have curled",
+            "input": "uncooked provolone and salami pizza",
+            "action": "bake",
+            "output": "cooked provolone and salami pizza"
+        },
+        {
+            "instructions": "as soon as the pizza comes out of the oven , drizzle the honey mainly over the salami pieces , but also over the outer edges of the crust .",
+            "input": "(honey; cooked provolone and salami pizza)",
+            "action": "drizzle",
+            "output": "cooked provolone and salami pizza with drizzled honey"
+        },
+        {
+            "instructions": "cut into rectangles",
+            "input": "cooked provolone and salami pizza with drizzled honey",
+            "action": "cut",
+            "output": "cut cooked provolone and salami pizza with drizzled honey in rectangles"
+        },
+        {
+            "instructions": "serve immediately with many , many napkins .",
+            "input": "cut cooked provolone and salami pizza with drizzled honey in rectangles",
+            "action": "serve",
+            "output": "cut cooked provolone and salami pizza with drizzled honey in rectangles ready to serve"
+        }
+    ],
+    "ingredients": [
+        {
+            "text": "2 Tbsp. olive oil"
+        },
+        {
+            "text": "1 Tbsp. semolina or cornmeal"
+        },
+        {
+            "text": "1 lb. Pizza Dough (homemade or purchased)"
+        },
+        {
+            "text": "3/4 cup CLASSICO Traditional Pizza Sauce (homemade or purchased)"
+        },
+        {
+            "text": "7-8 ounces (about 2 cups) KRAFT Shredded Mozzarella Cheese"
+        },
+        {
+            "text": "4 slices KRAFT Provolone Cheese"
+        },
+        {
+            "text": "12 thin slices hard salami"
+        },
+        {
+            "text": "2 Tbsp. mild honey (or more to taste)"
+        }
+    ],
+    "recipe": [
+        {
+            "text": "PREHEAT the oven to 475F."
+        },
+        {
+            "text": "DRIZZLE 2 tablespoons of olive oil over the bottom of a rimmed half sheet pan."
+        },
+        {
+            "text": "Sprinkle the semolina or cornmeal over the surface evenly."
+        },
+        {
+            "text": "Use oiled hands to press the pizza dough over the bottom of the half sheet pan, stretching the dough as thinly as possible without tearing it."
+        },
+        {
+            "text": "Try to get the dough to reach into the corners and up to the edges of the pan."
+        },
+        {
+            "text": "If the dough is fighting you, let it rest for 10 minutes then try again."
+        },
+        {
+            "text": "The dough should be more relaxed at that point."
+        },
+        {
+            "text": "SPREAD the pizza sauce evenly over the crust, then scatter the mozzarella over the top."
+        },
+        {
+            "text": "Tear the provolone slices into 2-inch pieces and distribute that evenly over the mozzarella."
+        },
+        {
+            "text": "Arrange the salami slices on top."
+        },
+        {
+            "text": "Bake the pizza for 15 minutes, or until the crust is deep golden brown around the outside, the cheese is melted and bubbly, and the salami pieces have curled and are crisp on the edges."
+        },
+        {
+            "text": "As soon as the pizza comes out of the oven, drizzle the honey mainly over the salami pieces, but also over the outer edges of the crust."
+        },
+        {
+            "text": "Cut into rectangles and serve immediately with many, many napkins."
+        }
+    ]
+}

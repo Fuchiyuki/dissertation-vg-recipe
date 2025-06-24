@@ -1,0 +1,184 @@
+{
+    "title": "carbonara_pizza_appetizer",
+    "id": "6c4c735810",
+    "table": [
+        {
+            "instructions": "preheat oven to 42",
+            "input": "NA",
+            "actions": "preheat",
+            "output": "NA"
+        },
+        {
+            "instructions": "grease a 12 inch , pizza\u2012pan .",
+            "input": "NA",
+            "actions": "grease",
+            "output": "NA"
+        },
+        {
+            "instructions": "press pizza_dough into pan .",
+            "input": "pizza_dough",
+            "actions": "press",
+            "output": "pressed_pizza_dough"
+        },
+        {
+            "instructions": "prick dough with a fork .",
+            "input": "pressed_pizza_dough",
+            "actions": "prick",
+            "output": "pricked_pizza_crust"
+        },
+        {
+            "instructions": "bake at 425 for 7 to 10 minutes or until lightly browned .",
+            "input": "uncooked_pizza_crust",
+            "actions": "bake",
+            "output": "baked pizza crust"
+        },
+        {
+            "instructions": "saute onion and garlic in butter in a saucepan until tender .",
+            "input": "(onion; garlic; butter)",
+            "actions": "saute",
+            "output": "garlic and onion sauteed in butter"
+        },
+        {
+            "instructions": "stir in flour and pepper .",
+            "input": "(garlic and onion sauteed in butter; flour; pepper)",
+            "actions": "stir",
+            "output": "flour and pepper stirred in sauteed garlic and onion"
+        },
+        {
+            "instructions": "gradually add milk .",
+            "input": "(milk; flour and pepper stirred in sauteed garlic and onion)",
+            "actions": "add",
+            "output": "milk added to flour mixture"
+        },
+        {
+            "instructions": "cook",
+            "input": "uncooked mixture",
+            "actions": "cook",
+            "output": "cooking mixture"
+        },
+        {
+            "instructions": "stir for 2 minutes or until thickened .",
+            "input": "cooking mixture",
+            "actions": "stir",
+            "output": "cooking mixture"
+        },
+        {
+            "instructions": "reduce heat ;",
+            "input": "cooking mixture",
+            "actions": "reduce",
+            "output": "cooking mixture"
+        },
+        {
+            "instructions": "stir in parmesan_cheese .",
+            "input": "(cooking mixture; parmesan_cheese)",
+            "actions": "stir",
+            "output": "parmesan_cheese stirred in cooking mixture"
+        },
+        {
+            "instructions": "spread mixture over hot crust .",
+            "input": "(cheese_and flour mixture; pizza crust)",
+            "actions": "spread",
+            "output": "cheese_and flour mixture spread on pizza crust"
+        },
+        {
+            "instructions": "sprinkle with bacon , monterrey , jack_cheese and green_onion .",
+            "input": "(bacon; monterrey jack cheese; green onion; pizza_crust)",
+            "actions": "sprinkle",
+            "output": "bacon, monterrey jack cheese and onion sprinkle over pizza crust"
+        },
+        {
+            "instructions": "bake at 425 for 8 to 12 minutes .",
+            "input": "uncooked pizza",
+            "actions": "bake",
+            "output": "baked carbonara pizza"
+        },
+        {
+            "instructions": "serve warm .",
+            "input": "baked carbonara pizza",
+            "actions": "serve",
+            "output": "served carbonara pizza"
+        }
+    ],
+    "ingredients": [
+        {
+            "text": "1 prepared pizza crust (uncooked)"
+        },
+        {
+            "text": "13 cup finely chopped onion"
+        },
+        {
+            "text": "2 garlic cloves, minced"
+        },
+        {
+            "text": "1 tablespoon margarine"
+        },
+        {
+            "text": "1 tablespoon flour"
+        },
+        {
+            "text": "18 teaspoon white pepper"
+        },
+        {
+            "text": "1 cup milk"
+        },
+        {
+            "text": "14 cup grated parmesan cheese"
+        },
+        {
+            "text": "12 lb bacon, cooked and crumbled"
+        },
+        {
+            "text": "6 ounces shredded monterey jack cheese"
+        },
+        {
+            "text": "3 green onions, thinly sliced"
+        }
+    ],
+    "recipe": [
+        {
+            "text": "Preheat oven to 425."
+        },
+        {
+            "text": "Grease a 12 inch pizza pan."
+        },
+        {
+            "text": "Press pizza dough into pan."
+        },
+        {
+            "text": "Prick dough with a fork."
+        },
+        {
+            "text": "Bake at 425 for 7 to 10 minutes or until lightly browned."
+        },
+        {
+            "text": "Saute onion and garlic in butter in a saucepan until tender."
+        },
+        {
+            "text": "Stir in flour and pepper."
+        },
+        {
+            "text": "Gradually add milk."
+        },
+        {
+            "text": "Bring to a boil; cook and stir for 2 minutes or until thickened."
+        },
+        {
+            "text": "Reduce heat; stir in parmesan cheese."
+        },
+        {
+            "text": "Spread mixture over hot crust."
+        },
+        {
+            "text": "Sprinkle with bacon, monterrey jack cheese and green onion."
+        },
+        {
+            "text": "Bake at 425 for 8 to 12 minutes."
+        },
+        {
+            "text": "Let stand 5 minutes before cutting."
+        },
+        {
+            "text": "Serve warm."
+        }
+    ]
+}

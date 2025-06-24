@@ -1,0 +1,130 @@
+{
+    "title": "pizza_a_la_spago",
+    "id": "86dd8f7fa0",
+    "table": [
+        {
+            "instructions": "dissolve the yeast in the water along with the honey .",
+            "input": "(yeast; water; honey)",
+            "action": "dissolve",
+            "output": "dissoved yeast and honey"
+        },
+        {
+            "instructions": "stir in 1 cup of the flour , the salt , and 3 tablespoon of the olive_oil with spoon .",
+            "input": "(dissoved yeast and honey; flour; salt, olive_oil)",
+            "action": "stir",
+            "output": "partially mixed dough"
+        },
+        {
+            "instructions": "mix well .",
+            "input": "partially mixed dough",
+            "action": "mix",
+            "output": "dough"
+        },
+        {
+            "instructions": "add a second cup of flour",
+            "input": "(dough; flour)",
+            "action": "add",
+            "output": "flour added to dough"
+        },
+        {
+            "instructions": "flour the work surface and your hands",
+            "input": "NA",
+            "action": "flour",
+            "output": "NA"
+        },
+        {
+            "instructions": "turn the dough out .",
+            "input": "dough",
+            "action": "turn",
+            "output": "dough"
+        },
+        {
+            "instructions": "put the dough in a oiled bowl",
+            "input": "dough",
+            "action": "put",
+            "output": "dough put into oiled bowl"
+        },
+        {
+            "instructions": "seal the bowl tightly .",
+            "input": "dough put into oiled bowl",
+            "action": "seal",
+            "output": "dough put into oiled bowl"
+        },
+        {
+            "instructions": "punch down the dough",
+            "input": "dough put into oiled bowl",
+            "action": "punch",
+            "output": "dough punched down"
+        },
+        {
+            "instructions": "knead it briefly ,",
+            "input": "dough put into oiled bowl",
+            "action": "knead",
+            "output": "kneaded dough"
+        },
+        {
+            "instructions": "divide it into 4 parts .",
+            "input": "kneaded dough",
+            "action": "divide",
+            "output": "kneaded dough divided into four parts"
+        },
+        {
+            "instructions": "refrigerate for 15 minutes before using .",
+            "input": "divided dough",
+            "action": "refrigerate",
+            "output": "refrigerated dough"
+        }
+    ],
+    "ingredients": [
+        {
+            "text": "1 package yeast, active dry"
+        },
+        {
+            "text": "3/4 cup water warm"
+        },
+        {
+            "text": "1 tablespoon honey"
+        },
+        {
+            "text": "3 cups flour, all-purpose"
+        },
+        {
+            "text": "1 teaspoon salt"
+        },
+        {
+            "text": "5 tablespoons olive oil"
+        }
+    ],
+    "recipe": [
+        {
+            "text": "Dissolve the yeast in the water along with the honey."
+        },
+        {
+            "text": "Stir in 1 cup of the flour, the salt, and 3 tablespoon of the olive oil with spoon."
+        },
+        {
+            "text": "Mix well."
+        },
+        {
+            "text": "Add a second cup of flour and continue mixing until the dough forms a sticky mass and comes away from the sides of the bowl."
+        },
+        {
+            "text": "Flour the work surface and your hands and turn the dough out."
+        },
+        {
+            "text": "Continue kneading in the remaining flour until the dough is smooth and elastic."
+        },
+        {
+            "text": "Put the dough in a oiled bowl and seal the bowl tightly."
+        },
+        {
+            "text": "Let the dough rise in a warm place for 30 to 45 minutes, or until it has nearly doubled."
+        },
+        {
+            "text": "Punch down the dough, knead it briefly, and divide it into 4 parts."
+        },
+        {
+            "text": "Refrigerate for 15 minutes before using."
+        }
+    ]
+}

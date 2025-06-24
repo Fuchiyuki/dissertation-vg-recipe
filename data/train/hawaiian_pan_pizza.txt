@@ -1,0 +1,133 @@
+{
+    "title": "hawaiian_pan_pizza",
+    "id": "ab6b37c5be",
+    "table": [
+        {
+            "instructions": "pre heat oven to 42",
+            "input": "NA",
+            "actions": "heat",
+            "output": "NA"
+        },
+        {
+            "instructions": "grease pan with oil .",
+            "input": "NA",
+            "actions": "grease",
+            "output": "NA"
+        },
+        {
+            "instructions": "place dough in pan",
+            "input": "dough",
+            "actions": "place",
+            "output": "dough"
+        },
+        {
+            "instructions": "spread dough to the edge of the pan .",
+            "input": "dough",
+            "actions": "spread",
+            "output": "dough"
+        },
+        {
+            "instructions": "spread pizza_sauce over the dough .",
+            "input": "(dough; pizza_sauce)",
+            "actions": "spread",
+            "output": "pizza_sauce spread over dough"
+        },
+        {
+            "instructions": "add bacon .",
+            "input": "(bacon; pizza crust with pizza sauce)",
+            "actions": "add",
+            "output": "bacon added to pizza crust with pizza sauce"
+        },
+        {
+            "instructions": "add pineapple .",
+            "input": "(pineapple; pizza crust with bacon and pizza sauce)",
+            "actions": "add",
+            "output": "pineapple added to pizza crust with bacon and pizza sauce"
+        },
+        {
+            "instructions": "sprinkle cheese all over pineapple .",
+            "input": "cheese, pizza crust with bacon and pineapple",
+            "actions": "sprinkle",
+            "output": "cheese sprinkled over bacon and pineapple pizza"
+        },
+        {
+            "instructions": "using medium heat , place pan on stove top for 3 minutes .",
+            "input": "uncooked hawaiian_pizza",
+            "actions": "place",
+            "output": "uncooked hawaiian_pizza"
+        },
+        {
+            "instructions": "place pan in the oven",
+            "input": "uncooked hawaiian_pizza",
+            "actions": "place",
+            "output": "uncooked hawaiian_pizza"
+        },
+        {
+            "instructions": "bake for 13 minutes .",
+            "input": "uncooked hawaiian_pizza",
+            "actions": "bake",
+            "output": "baked hawaiian_pizza"
+        }
+    ],
+    "ingredients": [
+        {
+            "text": "1 Pizza dough"
+        },
+        {
+            "text": "1/2 cup Chopped Prosciutto"
+        },
+        {
+            "text": "1/2 cup Chopped bacon"
+        },
+        {
+            "text": "1/2 cup Chopped pineapple"
+        },
+        {
+            "text": "1 cup Pizza sauce"
+        },
+        {
+            "text": "1 cup Mozzarella"
+        },
+        {
+            "text": "1 tbsp Olive oil"
+        },
+        {
+            "text": "1 large Frying Pan"
+        }
+    ],
+    "recipe": [
+        {
+            "text": "Pre-heat oven to 425."
+        },
+        {
+            "text": "Grease pan with oil."
+        },
+        {
+            "text": "Place dough in pan and spread dough to the edge of the pan."
+        },
+        {
+            "text": "Spread pizza sauce over the dough."
+        },
+        {
+            "text": "Placed prosciutto on top of sauce."
+        },
+        {
+            "text": "Add bacon."
+        },
+        {
+            "text": "Add pineapple."
+        },
+        {
+            "text": "Sprinkle cheese all over pineapple."
+        },
+        {
+            "text": "Using medium heat, place pan on stove top for 3 minutes."
+        },
+        {
+            "text": "Place pan in the oven and bake for 13 minutes."
+        },
+        {
+            "text": "Done!"
+        }
+    ]
+}

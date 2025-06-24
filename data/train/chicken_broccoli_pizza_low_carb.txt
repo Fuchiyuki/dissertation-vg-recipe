@@ -1,0 +1,145 @@
+{
+    "title": "chicken_broccoli_pizza_low_carb",
+    "id": "8ade393b63",
+    "table": [
+        {
+            "instructions": "preheat oven to 37",
+            "input": "NA",
+            "action": "preheat",
+            "output": "NA"
+        },
+        {
+            "instructions": "beat together half the cream_cheese , milk , and eggs until smooth .",
+            "input": "(half of cream_cheese; milk; eggs)",
+            "action": "beat",
+            "output": "cream cheese and egg mixture"
+        },
+        {
+            "instructions": "add any seasonings you want .",
+            "input": "(seasoning; cream cheese and egg mixture)",
+            "action": "add",
+            "output": "seasoned cream cheese and egg mixture"
+        },
+        {
+            "instructions": "spray 9x13 pan with cooking_spray or oil .",
+            "input": "NA",
+            "action": "spray",
+            "output": "NA"
+        },
+        {
+            "instructions": "place 2 cups mozzerella cheese in bottom of pan .",
+            "input": "mozzarella cheese",
+            "action": "place",
+            "output": "mozzarella cheese in pan"
+        },
+        {
+            "instructions": "pour egg mixture over cheese .",
+            "input": "(mozzarella cheese in pan; cream cheese and egg mixture)",
+            "action": "pour",
+            "output": "cream cheese and egg mixture poured over mozzarella cheese in pan"
+        },
+        {
+            "instructions": "bake for 30 minutes .",
+            "input": "cream cheese and egg mixture poured over mozzarella cheese in pan",
+            "action": "bake",
+            "output": "baked mozzarella omelette"
+        },
+        {
+            "instructions": "meanwhile , steam the chicken and broccoli",
+            "input": "(chicken; broccoli)",
+            "action": "steam",
+            "output": "(steamed chicken; steamed broccol)"
+        },
+        {
+            "instructions": "cut into small pieces .",
+            "input": "(steamed chicken; steamed broccol)",
+            "action": "cut",
+            "output": "chopped steamed chicken and broccoli"
+        },
+        {
+            "instructions": "remove crust from oven",
+            "input": "baked mozzarella omelette",
+            "action": "remove",
+            "output": "baked mozzarella omelette"
+        },
+        {
+            "instructions": "spread the remaining cream_cheese on top .",
+            "input": "(remaining cream cheese; baked mozzarella omelette)",
+            "action": "spread",
+            "output": "remaining cream cheese spread over baked mozzarella omelette"
+        },
+        {
+            "instructions": "put chicken and broccoli on cream_cheese layer ,",
+            "input": "(chopped steamed chicken and broccoli; baked mozzarella omelette with remaining cream cheese)",
+            "action": "put",
+            "output": "baked mozzarella omelette with remaining cream cheese and chopped steamed chicken and broccoli"
+        },
+        {
+            "instructions": "cover with remaining cup of mozzarella_cheese .",
+            "input": "(mozzarella cheese; baked mozzarella omelette with remaining cream cheese and chopped steamed chicken and broccoli)",
+            "action": "cover",
+            "output": "baked mozzarella omelette with remaining cream cheese, chopped steamed chicken and broccoli and mozzarella cheese"
+        },
+        {
+            "instructions": "bake another 5 10 minutes until cheese is melted .",
+            "input": "baked mozzarella omelette with remaining cream cheese, chopped steamed chicken and broccoli and mozzarella cheese",
+            "action": "bake",
+            "output": "baked chicken_broccoli_pizza_low_carb"
+        }
+    ],
+    "ingredients": [
+        {
+            "text": "8 ounces fat free cream cheese"
+        },
+        {
+            "text": "1 cup egg substitute (or 8 egg whites)"
+        },
+        {
+            "text": "13 cup low-carb milk"
+        },
+        {
+            "text": "2 lbs boneless skinless chicken breasts"
+        },
+        {
+            "text": "1 bunch broccoli (Frozen's OK)"
+        },
+        {
+            "text": "3 cups part-skim mozzarella cheese, shredded"
+        }
+    ],
+    "recipe": [
+        {
+            "text": "Preheat oven to 375."
+        },
+        {
+            "text": "Beat together half the cream cheese, milk, and eggs until smooth."
+        },
+        {
+            "text": "Add any seasonings you want."
+        },
+        {
+            "text": "Spray 9X13 pan with cooking spray or oil."
+        },
+        {
+            "text": "Place 2 cups mozzerella cheese in bottom of pan."
+        },
+        {
+            "text": "Pour egg mixture over cheese."
+        },
+        {
+            "text": "Bake for 30 minutes."
+        },
+        {
+            "text": "Meanwhile, steam the chicken and broccoli and cut into small pieces."
+        },
+        {
+            "text": "Remove crust from oven and spread the remaining cream cheese on top."
+        },
+        {
+            "text": "Put chicken and broccoli on cream cheese layer, then cover with remaining cup of mozzarella cheese."
+        },
+        {
+            "text": "Bake another 5-10 minutes until cheese is melted."
+        }
+    ]
+}

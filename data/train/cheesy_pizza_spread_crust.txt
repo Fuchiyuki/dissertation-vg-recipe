@@ -1,0 +1,163 @@
+{
+    "title": "cheesy_pizza_spread_crust",
+    "id": "7d31d19e9c",
+    "table": [
+        {
+            "instructions": "heat oven to 400f .",
+            "input": "NA",
+            "action": "heat",
+            "output": "NA"
+        },
+        {
+            "instructions": "spray baking sheet with no stick , cooking_spray .",
+            "input": "NA",
+            "action": "spray",
+            "output": "NA"
+        },
+        {
+            "instructions": "press pizza_crust into large rectangle on prepared baking sheet .",
+            "input": "pizza_crust",
+            "action": "press",
+            "output": "pressed_pizza_crust"
+        },
+        {
+            "instructions": "cut horizontally into thirds with pizza cutter .",
+            "input": "pressed_pizza_crust",
+            "action": "cut",
+            "output": "cut pressed_pizza_crust"
+        },
+        {
+            "instructions": "cut each row into 8 triangles .",
+            "input": "cut pressed_pizza_crust",
+            "action": "cut",
+            "output": "cut pressed_pizza_crust into triangles"
+        },
+        {
+            "instructions": "spread melted_butter over crust , using pastry brush .",
+            "input": "(cut pressed_pizza_crust into triangles; melted butter)",
+            "action": "spread",
+            "output": "cut pressed_pizza_crust into triangles brushed with melted butter"
+        },
+        {
+            "instructions": "sprinkle evenly with italian_seasoning and parmesan_cheese .",
+            "input": "(italian seasoning; parmesan cheese; cut pressed_pizza_crust into triangles brushed with melted butter)",
+            "action": "sprinkle",
+            "output": "cut pressed_pizza_crust into triangles with melted butter, italian seasoning and parmesan cheese"
+        },
+        {
+            "instructions": "bake 8 12 minutes or until golden brown .",
+            "input": "cut pressed_pizza_crust into triangles with melted butter, italian seasoning and parmesan cheese",
+            "action": "bake",
+            "output": "baked seasoned cheesy crust"
+        },
+        {
+            "instructions": "cool on baking sheet ;",
+            "input": "baked seasoned cheesy crust",
+            "action": "cool",
+            "output": "cooled baked seasoned cheesy crust"
+        },
+        {
+            "instructions": "separate triangles .",
+            "input": "cooled baked seasoned cheesy crust",
+            "action": "separate",
+            "output": "cooled baked seasoned cheesy crust separated into triangles"
+        },
+        {
+            "instructions": "combine milk and cheese in bowl .",
+            "input": "(milk; cheese)",
+            "action": "combine",
+            "output": "milk and cheese mixture"
+        },
+        {
+            "instructions": "microwave 2 minutes ;",
+            "input": "milk and cheese mixture",
+            "action": "microwave",
+            "output": "microwaved milk and cheese mixture"
+        },
+        {
+            "instructions": "stir .",
+            "input": "microwaved milk and cheese mixture",
+            "action": "stir",
+            "output": "stirred cheese mixture"
+        },
+        {
+            "instructions": "stir in banana_pepper , olives and bell_pepper .",
+            "input": "(stirred cheese mixture; banana pepper; olives; bell pepper)",
+            "action": "stir",
+            "output": "stirred cheese mixture with banana pepper, olives and bell pepper"
+        }
+    ],
+    "ingredients": [
+        {
+            "text": "1 (11-ounce) tube refrigerated thin pizza crust dough"
+        },
+        {
+            "text": "1 tablespoon Land O Lakes Butter, melted"
+        },
+        {
+            "text": "1/2 teaspoon dried Italian seasoning"
+        },
+        {
+            "text": "2 tablespoons grated Parmesan cheese"
+        },
+        {
+            "text": "1/2 cup milk"
+        },
+        {
+            "text": "8 ounces Land O Lakes Deli American, chopped"
+        },
+        {
+            "text": "1/4 cup sliced banana peppers"
+        },
+        {
+            "text": "1/4 cup sliced black olives"
+        },
+        {
+            "text": "1/4 cup chopped green bell pepper"
+        },
+        {
+            "text": "1 1/2 cups mini pepperoni"
+        }
+    ],
+    "recipe": [
+        {
+            "text": "Heat oven to 400F."
+        },
+        {
+            "text": "Spray baking sheet with no-stick cooking spray."
+        },
+        {
+            "text": "Press pizza crust into large rectangle on prepared baking sheet."
+        },
+        {
+            "text": "Cut horizontally into thirds with pizza cutter."
+        },
+        {
+            "text": "Cut each row into 8 triangles."
+        },
+        {
+            "text": "Spread melted butter over crust, using pastry brush."
+        },
+        {
+            "text": "Sprinkle evenly with Italian seasoning and Parmesan cheese."
+        },
+        {
+            "text": "Bake 8-12 minutes or until golden brown."
+        },
+        {
+            "text": "Cool on baking sheet; separate triangles."
+        },
+        {
+            "text": "Combine milk and cheese in bowl."
+        },
+        {
+            "text": "Microwave 2 minutes; stir."
+        },
+        {
+            "text": "Continue microwaving, stirring every 30 seconds, until spread is smooth."
+        },
+        {
+            "text": "Stir in banana peppers, olives and bell pepper."
+        }
+    ]
+}

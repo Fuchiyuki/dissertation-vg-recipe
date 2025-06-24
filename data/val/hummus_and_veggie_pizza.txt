@@ -1,0 +1,139 @@
+{
+    "title": "hummus_and_veggie_pizza",
+    "id": "a0a1fd3900",
+    "table": [
+        {
+            "instructions": "heat a large skillet",
+            "input": "NA",
+            "action": "heat",
+            "output": "NA"
+        },
+        {
+            "instructions": "add olive_oil , mushrooms , bell_pepper , onions , garlic , basil , salt and pepper .",
+            "input": "(olive_oil; mushrooms; bell_pepper; onions; garlic; basil; salt; pepper)",
+            "action": "add",
+            "output": "vegetable mixture"
+        },
+        {
+            "instructions": "toss with a bit more olive_oil .",
+            "input": "(vegetable mixture; oil)",
+            "action": "toss",
+            "output": "oil into vegetable mixture"
+        },
+        {
+            "instructions": "saute on medium heat for about 10 15 minutes .",
+            "input": "vegetable mixture",
+            "action": "saute",
+            "output": "sauteed vegetable mixture"
+        },
+        {
+            "instructions": "roll out the pizza_crust",
+            "input": "pizza_crust",
+            "action": "roll",
+            "output": "rolled_out_ pizza_crust"
+        },
+        {
+            "instructions": "bake it on 425 for 5 minutes .",
+            "input": "raw rolled_out_ pizza_crust",
+            "action": "bake",
+            "output": "baked pizza crust"
+        },
+        {
+            "instructions": "in this order , top with hummus , spinach , tomato slices , and sauteed veggies .",
+            "input": "(baked pizza crust; hummus , spinach , tomato slices ; sauteed vegetable mixture)",
+            "action": "top",
+            "output": "baked pizza crust  topped with hummus , spinach , tomato slices and sauteed veggies"
+        },
+        {
+            "instructions": "sprinkle shredded_parmesan_cheese on top .",
+            "input": "(shredded parmesan cheese; hummus_and_veggie_pizza )",
+            "action": "sprinkle",
+            "output": "shredded parmesan cheese sprinkled on hummus_and_veggie_pizza"
+        },
+        {
+            "instructions": "bake at 425 for 10 minutes or until cheese is melted .",
+            "input": "uncooked hummus_and_veggie_pizza",
+            "action": "bake",
+            "output": "mushroom pizza hummus_and_veggie_pizza with melted cheese"
+        }
+    ],
+    "ingredients": [
+        {
+            "text": "1 pillsbury pizza crust (In the refrigerated roll can)"
+        },
+        {
+            "text": "1 -1 12 cup sabra brand roasted red pepper hummus (You can use however much you want... depending on how sauce-y you like your pizza!)"
+        },
+        {
+            "text": "1 cup mixed mushrooms, sliced"
+        },
+        {
+            "text": "2 green bell peppers, sliced"
+        },
+        {
+            "text": "1 red bell pepper, sliced"
+        },
+        {
+            "text": "1 small onion, sliced"
+        },
+        {
+            "text": "3 garlic cloves, minced"
+        },
+        {
+            "text": "3 dashes basil"
+        },
+        {
+            "text": "4 ounces Baby Spinach"
+        },
+        {
+            "text": "1 large tomatoes, sliced"
+        },
+        {
+            "text": "olive oil"
+        },
+        {
+            "text": "salt or pepper"
+        },
+        {
+            "text": "shredded parmesan cheese"
+        }
+    ],
+    "recipe": [
+        {
+            "text": "1."
+        },
+        {
+            "text": "Heat a large skillet and add olive oil, mushrooms, bell peppers, onions, garlic, basil, salt and pepper."
+        },
+        {
+            "text": "Toss with a bit more olive oil."
+        },
+        {
+            "text": "Saute on medium heat for about 10-15 minutes."
+        },
+        {
+            "text": "2."
+        },
+        {
+            "text": "Roll out the pizza crust and bake it on 425* for 5 minutes."
+        },
+        {
+            "text": "3."
+        },
+        {
+            "text": "In this order, top with hummus, spinach, tomato slices, and sauteed veggies."
+        },
+        {
+            "text": "4."
+        },
+        {
+            "text": "Sprinkle shredded Parmesan cheese on top."
+        },
+        {
+            "text": "5."
+        },
+        {
+            "text": "Bake at 425* for 10 minutes or until cheese is melted."
+        }
+    ]
+}

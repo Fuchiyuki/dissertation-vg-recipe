@@ -1,0 +1,136 @@
+{
+    "title": "breakfast_mexican_pizza",
+    "id": "968644e061",
+    "table": [
+        {
+            "instructions": "preheat the oven to 425 degrees f .",
+            "input": "NA",
+            "actions": "preheat",
+            "output": "NA"
+        },
+        {
+            "instructions": "place the tortilla on a pizza\u2012pan or a baking sheet slightly coated with cooking_spray .",
+            "input": "tortilla",
+            "actions": "place",
+            "output": "tortilla"
+        },
+        {
+            "instructions": "spoon the pizza_sauce evenly over the tortilla .",
+            "input": "(tortilla; pizza sauce)",
+            "actions": "spoon",
+            "output": "Spread pizza_sauce over tortilla"
+        },
+        {
+            "instructions": "place the cheese pieces on top of pizza_sauce .",
+            "input": "(tortilla with pizza sauce; cheese pieces)",
+            "actions": "place",
+            "output": "Tortilla with pizza sauce topped with cheese"
+        },
+        {
+            "instructions": "arrange the bell_pepper , mushrooms , tomatoes , and picked jalapenos over the cheese .",
+            "input": "(bell pepper; mushrooms; tomatoes; pickled jalapenos)",
+            "actions": "arrange",
+            "output": "Tortilla pizza topped with bell pepper, mushrooms, tomatoes, and pickled jalapenos"
+        },
+        {
+            "instructions": "bake for about 10 minutes , or until the edges of tortilla start to become slightly brown , and the cheese has melted .",
+            "input": "Uncooked tortilla pizza",
+            "actions": "bake",
+            "output": "Baked tortilla pizza"
+        },
+        {
+            "instructions": "remove from the oven",
+            "input": "Baked tortilla pizza",
+            "actions": "remove",
+            "output": "Baked tortilla pizza"
+        },
+        {
+            "instructions": "top with a pan fried_egg if needed",
+            "input": "optional fried egg, Baked tortilla pizza",
+            "actions": "top",
+            "output": "baked tortilla pizza topped with optional fried egg"
+        },
+        {
+            "instructions": "sprinkle with fresh_cilantro and scallions .",
+            "input": "(fresh cilantro; scallions; baked tortilla pizza)",
+            "actions": "sprinkle",
+            "output": "baked tortilla pizza topped with fresh cilantro and scallions"
+        },
+        {
+            "instructions": "drizzle with a bit hot_sauce if desired ,",
+            "input": "optional hot sauce, baked tortilla pizza",
+            "actions": "drizzle",
+            "output": "optional hot sauce drizzled on baked tortilla pizza"
+        },
+        {
+            "instructions": "serve warm .",
+            "input": "baked tortilla pizza",
+            "actions": "serve",
+            "output": "breakfast mexican pizza"
+        }
+    ],
+    "ingredients": [
+        {
+            "text": "1 each flour tortillas, whole wheat 8-inch"
+        },
+        {
+            "text": "2 tablespoons pizza sauce or more as needed"
+        },
+        {
+            "text": "2 slices swiss cheese tear or cut into small pieces, or shredded about 1/4 cup"
+        },
+        {
+            "text": "4 tablespoons sweet bell peppers green and/or red, chopped"
+        },
+        {
+            "text": "4 tablespoons tomatoes chopped"
+        },
+        {
+            "text": "1 each mushrooms, button or cremini, quarted and sliced"
+        },
+        {
+            "text": "1 tablespoon pickled jalapenos chopped, or more as needed"
+        },
+        {
+            "text": "2 tablespoons cilantro freshly chopped"
+        },
+        {
+            "text": "1 each scallions, spring or green onions sliced"
+        },
+        {
+            "text": "1 large eggs pan-fried"
+        },
+        {
+            "text": "1 x red hot pepper sauce or any hot pepper sauce, for serving, optional"
+        }
+    ],
+    "recipe": [
+        {
+            "text": "Preheat the oven to 425 degrees F."
+        },
+        {
+            "text": "Place the tortilla on a pizza pan or a baking sheet slightly coated with cooking spray."
+        },
+        {
+            "text": "Spoon the pizza sauce evenly over the tortilla."
+        },
+        {
+            "text": "Place the cheese pieces on top of pizza sauce."
+        },
+        {
+            "text": "Arrange the bell peppers, mushrooms, tomatoes, and picked jalapenos over the cheese."
+        },
+        {
+            "text": "Bake for about 10 minutes, or until the edges of tortilla start to become slightly brown, and the cheese has melted."
+        },
+        {
+            "text": "Remove from the oven, top with a pan-fried egg if needed, sprinkle with fresh cilantro and scallions."
+        },
+        {
+            "text": "Drizzle with a bit hot sauce if desired,"
+        },
+        {
+            "text": "Serve warm."
+        }
+    ]
+}

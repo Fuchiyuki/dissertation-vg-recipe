@@ -1,0 +1,148 @@
+{
+    "title": "super_easy_thai_chicken_pizza",
+    "id": "42149d1ee1",
+    "table": [
+        {
+            "instructions": "preheat oven to 400 degrees .",
+            "input": "NA",
+            "action": "preheat",
+            "output": "NA"
+        },
+        {
+            "instructions": "place baking sheet or pizza stone in oven to preheat .",
+            "input": "NA",
+            "action": "place",
+            "output": "NA"
+        },
+        {
+            "instructions": "heat oil in large nonstick skillet over medium high heat .",
+            "input": "oil",
+            "action": "heat",
+            "output": "well heated oil"
+        },
+        {
+            "instructions": "add chicken",
+            "input": "(chicked; well heated oil)",
+            "action": "add",
+            "output": "chicken in well heated oil"
+        },
+        {
+            "instructions": "cook 3 minute",
+            "input": "uncooked chicken",
+            "action": "cook",
+            "output": "chicken in the process of cooking"
+        },
+        {
+            "instructions": "add bell_pepper",
+            "input": "(bell pepper; chicken in the process of cooking)",
+            "action": "add",
+            "output": "pepper added to chicken in the process of cooking"
+        },
+        {
+            "instructions": "cook until tender , or chicken is done .",
+            "input": "pepper added to chicken in the process of cooking",
+            "action": "cook",
+            "output": "cooked chicken"
+        },
+        {
+            "instructions": "stir in peanut_sauce and vinegar until well blended .",
+            "input": "(peanut sauce;  vinegar; cooked chicken)",
+            "action": "stir",
+            "output": "cooked chicken with peanut sauce and vinegar"
+        },
+        {
+            "instructions": "spread chicken mixture evenly over the pizza_crust , top with cheese ,",
+            "input": "(pizza crust; cheese; cooked chicken with peanut sauce and vinegar)",
+            "action": "spread",
+            "output": "pizza crust with cooked chicken with peanut sauce and vinegar, and cheese"
+        },
+        {
+            "instructions": "carefully place on baking sheet .",
+            "input": "pizza crust with cooked chicken with peanut sauce and vinegar, and cheese",
+            "action": "place",
+            "output": "pizza crust with cooked chicken with peanut sauce and vinegar, and cheese on baking sheet"
+        },
+        {
+            "instructions": "bake according to package directions , 8 10 minutes .",
+            "input": "pizza crust with cooked chicken with peanut sauce and vinegar, and cheese on baking sheet",
+            "action": "bake",
+            "output": "baked thai chicken pizza"
+        },
+        {
+            "instructions": "slice",
+            "input": "baked thai chicken pizza",
+            "action": "slice",
+            "output": "sliced baked thai chicken pizza"
+        },
+        {
+            "instructions": "serve hot .",
+            "input": "sliced baked thai chicken pizza",
+            "action": "serve",
+            "output": "sliced baked thai chicken pizza ready to eat"
+        }
+    ],
+    "ingredients": [
+        {
+            "text": "1 tablespoon peanut oil"
+        },
+        {
+            "text": "8 ounces boneless chicken breasts, cut into small pieces"
+        },
+        {
+            "text": "1 medium red bell pepper, cut into thin strips (1 cup)"
+        },
+        {
+            "text": "1 medium yellow bell pepper, cut into thin strips (1 cup)"
+        },
+        {
+            "text": "12 cup thai peanut sauce (I use House of Tsang brand)"
+        },
+        {
+            "text": "1 tablespoon rice vinegar or 1 tablespoon white wine vinegar"
+        },
+        {
+            "text": "1 large partially baked thin pizza crust (Boboli's is a good one)"
+        },
+        {
+            "text": "1 cup preshredded mozzarella cheese"
+        }
+    ],
+    "recipe": [
+        {
+            "text": "Preheat oven to 400 degrees."
+        },
+        {
+            "text": "Place baking sheet or pizza stone in oven to preheat."
+        },
+        {
+            "text": "Heat oil in large nonstick skillet over medium high heat."
+        },
+        {
+            "text": "Add chicken and cook 3 minute"
+        },
+        {
+            "text": "Add bell peppers and cook until tender, or chicken is done."
+        },
+        {
+            "text": "About 5 minutes."
+        },
+        {
+            "text": "Stir in peanut sauce and vinegar until well blended."
+        },
+        {
+            "text": "Spread chicken mixture evenly over the pizza crust, top with cheese, and carefully place on baking sheet."
+        },
+        {
+            "text": "Bake according to package directions, 8-10 minutes."
+        },
+        {
+            "text": "Slice and serve hot."
+        },
+        {
+            "text": "NOTE: I made this with onions and green peppers instead of the bell peppers."
+        },
+        {
+            "text": "I also used the Pillsbury dough and prebaked it for a few minutes before placing the toppings on."
+        }
+    ]
+}

@@ -1,0 +1,97 @@
+{
+    "title": "bread_machine_pizza_dough_with_whole_wheat_flour",
+    "id": "cf4490bac7",
+    "table": [
+        {
+            "instructions": "add ingredients in the order given into the bread , machine pan .",
+            "input": "(water; olive oil; salt; all purpose flour; whole wheat flour; yeast)",
+            "action": "add",
+            "output": "dough ingredients"
+        },
+        {
+            "instructions": "once the dough is done remove it from the pan onto a floured work surface .",
+            "input": "dough",
+            "action": "remove",
+            "output": "dough"
+        },
+        {
+            "instructions": "roll dough to fit the shape of your pan .",
+            "input": "dough",
+            "action": "roll",
+            "output": "rolled dough"
+        },
+        {
+            "instructions": "brush lightly with olive_oil",
+            "input": "(rolled dough; olive oil)",
+            "action": "brush",
+            "output": "pizza crust brushed with olive oil"
+        },
+        {
+            "instructions": "add toppings .",
+            "input": "(toppings; pizza crust brushed with olive oil)",
+            "action": "add",
+            "output": "toppings added to pizza crust brushed with olive oil"
+        },
+        {
+            "instructions": "bake in a preheated 450 degree oven for 10 12 minutes .",
+            "input": "uncooked whole wheat pizza ",
+            "action": "bake",
+            "output": "baked whole wheat pizza "
+        }
+    ],
+    "ingredients": [
+        {
+            "text": "1 13 cups water"
+        },
+        {
+            "text": "2 tablespoons olive oil"
+        },
+        {
+            "text": "34 teaspoon salt"
+        },
+        {
+            "text": "2 cups all-purpose flour"
+        },
+        {
+            "text": "2 cups whole wheat flour"
+        },
+        {
+            "text": "2 teaspoons yeast"
+        }
+    ],
+    "recipe": [
+        {
+            "text": "Add ingredients in the order given into the bread machine pan."
+        },
+        {
+            "text": "Start dough cycle."
+        },
+        {
+            "text": "(On my machine this takes 2 hours)."
+        },
+        {
+            "text": "Once the dough is done remove it from the pan onto a floured work surface."
+        },
+        {
+            "text": "Roll dough to fit the shape of your pan."
+        },
+        {
+            "text": "This recipe makes two 14 inch round pizzas."
+        },
+        {
+            "text": "Brush lightly with olive oil and add toppings."
+        },
+        {
+            "text": "You can hold this dough, with just the olive oil, for a couple of hours in the fridge covered in plastic wrap."
+        },
+        {
+            "text": "Bake in a preheated 450 degree oven for 10-12 minutes."
+        },
+        {
+            "text": "This recipe is the large sized recipe."
+        },
+        {
+            "text": "It also comes in small and medium."
+        }
+    ]
+}

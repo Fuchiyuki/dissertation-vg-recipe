@@ -1,0 +1,202 @@
+{
+    "title": "``_deep_dish_''_pizza_bites_with_mascarpone_crispy_ham_and_pesto",
+    "id": "4c6c79f68e",
+    "table": [
+        {
+            "instructions": "preheat the oven to 350 degrees f .",
+            "input": "NA",
+            "action": "preheat",
+            "output": "NA"
+        },
+        {
+            "instructions": "cut the pastry into as many rounds as possible , usually about 2",
+            "input": "pastry",
+            "action": "cut",
+            "output": "cut_pastry"
+        },
+        {
+            "instructions": "brush lightly with the egg wash",
+            "input": "pastry, eggwash",
+            "action": "brush",
+            "output": "brush round of pastry with eggwash"
+        },
+        {
+            "instructions": "place on an ungreased baking sheet .",
+            "input": "round of pastry",
+            "action": "place",
+            "output": "round of pastry"
+        },
+        {
+            "instructions": "using a smaller cutter , ideally about 1 12 inch wide , make an impression in the center of each round",
+            "input": "round of pastry",
+            "action": "make",
+            "output": "impressions made in round of pastry"
+        },
+        {
+            "instructions": "take care not to cut all the way through the dough .",
+            "input": "NA",
+            "action": "take",
+            "output": "NA"
+        },
+        {
+            "instructions": "bake for 12 to 15 minutes , until puffed , golden brown ,",
+            "input": "round of pastry",
+            "action": "bake",
+            "output": "baked round of pastry until puffed golden brown"
+        },
+        {
+            "instructions": "remove from the oven and , using the tip of a paring knife",
+            "input": "NA",
+            "action": "remove",
+            "output": "NA"
+        },
+        {
+            "instructions": "cut out the center portion of each pastry .",
+            "input": "round of pastry",
+            "action": "cut",
+            "output": "cut center portion of round of pastry"
+        },
+        {
+            "instructions": "set aside",
+            "input": "round of pastry",
+            "action": "set",
+            "output": "round of pastry"
+        },
+        {
+            "instructions": "place the ham on a parchment paper lined baking sheet",
+            "input": "ham",
+            "action": "place",
+            "output": "ham placed on parchment paper lined baking sheet"
+        },
+        {
+            "instructions": "cook until crisp , about 10 minutes .",
+            "input": "ham",
+            "action": "cook",
+            "output": "ham cooked"
+        },
+        {
+            "instructions": "remove from the oven and , once cool , finely chop .",
+            "input": "ham",
+            "action": "remove",
+            "output": "ham removed from oven and chopped"
+        },
+        {
+            "instructions": "in a small bowl , combine the chopped_ham , mascarpone , pesto , salt and pepper and olive_oil .",
+            "input": "chopped_ham , mascarpone , pesto , salt and pepper and olive_oil",
+            "action": "combine",
+            "output": "chopped_ham , mascarpone , pesto , salt and pepper and olive_oil combined"
+        },
+        {
+            "instructions": "stir gently but thoroughly to blend .",
+            "input": "chopped_ham , mascarpone , pesto , salt and pepper and olive_oil",
+            "action": "stir",
+            "output": "chopped_ham and mascarpone filling"
+        },
+        {
+            "instructions": "divide the mascarpone filling evenly among the hollowed out wells in the pastries .",
+            "input": "chopped_ham and mascarpone filling, round of pastry",
+            "action": "divide",
+            "output": "mascarpone divided into pastry wells"
+        },
+        {
+            "instructions": "top each pastry with a dollop of the remaining pesto and a parmigiano_reggiano shaving .",
+            "input": "filled pastry, pesto, parmigiano_reggiano",
+            "action": "top",
+            "output": "filled pastry topped with pesto and a parmigiano_reggiano shaving"
+        },
+        {
+            "instructions": "garnish each with a few pine nuts",
+            "input": "filled pastry, pine nuts",
+            "action": "garnish",
+            "output": "filled pastry garnished with pine nuts"
+        },
+        {
+            "instructions": "serve .",
+            "input": "filled pastry with_mascarpone_crispy_ham_and_pesto",
+            "action": "serve",
+            "output": "pastry with_mascarpone_crispy_ham_and_pesto served"
+        }
+    ],
+    "ingredients": [
+        {
+            "text": "1 sheet frozen puff pastry, thawed"
+        },
+        {
+            "text": "Flour, for dusting work surface"
+        },
+        {
+            "text": "1 egg, well beaten"
+        },
+        {
+            "text": "4 ounces Virginia ham, thinly sliced"
+        },
+        {
+            "text": "8 ounces mascarpone, at room temperature"
+        },
+        {
+            "text": "1/2 cup basil pesto, drained if very oily, plus more for serving"
+        },
+        {
+            "text": "1/8 teaspoon salt"
+        },
+        {
+            "text": "Pinch freshly ground black pepper"
+        },
+        {
+            "text": "2 tablespoons olive oil"
+        },
+        {
+            "text": "25 Parmigiano-Reggiano shavings, for garnish"
+        },
+        {
+            "text": "2 tablespoons lightly toasted pine nuts"
+        }
+    ],
+    "recipe": [
+        {
+            "text": "Preheat the oven to 350 degrees F."
+        },
+        {
+            "text": "On a lightly floured work surface, unroll the pastry and, using a floured 2 1/2-inch biscuit cutter, cut the pastry into as many rounds as possible, usually about 25."
+        },
+        {
+            "text": "Brush lightly with the egg wash and place on an ungreased baking sheet."
+        },
+        {
+            "text": "Using a smaller cutter, ideally about 1 1/2-inch wide, make an impression in the center of each round but take care not to cut all the way through the dough."
+        },
+        {
+            "text": "Bake for 12 to 15 minutes, until puffed, golden brown, and cooked through and crispy."
+        },
+        {
+            "text": "Remove from the oven and, using the tip of a paring knife, cut out the center portion of each pastry."
+        },
+        {
+            "text": "Set aside while you assemble the remaining ingredients."
+        },
+        {
+            "text": "(Puffs may be made 1 day ahead and kept in an airtight container at room temperature, then recrisped in a warm oven the day of serving.)"
+        },
+        {
+            "text": "Place the ham on a parchment paper lined baking sheet and cook until crisp, about 10 minutes."
+        },
+        {
+            "text": "Remove from the oven and, once cool, finely chop."
+        },
+        {
+            "text": "In a small bowl, combine the chopped ham, mascarpone, pesto, salt and pepper and olive oil."
+        },
+        {
+            "text": "Stir gently but thoroughly to blend."
+        },
+        {
+            "text": "Divide the mascarpone filling evenly among the hollowed-out wells in the pastries."
+        },
+        {
+            "text": "Top each pastry with a dollop of the remaining pesto and a Parmigiano-Reggiano shaving."
+        },
+        {
+            "text": "Garnish each with a few pine nuts and serve."
+        }
+    ]
+}

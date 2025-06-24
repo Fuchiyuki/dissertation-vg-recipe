@@ -1,0 +1,160 @@
+{
+    "title": "roasted_chicken_and_veggie_pizza",
+    "id": "984b323010",
+    "table": [
+        {
+            "instructions": "preheat oven to 450f .",
+            "input": "NA",
+            "action": "preheat",
+            "output": "NA"
+        },
+        {
+            "instructions": "toss chopped vegetables with the canola_oil",
+            "input": "(chopped vegetables; canola oil)",
+            "action": "toss",
+            "output": "tossed_chopped vegetables with canola oil"
+        },
+        {
+            "instructions": "place in a baking dish with chicken .",
+            "input": "(tossed_chopped vegetables with canola oil; chicken)",
+            "action": "place",
+            "output": "tossed_chopped vegetables and chicken in baking dish"
+        },
+        {
+            "instructions": "roast until a thermometer in the deepest part of the meat reads 165f , or until the juices run clear .",
+            "input": "tossed_chopped vegetables and chicken in baking dish",
+            "action": "roast",
+            "output": "roasting chicken and vegetables"
+        },
+        {
+            "instructions": "place pitas on baking sheets .",
+            "input": "pitas",
+            "action": "place",
+            "output": "pitas"
+        },
+        {
+            "instructions": "brush with the olive_oil",
+            "input": "(pitas; olive oil)",
+            "action": "brush",
+            "output": "pitas brushed with olive oil"
+        },
+        {
+            "instructions": "sprinkle 12 tablespoon of parmesan on each pita .",
+            "input": "(pitas brushed with olive oil; parmesan)",
+            "action": "sprinkle",
+            "output": "pitas with olive oil and parmesan"
+        },
+        {
+            "instructions": "remove chicken and vegetables from the oven",
+            "input": "roasting chicken and vegetables",
+            "action": "remove",
+            "output": "roasted chicken and vegetables"
+        },
+        {
+            "instructions": "preheat broiler .",
+            "input": "NA",
+            "action": "preheat",
+            "output": "NA"
+        },
+        {
+            "instructions": "remove skin from chicken",
+            "input": "roasted chicken and vegetables",
+            "action": "remove",
+            "output": "roasted deskinned chicken and vegetables"
+        },
+        {
+            "instructions": "cut meat off of the bone into small chunks .",
+            "input": "roasted deskinned chicken and vegetables",
+            "action": "cut",
+            "output": "(roasted deskinned chicken chunks; roasted vegetables)"
+        },
+        {
+            "instructions": "spread the roasted vegetables on the pitas",
+            "input": "(roasted_vegetables; pitas with olive oil and parmesan)",
+            "action": "spread",
+            "output": "pitas with olive oil, parmesan and roasted vegetables"
+        },
+        {
+            "instructions": "top with the chicken and mozzarella .",
+            "input": "(pitas with olive oil, parmesan and roasted vegetables; roasted deskinned chicken chunks; mozzarella)",
+            "action": "top",
+            "output": "pitas with olive oil, parmesan, roasted vegetables roasted deskinned chicken chunks and mozzarella"
+        },
+        {
+            "instructions": "broil until golden brown and gooey !",
+            "input": "pitas with olive oil, parmesan, roasted vegetables roasted deskinned chicken chunks and mozzarella",
+            "action": "broil",
+            "output": "broiled roasted_chicken_and_veggie_pizza"
+        }
+    ],
+    "ingredients": [
+        {
+            "text": "1 whole Bone-in Chicken Breast"
+        },
+        {
+            "text": "2 Tablespoons Canola Oil"
+        },
+        {
+            "text": "3 bulbs Leeks, Chopped, White Parts Only"
+        },
+        {
+            "text": "1/2 cups Chopped Carrots"
+        },
+        {
+            "text": "1/2 cups Chopped Celery"
+        },
+        {
+            "text": "1 cup Chopped Baby Bella Mushrooms"
+        },
+        {
+            "text": "1 cup Chopped Zucchini"
+        },
+        {
+            "text": "1/2 cups Chopped Onion"
+        },
+        {
+            "text": "6 pieces Pita Bread"
+        },
+        {
+            "text": "1- 1/2 cup Mozzarella Cheese"
+        },
+        {
+            "text": "3 Tablespoons Grated Parmesan"
+        },
+        {
+            "text": "2 Tablespoons Olive Oil"
+        }
+    ],
+    "recipe": [
+        {
+            "text": "Preheat oven to 450F."
+        },
+        {
+            "text": "Toss chopped vegetables with the canola oil and place in a baking dish with chicken."
+        },
+        {
+            "text": "Roast until a thermometer in the deepest part of the meat reads 165F, or until the juices run clear."
+        },
+        {
+            "text": "While the chicken and vegetables roast, place pitas on baking sheets."
+        },
+        {
+            "text": "Brush with the olive oil and sprinkle 1/2 tablespoon of parmesan on each pita."
+        },
+        {
+            "text": "Remove chicken and vegetables from the oven and allow to cool slightly."
+        },
+        {
+            "text": "Preheat broiler."
+        },
+        {
+            "text": "Remove skin from chicken and cut meat off of the bone into small chunks."
+        },
+        {
+            "text": "Spread the roasted vegetables on the pitas and top with the chicken and mozzarella."
+        },
+        {
+            "text": "Broil until golden brown and gooey!"
+        }
+    ]
+}

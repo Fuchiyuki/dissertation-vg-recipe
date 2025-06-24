@@ -1,0 +1,103 @@
+{
+    "title": "polenta_pizza_crust_gluten-free_yeast-free",
+    "id": "cc25edcbcf",
+    "table": [
+        {
+            "instructions": "preheat oven to 450 degrees f .",
+            "input": "NA",
+            "actions": "preheat",
+            "output": "NA"
+        },
+        {
+            "instructions": "lightly oil a large baking sheet .",
+            "input": "NA",
+            "actions": "oil",
+            "output": "NA"
+        },
+        {
+            "instructions": "in a large bowl , mix polenta with the cold_water .",
+            "input": "(polenta; cold_water)",
+            "actions": "mix",
+            "output": "polenta and cold_water mix"
+        },
+        {
+            "instructions": "add the boiling_water in a slow stream , blending with a whisk .",
+            "input": "(polenta and cold_water mix; boiling water)",
+            "actions": "add",
+            "output": "boiling_water added to polenta and cold_water mix"
+        },
+        {
+            "instructions": "add the eggs and mozzarella",
+            "input": "(eggs; mozzarella; polenta mixture)",
+            "actions": "add",
+            "output": "eggs and mozzarella added to polenta mixture"
+        },
+        {
+            "instructions": "mix well .",
+            "input": "eggs and mozzarella added to polenta mixture",
+            "actions": "mix",
+            "output": "eggs, cheese and polenta mixture"
+        },
+        {
+            "instructions": "press mixture evenly onto greased baking sheet or pizza\u2012pan .",
+            "input": "eggs, cheese and polenta mixture",
+            "actions": "press",
+            "output": "pressed eggs, cheese and polenta mixture"
+        },
+        {
+            "instructions": "bake a few minutes to set slightly about 5 minutes",
+            "input": "uncooked polenta pizza crust",
+            "actions": "bake",
+            "output": "baked polenta pizza crust"
+        },
+        {
+            "instructions": "bake 5 10 minutes more until lightly browned and crisp .",
+            "input": "baked polenta pizza crust",
+            "actions": "bake",
+            "output": "baked polenta pizza crust"
+        }
+    ],
+    "ingredients": [
+        {
+            "text": "oil, to coat baking sheet or pizza pan"
+        },
+        {
+            "text": "2 cups polenta (coarse cornmeal)"
+        },
+        {
+            "text": "1 cup cold water"
+        },
+        {
+            "text": "1 cup boiling water"
+        },
+        {
+            "text": "2 eggs"
+        },
+        {
+            "text": "1 cup mozzarella cheese, grated"
+        }
+    ],
+    "recipe": [
+        {
+            "text": "Preheat oven to 450 degrees F."
+        },
+        {
+            "text": "Lightly oil a large baking sheet."
+        },
+        {
+            "text": "In a large bowl, mix polenta with the cold water."
+        },
+        {
+            "text": "Add the boiling water in a slow stream, blending with a whisk."
+        },
+        {
+            "text": "Add the eggs and mozzarella and mix well."
+        },
+        {
+            "text": "Press mixture evenly onto greased baking sheet or pizza pan."
+        },
+        {
+            "text": "Bake a few minutes to set slightly (about 5 minutes), top and bake 5-10 minutes more until lightly browned and crisp."
+        }
+    ]
+}

@@ -1,0 +1,220 @@
+{
+    "title": "stuffed_bread_pizza",
+    "id": "1f4ec1e84b",
+    "table": [
+        {
+            "instructions": "preheat oven to 425 degrees f .",
+            "input": "NA",
+            "action": "preheat",
+            "output": "NA"
+        },
+        {
+            "instructions": "split bread lengthwise",
+            "input": "bread",
+            "action": "split",
+            "output": "split_bread"
+        },
+        {
+            "instructions": "cut in half across , making 4 shells for pizzas .",
+            "input": "bread halves",
+            "action": "cut",
+            "output": "cut bread quarters"
+        },
+        {
+            "instructions": "heat a skillet over medium high flame",
+            "input": "NA",
+            "action": "heat",
+            "output": "NA"
+        },
+        {
+            "instructions": "brown sausage in extra virgin_olive_oil .",
+            "input": "(sausage; olive oil)",
+            "action": "brown",
+            "output": "browned sausage"
+        },
+        {
+            "instructions": "brown",
+            "input": "browned sausage",
+            "action": "brown",
+            "output": "browned sausage"
+        },
+        {
+            "instructions": "crumble sausage .",
+            "input": "browned sausage",
+            "action": "crumble",
+            "output": "crumbled sausage"
+        },
+        {
+            "instructions": "add red_bell_pepper , onion and garlic .",
+            "input": "(red bell pepper; onion; garlic)",
+            "action": "add",
+            "output": "sausage, peppers and onions with garlic"
+        },
+        {
+            "instructions": "cook 3 to 5 minutes",
+            "input": "uncooked sausage, peppers and onions with garlic",
+            "action": "cook",
+            "output": "cooked sausage, peppers and onions with garlic"
+        },
+        {
+            "instructions": "add spinach .",
+            "input": "(spinach; cooked sausage, peppers and onions with garlic)",
+            "action": "add",
+            "output": "sausage, peppers and onions with spinach"
+        },
+        {
+            "instructions": "remove mixture from heat",
+            "input": "sausage, peppers and onions with spinach",
+            "action": "remove",
+            "output": "cooked sausage, peppers and onions with spinach"
+        },
+        {
+            "instructions": "season with a pinch of salt and black_pepper , to your taste .",
+            "input": "(salt; black pepper; sausage, peppers and onions with spinach)",
+            "action": "season",
+            "output": "seasoned sausage, peppers and onions with spinach"
+        },
+        {
+            "instructions": "transfer to a bowl .",
+            "input": "seasoned sausage, peppers and onions with spinach",
+            "action": "transfer",
+            "output": "seasoned sausage, peppers and onions with spinach"
+        },
+        {
+            "instructions": "combine sausage and veggies with ricotta , parmesan , sopressata and pepperoni .",
+            "input": "(ricotta; parmesan; sopressata; pepperoni; seasoned sausage, peppers and onions with spinach)",
+            "action": "combine",
+            "output": "ricotta, parmesan, sopressata and pepperoni added to seasoned sausage, peppers and onions with spinach"
+        },
+        {
+            "instructions": "fill bread shells",
+            "input": "(cut bread quarters; ricotta, parmesan, sopressata and pepperoni added to seasoned sausage, peppers and onions with spinach)",
+            "action": "fill",
+            "output": "cut bread quarters filled with cheese, vegetable and meat mixture"
+        },
+        {
+            "instructions": "top with mounded mozzarella and provolone_cheese .",
+            "input": "(mozzarella; provolone cheese; cut bread quarters filled with cheese, vegetable and meat mixture)",
+            "action": "top",
+            "output": "cut bread quarters filled with cheese, vegetable and meat mixture and topped with mozzarella and provolone cheese"
+        },
+        {
+            "instructions": "place in hot oven on cookie sheet",
+            "input": "cut bread quarters filled with cheese, vegetable and meat mixture and topped with mozzarella and provolone cheese",
+            "action": "place",
+            "output": "cut bread quarters filled with cheese, vegetable and meat mixture and topped with mozzarella and provolone cheese"
+        },
+        {
+            "instructions": "bake until cheese melts and bubbles and bread is super crisp , about 10 to 12 minutes .",
+            "input": "uncooked stuffed bread shells",
+            "action": "bake",
+            "output": "baked stuffed bread shells"
+        },
+        {
+            "instructions": "top pizzas with oregano and hot pepper_flake .",
+            "input": "(oregano; hot pepper flaked; stuffed bread shells)",
+            "action": "top",
+            "output": "baked stuffed bread shells with oregano and hot pepper flake"
+        },
+        {
+            "instructions": "serve immediately , or snack all night !",
+            "input": "baked stuffed bread shells with oregano and hot pepper flake",
+            "action": "serve",
+            "output": "baked stuffed bread shells with oregano and hot pepper flake ready to eat"
+        }
+    ],
+    "ingredients": [
+        {
+            "text": "1 (24 inch) French bread"
+        },
+        {
+            "text": "1 lb sweet Italian sausage"
+        },
+        {
+            "text": "1 tablespoon extra virgin olive oil"
+        },
+        {
+            "text": "1 small red bell pepper, seeded and chopped"
+        },
+        {
+            "text": "1 small onion, chopped"
+        },
+        {
+            "text": "2 large garlic cloves, chopped"
+        },
+        {
+            "text": "12 ounces frozen chopped spinach, defrosted and squeezed dry"
+        },
+        {
+            "text": "salt and pepper"
+        },
+        {
+            "text": "1 12 cups part-skim ricotta cheese"
+        },
+        {
+            "text": "12 cup grated parmesan cheese"
+        },
+        {
+            "text": "12 lb sweet sopressata, from the deli, sliced thick, chopped"
+        },
+        {
+            "text": "12 stick pepperoni, chopped"
+        },
+        {
+            "text": "1 (10 ounce) packageshredded mozzarella cheese"
+        },
+        {
+            "text": "1 (10 ounce) packageshredded provolone cheese"
+        },
+        {
+            "text": "1 teaspoon dried oregano"
+        },
+        {
+            "text": "1 teaspoon crushed red pepper flakes"
+        }
+    ],
+    "recipe": [
+        {
+            "text": "Preheat oven to 425 degrees F."
+        },
+        {
+            "text": "Split bread lengthwise and hollow it out."
+        },
+        {
+            "text": "Cut in half across, making 4 shells for pizzas."
+        },
+        {
+            "text": "Heat a skillet over medium high flame and brown sausage in extra-virgin olive oil."
+        },
+        {
+            "text": "Brown and crumble sausage."
+        },
+        {
+            "text": "Add red bell pepper, onion and garlic."
+        },
+        {
+            "text": "Cook 3 to 5 minutes, add spinach."
+        },
+        {
+            "text": "Remove mixture from heat and season with a pinch of salt and black pepper, to your taste."
+        },
+        {
+            "text": "Transfer to a bowl."
+        },
+        {
+            "text": "Combine sausage and veggies with ricotta, Parmesan, sopressata and pepperoni."
+        },
+        {
+            "text": "Fill bread shells and top with mounded mozzarella and provolone cheeses."
+        },
+        {
+            "text": "Place in hot oven on cookie sheet and bake until cheese melts and bubbles and bread is super crisp, about 10 to 12 minutes."
+        },
+        {
+            "text": "Top pizzas with oregano and hot pepper flakes."
+        },
+        {
+            "text": "Serve immediately, or snack all night!"
+        }
+    ]
+}

@@ -1,0 +1,205 @@
+{
+    "title": "decadent_chocolate_dessert_pizza",
+    "id": "942d6bd2f0",
+    "table": [
+        {
+            "instructions": "preheat oven to 350f ;",
+            "input": "NA",
+            "action": "preheat",
+            "output": "NA"
+        },
+        {
+            "instructions": "shape cookie dough into a ball",
+            "input": "cookie dough",
+            "action": "shape",
+            "output": "shaped cookie dough into a ball"
+        },
+        {
+            "instructions": "place in center of large round pizza stone or other round pan .",
+            "input": "Shaped cookie dough ball",
+            "action": "place",
+            "output": "Shaped cookie dough ball"
+        },
+        {
+            "instructions": "lightly flour your rolling pin",
+            "input": "NA",
+            "action": "flour",
+            "output": "NA"
+        },
+        {
+            "instructions": "roll dough to a 12 inch circle , about 14 inch thick .",
+            "input": "Shaped cookie dough ball",
+            "action": "roll",
+            "output": "Cookie dough rolled into a circle"
+        },
+        {
+            "instructions": "bake 12 15 minutes or until edges are set .",
+            "input": "Cookie dough rolled into a circle",
+            "action": "bake",
+            "output": "Baked cookie dough with set edges"
+        },
+        {
+            "instructions": "remove from oven ;",
+            "input": "Baked cookie dough with set edges",
+            "action": "remove",
+            "output": "Baked cookie dough with set edges"
+        },
+        {
+            "instructions": "cool completely on baking stone .",
+            "input": "baked cookie dough crust",
+            "action": "cool",
+            "output": "Completely cooled baked cookie dough crust"
+        },
+        {
+            "instructions": "place chocolate_morsel in large bowl ;",
+            "input": "chocolate_morsel",
+            "action": "place",
+            "output": "chocolate_morsel"
+        },
+        {
+            "instructions": "microwave , uncovered , on high 30 60 seconds or until chocolate is melted and smooth , stirring after each 20 second interval .",
+            "input": "chocolate_morsel",
+            "action": "microwave",
+            "output": "Melted and smooth chocolate"
+        },
+        {
+            "instructions": "add cream_cheese ;",
+            "input": "(Cream cheese; Melted and smooth chocolate)",
+            "action": "add",
+            "output": "Cream cheese added to Melted and smooth chocolate"
+        },
+        {
+            "instructions": "whisk until well blended .",
+            "input": "Cream cheese with melted chocolate",
+            "action": "whisk",
+            "output": "Well-blended chocolate and cream cheese mixture"
+        },
+        {
+            "instructions": "spread chocolate mixture over cookie to within 12 inch of edge .",
+            "input": "Well-blended chocolate and cream cheese mixture",
+            "action": "spread",
+            "output": "Cookie crust topped with chocolate mixture"
+        },
+        {
+            "instructions": "hull remaining strawberries",
+            "input": "Strawberries",
+            "action": "hull",
+            "output": "Strawberries hulled"
+        },
+        {
+            "instructions": "cut in half .",
+            "input": "Strawberries hulled",
+            "action": "cut",
+            "output": "Strawberries cut in half"
+        },
+        {
+            "instructions": "slice banana .",
+            "input": "Banana",
+            "action": "slice",
+            "output": "Sliced banana"
+        },
+        {
+            "instructions": "arrange strawberries around edge of pizza ;",
+            "input": "(Strawberries cut in half; Cookie crust topped with chocolate mixture)",
+            "action": "arrange",
+            "output": "Strawberries arranged around Cookie crust topped with chocolate mixture around edges"
+        },
+        {
+            "instructions": "arrange banana slices in center of pizza .",
+            "input": "Sliced banana",
+            "action": "arrange",
+            "output": "Banana slices arranged in the center of cookie crust with cut strawberries"
+        },
+        {
+            "instructions": "chop almonds",
+            "input": "Almonds",
+            "action": "chop",
+            "output": "Chopped almonds"
+        },
+        {
+            "instructions": "sprinkle over banana slices .",
+            "input": "(Chopped almonds; cookie crust chocolate mixture with strawberries and banana slices)",
+            "action": "sprinkle",
+            "output": "Almonds sprinkled over cookie crust chocolate mixture with strawberries and banana slices"
+        },
+        {
+            "instructions": "cut into wedges",
+            "input": "chocolate_dessert_pizza with strawberries and banana slices",
+            "action": "cut",
+            "output": "chocolate_dessert_pizza with strawberries and banana slices cut into wedges"
+        },
+        {
+            "instructions": "serve using mini serving spatula .",
+            "input": "chocolate_dessert_pizza with strawberries and banana slices cut into wedges",
+            "action": "serve",
+            "output": "Served chocolate_dessert_pizza with strawberries and banana slices"
+        }
+    ],
+    "ingredients": [
+        {
+            "text": "1 (18 ounce) package refrigerated chocolate chip cookie dough"
+        },
+        {
+            "text": "13 cup semisweet chocolate morsel, melted"
+        },
+        {
+            "text": "1 (8 ounce) package cream cheese, softened"
+        },
+        {
+            "text": "12 -14 strawberries, hulled and halved"
+        },
+        {
+            "text": "1 large banana, sliced"
+        },
+        {
+            "text": "14 cup sliced almonds, chopped"
+        }
+    ],
+    "recipe": [
+        {
+            "text": "Preheat oven to 350F Shape cookie dough into a ball and place in center of Large Round Pizza Stone or other round pan."
+        },
+        {
+            "text": "Lightly flour your rolling pin and roll dough to a 12-inch circle, about 1/4 inch thick."
+        },
+        {
+            "text": "Bake 12-15 minutes or until edges are set."
+        },
+        {
+            "text": "Cookie will be soft."
+        },
+        {
+            "text": "Do not overbake."
+        },
+        {
+            "text": "Remove from oven; cool 10 minutes."
+        },
+        {
+            "text": "Carefully loosen cookie from baking stone; cool completely on baking stone."
+        },
+        {
+            "text": "Place chocolate morsels in large bowl; microwave, uncovered, on HIGH 30-60 seconds or until chocolate is melted and smooth, stirring after each 20-second interval."
+        },
+        {
+            "text": "Add cream cheese; whisk until well blended."
+        },
+        {
+            "text": "Spread chocolate mixture over cookie to within 1/2 inch of edge."
+        },
+        {
+            "text": "Hull remaining strawberries and cut in half."
+        },
+        {
+            "text": "Slice banana."
+        },
+        {
+            "text": "Arrange strawberries around edge of pizza; arrange banana slices in center of pizza."
+        },
+        {
+            "text": "Chop almonds and sprinkle over banana slices."
+        },
+        {
+            "text": "Cut into wedges and serve using Mini-Serving Spatula."
+        }
+    ]
+}

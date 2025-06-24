@@ -1,0 +1,151 @@
+{
+    "title": "sausage-pepper_pizza",
+    "id": "101eee69c0",
+    "table": [
+        {
+            "instructions": "preheat oven to 42",
+            "input": "NA",
+            "action": "preheat",
+            "output": "NA"
+        },
+        {
+            "instructions": "place a large nonstick skillet over medium high heat until hot .",
+            "input": "NA",
+            "action": "place",
+            "output": "NA"
+        },
+        {
+            "instructions": "add first 9 ingredients ;",
+            "input": "(presliced mushrooms; thinly sliced onion; red bell pepper strips; green bell pepper strips; water; dried basil; dried oregano; dried thyme; dried oregano; sun dried tomato chicken sausage)",
+            "action": "add",
+            "output": "mushroom, vegetables and sausage mixture"
+        },
+        {
+            "instructions": "cook 10 minutes or until vegetables are tender and liquid almost evaporates .",
+            "input": "mushroom, vegetables and sausage mixture",
+            "action": "cook",
+            "output": "cooked mushroom, vegetables and sausage mixture"
+        },
+        {
+            "instructions": "remove mixture from heat ,",
+            "input": "cooked mushroom, vegetables and sausage mixture",
+            "action": "remove",
+            "output": "cooked mushroom, vegetables and sausage mixture"
+        },
+        {
+            "instructions": "set aside .",
+            "input": "cooked mushroom, vegetables and sausage mixture",
+            "action": "set",
+            "output": "cooled cooked mushroom, vegetables and sausage mixture"
+        },
+        {
+            "instructions": "unroll dough ,",
+            "input": "dough",
+            "action": "unroll",
+            "output": "unrolled_dough"
+        },
+        {
+            "instructions": "press into a 12 inch , pizza\u2012pan coated with cooking_spray .",
+            "input": "unrolled_dough",
+            "action": "press",
+            "output": "dough_in_pizza_pan"
+        },
+        {
+            "instructions": "bake at 425 for 7 minutes or until crust just begins to brown .",
+            "input": "dough_in_pizza_pan",
+            "action": "bake",
+            "output": "baked_pizza_crust"
+        },
+        {
+            "instructions": "top with sausage mixture .",
+            "input": "(baked_pizza_crust; cooled cooked mushroom, vegetables and sausage mixture)",
+            "action": "top",
+            "output": "baked pizza crust with cooled cooked mushroom, vegetables and sausage mixture"
+        },
+        {
+            "instructions": "sprinkle with cheese .",
+            "input": "(cheese; baked pizza crust with cooled cooked mushroom, vegetables and sausage mixture)",
+            "action": "sprinkle",
+            "output": "baked pizza crust with cooled cooked mushroom, vegetables and sausage mixture and cheese"
+        },
+        {
+            "instructions": "bake at 425 for 8 minutes or until crust is golden .",
+            "input": "baked pizza crust with cooled cooked mushroom, vegetables and sausage mixture and cheese",
+            "action": "bake",
+            "output": "baked sausage, mushroom and pepper pizza"
+        }
+    ],
+    "ingredients": [
+        {
+            "text": "2 cups presliced mushrooms"
+        },
+        {
+            "text": "1 cup thinly sliced onion"
+        },
+        {
+            "text": "1 cup red bell pepper, strips"
+        },
+        {
+            "text": "1 cup green bell pepper, strips"
+        },
+        {
+            "text": "14 cup water"
+        },
+        {
+            "text": "1 teaspoon dried basil"
+        },
+        {
+            "text": "12 teaspoon dried oregano"
+        },
+        {
+            "text": "12 teaspoon dried thyme"
+        },
+        {
+            "text": "6 ounces sun-dried tomato chicken sausage, cut into 1/4-inch-thick slices"
+        },
+        {
+            "text": "1 (10 ounce) canrefrigerated pizza dough"
+        },
+        {
+            "text": "cooking spray"
+        },
+        {
+            "text": "12 cup pizza sauce"
+        },
+        {
+            "text": "34 cup shredded part-skim mozzarella cheese"
+        }
+    ],
+    "recipe": [
+        {
+            "text": "Preheat oven to 425."
+        },
+        {
+            "text": "Place a large nonstick skillet over medium-high heat until hot."
+        },
+        {
+            "text": "Add first 9 ingredients; cook 10 minutes or until vegetables are tender and liquid almost evaporates."
+        },
+        {
+            "text": "Remove mixture from heat, and set aside."
+        },
+        {
+            "text": "Unroll dough, and press into a 12-inch pizza pan coated with cooking spray."
+        },
+        {
+            "text": "Bake at 425 for 7 minutes or until crust just begins to brown."
+        },
+        {
+            "text": "S."
+        },
+        {
+            "text": "pread pizza sauce evenly over crust, leaving a 1/2-inch border; top with sausage mixture."
+        },
+        {
+            "text": "Sprinkle with cheese."
+        },
+        {
+            "text": "Bake at 425 for 8 minutes or until crust is golden."
+        }
+    ]
+}

@@ -1,0 +1,136 @@
+{
+    "title": "roasted_mediterranean_pizza",
+    "id": "d4f97279a3",
+    "table": [
+        {
+            "instructions": "vegetables in a medium size bowl , add the eggplant , red_pepper and onion .",
+            "input": "(eggplant; red_pepper; onion)",
+            "action": "add",
+            "output": "(added_eggplant; red_pepper; onion)"
+        },
+        {
+            "instructions": "toss with the olive_oil , pesto , salt and pepper .",
+            "input": "(vegetables in a medium sized bowl; olive_oil, pesto, salt and pepper)",
+            "action": "toss",
+            "output": "vegetables tossed with olive-oil, pesto, salt and pepper"
+        },
+        {
+            "instructions": "roast at 450 on a cookie or baking sheet covered in parchment paper or foil for about 10 15 minutes until slightly golden brown and lightly soft .",
+            "input": "vegetables tossed with olive-oil, pesto, salt and pepper",
+            "action": "roast",
+            "output": "roasted vegetables"
+        },
+        {
+            "instructions": "  mix the olive_oil , red_pepper_flake and minced_garlic",
+            "input": "olive_oil, red_pepper_flake and minced_garlic",
+            "action": "mix",
+            "output": "mixed olive_oil, red_pepper_flake and minced_garlic"
+        },
+        {
+            "instructions": "brush on the pizza_crust .",
+            "input": "pizza crust: olive_oil, red_pepper_flake and minced_garlic",
+            "action": "brush",
+            "output": "pizza crust brushed with olive_oil, red_pepper_flake and minced_garlic"
+        },
+        {
+            "instructions": "top the pizza .",
+            "input": "(roasted vegetable toppings; brushed pizza crust)",
+            "action": "top",
+            "output": "brushed pizza crust with roasted vegetable toppings"
+        },
+        {
+            "instructions": "Alternate the eggplant slices, onions, red pepper, artichoke hearts, olives, sundried tomatoes and the crumbled feta cheese.",
+            "input": "(brushed pizza crust with roasted vegetable toppings; artichoke hearts; sun dried tomatoes; crumbled feta cheese)",
+            "action": "alternate",
+            "output": "brushed pizza crust with roasted vegetable toppings, artichokes hearts, olives, sun dried tomatoes and crumbled feta cheese"
+        },
+        {
+            "instructions": "bake according to the pizza_crust directions .",
+            "input": "uncooked roasted vegetabled pizza",
+            "action": "bake",
+            "output": "baked roasted vegetabled pizza"
+        },
+        {
+            "instructions": "i usually bake mine on a pre heated pizza stone at 425 450 for about 15 minutes until the crust is brown and the feta slightly melts .",
+            "input": "baked roasted vegetabled pizza",
+            "action": "bake",
+            "output": "baked roasted vegetabled pizza"
+        }
+    ],
+    "ingredients": [
+        {
+            "text": "1 pre-made pizza crust (large and thin crust)"
+        },
+        {
+            "text": "1 Japanese eggplant, cut in thin rounds"
+        },
+        {
+            "text": "1 red pepper, cut in thin slices"
+        },
+        {
+            "text": "4 water-packed artichoke hearts, chopped"
+        },
+        {
+            "text": "1 medium onion, cut in half then thin sliced"
+        },
+        {
+            "text": "7 sun-dried tomatoes, chopped"
+        },
+        {
+            "text": "10 Greek olives, cut in half (use more if you like)"
+        },
+        {
+            "text": "10 green olives, cut in half (use more if you like)"
+        },
+        {
+            "text": "2 tablespoons minced garlic"
+        },
+        {
+            "text": "14 cup olive oil (1/8 cup for the vegetables, 1/8 cup for the crust)"
+        },
+        {
+            "text": "12 teaspoon red pepper flakes (to taste)"
+        },
+        {
+            "text": "1 teaspoon store bought pesto sauce"
+        },
+        {
+            "text": "1 cup crumbled feta (use more if desired)"
+        },
+        {
+            "text": "salt"
+        },
+        {
+            "text": "pepper"
+        }
+    ],
+    "recipe": [
+        {
+            "text": "Vegetables -- In a medium size bowl, add the eggplant, red pepper and onion."
+        },
+        {
+            "text": "Toss with the olive oil, pesto, salt and pepper."
+        },
+        {
+            "text": "Roast at 450 on a cookie or baking sheet covered in parchment paper or foil for about 10-15 minutes until slightly golden brown and lightly soft."
+        },
+        {
+            "text": "Crust -- Mix the olive oil, red pepper flakes and minced garlic and brush on the pizza crust."
+        },
+        {
+            "text": "Pizza -- Now after the vegetables are done."
+        },
+        {
+            "text": "Top the pizza."
+        },
+        {
+            "text": "Alternate the eggplant slices, onions, red pepper, artichoke hearts, olives, sundried tomatoes and the crumbled feta cheese."
+        },
+        {
+            "text": "Bake according to the pizza crust directions."
+        },
+        {
+            "text": "I usually bake mine on a pre heated pizza stone at 425-450 for about 15 minutes until the crust is brown and the feta slightly melts."
+        }
+    ]
+}

@@ -1,0 +1,184 @@
+{
+    "title": "apple_dessert_pizza_recipe",
+    "id": "809c7bad6c",
+    "table": [
+        {
+            "instructions": "preheat oven to 375f .",
+            "input": "NA",
+            "actions": "preheat",
+            "output": "NA"
+        },
+        {
+            "instructions": "spray a 14 in .",
+            "input": "NA",
+            "actions": "spray",
+            "output": "NA"
+        },
+        {
+            "instructions": "round pizza\u2012pan or possibly large baking sheet with oil",
+            "input": "NA",
+            "actions": "round",
+            "output": "NA"
+        },
+        {
+            "instructions": "sprinkle with cornmeal .",
+            "input": "NA",
+            "actions": "sprinkle",
+            "output": "NA"
+        },
+        {
+            "instructions": "roll out pizza_dough to a 14 in .",
+            "input": "NA",
+            "actions": "roll",
+            "output": "NA"
+        },
+        {
+            "instructions": "transfer to the prepared pan .",
+            "input": "NA",
+            "actions": "transfer",
+            "output": "NA"
+        },
+        {
+            "instructions": "cut apples into thin slices 14 in .",
+            "input": "apples",
+            "actions": "cut",
+            "output": "cut_apples"
+        },
+        {
+            "instructions": "starting at the outer edge and working toward the center , arrange the slices on pizza_dough , overlapping slightly in smaller and smaller circles till the surface is covered .",
+            "input": "pizza_dough",
+            "actions": "arrange",
+            "output": "arranged_pizza_dough"
+        },
+        {
+            "instructions": "combine sugar and cinnamon in a small bowl .",
+            "input": "(sugar; cinnamon)",
+            "actions": "combine",
+            "output": "combined_cinnamon_sugar"
+        },
+        {
+            "instructions": "sprinkle mix proportionately over apples",
+            "input": "mix",
+            "actions": "sprinkle",
+            "output": "(combined_mix; apples)"
+        },
+        {
+            "instructions": "bake about 30 min , or possibly till crust is golden .",
+            "input": "pizza_dough",
+            "actions": "bake",
+            "output": "baked_pizza"
+        },
+        {
+            "instructions": "meanwhile , combine preserves and liqueur in a small saucepan",
+            "input": "(preserves; liquor)",
+            "actions": "combine",
+            "output": "(combined preserves; liquor)"
+        },
+        {
+            "instructions": "cook over low heat , till preserves dissolve .",
+            "input": "(preserves; liquor)",
+            "actions": "cook",
+            "output": "dissolved_preserves"
+        },
+        {
+            "instructions": "to serve",
+            "input": "na",
+            "actions": "serve",
+            "output": "na"
+        },
+        {
+            "instructions": "remove the pizza from the oven",
+            "input": "pizza",
+            "actions": "remove",
+            "output": "cooked_pizza"
+        },
+        {
+            "instructions": "brush with hot apricot",
+            "input": "(pizza; apricot)",
+            "actions": "brush",
+            "output": "(brushed_pizza;apricot)"
+        },
+        {
+            "instructions": "glaze",
+            "input": "na",
+            "actions": "glaze",
+            "output": "na"
+        },
+        {
+            "instructions": "cut into wedges .",
+            "input": "pizza",
+            "actions": "cut",
+            "output": "cut_pizza"
+        }
+    ],
+    "ingredients": [
+        {
+            "text": "Vegetable oil cooking spray"
+        },
+        {
+            "text": "1 Tbsp. cornmeal"
+        },
+        {
+            "text": "10 ounce refrigerated pizza dough 1 pkg"
+        },
+        {
+            "text": "4 x Golden brown Delicious apples 1-1/2 lbs peeled halved and cored"
+        },
+        {
+            "text": "1/4 c. sugar granulated"
+        },
+        {
+            "text": "3/4 tsp grnd cinnamon"
+        },
+        {
+            "text": "1/4 c. apricot preserves preferably all-fruit and sugar-free"
+        },
+        {
+            "text": "1 Tbsp. orange liqueur Or possibly apple juice"
+        }
+    ],
+    "recipe": [
+        {
+            "text": "Preheat oven to 375F."
+        },
+        {
+            "text": "Spray a 14-in.-round pizza pan or possibly large baking sheet with oil and sprinkle with cornmeal."
+        },
+        {
+            "text": "Roll out pizza dough to a 14-in."
+        },
+        {
+            "text": "circle on a lightly floured surface with a lightly floured rolling pin."
+        },
+        {
+            "text": "Transfer to the prepared pan."
+        },
+        {
+            "text": "Cut apples into thin slices (1/4 in."
+        },
+        {
+            "text": "to 1/2 in.)."
+        },
+        {
+            "text": "Starting at the outer edge and working toward the center, arrange the slices on pizza dough, overlapping slightly in smaller and smaller circles till the surface is covered."
+        },
+        {
+            "text": "The apple layer should be at least as thick as the crust."
+        },
+        {
+            "text": "Combine sugar and cinnamon in a small bowl."
+        },
+        {
+            "text": "Sprinkle mix proportionately over apples and bake about 30 min, or possibly till crust is golden."
+        },
+        {
+            "text": "Meanwhile, combine preserves and liqueur in a small saucepan and cook over low heat, till preserves dissolve."
+        },
+        {
+            "text": "To serve, remove the pizza from the oven, brush with hot apricot glaze and cut into wedges."
+        },
+        {
+            "text": "Notes: Pizza dough contains a lot less fat than a buttery pastry - this twist on an apple tart contains just one gram of fat per serving."
+        }
+    ]
+}

@@ -1,0 +1,157 @@
+{
+    "title": "peanut_butter-banana_cream_pizza",
+    "id": "aff1796e41",
+    "table": [
+        {
+            "instructions": "beat pudding mix and 1 34 qt .",
+            "input": "pudding mix",
+            "actions": "beat",
+            "output": "beaten pudding mix"
+        },
+        {
+            "instructions": "refrigerate until thickened .",
+            "input": "beaten pudding mix",
+            "actions": "refrigerate",
+            "output": "refrigerated pudding mix"
+        },
+        {
+            "instructions": "meanwhile , unroll crusts ;",
+            "input": "crusts",
+            "actions": "unroll",
+            "output": "unrolled_crusts"
+        },
+        {
+            "instructions": "place in single layer in parchment paper lined sheet pans .",
+            "input": "unrolled_crusts",
+            "actions": "place",
+            "output": "unrolled_crusts"
+        },
+        {
+            "instructions": "prick bottoms with fork .",
+            "input": "unrolled_crusts",
+            "actions": "prick",
+            "output": "pricked_crusts"
+        },
+        {
+            "instructions": "bake in 375 degrees f convection oven 7 to 8 min .",
+            "input": "pricked_crusts",
+            "actions": "bake",
+            "output": "baked crusts"
+        },
+        {
+            "instructions": "cool completely in pans .",
+            "input": "baked crusts",
+            "actions": "cool",
+            "output": "cooled crusts"
+        },
+        {
+            "instructions": "mix variegate and remaining half and half .",
+            "input": "(variegate; half_and_half)",
+            "actions": "mix",
+            "output": "variegate and half and half mixture"
+        },
+        {
+            "instructions": "for each pizza spread 34 cup , pudding onto 1 crust ;",
+            "input": "(crust; pudding mix)",
+            "actions": "spread",
+            "output": "pudding mix spread on crust"
+        },
+        {
+            "instructions": "top with about 22 banana slices .",
+            "input": "(banana slice; crust with pudding mix)",
+            "actions": "top",
+            "output": "crust with pudding mix topped with banana slices"
+        },
+        {
+            "instructions": "drizzle with 3 tbsp of mixture .",
+            "input": "(variegate and half and half mixture; crust filled with pudding and banana slices)",
+            "actions": "drizzle",
+            "output": "variegate and half and half mixture drizzled over banana cream pizza"
+        },
+        {
+            "instructions": "sprinkle with 12 cup chopped cookies and 2 tbsp peanut butter.",
+            "input": "(chopped cookies; peanut butter; banana cream pizza)",
+            "actions": "sprinkle",
+            "output": "peanut butter and chopped cookies sprinkled over banana cream pizza"
+        },
+        {
+            "instructions": "refrigerate until ready to serve .",
+            "input": "peanut_butter-banana_cream_pizza",
+            "actions": "refrigerate",
+            "output": "refrigerated peanut_butter-banana_cream_pizza"
+        }
+    ],
+    "ingredients": [
+        {
+            "text": "1-1/2 qt. JELL-O Banana Flavor Instant Pudding"
+        },
+        {
+            "text": "2 qt. half-and-half, divided"
+        },
+        {
+            "text": "8 each ready-to-use refrigerated pie crusts"
+        },
+        {
+            "text": "1-1/3 cups NUTTER BUTTER Creme Variegate"
+        },
+        {
+            "text": "6 each large bananas, each cut into 30 slices"
+        },
+        {
+            "text": "1 cup caramel ice cream topping"
+        },
+        {
+            "text": "1 qt. NUTTER BUTTER Peanut Butter Sandwich Cookies, chopped"
+        },
+        {
+            "text": "1 cup chopped pecans, toasted"
+        }
+    ],
+    "recipe": [
+        {
+            "text": "Beat pudding mix and 1-3/4 qt."
+        },
+        {
+            "text": "half-and-half (or 1-3/4 cups half-and-half for trial recipe) with whisk until well blended."
+        },
+        {
+            "text": "Refrigerate until thickened."
+        },
+        {
+            "text": "Meanwhile, unroll crusts; place in single layer in parchment paper-lined sheet pans."
+        },
+        {
+            "text": "Flute edges; prick bottoms with fork."
+        },
+        {
+            "text": "Bake in 375 degrees F-convection oven 7 to 8 min."
+        },
+        {
+            "text": "or until golden brown."
+        },
+        {
+            "text": "Cool completely in pans."
+        },
+        {
+            "text": "Mix Variegate and remaining half-and-half."
+        },
+        {
+            "text": "For each pizza: Spread 3/4 cup pudding onto 1 crust; top with about 22 banana slices."
+        },
+        {
+            "text": "Drizzle with 3 Tbsp."
+        },
+        {
+            "text": "Variegate mixture and 2 Tbsp."
+        },
+        {
+            "text": "caramel topping; sprinkle with 1/2 cup chopped cookies and 2 Tbsp."
+        },
+        {
+            "text": "nuts."
+        },
+        {
+            "text": "Refrigerate until ready to serve."
+        }
+    ]
+}

@@ -1,0 +1,103 @@
+{
+    "title": "easy_shirasu_pizza_chips",
+    "id": "915b848f20",
+    "table": [
+        {
+            "instructions": "cut the cheese into small pieces",
+            "input": "cheese",
+            "action": "cut",
+            "output": "cut_cheese in small pieces"
+        },
+        {
+            "instructions": "put them on each dumpling_wrapper .",
+            "input": "(cut_cheese in small pieces; dumpling wrapper)",
+            "action": "put",
+            "output": "dumpling wrapper with small pieces of cheese"
+        },
+        {
+            "instructions": "spread a little bit of yuzu , kosho paste on the top .",
+            "input": "(yuzu; kosho paste; dumpling wrapper with small pieces of cheese)",
+            "action": "spread",
+            "output": "dumpling wrapper with small pieces of cheese, yuzu and kosho paste"
+        },
+        {
+            "instructions": "chop the shiso leaves and green_onion finely ,",
+            "input": "(shiso leaves; green onion; )",
+            "action": "chop",
+            "output": "(chopped shiso leaves; chopped green onion)"
+        },
+        {
+            "instructions": "put them on the cheese ,",
+            "input": "(chopped shiso leaves; chopped green onion; dumpling wrapper with small pieces of cheese, yuzu and kosho paste)",
+            "action": "put",
+            "output": "dumpling wrapper with small pieces of cheese, yuzu, kosho paste and topped with shiso leaves and green onion"
+        },
+        {
+            "instructions": "put shirasu on the top .",
+            "input": "(shirasu; dumpling wrapper with small pieces of cheese, yuzu, kosho paste and topped with shiso leaves and green onion)",
+            "action": "put",
+            "output": "dumpling wrapper with small pieces of cheese, yuzu, kosho paste and topped with shiso leaves, green onion and shirasu"
+        },
+        {
+            "instructions": "finally , sprinkle the olive_oil around the edges of each wrapper .",
+            "input": "(olive oil; dumpling wrapper with small pieces of cheese, yuzu, kosho paste and topped with shiso leaves, green onion and shirasu)",
+            "action": "sprinkle",
+            "output": "dumpling wrapper with small pieces of cheese, yuzu, kosho paste and topped with shiso leaves, green onion and shirasu with oiled edges"
+        },
+        {
+            "instructions": "place them on an oven sheet or toaster , oven tray lined with parchment paper .",
+            "input": "dumpling wrapper with small pieces of cheese, yuzu, kosho paste and topped with shiso leaves, green onion and shirasu with oiled edges",
+            "action": "place",
+            "output": "dumpling wrapper with small pieces of cheese, yuzu, kosho paste and topped with shiso leaves, green onion and shirasu with oiled edges"
+        },
+        {
+            "instructions": "toast for about 2 minutes or until the edges turn gold brown .",
+            "input": "uncooked shirasu dumpling  wrapper pizza chips",
+            "action": "toast",
+            "output": "toasted shirasu dumpling  wrapper pizza chips"
+        }
+    ],
+    "ingredients": [
+        {
+            "text": "8 Potsticker/gyoza dumpling wrappers"
+        },
+        {
+            "text": "1/2 cup Shirasu (cooked baby sardines)"
+        },
+        {
+            "text": "4 Shiso leaves"
+        },
+        {
+            "text": "1 Green onion"
+        },
+        {
+            "text": "1 tsp Yuzu kosho paste"
+        },
+        {
+            "text": "1 tsp Olive oil"
+        },
+        {
+            "text": "1/2 pack Camembert cheese"
+        }
+    ],
+    "recipe": [
+        {
+            "text": "Cut the cheese into small pieces and put them on each dumpling wrapper."
+        },
+        {
+            "text": "Spread a little bit of yuzu kosho paste on the top."
+        },
+        {
+            "text": "Chop the shiso leaves and green onions finely, and put them on the cheese, then put shirasu on the top."
+        },
+        {
+            "text": "Finally, sprinkle the olive oil around the edges of each wrapper."
+        },
+        {
+            "text": "Place them on an oven sheet or toaster oven tray lined with parchment paper."
+        },
+        {
+            "text": "Toast for about 2 minutes or until the edges turn gold brown."
+        }
+    ]
+}

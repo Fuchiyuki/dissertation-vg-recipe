@@ -1,0 +1,106 @@
+{
+    "title": "ham_caramelized_onion_gruyere_pizza",
+    "id": "64589d0bd6",
+    "table": [
+        {
+            "instructions": "follow the directions for cooking our best basic pizza_dough or use a store bought dough if necessary .",
+            "input": "NA",
+            "actions": "follow",
+            "output": "NA"
+        },
+        {
+            "instructions": "in a large saute pan over medium heat add the oil .",
+            "input": "oil",
+            "actions": "add",
+            "output": "heated oil"
+        },
+        {
+            "instructions": "then add the sliced red onions",
+            "input": "(heated_oil; sliced red onions)",
+            "actions": "add",
+            "output": "sliced red onions in heated oil"
+        },
+        {
+            "instructions": "cook until they start to caramelize .",
+            "input": "sliced red onions in heated oi",
+            "actions": "cook",
+            "output": "caramelized red onions"
+        },
+        {
+            "instructions": "spread the already made sauce over the pre made not baked dough .",
+            "input": "(sauce; uncooked dough)",
+            "actions": "spread",
+            "output": "sauce spread on dough"
+        },
+        {
+            "instructions": "next top the sauce with the slices of ham , then the caramelized onions , then half of the gruyere .",
+            "input": "(ham_slices; caramelized red onions; gruyere, uncooked pizza crust)",
+            "actions": "top",
+            "output": "pizza crust with sauce topped with ham slices, caramelized onions and half of gruyere"
+        },
+        {
+            "instructions": "sprinkle the sliced banana_pepper over top evenly .",
+            "input": "(sliced banana peppers; pizza crust with sauce topped with ham slices, caramelized onions and half of gruyere)",
+            "actions": "sprinkle",
+            "output": "banana peppers on top of pizza crust with sauce topped with ham slices, caramelized onions and half of gruyere"
+        },
+        {
+            "instructions": "then top with the remaining cheese .",
+            "input": "(cheese; pizza crust with sauce topped with ham slices, caramelized onions, half of gruyere and banana peppers)",
+            "actions": "top",
+            "output": "cheese on top of pizza crust with sauce topped with ham slices, caramelized onions, half of gruyere and banana peppers"
+        },
+        {
+            "instructions": "bake according to the pizza_dough recipe .",
+            "input": "uncooked ham caramelizes onion and gruyere pizza",
+            "actions": "bake",
+            "output": "baked uncooked ham caramelizes onion and gruyere pizza"
+        }
+    ],
+    "ingredients": [
+        {
+            "text": "1/2 large red onion, sliced thin"
+        },
+        {
+            "text": "1 tablespoon vegetable oil"
+        },
+        {
+            "text": "1 to 1 1/2 cups gruyere cheese, shredded"
+        },
+        {
+            "text": "8 thin slices honey glazed ham"
+        },
+        {
+            "text": "1/2 cup pickled hot banana peppers, sliced into rings"
+        },
+        {
+            "text": "1/2 cup tomato sauce"
+        }
+    ],
+    "recipe": [
+        {
+            "text": "Follow the directions for cooking our best basic pizza dough (or use a store-bought dough if necessary)."
+        },
+        {
+            "text": "In a large saute pan over medium heat add the oil."
+        },
+        {
+            "text": "Then add the sliced red onions and cook until they start to caramelize."
+        },
+        {
+            "text": "Spread the already-made sauce over the pre- made (not baked) dough."
+        },
+        {
+            "text": "Next top the sauce with the slices of ham, then the caramelized onions, then half of the gruyere."
+        },
+        {
+            "text": "Sprinkle the sliced banana peppers over top evenly."
+        },
+        {
+            "text": "Then top with the remaining cheese."
+        },
+        {
+            "text": "Bake according to the pizza dough recipe."
+        }
+    ]
+}

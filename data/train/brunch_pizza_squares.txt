@@ -1,0 +1,109 @@
+{
+    "title": "brunch_pizza_squares",
+    "id": "f09b0ce9ca",
+    "table": [
+        {
+            "instructions": "in a skillet , cook sausage over medium heat until no longer pink .",
+            "input": "sausage",
+            "action": "cook",
+            "output": "cooked_sausage"
+        },
+        {
+            "instructions": "drain .",
+            "input": "cooked sausage",
+            "action": "drain",
+            "output": "drained sausage"
+        },
+        {
+            "instructions": "unroll crescent_roll , dough",
+            "input": "crescent roll dough",
+            "action": "unroll",
+            "output": "unrolled crescent dough"
+        },
+        {
+            "instructions": "press dough 12 inch up the sides and seal seams .",
+            "input": "unrolled crescent dough",
+            "action": "press",
+            "output": "baking dish with flattened crescent dough"
+        },
+        {
+            "instructions": "sprinkle with sausage .",
+            "input": "(drained sausage; baking dish with flattened crescent dough)",
+            "action": "sprinkle",
+            "output": "crescent dough topped with sausage"
+        },
+        {
+            "instructions": "in a bowl , beat the egg , milk and pepper .",
+            "input": "(egg; milk; pepper)",
+            "action": "beat",
+            "output": "beaten egg mixture"
+        },
+        {
+            "instructions": "pour over sausage .",
+            "input": "(beaten eggs; crescent dough topped with sausage)",
+            "action": "pour",
+            "output": "crescent dough with sausage and beaten egg mixture"
+        },
+        {
+            "instructions": "sprinkle with cheese .",
+            "input": "(shredded cheese; crescent dough with sausage and beaten egg mixture)",
+            "action": "sprinkle",
+            "output": "crescent dough with sausage, beaten egg mixture and cheese"
+        },
+        {
+            "instructions": "bake , uncovered at 400 for 15 minutes or until the crust is golden brown and the cheese is melted .",
+            "input": "uncooked breakfast casserole",
+            "action": "bake",
+            "output": "baked breakfast casserole"
+        }
+    ],
+    "ingredients": [
+        {
+            "text": "1 lb bulk medium pork sausage"
+        },
+        {
+            "text": "4 (8 ounce) packages refrigerated crescent dinner rolls"
+        },
+        {
+            "text": "6 eggs"
+        },
+        {
+            "text": "2 tablespoons milk"
+        },
+        {
+            "text": "18 teaspoon pepper"
+        },
+        {
+            "text": "34 cup shredded cheddar cheese"
+        }
+    ],
+    "recipe": [
+        {
+            "text": "In a skillet, cook sausage over medium heat until no longer pink."
+        },
+        {
+            "text": "Drain."
+        },
+        {
+            "text": "Unroll crescent roll dough into a lightly greased 9x13 baking pan."
+        },
+        {
+            "text": "Press dough 1/2 inch up the sides and seal seams."
+        },
+        {
+            "text": "Sprinkle with sausage."
+        },
+        {
+            "text": "In a bowl, beat the egg, milk and pepper."
+        },
+        {
+            "text": "Pour over sausage."
+        },
+        {
+            "text": "Sprinkle with cheese."
+        },
+        {
+            "text": "Bake, uncovered at 400 for 15 minutes or until the crust is golden brown and the cheese is melted."
+        }
+    ]
+}

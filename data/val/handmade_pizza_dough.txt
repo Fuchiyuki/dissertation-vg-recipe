@@ -1,0 +1,172 @@
+{
+    "title": "handmade_pizza_dough",
+    "id": "7c9d85939f",
+    "table": [
+        {
+            "instructions": "combine water and yeast in a large bowl",
+            "input": "(water; yeast)",
+            "actions": "combine",
+            "output": "(combined_water; yeast)"
+        },
+        {
+            "instructions": "stir in the sugar , salt , and oil .",
+            "input": "(sugar; salt; oil)",
+            "actions": "stir",
+            "output": "combinded_sugar_salt_oil"
+        },
+        {
+            "instructions": "add half the flour",
+            "input": "flour",
+            "actions": "add",
+            "output": "dough_mixture"
+        },
+        {
+            "instructions": "mix .",
+            "input": "dough_mixture",
+            "actions": "mix",
+            "output": "dough_mixture"
+        },
+        {
+            "instructions": "add remaining flour",
+            "input": "(flour; dough_mixture)",
+            "actions": "add",
+            "output": "dough_mixture"
+        },
+        {
+            "instructions": "knead until smooth .",
+            "input": "dough",
+            "actions": "knead",
+            "output": "kneaded_dough"
+        },
+        {
+            "instructions": "cover with a clean kitchen towel",
+            "input": "kneaded_dough",
+            "actions": "cover",
+            "output": "covered_dough"
+        },
+        {
+            "instructions": "put in a warm spot to rise for about half an hour .",
+            "input": "covered_dough",
+            "actions": "put",
+            "output": "risen_dough"
+        },
+        {
+            "instructions": "on cold days , briefly warm your oven ,",
+            "input": "NA",
+            "actions": "warm",
+            "output": "NA"
+        },
+        {
+            "instructions": "turn it off",
+            "input": "NA",
+            "actions": "turn",
+            "output": "NA"
+        },
+        {
+            "instructions": "put the bowl in there .",
+            "input": "covered_dough",
+            "actions": "put",
+            "output": "risen_dough"
+        },
+        {
+            "instructions": "leave the lightbulb on to provide a bit of warming .",
+            "input": "NA",
+            "actions": "leave",
+            "output": "NA"
+        },
+        {
+            "instructions": "punch the dough down",
+            "input": "covered_dough",
+            "actions": "punch",
+            "output": "punched_down_dough"
+        },
+        {
+            "instructions": "split into 2 to 3 pieces depending on how big you want your pizzas and how thick you like your crusts .",
+            "input": "punched_down_dough",
+            "actions": "split",
+            "output": "split_dough"
+        },
+        {
+            "instructions": "press onto a greased cookie sheet or pizza\u2012pan until the dough is about 14 inch thick for thin crusts .",
+            "input": "split_dough",
+            "actions": "press",
+            "output": "pressed_dough"
+        },
+        {
+            "instructions": "spread your favorite sauce",
+            "input": "(pizza_dough; favorite_sauce)",
+            "actions": "spread",
+            "output": "favorite_sauce_spread_on_pizza_dough"
+        },
+        {
+            "instructions": "sprinkle on grated mozzarella",
+            "input": "(favorite_sauce_spread_on_pizza_dough; grated mozzarella)",
+            "actions": "sprinkle",
+            "output": "sauce and cheese_spread_on_pizza_dough"
+        },
+        {
+            "instructions": "add toppings ,",
+            "input": "(sauce and cheese_spread_on_pizza_dough; toppings)",
+            "actions": "add",
+            "output": "uncooked pizza"
+        },
+        {
+            "instructions": "bake at 400 for about 20 minutes .",
+            "input": "uncooked pizza",
+            "actions": "bake",
+            "output": "baked pizza"
+        }
+    ],
+    "ingredients": [
+        {
+            "text": "2 cups warm water"
+        },
+        {
+            "text": "2 tablespoons yeast"
+        },
+        {
+            "text": "2 teaspoons sugar"
+        },
+        {
+            "text": "2 teaspoons salt"
+        },
+        {
+            "text": "2 tablespoons oil"
+        },
+        {
+            "text": "5 -6 cups flour"
+        }
+    ],
+    "recipe": [
+        {
+            "text": "Combine water and yeast in a large bowl and let sit for 5 minutes."
+        },
+        {
+            "text": "Stir in the sugar, salt, and oil."
+        },
+        {
+            "text": "Add half the flour and mix."
+        },
+        {
+            "text": "Add remaining flour and knead until smooth."
+        },
+        {
+            "text": "Cover with a clean kitchen towel and put in a warm spot to rise for about half an hour."
+        },
+        {
+            "text": "On cold days, briefly warm your oven, then turn it off and put the bowl in there."
+        },
+        {
+            "text": "Leave the lightbulb on to provide a bit of warming."
+        },
+        {
+            "text": "Punch the dough down and split into 2 to 3 pieces depending on how big you want your pizzas and how thick you like your crusts."
+        },
+        {
+            "text": "Press onto a greased cookie sheet or pizza pan until the dough is about 1/4 inch thick for thin crusts."
+        },
+        {
+            "text": "Spread your favorite sauce, sprinkle on grated mozzarella, add toppings, and bake at 400 for about 20 minutes."
+        }
+    ]
+}

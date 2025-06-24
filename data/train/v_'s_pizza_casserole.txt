@@ -1,0 +1,193 @@
+{
+    "title": "v_'s_pizza_casserole",
+    "id": "b1eba15a8d",
+    "table": [
+        {
+            "instructions": "cook noodles according to package directions ;",
+            "input": "noodles",
+            "action": "cook",
+            "output": "cooked noodles"
+        },
+        {
+            "instructions": "drain",
+            "input": "cooked noodles",
+            "action": "drain",
+            "output": "drained cooked pasta"
+        },
+        {
+            "instructions": "cook onion and garlic in 2 tbl , olive_oil until translucent .",
+            "input": "(onion; garlic; olive oil)",
+            "action": "cook",
+            "output": "onion and garlic cooked in olive oil"
+        },
+        {
+            "instructions": "add ground_beef",
+            "input": "(ground beef; onion and garlic cooked in olive oil)",
+            "action": "add",
+            "output": "ground beef added to onion and garlic cooked in olive oil"
+        },
+        {
+            "instructions": "cook until beef is browned",
+            "input": "ground beef added to onion and garlic cooked in olive oil",
+            "action": "cook",
+            "output": "cooked ground beef mixture"
+        },
+        {
+            "instructions": "drain well .",
+            "input": "cooked ground beef mixture",
+            "action": "drain",
+            "output": "drained cooked ground beef mixture"
+        },
+        {
+            "instructions": "rough chop",
+            "input": "drained cooked ground beef mixture",
+            "action": "chop",
+            "output": "chopped cooked ground beef mixture"
+        },
+        {
+            "instructions": "add half the pepperoni",
+            "input": "(half of pepperoni; chopped cooked ground beef mixture)",
+            "action": "add",
+            "output": "half of pepperoni added to chopped cooked ground beef mixture"
+        },
+        {
+            "instructions": "add canadian_bacon and cooked_bacon .",
+            "input": "(canadian bacon; cooked bacon; ground beef and pepperoni mixture)",
+            "action": "add",
+            "output": "canadian_bacon and cooked_bacon added ot pepperoni and ground beef mixture"
+        },
+        {
+            "instructions": "stir in pizza_sauce .",
+            "input": "(pizza sauce; beef, pepperoni and bacon mixture)",
+            "action": "stir",
+            "output": "pizza sauce stirred into meat mixture"
+        },
+        {
+            "instructions": "add pasta to meat mixture",
+            "input": "(cooked pasta; meat mixture)",
+            "action": "add",
+            "output": "cooked pasta added to meat mixture"
+        },
+        {
+            "instructions": "stir to combine .",
+            "input": "cooked pasta added to meat mixture",
+            "action": "stir",
+            "output": "cooked pasta in meat mixture "
+        },
+        {
+            "instructions": "add 12 cheese mixture",
+            "input": "(cheese mixture; cooked pasta in meat mixture )",
+            "action": "add",
+            "output": "cheese mixture added to pasta and meat mixture "
+        },
+        {
+            "instructions": "stir again .",
+            "input": "cheese mixture added to pasta and meat mixture ",
+            "action": "stir",
+            "output": "stirred cheese, pasta and meat mixture"
+        },
+        {
+            "instructions": "top with remaining chesse",
+            "input": "(remaining cheese; stirred cheese, pasta and meat mixture)",
+            "action": "top",
+            "output": "pasta casserole topped with remaining cheese "
+        },
+        {
+            "instructions": "arrange pepperoni_slice over casserole",
+            "input": "(remaining pepperoni slices; pasta casserole)",
+            "action": "arrange",
+            "output": "remaining pepperoni slices arranged over pasta casserole"
+        },
+        {
+            "instructions": "top with parmesan_cheese and italian herb_seasoning .",
+            "input": "(pasta casserole with pepperoni slices; parmesan cheese; italian herb seasoning)",
+            "action": "top",
+            "output": "pasta casserole with pepperoni slices topped with parmesan cheese and italian herb seasoning"
+        },
+        {
+            "instructions": "bake , uncovered , at 350 for 30 minutes or until cheese is melted .",
+            "input": "uncooked pasta casserole",
+            "action": "bake",
+            "output": "baked pasta casserole"
+        },
+        {
+            "instructions": "serve .",
+            "input": "baked pasta casserole",
+            "action": "serve",
+            "output": "served baked pasta casserole"
+        }
+    ],
+    "ingredients": [
+        {
+            "text": "12 ounces penne pasta, cooked al dente"
+        },
+        {
+            "text": "2 lbs ground beef"
+        },
+        {
+            "text": "1 garlic clove, chopped"
+        },
+        {
+            "text": "8 slices cooked bacon, chopped"
+        },
+        {
+            "text": "1 small white onion, diced (optional)"
+        },
+        {
+            "text": "1 (3 1/2 ounce) packagesliced pepperoni"
+        },
+        {
+            "text": "8 ounces Canadian bacon, chopped"
+        },
+        {
+            "text": "8 ounces pizza sauce"
+        },
+        {
+            "text": "4 tablespoons parmesan cheese"
+        },
+        {
+            "text": "12-1 teaspoon Italian herb seasoning"
+        },
+        {
+            "text": "1 cup cheddar cheese, shredded"
+        },
+        {
+            "text": "1 cup monterey jack cheese, shredded (I use 1 pkg Pizza Blend Cheese)"
+        }
+    ],
+    "recipe": [
+        {
+            "text": "Cook noodles according to package directions; drain"
+        },
+        {
+            "text": "Cook onion and garlic in 2 Tbl Olive oil until translucent."
+        },
+        {
+            "text": "Add ground beef and cook until beef is browned, Drain well."
+        },
+        {
+            "text": "rough chop and add half the pepperoni, add canadian bacon and cooked bacon."
+        },
+        {
+            "text": "Stir in pizza sauce."
+        },
+        {
+            "text": "Add pasta to meat mixture and stir to combine."
+        },
+        {
+            "text": "Add 1/2 cheese mixture and stir again."
+        },
+        {
+            "text": "Top with remaining chesse and Arrange pepperoni slices over casserole, top with parmesan cheese and italian herb seasoning."
+        },
+        {
+            "text": "NOTE: You can bake right in your skillet if it is oven proof or pour mixture into a large casserole dish."
+        },
+        {
+            "text": "Bake, uncovered, at 350 for 30 minutes or until cheese is melted."
+        },
+        {
+            "text": "Let rest 10 minutes and serve."
+        }
+    ]
+}

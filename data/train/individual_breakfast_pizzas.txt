@@ -1,0 +1,211 @@
+{
+    "title": "individual_breakfast_pizzas",
+    "id": "867e1d5eeb",
+    "table": [
+        {
+            "instructions": "divide into 4 equal portions about 4 ounces each .",
+            "input": "dough",
+            "action": "divide",
+            "output": "divided dough"
+        },
+        {
+            "instructions": "preheat oven to 450 degrees f .",
+            "input": "NA",
+            "action": "preheat",
+            "output": "NA"
+        },
+        {
+            "instructions": "lightly flour a clean , flat work surface .",
+            "input": "NA",
+            "action": "flour",
+            "output": "NA"
+        },
+        {
+            "instructions": "roll each ball of dough out to about 14 inch thickness .",
+            "input": "dough ball",
+            "action": "roll",
+            "output": "rolled pizza dough"
+        },
+        {
+            "instructions": "transfer to a rimless baking sheet .",
+            "input": "rolled pizza dough",
+            "action": "transfer",
+            "output": "rolled pizza dough"
+        },
+        {
+            "instructions": "brush olive_oil evenly over rolled out dough rounds .",
+            "input": "(olive_oil; rolled pizza dough)",
+            "action": "brush",
+            "output": "rolled pizza dough brushed with olive oil"
+        },
+        {
+            "instructions": "heat a medium nonstick skillet oven medium high heat .",
+            "input": "NA",
+            "action": "heat",
+            "output": "NA"
+        },
+        {
+            "instructions": "remove casings from sausage ,",
+            "input": "sausage with casings",
+            "action": "remove",
+            "output": "sausage without casings"
+        },
+        {
+            "instructions": "place sausage into the hot skillet .",
+            "input": "sausage without casings",
+            "action": "place",
+            "output": "sausage without casings"
+        },
+        {
+            "instructions": "cook , breaking up sausage with the back of a wooden spoon , until crumbled",
+            "input": "sausage without casings",
+            "action": "cook",
+            "output": "cooked and_crumbled_sausage"
+        },
+        {
+            "instructions": "drain on a paper towel lined plate .",
+            "input": "cooked and_crumbled_sausage",
+            "action": "drain",
+            "output": "drained cooked and_crumbled_sausage"
+        },
+        {
+            "instructions": "sprinkle cheeses evenly over each pizza_dough round .",
+            "input": "(cheeses; pizza_dough round )",
+            "action": "sprinkle",
+            "output": "pizza_dough round with cheese"
+        },
+        {
+            "instructions": "top with crumbled sausage .",
+            "input": "(pizza_dough round with cheese; cooked and crumbled sausage)",
+            "action": "top",
+            "output": "pizza_dough round with cheese and cooked and crumbled sausage"
+        },
+        {
+            "instructions": "crack one egg on top of the sausage in the center of each pizza .",
+            "input": "(egg; pizza_dough round with cheese and cooked and crumbled sausage)",
+            "action": "crack",
+            "output": "pizza_dough round with cheese, crumbled sausage and egg at the center"
+        },
+        {
+            "instructions": "top with sliced_green_onion .",
+            "input": "(sliced_green_onion; pizza_dough round with cheese, crumbled sausage and egg at the center)",
+            "action": "top",
+            "output": "pizza_dough round with cheese, sliced green onion crumbled sausage and egg at the center"
+        },
+        {
+            "instructions": "bake pizzas at 450 degrees f for 8 minutes .",
+            "input": "pizza_dough round with cheese, sliced green onion crumbled sausage and egg at the center",
+            "action": "bake",
+            "output": "baked sausage egg pizza"
+        },
+        {
+            "instructions": "carefully remove the baking sheet from underneath the pizzas ,",
+            "input": "NA",
+            "action": "remove",
+            "output": "NA"
+        },
+        {
+            "instructions": "carefully remove pizza from oven with a pizza peel",
+            "input": "baked sausage egg pizza",
+            "action": "remove",
+            "output": "baked sausage egg pizza"
+        },
+        {
+            "instructions": "season to taste with salt and pepper .",
+            "input": "(salt; pepper; baked sausage egg pizza)",
+            "action": "season",
+            "output": "season_baked sausage_egg_pizza"
+        }
+    ],
+    "ingredients": [
+        {
+            "text": "1 whole 1 Pound Ball Of Pizza Dough, Preferably Whole Wheat"
+        },
+        {
+            "text": "2 Tablespoons Flour, For Rolling Out Dough"
+        },
+        {
+            "text": "1 Tablespoon Olive Oil, Divided"
+        },
+        {
+            "text": "1/2 pounds Uncooked Breakfast Sausage"
+        },
+        {
+            "text": "1/2 cups Freshly Grated Sharp Cheddar Cheese"
+        },
+        {
+            "text": "1/2 cups Freshly Grated Part-skim Low Moisture Mozzarella Cheese"
+        },
+        {
+            "text": "4 whole Eggs - Preferably Organic"
+        },
+        {
+            "text": "1/4 cups Sliced Green Onions"
+        },
+        {
+            "text": "1/2 teaspoons Kosher Salt"
+        },
+        {
+            "text": "1/2 teaspoons Freshly Ground Black Pepper"
+        }
+    ],
+    "recipe": [
+        {
+            "text": "Bring dough to room temperature."
+        },
+        {
+            "text": "Divide into 4 equal portions (about 4 ounces each)."
+        },
+        {
+            "text": "Preheat oven to 450 degrees F."
+        },
+        {
+            "text": "Lightly flour a clean, flat work surface."
+        },
+        {
+            "text": "Roll each ball of dough out to about 1/4-inch thickness."
+        },
+        {
+            "text": "Transfer to a rimless baking sheet."
+        },
+        {
+            "text": "Brush olive oil evenly over rolled out dough rounds."
+        },
+        {
+            "text": "Heat a medium nonstick skillet oven medium-high heat."
+        },
+        {
+            "text": "Remove casings from sausage, and place sausage into the hot skillet."
+        },
+        {
+            "text": "Cook, breaking up sausage with the back of a wooden spoon, until crumbled and browned, about 5 minutes."
+        },
+        {
+            "text": "Drain on a paper towel-lined plate."
+        },
+        {
+            "text": "Sprinkle cheeses evenly over each pizza dough round."
+        },
+        {
+            "text": "Top with crumbled sausage."
+        },
+        {
+            "text": "Crack one egg on top of the sausage in the center of each pizza."
+        },
+        {
+            "text": "Top with sliced green onions."
+        },
+        {
+            "text": "Bake pizzas at 450 degrees F for 8 minutes."
+        },
+        {
+            "text": "Carefully remove the baking sheet from underneath the pizzas, and continue to cook directly on the oven rack until the crusts are golden brown, the cheese is melted, and the eggs are set, about 2 additional minutes."
+        },
+        {
+            "text": "Carefully remove pizza from oven with a pizza peel and let cool 2 minutes before serving."
+        },
+        {
+            "text": "Season to taste with salt and pepper."
+        }
+    ]
+}

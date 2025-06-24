@@ -1,0 +1,163 @@
+{
+    "title": "huevos_rancheros_breakfast_pizza",
+    "id": "0c9c7f56b1",
+    "table": [
+        {
+            "instructions": "preheat oven to 425 degrees .",
+            "input": "NA",
+            "action": "preheat",
+            "output": "NA"
+        },
+        {
+            "instructions": "line large baking sheet with parchment paper .",
+            "input": "NA",
+            "action": "line",
+            "output": "NA"
+        },
+        {
+            "instructions": "pour mix into bowl .",
+            "input": "whole grain jalapeno cornbread mix",
+            "action": "pour",
+            "output": "whole grain jalapeno cornbread mix"
+        },
+        {
+            "instructions": "add milk , eggs , and oil .",
+            "input": "(milk; eggs; oil; whole grain jalapeno cornbread mix)",
+            "action": "add",
+            "output": "eggs, milk and oil added to cornbread mix"
+        },
+        {
+            "instructions": "stir together for 1 minute , .",
+            "input": "eggs, milk and oil added to cornbread mix",
+            "action": "stir",
+            "output": "cornbread batter"
+        },
+        {
+            "instructions": "pour batter into prepared pan",
+            "input": "cornbread batter",
+            "action": "pour",
+            "output": "cornbread batter"
+        },
+        {
+            "instructions": "spread to cover pan .",
+            "input": "cornbread batter",
+            "action": "spread",
+            "output": "cornbread batter"
+        },
+        {
+            "instructions": "bake 10 to 15 minutes or until wooden pick inserted in center comes out clean .",
+            "input": "cornbread batter",
+            "action": "bake",
+            "output": "baked cornbread"
+        },
+        {
+            "instructions": "spread salsa over warm crust ,",
+            "input": "(salsa; baked cornbread)",
+            "action": "spread",
+            "output": "salsa spread on baked cornbread"
+        },
+        {
+            "instructions": "spoon on scrambled eggs and bell_pepper .",
+            "input": "(scrambled eggs; bell pepper; baked cornbread with salsa)",
+            "action": "spoon",
+            "output": "scrambled eggs and bell pepper spooned on baked cornbread with salsa"
+        },
+        {
+            "instructions": "sprinkle with cheese .",
+            "input": "(cheese; baked cornbread with salsa, scrambled eggs and bell pepper )",
+            "action": "sprinkle",
+            "output": "cheese sprinkled on baked cornbread with salsa, scrambled eggs and bell pepper "
+        },
+        {
+            "instructions": "return to oven for 5 minutes or until cheese melts .",
+            "input": "baked cornbread with salsa, scrambled eggs, bell pepper and cheese ",
+            "action": "return",
+            "output": "doubly baked cornbread with salsa, scrambled eggs, bell pepper and cheese "
+        },
+        {
+            "instructions": "sprinkle with cilantro",
+            "input": "(cilantro; doubly baked cornbread with salsa, scrambled eggs, bell pepper and cheese )",
+            "action": "sprinkle",
+            "output": "cilantro sprinkled on doubly baked cornbread with salsa, scrambled eggs, bell pepper and cheese "
+        },
+        {
+            "instructions": "cut ,",
+            "input": "doubly baked cornbread with salsa, scrambled eggs, bell pepper and cheese ",
+            "action": "cut",
+            "output": "cut doubly baked cornbread with salsa, scrambled eggs, bell pepper and cheese "
+        },
+        {
+            "instructions": "serve .",
+            "input": "cut doubly baked cornbread with salsa, scrambled eggs, bell pepper and cheese ",
+            "action": "serve",
+            "output": "cut doubly baked cornbread with salsa, scrambled eggs, bell pepper and cheese  ready to serve"
+        }
+    ],
+    "ingredients": [
+        {
+            "text": "1 (16 ounce) boxhodgson mill whole grain jalapeno cornbread mix"
+        },
+        {
+            "text": "1 34 cups milk"
+        },
+        {
+            "text": "2 large eggs"
+        },
+        {
+            "text": "13 cup vegetable oil"
+        },
+        {
+            "text": "12 cup salsa"
+        },
+        {
+            "text": "4 large eggs, softly scrambled"
+        },
+        {
+            "text": "1 cup finely chopped red bell pepper, and"
+        },
+        {
+            "text": "green bell pepper"
+        },
+        {
+            "text": "2 cups grated monterey jack cheese"
+        },
+        {
+            "text": "12 cup chopped fresh cilantro"
+        }
+    ],
+    "recipe": [
+        {
+            "text": "Preheat oven to 425 degrees."
+        },
+        {
+            "text": "Line large baking sheet with parchment paper."
+        },
+        {
+            "text": "Pour mix into bowl."
+        },
+        {
+            "text": "Add milk, eggs, and oil."
+        },
+        {
+            "text": "Stir together for 1 minute,."
+        },
+        {
+            "text": "Pour batter into prepared pan and spread to cover pan."
+        },
+        {
+            "text": "Bake 10 to 15 minutes or until wooden pick inserted in center comes out clean."
+        },
+        {
+            "text": "Spread salsa over warm crust, then spoon on scrambled eggs and bell pepper."
+        },
+        {
+            "text": "Sprinkle with cheese."
+        },
+        {
+            "text": "Return to oven for 5 minutes or until cheese melts."
+        },
+        {
+            "text": "Sprinkle with cilantro and cut, then serve."
+        }
+    ]
+}

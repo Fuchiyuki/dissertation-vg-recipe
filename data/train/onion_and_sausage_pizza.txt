@@ -1,0 +1,190 @@
+{
+    "title": "onion_and_sausage_pizza",
+    "id": "a841827285",
+    "table": [
+        {
+            "instructions": "remove sausage from casings",
+            "input": "sausage",
+            "action": "remove",
+            "output": "sausage without casings"
+        },
+        {
+            "instructions": "saute sausage in 2 tablespoons , olive_oil until browned .",
+            "input": "(sausage without casings; olive oil)",
+            "action": "saute",
+            "output": "browned sausage"
+        },
+        {
+            "instructions": "drain to remove excess oil .",
+            "input": "browned sausage",
+            "action": "drain",
+            "output": "drained browned sausage"
+        },
+        {
+            "instructions": "remove from skillet",
+            "input": "drained browned sausage",
+            "action": "remove",
+            "output": "drained browned sausage"
+        },
+        {
+            "instructions": "set aside .",
+            "input": "drained browned sausage",
+            "action": "set",
+            "output": "drained browned sausage"
+        },
+        {
+            "instructions": "in skillet , heat 3 tablespoons olive_oil",
+            "input": "olive oil",
+            "action": "heat",
+            "output": "heated olive oil"
+        },
+        {
+            "instructions": "add onions , garlic",
+            "input": "(heated olive oil; onions; garlic)",
+            "action": "add",
+            "output": "garlic and onions in heated olive oil"
+        },
+        {
+            "instructions": "saute stirring until onions wilt down .",
+            "input": "garlic and onions in heated olive oil",
+            "action": "saute",
+            "output": "cooked onions and garlic"
+        },
+        {
+            "instructions": "add tomato_sauce , salt , pepper and red_pepper to taste .",
+            "input": "(tomato sauce; salt; pepper; red pepper; cooked onions and garlic)",
+            "action": "add",
+            "output": "tomato sauce"
+        },
+        {
+            "instructions": "simmer about 5 minutes on low .",
+            "input": "tomato sauce",
+            "action": "simmer",
+            "output": "simmered tomato sauce"
+        },
+        {
+            "instructions": "stir together the sausage and onion and chopped olives .",
+            "input": "(simmered tomato sauce; drained browned sausage; onion; chopped olives)",
+            "action": "stir",
+            "output": "tomato sauce, onion, sausage and olives mixture"
+        },
+        {
+            "instructions": "toast bread lightly under broiler .",
+            "input": "bread",
+            "action": "toast",
+            "output": "toasted bread"
+        },
+        {
+            "instructions": "top with sausage mix",
+            "input": "(toasted bread; tomato sauce, onion, sausage and olives mixture)",
+            "action": "top",
+            "output": "toasted bread topped with tomato sauce, onion, sausage and olives mixture"
+        },
+        {
+            "instructions": "sprinkle grated mozzarella over all .",
+            "input": "(toasted bread topped with tomato sauce, onion, sausage and olives mixture; grated mozzarella)",
+            "action": "sprinkle",
+            "output": "toasted bread topped with tomato sauce, onion, sausage and olives mixture and grated mozzarella"
+        },
+        {
+            "instructions": "broil about 3 minutes under broiler until cheese melts .",
+            "input": "uncooked onion and sausage bread pizza",
+            "action": "broil",
+            "output": "broiled onion and sausage bread pizza"
+        },
+        {
+            "instructions": "watch carefully with oven door open .",
+            "input": "NA",
+            "action": "watch",
+            "output": "NA"
+        },
+        {
+            "instructions": "remove from broiler",
+            "input": "broiled onion and sausage bread pizza",
+            "action": "remove",
+            "output": "broiled onion and sausage bread pizza"
+        },
+        {
+            "instructions": "slice",
+            "input": "broiled onion and sausage bread pizza",
+            "action": "slice",
+            "output": "sliced broiled onion and sausage bread pizza"
+        },
+        {
+            "instructions": "serve .",
+            "input": "sliced broiled onion and sausage bread pizza",
+            "action": "serve",
+            "output": "sliced broiled onion and sausage bread pizza ready to serve"
+        }
+    ],
+    "ingredients": [
+        {
+            "text": "1 pound sweet Italian sausage"
+        },
+        {
+            "text": "5 tablespoons olive oil, divided"
+        },
+        {
+            "text": "2 large onions, sliced"
+        },
+        {
+            "text": "1 clove garlic, pressed"
+        },
+        {
+            "text": "1 (8 ounce) can tomato sauce"
+        },
+        {
+            "text": "salt and pepper to taste"
+        },
+        {
+            "text": "crushed red pepper to taste"
+        },
+        {
+            "text": "1/4 cup sliced stuffed green olives"
+        },
+        {
+            "text": "1 (1 pound) loaf French bread, sliced horizontally"
+        },
+        {
+            "text": "6 ounces mozzarella cheese, shredded"
+        }
+    ],
+    "recipe": [
+        {
+            "text": "Remove sausage from casings and saute sausage in 2 tablespoons olive oil until browned."
+        },
+        {
+            "text": "Drain to remove excess oil."
+        },
+        {
+            "text": "Remove from skillet and set aside."
+        },
+        {
+            "text": "In skillet, heat 3 tablespoons olive oil, add onions, garlic and saute stirring until onions wilt down."
+        },
+        {
+            "text": "Add tomato sauce, salt, pepper and red pepper to taste."
+        },
+        {
+            "text": "Simmer about 5 minutes on low."
+        },
+        {
+            "text": "Stir together the sausage and onion and chopped olives."
+        },
+        {
+            "text": "Toast bread lightly under broiler."
+        },
+        {
+            "text": "Top with sausage mix and sprinkle grated mozzarella over all."
+        },
+        {
+            "text": "Broil about 3 minutes under broiler until cheese melts."
+        },
+        {
+            "text": "Watch carefully with oven door open."
+        },
+        {
+            "text": "Remove from broiler, slice and serve."
+        }
+    ]
+}

@@ -1,0 +1,217 @@
+{
+    "title": "pizza_burger_bowl",
+    "id": "37bd05187c",
+    "table": [
+        {
+            "instructions": "preheat oven to 37",
+            "input": "NA",
+            "actions": "preheat",
+            "output": "NA"
+        },
+        {
+            "instructions": "spray large cookie sheet with nonstick cooking_spray .",
+            "input": "NA",
+            "actions": "spray",
+            "output": "NA"
+        },
+        {
+            "instructions": "brown ground_beef in large skillet over medium high heat for 8 to 10 minutes or until thoroughly cooked , stirring frequently .",
+            "input": "ground_beef",
+            "actions": "brown",
+            "output": "browned_ground_beef"
+        },
+        {
+            "instructions": "season with salt and pepper .",
+            "input": "(salt; pepper; browned_ground_beef)",
+            "actions": "season",
+            "output": "browned_ground_beef_seasoned_with_salt_and_pepper"
+        },
+        {
+            "instructions": "drain .",
+            "input": "browned_ground_beef_seasoned_with_salt_and_pepper",
+            "actions": "drain",
+            "output": "drained browned_ground_beef"
+        },
+        {
+            "instructions": "in the same skillet , add 1 teaspoon extra virgin_olive_oil",
+            "input": "extra virgin_olive_oil",
+            "actions": "add",
+            "output": "extra_virgin_olive_oil"
+        },
+        {
+            "instructions": "saute onions until soft and turning brown .",
+            "input": "(onions; extra_virgin_olive_oil)",
+            "actions": "saute",
+            "output": "sauteed_onions"
+        },
+        {
+            "instructions": "separate dough into 8 biscuits .",
+            "input": "dough",
+            "actions": "separate",
+            "output": "uncooked biscuits"
+        },
+        {
+            "instructions": "place 2 12 inches apart on sprayed cookie sheet .",
+            "input": "uncooked biscuits",
+            "actions": "place",
+            "output": "uncooked biscuits"
+        },
+        {
+            "instructions": "press out each biscuit to form 3 12 inch round with 14 inch rim around outside edge .",
+            "input": "uncooked biscuits",
+            "actions": "press",
+            "output": "pressed_uncooked biscuits"
+        },
+        {
+            "instructions": "in small bowl , combine egg and water , mixing well .",
+            "input": "(egg; water)",
+            "actions": "combine",
+            "output": "egg wash"
+        },
+        {
+            "instructions": "brush over tops and sides of biscuits .",
+            "input": "(egg wash; pressed_uncooked biscuits)",
+            "actions": "brush",
+            "output": "egg wash brushed on uncooked biscuits"
+        },
+        {
+            "instructions": "sprinkle each with sesame_seed .",
+            "input": "(sesame_seed; uncooked biscuits brushed with egg wash)",
+            "actions": "sprinkle",
+            "output": "sprinkled_sesame_seeds on uncooked biscuits"
+        },
+        {
+            "instructions": "add all remaining_ingredient including 1 cup of pizza cheese back into the skillet with the ground_beef and onions .",
+            "input": "(pizza_cheese; ground_beef_onions; all remaining_ingredient)",
+            "actions": "add",
+            "output": "ground beef and cheese mixture"
+        },
+        {
+            "instructions": "cook on low about 5 minutes , mixing well .",
+            "input": "ground beef and cheese mixture",
+            "actions": "cook",
+            "output": "cooked ground beef and cheese mixture"
+        },
+        {
+            "instructions": "divide ground_beef mixture evenly into each biscuit .",
+            "input": "(ground beef and cheese mixture; uncooked biscuits)",
+            "actions": "divide",
+            "output": "divided_ground_beef_mixture on uncooked biscuits"
+        },
+        {
+            "instructions": "sprinkle each with remaining pizza cheese blend .",
+            "input": "(pizza_cheese_blend; uncooked biscuits with ground beef mixture)",
+            "actions": "sprinkle",
+            "output": "sprinkled_pizza_cheese_blend on uncooked biscuits"
+        },
+        {
+            "instructions": "bake at 375 for 15 17 minutes or until biscuits are golden brown and cheese is bubbly .",
+            "input": "uncooked biscuits",
+            "actions": "bake",
+            "output": "baked_biscuits"
+        },
+        {
+            "instructions": "carefully remove from cookie sheet",
+            "input": "baked_biscuits",
+            "actions": "remove",
+            "output": "baked_biscuits"
+        },
+        {
+            "instructions": "serve .",
+            "input": "baked_biscuits",
+            "actions": "serve",
+            "output": "baked_biscuits"
+        }
+    ],
+    "ingredients": [
+        {
+            "text": "1 lb ground beef, cooked and drained"
+        },
+        {
+            "text": "salt and pepper"
+        },
+        {
+            "text": "1 small onion, small diced"
+        },
+        {
+            "text": "1 teaspoon extra virgin olive oil"
+        },
+        {
+            "text": "1 (8 count) cangrands refrigerated buttermilk homestyle biscuits (not flaky)"
+        },
+        {
+            "text": "1 egg"
+        },
+        {
+            "text": "14 teaspoon water"
+        },
+        {
+            "text": "1 tablespoon sesame seeds"
+        },
+        {
+            "text": "2 cups of your favorite pizza sauce"
+        },
+        {
+            "text": "2 tablespoons parmesan cheese"
+        },
+        {
+            "text": "2 cups shredded pizza cheese, blend divided or 2 cups mozzarella cheese, divided"
+        }
+    ],
+    "recipe": [
+        {
+            "text": "Preheat oven to 375."
+        },
+        {
+            "text": "Spray large cookie sheet with nonstick cooking spray."
+        },
+        {
+            "text": "Brown ground beef in large skillet over medium-high heat for 8 to 10 minutes or until thoroughly cooked, stirring frequently."
+        },
+        {
+            "text": "Season with salt and pepper."
+        },
+        {
+            "text": "Drain."
+        },
+        {
+            "text": "In the same skillet, add 1 teaspoon extra virgin olive oil and saute onions until soft and turning brown."
+        },
+        {
+            "text": "Separate dough into 8 biscuits."
+        },
+        {
+            "text": "Place 2 1/2 inches apart on sprayed cookie sheet."
+        },
+        {
+            "text": "With bottom of flat 2-inch diameter glass or with fingers, press out each biscuit to form 3 1/2 inch round with 1/4 inch rim around outside edge."
+        },
+        {
+            "text": "In small bowl, combine egg and water, mixing well."
+        },
+        {
+            "text": "Brush over tops and sides of biscuits."
+        },
+        {
+            "text": "Sprinkle each with sesame seeds."
+        },
+        {
+            "text": "Add all remaining ingredients including 1 cup of pizza cheese back into the skillet with the ground beef and onions."
+        },
+        {
+            "text": "Cook on low about 5 minutes, mixing well."
+        },
+        {
+            "text": "Divide ground beef mixture evenly into each biscuit."
+        },
+        {
+            "text": "Sprinkle each with remaining pizza cheese blend."
+        },
+        {
+            "text": "Bake at 375 for 15-17 minutes or until biscuits are golden brown and cheese is bubbly."
+        },
+        {
+            "text": "Carefully remove from cookie sheet and serve."
+        }
+    ]
+}

@@ -1,0 +1,97 @@
+{
+    "title": "quick_onion_mushroom_and_goat_cheese_pizza",
+    "id": "a1d106b784",
+    "table": [
+        {
+            "instructions": "preheat the oven to 425 degrees f .",
+            "input": "NA",
+            "actions": "preheat",
+            "output": "NA"
+        },
+        {
+            "instructions": "put the pizza_crust onto a baking sheet .",
+            "input": "pizza_crust",
+            "actions": "put",
+            "output": "pizza_crust"
+        },
+        {
+            "instructions": "spread the onion , relish on the top to make a thin layer .",
+            "input": "(onion_relish; pizza_crust)",
+            "actions": "spread",
+            "output": "onion_relish_spread_on_pizza_crust"
+        },
+        {
+            "instructions": "scatter the tomatoes and mushrooms on top .",
+            "input": "(tomatoes; mushrooms; onion_relish_spread_on_pizza_crust)",
+            "actions": "scatter",
+            "output": "onion_mushroom_pizza"
+        },
+        {
+            "instructions": "add the goat_cheese",
+            "input": "(goat_cheese; onion_mushroom_pizza)",
+            "actions": "add",
+            "output": "goat_cheese_added_to_onion_mushroom_pizza"
+        },
+        {
+            "instructions": "bake for 10 12 minutes or until the pizza is golden and cooked .",
+            "input": "unbaked_pizza",
+            "actions": "bake",
+            "output": "baked_pizza"
+        },
+        {
+            "instructions": "season to taste",
+            "input": "(sesonings; pizza)",
+            "actions": "season",
+            "output": "seasoned_pizza"
+        },
+        {
+            "instructions": "serve with a handful of arugula in the centre .",
+            "input": "(arugula; onion_mushroom_and_goat_cheese_pizza)",
+            "actions": "serve",
+            "output": "onion_mushroom_and_goat_cheese_pizza_served_with_arugula"
+        }
+    ],
+    "ingredients": [
+        {
+            "text": "1 thin pizza crust"
+        },
+        {
+            "text": "2 -3 tablespoons onion relish"
+        },
+        {
+            "text": "2 tomatoes, thinly sliced"
+        },
+        {
+            "text": "2 ounces baby mushrooms, wiped and sliced"
+        },
+        {
+            "text": "4 ounces goat cheese, sliced and broken into chunks"
+        },
+        {
+            "text": "salt & freshly ground black pepper"
+        },
+        {
+            "text": "12 ounce arugula"
+        }
+    ],
+    "recipe": [
+        {
+            "text": "Preheat the oven to 425 degrees F."
+        },
+        {
+            "text": "Put the pizza crust onto a baking sheet."
+        },
+        {
+            "text": "Spread the onion relish on the top to make a thin layer."
+        },
+        {
+            "text": "Scatter the tomatoes and mushrooms on top."
+        },
+        {
+            "text": "Add the goat cheese and bake for 10 -12 minutes or until the pizza is golden and cooked."
+        },
+        {
+            "text": "Season to taste and serve with a handful of arugula in the centre."
+        }
+    ]
+}

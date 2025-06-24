@@ -1,0 +1,145 @@
+{
+    "title": "100_whole_wheat_pizza_crust_recipe",
+    "id": "adae717bf6",
+    "table": [
+        {
+            "instructions": "soak 12 package yeast in 2 tbsp\u00a0hot water with 1 tsp.\u00a0brown sugar or possibly honey.",
+            "input": "(yeast; water; brown sugar)",
+            "action": "soak",
+            "output": "yeast mixture"
+        },
+        {
+            "instructions": "mix together 6 tbsp hot water, 1 Tbsp\u00a0oil, 1/2 tsp.\u00a0salt, and 1/2 c. stirred whole wheat flour.",
+            "input": "(hot water; oil; salt; whole wheat flour)",
+            "action": "mix",
+            "output": "dough"
+        },
+        {
+            "instructions": "add in yeast mix and 1 egg .",
+            "input": "(yeast mixture; dough; egg)",
+            "action": "add",
+            "output": "dough"
+        },
+        {
+            "instructions": "beat well .",
+            "input": "dough",
+            "action": "beat",
+            "output": "beaten dough"
+        },
+        {
+            "instructions": "add in 12 c.\u00a0whole wheat flour",
+            "input": "(additional whole wheat flour; dough)",
+            "action": "add",
+            "output": "dough"
+        },
+        {
+            "instructions": "make soft dough .",
+            "input": "dough",
+            "action": "make",
+            "output": "dough"
+        },
+        {
+            "instructions": "then knead a few min .",
+            "input": "dough",
+            "action": "knead",
+            "output": "kneaded dough"
+        },
+        {
+            "instructions": "spread on desired pizza\u2012pan .",
+            "input": "kneaded dough",
+            "action": "spread",
+            "output": "whole wheat pizza crust"
+        },
+        {
+            "instructions": "add in toppings",
+            "input": "(whole wheat pizza crust; toppings)",
+            "action": "add",
+            "output": "assembled whole wheat pizza"
+        },
+        {
+            "instructions": "bake pizzas at 450 degrees for 15 min ,",
+            "input": "uncooked assembled whole wheat pizza",
+            "action": "bake",
+            "output": "baked whole wheat pizza"
+        },
+        {
+            "instructions": "reduce heat to 375 degrees to bake till crusty .",
+            "input": "baked whole wheat pizza",
+            "action": "reduce",
+            "output": "baked whole wheat pizza"
+        }
+    ],
+    "ingredients": [
+        {
+            "text": "1/2 pkt yeast"
+        },
+        {
+            "text": "2 Tbsp. hot water"
+        },
+        {
+            "text": "1 tsp brown sugar or possibly honey"
+        },
+        {
+            "text": "6 Tbsp. hot water"
+        },
+        {
+            "text": "1 Tbsp. oil"
+        },
+        {
+            "text": "1/2 tsp salt"
+        },
+        {
+            "text": "1/2 c. whole-wheat flour, stirred"
+        },
+        {
+            "text": "1 x egg"
+        },
+        {
+            "text": "1 1/2 c. whole-wheat flour"
+        }
+    ],
+    "recipe": [
+        {
+            "text": "Soak 1/2 package yeast in 2 Tbsp."
+        },
+        {
+            "text": "hot water with 1 tsp."
+        },
+        {
+            "text": "brown sugar or possibly honey."
+        },
+        {
+            "text": "Mix together 6 Tbsp."
+        },
+        {
+            "text": "hot water, 1 Tbsp."
+        },
+        {
+            "text": "oil, 1/2 tsp."
+        },
+        {
+            "text": "salt, and 1/2 c. stirred whole wheat flour."
+        },
+        {
+            "text": "Add in yeast mix and 1 egg."
+        },
+        {
+            "text": "Beat well."
+        },
+        {
+            "text": "Add in 1/2 c. whole wheat flour."
+        },
+        {
+            "text": "Make soft dough."
+        },
+        {
+            "text": "Let rise 1/2 to 1 hour and then knead a few min."
+        },
+        {
+            "text": "Spread on desired pizza pans."
+        },
+        {
+            "text": "Add in toppings and bake pizzas at 450 degrees for 15 min, then reduce heat to 375 degrees to bake till crusty."
+        }
+    ]
+}

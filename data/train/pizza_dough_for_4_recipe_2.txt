@@ -1,0 +1,73 @@
+{
+    "title": "pizza_dough_for_4_recipe_2",
+    "id": "70f228d93a",
+    "table": [
+        {
+            "instructions": "cut butter into flour .",
+            "input": "butter; flour",
+            "action": "cut",
+            "output": "cut_butter into flour"
+        },
+        {
+            "instructions": "dissolve yeast in hot_water with sugar .",
+            "input": "yeast; hot water; sugar",
+            "action": "dissolve",
+            "output": "mixture of yeast, hot water and sugar"
+        },
+        {
+            "instructions": "then add in to flour mix",
+            "input": "mixture of yeast, hot water, sugar and flour; cut_butter into flour",
+            "action": "add",
+            "output": "mixture"
+        },
+        {
+            "instructions": "knead till it reaches an even doughy texture .",
+            "input": "dough",
+            "action": "knead",
+            "output": "kneaded dough"
+        },
+        {
+            "instructions": "when spreading into the pans , use a little bit of veg .",
+            "input": "kneaded dough",
+            "action": "use",
+            "output": "prepared crust"
+        }
+    ],
+    "ingredients": [
+        {
+            "text": "5 c. flour"
+        },
+        {
+            "text": "2 pkg. yeast"
+        },
+        {
+            "text": "1 stick butter"
+        },
+        {
+            "text": "1/4 c. sugar"
+        },
+        {
+            "text": "1 1/2 c. hot water"
+        }
+    ],
+    "recipe": [
+        {
+            "text": "Cut butter into flour."
+        },
+        {
+            "text": "Dissolve yeast in hot water with sugar."
+        },
+        {
+            "text": "Then add in to flour mix and knead till it reaches an even doughy texture."
+        },
+        {
+            "text": "When spreading into the pans, use a little bit of veg."
+        },
+        {
+            "text": "oil to keep dough from sticking."
+        },
+        {
+            "text": "12-inch pizzas."
+        }
+    ]
+}

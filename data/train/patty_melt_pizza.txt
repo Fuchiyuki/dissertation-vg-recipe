@@ -1,0 +1,193 @@
+{
+    "title": "patty_melt_pizza",
+    "id": "593d73c252",
+    "table": [
+        {
+            "instructions": "preheat oven to 40",
+            "input": "NA",
+            "actions": "preheat",
+            "output": "NA"
+        },
+        {
+            "instructions": "place pizza_crust directly on oven rack ;",
+            "input": "pizza_crust",
+            "actions": "place",
+            "output": "pizza_crust"
+        },
+        {
+            "instructions": "bake 7 to 8 minutes or until slightly crisp .",
+            "input": "uncooked pizza_crust",
+            "actions": "bake",
+            "output": "baked pizza_crust"
+        },
+        {
+            "instructions": "preheat large saute pan on medium high heat .",
+            "input": "NA",
+            "actions": "preheat",
+            "output": "NA"
+        },
+        {
+            "instructions": "add ground_beef , pepper and seasoned salt ;",
+            "input": "(ground_beef; pepper; seasoned salt)",
+            "actions": "add",
+            "output": "seasoned ground_beef"
+        },
+        {
+            "instructions": "stir",
+            "input": "seasoned ground_beef",
+            "actions": "stir",
+            "output": "stirred ground_beef mixture"
+        },
+        {
+            "instructions": "cook 5 to 7 minutes or until crumbled and no longer pink .",
+            "input": "uncooked stirred ground_beef mixture",
+            "actions": "cook",
+            "output": "cooked ground_beef mixture"
+        },
+        {
+            "instructions": "stir in steak_sauce ;",
+            "input": "(cooked ground_beef mixture; steak_sauce)",
+            "actions": "stir",
+            "output": "cooked ground_beef mixture with steak sauce"
+        },
+        {
+            "instructions": "remove meat from pan .",
+            "input": "NA",
+            "actions": "remove",
+            "output": "NA"
+        },
+        {
+            "instructions": "place butter in saute pan ,",
+            "input": "butter",
+            "actions": "place",
+            "output": "butter"
+        },
+        {
+            "instructions": "add onions , caraway_seed and worcestershire_sauce .",
+            "input": "(butter; caraway_seed; worcestershire_sauce; onions)",
+            "actions": "add",
+            "output": "onions, caraway_seed and worcestershire_sauce added to melted butter"
+        },
+        {
+            "instructions": "cook 8 to 10 minutes or until soft",
+            "input": "onions, caraway_seed and worcestershire_sauce added to melted butter",
+            "actions": "cook",
+            "output": "cooked onion mixture"
+        },
+        {
+            "instructions": "place pizza_crust on baking sheet .",
+            "input": "pizza_crust",
+            "actions": "place",
+            "output": "pizza_crust"
+        },
+        {
+            "instructions": "combine italian blend , cheese and salad_dressing ;",
+            "input": "(italian blend; cheese; salad_dressing)",
+            "actions": "combine",
+            "output": "cheese and salad_dressing mixture"
+        },
+        {
+            "instructions": "spread over crust .",
+            "input": "(cheese and salad_dressing mixture; pizza_crust)",
+            "actions": "spread",
+            "output": "pizza_crust with cheese and salad_dressing mixture"
+        },
+        {
+            "instructions": "spread meat over cheese ,",
+            "input": "(pizza_crust with cheese and salad_dressing mixture; cooked ground_beef mixture with steak sauce)",
+            "actions": "spread",
+            "output": "pizza_crust with sauce and meat mixture"
+        },
+        {
+            "instructions": "top with cooked onions .",
+            "input": "(pizza_crust with sauce and meat mixture; cooked onion mixture)",
+            "actions": "top",
+            "output": "pizza_crust with sauce, meat mixture and cooked onions"
+        },
+        {
+            "instructions": "top with cheddar_cheese slices",
+            "input": "(pizza_crust with sauce, meat mixture and onions; cheedar_cheese slices)",
+            "actions": "top",
+            "output": "uncooked meat and cheese pizza"
+        },
+        {
+            "instructions": "bake 4 to 5 minutes or until cheese is nicely melted .",
+            "input": "uncooked meat and cheese pizza",
+            "actions": "bake",
+            "output": "cooked meat and cheese pizza"
+        }
+    ],
+    "ingredients": [
+        {
+            "text": "3 medium onions, sliced very thin"
+        },
+        {
+            "text": "12 inches prepared pizza crust"
+        },
+        {
+            "text": "1 lb ground beef"
+        },
+        {
+            "text": "1 teaspoon caraway seed"
+        },
+        {
+            "text": "13 cup italian blend shredded cheese"
+        },
+        {
+            "text": "13 cup thousand island dressing"
+        },
+        {
+            "text": "7 slices sharp cheddar cheese"
+        },
+        {
+            "text": "1 teaspoon seasoned salt"
+        },
+        {
+            "text": "14 teaspoon pepper"
+        },
+        {
+            "text": "13 cup Heinz 57 steak sauce"
+        },
+        {
+            "text": "2 tablespoons butter"
+        },
+        {
+            "text": "1 teaspoon Worcestershire sauce"
+        }
+    ],
+    "recipe": [
+        {
+            "text": "Preheat oven to 400."
+        },
+        {
+            "text": "Place pizza crust directly on oven rack; bake 7 to 8 minutes or until slightly crisp."
+        },
+        {
+            "text": "Preheat large saute pan on medium-high heat."
+        },
+        {
+            "text": "Add ground beef, pepper and seasoned salt; stir and cook 5 to 7 minutes or until crumbled and no longer pink."
+        },
+        {
+            "text": "Stir in steak sauce; remove meat from pan."
+        },
+        {
+            "text": "Place butter in saute pan, then add onions, caraway seeds and Worcestershire sauce."
+        },
+        {
+            "text": "Cook 8 to 10 minutes or until soft and well-browned."
+        },
+        {
+            "text": "Place pizza crust on baking sheet."
+        },
+        {
+            "text": "Combine Italian blend cheese and salad dressing; spread over crust."
+        },
+        {
+            "text": "Spread meat over cheese, then top with cooked onions."
+        },
+        {
+            "text": "Top with Cheddar cheese slices and bake 4 to 5 minutes or until cheese is nicely melted."
+        }
+    ]
+}

@@ -1,0 +1,166 @@
+{
+    "title": "grilled_vegetable_and_prosciutto_whole_wheat_pizza",
+    "id": "a39ffe5177",
+    "table": [
+        {
+            "instructions": "mix red_pepper_puree and bistro_sauce .",
+            "input": "(red_pepper_puree; bistro_sauce)",
+            "actions": "mix",
+            "output": "red pepper and bistro sauce"
+        },
+        {
+            "instructions": "refrigerate until ready to use .",
+            "input": "red pepper and bistro sauce",
+            "actions": "refrigerate",
+            "output": "refrigerated red pepper and bistro sauce"
+        },
+        {
+            "instructions": "cut zucchini slices crosswise in half ;",
+            "input": "zucchini",
+            "actions": "cut",
+            "output": "cut zucchini"
+        },
+        {
+            "instructions": "place in large bowl .",
+            "input": "cut zucchini",
+            "actions": "place",
+            "output": "cut zucchini"
+        },
+        {
+            "instructions": "add remaining grilled vegetables ;",
+            "input": "(cut zucchini; grilled vegetables)",
+            "actions": "add",
+            "output": "zucchini and grilled vegetables mix"
+        },
+        {
+            "instructions": "mix lightly .",
+            "input": "zucchini and grilled vegetables mix",
+            "actions": "mix",
+            "output": "zucchini and grilled vegetables mix"
+        },
+        {
+            "instructions": "cover to keep warm until ready to use .",
+            "input": "zucchini and grilled vegetables mix",
+            "actions": "cover",
+            "output": "covered grilled vegetables mix"
+        },
+        {
+            "instructions": "grill pizza_dough rounds",
+            "input": "pizza dough rounds",
+            "actions": "grill",
+            "output": "grilled pizza crusts"
+        },
+        {
+            "instructions": "for each serving place 1 pizza_crust on sheet pan ;",
+            "input": "pizza crusts",
+            "actions": "place",
+            "output": "pizza crusts"
+        },
+        {
+            "instructions": "spread with 3 tbsp .",
+            "input": "(red pepper and bistro sauce; pizza_crust)",
+            "actions": "spread",
+            "output": "red pepper and bistro sauce spread on pizza crust"
+        },
+        {
+            "instructions": "top with about 23 cup of the grilled vegetables , 4 prosciutto slices and 6 mozzarella slices .",
+            "input": "(pizza crust with sauce; grilled vegetables mix; prosciutto slice; mozzarella slice)",
+            "actions": "top",
+            "output": "pizza base topped with grilled vegetable mix, proscitutto and mozzarella slices"
+        },
+        {
+            "instructions": "bake in 375 degrees f convection oven 5 to 8 min .",
+            "input": "pizza base topped with grilled vegetable mix, proscitutto and mozzarella slices",
+            "actions": "bake",
+            "output": "baked grilled_vegetable_and_prosciutto pizza"
+        }
+    ],
+    "ingredients": [
+        {
+            "text": "3 cups roasted red peppers, pureed"
+        },
+        {
+            "text": "1-1/2 cups GREY POUPON Bistro Sauce"
+        },
+        {
+            "text": "3 qt. zucchini, trimmed, each cut into 4 lengthwise slices, grilled"
+        },
+        {
+            "text": "2 qt. red onions, sliced, grilled"
+        },
+        {
+            "text": "24 each frozen whole wheat pizza dough (9-inch rounds), thawed"
+        },
+        {
+            "text": "96 slices prosciutto, thinly sliced"
+        },
+        {
+            "text": "24 each fresh mozzarella balls (3/4 lb. each), each cut into 6 slices"
+        },
+        {
+            "text": "1-1/2 cups KRAFT Grated Parmesan Cheese"
+        },
+        {
+            "text": "1 cup grated Asiago cheese"
+        },
+        {
+            "text": "1 cup fresh basil, chiffonade"
+        },
+        {
+            "text": "1/2 cup fresh thyme, chopped"
+        },
+        {
+            "text": "1/2 cup fresh Italian parsley, chopped"
+        }
+    ],
+    "recipe": [
+        {
+            "text": "Mix red pepper puree and bistro sauce."
+        },
+        {
+            "text": "Refrigerate until ready to use."
+        },
+        {
+            "text": "Cut zucchini slices crosswise in half; place in large bowl."
+        },
+        {
+            "text": "Add remaining grilled vegetables; mix lightly."
+        },
+        {
+            "text": "Cover to keep warm until ready to use."
+        },
+        {
+            "text": "Grill pizza dough rounds on medium-high heat 2 min."
+        },
+        {
+            "text": "on each side or until lightly browned on both sides."
+        },
+        {
+            "text": "For each serving: Place 1 pizza crust on sheet pan; spread with 3 Tbsp."
+        },
+        {
+            "text": "of the red pepper sauce to within 1/4 inch of edge."
+        },
+        {
+            "text": "Top with about 2/3 cup of the grilled vegetables, 4 prosciutto slices and 6 mozzarella slices."
+        },
+        {
+            "text": "Sprinkle with 1 Tbsp."
+        },
+        {
+            "text": "combined Parmesan and Asiago cheeses."
+        },
+        {
+            "text": "Bake in 375 degrees F-convection oven 5 to 8 min."
+        },
+        {
+            "text": "or until pizza is heated through and cheese is melted."
+        },
+        {
+            "text": "Sprinkle with 1 Tbsp."
+        },
+        {
+            "text": "of the combined herbs."
+        }
+    ]
+}

@@ -1,0 +1,124 @@
+{
+    "title": "lemon_pizza",
+    "id": "6b64878602",
+    "table": [
+        {
+            "instructions": "place a pizza stone on the floor or the lowest rack of your oven .",
+            "input": "NA",
+            "action": "place",
+            "output": "NA"
+        },
+        {
+            "instructions": "preheat the oven to 500 degrees f .",
+            "input": "NA",
+            "action": "preheat",
+            "output": "NA"
+        },
+        {
+            "instructions": "pat the pizza_dough into a 12 inch , diameter circle",
+            "input": "pizza dough",
+            "action": "pat",
+            "output": "pizza crust in a circle"
+        },
+        {
+            "instructions": "place it on a peel .",
+            "input": "pizza crust in a circle",
+            "action": "place",
+            "output": "pizza crust in a circle"
+        },
+        {
+            "instructions": "spread on the heavy_cream , then the mozzarella .",
+            "input": "pizza crust in a circle; heavy cream; mozzarella",
+            "action": "spread",
+            "output": "pizza crust with heavy cream and mozzarella"
+        },
+        {
+            "instructions": "place the ham slices on evenly",
+            "input": "pizza crust with heavy cream and mozzarella; ham slices",
+            "action": "place",
+            "output": "pizza crust with heavy cream, mozzarella and ham slices"
+        },
+        {
+            "instructions": "scatter the onions over the top .",
+            "input": "onion; pizza crust with heavy cream, mozzarella and ham slices",
+            "action": "scatter",
+            "output": "pizza crust with heavy cream, mozzarella, ham slices and onion"
+        },
+        {
+            "instructions": "sprinkle the lemon_juice over everything .",
+            "input": "pizza crust with heavy cream, mozzarella, ham slices and onion; lemon juice",
+            "action": "sprinkle",
+            "output": "pizza crust with heavy cream, mozzarella, ham slices, onion and lemon juice"
+        },
+        {
+            "instructions": "slide onto the stone",
+            "input": "pizza crust with heavy cream, mozzarella, ham slices, onion and lemon juice",
+            "action": "slide",
+            "output": "pizza crust with heavy cream, mozzarella, ham slices, onion and lemon juice"
+        },
+        {
+            "instructions": "bake for 8 to 10 minutes .",
+            "input": "uncooked pizza crust with heavy cream, mozzarella, ham slices, onion and lemon juice",
+            "action": "bake",
+            "output": "baked lemon pizza"
+        },
+        {
+            "instructions": "cover the pizza with the baby_arugula",
+            "input": "baked lemon pizza; baby arugula",
+            "action": "cover",
+            "output": "baked lemon pizza with arugula"
+        }
+    ],
+    "ingredients": [
+        {
+            "text": "7 ounces pizza dough"
+        },
+        {
+            "text": "2 tablespoons heavy cream"
+        },
+        {
+            "text": "3 ounces mozzarella cheese, knots shredded"
+        },
+        {
+            "text": "6 thin slices ham"
+        },
+        {
+            "text": "14 small onion, thinly sliced"
+        },
+        {
+            "text": "2 teaspoons fresh lemon juice"
+        },
+        {
+            "text": "1 cup loosely packed baby arugula"
+        },
+        {
+            "text": "fresh ground black pepper"
+        }
+    ],
+    "recipe": [
+        {
+            "text": "Place a pizza stone on the floor or the lowest rack of your oven."
+        },
+        {
+            "text": "Preheat the oven to 500 degrees F."
+        },
+        {
+            "text": "Pat the pizza dough into a 12-inch diameter circle and place it on a peel."
+        },
+        {
+            "text": "Spread on the heavy cream, then the mozzarella."
+        },
+        {
+            "text": "Place the ham slices on evenly and scatter the onions over the top."
+        },
+        {
+            "text": "Sprinkle the lemon juice over everything."
+        },
+        {
+            "text": "Slide onto the stone and bake for 8 to 10 minutes."
+        },
+        {
+            "text": "Cover the pizza with the baby arugula and grind on some black pepper."
+        }
+    ]
+}

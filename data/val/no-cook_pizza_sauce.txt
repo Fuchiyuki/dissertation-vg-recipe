@@ -1,0 +1,94 @@
+{
+    "title": "no-cook_pizza_sauce",
+    "id": "b7c4646a37",
+    "table": [
+        {
+            "instructions": "mix and semi puree all_ingredient in a food processor for about 20 seconds .",
+            "input": "all_ingredient",
+            "actions": "mix",
+            "output": "all_ingredient_mixed"
+        },
+        {
+            "instructions": "if you 're using fresh_tomato , just slice",
+            "input": "fresh_tomato",
+            "actions": "slice",
+            "output": "sliced_tomato"
+        },
+        {
+            "instructions": "place evenly on top of crust",
+            "input": "sliced_tomato",
+            "actions": "place",
+            "output": "tomato_topped_crust"
+        },
+        {
+            "instructions": "brush them with the olive_oil ,",
+            "input": "(tomato_topped_crust; olive_oil)",
+            "actions": "brush",
+            "output": "brushed_crust_with_olive_oil"
+        },
+        {
+            "instructions": "sprinkle the next 6 ingredients over the tomatoes .",
+            "input": "(next_six_ingredients; tomato_topped_crust)",
+            "actions": "sprinkle",
+            "output": "sprinkled_tomato_crust_with_next_six_ingredients"
+        },
+        {
+            "instructions": "now pile on your favorite toppings",
+            "input": "(toppings; tomato_crust)",
+            "actions": "pile",
+            "output": "toppings_on_pizza"
+        },
+        {
+            "instructions": "bake .",
+            "input": "uncooked pizza",
+            "actions": "bake",
+            "output": "baked_pizza"
+        }
+    ],
+    "ingredients": [
+        {
+            "text": "1 (28 ounce) canwhole peeled Italian tomatoes"
+        },
+        {
+            "text": "2 tablespoons extra virgin olive oil"
+        },
+        {
+            "text": "2 teaspoons chopped garlic"
+        },
+        {
+            "text": "6 leaves fresh basil"
+        },
+        {
+            "text": "6 sprigs flat-leaf Italian parsley, chopped"
+        },
+        {
+            "text": "14 teaspoon crushed red pepper flakes"
+        },
+        {
+            "text": "14 teaspoon dried oregano"
+        },
+        {
+            "text": "14 teaspoon salt (I like Kosher salt)"
+        }
+    ],
+    "recipe": [
+        {
+            "text": "[Skip this step if you're using fresh tomatoes] Mix and semi-puree all ingredients in a food processor for about 20 seconds."
+        },
+        {
+            "text": "'It may seem a little too runny, but trust me--it works!"
+        },
+        {
+            "text": "'-Tom Fitzmorris."
+        },
+        {
+            "text": "If you're using fresh tomatoes, just slice and place evenly on top of crust, brush them with the olive oil, and sprinkle the next 6 ingredients over the tomatoes."
+        },
+        {
+            "text": "Now pile on your favorite toppings and bake."
+        },
+        {
+            "text": "That's it!"
+        }
+    ]
+}

@@ -1,0 +1,106 @@
+{
+    "title": "tomato-cheese_pizza",
+    "id": "06029262b9",
+    "table": [
+        {
+            "instructions": "break apart muffins .",
+            "input": "muffins",
+            "actions": "break",
+            "output": "broken_muffins halves"
+        },
+        {
+            "instructions": "toast until crisp .",
+            "input": "broken_muffins",
+            "actions": "toast",
+            "output": "toasted broken_muffins halves"
+        },
+        {
+            "instructions": "thinly slice tomatoes",
+            "input": "tomatoes",
+            "actions": "slice",
+            "output": "sliced_tomatoes"
+        },
+        {
+            "instructions": "place 1 slice on each muffin half or place a tablespoon of stewed_tomato on each muffin half .",
+            "input": "(sliced_tomatoes; toasted muffin halves; stewed_tomato)",
+            "actions": "place",
+            "output": "tomato slice and stewed tomato_on_muffin_half"
+        },
+        {
+            "instructions": "add 2 anchovy_fillet and a pinch of rosemary .",
+            "input": "(tomato slice and stewed tomato_on_muffin_half; anchovy_fillet; rosemary)",
+            "actions": "add",
+            "output": "anchovy_fillet_and_rosemary added to muffin_half with tomato slice and stewed tomato"
+        },
+        {
+            "instructions": "add another layer of tomato",
+            "input": "(tomato; muffin_half with tomato slice, stewed tomato, anchovy fillet and rosemary)",
+            "actions": "add",
+            "output": "muffin_half with tomato slice, stewed tomato, anchovy fillet and rosemary"
+        },
+        {
+            "instructions": "top with a slice of mozzarella .",
+            "input": "(muffin_half with tomato slice, stewed tomato, anchovy fillet and rosemary; mozzarella)",
+            "actions": "top",
+            "output": "muffin_half with tomato slice, stewed tomato, anchovy fillet and rosemary topped with mozzarella"
+        },
+        {
+            "instructions": "sprinkle with olive_oil , salt and pepper .",
+            "input": "(muffin_half with tomato slice, stewed tomato, anchovy fillet and rosemary topped with mozzarella; olive_oil; salt; pepper)",
+            "actions": "sprinkle",
+            "output": "olive_oil, salt and pepper spread on tomato anchovy muffin pizza"
+        },
+        {
+            "instructions": "place under broiler and broil until mozzarella is melted .",
+            "input": "tomato anchovy muffin pizza",
+            "actions": "place",
+            "output": "tomato anchovy muffin pizza"
+        }
+    ],
+    "ingredients": [
+        {
+            "text": "4 English muffins"
+        },
+        {
+            "text": "2 ripe tomatoes or 34 cup stewed tomatoes, drained"
+        },
+        {
+            "text": "16 anchovy fillets"
+        },
+        {
+            "text": "12 teaspoon rosemary"
+        },
+        {
+            "text": "8 slices mozzarella cheese"
+        },
+        {
+            "text": "olive oil"
+        },
+        {
+            "text": "salt and pepper"
+        }
+    ],
+    "recipe": [
+        {
+            "text": "Break apart muffins."
+        },
+        {
+            "text": "Toast until crisp."
+        },
+        {
+            "text": "Thinly slice tomatoes and place 1 slice on each muffin half or place a tablespoon of stewed tomatoes on each muffin half."
+        },
+        {
+            "text": "Add 2 anchovy fillets and a pinch of rosemary."
+        },
+        {
+            "text": "Add another layer of tomato and top with a slice of mozzarella."
+        },
+        {
+            "text": "Sprinkle with olive oil, salt and pepper."
+        },
+        {
+            "text": "Place under broiler and broil until mozzarella is melted."
+        }
+    ]
+}

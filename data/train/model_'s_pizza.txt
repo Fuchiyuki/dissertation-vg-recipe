@@ -1,0 +1,235 @@
+{
+    "title": "model_'s_pizza",
+    "id": "c67ad1f9d0",
+    "table": [
+        {
+            "instructions": "place the luke_warm_water in a medium sized bowl",
+            "input": "luke_warm_water",
+            "actions": "place",
+            "output": "luke_warm_water"
+        },
+        {
+            "instructions": "sprinkle in the yeast , letting it stand for 5 minutes until foamy .",
+            "input": "(luke_warm_water; yeast)",
+            "actions": "sprinkle",
+            "output": "yeast in luke_warm_water"
+        },
+        {
+            "instructions": "add salt , olive_oil and 12 cup of flour",
+            "input": "(yeast in luke_warm_water; salt; olive oil; flour)",
+            "actions": "add",
+            "output": "(yeast in luke_warm_water with salt; olive oil; flour)"
+        },
+        {
+            "instructions": "beat for several minutes with a wooden spoon .",
+            "input": "(yeast in luke_warm_water with salt; olive oil and flour)",
+            "actions": "beat",
+            "output": "dough"
+        },
+        {
+            "instructions": "add the remaining flour a fourth of a cup at a time , mixing after each addition .",
+            "input": "(dough; flour)",
+            "actions": "add",
+            "output": "dough"
+        },
+        {
+            "instructions": "turn the dough out onto a floured surface",
+            "input": "dough",
+            "actions": "turn",
+            "output": "dough"
+        },
+        {
+            "instructions": "knead for 5 minutes .",
+            "input": "dough",
+            "actions": "knead",
+            "output": "kneaded_dough"
+        },
+        {
+            "instructions": "bake the pizza imminently",
+            "input": "*",
+            "actions": "bake",
+            "output": "*"
+        },
+        {
+            "instructions": "clean",
+            "input": "*",
+            "actions": "clean",
+            "output": "*"
+        },
+        {
+            "instructions": "oil the mixing bowl",
+            "input": "NA",
+            "actions": "oil",
+            "output": "NA"
+        },
+        {
+            "instructions": "put the dough back in .",
+            "input": "dough",
+            "actions": "put",
+            "output": "dough"
+        },
+        {
+            "instructions": "put it in a warm place to rise for 30 45 minutes , or until doubled in bulk .",
+            "input": "dough",
+            "actions": "put",
+            "output": "dough"
+        },
+        {
+            "instructions": "before assembling the pizza , get all the toppings ready",
+            "input": "NA",
+            "actions": "get",
+            "output": "NA"
+        },
+        {
+            "instructions": "oil a 12 inch , pizza\u2012pan .",
+            "input": "NA",
+            "actions": "oil",
+            "output": "NA"
+        },
+        {
+            "instructions": "preheat oven to 500 degrees f . ;",
+            "input": "NA",
+            "actions": "preheat",
+            "output": "NA"
+        },
+        {
+            "instructions": "punch down the risen dough",
+            "input": "risen dough",
+            "actions": "punch",
+            "output": "deflated dough"
+        },
+        {
+            "instructions": "return to the floured surface",
+            "input": "dough",
+            "actions": "return",
+            "output": "dough"
+        },
+        {
+            "instructions": "knead for a few minutes .",
+            "input": "dough",
+            "actions": "knead",
+            "output": "kneaded dough"
+        },
+        {
+            "instructions": "roll out the dough to fit the pan",
+            "input": "kneaded dough",
+            "actions": "roll",
+            "output": "rolled dough"
+        },
+        {
+            "instructions": "press it into place .",
+            "input": "rolled dough",
+            "actions": "press",
+            "output": "pressed dough"
+        },
+        {
+            "instructions": "brush the top surface of the dough with basil , pesto .",
+            "input": "(dough; basil; pesto)",
+            "actions": "brush",
+            "output": "dough_surface_brushed_with basil and pesto"
+        },
+        {
+            "instructions": "add as many toppings as will comfortably fit onto the dough .",
+            "input": "(toppings; pizza crust)",
+            "actions": "add",
+            "output": "pizza_crust with added toppings"
+        },
+        {
+            "instructions": "make sure not to pile it too high or you may find it does n't cook evenly .",
+            "input": "NA",
+            "actions": "make",
+            "output": "NA"
+        },
+        {
+            "instructions": "bake the pizza in the top third of the preheated oven for 15 minutes , or until the crust is golden and the toppings are bubbling .",
+            "input": "uncooked pizza",
+            "actions": "bake",
+            "output": "cooked pizza"
+        }
+    ],
+    "ingredients": [
+        {
+            "text": "1/2 -cup luke-warm water"
+        },
+        {
+            "text": "1 tsp. active, dry baker's yeast"
+        },
+        {
+            "text": "1/4 -tsp. salt"
+        },
+        {
+            "text": "1 -1/4 cup spelt flour"
+        },
+        {
+            "text": "1 Tbs. extra-virgin olive oil (salad or cooking)"
+        },
+        {
+            "text": "basil pesto"
+        },
+        {
+            "text": "goat cheese, hard type"
+        },
+        {
+            "text": "vegan rice cheese"
+        },
+        {
+            "text": "artichokes (globe or French), boiled, drained"
+        },
+        {
+            "text": "broccoli"
+        },
+        {
+            "text": "onions"
+        },
+        {
+            "text": "sun-dried tomatoes"
+        },
+        {
+            "text": "sweet red peppers"
+        }
+    ],
+    "recipe": [
+        {
+            "text": "Place the luke-warm water in a medium sized bowl and sprinkle in the yeast, letting it stand for 5 minutes until foamy."
+        },
+        {
+            "text": "Add salt, olive oil and 1/2-cup of flour and beat for several minutes with a wooden spoon."
+        },
+        {
+            "text": "Add the remaining flour a fourth of a cup at a time, mixing after each addition."
+        },
+        {
+            "text": "The dough will be a bit softer than bread dough, but it shouldn't be sticky."
+        },
+        {
+            "text": "Turn the dough out onto a floured surface and knead for 5 minutes."
+        },
+        {
+            "text": "If you intend to prepare and bake the pizza imminently, clean and oil the mixing bowl and put the dough back in."
+        },
+        {
+            "text": "Put it in a warm place to rise for 30-45 minutes, or until doubled in bulk."
+        },
+        {
+            "text": "Before assembling the pizza, get all the toppings ready and oil a 12 inch pizza pan."
+        },
+        {
+            "text": "Preheat oven to 500 degrees F. Punch down the risen dough, return to the floured surface and knead for a few minutes."
+        },
+        {
+            "text": "Roll out the dough to fit the pan and press it into place."
+        },
+        {
+            "text": "Brush the top surface of the dough with basil pesto."
+        },
+        {
+            "text": "Add as many toppings as will comfortably fit onto the dough."
+        },
+        {
+            "text": "Make sure not to pile it too high or you may find it doesn't cook evenly."
+        },
+        {
+            "text": "Bake the pizza in the top third of the preheated oven for 15 minutes, or until the crust is golden and the toppings are bubbling."
+        }
+    ]
+}

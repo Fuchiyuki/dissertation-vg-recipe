@@ -1,0 +1,214 @@
+{
+    "title": "caramelized_onion_sausage_and_basil_pizza",
+    "id": "314bced81f",
+    "table": [
+        {
+            "instructions": "put an oven rack in the center of the oven .",
+            "input": "NA",
+            "actions": "put",
+            "output": "NA"
+        },
+        {
+            "instructions": "preheat the oven to 475 degrees f .",
+            "input": "NA",
+            "actions": "preheat",
+            "output": "NA"
+        },
+        {
+            "instructions": "sprinkle a heavy baking sheet without sides with cornmeal",
+            "input": "NA",
+            "actions": "sprinkle",
+            "output": "NA"
+        },
+        {
+            "instructions": "set aside .",
+            "input": "NA",
+            "actions": "set",
+            "output": "NA"
+        },
+        {
+            "instructions": "in a large skillet , melt 3 tablespoons of olive_oil and the butter over medium low heat .",
+            "input": "(olive_oil; butter)",
+            "actions": "melt",
+            "output": "olive oil and melted butter mix"
+        },
+        {
+            "instructions": "add the onion_salt and pepper .",
+            "input": "(olive oil and melted butter mix; onion; salt; pepper)",
+            "actions": "add",
+            "output": "onion, salt and pepper in olive oil and melted butter mix"
+        },
+        {
+            "instructions": "cook , stirring occasionally , until golden",
+            "input": "onion, salt and pepper in olive oil and melted butter mix",
+            "actions": "cook",
+            "output": "caramelized onion"
+        },
+        {
+            "instructions": "add the sausage .",
+            "input": "(caramelized onion; sausage)",
+            "actions": "add",
+            "output": "sausage added to cooked onion"
+        },
+        {
+            "instructions": "using a wooden spoon , break up the sausage",
+            "input": "sausage added to cooked onion",
+            "actions": "break",
+            "output": "broken sausage in cooked onion"
+        },
+        {
+            "instructions": "cook , stirring constantly , until cooked through , about 8 minutes .",
+            "input": "broken sausage in cooked onion",
+            "actions": "cook",
+            "output": "cooked onion and sausage mixture"
+        },
+        {
+            "instructions": "set aside to cool slightly .",
+            "input": "cooked onion and sausage mixture",
+            "actions": "set",
+            "output": "cooled cooked onion and sausage mixture"
+        },
+        {
+            "instructions": "on a lightly floured work surface , roll out the dough into a 13 inch , diameter circle , about 14 inch thick .",
+            "input": "dough",
+            "actions": "roll",
+            "output": "rolled dough"
+        },
+        {
+            "instructions": "transfer the dough to the prepared baking sheet",
+            "input": "rolled dough",
+            "actions": "transfer",
+            "output": "rolled dough"
+        },
+        {
+            "instructions": "drizzle with olive_oil .",
+            "input": "(rolled dough; olive_oil)",
+            "actions": "drizzle",
+            "output": "rolled dough drizzled with olive oil"
+        },
+        {
+            "instructions": "spread the onion mixture evenly over the dough , leaving a 1 inch border .",
+            "input": "(onion and sausage mixture; oiled rolled dough)",
+            "actions": "spread",
+            "output": "onion and sausage mixture spread on rolled dough"
+        },
+        {
+            "instructions": "sprinkle the cheese on top .",
+            "input": "(uncooked pizza crust with sausage and onion mixture; cheese )",
+            "actions": "sprinkle",
+            "output": "cheese sprinkled on uncooked pizza crust with sausage and onion mixture"
+        },
+        {
+            "instructions": "bake until the crust is golden and the cheese has melted , about 15 to 17 minutes .",
+            "input": "uncooked caramelized onion and sausage pizza",
+            "actions": "bake",
+            "output": "baked caramelized onion and sausage pizza"
+        },
+        {
+            "instructions": "remove from the oven",
+            "input": "baked caramelized onion and sausage pizza",
+            "actions": "remove",
+            "output": "baked caramelized onion and sausage pizza"
+        },
+        {
+            "instructions": "sprinkle with chopped basil .",
+            "input": "(chopped_basil; baked caramelized onion and sausage pizza)",
+            "actions": "sprinkle",
+            "output": "chopped_basil sprinkled on baked caramelized onion and sausage pizza"
+        },
+        {
+            "instructions": "cut the pizza into wedges",
+            "input": "caramelized_onion_sausage_and_basil_pizza",
+            "actions": "cut",
+            "output": "cut caramelized_onion_sausage_and_basil_pizza"
+        },
+        {
+            "instructions": "serve .",
+            "input": "cut caramelized_onion_sausage_and_basil_pizza",
+            "actions": "serve",
+            "output": "cut caramelized_onion_sausage_and_basil_pizza"
+        }
+    ],
+    "ingredients": [
+        {
+            "text": "Cornmeal, for dusting"
+        },
+        {
+            "text": "3 tablespoons extra-virgin olive oil, plus extra for drizzling"
+        },
+        {
+            "text": "1 tablespoon unsalted butter, at room temperature"
+        },
+        {
+            "text": "2 onions (about 1 1/2 pounds), thinly sliced"
+        },
+        {
+            "text": "1/4 teaspoon kosher salt"
+        },
+        {
+            "text": "1/4 teaspoon freshly ground black pepper"
+        },
+        {
+            "text": "1 pound spicy turkey or pork sausage, casings removed, crumbled"
+        },
+        {
+            "text": "All-purpose flour, for dusting"
+        },
+        {
+            "text": "1 (13 to 16-ounce) ball pizza dough"
+        },
+        {
+            "text": "3/4 cup (3 ounces) crumbled Gorgonzola or blue cheese"
+        },
+        {
+            "text": "1/4 cup chopped fresh basil leaves"
+        }
+    ],
+    "recipe": [
+        {
+            "text": "Put an oven rack in the center of the oven."
+        },
+        {
+            "text": "Preheat the oven to 475 degrees F. Sprinkle a heavy baking sheet (without sides) with cornmeal and set aside."
+        },
+        {
+            "text": "In a large skillet, melt 3 tablespoons of olive oil and the butter over medium-low heat."
+        },
+        {
+            "text": "Add the onions, salt and pepper."
+        },
+        {
+            "text": "Cook, stirring occasionally, until golden and caramelized, about 20 minutes."
+        },
+        {
+            "text": "Increase the heat to medium-high and add the sausage."
+        },
+        {
+            "text": "Using a wooden spoon, break up the sausage and cook, stirring constantly, until cooked through, about 8 minutes."
+        },
+        {
+            "text": "Set aside to cool slightly."
+        },
+        {
+            "text": "On a lightly floured work surface, roll out the dough into a 13-inch diameter circle, about 1/4-inch thick."
+        },
+        {
+            "text": "Transfer the dough to the prepared baking sheet and drizzle with olive oil."
+        },
+        {
+            "text": "Spread the onion mixture evenly over the dough, leaving a 1-inch border."
+        },
+        {
+            "text": "Sprinkle the cheese on top."
+        },
+        {
+            "text": "Bake until the crust is golden and the cheese has melted, about 15 to 17 minutes."
+        },
+        {
+            "text": "Remove from the oven and sprinkle with chopped basil."
+        },
+        {
+            "text": "Cut the pizza into wedges and serve."
+        }
+    ]
+}

@@ -1,0 +1,139 @@
+{
+    "title": "meat_lovers_pizza_spaghetti",
+    "id": "d34597422c",
+    "table": [
+        {
+            "instructions": "in a large heavy skillet , heat the oil over medium high heat until hot ,",
+            "input": "oil",
+            "action": "heat",
+            "output": "heated_oil"
+        },
+        {
+            "instructions": "stir in the sausage , breaking it up with a spatula ,",
+            "input": "(heated_oil; sausage)",
+            "action": "stir",
+            "output": "crumbled sausage in heated oil"
+        },
+        {
+            "instructions": "cook , until golden , about 6 minutes .",
+            "input": "crumbled sausage in heated oil",
+            "action": "cook",
+            "output": "cooked sausage"
+        },
+        {
+            "instructions": "stir in the garlic and onion",
+            "input": "(cooked sausage; garlic; onion)",
+            "action": "stir",
+            "output": "garlic and onion stirred into cooked sausage"
+        },
+        {
+            "instructions": "cook until the vegetables are pale golden , about 5 minutes .",
+            "input": "garlic and onion stirred into cooked sausage",
+            "action": "cook",
+            "output": "cooked garlic, onion and crumbled sausage mixture"
+        },
+        {
+            "instructions": "stir in the tomatoes with their juice and 12 teaspoon each salt and pepper .",
+            "input": "(cooked garlic, onion and crumbled sausage mixture; tomatoes; tomato juice; salt; pepper)",
+            "action": "stir",
+            "output": "tomato and theri juice, salt and pepper stirred into cooked garlic, onion and crumbled sausage mixture"
+        },
+        {
+            "instructions": "cook , stirring occasionally , until the sauce is slightly thickened , about 15 minutes .",
+            "input": "tomato and theri juice, salt and pepper stirred into cooked garlic, onion and crumbled sausage mixture",
+            "action": "cook",
+            "output": "cooked sausage and tomato sauce"
+        },
+        {
+            "instructions": "stir in the pepperoni",
+            "input": "(cooked sausage and tomato sauce; pepperoni)",
+            "action": "stir",
+            "output": "pepperoni stirred into cooked sausage and tomato sauce"
+        },
+        {
+            "instructions": "season the sauce with salt and pepper to taste .",
+            "input": "(salt; pepper)",
+            "action": "season",
+            "output": "seasoned cooked sausage, pepperoni and tomato sauce"
+        },
+        {
+            "instructions": "in a large pot of boiling salted water , cook the spaghetti until al dente ,",
+            "input": "(boiling salted water; spaghetti)",
+            "action": "cook",
+            "output": "cooked spaghetti al dente in boiling water"
+        },
+        {
+            "instructions": "drain .",
+            "input": "cooked spaghetti al dente in boiling water",
+            "action": "drain",
+            "output": "drained cooked spaghetti al dente"
+        },
+        {
+            "instructions": "toss the pasta with the sauce",
+            "input": "(drained cooked spaghetti al dente; seasoned cooked sausage, pepperoni and tomato sauce)",
+            "action": "toss",
+            "output": "cooked spaghetti tossed into seasoned cooked sausage, pepperoni and tomato sauce"
+        },
+        {
+            "instructions": "serve topped with the cheese .",
+            "input": "(cheese; spaghetti with meat pizza sauce)",
+            "action": "serve",
+            "output": "spaghetti with meat pizza sauce topped with cheese"
+        }
+    ],
+    "ingredients": [
+        {
+            "text": "1 tablespoon extra-virgin olive oil"
+        },
+        {
+            "text": "1 pound sausage meat"
+        },
+        {
+            "text": "2 garlic cloves, finely chopped"
+        },
+        {
+            "text": "1 medium onion, chopped"
+        },
+        {
+            "text": "1 (32 ounce) can whole tomatoes in juice"
+        },
+        {
+            "text": "Kosher salt"
+        },
+        {
+            "text": "Freshly ground black pepper"
+        },
+        {
+            "text": "1/2 cup sliced pepperoni"
+        },
+        {
+            "text": "1 pound dried spaghetti"
+        },
+        {
+            "text": "1 cup shredded mozzarella cheese"
+        }
+    ],
+    "recipe": [
+        {
+            "text": "In a large heavy skillet, heat the oil over medium high heat until hot, then stir in the sausage, breaking it up with a spatula, and cook, until golden, about 6 minutes."
+        },
+        {
+            "text": "Stir in the garlic and onion and cook until the vegetables are pale golden, about 5 minutes."
+        },
+        {
+            "text": "Stir in the tomatoes with their juice and 1/2 teaspoon each salt and pepper."
+        },
+        {
+            "text": "Cook, stirring occasionally, until the sauce is slightly thickened, about 15 minutes."
+        },
+        {
+            "text": "Stir in the pepperoni and season the sauce with salt and pepper to taste."
+        },
+        {
+            "text": "In a large pot of boiling salted water, cook the spaghetti until al dente, then drain."
+        },
+        {
+            "text": "Toss the pasta with the sauce and serve topped with the cheese."
+        }
+    ]
+}

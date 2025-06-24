@@ -1,0 +1,247 @@
+{
+    "title": "spring_fruit_cookie_pizza",
+    "id": "77566ba215",
+    "table": [
+        {
+            "instructions": "in a large bowl , mix whole_wheat_flour , almond_flour , sugar , salt and baking_powder .",
+            "input": "(whole_wheat_flour; almond_flour; sugar; salt; baking_powder)",
+            "action": "mix",
+            "output": "flour mixture"
+        },
+        {
+            "instructions": "using a pastry blender , cut butter into flour mixture until it is broken down into small pieces .",
+            "input": "(butter;flour mixture)",
+            "action": "cut",
+            "output": "combined_flour and_butter"
+        },
+        {
+            "instructions": "add almond_extract",
+            "input": "(combined_flour and_butter; almond extract)",
+            "action": "add",
+            "output": "almond extract added to combined_flour and_butter"
+        },
+        {
+            "instructions": "mix with a fork until dispersed .",
+            "input": "almond extract added to combined_flour and_butter",
+            "action": "mix",
+            "output": "cookie dough"
+        },
+        {
+            "instructions": "add just enough cold_water to form into a dough ball",
+            "input": "(cold water; cookie dough)",
+            "action": "add",
+            "output": "cold water added to cookie dough"
+        },
+        {
+            "instructions": "\u00a0if too watery, add more flour to stiffen up again .",
+            "input": "(cookie dough ball; optional flour)",
+            "action": "add",
+            "output": "optional flour added to cookie dough ball"
+        },
+        {
+            "instructions": "wrap in plastic wrap",
+            "input": "stiffened_dough_ball",
+            "action": "wrap",
+            "output": "wrapped stiffened_dough_ball"
+        },
+        {
+            "instructions": "refrigerate for 30 minutes .",
+            "input": "wrapped stiffened_dough_ball",
+            "action": "refrigerate",
+            "output": "refrigerated wrapped stiffened_dough_ball"
+        },
+        {
+            "instructions": "preheat oven to 350 f . ;",
+            "input": "NA",
+            "action": "preheat",
+            "output": "NA"
+        },
+        {
+            "instructions": "place cookie dough on a floured surface",
+            "input": "cookie_dough",
+            "action": "place",
+            "output": "cookie_dough"
+        },
+        {
+            "instructions": "add just enough flour so the cookie is not sticky and can be handled easily .",
+            "input": "(cookie_dough; flour)",
+            "action": "add",
+            "output": "floured_cookie_dough"
+        },
+        {
+            "instructions": "place cookie dough on a standard size pizza stone or pan pizza stone makes a nice crispy cookie bottom .",
+            "input": "floured_cookie_dough",
+            "action": "place",
+            "output": "floured_cookie_dough"
+        },
+        {
+            "instructions": "spread dough into a pizza shape with your hands ,\u00a0",
+            "input": "floured_cookie_dough",
+            "action": "spread",
+            "output": "spread_cookie_dough"
+        },
+        {
+            "instructions": "staying 2 3 inches away from the edge of the pan cookie will get much larger .",
+            "input": "spread_cookie_dough",
+            "action": "get",
+            "output": "spread_cookie_dough"
+        },
+        {
+            "instructions": "bake for 25 to 30 minutes until golden brown and cookie is set .",
+            "input": "spread_cookie_dough",
+            "action": "bake",
+            "output": "baked_cookie"
+        },
+        {
+            "instructions": "remove from oven .",
+            "input": "baked_cookie",
+            "action": "remove",
+            "output": "baked_cookie"
+        },
+        {
+            "instructions": "place cream_cheese , honey , vanilla , and milk in a small food processor",
+            "input": "(cream_cheese; honey; vanilla; milk)",
+            "action": "place",
+            "output": "(cream_cheese; honey; vanilla; milk)"
+        },
+        {
+            "instructions": "blend until smooth and creamy .",
+            "input": "(cream_cheese; honey; vanilla; milk)",
+            "action": "blend",
+            "output": "blended cream_cheese icing"
+        },
+        {
+            "instructions": "when cookie is cool , spread with cream_cheese , icing .",
+            "input": "(blended cream_cheese icing; cookie)",
+            "action": "spread",
+            "output": "cream_cheese_icing cookie"
+        },
+        {
+            "instructions": "top with sliced fruit in a fun pattern .",
+            "input": "(cream_cheese_icing cookie; fruit)",
+            "action": "top",
+            "output": "cookie with blended cream_cheese icing topped with fruit"
+        },
+        {
+            "instructions": "sprinkle with hemp_seed",
+            "input": "(topped_cookie; hemp_seed)",
+            "action": "sprinkle",
+            "output": "hemp seeds sprinkled_ on fruit cookie"
+        },
+        {
+            "instructions": "drizzle with honey .",
+            "input": "(fruit cookie; honey)",
+            "action": "drizzle",
+            "output": "honey drizzled on fruit cookie"
+        },
+        {
+            "instructions": "cut into slices",
+            "input": "fruit cookie",
+            "action": "cut",
+            "output": "sliced_fruit cookie"
+        }
+    ],
+    "ingredients": [
+        {
+            "text": "3/4 cups Whole Wheat Pastry Flour"
+        },
+        {
+            "text": "1/2 cups Blanched Almond Flour"
+        },
+        {
+            "text": "1/2 cups Organic Sugar"
+        },
+        {
+            "text": "1 pinch Salt"
+        },
+        {
+            "text": "1/4 teaspoons Baking Powder"
+        },
+        {
+            "text": "1/2 cups Organic Grass Fed Butter, Cut Into Smaller Slices"
+        },
+        {
+            "text": "1/2 teaspoons Almond Extract"
+        },
+        {
+            "text": "2 Tablespoons Cold Water, Approx"
+        },
+        {
+            "text": "6 Tablespoons Greek Style Cream Cheese"
+        },
+        {
+            "text": "2 Tablespoons Raw Honey"
+        },
+        {
+            "text": "1 teaspoon Vanilla Extract"
+        },
+        {
+            "text": "2 teaspoons Organic Milk Or Water"
+        },
+        {
+            "text": "3 whole Honey Mangoes, Peeled, Pitted And Sliced"
+        },
+        {
+            "text": "3 whole Kiwi, Peeled And Sliced"
+        },
+        {
+            "text": "3 whole Strawberries, Hulled And Sliced"
+        },
+        {
+            "text": "1 Tablespoon Hemp Seeds"
+        },
+        {
+            "text": "1 Tablespoon Raw Honey, For Drizzling"
+        }
+    ],
+    "recipe": [
+        {
+            "text": "In a large bowl, mix whole wheat flour, almond flour, sugar, salt and baking powder."
+        },
+        {
+            "text": "Using a pastry blender, cut butter into flour mixture until it is broken down into small pieces."
+        },
+        {
+            "text": "Add almond extract and mix with a fork until dispersed."
+        },
+        {
+            "text": "Add just enough cold water to form into a dough ball (if too watery, add more flour to stiffen up again)."
+        },
+        {
+            "text": "Wrap in plastic wrap and refrigerate for 30 minutes."
+        },
+        {
+            "text": "Preheat oven to 350 F. Place cookie dough on a floured surface and add just enough flour so the cookie is not sticky and can be handled easily."
+        },
+        {
+            "text": "Place cookie dough on a standard size pizza stone or pan (pizza stone makes a nice crispy cookie bottom)."
+        },
+        {
+            "text": "Spread dough into a pizza shape with your hands, staying 2-3 inches away from the edge of the pan (cookie will get much larger)."
+        },
+        {
+            "text": "Bake for 25 to 30 minutes until golden brown and cookie is set."
+        },
+        {
+            "text": "Remove from oven."
+        },
+        {
+            "text": "Let it cool completely."
+        },
+        {
+            "text": "Place cream cheese, honey, vanilla, and milk in a small food processor and blend until smooth and creamy."
+        },
+        {
+            "text": "When cookie is cool, spread with cream cheese icing."
+        },
+        {
+            "text": "Top with sliced fruit in a fun pattern."
+        },
+        {
+            "text": "Sprinkle with hemp seeds and drizzle with honey."
+        },
+        {
+            "text": "Cut into slices and enjoy!"
+        }
+    ]
+}

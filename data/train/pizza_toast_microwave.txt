@@ -1,0 +1,55 @@
+{
+    "title": "pizza_toast_microwave",
+    "id": "c11750789f",
+    "table": [
+        {
+            "instructions": "place your desired favorite pizza_topping on top .",
+            "input": "pizza_topping",
+            "action": "place",
+            "output": "pizza_topping"
+        },
+        {
+            "instructions": "place the bread_slice on a large microwave safe plate",
+            "input": "bread_slice",
+            "action": "place",
+            "output": "bread_slice"
+        },
+        {
+            "instructions": "microwave for about 20 30 seconds careful not to overheat your pizza toast , as your cheese will overheat and there will be a mess !",
+            "input": "pizza toast",
+            "action": "microwave",
+            "output": "microwaved pizza_toast"
+        }
+    ],
+    "ingredients": [
+        {
+            "text": "2 slices bread (well toasted)"
+        },
+        {
+            "text": "2 slices processed cheese"
+        },
+        {
+            "text": "14 cup green bell pepper, diced"
+        },
+        {
+            "text": "sliced tomatoes"
+        }
+    ],
+    "recipe": [
+        {
+            "text": "After you have toasted your bread, quickly apply the sliced cheese on top."
+        },
+        {
+            "text": "Place your desired favorite pizza toppings on top."
+        },
+        {
+            "text": "Place the bread slices on a large microwave-safe plate and microwave for about 20-30 seconds (careful not to overheat your pizza toast, as your cheese will overheat and there will be a mess!"
+        },
+        {
+            "text": ")."
+        },
+        {
+            "text": "Delicious!"
+        }
+    ]
+}

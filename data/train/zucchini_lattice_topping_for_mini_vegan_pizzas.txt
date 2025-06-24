@@ -1,0 +1,154 @@
+{
+    "title": "zucchini_lattice_topping_for_mini_vegan_pizzas",
+    "id": "b145e311b5",
+    "table": [
+        {
+            "instructions": "preheat oven to 500f .",
+            "input": "NA",
+            "actions": "preheat",
+            "output": "NA"
+        },
+        {
+            "instructions": "scrub zucchini",
+            "input": "zucchini",
+            "actions": "scrub",
+            "output": "scrubbed_zucchini"
+        },
+        {
+            "instructions": "do not peel .",
+            "input": "scrubbed_zucchini",
+            "actions": "peel",
+            "output": "unpeeled_zucchini"
+        },
+        {
+            "instructions": "slice zucchini very thinly lengthwise .",
+            "input": "unpeeled_zucchini",
+            "actions": "slice",
+            "output": "sliced_zucchini"
+        },
+        {
+            "instructions": "place slices in a single layer in a colander",
+            "input": "sliced_zucchini",
+            "actions": "place",
+            "output": "sliced_zucchini"
+        },
+        {
+            "instructions": "sprinkle with salt .",
+            "input": "sliced_zucchini",
+            "actions": "sprinkle",
+            "output": "salted_zucchini"
+        },
+        {
+            "instructions": "set aside for zucchini to sweat some of its moisture",
+            "input": "salted_zucchini",
+            "actions": "set",
+            "output": "salted_zucchini"
+        },
+        {
+            "instructions": "drain for about 30 minutes .",
+            "input": "salted_zucchini",
+            "actions": "drain",
+            "output": "drained_zucchini"
+        },
+        {
+            "instructions": "meanwhile , mash garlic with pinch of salt .",
+            "input": "(garlic; salt)",
+            "actions": "mash",
+            "output": "mashed_garlic"
+        },
+        {
+            "instructions": "transfer to small bowl",
+            "input": "mashed_garlic",
+            "actions": "transfer",
+            "output": "mashed_garlic"
+        },
+        {
+            "instructions": "stir in olive_oil .",
+            "input": "mashed_garlic",
+            "actions": "stir",
+            "output": "garlic_oil"
+        },
+        {
+            "instructions": "spoon out half of the garlic_oil",
+            "input": "garlic_oil",
+            "actions": "spoon",
+            "output": "spooned_garlic_oil"
+        },
+        {
+            "instructions": "spread over surface of one mini pizza_crust .",
+            "input": "(garlic_oil; pizza_crust)",
+            "actions": "spread",
+            "output": "garlic_oil_spread_on_pizza_crust"
+        },
+        {
+            "instructions": "pat zucchini dry with a towel ,",
+            "input": "drained_zucchini",
+            "actions": "pat",
+            "output": "patted_dry_zucchini"
+        },
+        {
+            "instructions": "sprinkle with oregano and a drizzle of olive_oil .",
+            "input": "(patted_dry_zucchini; oregano; olive_oil)",
+            "actions": "sprinkle",
+            "output": "seasoned_zucchini_pizza"
+        },
+        {
+            "instructions": "bake for 7 to 8 minutes , until pizza_crust is golden",
+            "input": "seasoned_zucchini_pizza",
+            "actions": "bake",
+            "output": "baked_zucchini_pizza"
+        }
+    ],
+    "ingredients": [
+        {
+            "text": "1 medium zucchini"
+        },
+        {
+            "text": "2 pinches kosher salt"
+        },
+        {
+            "text": "1 large garlic clove"
+        },
+        {
+            "text": "2 teaspoons extra virgin olive oil, plus extra for topping"
+        },
+        {
+            "text": "1 pinch fresh oregano or 1 pinch dried oregano"
+        }
+    ],
+    "recipe": [
+        {
+            "text": "Preheat oven to 500F."
+        },
+        {
+            "text": "Scrub zucchini but do not peel."
+        },
+        {
+            "text": "Slice zucchini very thinly lengthwise.Place slices in a single layer in a colander and sprinkle with salt."
+        },
+        {
+            "text": "Set aside for zucchini to sweat some of its moisture and drain for about 30 minutes."
+        },
+        {
+            "text": "Meanwhile, mash garlic with pinch of salt."
+        },
+        {
+            "text": "Transfer to small bowl and stir in olive oil."
+        },
+        {
+            "text": "Spoon out half of the garlic oil and spread over surface of one mini pizza crust."
+        },
+        {
+            "text": "Pat zucchini dry with a towel, then weave a lattice pattern on top of the garlic oil, trimming ends as needed to fit."
+        },
+        {
+            "text": "Sprinkle with oregano and a drizzle of olive oil."
+        },
+        {
+            "text": "Repeat for second pizza."
+        },
+        {
+            "text": "Bake for 7 to 8 minutes, until pizza crust is golden and toppings are piping hot."
+        }
+    ]
+}

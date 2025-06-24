@@ -1,0 +1,106 @@
+{
+    "title": "sundried_tomato_basil_pizza",
+    "id": "581de0bf3a",
+    "table": [
+        {
+            "instructions": "preheat oven to 400 degrees f .",
+            "input": "NA",
+            "action": "preheat",
+            "output": "NA"
+        },
+        {
+            "instructions": "bake pizza_crust for 6 8 minutes .",
+            "input": "pizza_crust",
+            "action": "bake",
+            "output": "baked_pizza_crust"
+        },
+        {
+            "instructions": "spread pizza_sauce over crust .",
+            "input": "(Pizza sauce; baked_pizza_crust)",
+            "action": "spread",
+            "output": "pizza sauce spread over crust"
+        },
+        {
+            "instructions": "add sundried tomatoes and red onion evenly on top of pizza_sauce .",
+            "input": "(sundried tomatoes, red onion; baked pizza crust with pizza sauce)",
+            "action": "add",
+            "output": "sundried tomatoes and red onion added on top of baked pizza crust with pizza sauce"
+        },
+        {
+            "instructions": "chop basil by stacking leaves together and rolling into a cylinder shape , then cutting small strips .",
+            "input": "basil",
+            "action": "chop",
+            "output": "Chopped basil"
+        },
+        {
+            "instructions": "add to pizza , arranging evenly .",
+            "input": "(Chopped basil; pizza crust with pizza sauce, sundried tomatoes and red onion)",
+            "action": "add",
+            "output": "Chopped basil added to pizza crust with pizza sauce, sundried tomatoes and red onion"
+        },
+        {
+            "instructions": "crumble goat_cheese over onion , tomatoes and basil ,",
+            "input": "(Goat cheese; pizza crust with pizza sauce, sundried tomatoes, chopped basil and red onion)",
+            "action": "crumble",
+            "output": "Crumbled goat cheese over pizza crust with pizza sauce, sundried tomatoes, chopped basil and red onion"
+        },
+        {
+            "instructions": "top with mozzarella_cheese .",
+            "input": "(Mozzarella cheese; pizza crust with pizza sauce, sundried tomatoes, chopped basil, crumbled goat cheese and red onion)",
+            "action": "top",
+            "output": "pizza crust with pizza sauce, sundried tomatoes, chopped basil, crumbled goat cheese and red onion topped with mozzarella cheese"
+        },
+        {
+            "instructions": "bake for an additional 6 8 minutes , until cheese is melted and crust is brown .",
+            "input": "Uncooked sundried_tomato_basil_pizza",
+            "action": "bake",
+            "output": "Baked sundried_tomato_basil_pizza"
+        }
+    ],
+    "ingredients": [
+        {
+            "text": "1 whole 10\" Pizza Crust"
+        },
+        {
+            "text": "13 cups Pizza Sauce (See The Related Blog Post, Or My TK Recipe Box)"
+        },
+        {
+            "text": "1/4 cups Sundried Tomatoes, Chopped In 1/2\" Pieces"
+        },
+        {
+            "text": "18 cups Red Onions, Chopped In Small Pieces"
+        },
+        {
+            "text": "18 cups Fresh Basil"
+        },
+        {
+            "text": "1/4 cups Goat Cheese"
+        },
+        {
+            "text": "1/4 cups Mozzarella Cheese, Shredded"
+        }
+    ],
+    "recipe": [
+        {
+            "text": "Preheat oven to 400 degrees F. Bake pizza crust for 6-8 minutes."
+        },
+        {
+            "text": "Spread pizza sauce over crust."
+        },
+        {
+            "text": "Add sundried tomatoes and red onion evenly on top of pizza sauce."
+        },
+        {
+            "text": "Chop basil by stacking leaves together and rolling into a cylinder shape, then cutting small strips."
+        },
+        {
+            "text": "Add to pizza, arranging evenly."
+        },
+        {
+            "text": "Crumble goat cheese over onion, tomatoes and basil, then top with mozzarella cheese."
+        },
+        {
+            "text": "Bake for an additional 6-8 minutes, until cheese is melted and crust is brown."
+        }
+    ]
+}

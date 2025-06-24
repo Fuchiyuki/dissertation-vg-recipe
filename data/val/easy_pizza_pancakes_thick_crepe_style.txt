@@ -1,0 +1,139 @@
+{
+    "title": "easy_pizza_pancakes_thick_crepe_style",
+    "id": "8a300eb80d",
+    "table": [
+        {
+            "instructions": "make a well in the centre",
+            "input": "flour mixture",
+            "actions": "make",
+            "output": "flour mixture"
+        },
+        {
+            "instructions": "add the beaten_egg and half of the milk or all of the milk if using half water whisk until no lumps remain",
+            "input": "(flour mixture; beaten_egg; milk)",
+            "actions": "add",
+            "output": "beaten egg and milk added to flour mixture"
+        },
+        {
+            "instructions": "stir in the rest of the milk or water if using .",
+            "input": "(milk; beaten egg and milk added to flour mixture)",
+            "actions": "stir",
+            "output": "milk stirred in batter"
+        },
+        {
+            "instructions": "if the mixture is too thick , add a little more liquid .",
+            "input": "NA",
+            "actions": "add",
+            "output": "NA"
+        },
+        {
+            "instructions": "pour into a jug or have a ladle to hand .",
+            "input": "batter",
+            "actions": "pour",
+            "output": "poured batter"
+        },
+        {
+            "instructions": "prepare your toppings so that you 're ready to go .",
+            "input": "toppings",
+            "actions": "prepare",
+            "output": "prepared toppings"
+        },
+        {
+            "instructions": "heat a large frying pan over a medium heat",
+            "input": "NA",
+            "actions": "heat",
+            "output": "NA"
+        },
+        {
+            "instructions": "if you are brave or in a hurry then you could use 2 or 3 frying pans at once !",
+            "input": "NA",
+            "actions": "use",
+            "output": "NA"
+        },
+        {
+            "instructions": "return to the heat",
+            "input": "batter",
+            "actions": "return",
+            "output": "cooking pancake"
+        },
+        {
+            "instructions": "put a lid on or cover the pan .",
+            "input": "cooking pancake",
+            "actions": "put",
+            "output": "cooking pancake"
+        },
+        {
+            "instructions": "serve immediatly",
+            "input": "pizza_pancakes",
+            "actions": "serve",
+            "output": "served pizza_pancakes"
+        }
+    ],
+    "ingredients": [
+        {
+            "text": "4 ounces plain flour (all purpose)"
+        },
+        {
+            "text": "14 teaspoon salt"
+        },
+        {
+            "text": "1 egg, beaten"
+        },
+        {
+            "text": "200 ml milk (can use half milk half water)"
+        },
+        {
+            "text": "cooking spray, for frying"
+        },
+        {
+            "text": "1 (14 ounce) jarof good quality thick tomato sauce for pizza pasta (any size really, just use your favourite, I like tesco's finest chunky passata)"
+        },
+        {
+            "text": "200 g grated cheese"
+        },
+        {
+            "text": "1 tablespoon oregano (approx)"
+        },
+        {
+            "text": "1 tablespoon black pepper (approx)"
+        }
+    ],
+    "recipe": [
+        {
+            "text": "Sift the flour into a bowl with the salt, make a well in the centre and add the beaten egg and half of the milk (or all of the milk if using half water) Whisk until no lumps remain then stir in the rest of the milk (or water if using)."
+        },
+        {
+            "text": "If the mixture is too thick, add a little more liquid."
+        },
+        {
+            "text": "Pour into a jug or have a ladle to hand."
+        },
+        {
+            "text": "Prepare your toppings so that you're ready to go."
+        },
+        {
+            "text": "Heat a large frying pan over a medium heat and spray a little oil over the base, your frying pan must have a lid, if not, substitute foil or another lid."
+        },
+        {
+            "text": "If you are brave or in a hurry then you could use 2 or 3 frying pans at once!"
+        },
+        {
+            "text": "Once hot and working quickly, pour enough pancake batter over the base to cover, swirling round as you go (you want them thicker than thin crepes but thinner than american pancakes)."
+        },
+        {
+            "text": "When the underside is cooked and browned (you can check this by lifting up one of the sides) remove from the heat, flip over and assemble your pizza with the tomato sauce and cheese, sprinkling over black pepper and oregano as you go."
+        },
+        {
+            "text": "The first pancake sometimes sticks but it helps to 'season' the pan so don't worry if this happens."
+        },
+        {
+            "text": "Return to the heat and put a lid on or cover the pan."
+        },
+        {
+            "text": "In a couple of minutes, the pancake will have cooked and the cheese should have melted."
+        },
+        {
+            "text": "Serve immediatly, 1 is never enough so be prepared to allow someone else to stand over the pan once you get tired!"
+        }
+    ]
+}

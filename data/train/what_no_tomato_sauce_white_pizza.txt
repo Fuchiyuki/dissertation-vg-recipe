@@ -1,0 +1,145 @@
+{
+    "title": "what_no_tomato_sauce_white_pizza",
+    "id": "4778e98e92",
+    "table": [
+        {
+            "instructions": "preheat oven to 475 degrees .",
+            "input": "NA",
+            "actions": "preheat",
+            "output": "NA"
+        },
+        {
+            "instructions": "prepare dough as required .",
+            "input": "dough",
+            "actions": "prepare",
+            "output": "prepared_dough"
+        },
+        {
+            "instructions": "roll out to fit pizza\u2012pan or peel .",
+            "input": "prepared_dough",
+            "actions": "roll",
+            "output": "rolled_dough"
+        },
+        {
+            "instructions": "if using a pizza\u2012pan , lightly coat with oil",
+            "input": "rolled_dough",
+            "actions": "coat",
+            "output": "rolled_dough"
+        },
+        {
+            "instructions": "lightly sprinkle with cornmeal .",
+            "input": "(rolled_dough; cornmeal)",
+            "actions": "sprinkle",
+            "output": "cornmeal sprinkled on rolled_dough"
+        },
+        {
+            "instructions": "rub dough with 2 tablespoons of olive_oil .",
+            "input": "sprinkled_dough_with_cornmeal",
+            "actions": "rub",
+            "output": "oiled pizza crust"
+        },
+        {
+            "instructions": "top dough with provolone and mozzarella_cheese .",
+            "input": "(oiled pizza crust; provolone; mozzarella_cheese)",
+            "actions": "top",
+            "output": "topped_pizza_crust_with_provolone_and_mozzarella_cheese"
+        },
+        {
+            "instructions": "sprinkle with chopped pepperoncini .",
+            "input": "(topped_pizza_crust_with_provolone_and_mozzarella_cheese; chopped_pepperoncini)",
+            "actions": "sprinkle",
+            "output": "pizza_crust_with provolone and mozzarella cheese with sprinkled chopped pepperoncini"
+        },
+        {
+            "instructions": "place in oven",
+            "input": "pizza_crust_with provolone and mozzarella cheese with sprinkled chopped pepperoncini",
+            "actions": "place",
+            "output": "pizza_crust_with provolone and mozzarella cheese with sprinkled chopped pepperoncini"
+        },
+        {
+            "instructions": "bake until ready",
+            "input": "uncooked pizza",
+            "actions": "bake",
+            "output": "baked_pizza"
+        },
+        {
+            "instructions": "remove from oven",
+            "input": "baked_pizza",
+            "actions": "remove",
+            "output": "baked_pizza"
+        },
+        {
+            "instructions": "top with parmesan , onion , and basil .",
+            "input": "(baked_pizza; parmesan; onion; basil)",
+            "actions": "top",
+            "output": "baked_pizza topped_with_parmesan, onion_and_basil"
+        },
+        {
+            "instructions": "return to oven for another 3 to 4 minutes .",
+            "input": "baked_pizza topped_with_parmesan, onion_and_basil",
+            "actions": "return",
+            "output": "baked white pizza"
+        }
+    ],
+    "ingredients": [
+        {
+            "text": "1 large pizza dough"
+        },
+        {
+            "text": "6 ounces mozzarella cheese, sliced"
+        },
+        {
+            "text": "6 ounces provolone cheese, sliced"
+        },
+        {
+            "text": "12 small onion, coarsely chopped"
+        },
+        {
+            "text": "1 tablespoon fresh basil, finely chopped"
+        },
+        {
+            "text": "4 tablespoons parmesan cheese, freshly grated"
+        },
+        {
+            "text": "2 tablespoons extra virgin olive oil"
+        },
+        {
+            "text": "8 pepperoncini peppers, seeded and coarsely chopped"
+        },
+        {
+            "text": "cornmeal, for dusting"
+        }
+    ],
+    "recipe": [
+        {
+            "text": "Preheat oven to 475 degrees."
+        },
+        {
+            "text": "Prepare dough as required."
+        },
+        {
+            "text": "Roll out to fit pizza pan or peel."
+        },
+        {
+            "text": "If using a pizza pan, lightly coat with oil and lightly sprinkle with cornmeal."
+        },
+        {
+            "text": "Rub dough with 2 tablespoons of olive oil."
+        },
+        {
+            "text": "Top dough with provolone and mozzarella cheese."
+        },
+        {
+            "text": "Sprinkle with chopped pepperoncini."
+        },
+        {
+            "text": "Place in oven and bake unti cheese is lightly browned."
+        },
+        {
+            "text": "Remove from oven and top with parmesan, onion, and basil."
+        },
+        {
+            "text": "Return to oven for another 3 to 4 minutes."
+        }
+    ]
+}

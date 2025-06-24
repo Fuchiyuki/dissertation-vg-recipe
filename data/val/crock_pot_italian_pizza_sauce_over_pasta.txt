@@ -1,0 +1,142 @@
+{
+    "title": "crock_pot_italian_pizza_sauce_over_pasta",
+    "id": "a50f4f3e56",
+    "table": [
+        {
+            "instructions": "in a skillet over medium heat , cook sausage until no longer pink .",
+            "input": "sausage",
+            "action": "cook",
+            "output": "cooked_sausage"
+        },
+        {
+            "instructions": "drain off fat .",
+            "input": "cooked sausage",
+            "action": "drain",
+            "output": "drained sausage from excess fat"
+        },
+        {
+            "instructions": "transfer to your crock pot .",
+            "input": "drained sausage from excess fat",
+            "action": "transfer",
+            "output": "drained sausage from excess fat"
+        },
+        {
+            "instructions": "add the next 13 ingredients except cooked pasta and shredded_mozzarella_cheese",
+            "input": "(cooked sausage; cooked pasta; shredded mozzarella; crushed tomatoes; chili beans; sliced olives; chopped onion; chopped green bell pepper; minced garlic; grated parmesa cheese; quick cooking tapioca; dried basil; bay leaf; salt; sugar)",
+            "action": "add",
+            "output": "pasta casserole"
+        },
+        {
+            "instructions": "mix well .",
+            "input": "pasta casserole",
+            "action": "mix",
+            "output": "pasta casserole"
+        },
+        {
+            "instructions": "cover",
+            "input": "pasta casserole",
+            "action": "cover",
+            "output": "covered pasta casserole"
+        },
+        {
+            "instructions": "cook on low for 8 to 9 hours .",
+            "input": "uncooked pasta casserole",
+            "action": "cook",
+            "output": "cooked pasta casserole"
+        },
+        {
+            "instructions": "discard bay_leaf before serving .",
+            "input": "cooked pasta casserole",
+            "action": "discard",
+            "output": "cooked pasta casserole minus the bay leaf"
+        },
+        {
+            "instructions": "stir pizza_sauce before serving over pasta .",
+            "input": "(pizza sauce; cooked pasta casserole minus the bay leaf)",
+            "action": "stir",
+            "output": "pizza sauce stirred into pasta casserole"
+        },
+        {
+            "instructions": "sprinkle with mozzarella_cheese .",
+            "input": "(mozzarella cheese; pizza sauce stirred into pasta casserole)",
+            "action": "sprinkle",
+            "output": "cooked pizza pasta casserole with mozzarella cheese"
+        }
+    ],
+    "ingredients": [
+        {
+            "text": "1 lb bulk Italian sausage"
+        },
+        {
+            "text": "1 (28 ounce) can crushed tomatoes"
+        },
+        {
+            "text": "1 (15 1/2 ounce) can chili beans"
+        },
+        {
+            "text": "1 (2 1/4 ounce) can sliced ripe olives, drained"
+        },
+        {
+            "text": "1 medium chopped onion"
+        },
+        {
+            "text": "1 small chopped green bell pepper"
+        },
+        {
+            "text": "2 minced garlic cloves"
+        },
+        {
+            "text": "14 cup grated parmesan cheese"
+        },
+        {
+            "text": "1 tablespoon quick-cooking tapioca"
+        },
+        {
+            "text": "1 tablespoon dried basil"
+        },
+        {
+            "text": "1 bay leaf"
+        },
+        {
+            "text": "1 teaspoon salt"
+        },
+        {
+            "text": "12 teaspoon sugar"
+        },
+        {
+            "text": "hot cooked pasta, your choice"
+        },
+        {
+            "text": "shredded mozzarella cheese"
+        }
+    ],
+    "recipe": [
+        {
+            "text": "In a skillet over medium heat, cook sausage until no longer pink."
+        },
+        {
+            "text": "Drain off fat."
+        },
+        {
+            "text": "Transfer to your crock pot."
+        },
+        {
+            "text": "Add the next 13 ingredients except cooked pasta and shredded mozzarella cheese and mix well."
+        },
+        {
+            "text": "Cover and cook on Low for 8 to 9 hours."
+        },
+        {
+            "text": "Sauce should be slightly thickened."
+        },
+        {
+            "text": "Discard bay leaf before serving."
+        },
+        {
+            "text": "Stir pizza sauce before serving over pasta."
+        },
+        {
+            "text": "Sprinkle with mozzarella cheese."
+        }
+    ]
+}

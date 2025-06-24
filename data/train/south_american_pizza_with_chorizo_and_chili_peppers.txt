@@ -1,0 +1,115 @@
+{
+    "title": "south_american_pizza_with_chorizo_and_chili_peppers",
+    "id": "832fcf6a36",
+    "table": [
+        {
+            "instructions": "preheat oven to 500 degrees .",
+            "input": "NA",
+            "action": "preheat",
+            "output": "NA"
+        },
+        {
+            "instructions": "roll the pizza_dough on a floured surface",
+            "input": "pizza_dough",
+            "action": "roll",
+            "output": "rolled_pizza_dough"
+        },
+        {
+            "instructions": "place on a cookie sheet .",
+            "input": "rolled_pizza_dough",
+            "action": "place",
+            "output": "rolled_pizza_dough"
+        },
+        {
+            "instructions": "spread the pizza_sauce over top .",
+            "input": "(rolled_pizza_dough; pizza_sauce)",
+            "action": "spread",
+            "output": "sauced_pizza_dough"
+        },
+        {
+            "instructions": "cover with a sprinkling of garlic , then a 12 cup of queso_fresco .",
+            "input": "(sauced_pizza_dough; garlic, queso_fresco)",
+            "action": "cover",
+            "output": "sauced_pizza_dough with garlic and queso_fresco"
+        },
+        {
+            "instructions": "top with chorizo and green_onion ,",
+            "input": "(sauced_pizza_dough with garlic and queso_fresco; chorizo, green_onion)",
+            "action": "top",
+            "output": "sauced_pizza_dough with garlic and queso_fresco chorizo, green_onion"
+        },
+        {
+            "instructions": "cover with the remaining cheese and chili slices .",
+            "input": "(sauced_pizza_dough with garlic and queso_fresco chorizo, green_onion; chili slices; remaining cheese)",
+            "action": "cover",
+            "output": "uncooked south_american_pizza_with_chorizo_and_chili_peppers"
+        },
+        {
+            "instructions": "cook until the crust is golden brown 10 to 12 minutes .",
+            "input": "uncooked south_american_pizza_with_chorizo_and_chili_peppers",
+            "action": "cook",
+            "output": "cooked south_american_pizza_with_chorizo_and_chili_peppers"
+        },
+        {
+            "instructions": "garnish with cilantro .",
+            "input": "(cooked south_american_pizza_with_chorizo_and_chili_peppers; cilantro)",
+            "action": "garnish",
+            "output": "cooked south_american_pizza_with_chorizo_and_chili_peppers garnished with cilantro"
+        }
+    ],
+    "ingredients": [
+        {
+            "text": "16 ounces pizza dough, ball (1 pound)"
+        },
+        {
+            "text": "12 cup pizza sauce"
+        },
+        {
+            "text": "4 fresh garlic cloves, peeled and finely chopped"
+        },
+        {
+            "text": "1 12 cups queso fresco, crumbled"
+        },
+        {
+            "text": "12 cup chorizo sausage, cooked and crumbled"
+        },
+        {
+            "text": "4 green onions, chopped"
+        },
+        {
+            "text": "1 large red chili, thinly sliced"
+        },
+        {
+            "text": "14 cup fresh cilantro, chopped"
+        }
+    ],
+    "recipe": [
+        {
+            "text": "Preheat oven to 500 degrees."
+        },
+        {
+            "text": "Roll the pizza dough on a floured surface and place on a cookie sheet."
+        },
+        {
+            "text": "Spread the pizza sauce over top."
+        },
+        {
+            "text": "Cover with a sprinkling of garlic, then a 1/2 cup of queso fresco."
+        },
+        {
+            "text": "Top with chorizo and green onion, then cover with the remaining cheese and chili slices."
+        },
+        {
+            "text": "Cook until the crust is golden brown (10 to 12 minutes)."
+        },
+        {
+            "text": "Garnish with cilantro."
+        },
+        {
+            "text": "Note: I prefer my crust prebaked for a crispier crumb."
+        },
+        {
+            "text": "May need to reduce final cook time."
+        }
+    ]
+}

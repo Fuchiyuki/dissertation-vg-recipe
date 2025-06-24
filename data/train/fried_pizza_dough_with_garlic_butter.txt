@@ -1,0 +1,154 @@
+{
+    "title": "fried_pizza_dough_with_garlic_butter",
+    "id": "2c84774f64",
+    "table": [
+        {
+            "instructions": "heat oil on medium heat until it reaches about 350 degrees f .",
+            "input": "oil",
+            "action": "heat",
+            "output": "heated_oil"
+        },
+        {
+            "instructions": "meanwhile , roll out dough .",
+            "input": "Dough",
+            "action": "roll",
+            "output": "Flattened dough"
+        },
+        {
+            "instructions": "shower cutting board with some flour ,",
+            "input": "NA",
+            "action": "shower",
+            "output": "NA"
+        },
+        {
+            "instructions": "lay out dough",
+            "input": "Flattened dough",
+            "action": "lay",
+            "output": "Flattened dough"
+        },
+        {
+            "instructions": "roll it out into about 12 inch thick .",
+            "input": "Flattened dough",
+            "action": "roll",
+            "output": "flattened dough"
+        },
+        {
+            "instructions": "using bench scraper or knife , cut dough into strips ,",
+            "input": "flattened dough",
+            "action": "cut",
+            "output": "flattened dough cut into dough strips"
+        },
+        {
+            "instructions": "slice strips in half .",
+            "input": "Dough strips",
+            "action": "slice",
+            "output": "Halved dough strips"
+        },
+        {
+            "instructions": "add butter and garlic_powder to a bowl .",
+            "input": "(Butter; garlic powder)",
+            "action": "add",
+            "output": "Garlic butter"
+        },
+        {
+            "instructions": "melt in microwave , or on a pot on the stove .",
+            "input": "Garlic butter",
+            "action": "melt",
+            "output": "Melted garlic butter"
+        },
+        {
+            "instructions": "once oil is heated , add a handful of dough strips",
+            "input": "(Halfed dough strips; hot oil)",
+            "action": "add",
+            "output": "Halfed dough strips in hot oil"
+        },
+        {
+            "instructions": "cook for about 23 minutes or until light golden brown .",
+            "input": "Halfed dough strips in hot oil",
+            "action": "cook",
+            "output": "Cooked dough strips in hot oil"
+        },
+        {
+            "instructions": "remove with a slotted spoon",
+            "input": "Cooked dough strips in hot oil",
+            "action": "remove",
+            "output": "Fried bread stick"
+        },
+        {
+            "instructions": "place on a paper lined plate to let any excess oil drain .",
+            "input": "Fried bread stick",
+            "action": "place",
+            "output": "Fried bread stick"
+        },
+        {
+            "instructions": "brush some garlic , butter onto fried pizza_dough ,",
+            "input": "(Melted garlic butter; fried breadstick)",
+            "action": "brush",
+            "output": "Garlic butter breadstick"
+        },
+        {
+            "instructions": "shower with parmesan_cheese .",
+            "input": "(Parmesan cheese; garlic butter breadstick)",
+            "action": "shower",
+            "output": "Garlic parmesan breadsticks"
+        }
+    ],
+    "ingredients": [
+        {
+            "text": "2 cups Canola Oil"
+        },
+        {
+            "text": "1 whole Batch (Enough For A 16-inch Pizza) Your Favorite Pizza Dough"
+        },
+        {
+            "text": "1/2 cups All-purpose Flour"
+        },
+        {
+            "text": "4 Tablespoons Unsalted Butter"
+        },
+        {
+            "text": "1/2 Tablespoons Garlic Powder"
+        },
+        {
+            "text": "1/2 cups Grated Parmesan Cheese"
+        }
+    ],
+    "recipe": [
+        {
+            "text": "Heat oil on medium heat until it reaches about 350 degrees F."
+        },
+        {
+            "text": "Meanwhile, roll out dough."
+        },
+        {
+            "text": "Shower cutting board with some flour, then lay out dough and roll it out into about 1/2 inch thick."
+        },
+        {
+            "text": "Using bench scraper or knife, cut dough into strips, then slice strips in half."
+        },
+        {
+            "text": "Aim for about 3 or 4 inches in length."
+        },
+        {
+            "text": "Add butter and garlic powder to a bowl."
+        },
+        {
+            "text": "Melt in microwave, or on a pot on the stove."
+        },
+        {
+            "text": "Once oil is heated, add a handful of dough strips and cook for about 23 minutes or until light golden brown."
+        },
+        {
+            "text": "Remove with a slotted spoon and place on a paper-lined plate to let any excess oil drain."
+        },
+        {
+            "text": "Brush some garlic butter onto fried pizza dough, and shower with Parmesan cheese."
+        },
+        {
+            "text": "Repeat."
+        },
+        {
+            "text": "Go buy or make some more pizza dough, because these things are so addicting, you will want more."
+        }
+    ]
+}

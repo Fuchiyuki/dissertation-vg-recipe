@@ -1,0 +1,187 @@
+{
+    "title": "caribbean_shrimp_and_mango_pizza_2",
+    "id": "3e4a44760f",
+    "table": [
+        {
+            "instructions": "preheat oven to 500 degrees f .",
+            "input": "NA",
+            "action": "preheat",
+            "output": "NA"
+        },
+        {
+            "instructions": "slice the shrimp in half , lengthwise .",
+            "input": "shrimp",
+            "action": "slice",
+            "output": "sliced_shrimp"
+        },
+        {
+            "instructions": "heat the oil in a small nonstick skillet over medium heat",
+            "input": "oil",
+            "action": "heat",
+            "output": "hot oil"
+        },
+        {
+            "instructions": "add the shrimp .",
+            "input": "shrimp; hot oil",
+            "action": "add",
+            "output": "skillet with shrimp and hot oil"
+        },
+        {
+            "instructions": "cook until the shrimp turn pink , about 3 minutes ,",
+            "input": "skillet with shrimp and hot oil",
+            "action": "cook",
+            "output": "cooked shrimp"
+        },
+        {
+            "instructions": "season them with salt and pepper .",
+            "input": "(cooked shrimp; salt; pepper)",
+            "action": "season",
+            "output": "seasoned shrimp"
+        },
+        {
+            "instructions": "roll out the dough on a lightly floured surface into a 10 inch round .",
+            "input": "dough",
+            "action": "roll",
+            "output": "rolled dough"
+        },
+        {
+            "instructions": "place the crust onto a parchment , line , baking sheet .",
+            "input": "rolled dough",
+            "action": "place",
+            "output": "pizza dough on a baking sheet"
+        },
+        {
+            "instructions": "spread the sauce onto the pizza , leaving the edges clean for a crust to form .",
+            "input": "sauce",
+            "action": "spread",
+            "output": "sauced pizza dough"
+        },
+        {
+            "instructions": "put half of the cheese on top",
+            "input": "(cheese; sauced pizza dough)",
+            "action": "put",
+            "output": "sauced pizza dough with cheese"
+        },
+        {
+            "instructions": "spread the shrimp evenly over the pizza .",
+            "input": "(sauced pizza dough with cheese; cooked shrimp)",
+            "action": "spread",
+            "output": "shrimp pizza"
+        },
+        {
+            "instructions": "then add the mango slices , red onion , red_bell_pepper , and yellow_bell_pepper evenly on the top .",
+            "input": "(shrimp pizza; mango; red onion; red bell pepper; yellow bell pepper)",
+            "action": "add",
+            "output": "shrimp pizza with mango, bell peppers, and red onion"
+        },
+        {
+            "instructions": "sprinkle the pizza with the red_pepper_flake",
+            "input": "(shrimp pizza with mango, bell peppers, and red onion; red pepper flake)",
+            "action": "sprinkle",
+            "output": "spicy shrimp pizza"
+        },
+        {
+            "instructions": "top with the remaining cheese .",
+            "input": "(spicy shrimp pizza; cheese)",
+            "action": "top",
+            "output": "uncooked spicy shrimp pizza with extra cheese"
+        },
+        {
+            "instructions": "bake the pizza for 15 minutes or until the cheese is melted",
+            "input": "uncooked spicy shrimp pizza with extra cheese",
+            "action": "bake",
+            "output": "baked spicy shrimp pizza with extra cheese"
+        },
+        {
+            "instructions": "slightly brown .",
+            "input": "spicy shrimp pizza with extra cheese",
+            "action": "brown",
+            "output": "finished spicy shrimp pizza"
+        },
+        {
+            "instructions": "serve immediately with more red_pepper_flake sprinkled on top .",
+            "input": "finished spicy shrimp pizza",
+            "action": "serve",
+            "output": "slices of spicy shrimp pizza with extra red pepper"
+        }
+    ],
+    "ingredients": [
+        {
+            "text": "6 medium shrimp, peeled and deveined"
+        },
+        {
+            "text": "1 teaspoon extra virgin olive oil"
+        },
+        {
+            "text": "Kosher salt"
+        },
+        {
+            "text": "Freshly ground black pepper"
+        },
+        {
+            "text": "7 ounces prepared pizza dough"
+        },
+        {
+            "text": "Semolina flour, for dusting"
+        },
+        {
+            "text": "1/2 cup pizza sauce"
+        },
+        {
+            "text": "1 cup grated mozzarella"
+        },
+        {
+            "text": "1/2 ripe mango, thinly sliced"
+        },
+        {
+            "text": "1/2 red onion, thinly sliced"
+        },
+        {
+            "text": "1/2 red bell pepper, thinly sliced"
+        },
+        {
+            "text": "1/2 yellow bell pepper, thinly sliced"
+        },
+        {
+            "text": "2 pinches red pepper flakes, plus more for garnish"
+        }
+    ],
+    "recipe": [
+        {
+            "text": "Preheat oven to 500 degrees F."
+        },
+        {
+            "text": "Slice the shrimp in half, lengthwise."
+        },
+        {
+            "text": "Heat the oil in a small nonstick skillet over medium heat and add the shrimp."
+        },
+        {
+            "text": "Cook until the shrimp turn pink, about 3 minutes, and season them with salt and pepper."
+        },
+        {
+            "text": "Roll out the dough on a lightly floured surface into a 10-inch round."
+        },
+        {
+            "text": "Place the crust onto a parchment line baking sheet."
+        },
+        {
+            "text": "Spread the sauce onto the pizza, leaving the edges clean for a crust to form."
+        },
+        {
+            "text": "Put half of the cheese on top and spread the shrimp evenly over the pizza."
+        },
+        {
+            "text": "Then add the mango slices, red onion, red bell pepper, and yellow bell pepper evenly on the top."
+        },
+        {
+            "text": "Sprinkle the pizza with the red pepper flakes and top with the remaining cheese."
+        },
+        {
+            "text": "Bake the pizza for 15 minutes or until the cheese is melted and slightly brown."
+        },
+        {
+            "text": "Serve immediately with more red pepper flakes sprinkled on top."
+        }
+    ]
+}

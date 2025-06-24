@@ -1,0 +1,190 @@
+{
+    "title": "mexican_fiesta_salad_pizza",
+    "id": "e0b72da073",
+    "table": [
+        {
+            "instructions": "preheat oven to 37",
+            "input": "NA",
+            "action": "preheat",
+            "output": "NA"
+        },
+        {
+            "instructions": "unroll crescent_dough ;",
+            "input": "crescent_dough",
+            "action": "unroll",
+            "output": "unrolled_crescent_dough"
+        },
+        {
+            "instructions": "separate into 16 triangles .",
+            "input": "unrolled_crescent_dough",
+            "action": "separate",
+            "output": "separated crescent dough"
+        },
+        {
+            "instructions": "arrange 14 of the triangles in a circle on a lightly floured pizza\u2012pan with wide ends even with edge of pizza\u2012pan and points toward the center .",
+            "input": "separated crescent dough",
+            "action": "arrange",
+            "output": "arranged crescent dough in a circle"
+        },
+        {
+            "instructions": "place the two remaining two triangles in the center , pinching seams to seal .",
+            "input": "(arranged crescent dough in a circle; crescent roll pizza)",
+            "action": "place",
+            "output": "arranged crescent dough"
+        },
+        {
+            "instructions": "roll dough to create a smooth surface .",
+            "input": "arranged crescent dough",
+            "action": "roll",
+            "output": "arranged crescent dough in smooth surface"
+        },
+        {
+            "instructions": "bake 15 18 minutes or until golden brown .",
+            "input": "uncooked crescent dough pizza crust",
+            "action": "bake",
+            "output": "baked crescent dough pizza crust"
+        },
+        {
+            "instructions": "remove from oven ;",
+            "input": "baked crescent dough pizza crust",
+            "action": "remove",
+            "output": "baked crescent dough pizza crust"
+        },
+        {
+            "instructions": "combine the salsa_seasoning_mix and garlic ;",
+            "input": "(salsa_seasoning_mix; garlic)",
+            "action": "combine",
+            "output": "salsa seasoning and garlic mixture"
+        },
+        {
+            "instructions": "mix well .",
+            "input": "salsa seasoning and garlic mixture",
+            "action": "mix",
+            "output": "salsa seasoning and garlic mixture"
+        },
+        {
+            "instructions": "add cooked_turkey ;",
+            "input": "(salsa seasoning and garlic mixture; cooked turkey)",
+            "action": "add",
+            "output": "salsa seasoning and turkey mixture"
+        },
+        {
+            "instructions": "toss to coat .",
+            "input": "salsa seasoning and turkey mixture",
+            "action": "toss",
+            "output": "salsa seasoning and turkey mixture"
+        },
+        {
+            "instructions": "microwave on high 2 3 minutes or until hot .",
+            "input": "salsa seasoning and turkey mixture",
+            "action": "microwave",
+            "output": "microwaved salsa seasoning and turkey mixture"
+        },
+        {
+            "instructions": "spread sour_cream over crust .",
+            "input": "(sour cream; baked crescent dough pizza crust)",
+            "action": "spread",
+            "output": "baked crescent dough pizza crust with sour cream"
+        },
+        {
+            "instructions": "spoon turkey mixture over sour_cream .",
+            "input": "(baked crescent dough pizza crust with sour cream; salsa seasoning and turkey mixture)",
+            "action": "spoon",
+            "output": "baked crescent dough pizza crust with sour cream and salsa seasoning and turkey mixture"
+        },
+        {
+            "instructions": "top with lettuce , tomatoes , onions , cheese and olives .",
+            "input": "(lettuce; tomatoes; onions; cheese; olives; baked crescent dough pizza crust with sour cream and salsa seasoning and turkey mixture)",
+            "action": "top",
+            "output": "baked crescent dough pizza crust with sour cream and salsa seasoning, turkey mixture, lettuce , tomatoes , onions , cheese and olives"
+        },
+        {
+            "instructions": "serve immediately with additional salsa if desired .",
+            "input": "uncooked mexican salad pizza",
+            "action": "serve",
+            "output": "baked mexican salad pizza"
+        }
+    ],
+    "ingredients": [
+        {
+            "text": "2 (8 ounce) packages refrigerated crescent dinner rolls"
+        },
+        {
+            "text": "2 cups thinly sliced iceberg lettuce"
+        },
+        {
+            "text": "2 plum tomatoes, seeded and diced"
+        },
+        {
+            "text": "2 green onions, chopped"
+        },
+        {
+            "text": "12 cup shredded cheddar cheese"
+        },
+        {
+            "text": "14 cup pitted ripe olives, coarsely chopped"
+        },
+        {
+            "text": "1 14 cups medium thick & chunky salsa"
+        },
+        {
+            "text": "1 (1 ounce) envelope taco seasoning mix"
+        },
+        {
+            "text": "1 garlic, glove pressed"
+        },
+        {
+            "text": "1 14 lbs lean ground turkey, cooked, drained and crumbled"
+        },
+        {
+            "text": "1 cup sour cream"
+        },
+        {
+            "text": "additional salsa (optional)"
+        }
+    ],
+    "recipe": [
+        {
+            "text": "Preheat oven to 375F"
+        },
+        {
+            "text": "Unroll crescent dough; separate into 16 triangles."
+        },
+        {
+            "text": "Arrange 14 of the triangles in a circle on a lightly floured pizza pan with wide ends even with edge of pizza pan and points toward the center."
+        },
+        {
+            "text": "Place the two remaining two triangles in the center, pinching seams to seal."
+        },
+        {
+            "text": "Roll dough to create a smooth surface."
+        },
+        {
+            "text": "Bake 15-18 minutes or until golden brown."
+        },
+        {
+            "text": "Remove from oven; cool completely."
+        },
+        {
+            "text": "Combine the salsa, seasoning mix and garlic; mix well."
+        },
+        {
+            "text": "Add cooked turkey; toss to coat."
+        },
+        {
+            "text": "Microwave on high 2-3 minutes or until hot."
+        },
+        {
+            "text": "Spread sour cream over crust."
+        },
+        {
+            "text": "Spoon turkey mixture over sour cream."
+        },
+        {
+            "text": "Top with lettuce, tomatoes, onions, cheese and olives."
+        },
+        {
+            "text": "Serve immediately with additional salsa if desired."
+        }
+    ]
+}

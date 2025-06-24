@@ -1,0 +1,97 @@
+{
+    "title": "skillet_pizzas",
+    "id": "7ba8a15e8e",
+    "table": [
+        {
+            "instructions": "spread cookie dough in pizza\u2012pan .",
+            "input": "cookie dough",
+            "action": "spread",
+            "output": "spread_cookie dough"
+        },
+        {
+            "instructions": "bake at 350 degrees for 12 13 min or possibly till lightly browned .",
+            "input": "spread_cookie dough",
+            "action": "bake",
+            "output": "baked_cookie_crust"
+        },
+        {
+            "instructions": "cream softened cream_cheese , sugar , and vanilla .",
+            "input": "(cream_cheese; sugar; vanilla)",
+            "action": "cream",
+            "output": "creamed_vanilla_mixture"
+        },
+        {
+            "instructions": "spread over cookie .",
+            "input": "(baked_cookie_crust; creamed_vanilla_mixture)",
+            "action": "spread",
+            "output": "baked_cookie_crust_with_creamed_vanilla_mixture"
+        },
+        {
+            "instructions": "arrange cut up fruit on top .",
+            "input": "(baked_cookie_crust_with_creamed_vanilla_mixture; fruit)",
+            "action": "arrange",
+            "output": "baked_cookie_crust_with_creamed_vanilla_mixture and fruit"
+        },
+        {
+            "instructions": "spread preserves on the fruit to give it a glossy appearance .",
+            "input": "(baked_cookie_crust_with_creamed_vanilla_mixture and fruit; perserves)",
+            "action": "spread",
+            "output": "baked_cookie_crust_with_creamed_vanilla_mixture, fruit and preserves"
+        }
+    ],
+    "ingredients": [
+        {
+            "text": "13 cup thinly sliced onion"
+        },
+        {
+            "text": "13 cup julienned green pepper"
+        },
+        {
+            "text": "2 teaspoons olive oil, divided"
+        },
+        {
+            "text": "1 cup sliced fresh mushrooms"
+        },
+        {
+            "text": "2 (6 inch) flour tortillas"
+        },
+        {
+            "text": "28 slices pepperoni"
+        },
+        {
+            "text": "1 cup chopped tomato"
+        },
+        {
+            "text": "34 cup shredded Mexican blend cheese or 34 cup cheddar cheese"
+        },
+        {
+            "text": "crushed red pepper flakes (optional)"
+        }
+    ],
+    "recipe": [
+        {
+            "text": "In a skillet, saute onion and green pepper in 1 teaspoon oil until almost tender."
+        },
+        {
+            "text": "Add mushrooms; cook 2-3 minutes longer."
+        },
+        {
+            "text": "Remove and keep warm."
+        },
+        {
+            "text": "In the same skillet, lightly brown one tortilla in 1/2 teaspoon oil."
+        },
+        {
+            "text": "Turn over; top with half of the pepperoni, tomatoes, onion mixture and cheese."
+        },
+        {
+            "text": "Cover and cook until cheese is melter, about 2 minutes."
+        },
+        {
+            "text": "Sprinkle wilth pepper flakes if desired."
+        },
+        {
+            "text": "Repeat for second pizza."
+        }
+    ]
+}

@@ -1,0 +1,118 @@
+{
+    "title": "velveeta_spicy_cheeseburger_pizza",
+    "id": "bd7107b184",
+    "table": [
+        {
+            "instructions": "heat oven to 400 degrees f .",
+            "input": "NA",
+            "action": "heat",
+            "output": "NA"
+        },
+        {
+            "instructions": "brown meat in medium skillet ;",
+            "input": "meat",
+            "action": "brown",
+            "output": "browned_meat"
+        },
+        {
+            "instructions": "drain .",
+            "input": "browned meat",
+            "action": "drain",
+            "output": "drained meat without excess fat"
+        },
+        {
+            "instructions": "return meat to skillet ;",
+            "input": "drained meat without excess fat",
+            "action": "return",
+            "output": "drained meat without excess fat"
+        },
+        {
+            "instructions": "stir in velveeta .",
+            "input": "drained meat without excess fat; velveeta",
+            "action": "stir",
+            "output": "drained meat without excess fat with velveeta"
+        },
+        {
+            "instructions": "place pizza_crust on baking sheet .",
+            "input": "pizza_crust",
+            "action": "place",
+            "output": "pizza_crust"
+        },
+        {
+            "instructions": "mix tomatoes and ketchup ;",
+            "input": "(tomatoes; ketchup)",
+            "action": "mix",
+            "output": "tomato and ketchup mixture"
+        },
+        {
+            "instructions": "spread onto crust .",
+            "input": "(pizza crust; tomato and ketchup mixture)",
+            "action": "spread",
+            "output": "crust with tomato and ketchup mixture"
+        },
+        {
+            "instructions": "top with meat mixture .",
+            "input": "(crust with tomato and ketchup mixture; browned meat with velveeta)",
+            "action": "top",
+            "output": "crust with tomato, ketchup, and meat with velveeta mixture"
+        },
+        {
+            "instructions": "bake 10 min .",
+            "input": "crust with tomato, ketchup, and velveeta mixture",
+            "action": "bake",
+            "output": "baked velveeta_spicy_cheeseburger_pizza"
+        },
+        {
+            "instructions": "top with lettuce .",
+            "input": "baked velveeta_spicy_cheeseburger_pizza; lettuce",
+            "action": "top",
+            "output": "velveeta_spicy_cheeseburger_pizza topped with lettuce"
+        }
+    ],
+    "ingredients": [
+        {
+            "text": "1/2 lb. ground beef Safeway 1 lb For $3.99 thru 02/09"
+        },
+        {
+            "text": "1/2 lb. (8 oz.) VELVEETA, cut into 1/2-inch cubes"
+        },
+        {
+            "text": "1 ready-to-use baked pizza crust (12 inch)"
+        },
+        {
+            "text": "1 can (10 oz.) RO*TEL Diced Tomatoes & Green Chilies, well drained"
+        },
+        {
+            "text": "1/4 cup HEINZ Tomato Ketchup Target 2 For $5.00 thru 02/06"
+        },
+        {
+            "text": "1 cup shredded lettuce"
+        }
+    ],
+    "recipe": [
+        {
+            "text": "Heat oven to 400 degrees F."
+        },
+        {
+            "text": "Brown meat in medium skillet; drain."
+        },
+        {
+            "text": "Return meat to skillet; stir in VELVEETA."
+        },
+        {
+            "text": "Place pizza crust on baking sheet."
+        },
+        {
+            "text": "Mix tomatoes and ketchup; spread onto crust."
+        },
+        {
+            "text": "Top with meat mixture."
+        },
+        {
+            "text": "Bake 10 min."
+        },
+        {
+            "text": "Top with lettuce."
+        }
+    ]
+}

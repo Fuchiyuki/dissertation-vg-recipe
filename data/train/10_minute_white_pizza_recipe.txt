@@ -1,0 +1,136 @@
+{
+    "title": "10_minute_white_pizza_recipe",
+    "id": "23078eb133",
+    "table": [
+        {
+            "instructions": "preheat oven to 500 degrees .",
+            "input": "NA",
+            "actions": "preheat",
+            "output": "NA"
+        },
+        {
+            "instructions": "put the pizza_shell or possibly focaccia onto a pizza\u2012pan or possibly cookie sheet .",
+            "input": "pizza_shell",
+            "actions": "put",
+            "output": "pizza_shell"
+        },
+        {
+            "instructions": "drizzle shell with oil",
+            "input": "(pizza_shell; oli)",
+            "actions": "drizzle",
+            "output": "oil_drizzled_on pizza_shell"
+        },
+        {
+            "instructions": "scatter chopped_garlic over shell to edges .",
+            "input": "(chopped_garlic; pizza_shell)",
+            "actions": "scatter",
+            "output": "chopped_garlic_scattered_on_pizza shell"
+        },
+        {
+            "instructions": "cover the pie with a layer of all 3 cheeses combined",
+            "input": "(cheese; pizza_shell)",
+            "actions": "cover",
+            "output": "pizza_shell_covered_with_cheeses"
+        },
+        {
+            "instructions": "top with artichoke_heart .",
+            "input": "(pizza; artichoke_heart)",
+            "actions": "top",
+            "output": "pizza_topped_with artichoke_heart"
+        },
+        {
+            "instructions": "cook 6 to 8 min , till cheeses have melted",
+            "input": "uncooked pizza",
+            "actions": "cook",
+            "output": "cooked pizza"
+        },
+        {
+            "instructions": "remove from oven",
+            "input": "cooked pizza",
+            "actions": "remove",
+            "output": "cooked pizza"
+        },
+        {
+            "instructions": "garnish with parsley .",
+            "input": "(parsley; cooked pizza)",
+            "actions": "garnish",
+            "output": "cooked pizza garnished with parsley"
+        },
+        {
+            "instructions": "cut pie with pizza , wheel or possibly knife into bite size squares",
+            "input": "cooked pizza",
+            "actions": "cut",
+            "output": "cut pizza"
+        },
+        {
+            "instructions": "serve .",
+            "input": "pizza",
+            "actions": "serve",
+            "output": "pizza"
+        }
+    ],
+    "ingredients": [
+        {
+            "text": "1 pkt thin crust prepared pizza shell or possibly"
+        },
+        {
+            "text": "prepared focaccia - (16 ounce)"
+        },
+        {
+            "text": "Extra-virgin extra virgin olive oil for drizzling"
+        },
+        {
+            "text": "3 lrg garlic cloves chopped"
+        },
+        {
+            "text": "1 c. shredded mozzarella"
+        },
+        {
+            "text": "1 c. shredded provolone"
+        },
+        {
+            "text": "1/4 c. grated Parmigiano Reggiano or possibly Romano"
+        },
+        {
+            "text": "1 can artichoke hearts in water - (15 ounce) liquid removed, and"
+        },
+        {
+            "text": "thinly sliced"
+        },
+        {
+            "text": "1/4 c. minced parsley"
+        }
+    ],
+    "recipe": [
+        {
+            "text": "Preheat oven to 500 degrees."
+        },
+        {
+            "text": "Put the pizza shell or possibly focaccia onto a pizza pan or possibly cookie sheet."
+        },
+        {
+            "text": "Drizzle shell with oil and scatter chopped garlic over shell to edges."
+        },
+        {
+            "text": "Cover the pie with a layer of all 3 cheeses combined and work all the way to the edge of the shells."
+        },
+        {
+            "text": "Top with artichoke hearts."
+        },
+        {
+            "text": "Cook 6 to 8 min, till cheeses have melted and begin to bubble."
+        },
+        {
+            "text": "Remove from oven and garnish with parsley."
+        },
+        {
+            "text": "Cut pie with pizza wheel or possibly knife into bite-size squares and serve."
+        },
+        {
+            "text": "This recipe yields 24 bites."
+        },
+        {
+            "text": "Yield: 24 bites"
+        }
+    ]
+}

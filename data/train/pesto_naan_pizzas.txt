@@ -1,0 +1,106 @@
+{
+    "title": "pesto_naan_pizzas",
+    "id": "23d9768b8e",
+    "table": [
+        {
+            "instructions": "preheat oven to 400 degrees f .",
+            "input": "NA",
+            "action": "preheat",
+            "output": "NA"
+        },
+        {
+            "instructions": "if you are using a baking stone , heat it at the same time by placing it in the oven as it preheats .",
+            "input": "NA",
+            "action": "heat",
+            "output": "NA"
+        },
+        {
+            "instructions": "set the naan on a work surface .",
+            "input": "naan",
+            "action": "set",
+            "output": "naan"
+        },
+        {
+            "instructions": "spread pesto on them in an even layer .",
+            "input": "(naan; pesto)",
+            "action": "spread",
+            "output": "naan with pesto"
+        },
+        {
+            "instructions": "add a layer of tomatoes , olives and feta_cheese .",
+            "input": "(naan with pesto; tomatoes; olives; feta cheese)",
+            "action": "add",
+            "output": "naan with pesto, tomatoes, olives, feta_cheese"
+        },
+        {
+            "instructions": "slide naan onto the preheated baking stone or onto a baking tray .",
+            "input": "naan with pesto, tomatoes, olives, feta_cheese",
+            "action": "slide",
+            "output": "naan with pesto, tomatoes, olives, feta_cheese"
+        },
+        {
+            "instructions": "bake them for 5 to 7 minutes for a soft crust or 10 minutes for a crispy crust .",
+            "input": "naan with pesto, tomatoes, olives, feta_cheese",
+            "action": "bake",
+            "output": "baked naan with pesto, tomatoes, olives, feta_cheese"
+        },
+        {
+            "instructions": "when done , remove them from the oven",
+            "input": "baked naan with pesto, tomatoes, olives, feta_cheese",
+            "action": "remove",
+            "output": "naan with pesto, tomatoes, olives, feta_cheese"
+        },
+        {
+            "instructions": "slide them onto a cutting board",
+            "input": "naan with pesto, tomatoes, olives, feta_cheese",
+            "action": "slide",
+            "output": "naan with pesto, tomatoes, olives, feta_cheese"
+        },
+        {
+            "instructions": "slice",
+            "input": "naan with pesto, tomatoes, olives, feta_cheese",
+            "action": "slice",
+            "output": "sliced naan with pesto, tomatoes, olives, feta_cheese"
+        }
+    ],
+    "ingredients": [
+        {
+            "text": "2 whole Naan Flatbreads"
+        },
+        {
+            "text": "3 Tablespoons Pesto"
+        },
+        {
+            "text": "1 whole Sliced Tomato"
+        },
+        {
+            "text": "3 Tablespoons Sliced Olives"
+        },
+        {
+            "text": "1/2 cups Feta Cheese"
+        }
+    ],
+    "recipe": [
+        {
+            "text": "Preheat oven to 400 degrees F. If you are using a baking stone, heat it at the same time by placing it in the oven as it preheats."
+        },
+        {
+            "text": "Set the naan on a work surface."
+        },
+        {
+            "text": "Spread pesto on them in an even layer."
+        },
+        {
+            "text": "Add a layer of tomatoes, olives and feta cheese."
+        },
+        {
+            "text": "Slide naan onto the preheated baking stone or onto a baking tray."
+        },
+        {
+            "text": "Bake them for 5 to 7 minutes for a soft crust or 10 minutes for a crispy crust."
+        },
+        {
+            "text": "When done, remove them from the oven, slide them onto a cutting board, slice and enjoy."
+        }
+    ]
+}

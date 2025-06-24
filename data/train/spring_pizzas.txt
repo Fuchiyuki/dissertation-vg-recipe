@@ -1,0 +1,190 @@
+{
+    "title": "spring_pizzas",
+    "id": "893ff128b8",
+    "table": [
+        {
+            "instructions": "preheat the oven to 500 degrees f .",
+            "input": "NA",
+            "action": "preheat",
+            "output": "NA"
+        },
+        {
+            "instructions": "divide the dough into 4 pieces on a floured surface .",
+            "input": "dough",
+            "action": "divide",
+            "output": "divided_dough"
+        },
+        {
+            "instructions": "brush a baking sheet with olive_oil .",
+            "input": "NA",
+            "action": "brush",
+            "output": "NA"
+        },
+        {
+            "instructions": "stretch the dough into four 6 inch rounds ;",
+            "input": "divided_dough",
+            "action": "stretch",
+            "output": "stretched pizza dough"
+        },
+        {
+            "instructions": "place on the baking sheet",
+            "input": "stretched pizza dough",
+            "action": "place",
+            "output": "stretched pizza dough on baking sheet"
+        },
+        {
+            "instructions": "bake until golden , about 12 minutes .",
+            "input": "stretched pizza dough on baking sheet",
+            "action": "bake",
+            "output": "baked pizza crust"
+        },
+        {
+            "instructions": "heat a large skillet over medium heat .",
+            "input": "NA",
+            "action": "heat",
+            "output": "NA"
+        },
+        {
+            "instructions": "toss the ramps or scallions with 1 tablespoon , olive_oil",
+            "input": "(ramps/scallions; olive oil)",
+            "action": "toss",
+            "output": "ramps or scallions tossed with olive oil"
+        },
+        {
+            "instructions": "season with kosher_salt .",
+            "input": "(ramps or scallions tossed with olive oil; kosher salt)",
+            "action": "season",
+            "output": "ramps or scallions tossed with olive oil seasoned with kosher salt"
+        },
+        {
+            "instructions": "saute until just wilted , about 1 minute .",
+            "input": "uncooked ramps or scallions tossed with olive oil seasoned with kosher salt",
+            "action": "saute",
+            "output": "sauteed ramps or scallions"
+        },
+        {
+            "instructions": "transfer to a cutting board",
+            "input": "sauteed ramps or scallions",
+            "action": "transfer",
+            "output": "sauteed ramps or scallions"
+        },
+        {
+            "instructions": "cut into pieces .",
+            "input": "sauteed ramps or scallions",
+            "action": "cut",
+            "output": "cut sauteed ramps or scallions"
+        },
+        {
+            "instructions": "mix the ricotta , lemon_zest , the remaining 1 tablespoon , olive_oil and some sea_salt and pepper in a bowl .",
+            "input": "(ricotta; lemon_zest; olive_oil; sea_salt; pepper)",
+            "action": "mix",
+            "output": "ricotta mixture"
+        },
+        {
+            "instructions": "spread with the ricotta mixture",
+            "input": "(baked pizza crust; ricotta mixture)",
+            "action": "spread",
+            "output": "ricotta mixture spread on baked pizza crust"
+        },
+        {
+            "instructions": "season with sea_salt .",
+            "input": "(ricotta mixture spread on baked pizza crust; sea salt)",
+            "action": "season",
+            "output": "baked pizza crust with ricotta mixture"
+        },
+        {
+            "instructions": "top with the ramps or scallions .",
+            "input": "(baked pizza crust with ricotta mixture; sauteed ramps or scallions)",
+            "action": "top",
+            "output": "baked pizza crust with ricotta mixture and sauteed scallions"
+        },
+        {
+            "instructions": "return to the oven until warmed through , about 2 minutes .",
+            "input": "baked pizza crust with ricotta mixture and sauteed scallions",
+            "action": "return",
+            "output": "warmed scallion and ricotta pizza"
+        },
+        {
+            "instructions": "top the pizzas with basil , parmesan and a drizzle of olive_oil .",
+            "input": "(warmed scallion and ricotta pizza; basil; parmesan; olive_oil)",
+            "action": "top",
+            "output": "warmed scallion and ricotta pizza topped with basil, parmesan and a drizzle of olive oil"
+        }
+    ],
+    "ingredients": [
+        {
+            "text": "1 pound pizza dough"
+        },
+        {
+            "text": "All-purpose flour, for dusting"
+        },
+        {
+            "text": "2 tablespoons extra-virgin olive oil, plus more for brushing and drizzling"
+        },
+        {
+            "text": "6 ounces ramps or scallions, trimmed"
+        },
+        {
+            "text": "Kosher salt"
+        },
+        {
+            "text": "1 cup ricotta cheese"
+        },
+        {
+            "text": "1 teaspoon grated lemon zest"
+        },
+        {
+            "text": "Coarse sea salt"
+        },
+        {
+            "text": "Coarsely ground black pepper"
+        },
+        {
+            "text": "1/4 cup fresh basil leaves"
+        },
+        {
+            "text": "Grated parmesan cheese, for topping"
+        }
+    ],
+    "recipe": [
+        {
+            "text": "Preheat the oven to 500 degrees F. Divide the dough into 4 pieces on a floured surface."
+        },
+        {
+            "text": "Brush a baking sheet with olive oil."
+        },
+        {
+            "text": "Stretch the dough into four 6-inch rounds; place on the baking sheet and bake until golden, about 12 minutes."
+        },
+        {
+            "text": "Heat a large skillet over medium heat."
+        },
+        {
+            "text": "Toss the ramps or scallions with 1 tablespoon olive oil and season with kosher salt."
+        },
+        {
+            "text": "Saute until just wilted, about 1 minute."
+        },
+        {
+            "text": "Transfer to a cutting board and cut into pieces."
+        },
+        {
+            "text": "Mix the ricotta, lemon zest, the remaining 1 tablespoon olive oil and some sea salt and pepper in a bowl."
+        },
+        {
+            "text": "Brush the crusts with olive oil (this will protect them from getting soggy), then spread with the ricotta mixture and season with sea salt."
+        },
+        {
+            "text": "Top with the ramps or scallions."
+        },
+        {
+            "text": "Return to the oven until warmed through, about 2 minutes."
+        },
+        {
+            "text": "Top the pizzas with basil, parmesan and a drizzle of olive oil."
+        },
+        {
+            "text": "Photograph by Con Poulos"
+        }
+    ]
+}

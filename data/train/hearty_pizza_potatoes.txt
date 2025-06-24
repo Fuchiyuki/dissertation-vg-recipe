@@ -1,0 +1,139 @@
+{
+    "title": "hearty_pizza_potatoes",
+    "id": "baae41e3f6",
+    "table": [
+        {
+            "instructions": "cover bottom of pan with two layers of potatoes .",
+            "input": "potatoes ",
+            "action": "cover",
+            "output": "layered potatoes"
+        },
+        {
+            "instructions": "put meat over potatoes .",
+            "input": "(meat; layered potatoes)",
+            "action": "put",
+            "output": "meat put over layered potatoes"
+        },
+        {
+            "instructions": "mix cheese_soup and milk .",
+            "input": "(cheese_soup; milk)",
+            "action": "mix",
+            "output": "cheese soup and milk mixture"
+        },
+        {
+            "instructions": "pour over meat .",
+            "input": "(meat and potatoes layers; cheese soup and milk mixture)",
+            "action": "pour",
+            "output": "cheese soup and milk mixture poured over meat and potatoes layers"
+        },
+        {
+            "instructions": "mix tomato_soup , oregano , onion and sugar .",
+            "input": "(tomato_soup; oregano; onion; sugar)",
+            "action": "mix",
+            "output": "tomato soup and onion mixture"
+        },
+        {
+            "instructions": "pour over top of other mixture .",
+            "input": "(tomato soup and onion mixture; cheese soup, meat and potatoes layers)",
+            "action": "pour",
+            "output": "tomato soup and onion mixture poured on cheese soup, meat and potatoes layers"
+        },
+        {
+            "instructions": "top with pepperoni_slice .",
+            "input": "(pepperoni_slices; cheese, meat and potatoes casserole)",
+            "action": "top",
+            "output": "cheese, meat and potatoes casserole topped with pepperoni slices"
+        },
+        {
+            "instructions": "cover pan with foil .",
+            "input": "uncooked meat and potatoes casserole",
+            "action": "cover",
+            "output": "covered uncooked meat and potatoes casserole"
+        },
+        {
+            "instructions": "bake at 350 degrees f for 2 hours .",
+            "input": "covered uncooked meat and potatoes casserole",
+            "action": "bake",
+            "output": "covered baked meat and potatoes casserole"
+        },
+        {
+            "instructions": "when done , sprinkle with mozzarella_cheese .",
+            "input": "(mozzarella_cheese; baked meat and potatoes casserole)",
+            "action": "sprinkle",
+            "output": "mozzarella cheese sprinkled on baked meat and potatoes casserole"
+        },
+        {
+            "instructions": "return to oven until cheese melts .",
+            "input": "baked meat and potatoes casserole with mozzarella",
+            "action": "return",
+            "output": "baked meat and potatoes casserole with melted mozzarella"
+        }
+    ],
+    "ingredients": [
+        {
+            "text": "6 -8 sliced potatoes (enough to cover a 9 x 13-inch pan twice)"
+        },
+        {
+            "text": "1 12 lbs ground beef, browned"
+        },
+        {
+            "text": "1 (10 1/2 ounce) can cheddar cheese soup"
+        },
+        {
+            "text": "1 cup milk"
+        },
+        {
+            "text": "1 (10 1/2 ounce) can tomato soup"
+        },
+        {
+            "text": "1 teaspoon oregano"
+        },
+        {
+            "text": "1 medium onion, chopped"
+        },
+        {
+            "text": "1 teaspoon granulated sugar"
+        },
+        {
+            "text": "1 lb pepperoni slice"
+        },
+        {
+            "text": "2 cups mozzarella cheese"
+        }
+    ],
+    "recipe": [
+        {
+            "text": "Cover bottom of pan with two layers of potatoes."
+        },
+        {
+            "text": "Put meat over potatoes."
+        },
+        {
+            "text": "Mix cheese soup and milk."
+        },
+        {
+            "text": "Pour over meat."
+        },
+        {
+            "text": "Mix tomato soup, oregano, onion and sugar."
+        },
+        {
+            "text": "Pour over top of other mixture."
+        },
+        {
+            "text": "Top with pepperoni slices."
+        },
+        {
+            "text": "Cover pan with foil."
+        },
+        {
+            "text": "Bake at 350 degrees F for 2 hours."
+        },
+        {
+            "text": "When done, sprinkle with mozzarella cheese."
+        },
+        {
+            "text": "Return to oven until cheese melts."
+        }
+    ]
+}

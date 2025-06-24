@@ -1,0 +1,136 @@
+{
+    "title": "pizza_with_mushrooms_and_cervelat_sausage",
+    "id": "50f7551097",
+    "table": [
+        {
+            "instructions": "preheat oven to 350 degrees f 180 degrees c.",
+            "input": "NA",
+            "action": "preheat",
+            "output": "NA"
+        },
+        {
+            "instructions": "roll out the pizza_dough on a lightly floured surface",
+            "input": "pizza_dough",
+            "action": "roll",
+            "output": "rolled_pizza_dough"
+        },
+        {
+            "instructions": "place it onto a baking sheet .",
+            "input": "rolled_out_pizza_dough",
+            "action": "place",
+            "output": "pizza_dough_on_baking_sheet"
+        },
+        {
+            "instructions": "spread the ketchup thinly all over the dough .",
+            "input": "(pizza_dough_on_baking_sheet; ketchup)",
+            "action": "spread",
+            "output": "ketchup_spread_on pizza_dough"
+        },
+        {
+            "instructions": "cut the onion into semi rings",
+            "input": "onion",
+            "action": "cut",
+            "output": "semi_ring_onion"
+        },
+        {
+            "instructions": "put them all around the pizza .",
+            "input": "(semi_ring_onion; raw pizza crust with ketchup)",
+            "action": "put",
+            "output": "pizza_crust_with_semi_ring_onion and ketchup"
+        },
+        {
+            "instructions": "chop the garlic finely",
+            "input": "garlic",
+            "action": "chop",
+            "output": "finely chopped_garlic"
+        },
+        {
+            "instructions": "sprinkle with dried herbs .",
+            "input": "(dried_herbs; pizza_crust_with_semi_ring_onion and ketchup)",
+            "action": "sprinkle",
+            "output": "pizza_with_semi_ring_onion_and_chopped_garlic_sprinkled_with_dried_herbs"
+        },
+        {
+            "instructions": "slice the sausage very thinly",
+            "input": "sausage",
+            "action": "slice",
+            "output": "sliced_sausage"
+        },
+        {
+            "instructions": "place it onto the top of the pizza as a next layer .",
+            "input": "(sliced_sausage; pizza_with_semi_ring_onion_and_chopped_garlic_sprinkled_with_dried_herbs)",
+            "action": "place",
+            "output": "pizza_with_semi_ring_onion, chopped_garlic, sprinkled dried_herbs_and_sliced_sausage"
+        },
+        {
+            "instructions": "slice the mushrooms",
+            "input": "mushroom",
+            "action": "slice",
+            "output": "sliced_mushroom"
+        },
+        {
+            "instructions": "put them among the sausage slices .",
+            "input": "(sliced_mushroom; uncooked pizza_with_semi_ring_onion, chopped_garlic, sprinkled dried_herbs_and_sliced_sausage)",
+            "action": "put",
+            "output": "uncooked pizza_with_semi_ring_onion, chopped_garlic, sprinkled dried_herbs_and_sliced_sausage_and_sliced_mushroom"
+        },
+        {
+            "instructions": "now top with the grated cheese",
+            "input": "(grated_cheese; uncooked pizza_with_semi_ring_onion, chopped_garlic, sprinkled dried_herbs_and_sliced_sausage_and_sliced_mushroom)",
+            "action": "top",
+            "output": "uncooked pizza_with_mushrooms_and_sausage"
+        }
+    ],
+    "ingredients": [
+        {
+            "text": "1 whole Batch Of Pizza Dough, Enough For A Medium To Large Pizza (See My Recipe Box)"
+        },
+        {
+            "text": "6 Tablespoons Ketchup"
+        },
+        {
+            "text": "1 Small Onion"
+        },
+        {
+            "text": "3 cloves Garlic, Chopped"
+        },
+        {
+            "text": "1 teaspoon Dried Herbs: Oregano, Dill, Parsley, Basil"
+        },
+        {
+            "text": "6 ounces, weight Cervelat Sausage, Very Thinly Sliced"
+        },
+        {
+            "text": "6 Marinated Champignon Mushrooms, Sliced"
+        },
+        {
+            "text": "10 ounces, weight Cheese, Grated"
+        }
+    ],
+    "recipe": [
+        {
+            "text": "Preheat oven to 350 degrees F (180 degrees C)."
+        },
+        {
+            "text": "Roll out the pizza dough on a lightly floured surface and place it onto a baking sheet."
+        },
+        {
+            "text": "Spread the ketchup thinly all over the dough."
+        },
+        {
+            "text": "Cut the onion into semi-rings and put them all around the pizza."
+        },
+        {
+            "text": "Chop the garlic finely and throw among the onion rings, then sprinkle with dried herbs."
+        },
+        {
+            "text": "Slice the sausage very thinly and place it onto the top of the pizza as a next layer."
+        },
+        {
+            "text": "Slice the mushrooms and put them among the sausage slices."
+        },
+        {
+            "text": "Now top with the grated cheese and send the pizza to the preheated oven to cook for 20 minutes."
+        }
+    ]
+}

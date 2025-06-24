@@ -1,0 +1,85 @@
+{
+    "title": "no-knead_food_processor_thin_crust_pizza_dough",
+    "id": "e7ee1231b4",
+    "table": [
+        {
+            "instructions": "with motor running , add water and oil to flour .",
+            "input": "(water; oil; flour)",
+            "action": "add",
+            "output": "dough"
+        },
+        {
+            "instructions": "with floured hands , remove dough",
+            "input": "dough",
+            "action": "remove",
+            "output": "mixed dough"
+        },
+        {
+            "instructions": "form into a round ball .",
+            "input": "mixed dough",
+            "action": "form",
+            "output": "round ball of dough"
+        },
+        {
+            "instructions": "place in a greased bowl , turning over to grease all around .",
+            "input": "round ball of dough",
+            "action": "place",
+            "output": "round ball in greased bowl"
+        },
+        {
+            "instructions": "stretch into pizza\u2012pan and top as desired .",
+            "input": "greased round ball",
+            "action": "stretch",
+            "output": "pizza crust"
+        },
+        {
+            "instructions": "bake for 10 12 minutes or until browned .",
+            "input": "uncooked pizza crust",
+            "action": "bake",
+            "output": "baked pizza crust"
+        }
+    ],
+    "ingredients": [
+        {
+            "text": "2 cups all-purpose flour"
+        },
+        {
+            "text": "1 12 teaspoons instant fast rise yeast"
+        },
+        {
+            "text": "34 teaspoon salt"
+        },
+        {
+            "text": "34 cup hot water"
+        },
+        {
+            "text": "2 teaspoons olive oil"
+        }
+    ],
+    "recipe": [
+        {
+            "text": "Pulse flour, yeast, and salt in food processor until blended."
+        },
+        {
+            "text": "With motor running, add water and oil."
+        },
+        {
+            "text": "Process for 1 minute, or until a ball forms."
+        },
+        {
+            "text": "With floured hands, remove dough and form into a round ball."
+        },
+        {
+            "text": "Place in a greased bowl, turning over to grease all around."
+        },
+        {
+            "text": "Let rise for 10 minutes for thin crust."
+        },
+        {
+            "text": "Stretch into pizza pan and top as desired."
+        },
+        {
+            "text": "Bake for 10-12 minutes or until browned."
+        }
+    ]
+}

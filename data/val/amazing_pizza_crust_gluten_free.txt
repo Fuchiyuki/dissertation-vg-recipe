@@ -1,0 +1,202 @@
+{
+    "title": "amazing_pizza_crust_gluten_free",
+    "id": "f2f4d47a0d",
+    "table": [
+        {
+            "instructions": "set aside .",
+            "input": "NA",
+            "action": "set",
+            "output": "NA"
+        },
+        {
+            "instructions": "add egg , water , vinegar and oil to the bread machine .",
+            "input": "(egg; water; vinegar; oil)",
+            "action": "add",
+            "output": "wet ingredients"
+        },
+        {
+            "instructions": "add the dry ingredients",
+            "input": "(wet ingredients; dry ingredients)",
+            "action": "add",
+            "output": "mixture of wet and dry ingredients"
+        },
+        {
+            "instructions": "then place the yeast on top .",
+            "input": "(yeast; mixture of wet and dry ingredients)",
+            "action": "place",
+            "output": "pizza crust ingredients"
+        },
+        {
+            "instructions": "place the bread machine on the dough setting .",
+            "input": "pizza crust ingredients",
+            "action": "place",
+            "output": "pizza crust ingredients"
+        },
+        {
+            "instructions": "while dough is mixing , scrape the sides of the machine to make sure all_ingredient are incorporated .",
+            "input": "pizza crust ingredients",
+            "action": "scrape",
+            "output": "dough"
+        },
+        {
+            "instructions": "if the dough seems a little sticky add a little bit more oil .",
+            "input": "(dough; optional oil)",
+            "action": "add",
+            "output": "optional oil added to dough"
+        },
+        {
+            "instructions": "when dough is finished , separate into two halves",
+            "input": "dough",
+            "action": "separate",
+            "output": "dough separated into halves"
+        },
+        {
+            "instructions": "press out dough into two well greased 12 pizza\u2012pan with oiled fingers .",
+            "input": "halves of dough",
+            "action": "press",
+            "output": "pressed dough"
+        },
+        {
+            "instructions": "spray crust with cooking_oil or brush with olive_oil",
+            "input": "NA",
+            "action": "spray",
+            "output": "NA"
+        },
+        {
+            "instructions": "sprinkle with italian_seasoning if desired .",
+            "input": "(pressed dough; optional italian seasoning)",
+            "action": "sprinkle",
+            "output": "optional italian seasoning sprinkled into pressed dough"
+        },
+        {
+            "instructions": "pierce a few holes in the crust with a fork .",
+            "input": "pressed dough ",
+            "action": "pierce",
+            "output": "pierced pressed dough "
+        },
+        {
+            "instructions": "bake crust at 425 degrees f for 10 minutes .",
+            "input": "uncooked pizza crust",
+            "action": "bake",
+            "output": "parbaked pizza crust"
+        },
+        {
+            "instructions": "add toppings",
+            "input": "(toppings; parbaked pizza crust)",
+            "action": "add",
+            "output": "toppings added to parbaked pizza crust"
+        },
+        {
+            "instructions": "bake for an additional 10 15 minutes .",
+            "input": "uncooked pizza",
+            "action": "bake",
+            "output": "baked pizza"
+        },
+        {
+            "instructions": "slice",
+            "input": "baked pizza",
+            "action": "slice",
+            "output": "sliced baked pizza"
+        }
+    ],
+    "ingredients": [
+        {
+            "text": "1/2 cups Corn Or Arrowroot Starch"
+        },
+        {
+            "text": "3/4 cups Potato Starch"
+        },
+        {
+            "text": "1/2 cups White Rice Flour"
+        },
+        {
+            "text": "1/2 cups Sorghum Flour"
+        },
+        {
+            "text": "1/2 cups Tapioca Flour"
+        },
+        {
+            "text": "1/4 cups Garbanzo Bean Flour"
+        },
+        {
+            "text": "1 teaspoon Salt"
+        },
+        {
+            "text": "1 Tablespoon Xanthum Gum"
+        },
+        {
+            "text": "2- 1/2 teaspoons Yeast"
+        },
+        {
+            "text": "1 whole Egg Gently Whisked"
+        },
+        {
+            "text": "1 cup Water"
+        },
+        {
+            "text": "1 teaspoon Apple Cider Vinegar"
+        },
+        {
+            "text": "3 Tablespoons Olive Oil"
+        },
+        {
+            "text": "Italian Seasoning, Optional"
+        }
+    ],
+    "recipe": [
+        {
+            "text": "1."
+        },
+        {
+            "text": "Sift all dry ingredients except for the yeast in a medium bowl."
+        },
+        {
+            "text": "Set aside."
+        },
+        {
+            "text": "2."
+        },
+        {
+            "text": "Add egg, water, vinegar and oil to the bread machine."
+        },
+        {
+            "text": "Add the dry ingredients and then place the yeast on top."
+        },
+        {
+            "text": "Place the bread machine on the dough setting."
+        },
+        {
+            "text": "While dough is mixing, scrape the sides of the machine to make sure all ingredients are incorporated."
+        },
+        {
+            "text": "If the dough seems a little sticky add a little bit more oil."
+        },
+        {
+            "text": "3."
+        },
+        {
+            "text": "When dough is finished, separate into two halves and press out dough into two well greased 12 pizza pans with oiled fingers."
+        },
+        {
+            "text": "4."
+        },
+        {
+            "text": "Spray crust with cooking oil or brush with olive oil and sprinkle with Italian seasoning if desired."
+        },
+        {
+            "text": "Pierce a few holes in the crust with a fork."
+        },
+        {
+            "text": "5."
+        },
+        {
+            "text": "Bake crust at 425 degrees F for 10 minutes."
+        },
+        {
+            "text": "Add toppings and bake for an additional 10-15 minutes."
+        },
+        {
+            "text": "Eat, Slice and Enjoy."
+        }
+    ]
+}

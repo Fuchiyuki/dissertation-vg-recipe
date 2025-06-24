@@ -1,0 +1,196 @@
+{
+    "title": "hearty_sausage_pizza",
+    "id": "a9bb9fe318",
+    "table": [
+        {
+            "instructions": "heat oven to 425 degrees .",
+            "input": "NA",
+            "actions": "heat",
+            "output": "NA"
+        },
+        {
+            "instructions": "cover",
+            "input": "NA",
+            "actions": "cover",
+            "output": "NA"
+        },
+        {
+            "instructions": "cook for 5 minutes , adding more water if necessary .",
+            "input": "NA",
+            "actions": "cook",
+            "output": "NA"
+        },
+        {
+            "instructions": "cook until sausages are browned",
+            "input": "raw_sausages",
+            "actions": "cook",
+            "output": "cooked sausages"
+        },
+        {
+            "instructions": "remove from skillet ;",
+            "input": "cooked sausages",
+            "actions": "remove",
+            "output": "cooked sausages"
+        },
+        {
+            "instructions": "set aside .",
+            "input": "cooked sausages",
+            "actions": "set",
+            "output": "cooked sausages"
+        },
+        {
+            "instructions": "meanwhile , cut both squashes and zucchini diagonally in 12 inch , think slices , and bell_pepper in rings ;",
+            "input": "(squashes; zucchini; bell_pepper)",
+            "actions": "cut",
+            "output": "(cut_squashes; zucchini; bell_pepper)"
+        },
+        {
+            "instructions": "shred cheese .",
+            "input": "cheese",
+            "actions": "shred",
+            "output": "shredded cheese"
+        },
+        {
+            "instructions": "place pizza_crust on baking sheet ;",
+            "input": "pizza crust",
+            "actions": "place",
+            "output": "pizza crust"
+        },
+        {
+            "instructions": "spread sauce evenly over crust .",
+            "input": "(pizza_crust; sauce)",
+            "actions": "spread",
+            "output": "sauce_spreaded on pizza crust"
+        },
+        {
+            "instructions": "wipe skillet clean .",
+            "input": "NA",
+            "actions": "wipe",
+            "output": "NA"
+        },
+        {
+            "instructions": "heat 1 tbsp , oil .",
+            "input": "oil",
+            "actions": "heat",
+            "output": "heated oil"
+        },
+        {
+            "instructions": "add squashes and zucchini",
+            "input": "(heated oil; squashes; zucchini)",
+            "actions": "add",
+            "output": "squashes and zucchini in heated oil"
+        },
+        {
+            "instructions": "saute 6 8 minutes until browned and tender .",
+            "input": "squashes and zucchini in heated oil",
+            "actions": "saute",
+            "output": "sauteed squashes and zucchini"
+        },
+        {
+            "instructions": "saute pepper rings in remaining 1 tsp , oil until browned and tender .",
+            "input": "(bell pepper rings; oil)",
+            "actions": "saute",
+            "output": "sauteed belle pepper rings in heated oil"
+        },
+        {
+            "instructions": "slice sausages ;",
+            "input": "whole sausages",
+            "actions": "slice",
+            "output": "slices sausages"
+        },
+        {
+            "instructions": "place on pizza along with the vegetables .",
+            "input": "(pizza crust; sliced sausages; vegetables)",
+            "actions": "place",
+            "output": "pizza crust topped with sliced sausages and vegetables"
+        },
+        {
+            "instructions": "sprinkle with cheese .",
+            "input": "(pizza crust topped with sliced sausages and vegetables; cheese)",
+            "actions": "sprinkle",
+            "output": "cheese_sprinkled_on pizza"
+        },
+        {
+            "instructions": "bake 10 minutes , or until cheese melts and crust is hot .",
+            "input": "uncooked pizza",
+            "actions": "bake",
+            "output": "hearty_sausage_pizza"
+        }
+    ],
+    "ingredients": [
+        {
+            "text": "8 ounces sweet reduced-fat Italian sausage (pork)"
+        },
+        {
+            "text": "2 yellow squash"
+        },
+        {
+            "text": "2 zucchini"
+        },
+        {
+            "text": "1 red bell pepper"
+        },
+        {
+            "text": "4 ounces smoked mozzarella cheese (or favorite pizza cheese)"
+        },
+        {
+            "text": "1 (16 ounce) package prepared pizza crust"
+        },
+        {
+            "text": "34 cup bottled marinara sauce or 34 cup pizza sauce"
+        },
+        {
+            "text": "1 tablespoon olive oil"
+        },
+        {
+            "text": "1 teaspoon olive oil"
+        }
+    ],
+    "recipe": [
+        {
+            "text": "Heat oven to 425 degrees."
+        },
+        {
+            "text": "Have baking sheet ready."
+        },
+        {
+            "text": "Bring sausages and 1/4 cup water to boil in a large nonstick skillet over medium-low heat."
+        },
+        {
+            "text": "Cover and cook for 5 minutes, adding more water if necessary."
+        },
+        {
+            "text": "Uncover and cook until sausages are browned and cooked through."
+        },
+        {
+            "text": "Remove from skillet; set aside."
+        },
+        {
+            "text": "Meanwhile, cut both squashes and zucchini diagonally in 1/2 inch think slices, and bell pepper in rings; shred cheese."
+        },
+        {
+            "text": "Place pizza crust on baking sheet; spread sauce evenly over crust."
+        },
+        {
+            "text": "Wipe skillet clean."
+        },
+        {
+            "text": "Heat 1 TBSP oil."
+        },
+        {
+            "text": "Add squashes and zucchini and saute 6-8 minutes until browned and tender."
+        },
+        {
+            "text": "Saute pepper rings in remaining 1 tsp oil until browned and tender."
+        },
+        {
+            "text": "Slice sausages; place on pizza along with the vegetables."
+        },
+        {
+            "text": "Sprinkle with cheese."
+        },
+        {
+            "text": "Bake 10 minutes, or until cheese melts and crust is hot."
+        }
+    ]
+}

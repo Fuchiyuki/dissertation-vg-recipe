@@ -1,0 +1,121 @@
+{
+    "title": "sliced_steak_pizza",
+    "id": "c534125bfe",
+    "table": [
+        {
+            "instructions": "preheat the oven to 400 degrees f .",
+            "input": "NA",
+            "actions": "preheat",
+            "output": "NA"
+        },
+        {
+            "instructions": "stretch the crust over a 14 inch , pizza\u2012pan .",
+            "input": "crust",
+            "actions": "stretch",
+            "output": "stretched_crust"
+        },
+        {
+            "instructions": "evenly spread the sauce over the crust .",
+            "input": "(sauce; pizza_crust)",
+            "actions": "spread",
+            "output": "sauce spread on pizza crust"
+        },
+        {
+            "instructions": "arrange the steak and red onions over the sauce .",
+            "input": "(steak; red onions, pizza crust with sauce)",
+            "actions": "arrange",
+            "output": "steak and red onions arranged over pizza crust with sauce"
+        },
+        {
+            "instructions": "mix the mozzarella and provolone_cheese together in a bowl",
+            "input": "(mozzarella; provolone_cheese)",
+            "actions": "mix",
+            "output": "cheese mixture"
+        },
+        {
+            "instructions": "season with dried_oregano , if desired .",
+            "input": "(cheese mixture; dried_oregano)",
+            "actions": "season",
+            "output": "cheese mixture"
+        },
+        {
+            "instructions": "bake the pizza until the crust is crisp",
+            "input": "uncooked pizza",
+            "actions": "bake",
+            "output": "baked pizza"
+        },
+        {
+            "instructions": "brown , about 10 to 15 minutes .",
+            "input": "NA",
+            "actions": "brown",
+            "output": "NA"
+        },
+        {
+            "instructions": "remove the pizza from the oven",
+            "input": "baked pizza",
+            "actions": "remove",
+            "output": "baked pizza"
+        },
+        {
+            "instructions": "cut it into wedges ,",
+            "input": "baked pizza",
+            "actions": "cut",
+            "output": "sliced_steak_pizza"
+        },
+        {
+            "instructions": "serve .",
+            "input": "sliced_steak_pizza",
+            "actions": "serve",
+            "output": "sliced_steak_pizza"
+        }
+    ],
+    "ingredients": [
+        {
+            "text": "1 (14-inch) pizza crust"
+        },
+        {
+            "text": "3/4 cup pizza or BBQ sauce"
+        },
+        {
+            "text": "5 ounces beef steak (brisket, flank steak or sirloin), cut into 1-inch pieces"
+        },
+        {
+            "text": "1/2 red onion, thinly sliced"
+        },
+        {
+            "text": "7 ounces mozzarella, shredded"
+        },
+        {
+            "text": "3 ounces smoked provolone, shredded"
+        },
+        {
+            "text": "1 to 2 tablespoons dried oregano, optional"
+        }
+    ],
+    "recipe": [
+        {
+            "text": "Preheat the oven to 400 degrees F."
+        },
+        {
+            "text": "Stretch the crust over a 14-inch pizza pan."
+        },
+        {
+            "text": "Evenly spread the sauce over the crust."
+        },
+        {
+            "text": "Arrange the steak and red onions over the sauce."
+        },
+        {
+            "text": "Mix the mozzarella and provolone cheeses together in a bowl then distribute them evenly over the pizza."
+        },
+        {
+            "text": "Season with dried oregano, if desired."
+        },
+        {
+            "text": "Bake the pizza until the crust is crisp and brown, about 10 to 15 minutes."
+        },
+        {
+            "text": "Remove the pizza from the oven, cut it into wedges, and serve."
+        }
+    ]
+}

@@ -1,0 +1,175 @@
+{
+    "title": "pittsburgh_pierogi_pizza",
+    "id": "8d02ad570d",
+    "table": [
+        {
+            "instructions": "boil pot of salted water .",
+            "input": "(water; salt)",
+            "actions": "boil",
+            "output": "boiled salted water"
+        },
+        {
+            "instructions": "add potatoes .",
+            "input": "(potatoes; boiled salted water)",
+            "actions": "add",
+            "output": "potatoes in boiled salted water"
+        },
+        {
+            "instructions": "cook about 15 minutes until tender .",
+            "input": "potatoes in boiled salted water",
+            "actions": "cook",
+            "output": "cooked potatoes in boiled salted water"
+        },
+        {
+            "instructions": "drain .",
+            "input": "cooked potatoes in boiled salted water",
+            "actions": "drain",
+            "output": "cooked potatoes"
+        },
+        {
+            "instructions": "melt butter and milk in small saucepan .",
+            "input": "(butter; milk)",
+            "actions": "melt",
+            "output": "melted butter and milk mixture"
+        },
+        {
+            "instructions": "slowly add melted_butter and milk mixture to cooked potatoes as you blend them with a masher or electric mixer .",
+            "input": "(cooked potatoes; melted butter and milk mixture)",
+            "actions": "add",
+            "output": "pureed potatoes"
+        },
+        {
+            "instructions": "salt",
+            "input": "(salt; pureed potatoes)",
+            "actions": "salt",
+            "output": "salted mashed potatoes"
+        },
+        {
+            "instructions": "pepper the mashed_potato to taste .",
+            "input": "(pepper; salted mashed potatoes)",
+            "actions": "pepper",
+            "output": "peppered mashed potatoes"
+        },
+        {
+            "instructions": "saute onion in butter .",
+            "input": "(butter; onion)",
+            "actions": "saute",
+            "output": "sauteed onion in butter"
+        },
+        {
+            "instructions": "mix in potatoes and cheddar_cheese .",
+            "input": "(sauteed onion in butter; seasoned mashed potatoes; cheddar cheese)",
+            "actions": "mix",
+            "output": "mashed potatoes, cheese and onion mixture"
+        },
+        {
+            "instructions": "refrigerate mixture .",
+            "input": "mashed potatoes, cheese and onion mixture",
+            "actions": "refrigerate",
+            "output": "refrigerated potato, cheese and onion mixture"
+        },
+        {
+            "instructions": "coat pizza_shell with olive_oil then spread on potato mixture .",
+            "input": "(pizza_shell; olive_oil; potato mixture)",
+            "actions": "coat",
+            "output": "potato mixture spread on pizza_shell coated with olive oil"
+        },
+        {
+            "instructions": "top with mixed mozzarella and provolone , bacon , green_onion .",
+            "input": "(potato mixture filled pizza; mozzarella; provolone; bacon; green_onion)",
+            "actions": "top",
+            "output": "potato mixture filled pizza topped with mozzarella, provolone, bacon and green onion"
+        },
+        {
+            "instructions": "bake pizzas at 450 for 10 12 minutes until cheese is melted and dough is baked .",
+            "input": "uncooked pittsburgh_pierogi_pizza",
+            "actions": "bake",
+            "output": "baked pittsburgh_pierogi_pizza"
+        }
+    ],
+    "ingredients": [
+        {
+            "text": "2 Pizza Shells"
+        },
+        {
+            "text": "2 lb Baking Potatoes, cubed"
+        },
+        {
+            "text": "2 tbsp butter"
+        },
+        {
+            "text": "1 cup milk"
+        },
+        {
+            "text": "1 pinch Salt"
+        },
+        {
+            "text": "1 pinch black pepper"
+        },
+        {
+            "text": "1 large onion, chopped"
+        },
+        {
+            "text": "1 stick butter"
+        },
+        {
+            "text": "8 oz cheddar cheese, grated"
+        },
+        {
+            "text": "1/2 lb mozzarella cheese, grated"
+        },
+        {
+            "text": "1/2 lb provolone cheese, grated"
+        },
+        {
+            "text": "1 lb bacon, crumbled"
+        },
+        {
+            "text": "2 tbsp olive oil"
+        },
+        {
+            "text": "1/2 cup green onions, chopped"
+        }
+    ],
+    "recipe": [
+        {
+            "text": "Boil pot of salted water."
+        },
+        {
+            "text": "Add potatoes."
+        },
+        {
+            "text": "Cook about 15 minutes until tender."
+        },
+        {
+            "text": "Drain."
+        },
+        {
+            "text": "Melt butter and milk in small saucepan."
+        },
+        {
+            "text": "Slowly add melted butter and milk mixture to cooked potatoes as you blend them with a masher or electric mixer."
+        },
+        {
+            "text": "Salt and pepper the mashed potatoes to taste."
+        },
+        {
+            "text": "Saute onion in butter."
+        },
+        {
+            "text": "Mix in potatoes and cheddar cheese."
+        },
+        {
+            "text": "Refrigerate mixture."
+        },
+        {
+            "text": "Coat pizza shells with olive oil than spread on potato mixture."
+        },
+        {
+            "text": "Top with mixed mozzarella and provolone, bacon, green onions."
+        },
+        {
+            "text": "Bake pizzas at 450 for 10-12 minutes until cheese is melted and dough is baked."
+        }
+    ]
+}

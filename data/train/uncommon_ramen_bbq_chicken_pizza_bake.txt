@@ -1,0 +1,196 @@
+{
+    "title": "uncommon_ramen_bbq_chicken_pizza_bake",
+    "id": "070436834e",
+    "table": [
+        {
+            "instructions": "remove ramen_noodle from packages",
+            "input": "package of ramen_noodle",
+            "action": "remove",
+            "output": "ramen_noodle"
+        },
+        {
+            "instructions": "cook in boiling_water just until al dente .",
+            "input": "(ramen_noodle; boiling water)",
+            "action": "cook",
+            "output": "cooked ramen noodles"
+        },
+        {
+            "instructions": "discard flavor packets or save for another use .",
+            "input": "NA",
+            "action": "discard",
+            "output": "NA"
+        },
+        {
+            "instructions": "meanwhile , beat egg",
+            "input": "egg",
+            "action": "beat",
+            "output": "beaten egg"
+        },
+        {
+            "instructions": "whisk together with milk and parmesan_cheese .",
+            "input": "(beaten egg; milk; parmesan cheese)",
+            "action": "whisk",
+            "output": "egg and cheese mixture"
+        },
+        {
+            "instructions": "drain noodles very well",
+            "input": "cooked ramen noodles",
+            "action": "drain",
+            "output": "drained cooked ramen noodles"
+        },
+        {
+            "instructions": "mix into egg mixture .",
+            "input": "(egg and cheese mixture; cooked ramen noodles)",
+            "action": "mix",
+            "output": "cooked ramen noodles mixed into ramen noodles"
+        },
+        {
+            "instructions": "line a sheet pan or pizza\u2012pan with aluminum foil",
+            "input": "NA",
+            "action": "line",
+            "output": "NA"
+        },
+        {
+            "instructions": "spray with cooking_spray .",
+            "input": "NA",
+            "action": "spray",
+            "output": "NA"
+        },
+        {
+            "instructions": "spread noodle mixture onto pan making sure to spread it out evenly .",
+            "input": "noodle mixture",
+            "action": "spread",
+            "output": "noodle mixture spread onto pan"
+        },
+        {
+            "instructions": "form the crust so the edges are thicker than the middle .",
+            "input": "noodle mixture spread onto pan",
+            "action": "form",
+            "output": "noodle mixture edges formed into a crust"
+        },
+        {
+            "instructions": "bake at 350 for 10 minutes .",
+            "input": "noodle mixture crust",
+            "action": "bake",
+            "output": "baked ramen noodles crust"
+        },
+        {
+            "instructions": "remove pan from oven",
+            "input": "baked ramen noodles crust",
+            "action": "remove",
+            "output": "baked ramen noodles crust"
+        },
+        {
+            "instructions": "spread barbecue_sauce over noodles .",
+            "input": "(baked ramen noodles crust; barbeque sauce)",
+            "action": "spread",
+            "output": "baked ramen noodles crust spread with barbeque sauce"
+        },
+        {
+            "instructions": "scatter chicken , onions , and oranges over top .",
+            "input": "(baked ramen noodles crust with barbecue sauce; chicken; onions; orange)",
+            "action": "scatter",
+            "output": "baked ramen noodles crust with barbecue sauce, chicken, onions and oranges"
+        },
+        {
+            "instructions": "sprinkle mozzarella",
+            "input": "(baked ramen noodles crust with barbecue sauce, chicken, onions and oranges; mozzarella)",
+            "action": "sprinkle",
+            "output": "baked ramen noodles crust with barbecue sauce, chicken, onions, oranges and mozzarella"
+        },
+        {
+            "instructions": "bake again at 350 for another 10 15 minutes or until brown and bubbly .",
+            "input": "uncooked ramen_bbq_chicken_pizza_bake",
+            "action": "bake",
+            "output": "baked ramen_bbq_chicken_pizza_bake"
+        }
+    ],
+    "ingredients": [
+        {
+            "text": "6 ounces ramen noodles, any flavor"
+        },
+        {
+            "text": "12 cup milk"
+        },
+        {
+            "text": "1 egg, beaten"
+        },
+        {
+            "text": "14 cup parmesan cheese, grated"
+        },
+        {
+            "text": "1 cup barbecue sauce, use your favorite- we like Sweet Baby Ray's"
+        },
+        {
+            "text": "1 cup cooked chicken, chopped"
+        },
+        {
+            "text": "12 red onion, sliced thinly (works great with any onion but a sweet onion is best)"
+        },
+        {
+            "text": "11 ounces mandarin oranges, drained well"
+        },
+        {
+            "text": "2 cups mozzarella cheese, grated"
+        },
+        {
+            "text": "black olives (optional)"
+        },
+        {
+            "text": "mushroom (optional)"
+        },
+        {
+            "text": "canned jalapeno slices (optional)"
+        },
+        {
+            "text": "bell pepper (optional)"
+        },
+        {
+            "text": "red pepper flakes (optional)"
+        }
+    ],
+    "recipe": [
+        {
+            "text": "Remove ramen noodles from packages and cook in boiling water just until al dente."
+        },
+        {
+            "text": "Discard flavor packets or save for another use."
+        },
+        {
+            "text": "Meanwhile, beat egg and whisk together with milk and parmesan cheese."
+        },
+        {
+            "text": "Drain noodles VERY well and mix into egg mixture."
+        },
+        {
+            "text": "Line a sheet pan or pizza pan with aluminum foil and spray with cooking spray."
+        },
+        {
+            "text": "(If using a pizza stone there is no need to do that step)"
+        },
+        {
+            "text": "Spread noodle mixture onto pan making sure to spread it out evenly."
+        },
+        {
+            "text": "Form the crust so the edges are thicker than the middle."
+        },
+        {
+            "text": "Bake at 350 for 10 minutes."
+        },
+        {
+            "text": "Remove pan from oven and spread barbecue sauce over noodles."
+        },
+        {
+            "text": "Scatter chicken, onions, and oranges over top."
+        },
+        {
+            "text": "Sprinkle mozzarella cheese over all."
+        },
+        {
+            "text": "Bake again at 350 for another 10-15 minutes or until brown and bubbly."
+        },
+        {
+            "text": "Let stand 5 minutes before slicing."
+        }
+    ]
+}

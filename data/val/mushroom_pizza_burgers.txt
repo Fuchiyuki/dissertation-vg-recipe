@@ -1,0 +1,175 @@
+{
+    "title": "mushroom_pizza_burgers",
+    "id": "d2e0caa294",
+    "table": [
+        {
+            "instructions": "in a small skillet coated with cooking_spray , saute mushrooms and onion for 3 minutes .",
+            "input": "(mushrooms; onion)",
+            "actions": "saute",
+            "output": "(sauteed_mushrooms; onion)"
+        },
+        {
+            "instructions": "add garlic and oregano ;",
+            "input": "(sauteed_mushroom_and_onion; garlic; oregano)",
+            "actions": "add",
+            "output": "sauteed_mushroom_mix"
+        },
+        {
+            "instructions": "saute 1 2 minutes longer or until onion is tender .",
+            "input": "sauteed_mushroom_mix",
+            "actions": "saute",
+            "output": "sauteed_mushroom_mix"
+        },
+        {
+            "instructions": "stir in tomatoes .",
+            "input": "(sauteed_mushroom_mix; tomatoes)",
+            "actions": "stir",
+            "output": "cooking_mushroom_and_tomato_sauce"
+        },
+        {
+            "instructions": "cook , uncovered , over medium low heat for 5 minutes , stirring occasionally .",
+            "input": "cooking_mushroom_and_tomato_sauce",
+            "actions": "cook",
+            "output": "cooked_mushroom_and_tomato_sauce"
+        },
+        {
+            "instructions": "set aside",
+            "input": "cooked_mushroom_and_tomato_sauce",
+            "actions": "set",
+            "output": "cooked_mushroom_and_tomato_sauce"
+        },
+        {
+            "instructions": "in a large bowl , combine mushrooms , basil , egg_white , parmesan , breadcrumbs , salt and pepper .",
+            "input": "mushrooms , basil , egg_white , parmesan , breadcrumbs , salt and pepper",
+            "actions": "combine",
+            "output": "combined_mushrooms , basil , egg_white , parmesan , breadcrumbs , salt and pepper"
+        },
+        {
+            "instructions": "crumble beef over mixture ;",
+            "input": "(mushroom_mixture; beef)",
+            "actions": "crumble",
+            "output": "mushroom_mixture_with_beef_crumbles"
+        },
+        {
+            "instructions": "mix well .",
+            "input": "mushroom_mixture_with_beef_crumbles",
+            "actions": "mix",
+            "output": "mushroom_and_beef_mixture"
+        },
+        {
+            "instructions": "shape into 6 patties .",
+            "input": "mushroom_and_beef_mixture",
+            "actions": "shape",
+            "output": "mushroom_and_beef_patties"
+        },
+        {
+            "instructions": "coat grill rack with cooking_spray before starting the grill .",
+            "input": "NA",
+            "actions": "coat",
+            "output": "NA"
+        },
+        {
+            "instructions": "grill patties , covered , over medium hot heat for 4 5 minutes on each side or until meat juices run clear .",
+            "input": "uncooked_mushroom_and_beef_patties",
+            "actions": "grill",
+            "output": "grilled_mushroom_and_beef_patties"
+        },
+        {
+            "instructions": "top patties with cheese and the tomato_sauce .",
+            "input": "(cheese; tomato_sauce; grilled_mushroom_and_beef_patties)",
+            "actions": "top",
+            "output": "grilled_mushroom_and_beef_patties_topped_with_cheese_and_tomato_sauce"
+        },
+        {
+            "instructions": "serve over buns .",
+            "input": "(buns; grilled_mushroom_and_beef_patties_topped_with_cheese_and_tomato_sauce)",
+            "actions": "serve",
+            "output": "mushroom_pizza_burgers"
+        }
+    ],
+    "ingredients": [
+        {
+            "text": "12 cup fresh mushrooms, sliced"
+        },
+        {
+            "text": "14 cup onion, chopped"
+        },
+        {
+            "text": "1 garlic clove, minced"
+        },
+        {
+            "text": "12 teaspoon dried oregano"
+        },
+        {
+            "text": "1 cup crushed tomatoes, undrained"
+        },
+        {
+            "text": "1 12 cups fresh mushrooms, finely chopped"
+        },
+        {
+            "text": "13 cup fresh basil, minced"
+        },
+        {
+            "text": "1 egg white, beaten"
+        },
+        {
+            "text": "2 tablespoons parmesan cheese, grated"
+        },
+        {
+            "text": "2 tablespoons dry breadcrumbs"
+        },
+        {
+            "text": "12 teaspoon salt"
+        },
+        {
+            "text": "18 teaspoon pepper"
+        },
+        {
+            "text": "1 lb lean ground beef"
+        },
+        {
+            "text": "6 slices part-skim mozzarella cheese (3 ounces)"
+        },
+        {
+            "text": "6 hamburger buns, split and toasted"
+        }
+    ],
+    "recipe": [
+        {
+            "text": "In a small skillet coated with cooking spray, saute mushrooms and onion for 3 minutes."
+        },
+        {
+            "text": "Add garlic and oregano; saute 1-2 minutes longer or until onion is tender."
+        },
+        {
+            "text": "Stir in tomatoes."
+        },
+        {
+            "text": "Cook, uncovered, over medium-low heat for 5 minutes, stirring occasionally."
+        },
+        {
+            "text": "Set aside and keep warm."
+        },
+        {
+            "text": "In a large bowl, combine mushrooms, basil, egg white, parmesan, breadcrumbs, salt and pepper."
+        },
+        {
+            "text": "Crumble beef over mixture; mix well."
+        },
+        {
+            "text": "Shape into 6 patties."
+        },
+        {
+            "text": "Coat grill rack with cooking spray before starting the grill."
+        },
+        {
+            "text": "Grill patties, covered, over medium-hot heat for 4-5 minutes on each side or until meat juices run clear."
+        },
+        {
+            "text": "Top patties with cheese and the tomato sauce."
+        },
+        {
+            "text": "Serve over buns."
+        }
+    ]
+}

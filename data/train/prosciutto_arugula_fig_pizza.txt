@@ -1,0 +1,88 @@
+{
+    "title": "prosciutto_arugula_fig_pizza",
+    "id": "7ac573e9cd",
+    "table": [
+        {
+            "instructions": "preheat oven to 400 degrees .",
+            "input": "NA",
+            "actions": "preheat",
+            "output": "NA"
+        },
+        {
+            "instructions": "on the prepared crust , spread fig spread",
+            "input": "(crust; fig_spread)",
+            "actions": "spread",
+            "output": "fig_spread over pizza crust"
+        },
+        {
+            "instructions": "sprinkle with garlic_powder .",
+            "input": "(garlic powder; pizza crust with fig spread)",
+            "actions": "sprinkle",
+            "output": "garlic_powder sprinkled on pizza crust with fig spread"
+        },
+        {
+            "instructions": "cook for 15 20 minutes , or until cheese is melted and crust is done to your liking .",
+            "input": "uncooked fig pizza",
+            "actions": "cook",
+            "output": "cooked fig pizza"
+        },
+        {
+            "instructions": "slice into 6 slices",
+            "input": "cooked fig pizza",
+            "actions": "slice",
+            "output": "sliced cooked fig pizza"
+        },
+        {
+            "instructions": "serve .",
+            "input": "sliced cooked fig pizza",
+            "actions": "serve",
+            "output": "sliced cooked fig pizza"
+        }
+    ],
+    "ingredients": [
+        {
+            "text": "10 ounces, weight Whole Wheat Italian Style Pizza Crust Or Flatbread"
+        },
+        {
+            "text": "5 ounces, fluid Fig Spread"
+        },
+        {
+            "text": "2 teaspoons Garlic Powder"
+        },
+        {
+            "text": "5 ounces, weight Prosciutto Or Canadian Bacon, Cooked Crisp"
+        },
+        {
+            "text": "1 cup Baby Arugula Leaves"
+        },
+        {
+            "text": "5 ounces, weight Mozzarella Fresca Ciliegine (15 Fresh Mozzarella Balls)"
+        },
+        {
+            "text": "1/2 cups Artichoke Hearts (jarred Or Canned), Drained And Blotted Dry"
+        }
+    ],
+    "recipe": [
+        {
+            "text": "Preheat oven to 400 degrees."
+        },
+        {
+            "text": "On the prepared crust, spread fig spread and sprinkle with garlic powder."
+        },
+        {
+            "text": "Next layer crisped prosciutto, arugula leaves, mozzarella ball halves, then artichoke hearts."
+        },
+        {
+            "text": "Cook for ~15-20 minutes, or until cheese is melted and crust is done to your liking."
+        },
+        {
+            "text": "Allow to sit for 3-5 minutes."
+        },
+        {
+            "text": "Slice into 6 slices and serve."
+        },
+        {
+            "text": "Nutrition Info per 1/6 pizza: 274 calories, 7 g fat, 3 g saturated fat, 14 g protein, 39 g carbohydrates"
+        }
+    ]
+}

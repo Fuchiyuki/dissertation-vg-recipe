@@ -1,0 +1,106 @@
+{
+    "title": "mika_'s_cheeseburger_pizza",
+    "id": "f94056350e",
+    "table": [
+        {
+            "instructions": "Caramelize onions in a skillet until starting to turn brown.",
+            "input": "onions",
+            "action": "caramelize",
+            "output": "caramelized onions"
+        },
+        {
+            "instructions": "add hamburger , meat",
+            "input": "(caramelized onions; uncooked hamburger meat)",
+            "action": "add",
+            "output": "uncooked hamburger meat and caramelized onions mixture"
+        },
+        {
+            "instructions": "cook until done .",
+            "input": "uncooked hamburger meat and caramelized onions mixture",
+            "action": "cook",
+            "output": "hamburger onion mixture"
+        },
+        {
+            "instructions": "set aside .",
+            "input": "N/A",
+            "action": "set",
+            "output": "N/A"
+        },
+        {
+            "instructions": "spread approximately 1 12 tablespoons yellow_mustard on each pizza_crust .",
+            "input": "(pizza crust; yellow mustard)",
+            "action": "spread",
+            "output": "pizza crust spread with yellow mustard"
+        },
+        {
+            "instructions": "top each with hamburger onion mixture .",
+            "input": "(pizza crust spread with yellow mustard; hamburger onion mixture)",
+            "action": "top",
+            "output": "pizza crust topped with hamburger onion mixture"
+        },
+        {
+            "instructions": "top each with 1 12 cups , cheese ;",
+            "input": "(pizza crust topped with hamburger onion mixture; cheese)",
+            "action": "top",
+            "output": "uncooked hamburger pizza topped with cheese"
+        },
+        {
+            "instructions": "bake at 425 degrees for 10 minutes .",
+            "input": "uncooked hamburger pizza topped with cheese",
+            "action": "bake",
+            "output": "baked hamburger pizza topped with cheese"
+        },
+        {
+            "instructions": "top with dill_pickle slices and extra mustard if desired .",
+            "input": "(baked hamburger pizza topped with cheese; dill pickle slices and extra mustard)",
+            "action": "top",
+            "output": "baked hamburger pizza topped with cheese topped with dill pickle slices and extra mustard"
+        }
+    ],
+    "ingredients": [
+        {
+            "text": "1 lb extra lean ground beef"
+        },
+        {
+            "text": "2 small onions, chopped"
+        },
+        {
+            "text": "2 prepared pizza crust (I use Mama Marys)"
+        },
+        {
+            "text": "3 cups shredded cheddar cheese, divided"
+        },
+        {
+            "text": "3 tablespoons yellow mustard, divided"
+        },
+        {
+            "text": "22 dill pickle slices"
+        }
+    ],
+    "recipe": [
+        {
+            "text": "Carmelize onions in a skillet until starting to turn brown."
+        },
+        {
+            "text": "Add hamburger meat and cook until done."
+        },
+        {
+            "text": "Set aside."
+        },
+        {
+            "text": "Spread approximately 1 1/2 Tablespoons yellow mustard on each pizza crust."
+        },
+        {
+            "text": "Top each with hamburger/onion mixture."
+        },
+        {
+            "text": "Top each with 1 1/2 cups cheese; bake at 425 degrees for 10 minutes."
+        },
+        {
+            "text": "*Hint* For a crispier crust, broil until desired appearance is achieved."
+        },
+        {
+            "text": "Top with dill pickle slices and extra mustard if desired."
+        }
+    ]
+}

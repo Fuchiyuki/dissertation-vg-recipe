@@ -1,0 +1,172 @@
+{
+    "title": "shrimp_scampi_pizza",
+    "id": "d8b14b109b",
+    "table": [
+        {
+            "instructions": "preheat oven to 550 degrees f .",
+            "input": "NA",
+            "action": "preheat",
+            "output": "NA"
+        },
+        {
+            "instructions": "stretch pizza_dough",
+            "input": "pizza_dough",
+            "action": "stretch",
+            "output": "stretched_pizza_dough"
+        },
+        {
+            "instructions": "to make a 16 inch , pizza .",
+            "input": "NA",
+            "action": "make",
+            "output": "NA"
+        },
+        {
+            "instructions": "top crust with mozzarella ,",
+            "input": "mozzarella; stretched_pizza_dough",
+            "action": "top",
+            "output": "stretched_pizza_dough with mozzarella"
+        },
+        {
+            "instructions": "bake on a pizza\u2012pan or pizza stone for 5 minutes .",
+            "input": "stretched_pizza_dough with mozzarella",
+            "action": "bake",
+            "output": "baked cheese crust"
+        },
+        {
+            "instructions": "in a medium skillet over high heat , heat olive_oil until very hot",
+            "input": "olive oil",
+            "action": "heat",
+            "output": "heated olive oil"
+        },
+        {
+            "instructions": "remove from heat",
+            "input": "heated olive oil",
+            "action": "remove",
+            "output": "heated olive oil"
+        },
+        {
+            "instructions": "add shrimp and garlic ,",
+            "input": "shrimp; garlic; heated olive oil",
+            "action": "add",
+            "output": "shrimp and garlic in heated olive oil"
+        },
+        {
+            "instructions": "toss .",
+            "input": "shrimp and garlic in heated olive oil",
+            "action": "toss",
+            "output": "tossed shrimpo and garlic mixture"
+        },
+        {
+            "instructions": "add wine , chicken_stock and lemon_juice",
+            "input": "tossed shrimpo and garlic mixture; wine; chicken stock; lemon juice",
+            "action": "add",
+            "output": "shrimp and garlic with chicken stock, wine and lemon"
+        },
+        {
+            "instructions": "add butter ,",
+            "input": "butter; shrimp and garlic with chicken stock, wine and lemon",
+            "action": "add",
+            "output": "shrimp and garlic with chicken stock, wine, lemon and cold butter"
+        },
+        {
+            "instructions": "heat until melted ,",
+            "input": "shrimp and garlic with chicken stock, wine, lemon and cold butter",
+            "action": "heat",
+            "output": "shrimp and garlic with chicken stock, wine, lemon and melted butter"
+        },
+        {
+            "instructions": "remove from heat .",
+            "input": "shrimp and garlic with chicken stock, wine, lemon and melted butter",
+            "action": "remove",
+            "output": "shrimp and garlic with wine sauce"
+        },
+        {
+            "instructions": "season mixture with salt and pepper .",
+            "input": "shrimp and garlic with wine sauce; salt; pepper",
+            "action": "season",
+            "output": "seasoned shrimp and garlic with wine sauce"
+        },
+        {
+            "instructions": "spread mixture over crust",
+            "input": "(seasoned shrimp and garlic with wine sauce; baked cheese crust)",
+            "action": "spread",
+            "output": "seasoned shrimp and garlic with wine sauce spread on baked cheese crust"
+        },
+        {
+            "instructions": "sprinkle with chopped_parsley",
+            "input": "(chopped parsley; shrimp and garlic_pizza)",
+            "action": "sprinkle",
+            "output": "shrimp and garlic pizza with parsley"
+        }
+    ],
+    "ingredients": [
+        {
+            "text": "13 ounces pizza dough"
+        },
+        {
+            "text": "8 ounces shredded mozzarella"
+        },
+        {
+            "text": "1 tablespoon olive oil"
+        },
+        {
+            "text": "2 pounds shrimp, peeled and deveined"
+        },
+        {
+            "text": "2 tablespoons finely chopped garlic"
+        },
+        {
+            "text": "1/2 cup white wine"
+        },
+        {
+            "text": "1/4 cup chicken stock"
+        },
+        {
+            "text": "2 tablespoons lemon juice"
+        },
+        {
+            "text": "Kosher salt and freshly ground black pepper"
+        },
+        {
+            "text": "4 (1-ounce) cubes butter"
+        },
+        {
+            "text": "2 tablespoons fresh parsley leaves, chopped"
+        }
+    ],
+    "recipe": [
+        {
+            "text": "Preheat oven to 550 degrees F."
+        },
+        {
+            "text": "Stretch pizza dough to make a 16-inch pizza."
+        },
+        {
+            "text": "Top crust with mozzarella, and bake on a pizza pan or pizza stone for 5 minutes."
+        },
+        {
+            "text": "Crust will only be partially cooked."
+        },
+        {
+            "text": "In a medium skillet over high heat, heat olive oil until very hot, remove from heat, add shrimp and garlic, and toss."
+        },
+        {
+            "text": "Add wine, chicken stock and lemon juice, bring to a simmer."
+        },
+        {
+            "text": "Add butter, and heat until melted, then remove from heat."
+        },
+        {
+            "text": "Season mixture with salt and pepper."
+        },
+        {
+            "text": "Shrimp will finish cooking on pizza."
+        },
+        {
+            "text": "Spread mixture over crust and finish baking until golden brown, about 5 minutes."
+        },
+        {
+            "text": "Sprinkle with chopped parsley, let cool a few minutes before cutting."
+        }
+    ]
+}

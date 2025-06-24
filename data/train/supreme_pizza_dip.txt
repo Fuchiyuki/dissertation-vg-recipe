@@ -1,0 +1,262 @@
+{
+    "title": "supreme_pizza_dip",
+    "id": "69de8b0fe9",
+    "table": [
+        {
+            "instructions": "preheat the oven to 425 degrees f .",
+            "input": "NA",
+            "action": "preheat",
+            "output": "NA"
+        },
+        {
+            "instructions": "dice 3 ounces of the pepperoni .",
+            "input": "pepperoni",
+            "action": "dice",
+            "output": "diced pepperoni"
+        },
+        {
+            "instructions": "thinly slice the remaining 1 ounce",
+            "input": "remaining pepperoni",
+            "action": "slice",
+            "output": "remaining pepperoni sliced"
+        },
+        {
+            "instructions": "set it aside to garnish the dip .",
+            "input": "remaining pepperoni sliced",
+            "action": "set",
+            "output": "reserved pepperoni sliced"
+        },
+        {
+            "instructions": "heat a medium cast iron or ovenproof skillet over medium heat until hot .",
+            "input": "NA",
+            "action": "heat",
+            "output": "NA"
+        },
+        {
+            "instructions": "add the diced pepperoni",
+            "input": "pepperoni",
+            "action": "add",
+            "output": "diced pepperoni in hot skillet"
+        },
+        {
+            "instructions": "cook , stirring , until crisp , 4 to 5 minutes .",
+            "input": "diced pepperoni in hot skillet",
+            "action": "cook",
+            "output": "cooked diced pepperoni"
+        },
+        {
+            "instructions": "add the onions , bell_pepper , minced_garlic , oregano , 34 teaspoon salt and some pepper .",
+            "input": "(cooked diced pepperoni; onions; bell pepper; minced garlice; oregano; salt; pepper)",
+            "action": "add",
+            "output": "cooked diced pepperoni and vegetable mixture"
+        },
+        {
+            "instructions": "stir in the tomato_paste",
+            "input": "(cooked diced pepperoni and vegetable mixture; tomato paste)",
+            "action": "stir",
+            "output": "tomato paste stirred into cooked diced pepperoni and vegetable mixture"
+        },
+        {
+            "instructions": "cook , stirring , until it coats the vegetables",
+            "input": "tomato paste stirred into cooked diced pepperoni and vegetable mixture",
+            "action": "cook",
+            "output": "cooking diced pepperoni, vegetable and tomato paste mixture"
+        },
+        {
+            "instructions": "stir in the tomatoes with their juice from the can .",
+            "input": "(cooking diced pepperoni, vegetable and tomato paste mixture; can of tomato)",
+            "action": "stir",
+            "output": "cooking diced pepperoni, vegetable, tomato paste and crushed tomato mixture"
+        },
+        {
+            "instructions": "reduce the heat",
+            "input": "cooking diced pepperoni, vegetable, tomato paste and crushed tomato mixture",
+            "action": "reduce",
+            "output": "cooking pepperoni and tomato sauce"
+        },
+        {
+            "instructions": "simmer , stirring occasionally , until the mixture is slightly thickened , about 15 minutes .",
+            "input": "cooking pepperoni and tomato sauce",
+            "action": "simmer",
+            "output": "simmering pepperoni and tomato sauce"
+        },
+        {
+            "instructions": "stir in the olives and parmesan",
+            "input": "(simmering pepperoni and tomato sauce; olives; parmesan)",
+            "action": "stir",
+            "output": "olives and parmesan stirred into simmering pepperoni and tomato sauce"
+        },
+        {
+            "instructions": "remove from the heat .",
+            "input": "olives and parmesan stirred into simmering pepperoni and tomato sauce",
+            "action": "remove",
+            "output": "pepperoni and tomato mixture with stirred-in olives and parmesan"
+        },
+        {
+            "instructions": "season with additional salt and pepper .",
+            "input": "(pepperoni and tomato mixture with stirred-in olives and parmesan; salt; pepper)",
+            "action": "season",
+            "output": "seasoned pepperoni and tomato mixture with stirred-in olives and parmesan"
+        },
+        {
+            "instructions": "meanwhile , toss the baguette slices with the oil",
+            "input": "(baguette slices; oil)",
+            "action": "toss",
+            "output": "Baguette slices tossed with oil"
+        },
+        {
+            "instructions": "spread in a single layer on an ungreased baking sheet .",
+            "input": "Baguette slices tossed with oil",
+            "action": "spread",
+            "output": "Baguette slices spread in a single layer"
+        },
+        {
+            "instructions": "bake until lightly toasted and crisp , 7 to 9 minutes .",
+            "input": "Baguette slices spread in a single layer",
+            "action": "bake",
+            "output": "Lightly toasted and crisp baguette slices"
+        },
+        {
+            "instructions": "rub the slices with the whole garlic_clove",
+            "input": "(Lightly toasted and crisp baguette slices; garlic clove)",
+            "action": "rub",
+            "output": "toasted baguette slices rubbed with whole garlic_clove"
+        },
+        {
+            "instructions": "set aside to cool .",
+            "input": "toasted baguette slices rubbed with whole garlic_clove",
+            "action": "set",
+            "output": "garlic toasts"
+        },
+        {
+            "instructions": "preheat the broiler .",
+            "input": "NA",
+            "action": "preheat",
+            "output": "NA"
+        },
+        {
+            "instructions": "scatter the mozzarella and reserved sliced pepperoni over the dip in the skillet .",
+            "input": "(Mozzarella; reserved sliced pepperoni; seasoned pepperoni and tomato mixture with stirred-in olives and parmesan)",
+            "action": "scatter",
+            "output": "mozzarella and reserved sliced pepperoni scattered over cooked pizza dip"
+        },
+        {
+            "instructions": "place the skillet under the broiler",
+            "input": "mozzarella and reserved sliced pepperoni scattered over cooked pizza dip",
+            "action": "place",
+            "output": "mozzarella and reserved sliced pepperoni scattered over cooked pizza dip"
+        },
+        {
+            "instructions": "broil until the cheese is melted",
+            "input": "mozzarella and reserved sliced pepperoni scattered over cooked pizza dip",
+            "action": "broil",
+            "output": "broiled cooked pizza dip with melted mozzarella and reserved sliced pepperoni"
+        },
+        {
+            "instructions": "serve the dip warm with the garlic toasts on the side .",
+            "input": "(broiled cooked pizza dip with melted mozzarella and reserved sliced pepperoni; garlic toasts)",
+            "action": "serve",
+            "output": "broiled cooked pizza dip with melted mozzarella and reserved sliced pepperoni served with garlic toasts"
+        }
+    ],
+    "ingredients": [
+        {
+            "text": "4 ounces pepperoni"
+        },
+        {
+            "text": "1 cup finely chopped onion"
+        },
+        {
+            "text": "1/2 cup finely chopped green bell pepper"
+        },
+        {
+            "text": "2 cloves garlic, minced plus 1 whole clove"
+        },
+        {
+            "text": "1/2 teaspoon dried oregano"
+        },
+        {
+            "text": "Kosher salt and freshly ground black pepper"
+        },
+        {
+            "text": "1 tablespoon tomato paste"
+        },
+        {
+            "text": "One 28-ounce can crushed tomatoes"
+        },
+        {
+            "text": "1/3 cup pitted black olives, chopped"
+        },
+        {
+            "text": "1/4 cup grated Parmesan"
+        },
+        {
+            "text": "1 baguette, ends trimmed, sliced diagonally into twenty-four 1/2-inch pieces"
+        },
+        {
+            "text": "2 tablespoons olive oil"
+        },
+        {
+            "text": "4 ounces mozzarella, diced"
+        },
+        {
+            "text": "Copyright 2012 Television Food Network, G.P. All rights reserved."
+        }
+    ],
+    "recipe": [
+        {
+            "text": "Preheat the oven to 425 degrees F. Dice 3 ounces of the pepperoni."
+        },
+        {
+            "text": "Thinly slice the remaining 1 ounce and set it aside to garnish the dip."
+        },
+        {
+            "text": "Heat a medium cast-iron or ovenproof skillet over medium heat until hot."
+        },
+        {
+            "text": "Add the diced pepperoni and cook, stirring, until crisp, 4 to 5 minutes."
+        },
+        {
+            "text": "Add the onions, bell pepper, minced garlic, oregano, 3/4 teaspoon salt and some pepper."
+        },
+        {
+            "text": "Continue to cook, stirring, until the onions are very tender and lightly browned, about 5 minutes."
+        },
+        {
+            "text": "Stir in the tomato paste and cook, stirring, until it coats the vegetables and smells lightly toasted, about 1 minute."
+        },
+        {
+            "text": "Stir in the tomatoes with their juice from the can."
+        },
+        {
+            "text": "Reduce the heat and simmer, stirring occasionally, until the mixture is slightly thickened, about 15 minutes."
+        },
+        {
+            "text": "Stir in the olives and Parmesan and remove from the heat."
+        },
+        {
+            "text": "Season with additional salt and pepper."
+        },
+        {
+            "text": "Meanwhile, toss the baguette slices with the oil and spread in a single layer on an ungreased baking sheet."
+        },
+        {
+            "text": "Bake until lightly toasted and crisp, 7 to 9 minutes."
+        },
+        {
+            "text": "Rub the slices with the whole garlic clove and set aside to cool."
+        },
+        {
+            "text": "Preheat the broiler."
+        },
+        {
+            "text": "Scatter the mozzarella and reserved sliced pepperoni over the dip in the skillet."
+        },
+        {
+            "text": "Place the skillet under the broiler and broil until the cheese is melted and lightly browned, 2 to 3 minutes."
+        },
+        {
+            "text": "Serve the dip warm with the garlic toasts on the side."
+        }
+    ]
+}

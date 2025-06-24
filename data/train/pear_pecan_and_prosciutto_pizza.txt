@@ -1,0 +1,97 @@
+{
+    "title": "pear_pecan_and_prosciutto_pizza",
+    "id": "ec823a0e92",
+    "table": [
+        {
+            "instructions": "heat oven to 425 degrees f .",
+            "input": "NA",
+            "action": "heat",
+            "output": "NA"
+        },
+        {
+            "instructions": "roll perfect parmesan pizza_dough into 12",
+            "input": "parmesan pizza_dough",
+            "action": "roll",
+            "output": "rolled_parmesan pizza_dough"
+        },
+        {
+            "instructions": "transfer to 12 inch , pizza\u2012pan sprayed with cooking_spray .",
+            "input": "rolled_parmesan pizza_dough",
+            "action": "transfer",
+            "output": "rolled_parmesan pizza_dough"
+        },
+        {
+            "instructions": "top with all remaining_ingredient except prosciutto and rosemary ;",
+            "input": "(sliced pear; mozzarella cheese; parmesan cheese; pecan nuts)",
+            "action": "top",
+            "output": "rolled_parmesan pizza_dough topped with sliced pear, mozzarella cheese, parmesan cheese and pecan nuts"
+        },
+        {
+            "instructions": "place on bottom oven rack .",
+            "input": "uncooked pear_pecan_and_prosciutto_pizza",
+            "action": "place",
+            "output": "baked pear_pecan_and_prosciutto_pizza"
+        },
+        {
+            "instructions": "bake 18 to 20 min .",
+            "input": "baked pear_pecan_and_prosciutto_pizza",
+            "action": "bake",
+            "output": "baked pear_pecan_and_prosciutto_pizza"
+        },
+        {
+            "instructions": "top with prosciutto and rosemary .",
+            "input": "(prosciutto; rosemary; baked pear_pecan_and_prosciutto_pizza)",
+            "action": "top",
+            "output": "pear_pecan_and_prosciutto_pizza"
+        }
+    ],
+    "ingredients": [
+        {
+            "text": "1/4 recipe Perfect Parmesan Pizza Dough"
+        },
+        {
+            "text": "1 pear, thinly sliced"
+        },
+        {
+            "text": "1-1/2 cups Cracker Barrel Shredded Mozza-Cheddar Cheese"
+        },
+        {
+            "text": "2 Tbsp. Kraft 100% Parmesan Aged Grated Cheese"
+        },
+        {
+            "text": "1/4 cup toasted pecan halves"
+        },
+        {
+            "text": "3 slices prosciutto (45 g), chopped"
+        },
+        {
+            "text": "1 Tbsp. chopped fresh rosemary"
+        }
+    ],
+    "recipe": [
+        {
+            "text": "Heat oven to 425 degrees F."
+        },
+        {
+            "text": "Roll Perfect Parmesan Pizza Dough into 12-inch circle on lightly floured surface."
+        },
+        {
+            "text": "Transfer to 12-inch pizza pan sprayed with cooking spray."
+        },
+        {
+            "text": "Let stand 10 min."
+        },
+        {
+            "text": "Top with all remaining ingredients except prosciutto and rosemary; place on bottom oven rack."
+        },
+        {
+            "text": "Bake 18 to 20 min."
+        },
+        {
+            "text": "or until edge of crust is golden brown."
+        },
+        {
+            "text": "Top with prosciutto and rosemary."
+        }
+    ]
+}

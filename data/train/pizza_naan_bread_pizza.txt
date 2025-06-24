@@ -1,0 +1,124 @@
+{
+    "title": "pizza_naan_bread_pizza",
+    "id": "eba2fc048d",
+    "table": [
+        {
+            "instructions": "preheat the oven to 400f .",
+            "input": "NA",
+            "actions": "preheat",
+            "output": "NA"
+        },
+        {
+            "instructions": "brown",
+            "input": "NA",
+            "actions": "brown",
+            "output": "NA"
+        },
+        {
+            "instructions": "cook sausage patty breaking up in to small pieces in pan ;",
+            "input": "sausage patty",
+            "actions": "cook",
+            "output": "cooked broken sausage patty"
+        },
+        {
+            "instructions": "drain on paper towels .",
+            "input": "cooked broken sausage patty",
+            "actions": "drain",
+            "output": "drained broken sausage patty"
+        },
+        {
+            "instructions": "spread your sauce on naan , bread .",
+            "input": "sauce, naan_bread",
+            "actions": "spread",
+            "output": "spread_sauce on naan bread"
+        },
+        {
+            "instructions": "sprinkle 14cup of mozzarella_cheese .",
+            "input": "(mozzarella_cheese; naan_bread)",
+            "actions": "sprinkle",
+            "output": "mozzarella_cheese_spread_over_naan_bread"
+        },
+        {
+            "instructions": "sprinkle sausage pieces .",
+            "input": "(cheesy_naan_bread; sausage pieces)",
+            "actions": "sprinkle",
+            "output": "sausage pieces sprinkled on cheesy naan_bread"
+        },
+        {
+            "instructions": "spread sliced_mushroom",
+            "input": "(sliced_mushroom; naan_bred_with_toppings)",
+            "actions": "spread",
+            "output": "sliced_mushroom_spread_on_naan_bred_with_toppings"
+        },
+        {
+            "instructions": "top with rest of mozzarella_cheese .",
+            "input": "(remaining mozzarella cheese; naan_bred_with_toppings)",
+            "actions": "top",
+            "output": "naan_bred_pizza_topped_with remaining mozzarella cheese"
+        },
+        {
+            "instructions": "lay buffalo_mozzarella with basil leaf on top of each slice if you want 4 thin slices",
+            "input": "(buffalo_mozzarella; basil)",
+            "actions": "lay",
+            "output": "buffalo_mozzarella and basil laid on naan bread pizza"
+        },
+        {
+            "instructions": "bake 8 to 12 minutes or to desired crispiness .",
+            "input": "uncooked naan bread pizza",
+            "actions": "bake",
+            "output": "naan_bread_pizza"
+        }
+    ],
+    "ingredients": [
+        {
+            "text": "1 naan flat bread (I use Wegmans Garlic Naan, 8.8oz.)"
+        },
+        {
+            "text": "23 cup of your favorite pizza sauce (I used Wegmans Grandpa Pasta Sauce)"
+        },
+        {
+            "text": "34 cup mozzarella cheese"
+        },
+        {
+            "text": "1 hot italian sausage patty or mushroom, sliced"
+        },
+        {
+            "text": "1 ounce buffalo mozzarella (4 thin slices.)"
+        },
+        {
+            "text": "4 fresh basil leaves (If you want..)"
+        }
+    ],
+    "recipe": [
+        {
+            "text": "Preheat the oven to 400F."
+        },
+        {
+            "text": "Brown and Cook Sausage Patty Breaking up in to small pieces in Pan Drain on paper towels."
+        },
+        {
+            "text": "Spread your sauce on Naan Bread."
+        },
+        {
+            "text": "Sprinkle 1/4cup of mozzarella cheese."
+        },
+        {
+            "text": "Sprinkle Sausage pieces."
+        },
+        {
+            "text": "Spread sliced Mushrooms"
+        },
+        {
+            "text": "Top with rest of mozzarella cheese."
+        },
+        {
+            "text": "Lay buffalo mozzarella with Basil leaf on top of each slice If you want (4 thin slices."
+        },
+        {
+            "text": ")."
+        },
+        {
+            "text": "Bake 8 to 12 minutes or to desired crispiness."
+        }
+    ]
+}

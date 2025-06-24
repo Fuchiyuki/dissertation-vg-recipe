@@ -1,0 +1,151 @@
+{
+    "title": "quick_southwestern_pizza",
+    "id": "bd1ce10eb9",
+    "table": [
+        {
+            "instructions": "move oven rack to lowest position .",
+            "input": "NA",
+            "action": "move",
+            "output": "NA"
+        },
+        {
+            "instructions": "heat oven to 450 degrees .",
+            "input": "NA",
+            "action": "heat",
+            "output": "NA"
+        },
+        {
+            "instructions": "grease cookie sheet or 12 inch , pizza\u2012pan .",
+            "input": "NA",
+            "action": "grease",
+            "output": "NA"
+        },
+        {
+            "instructions": "mix baking_mix and water ;",
+            "input": "(Baking_mix; water)",
+            "action": "mix",
+            "output": "dough"
+        },
+        {
+            "instructions": "beat vigorously 20 strokes .",
+            "input": "dough",
+            "action": "beat",
+            "output": "dough"
+        },
+        {
+            "instructions": "turn onto floured surface .",
+            "input": "dough",
+            "action": "turn",
+            "output": "dough"
+        },
+        {
+            "instructions": "knead about 60 times or until no longer sticky .",
+            "input": "dough",
+            "action": "knead",
+            "output": "kneaded_dough"
+        },
+        {
+            "instructions": "press into 13 inch circle on cookie sheet ;",
+            "input": "kneaded_dough",
+            "action": "press",
+            "output": "pressed dough"
+        },
+        {
+            "instructions": "pinch edge , forming 12 inch rim , or press in pizza\u2012pan .",
+            "input": "pressed dough",
+            "action": "pinch",
+            "output": "pizza crust"
+        },
+        {
+            "instructions": "mix chicken and salsa .",
+            "input": "(chicken; salsa)",
+            "action": "mix",
+            "output": "chicken_salsa mixture"
+        },
+        {
+            "instructions": "sprinkle crust with 1 cup of the cheese .",
+            "input": "(cheese; pizza crust)",
+            "action": "sprinkle",
+            "output": "cheese_crust"
+        },
+        {
+            "instructions": "top with onion , chicken mixture and pepper ;",
+            "input": "(onion; chicken_salsa mixture; pepper)",
+            "action": "top",
+            "output": "onion_chicken_salsa_pepper_topped cheese_crust"
+        },
+        {
+            "instructions": "sprinkle with remaining cheese .",
+            "input": "(remaining cheese; onion_chicken_salsa_pepper_topped cheese_crust)",
+            "action": "sprinkle",
+            "output": "remaining cheese sprinkled on onion_chicken_salsa_pepper_topped cheese_crust"
+        },
+        {
+            "instructions": "bake 12 to 15 minutes or until crust is brown and cheese is bubbly .",
+            "input": "assembled southwestern_pizza",
+            "action": "bake",
+            "output": "baked southwestern_pizza"
+        }
+    ],
+    "ingredients": [
+        {
+            "text": "1 1/2 cup biscuit baking mix (bisquick) original baking mix"
+        },
+        {
+            "text": "13 cup water very hot"
+        },
+        {
+            "text": "2 cups chicken cut-up, cooked"
+        },
+        {
+            "text": "1/2 cup salsa or picante sauce"
+        },
+        {
+            "text": "2 cups mozzarella cheese shredded"
+        },
+        {
+            "text": "1/4 cup onions chopped"
+        },
+        {
+            "text": "1/2 each sweet red bell peppers cut into thin rings"
+        }
+    ],
+    "recipe": [
+        {
+            "text": "Move oven rack to lowest position."
+        },
+        {
+            "text": "Heat oven to 450 degrees."
+        },
+        {
+            "text": "Grease cookie sheet or 12 inch pizza pan."
+        },
+        {
+            "text": "Mix baking mix and water; beat vigorously 20 strokes."
+        },
+        {
+            "text": "Turn onto floured surface."
+        },
+        {
+            "text": "Knead about 60 times or until no longer sticky."
+        },
+        {
+            "text": "Press into 13 inch circle on cookie sheet; pinch edge, forming 1/2 inch rim, or press in pizza pan."
+        },
+        {
+            "text": "Mix chicken and salsa."
+        },
+        {
+            "text": "Sprinkle crust with 1 cup of the cheese."
+        },
+        {
+            "text": "Top with onion, chicken mixture and pepper; sprinkle with remaining cheese."
+        },
+        {
+            "text": "Bake 12 to 15 minutes or until crust is brown and cheese is bubbly."
+        },
+        {
+            "text": "Makes 1 pizza."
+        }
+    ]
+}

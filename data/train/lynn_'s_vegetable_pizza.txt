@@ -1,0 +1,94 @@
+{
+    "title": "lynn_'s_vegetable_pizza",
+    "id": "3b4cd3835b",
+    "table": [
+        {
+            "instructions": "roll out",
+            "input": "cresent rolls",
+            "action": "roll",
+            "output": "rolled_out_crescent rolls"
+        },
+        {
+            "instructions": "spread cresent rolls on a large cookie sheet .",
+            "input": "rolled_out_crescent rolls",
+            "action": "spread",
+            "output": "spread crescent rolls"
+        },
+        {
+            "instructions": "bake at 375 degrees for 10 minutes .",
+            "input": "uncooked spread crescent rolls",
+            "action": "bake",
+            "output": "baked crescent roll crust"
+        },
+        {
+            "instructions": "mix the cream_cheese , salad_dressing , dry dressing , and onion together .",
+            "input": "(cream_cheese; salad_dressing; dry dressing; onion)",
+            "action": "mix",
+            "output": "cream cheese mixture"
+        },
+        {
+            "instructions": "spread over a cooled crust .",
+            "input": "(baked crescent roll crust; cream cheese mixture)",
+            "action": "spread",
+            "output": "cream cheese mixture spread over cooled baked crescent roll crust"
+        },
+        {
+            "instructions": "top with finely chopped vegetables of your choice .",
+            "input": "(finely chopped vegetables; cream cheese pizza)",
+            "action": "top",
+            "output": "cream cheese pizza topped with finely chopped vegetables"
+        }
+    ],
+    "ingredients": [
+        {
+            "text": "2 (8 ounce) containers crescent rolls"
+        },
+        {
+            "text": "2 (8 ounce) packages cream cheese, softened"
+        },
+        {
+            "text": "12 cup salad dressing"
+        },
+        {
+            "text": "1 (1 ounce) packagehidden valley Italian salad dressing mix"
+        },
+        {
+            "text": "12 cup onion, finely chopped"
+        },
+        {
+            "text": "broccoli, finely chopped"
+        },
+        {
+            "text": "radish, finely chopped"
+        },
+        {
+            "text": "carrot, grated"
+        },
+        {
+            "text": "cauliflower, finely chopped"
+        },
+        {
+            "text": "shredded cheddar cheese"
+        }
+    ],
+    "recipe": [
+        {
+            "text": "Roll out and spread cresent rolls on a large cookie sheet."
+        },
+        {
+            "text": "Bake at 375 degrees for 10 minutes."
+        },
+        {
+            "text": "Mix the cream cheese, salad dressing, dry dressing, and onion together."
+        },
+        {
+            "text": "Spread over a cooled crust."
+        },
+        {
+            "text": "Top with finely chopped vegetables of your choice."
+        },
+        {
+            "text": "Then spinkle with shredded cheese."
+        }
+    ]
+}

@@ -1,0 +1,76 @@
+{
+    "title": "pesto_pita_pizza",
+    "id": "8f4153ec8c",
+    "table": [
+        {
+            "instructions": "preheat oven to 375 degrees f 190 degrees c.",
+            "input": "NA",
+            "actions": "preheat",
+            "output": "NA"
+        },
+        {
+            "instructions": "arrange pita_bread on a baking sheet .",
+            "input": "pita_bread",
+            "actions": "arrange",
+            "output": "pita_bread"
+        },
+        {
+            "instructions": "bake in preheated oven until pita is lightly toasted , about 4 minutes .",
+            "input": "Pita bread",
+            "actions": "bake",
+            "output": "toasted pita_bread"
+        },
+        {
+            "instructions": "spread pesto evenly over toasted pita_bread",
+            "input": "(Pesto, toasted pita_bread)",
+            "actions": "spread",
+            "output": "Pesto-covered pita bread"
+        },
+        {
+            "instructions": "arrange tomato slices in a single layer .",
+            "input": "(Tomato slices; Pesto-covered pita bread)",
+            "actions": "arrange",
+            "output": "Tomato-covered pita bread"
+        },
+        {
+            "instructions": "top with feta_cheese .",
+            "input": "(feta cheese, pesto pita pizza)",
+            "actions": "top",
+            "output": "Feta-covered pesto pita bread"
+        }
+    ],
+    "ingredients": [
+        {
+            "text": "4 pita bread rounds"
+        },
+        {
+            "text": "1/2 cup pesto"
+        },
+        {
+            "text": "2 tomatoes, sliced"
+        },
+        {
+            "text": "1 (4 ounce) container crumbled feta cheese"
+        }
+    ],
+    "recipe": [
+        {
+            "text": "Preheat oven to 375 degrees F (190 degrees C)."
+        },
+        {
+            "text": "Arrange pita bread on a baking sheet."
+        },
+        {
+            "text": "Bake in preheated oven until pita is lightly toasted, about 4 minutes."
+        },
+        {
+            "text": "Spread pesto evenly over toasted pita bread and arrange tomato slices in a single layer."
+        },
+        {
+            "text": "Top with feta cheese."
+        },
+        {
+            "text": "Continue baking until feta cheese is browned and pita bread is crisp, about 11 minutes more."
+        }
+    ]
+}

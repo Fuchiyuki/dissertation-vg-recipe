@@ -1,0 +1,157 @@
+{
+    "title": "pizza_alla_benno_speck_pineapple_jalapenos_mozzarella_and_tomato",
+    "id": "dabd098c95",
+    "table": [
+        {
+            "instructions": "prepare",
+            "input": "dough",
+            "action": "prepare",
+            "output": "prepared_dough"
+        },
+        {
+            "instructions": "stretch the dough",
+            "input": "prepared_dough",
+            "action": "stretch",
+            "output": "stretched dough"
+        },
+        {
+            "instructions": "preheat the oven according to the instructions given in nancys scuola di pizza page 128 .",
+            "input": "NA",
+            "action": "preheat",
+            "output": "NA"
+        },
+        {
+            "instructions": "brush the rim of the dough with olive_oil",
+            "input": "(olive_oil; stretched dough)",
+            "action": "brush",
+            "output": "dough_brushed with_olive_oil"
+        },
+        {
+            "instructions": "season the entire surface with salt .",
+            "input": "(salt; dough_brushed with_olive_oil)",
+            "action": "season",
+            "output": "seasoned and oiled pizza crust"
+        },
+        {
+            "instructions": "ladle or spoon the sauce onto the center of the dough",
+            "input": "(sauce; seasoned and oiled pizza crust)",
+            "action": "ladle",
+            "output": "dough_with_sauce"
+        },
+        {
+            "instructions": "use the back of the ladle or spoon in a circular motion to spread the sauce over the surface of the dough , leaving a 1 inch rim without any sauce .",
+            "input": "dough_with_sauce",
+            "action": "use",
+            "output": "dough_with_spread_sauce"
+        },
+        {
+            "instructions": "scatter the cheese and then the jalapeno slices over the pizza",
+            "input": "(cheese; jalepeno; raw pizza crust_with_spread sauce)",
+            "action": "scatter",
+            "output": "raw pizza crust_with_spread sauce, cheese_and_jalapeno"
+        },
+        {
+            "instructions": "lay 2 pineapple_slice in each quadrant of the pizza , putting the halves together to look like a whole round ,",
+            "input": "(pineapple_slice;  raw pizza crust_with_spread sauce, cheese_and_jalapeno)",
+            "action": "lay",
+            "output": "raw pizza crust_with_spread sauce, cheese,_jalapeno and pineapple slice in each quadrant"
+        },
+        {
+            "instructions": "lay the final slice in the center of the pizza .",
+            "input": "(pineapple_slice; raw pizza crust_with_spread sauce, cheese,_jalapeno and pineapple slice in each quadrant)",
+            "action": "lay",
+            "output": "raw pizza crust_with_spread sauce, cheese,_jalapeno and pineapple slices in each quadrant and center"
+        },
+        {
+            "instructions": "slide the pizza into the oven",
+            "input": "uncooked pineapple_jalapenos_mozzarella_and_tomato pizza",
+            "action": "slide",
+            "output": "uncooked pineapple_jalapenos_mozzarella_and_tomato pizza"
+        },
+        {
+            "instructions": "bake until the cheese is melted and the crust is golden brown and crispy , 8 to 12 minutes .",
+            "input": "uncooked pineapple_jalapenos_mozzarella_and_tomato pizza",
+            "action": "bake",
+            "output": "baked pineapple_jalapenos_mozzarella_and_tomato pizza"
+        },
+        {
+            "instructions": "remove the pizza from the oven",
+            "input": "baked pineapple_jalapenos_mozzarella_and_tomato pizza",
+            "action": "remove",
+            "output": "baked pineapple_jalapenos_mozzarella_and_tomato pizza"
+        },
+        {
+            "instructions": "cut it into quarters , making sure that each quadrant contains a whole slice of pineapple .",
+            "input": "baked pineapple_jalapenos_mozzarella_and_tomato pizza",
+            "action": "cut",
+            "output": "sliced_baked pineapple_jalapenos_mozzarella_and_tomato pizza"
+        },
+        {
+            "instructions": "drape one slice of speck onto each quadrant , finely snip the chive over the pizza ,",
+            "input": "(speck; chive; baked pineapple_jalapenos_mozzarella_and_tomato pizza)",
+            "action": "drape",
+            "output": "baked pineapple_jalapenos_mozzarella_and_tomato pizza_topped_with_speck_and_chive"
+        },
+        {
+            "instructions": "serve .",
+            "input": "baked speck_pineapple_jalapenos_mozzarella_and_tomato",
+            "action": "serve",
+            "output": "baked speck_pineapple_jalapenos_mozzarella_and_tomato ready to serve"
+        }
+    ],
+    "ingredients": [
+        {
+            "text": "1 round of Nancys Pizza Dough (page 126)"
+        },
+        {
+            "text": "1 tablespoon extra-virgin olive oil"
+        },
+        {
+            "text": "Kosher salt"
+        },
+        {
+            "text": "1/4 cup Passata di Pomodoro (page 25) or tomato sauce"
+        },
+        {
+            "text": "2 ounces low-moisture mozzarella, cut into 1-inch cubes"
+        },
+        {
+            "text": "8 very thin round slices jalapeno pepper"
+        },
+        {
+            "text": "10 paper-thin pineapple slices (cut the skin off the pineapple, cut the pineapple in half lengthwise, and slice the pineapple on a mandoline, including core; about 2 ounces)"
+        },
+        {
+            "text": "4 thin slices speck or prosciutto (about 1/2 ounce)"
+        },
+        {
+            "text": "1 fresh chive"
+        }
+    ],
+    "recipe": [
+        {
+            "text": "Prepare and stretch the dough and preheat the oven according to the instructions given in Nancys Scuola di Pizza (page 128)."
+        },
+        {
+            "text": "Brush the rim of the dough with olive oil and season the entire surface with salt."
+        },
+        {
+            "text": "Ladle or spoon the sauce onto the center of the dough and use the back of the ladle or spoon in a circular motion to spread the sauce over the surface of the dough, leaving a 1-inch rim without any sauce."
+        },
+        {
+            "text": "Scatter the cheese and then the jalapeno slices over the pizza, lay 2 pineapple slices in each quadrant of the pizza, putting the halves together to look like a whole round, and lay the final slice in the center of the pizza."
+        },
+        {
+            "text": "Slide the pizza into the oven and bake until the cheese is melted and the crust is golden brown and crispy, 8 to 12 minutes."
+        },
+        {
+            "text": "Remove the pizza from the oven and cut it into quarters, making sure that each quadrant contains a whole slice of pineapple."
+        },
+        {
+            "text": "Drape one slice of speck onto each quadrant, finely snip the chive over the pizza, and serve."
+        },
+        {
+            "text": "Gewurztraminer (Alto Adige)"
+        }
+    ]
+}

@@ -1,0 +1,151 @@
+{
+    "title": "quick_fix_pizza",
+    "id": "7ece3b7edf",
+    "table": [
+        {
+            "instructions": "preheat oven to 375 degrees f . ;",
+            "input": "NA",
+            "actions": "preheat",
+            "output": "NA"
+        },
+        {
+            "instructions": "line a baking sheet with parchment paper",
+            "input": "NA",
+            "actions": "line",
+            "output": "NA"
+        },
+        {
+            "instructions": "coat with non stick vegetable_oil_spray .",
+            "input": "NA",
+            "actions": "coat",
+            "output": "NA"
+        },
+        {
+            "instructions": "carefully remove sister , schubert , parker , house rolls from pan",
+            "input": "rolls",
+            "actions": "remove",
+            "output": "removed_rolls"
+        },
+        {
+            "instructions": "place on prepared pan .",
+            "input": "removed_rolls",
+            "actions": "place",
+            "output": "placed_pan"
+        },
+        {
+            "instructions": "using a rolling pin , compress the rolls into a 9 inch round .",
+            "input": "placed_pan",
+            "actions": "compress",
+            "output": "compress_rolls"
+        },
+        {
+            "instructions": "in a small bowl , combine olive_oil and herb blend",
+            "input": "compress_rolls",
+            "actions": "combine",
+            "output": "combine_dough"
+        },
+        {
+            "instructions": "brush top of crust .",
+            "input": "combine_dough",
+            "actions": "brush",
+            "output": "brush_crust"
+        },
+        {
+            "instructions": "spread pizza_sauce over top of crust .",
+            "input": "brush_crust",
+            "actions": "spread",
+            "output": "spread_pizza_sauce"
+        },
+        {
+            "instructions": "top with remaining_ingredient .",
+            "input": "spread_pizza_sauce",
+            "actions": "top",
+            "output": "top_ingredient"
+        },
+        {
+            "instructions": "bake 18 to 20 minutes .",
+            "input": "top_ingredient",
+            "actions": "bake",
+            "output": "bake_pizza"
+        },
+        {
+            "instructions": "cool slightly",
+            "input": "bake_pizza",
+            "actions": "cool",
+            "output": "cool_food"
+        },
+        {
+            "instructions": "slice into desired pieces .",
+            "input": "cool_food",
+            "actions": "slice",
+            "output": "slice_cooked food"
+        },
+        {
+            "instructions": "serve .",
+            "input": "slice_cooked food",
+            "actions": "serve",
+            "output": "pizza"
+        }
+    ],
+    "ingredients": [
+        {
+            "text": "1 (11 ounce) package Sister Schubert's Parker House Rolls, defrosted"
+        },
+        {
+            "text": "1 tablespoon olive oil"
+        },
+        {
+            "text": "1/4 teaspoon Italian herb blend"
+        },
+        {
+            "text": "1/3 cup pizza sauce"
+        },
+        {
+            "text": "1/2 cup shredded Mozzarella"
+        },
+        {
+            "text": "16 pepperoni slices"
+        },
+        {
+            "text": "1/4 cup diced green bell pepper"
+        },
+        {
+            "text": "2 thin slices white onion, separated into rings"
+        },
+        {
+            "text": "1 tablespoon grated Parmesan cheese"
+        }
+    ],
+    "recipe": [
+        {
+            "text": "Preheat oven to 375 degrees F. Line a baking sheet with parchment paper and coat with non-stick vegetable oil spray."
+        },
+        {
+            "text": "Carefully remove Sister Schubert Parker House Rolls from pan and place on prepared pan."
+        },
+        {
+            "text": "Using a rolling pin, compress the rolls into a 9- inch round."
+        },
+        {
+            "text": "In a small bowl, combine olive oil and herb blend and brush top of crust."
+        },
+        {
+            "text": "Spread pizza sauce over top of crust."
+        },
+        {
+            "text": "Top with remaining ingredients."
+        },
+        {
+            "text": "Bake 18 to 20 minutes."
+        },
+        {
+            "text": "Loosen pizza with a large spatula if necessary."
+        },
+        {
+            "text": "Cool slightly and slice into desired pieces."
+        },
+        {
+            "text": "Serve."
+        }
+    ]
+}

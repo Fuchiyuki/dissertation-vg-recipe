@@ -1,0 +1,196 @@
+{
+    "title": "honey_whole_wheat_pizza_dough",
+    "id": "faad7d2f41",
+    "table": [
+        {
+            "instructions": "place the ingredients into your bread machine , starting with the wet ingredients , followed by the dry except the cornmeal and then the yeast .",
+            "input": "(water flour; oil; salt; yeast)",
+            "action": "place",
+            "output": "dough ingredients"
+        },
+        {
+            "instructions": "follow the instructions for your bread machine .",
+            "input": "NA",
+            "action": "follow",
+            "output": "NA"
+        },
+        {
+            "instructions": "preheat oven to 450 degrees f . ;",
+            "input": "NA",
+            "action": "preheat",
+            "output": "NA"
+        },
+        {
+            "instructions": "place the pizza stone in the oven",
+            "input": "NA",
+            "action": "place",
+            "output": "NA"
+        },
+        {
+            "instructions": "once the dough is ready , split it into two pieces",
+            "input": "dough",
+            "action": "split",
+            "output": "halved dough"
+        },
+        {
+            "instructions": "roll each out separately on a lightly floured surface until its the right size to fit on the pizza stones .",
+            "input": "halved dough",
+            "action": "roll",
+            "output": "flattened dough"
+        },
+        {
+            "instructions": "sprinkle some cornmeal , about 1 teaspoon each , over the stone once its hot to keep the pizza from sticking .",
+            "input": "NA",
+            "action": "sprinkle",
+            "output": "NA"
+        },
+        {
+            "instructions": "i also put some cornmeal on the peel so the dough does nt stick when i transfer it to the oven .",
+            "input": "NA",
+            "action": "put",
+            "output": "NA"
+        },
+        {
+            "instructions": "i pre bake my pizza_dough a little before i put any toppings on it .",
+            "input": "NA",
+            "action": "bake",
+            "output": "NA"
+        },
+        {
+            "instructions": "just place each dough , separately , on the stone .",
+            "input": "flattened dough",
+            "action": "place",
+            "output": "flattened dough"
+        },
+        {
+            "instructions": "spread the dough evenly over the stone .",
+            "input": "flattened dough",
+            "action": "spread",
+            "output": "flattened and spread dough"
+        },
+        {
+            "instructions": "make several puncture holes with a fork to help keep the bubbling down .",
+            "input": "flattened and spread dough",
+            "action": "make",
+            "output": "flattened and spread dough poked with holes"
+        },
+        {
+            "instructions": "brush the entire surface of the dough with a light layer of olive_oil .",
+            "input": "(olive oil; flattened and spread dough poked with holes)",
+            "action": "brush",
+            "output": "olive oil covered pizza crust"
+        },
+        {
+            "instructions": "as it bakes , check on it to make sure its not bubbling .",
+            "input": "NA",
+            "action": "check",
+            "output": "NA"
+        },
+        {
+            "instructions": "if it is , just press down any large bubbles with a spatula .",
+            "input": "olive oil covered pizza crust",
+            "action": "press",
+            "output": "baking crust with popped bubbles"
+        },
+        {
+            "instructions": "once the dough starts to become golden , take it out of the oven",
+            "input": "baking crust with popped bubbles",
+            "action": "take",
+            "output": "parbaked pizza crust"
+        },
+        {
+            "instructions": "place your favorite toppings on it .",
+            "input": "(toppings; parbaked pizza crust)",
+            "action": "place",
+            "output": "parbaked pizza crust with toppings"
+        },
+        {
+            "instructions": "then , just place back in the oven to finish cooking the toppings until they are nice and bubbly .",
+            "input": "parbaked pizza crust with toppings",
+            "action": "place",
+            "output": "baked pizza"
+        }
+    ],
+    "ingredients": [
+        {
+            "text": "1 cup Lukewarm Water"
+        },
+        {
+            "text": "3 Tablespoons Honey"
+        },
+        {
+            "text": "2 Tablespoons Olive Oil Plus Extra For Spreading On Dough"
+        },
+        {
+            "text": "3 cups Whole Wheat Flour"
+        },
+        {
+            "text": "1 teaspoon Kosher Salt"
+        },
+        {
+            "text": "2 teaspoons Yeast"
+        },
+        {
+            "text": "2 teaspoons Cornmeal"
+        }
+    ],
+    "recipe": [
+        {
+            "text": "Yields 2 medium-large pizza crusts."
+        },
+        {
+            "text": "Place the ingredients into your bread machine, starting with the wet ingredients, followed by the dry (except the corn meal) and then the yeast."
+        },
+        {
+            "text": "Follow the instructions for your bread machine."
+        },
+        {
+            "text": "Preheat oven to 450 degrees F. Place the pizza stone in the oven while its preheating."
+        },
+        {
+            "text": "Once the dough is ready, split it into two pieces and roll each out separately on a lightly-floured surface until its the right size to fit on the pizza stones."
+        },
+        {
+            "text": "Sprinkle some cornmeal, about 1 teaspoon each, over the stone once its hot to keep the pizza from sticking."
+        },
+        {
+            "text": "I also put some cornmeal on the peel so the dough doesnt stick when I transfer it to the oven."
+        },
+        {
+            "text": "I pre-bake my pizza dough a little before I put any toppings on it."
+        },
+        {
+            "text": "I find this makes the dough nice and crunchy with a good chewiness to it."
+        },
+        {
+            "text": "Just place each dough, separately, on the stone."
+        },
+        {
+            "text": "Spread the dough evenly over the stone."
+        },
+        {
+            "text": "Make several puncture holes with a fork to help keep the bubbling down."
+        },
+        {
+            "text": "Brush the entire surface of the dough with a light layer of olive oil."
+        },
+        {
+            "text": "This will help keep the dough chewy and not brittle."
+        },
+        {
+            "text": "As it bakes, check on it to make sure its not bubbling."
+        },
+        {
+            "text": "If it is, just press down any large bubbles with a spatula."
+        },
+        {
+            "text": "Once the dough starts to become golden, take it out of the oven and place your favorite toppings on it."
+        },
+        {
+            "text": "Then, just place back in the oven to finish cooking the toppings until they are nice and bubbly."
+        },
+        {
+            "text": "Enjoy!"
+        }
+    ]
+}

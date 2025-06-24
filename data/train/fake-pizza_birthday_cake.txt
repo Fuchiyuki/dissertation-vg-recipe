@@ -1,0 +1,172 @@
+{
+    "title": "fake-pizza_birthday_cake",
+    "id": "27d138af63",
+    "table": [
+        {
+            "instructions": "mix all the ingredients for the cake except milk",
+            "input": "(baking powder; ap flour; granulated sugar; unsweetened cocoa powder)",
+            "action": "mix",
+            "output": "mixed dry ingredients"
+        },
+        {
+            "instructions": "slowly add milk being careful to stir well",
+            "input": "(mixed dry ingredients; milk)",
+            "action": "add",
+            "output": "cocoa cake batter"
+        },
+        {
+            "instructions": "when homogeneous pour in a greased pan",
+            "input": "cocoa cake batter",
+            "action": "pour",
+            "output": "poured cake batter"
+        },
+        {
+            "instructions": "bake at 150c for 20 minutes",
+            "input": "uncooked cake batter",
+            "action": "bake",
+            "output": "baked cake"
+        },
+        {
+            "instructions": "To prepare the filling put dry gelatine leaves in cold water until they soften,\u00a0squeeze",
+            "input": "(cold water; dry gelatine)",
+            "action": "squeeze",
+            "output": "squeezed soaked gelatine in cold water"
+        },
+        {
+            "instructions": "add evaporated_milk and whipped_cream",
+            "input": "(evaporated_milk; whipped_cream; squeezed gelatine)",
+            "action": "add",
+            "output": "evaporated_milk and whipped cream added to squeezed gelatine"
+        },
+        {
+            "instructions": "put filling in the fridge for 1 hour",
+            "input": "filling",
+            "action": "put",
+            "output": "refrigerated filling"
+        },
+        {
+            "instructions": "add chocolate_chip and your filling is ready",
+            "input": "(refrigerated filling; chocolate chip)",
+            "action": "add",
+            "output": "chocolate chip added to refrigerated filling"
+        },
+        {
+            "instructions": "cut cake into two layers",
+            "input": "baked cake",
+            "action": "cut",
+            "output": "halved cake"
+        },
+        {
+            "instructions": "evenly spread the filling on the first one ,",
+            "input": "(cake layer; filling with chocolate chip)",
+            "action": "spread",
+            "output": "filling spread on cake layer"
+        },
+        {
+            "instructions": "close with the other one",
+            "input": "(cake layer; cake layer with spread filling)",
+            "action": "close",
+            "output": "cake layer closing cake layer with filling"
+        },
+        {
+            "instructions": "use yellow orange sugar paste to make the pizza_crust and red one for the tomato_sauce",
+            "input": "(cake with filling; yellow orange sugar paste;  red sugar paste)",
+            "action": "use",
+            "output": "decorate cake with red and yello sugar paste "
+        },
+        {
+            "instructions": "cut marshmallows to make the mozzarella slices",
+            "input": "(marshmallows; decorated cake with sugar paste)",
+            "action": "cut",
+            "output": "cut marshmallows decorating fake pizza cake"
+        },
+        {
+            "instructions": "use green sugar paste to make the basil leaves and brown_sugar paste to make the sausage 's slices",
+            "input": "(green sugar paste; brown sugar paste; fake pizza cake)",
+            "action": "use",
+            "output": "green and brown sugar paste decorating fake pizza cake"
+        }
+    ],
+    "ingredients": [
+        {
+            "text": "250 grams ap flour"
+        },
+        {
+            "text": "200 grams granulated sugar"
+        },
+        {
+            "text": "75 grams unsweetened cocoa powder"
+        },
+        {
+            "text": "400 ml milk"
+        },
+        {
+            "text": "12 grams baking powder"
+        },
+        {
+            "text": "250 grams evaporated milk"
+        },
+        {
+            "text": "200 ml milk"
+        },
+        {
+            "text": "250 grams whipping cream"
+        },
+        {
+            "text": "60 grams chocolate chips"
+        },
+        {
+            "text": "8 grams gelatin/isinglass leaves or unflavoured jelly"
+        },
+        {
+            "text": "1 sugar paste (yellow, red, green, brown)"
+        },
+        {
+            "text": "1 edible glue"
+        },
+        {
+            "text": "1 marshmallows"
+        },
+        {
+            "text": "1 buttercream or whipped cream or jam"
+        }
+    ],
+    "recipe": [
+        {
+            "text": "Mix all the ingredients for the cake except milk"
+        },
+        {
+            "text": "Slowly add milk being careful to stir well"
+        },
+        {
+            "text": "When homogeneous pour in a greased pan and bake at 150C for 20 minutes"
+        },
+        {
+            "text": "To prepare the filling put dry gelatine leaves in cold water until they soften, then squeeze and let them melt in warm milk"
+        },
+        {
+            "text": "Add evaporated milk and whipped cream"
+        },
+        {
+            "text": "put filling in the fridge for 1 hour"
+        },
+        {
+            "text": "Add chocolate chips and your filling is ready"
+        },
+        {
+            "text": "Cut cake into two layers and evenly spread the filling on the first one, then close with the other one"
+        },
+        {
+            "text": "Crumb coat the whole cake with whipped cream or jam or buttercream"
+        },
+        {
+            "text": "Use yellow/orange sugar paste to make the pizza crust and red one for the tomato sauce"
+        },
+        {
+            "text": "Cut marshmallows to make the mozzarella slices and glue them to the sugar paste using edible glue"
+        },
+        {
+            "text": "Use green sugar paste to make the basil leaves and brown sugar paste to make the sausage's slices"
+        }
+    ]
+}

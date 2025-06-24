@@ -1,0 +1,136 @@
+{
+    "title": "crock_pot_pizza_casserole",
+    "id": "8fa7a4bba6",
+    "table": [
+        {
+            "instructions": "cook your hamburger and italian_sausage",
+            "input": "(hamburger; italian_sausage)",
+            "actions": "cook",
+            "output": "cooked_hamburger with italian_sausage"
+        },
+        {
+            "instructions": "drain access grease .",
+            "input": "cooked_hamburger with italian_sausage",
+            "actions": "drain",
+            "output": "drained cooked_hamburger with italian_sausage"
+        },
+        {
+            "instructions": "add your jar of spaghetti sauce",
+            "input": "(drained cooked_hamburger with italian_sausage; spaghetti_sauce)",
+            "actions": "add",
+            "output": "spaghetti_sauce added to cooked  hamburger italian_sausage mix"
+        },
+        {
+            "instructions": "mix together",
+            "input": "spaghetti_sauce added to cooked  hamburger italian_sausage mix",
+            "actions": "mix",
+            "output": "cooked hamburger italian_sausage mix with spaghetti_sauce"
+        },
+        {
+            "instructions": "cook your noodles",
+            "input": "noodles",
+            "actions": "cook",
+            "output": "cooked noodles"
+        },
+        {
+            "instructions": "drain .",
+            "input": "cooked noodles",
+            "actions": "drain",
+            "output": "drained cooked noodles"
+        },
+        {
+            "instructions": "add a little butter so your noodles do n't stick together",
+            "input": "(drained cooked noodles; butter)",
+            "actions": "add",
+            "output": "butter added to cooked noodles"
+        },
+        {
+            "instructions": "in your crock pot , layer noodles , your hamburger italian_sausage mix",
+            "input": "(buttered noodles; cooked hamburger italian_sausage mix with spaghetti_sauce)",
+            "actions": "layer",
+            "output": "buttered noodles layered with hamburger italian_sausage mix"
+        },
+        {
+            "instructions": "add your canadian_bacon , pepperoni , black_olive , mushrooms",
+            "input": "(buttered noodles layered with hamburger italian_sausage mix; canadian_bacon; pepperoni; black_olive; mushrooms)",
+            "actions": "add",
+            "output": "canadian_bacon , pepperoni , black_olive , mushrooms added to noodles and hamburger italian_sausage mix "
+        },
+        {
+            "instructions": "top it off with shredded_cheese",
+            "input": "(crockpot casserole; shredded_cheese)",
+            "actions": "top",
+            "output": "crockpot casserole topped with shredded_cheese"
+        },
+        {
+            "instructions": "top off with lots of cheese !",
+            "input": "crockpot casserole topped with shredded_cheese",
+            "actions": "top",
+            "output": "crockpot casserole topped with shredded_cheese"
+        },
+        {
+            "instructions": "turn crock pot on high till cheese is melted",
+            "input": "crockpot casserole topped with shredded_cheese",
+            "actions": "turn",
+            "output": "cooked crockpot pizza casserole"
+        }
+    ],
+    "ingredients": [
+        {
+            "text": "1 lb Hamburger"
+        },
+        {
+            "text": "1 lb Italian Sausage"
+        },
+        {
+            "text": "2 cup Canadian Bacon"
+        },
+        {
+            "text": "2 cup Pepperoni"
+        },
+        {
+            "text": "2 can Mushrooms"
+        },
+        {
+            "text": "1 pints Spaghetti Sauce"
+        },
+        {
+            "text": "2 can Black Olives"
+        },
+        {
+            "text": "1 Cheese"
+        },
+        {
+            "text": "1 bag of egg noodles"
+        }
+    ],
+    "recipe": [
+        {
+            "text": "Cook your Hamburger and Italian Sausage then drain access grease."
+        },
+        {
+            "text": "Add your jar of Spaghetti Sauce and mix together"
+        },
+        {
+            "text": "Cook your noodles then drain."
+        },
+        {
+            "text": "Add a little butter so your noodles don't stick together"
+        },
+        {
+            "text": "In your Crock Pot layer noodles, your hamburger Italian sausage mix, add your Canadian bacon, Pepperoni, Black Olives, Mushrooms then top it off with Shredded Cheese"
+        },
+        {
+            "text": "Repeat 1 - 3 and top off with lots of Cheese!"
+        },
+        {
+            "text": "!"
+        },
+        {
+            "text": "Turn Crock Pot on High till Cheese is melted :-)"
+        },
+        {
+            "text": "You can also add whatever it is you like on your pizza's."
+        }
+    ]
+}

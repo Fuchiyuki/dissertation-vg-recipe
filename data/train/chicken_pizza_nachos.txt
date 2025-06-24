@@ -1,0 +1,91 @@
+{
+    "title": "chicken_pizza_nachos",
+    "id": "1c7c06a6ff",
+    "table": [
+        {
+            "instructions": "heat oven to 425 degrees f .",
+            "input": "NA",
+            "actions": "heat",
+            "output": "NA"
+        },
+        {
+            "instructions": "coat chicken , in batches , with coating_mix as directed on package ;",
+            "input": "(chicken; coating mix)",
+            "actions": "coat",
+            "output": "coated_chicken_with_coating_mix"
+        },
+        {
+            "instructions": "place in single layer in shallow pan sprayed with cooking_spray .",
+            "input": "coated_chicken_with_coating_mix",
+            "actions": "place",
+            "output": "coated_chicken_with_coating_mix"
+        },
+        {
+            "instructions": "bake 15 min .",
+            "input": "uncooked_coated_chicken",
+            "actions": "bake",
+            "output": "cooked_coated_chicken"
+        },
+        {
+            "instructions": "meanwhile , spread pita_chip onto large ovenproof plate .",
+            "input": "pita_chip",
+            "actions": "spread",
+            "output": "spread_pita_chip"
+        },
+        {
+            "instructions": "top chips with chicken , pasta_sauce and cheese .",
+            "input": "(pita_chip_ cooked chicken; pasta_sauce; cheese)",
+            "actions": "top",
+            "output": "pita chips topped with chicken, pasta sauce and cheese"
+        },
+        {
+            "instructions": "bake 5 min .",
+            "input": "pita chips topped with chicken, pasta sauce and cheese",
+            "actions": "bake",
+            "output": "chicken pizza nachos"
+        }
+    ],
+    "ingredients": [
+        {
+            "text": "3/4 lb. boneless skinless chicken breasts, cut into bite-size pieces"
+        },
+        {
+            "text": "1 pkt. SHAKE 'N BAKE Tomato Bruschetta Seasoned Coating Mix"
+        },
+        {
+            "text": "1 pkg. (8 oz.) pita chips"
+        },
+        {
+            "text": "1/2 cup CLASSICO FAMILY FAVORITES Traditional Pasta Sauce, warmed"
+        },
+        {
+            "text": "1 cup KRAFT Shredded Mozzarella Cheese"
+        }
+    ],
+    "recipe": [
+        {
+            "text": "Heat oven to 425 degrees F."
+        },
+        {
+            "text": "Coat chicken, in batches, with coating mix as directed on package; place in single layer in shallow pan sprayed with cooking spray."
+        },
+        {
+            "text": "Bake 15 min."
+        },
+        {
+            "text": "or until done."
+        },
+        {
+            "text": "Meanwhile, spread pita chips onto large ovenproof plate."
+        },
+        {
+            "text": "Top chips with chicken, pasta sauce and cheese."
+        },
+        {
+            "text": "Bake 5 min."
+        },
+        {
+            "text": "or until cheese is melted."
+        }
+    ]
+}

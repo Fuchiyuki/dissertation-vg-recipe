@@ -1,0 +1,103 @@
+{
+    "title": "salami-olive_pizza",
+    "id": "ddc3eb297f",
+    "table": [
+        {
+            "instructions": "preheat oven to 475f , with racks in upper and lower thirds .",
+            "input": "NA",
+            "actions": "preheat",
+            "output": "NA"
+        },
+        {
+            "instructions": "brush two rimless baking sheets with oil .",
+            "input": "NA",
+            "actions": "brush",
+            "output": "NA"
+        },
+        {
+            "instructions": "divide dough into two equal pieces .",
+            "input": "dough",
+            "actions": "divide",
+            "output": "divided_dough"
+        },
+        {
+            "instructions": "place a piece on each baking sheet .",
+            "input": "dough pieces",
+            "actions": "place",
+            "output": "dough pieces in baking sheets"
+        },
+        {
+            "instructions": "using your hands , gently stretch each piece of dough into an 8 by10 inch oval .",
+            "input": "dough pieces in baking sheet",
+            "actions": "stretch",
+            "output": "stretched_oval_dough"
+        },
+        {
+            "instructions": "brush edge of dough with oil .",
+            "input": "stretched_oval_dough",
+            "actions": "brush",
+            "output": "oil_brushed_dough"
+        },
+        {
+            "instructions": "dividing evenly , top each with tomato_sauce , arugula , salami , olives , and mozzarella .",
+            "input": "oil_brushed_dough",
+            "actions": "top",
+            "output": "tomato_sauce_arugula_salami_olives_and_mozzarella_on_dough"
+        },
+        {
+            "instructions": "bake , rotating sheets from top to bottom and front to back halfway through , until crusts are golden , 10 to 12 minutes .",
+            "input": "uncooked pizza",
+            "actions": "bake",
+            "output": "baked pizza"
+        }
+    ],
+    "ingredients": [
+        {
+            "text": "Olive oil"
+        },
+        {
+            "text": "1 pound Basic Pizza Dough (page 364) or store-bought pizza dough, fresh or frozen (thawed)"
+        },
+        {
+            "text": "2/3 cup Basic Tomato Sauce (page 364) or store-bought tomato sauce"
+        },
+        {
+            "text": "1 cup packed arugula leaves (washed and dried)"
+        },
+        {
+            "text": "12 thin slices salami"
+        },
+        {
+            "text": "2 tablespoons slivered pitted black olives"
+        },
+        {
+            "text": "8 ounces mozzarella cheese, shredded (2 cups)"
+        }
+    ],
+    "recipe": [
+        {
+            "text": "Preheat oven to 475F, with racks in upper and lower thirds."
+        },
+        {
+            "text": "Brush two rimless baking sheets with oil."
+        },
+        {
+            "text": "Divide dough into two equal pieces."
+        },
+        {
+            "text": "Place a piece on each baking sheet."
+        },
+        {
+            "text": "Using your hands, gently stretch each piece of dough into an 8-by-10-inch oval."
+        },
+        {
+            "text": "Brush edge of dough with oil."
+        },
+        {
+            "text": "Dividing evenly, top each with tomato sauce, arugula, salami, olives, and mozzarella."
+        },
+        {
+            "text": "Bake, rotating sheets from top to bottom and front to back halfway through, until crusts are golden, 10 to 12 minutes."
+        }
+    ]
+}

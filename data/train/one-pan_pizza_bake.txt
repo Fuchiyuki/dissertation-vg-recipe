@@ -1,0 +1,139 @@
+{
+    "title": "one-pan_pizza_bake",
+    "id": "d8966eec48",
+    "table": [
+        {
+            "instructions": "in a large skillet , cook sausage until browned , making sure its crumbled .",
+            "input": "sausage",
+            "actions": "cook",
+            "output": "cooked_sausage"
+        },
+        {
+            "instructions": "drain and",
+            "input": "cooked_sausage",
+            "actions": "drain",
+            "output": "drained_cooked_sausage"
+        },
+        {
+            "instructions": "return to pan .",
+            "input": "drained_cooked_sausage",
+            "actions": "return",
+            "output": "drained_cooked_sausage"
+        },
+        {
+            "instructions": "add pepperoni , garlic_powder , oregano , and italian_seasoning .",
+            "input": "(drained_cooked_sausage; pepperoni , garlic_powder , oregano , and italian_seasoning)",
+            "actions": "add",
+            "output": "seasoned_cooked_sausage_and_pepperoni_mixture"
+        },
+        {
+            "instructions": "stir to combine .",
+            "input": "seasoned_cooked_sausage_and_pepperoni_mixture",
+            "actions": "stir",
+            "output": "seasoned_cooked_sausage_and_pepperoni_mixture"
+        },
+        {
+            "instructions": "add marinara_sauce , water , and noodles to skillet .",
+            "input": "(seasoned_cooked_sausage_and_pepperoni_mixture; marinara_sauce , water , and noodles)",
+            "actions": "add",
+            "output": "sausage, pepperoni, marinara_sauce and noodles mixture"
+        },
+        {
+            "instructions": "cover",
+            "input": "sausage, pepperoni, marinara_sauce and noodles mixture",
+            "actions": "cover",
+            "output": "sausage, pepperoni, marinara_sauce and noodles mixture"
+        },
+        {
+            "instructions": "reduce heat .",
+            "input": "sausage, pepperoni, marinara_sauce and noodles mixture",
+            "actions": "reduce",
+            "output": "sausage, pepperoni, marinara_sauce and noodles mixture"
+        },
+        {
+            "instructions": "simmer 1215 minutes",
+            "input": "sausage, pepperoni, marinara_sauce and noodles mixture",
+            "actions": "simmer",
+            "output": "simmering_mixture"
+        },
+        {
+            "instructions": "remove lid and top with mozzarella_cheese .",
+            "input": "(simmering_mixture; mozzarella_cheese)",
+            "actions": "remove",
+            "output": "simmering_mixture_topped_with_mozzarella_cheese"
+        },
+        {
+            "instructions": "replace cover",
+            "input": "NA",
+            "actions": "replace",
+            "output": "NA"
+        },
+        {
+            "instructions": "serve immediately .",
+            "input": "one-pan_pizza_bake",
+            "actions": "serve",
+            "output": "one-pan_pizza_bake"
+        }
+    ],
+    "ingredients": [
+        {
+            "text": "1 pound Ground Italian Sausage"
+        },
+        {
+            "text": "3/4 cups Mini Pepperoni"
+        },
+        {
+            "text": "1/2 teaspoons Garlic Powder"
+        },
+        {
+            "text": "1 teaspoon Oregano"
+        },
+        {
+            "text": "1/2 teaspoons Italian Seasoning"
+        },
+        {
+            "text": "1 jar (24 Oz. Size) Marinara Sauce"
+        },
+        {
+            "text": "2 cups Water"
+        },
+        {
+            "text": "8 ounces, weight Rotini Noodles, Uncooked"
+        },
+        {
+            "text": "3 cups Dutch Farms Shredded Mozzarella Cheese"
+        }
+    ],
+    "recipe": [
+        {
+            "text": "In a large skillet, cook sausage until browned, making sure its crumbled."
+        },
+        {
+            "text": "Drain and and return to pan."
+        },
+        {
+            "text": "Add pepperoni, garlic powder, oregano, and Italian seasoning."
+        },
+        {
+            "text": "Stir to combine."
+        },
+        {
+            "text": "Add marinara sauce, water, and noodles to skillet."
+        },
+        {
+            "text": "Bring to a boil, then cover and reduce heat."
+        },
+        {
+            "text": "Simmer 1215 minutes, or until pasta is tender."
+        },
+        {
+            "text": "Remove lid and top with mozzarella cheese."
+        },
+        {
+            "text": "Replace cover and let sit for 57 minutes, or until cheese is melted."
+        },
+        {
+            "text": "Serve immediately."
+        }
+    ]
+}

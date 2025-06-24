@@ -1,0 +1,103 @@
+{
+    "title": "sun-dried_tomato_thyme_and_basil_pizza",
+    "id": "2f0a92ca2e",
+    "table": [
+        {
+            "instructions": "preheat the oven to 425f 220c .",
+            "input": "NA",
+            "action": "preheat",
+            "output": "NA"
+        },
+        {
+            "instructions": "lightly coat a 12 inch round baking pan with cooking_spray .",
+            "input": "NA",
+            "action": "coat",
+            "output": "NA"
+        },
+        {
+            "instructions": "roll out dough",
+            "input": "dough",
+            "action": "roll",
+            "output": "rolled dough"
+        },
+        {
+            "instructions": "press into the baking pan .",
+            "input": "rolled dough",
+            "action": "press",
+            "output": "pressed pizza crust"
+        },
+        {
+            "instructions": "arrange garlic , cheese and tomatoes on top of the pizza_crust .",
+            "input": "(pressed pizza crust; garlic; cheese; sund dried tomatoes)",
+            "action": "arrange",
+            "output": "garlic, cheese and sun dried tomatoes arranged on pressed pizza crust"
+        },
+        {
+            "instructions": "sprinkle basil and thyme evenly over pizza .",
+            "input": "(basil; uncooked sun dried tomatoes pizza)",
+            "action": "sprinkle",
+            "output": "basil and thyme sprinkled on uncooked sun dried tomatoes pizza"
+        },
+        {
+            "instructions": "bake on the lowest rack of the oven until the pizza_crust turns brown and the toppings are hot , about 20 minutes .",
+            "input": "uncooked sun-dried_tomato_thyme_and_basil_pizza",
+            "action": "bake",
+            "output": "baked sun-dried_tomato_thyme_and_basil_pizza"
+        },
+        {
+            "instructions": "cut the pizza into 8 even slices",
+            "input": "baked sun-dried_tomato_thyme_and_basil_pizza",
+            "action": "cut",
+            "output": "cut baked sun-dried_tomato_thyme_and_basil_pizza"
+        },
+        {
+            "instructions": "serve immediately .",
+            "input": "cut baked sun-dried_tomato_thyme_and_basil_pizza",
+            "action": "serve",
+            "output": "cut baked sun-dried_tomato_thyme_and_basil_pizza"
+        }
+    ],
+    "ingredients": [
+        {
+            "text": "1 each pizza shell 12-inch prepared"
+        },
+        {
+            "text": "4 cloves garlic chopped"
+        },
+        {
+            "text": "1/2 cup ricotta cheese fat-free"
+        },
+        {
+            "text": "1/2 cup sundried tomatoes dry-packed, soaked in water to rehydrate, drained and chopped"
+        },
+        {
+            "text": "2 teaspoons basil dried"
+        },
+        {
+            "text": "1 teaspoon thyme"
+        }
+    ],
+    "recipe": [
+        {
+            "text": "Preheat the oven to 425F (220C)."
+        },
+        {
+            "text": "Lightly coat a 12-inch round baking pan with cooking spray."
+        },
+        {
+            "text": "Roll out dough and press into the baking pan."
+        },
+        {
+            "text": "Arrange garlic, cheese and tomatoes on top of the pizza crust."
+        },
+        {
+            "text": "Sprinkle basil and thyme evenly over pizza."
+        },
+        {
+            "text": "Bake on the lowest rack of the oven until the pizza crust turns brown and the toppings are hot, about 20 minutes."
+        },
+        {
+            "text": "Cut the pizza into 8 even slices and serve immediately."
+        }
+    ]
+}

@@ -1,0 +1,175 @@
+{
+    "title": "arugula_ricotta_and_smoked_mozzarella_pizza",
+    "id": "39509af6ef",
+    "table": [
+        {
+            "instructions": "put an oven rack in the center of the oven .",
+            "input": "NA",
+            "action": "put",
+            "output": "NA"
+        },
+        {
+            "instructions": "preheat the oven to 475 degrees f .",
+            "input": "NA",
+            "action": "preheat",
+            "output": "NA"
+        },
+        {
+            "instructions": "sprinkle a heavy baking sheet without sides with cornmeal .",
+            "input": "NA",
+            "action": "sprinkle",
+            "output": "NA"
+        },
+        {
+            "instructions": "set aside .",
+            "input": "NA",
+            "action": "set",
+            "output": "NA"
+        },
+        {
+            "instructions": "in a food processor , blend the ricotta , garlic_salt , and pepper until smooth .",
+            "input": "(ricotta; garlic salt; pepper)",
+            "action": "blend",
+            "output": "blended and seasoned ricotta cheese"
+        },
+        {
+            "instructions": "add the smoked_mozzarella and arugula .",
+            "input": "(blended and seasoned ricotta cheese; smoked mozzarella; arugula)",
+            "action": "add",
+            "output": "arugula and cheese mixture"
+        },
+        {
+            "instructions": "on a lightly floured work surface , roll out the dough into a 14 inch , diameter circle , about 14 to 116 inch thick .",
+            "input": "dough",
+            "action": "roll",
+            "output": "rolled_dough"
+        },
+        {
+            "instructions": "transfer the dough to the prepared baking sheet",
+            "input": "rolled_dough",
+            "action": "transfer",
+            "output": "Dough_on_sheet"
+        },
+        {
+            "instructions": "drizzle with olive_oil .",
+            "input": "(Dough_on_sheet; olive oil)",
+            "action": "drizzle",
+            "output": "Dough_on_sheet drizzled with olive oil"
+        },
+        {
+            "instructions": "spread the ricotta mixture on top leaving a 1 inch border .",
+            "input": "(Dough_on_sheet drizzled with olive oil; arugula and cheese mixture)",
+            "action": "spread",
+            "output": "pizza dough with arugula and cheese mixture"
+        },
+        {
+            "instructions": "arrange the tomato slices on top .",
+            "input": "(pizza dough with arugula and cheese mixture; tomato slices)",
+            "action": "arrange",
+            "output": "pizza dough with arugula and cheese mixture and tomatoes"
+        },
+        {
+            "instructions": "drizzle with olive_oil",
+            "input": "(olive oil; pizza dough with arugula and cheese mixture and tomatoes)",
+            "action": "drizzle",
+            "output": "olive oil drizzled over assembled pizza"
+        },
+        {
+            "instructions": "bake until the crust is golden , about 15 to 16 minutes .",
+            "input": "uncooked arugula_ricotta_and_smoked_mozzarella_pizza",
+            "action": "bake",
+            "output": "baked arugula_ricotta_and_smoked_mozzarella_pizza"
+        },
+        {
+            "instructions": "remove from the oven",
+            "input": "baked arugula_ricotta_and_smoked_mozzarella_pizza",
+            "action": "remove",
+            "output": "baked arugula_ricotta_and_smoked_mozzarella_pizza"
+        },
+        {
+            "instructions": "cut into wedges",
+            "input": "baked arugula_ricotta_and_smoked_mozzarella_pizza",
+            "action": "cut",
+            "output": "sliced arugula_ricotta_and_smoked_mozzarella_pizza"
+        },
+        {
+            "instructions": "serve .",
+            "input": "sliced arugula_ricotta_and_smoked_mozzarella_pizza",
+            "action": "serve",
+            "output": "sliced arugula_ricotta_and_smoked_mozzarella_pizza ready to serve"
+        }
+    ],
+    "ingredients": [
+        {
+            "text": "Cornmeal, for dusting"
+        },
+        {
+            "text": "1/2 cup ricotta cheese"
+        },
+        {
+            "text": "2 cloves garlic, crushed"
+        },
+        {
+            "text": "1 teaspoon kosher salt"
+        },
+        {
+            "text": "1/4 teaspoon freshly ground black pepper"
+        },
+        {
+            "text": "2 cups (8 ounces) shredded smoked mozzarella cheese"
+        },
+        {
+            "text": "1 packed cup (1-ounce) arugula"
+        },
+        {
+            "text": "Flour, for dusting"
+        },
+        {
+            "text": "1 (13 to 16-ounce) ball pizza dough"
+        },
+        {
+            "text": "Extra-virgin olive oil, for drizzling"
+        },
+        {
+            "text": "2 Roma tomatoes, sliced into 1/4-inch thick slices"
+        }
+    ],
+    "recipe": [
+        {
+            "text": "Put an oven rack in the center of the oven."
+        },
+        {
+            "text": "Preheat the oven to 475 degrees F. Sprinkle a heavy baking sheet (without sides) with cornmeal."
+        },
+        {
+            "text": "Set aside."
+        },
+        {
+            "text": "In a food processor, blend the ricotta, garlic, salt, and pepper until smooth."
+        },
+        {
+            "text": "Add the smoked mozzarella and arugula."
+        },
+        {
+            "text": "Pulse until just combined but still chunky."
+        },
+        {
+            "text": "On a lightly floured work surface, roll out the dough into a 14-inch diameter circle, about 1/4 to 1/16-inch thick."
+        },
+        {
+            "text": "Transfer the dough to the prepared baking sheet and drizzle with olive oil."
+        },
+        {
+            "text": "Spread the ricotta mixture on top leaving a 1-inch border."
+        },
+        {
+            "text": "Arrange the tomato slices on top."
+        },
+        {
+            "text": "Drizzle with olive oil and bake until the crust is golden, about 15 to 16 minutes."
+        },
+        {
+            "text": "Remove from the oven, cut into wedges and serve."
+        }
+    ]
+}

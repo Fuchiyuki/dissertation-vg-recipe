@@ -1,0 +1,94 @@
+{
+    "title": "elegant_grilled_pizza",
+    "id": "8407f934e8",
+    "table": [
+        {
+            "instructions": "prepare your favorite crust or check out the recipe i have posted for grilled pizza_dough",
+            "input": "crust",
+            "action": "prepare",
+            "output": "prepared_crust"
+        },
+        {
+            "instructions": "grill the dough just enough to brown on each side .",
+            "input": "prepared_crust",
+            "action": "grill",
+            "output": "grilled crust"
+        },
+        {
+            "instructions": "first add the pesto",
+            "input": "(grilled crust; pesto)",
+            "action": "add",
+            "output": "grilled crust with pesto"
+        },
+        {
+            "instructions": "next add the blue_cheese additional ingredients .",
+            "input": "(pesto on grilled pizza dough,grilled crust with pesto;)",
+            "action": "add",
+            "output": "pesto and blue cheese on grilled crust"
+        },
+        {
+            "instructions": "cook until just melting the blue_cheese about 3 4 minutes .",
+            "input": "pesto and blue cheese on grilled pizza dough",
+            "action": "cook",
+            "output": "cooked pizza with pesto and blue cheese"
+        },
+        {
+            "instructions": "remove from grill",
+            "input": "cooked pizza with pesto and blue cheese",
+            "action": "remove",
+            "output": "cooked pizza with pesto and blue cheese"
+        },
+        {
+            "instructions": "slice",
+            "input": "cooked pizza with pesto and blue cheese",
+            "action": "slice",
+            "output": "sliced cooked pizza with pesto and blue cheese"
+        }
+    ],
+    "ingredients": [
+        {
+            "text": "6 tablespoons pesto sauce (your favorite or check my recipes)"
+        },
+        {
+            "text": "14 cup quality crumbled blue cheese"
+        },
+        {
+            "text": "12 cup grated parmesan cheese"
+        },
+        {
+            "text": "12 cup diced roasted yellow pepper"
+        },
+        {
+            "text": "12 cup diced roasted red pepper (just roast on your grill proir to grilling the pizza)"
+        },
+        {
+            "text": "1 large vine ripe tomatoes, diced"
+        },
+        {
+            "text": "8 leaves fresh Baby Spinach"
+        }
+    ],
+    "recipe": [
+        {
+            "text": "prepare your favorite crust or check out the recipe i have posted for grilled pizza dough grill the dough just enough to brown on each side."
+        },
+        {
+            "text": "first add the pesto and allow to melt."
+        },
+        {
+            "text": "about 3-4 minutes."
+        },
+        {
+            "text": "next add the blue cheese additional ingredients."
+        },
+        {
+            "text": "cook until just melting the blue cheese about 3-4 minutes."
+        },
+        {
+            "text": "remove from grill and allow pizza to rest for about 5 minutes."
+        },
+        {
+            "text": "slice and enjoy!"
+        }
+    ]
+}

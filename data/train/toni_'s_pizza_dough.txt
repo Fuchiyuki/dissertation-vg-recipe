@@ -1,0 +1,190 @@
+{
+    "title": "toni_'s_pizza_dough",
+    "id": "026d16ad66",
+    "table": [
+        {
+            "instructions": "mix the flour , salt and pepper .",
+            "input": "(flour; salt; pepper)",
+            "actions": "mix",
+            "output": "flour mixture"
+        },
+        {
+            "instructions": "stir in the honey and olive_oil .",
+            "input": "(honey; olive_oil; flour mixture)",
+            "actions": "stir",
+            "output": "honey and olive oil in flour mixture"
+        },
+        {
+            "instructions": "dissolve yeast in the water",
+            "input": "(yeast; water)",
+            "actions": "dissolve",
+            "output": "yeast dissolved in water"
+        },
+        {
+            "instructions": "let rise for 10 minutes .",
+            "input": "yeast dissolved in water",
+            "actions": "rise",
+            "output": "yeast mixture"
+        },
+        {
+            "instructions": "make a well in the centre of the flour",
+            "input": "flour mixture",
+            "actions": "make",
+            "output": "flour mixture"
+        },
+        {
+            "instructions": "pour in the yeast mixture .",
+            "input": "(flour mixture; yeast mixture)",
+            "actions": "pour",
+            "output": "yeast mixture poured in flour"
+        },
+        {
+            "instructions": "mix with your hands to form a dough .",
+            "input": "dough",
+            "actions": "mix",
+            "output": "mixed dough"
+        },
+        {
+            "instructions": "transfer to a floured surface",
+            "input": "mixed dough",
+            "actions": "transfer",
+            "output": "mixed dough"
+        },
+        {
+            "instructions": "knead for 10 minutes until the dough is smooth and pliable .",
+            "input": "mixed dough",
+            "actions": "knead",
+            "output": "kneaded dough"
+        },
+        {
+            "instructions": "lightly oil a bowl",
+            "input": "NA",
+            "actions": "oil",
+            "output": "NA"
+        },
+        {
+            "instructions": "place the dough",
+            "input": "kneaded dough",
+            "actions": "place",
+            "output": "kneaded dough"
+        },
+        {
+            "instructions": "cover with platic wrap",
+            "input": "kneaded dough",
+            "actions": "cover",
+            "output": "covered dough"
+        },
+        {
+            "instructions": "let rise 1 2 hours until doubled in size .",
+            "input": "covered dough",
+            "actions": "rise",
+            "output": "risen dough"
+        },
+        {
+            "instructions": "punch down the dough",
+            "input": "risen dough",
+            "actions": "punch",
+            "output": "punched down dough"
+        },
+        {
+            "instructions": "knead for a few more minutes .",
+            "input": "punched down dough",
+            "actions": "knead",
+            "output": "kneaded dough"
+        },
+        {
+            "instructions": "divide the dough into 6 pieces",
+            "input": "kneaded dough",
+            "actions": "divide",
+            "output": "divided dough"
+        },
+        {
+            "instructions": "shape each into a ball .",
+            "input": "divided dough",
+            "actions": "shape",
+            "output": "dough shaped in balls"
+        },
+        {
+            "instructions": "rest for 10 minutes on an oiled tray .",
+            "input": "dough shaped in balls",
+            "actions": "rest",
+            "output": "rested ball of dough"
+        },
+        {
+            "instructions": "flatten",
+            "input": "rested ball of dough",
+            "actions": "flatten",
+            "output": "flattened dough"
+        },
+        {
+            "instructions": "pull with your fingers and hands until you shape into a 20 cm circle .",
+            "input": "flattened dough",
+            "actions": "pull",
+            "output": "pizza crust"
+        },
+        {
+            "instructions": "bake in a preheated oven at 180c with your favourite toppings for about 10 15 minutes .",
+            "input": "uncooked pizza crust",
+            "actions": "bake",
+            "output": "baked pizza crust"
+        }
+    ],
+    "ingredients": [
+        {
+            "text": "550 g strong flour"
+        },
+        {
+            "text": "1 tablespoon dried yeast"
+        },
+        {
+            "text": "1 teaspoon salt"
+        },
+        {
+            "text": "250 -350 ml lukewarm water"
+        },
+        {
+            "text": "2 teaspoons honey"
+        },
+        {
+            "text": "2 tablespoons olive oil"
+        },
+        {
+            "text": "12 teaspoon fresh ground pepper"
+        }
+    ],
+    "recipe": [
+        {
+            "text": "Mix the flour, salt and pepper."
+        },
+        {
+            "text": "Stir in the honey and olive oil."
+        },
+        {
+            "text": "Dissolve yeast in the water and let rise for 10 minutes."
+        },
+        {
+            "text": "Make a well in the centre of the flour and pour in the yeast mixture.Mix with your hands to form a dough."
+        },
+        {
+            "text": "Transfer to a floured surface and knead for 10 minutes until the dough is smooth and pliable."
+        },
+        {
+            "text": "Lightly oil a bowl and place the dough, cover with platic wrao and let rise 1-2 hours until doubled in size."
+        },
+        {
+            "text": "Punch down the dough and knead for a few more minutes."
+        },
+        {
+            "text": "Divide the dough into 6 pieces and shape each into a ball."
+        },
+        {
+            "text": "Rest for 10 minutes on an oiled tray."
+        },
+        {
+            "text": "Flatten and pull with your fingers and hands until you shape into a 20cm circle."
+        },
+        {
+            "text": "bake in a preheated oven at 180C with your favourite toppings for about 10-15 minutes."
+        }
+    ]
+}

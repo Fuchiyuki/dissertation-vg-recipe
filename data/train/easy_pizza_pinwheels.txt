@@ -1,0 +1,76 @@
+{
+    "title": "easy_pizza_pinwheels",
+    "id": "b2cc50ea08",
+    "table": [
+        {
+            "instructions": "preheat oven to 375f 190c f 190 degrees c.",
+            "input": "NA",
+            "action": "preheat",
+            "output": "NA"
+        },
+        {
+            "instructions": "on a large baking sheet , pinch the 8 crescent_roll dough triangles into 4 rectangles .",
+            "input": "crescent_roll dough triangles",
+            "action": "pinch",
+            "output": "crescent_roll dough rectangles"
+        },
+        {
+            "instructions": "roll tightly lengthwise",
+            "input": "crescent_roll dough rectangles",
+            "action": "roll",
+            "output": "rolled crescent_roll dough rectangles"
+        },
+        {
+            "instructions": "slice each into 4 or more pieces .",
+            "input": "rolled crescent_roll dough rectangles",
+            "action": "slice",
+            "output": "sliced rolled crescent_roll dough rectangles"
+        },
+        {
+            "instructions": "bake in the preheated oven 12 minutes , or until golden brown .",
+            "input": "uncooked sliced rolled crescent_roll dough rectangles",
+            "action": "bake",
+            "output": "baked crescent roll pinwheels"
+        },
+        {
+            "instructions": "serve with pizza_sauce for dipping .",
+            "input": "(baked crescent roll pinwheels; pizza sauce)",
+            "action": "serve",
+            "output": "baked crescent roll pinwheels served with pizza sauce"
+        }
+    ],
+    "ingredients": [
+        {
+            "text": "8 ounces crescent roll dough can, refrigerated"
+        },
+        {
+            "text": "2 cups mozzarella cheese shredded"
+        },
+        {
+            "text": "24 each pepperoni slices"
+        },
+        {
+            "text": "14 ounces pizza sauce can"
+        }
+    ],
+    "recipe": [
+        {
+            "text": "Preheat oven to 375F (190C) F (190 degrees C)."
+        },
+        {
+            "text": "On a large baking sheet, pinch the 8 crescent roll dough triangles into 4 rectangles."
+        },
+        {
+            "text": "Layer each rectangle with 6 pepperoni and even amounts of mozzarella cheese."
+        },
+        {
+            "text": "Roll tightly lengthwise and slice each into 4 or more pieces."
+        },
+        {
+            "text": "Bake in the preheated oven 12 minutes, or until golden brown."
+        },
+        {
+            "text": "Serve with pizza sauce for dipping."
+        }
+    ]
+}

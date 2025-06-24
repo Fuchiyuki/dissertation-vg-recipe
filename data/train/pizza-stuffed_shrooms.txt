@@ -1,0 +1,157 @@
+{
+    "title": "pizza-stuffed_shrooms",
+    "id": "ef6b079826",
+    "table": [
+        {
+            "instructions": "turn on your broiler 500 degrees .",
+            "input": "NA",
+            "action": "turn",
+            "output": "NA"
+        },
+        {
+            "instructions": "mix together all cheeses in a bowl",
+            "input": "(romano cheese; provolone cheese; mozzarella cheese; parmesan cheese)",
+            "action": "mix",
+            "output": "mixed_cheeses"
+        },
+        {
+            "instructions": "set aside .",
+            "input": "mixed_cheeses",
+            "action": "set",
+            "output": "mixed_cheeses"
+        },
+        {
+            "instructions": "brush caps with olive_oil",
+            "input": "(Mushroom caps; olive oil)",
+            "action": "brush",
+            "output": "Mushroom caps brushed with olive oil"
+        },
+        {
+            "instructions": "place stem side up on a baking sheet .",
+            "input": "Brushed mushroom caps",
+            "action": "place",
+            "output": "Mushroom caps placed on a baking sheet"
+        },
+        {
+            "instructions": "sprinkle each with salt and pepper to taste .",
+            "input": "(Mushroom caps on a baking sheet; salt; pepper)",
+            "action": "sprinkle",
+            "output": "Mushroom caps seasoned with salt and pepper"
+        },
+        {
+            "instructions": "evenly divide minced_garlic , oregano , and basil leaves between caps .",
+            "input": "(minced garlic; oregano; basil leaves; seasoned mushroom caps)",
+            "action": "divide",
+            "output": "Minced garlic, oregano, and basil leaves divided among caps"
+        },
+        {
+            "instructions": "spoon 2 tablespoons of diced_tomato and some juice is ok ,",
+            "input": "(Minced garlic, oregano, and basil leaves divided among caps; diced tomato; diced tomato juice)",
+            "action": "spoon",
+            "output": "Diced tomato and their juice spooned onto seasoned mushroom caps"
+        },
+        {
+            "instructions": "scatter sausage , onion , and olive pieces evenly over the mushroom",
+            "input": "(Sausage; Onion; Olive pieces)",
+            "action": "scatter",
+            "output": "sausage, onion and chopped olives scattered evenly seasoned mushroom caps with tomato"
+        },
+        {
+            "instructions": "sprinkle the top with cheese mix .",
+            "input": "(mixed_cheeses; sausage, onion, tomato and olives stuffed mushroom caps)",
+            "action": "sprinkle",
+            "output": "Cheese mixture sprinkled on top of sausage, onion, tomato and olives stuffed mushroom caps"
+        },
+        {
+            "instructions": "broil until mushrooms are hot and cheese is lightly browned .",
+            "input": "pizza stuffed mushrooms",
+            "action": "broil",
+            "output": "broiled pizza stuffed mushrooms"
+        },
+        {
+            "instructions": "serve",
+            "input": "broiled pizza stuffed mushrooms",
+            "action": "serve",
+            "output": "broiled pizza stuffed mushrooms Ready to serve"
+        }
+    ],
+    "ingredients": [
+        {
+            "text": "4 large portabella mushroom caps, stemmed and cleaned"
+        },
+        {
+            "text": "salt and black pepper, fresh ground"
+        },
+        {
+            "text": "2 tablespoons olive oil"
+        },
+        {
+            "text": "2 garlic cloves, minced"
+        },
+        {
+            "text": "12 cup tomatoes, diced (canned or fresh)"
+        },
+        {
+            "text": "14 cup romano cheese"
+        },
+        {
+            "text": "14 cup provolone cheese"
+        },
+        {
+            "text": "14 cup mozzarella cheese"
+        },
+        {
+            "text": "14 cup parmesan cheese"
+        },
+        {
+            "text": "4 basil leaves, finely shredded"
+        },
+        {
+            "text": "1 teaspoon fresh oregano, chopped"
+        },
+        {
+            "text": "14 cup black olives, chopped"
+        },
+        {
+            "text": "14 cup onion, minced"
+        },
+        {
+            "text": "12 lb Italian sausage, cooked and chopped"
+        }
+    ],
+    "recipe": [
+        {
+            "text": "Turn on your broiler (500 degrees)."
+        },
+        {
+            "text": "Mix together all cheeses in a bowl and set aside."
+        },
+        {
+            "text": "Brush caps with olive oil and place stem side up on a baking sheet."
+        },
+        {
+            "text": "Sprinkle each with salt and pepper to taste."
+        },
+        {
+            "text": "Evenly divide minced garlic, oregano, and basil leaves between caps."
+        },
+        {
+            "text": "Spoon 2 tablespoons of diced tomato(and some juice is ok, but be careful not to drown the cap) over each cap."
+        },
+        {
+            "text": "Scatter sausage, onion, and olive pieces evenly over the mushroom and sprinkle the top with cheese mix."
+        },
+        {
+            "text": "Broil until mushrooms are hot and cheese is lightly browned."
+        },
+        {
+            "text": "About 5 minutes -- could be less if you have a new oven."
+        },
+        {
+            "text": "DON'T WALK AWAY!"
+        },
+        {
+            "text": "Serve and enjoy!"
+        }
+    ]
+}

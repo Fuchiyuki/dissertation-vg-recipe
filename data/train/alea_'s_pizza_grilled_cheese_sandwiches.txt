@@ -1,0 +1,136 @@
+{
+    "title": "alea_'s_pizza_grilled_cheese_sandwiches",
+    "id": "87d8e2f87b",
+    "table": [
+        {
+            "instructions": "brush frying pan with olive_oil .",
+            "input": "NA",
+            "action": "brush",
+            "output": "NA"
+        },
+        {
+            "instructions": "spoon pizza_sauce onto 2 slices of bread .",
+            "input": "(pizza_sauce; slice of bread)",
+            "action": "spoon",
+            "output": "spooned_pizza_sauce over slice of bread"
+        },
+        {
+            "instructions": "place cheese on top of one of the pieces of bread .",
+            "input": "(Cheese; slice of bread with pizza sauce)",
+            "action": "place",
+            "output": "slice of bread with pizza sauce and cheese"
+        },
+        {
+            "instructions": "top the cheese with pepperoni and veggies of choice .",
+            "input": "(Pepperoni; veggies; slice of bread with pizza sauce and cheese)",
+            "action": "top",
+            "output": "slice of bread with pizza sauce, cheese, pepperoni and vegetables"
+        },
+        {
+            "instructions": "add more pepperoni on top of the veggies if you wish .",
+            "input": "(additional Pepperoni; additional veggies; slice of bread with pizza sauce, cheese, pepperoni and vegetables)",
+            "action": "add",
+            "output": "slice of bread with pizza sauce, cheese, pepperoni and vegetables"
+        },
+        {
+            "instructions": "place another slice of cheese on top of the veggies and pepperoni .",
+            "input": "(Cheese slice; slice of bread with pizza sauce, cheese, pepperoni and vegetables)",
+            "action": "place",
+            "output": "slice of bread with pizza sauce, cheese, pepperoni, vegetables and additional cheese slice"
+        },
+        {
+            "instructions": "top with the other piece of bread",
+            "input": "(slice of bread; slice of bread with pizza sauce, cheese, pepperoni, vegetables and additional cheese slice)",
+            "action": "top",
+            "output": "slice of bread with pizza sauce, cheese, pepperoni, vegetables and additional cheese slice topped with additional slice of bread"
+        },
+        {
+            "instructions": "place on the skillet .",
+            "input": "slice of bread with pizza sauce, cheese, pepperoni, vegetables and additional cheese slice topped with additional slice of bread",
+            "action": "place",
+            "output": "slice of bread with pizza sauce, cheese, pepperoni, vegetables and additional cheese slice topped with additional slice of bread"
+        },
+        {
+            "instructions": "fry over medium heat until the bread is brown and the cheese starts to melt .",
+            "input": "slice of bread with pizza sauce, cheese, pepperoni, vegetables and additional cheese slice topped with additional slice of bread",
+            "action": "fry",
+            "output": "grilled cheese and vegetables pizza toast"
+        },
+        {
+            "instructions": "cook on the remaining side until the bread is brown .",
+            "input": "grilled cheese and vegetables pizza toast",
+            "action": "cook",
+            "output": "grilled cheese and vegetables pizza toast"
+        },
+        {
+            "instructions": "serve while still warm .",
+            "input": "grilled cheese and vegetables pizza toast",
+            "action": "serve",
+            "output": "served cheese and vegetables pizza toast"
+        }
+    ],
+    "ingredients": [
+        {
+            "text": "8 slices bread"
+        },
+        {
+            "text": "12 cup pizza sauce"
+        },
+        {
+            "text": "8 slices cheese"
+        },
+        {
+            "text": "32 pieces pepperoni (optional)"
+        },
+        {
+            "text": "diced onion (optional)"
+        },
+        {
+            "text": "diced red bell pepper (optional)"
+        },
+        {
+            "text": "sliced mushrooms (optional)"
+        },
+        {
+            "text": "1 tablespoon olive oil"
+        }
+    ],
+    "recipe": [
+        {
+            "text": "Brush frying pan with olive oil."
+        },
+        {
+            "text": "Spoon pizza sauce onto 2 slices of bread."
+        },
+        {
+            "text": "Place cheese on top of one of the pieces of bread."
+        },
+        {
+            "text": "Top the cheese with pepperoni and veggies of choice."
+        },
+        {
+            "text": "Add more pepperoni on top of the veggies if you wish."
+        },
+        {
+            "text": "Place another slice of cheese on top of the veggies and pepperoni."
+        },
+        {
+            "text": "Top with the other piece of bread and place on the skillet."
+        },
+        {
+            "text": "(Repeat until you have assembled all of your sandwiches)."
+        },
+        {
+            "text": "Fry over medium heat until the bread is brown and the cheese starts to melt."
+        },
+        {
+            "text": "Flip and cook on the remaining side until the bread is brown."
+        },
+        {
+            "text": "Serve while still warm."
+        },
+        {
+            "text": "I served the Pizza Grilled Cheese Sandwiches with salad on the side."
+        }
+    ]
+}

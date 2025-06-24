@@ -1,0 +1,169 @@
+{
+    "title": "veggie_pizza_rolls",
+    "id": "220c48ebbe",
+    "table": [
+        {
+            "instructions": "preheat oven to 425 f .",
+            "input": "NA",
+            "action": "preheat",
+            "output": "NA"
+        },
+        {
+            "instructions": "in a medium bowl combine olives , mushrooms , bell_pepper and tomato",
+            "input": "(olives; mushrooms; bell_pepper; tomato)",
+            "action": "combine",
+            "output": "vegetable mixture"
+        },
+        {
+            "instructions": "mix it up .",
+            "input": "vegetable mixture",
+            "action": "mix",
+            "output": "vegetable mixture"
+        },
+        {
+            "instructions": "lay out the pizza_dough onto a floured surface",
+            "input": "pizza_dough",
+            "action": "lay",
+            "output": "pizza_dough"
+        },
+        {
+            "instructions": "expand the dough using your hands until it reaches a rectangular shape .",
+            "input": "pizza_dough",
+            "action": "expand",
+            "output": "pizza_dough in rectangular shape"
+        },
+        {
+            "instructions": "use a pizza cutter to cut the dough into medium size squares 2 or 3 inches square , or your desired size .",
+            "input": "pizza_dough in rectangular shape",
+            "action": "use",
+            "output": "pizza dough squares"
+        },
+        {
+            "instructions": "place a small drop of sauce onto the middle of each square .",
+            "input": "(pizza_sauce; pizza dough squares)",
+            "action": "place",
+            "output": "pizza sauce on pizza dough squares"
+        },
+        {
+            "instructions": "top with mozzarella and vegetable mixture .",
+            "input": "(mozzarella; vegetable mixture; pizza dough squares with pizza sauce)",
+            "action": "top",
+            "output": "pizza dough squares with pizza sauce, mozzarella and vegetable mixture"
+        },
+        {
+            "instructions": "pull up all four corners of the dough very carefully",
+            "input": "pizza dough squares with pizza sauce, mozzarella and vegetable mixture",
+            "action": "pull",
+            "output": "pizza dough squares with pizza sauce, mozzarella and vegetable mixture"
+        },
+        {
+            "instructions": "pinch them together to form a solid ball .",
+            "input": "pizza dough squares with pizza sauce, mozzarella and vegetable mixture",
+            "action": "pinch",
+            "output": "pizza dough squares with pizza sauce, mozzarella and vegetable mixture with piched corners together "
+        },
+        {
+            "instructions": "place the balls into a greased baking dish",
+            "input": "pizza dough_stuffed balls",
+            "action": "place",
+            "output": "pizza dough_stuffed balls"
+        },
+        {
+            "instructions": "in a small bowl combine parmesan_cheese and italian_seasoning .",
+            "input": "(parmesan_cheese; italian_seasoning)",
+            "action": "combine",
+            "output": "parmesan cheese and italian seasoning mix"
+        },
+        {
+            "instructions": "brush the top of each ball with olive_oil and a little pinch of parmesan and seasoning for each one .",
+            "input": "(olive_oil; parmesan cheese and italian seasoning mix; pizza dough_stuffed balls)",
+            "action": "brush",
+            "output": "pizza dough_stuffed balls brushed with olive oil and parmesan cheese and italian seasoning mix"
+        },
+        {
+            "instructions": "place the balls in the oven to cook for 15 minutes or until golden brown .",
+            "input": "pizza dough_stuffed balls brushed with olive oil and parmesan cheese and italian seasoning mix",
+            "action": "place",
+            "output": "baked pizza dough_stuffed balls brushed with olive oil and parmesan cheese and italian seasoning mix"
+        },
+        {
+            "instructions": "serve with the heated leftover sauce or my favorite ranch_dressing .",
+            "input": "(baked pizza dough_stuffed balls; leftover sauce/ranch dressing)",
+            "action": "serve",
+            "output": "baked pizza dough_stuffed balls served with leftover sauce or ranch dressing"
+        }
+    ],
+    "ingredients": [
+        {
+            "text": "1 can (2.25 Oz Can) Sliced Black Olives"
+        },
+        {
+            "text": "13 cups Mushrooms, Diced"
+        },
+        {
+            "text": "1/4 cups Green Bell Pepper, Diced"
+        },
+        {
+            "text": "1 whole Medium Roma Tomato, Diced"
+        },
+        {
+            "text": "1 pound Large Wheat Pizza Dough (enough For 1 Large Pizza)"
+        },
+        {
+            "text": "1 can 8oz. Can, Hunts Pizza Sauce, Basil, Oregano And Garlic Flavor"
+        },
+        {
+            "text": "1/2 cups Fresh Mozzarella Cheese, Shredded"
+        },
+        {
+            "text": "1- 1/2 Tablespoon Parmesan Cheese"
+        },
+        {
+            "text": "1/2 teaspoons Italian Seasoning"
+        },
+        {
+            "text": "Olive Oil"
+        },
+        {
+            "text": "Flour, For Sprinkling On Your Work Surface"
+        }
+    ],
+    "recipe": [
+        {
+            "text": "Preheat oven to 425 F."
+        },
+        {
+            "text": "In a medium bowl combine olives, mushrooms, bell pepper and tomato and mix it up."
+        },
+        {
+            "text": "Lay out the pizza dough onto a floured surface and expand the dough using your hands until it reaches a rectangular shape."
+        },
+        {
+            "text": "Use a pizza cutter to cut the dough into medium size squares (2 or 3 inches square, or your desired size)."
+        },
+        {
+            "text": "Place a small drop of sauce onto the middle of each square."
+        },
+        {
+            "text": "Top with mozzarella and vegetable mixture."
+        },
+        {
+            "text": "Pull up all four corners of the dough very carefully and pinch them together to form a solid ball."
+        },
+        {
+            "text": "Place the balls into a greased baking dish and continue until all pizza balls are finished."
+        },
+        {
+            "text": "In a small bowl combine Parmesan cheese and Italian seasoning."
+        },
+        {
+            "text": "Brush the top of each ball with olive oil and a little pinch of Parmesan and seasoning for each one."
+        },
+        {
+            "text": "Place the balls in the oven to cook for 15 minutes or until golden brown."
+        },
+        {
+            "text": "Serve with the heated leftover sauce or my favorite ranch dressing."
+        }
+    ]
+}

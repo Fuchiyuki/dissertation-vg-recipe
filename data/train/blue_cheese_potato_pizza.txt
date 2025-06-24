@@ -1,0 +1,166 @@
+{
+    "title": "blue_cheese_potato_pizza",
+    "id": "2217be3618",
+    "table": [
+        {
+            "instructions": "make buy pizza_dough .",
+            "input": "pizza_dough",
+            "action": "make",
+            "output": "made_pizza_dough"
+        },
+        {
+            "instructions": "preheat oven and pizza stone if you have it to about 45",
+            "input": "NA",
+            "action": "preheat",
+            "output": "NA"
+        },
+        {
+            "instructions": "boil or bake well scrubbed potatoes until tender .",
+            "input": "Well scrubbed potatoes",
+            "action": "boil",
+            "output": "Cooked potatoes"
+        },
+        {
+            "instructions": "mince the garlic_clove and the basil .",
+            "input": "(Garlic clove; basil)",
+            "action": "mince",
+            "output": "minced garlic and basil"
+        },
+        {
+            "instructions": "warm the olive_oil , the garlic , and the basil in a small saucepan over low heat .",
+            "input": "(olive oil; minced garlic and basil)",
+            "action": "warm",
+            "output": "garlic and basil infused oil"
+        },
+        {
+            "instructions": "once the potatoes have cooled down a bit , slice them into about 14 rounds .",
+            "input": "cooled cooked potatoes",
+            "action": "slice",
+            "output": "Sliced potatoes"
+        },
+        {
+            "instructions": "crumble the strip of bacon .",
+            "input": "Strip of bacon",
+            "action": "crumble",
+            "output": "crumbled bacon pieces"
+        },
+        {
+            "instructions": "roll out the dough on a pizza peel or baking sheet dusted with flour or cornmeal .",
+            "input": "(flatten dough; flour)",
+            "action": "roll",
+            "output": "flatten pizza dough"
+        },
+        {
+            "instructions": "brush the crust with the olive_oil mixture .",
+            "input": "(garlic and basil infused oil; flatten pizza dough)",
+            "action": "brush",
+            "output": "pizza crust with garlic and basil infused oil"
+        },
+        {
+            "instructions": "cover the dough with a layer of potato slices , leaving about a 12 border .",
+            "input": "(pizza crust with garlic and basil infused oil; potato slices)",
+            "action": "cover",
+            "output": "pizza crust with garlic and basil infused oil covered with potato slices"
+        },
+        {
+            "instructions": "sprinkle with the blue_cheese and bacon .",
+            "input": "(pizza crust with garlic and basil infused oil covered with potato slices; blue_cheese; crumbled bacon pieces)",
+            "action": "sprinkle",
+            "output": "pizza crust with garlic and basil infused oil covered with potato slices, blue cheese and crumbled bacon pieces"
+        },
+        {
+            "instructions": "bake for 15 20 minutes or until the crust browns to your liking .",
+            "input": "Uncooked blue_cheese_potato_pizza",
+            "action": "bake",
+            "output": "Baked blue_cheese_potato_pizza"
+        }
+    ],
+    "ingredients": [
+        {
+            "text": "1 whole Pizza Crust"
+        },
+        {
+            "text": "5 whole Red Potatoes"
+        },
+        {
+            "text": "1 clove Garlic"
+        },
+        {
+            "text": "5 leaves Basil"
+        },
+        {
+            "text": "3 Tablespoons Olive Oil"
+        },
+        {
+            "text": "1 strip Cooked Bacon (optional)"
+        },
+        {
+            "text": "1/4 cups Crumbled Blue Cheese"
+        }
+    ],
+    "recipe": [
+        {
+            "text": "1."
+        },
+        {
+            "text": "Make/buy pizza dough."
+        },
+        {
+            "text": "Preheat oven (and pizza stone if you have it) to about 450."
+        },
+        {
+            "text": "2."
+        },
+        {
+            "text": "Boil or bake well-scrubbed potatoes until tender."
+        },
+        {
+            "text": "Let cool."
+        },
+        {
+            "text": "3."
+        },
+        {
+            "text": "Mince the garlic clove and the basil."
+        },
+        {
+            "text": "Warm the olive oil, the garlic, and the basil in a small saucepan over low heat."
+        },
+        {
+            "text": "4."
+        },
+        {
+            "text": "Once the potatoes have cooled down a bit, slice them into about 1/4 rounds."
+        },
+        {
+            "text": "Crumble the strip of bacon."
+        },
+        {
+            "text": "5."
+        },
+        {
+            "text": "Roll out the dough on a pizza peel or baking sheet dusted with flour or cornmeal."
+        },
+        {
+            "text": "Brush the crust with the olive oil mixture."
+        },
+        {
+            "text": "Save any extra olive oil for dipping the crust in later."
+        },
+        {
+            "text": "6."
+        },
+        {
+            "text": "Cover the dough with a layer of potato slices, leaving about a 1/2 border."
+        },
+        {
+            "text": "Sprinkle with the blue cheese and bacon."
+        },
+        {
+            "text": "7."
+        },
+        {
+            "text": "Bake for 15-20 minutes or until the crust browns to your liking."
+        }
+    ]
+}

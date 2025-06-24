@@ -1,0 +1,106 @@
+{
+    "title": "tortilla_roll-ups_with_pizzazz",
+    "id": "a0b375f446",
+    "table": [
+        {
+            "instructions": "in a mixing bowl , mix cream_cheese , mayonnaise , green_onion , pepper and cayenne till combined .",
+            "input": "(cream_cheese; mayonnaise; green_onion; pepper; cayenne)",
+            "action": "mix",
+            "output": "cream cheese mixture"
+        },
+        {
+            "instructions": "stir in spinach , water_chestnut , bacon and sweet_pepper .",
+            "input": "(spinach; water_chestnut; bacon; sweet_pepper; cream cheese mixture)",
+            "action": "stir",
+            "output": "spinach, cream cheese and bacon_mixture"
+        },
+        {
+            "instructions": "spread the spinach mixture on each tortilla to within 12 inch of the edges .",
+            "input": "(tortilla; spinach, cream cheese and bacon_mixture)",
+            "action": "spread",
+            "output": "spinach, cream cheese and bacon_mixture spread on tortilla"
+        },
+        {
+            "instructions": "roll up the tortillas .",
+            "input": "spinach_tortilla",
+            "action": "roll",
+            "output": "tortillla_spinach_roll"
+        },
+        {
+            "instructions": "cover",
+            "input": "tortillla_spinach_roll",
+            "action": "cover",
+            "output": "tortillla_spinach_roll"
+        },
+        {
+            "instructions": "chill 4 to 24 hours .",
+            "input": "tortillla_spinach_roll",
+            "action": "chill",
+            "output": "chilled_tortillla_spinach_roll"
+        },
+        {
+            "instructions": "to serve",
+            "input": "chilled_tortillla_spinach_roll",
+            "action": "serve",
+            "output": "chilled_tortillla_spinach_roll"
+        },
+        {
+            "instructions": "slice in 2 pieces .",
+            "input": "chilled_tortillla_spinach_roll",
+            "action": "slice",
+            "output": "sliced_chilled_tortillla_spinach_roll"
+        }
+    ],
+    "ingredients": [
+        {
+            "text": "4 ounces cream cheese, softened"
+        },
+        {
+            "text": "14 cup mayonnaise"
+        },
+        {
+            "text": "14 cup sliced green onion"
+        },
+        {
+            "text": "14 teaspoon black pepper"
+        },
+        {
+            "text": "18-14 teaspoon cayenne pepper"
+        },
+        {
+            "text": "1 (10 ounce) package frozen chopped spinach, thawed and well-drained"
+        },
+        {
+            "text": "1 (8 ounce) can sliced water chestnuts, rinsed, drained and chopped"
+        },
+        {
+            "text": "6 slices bacon, crisp-cooked, drained and crumbled"
+        },
+        {
+            "text": "14 cup finely chopped sweet red pepper"
+        },
+        {
+            "text": "10 flour tortillas"
+        }
+    ],
+    "recipe": [
+        {
+            "text": "In a mixing bowl, mix cream cheese, mayonnaise, green onions, pepper and cayenne till combined."
+        },
+        {
+            "text": "Stir in spinach, water chestnuts, bacon and sweet pepper."
+        },
+        {
+            "text": "Spread the spinach mixture on each tortilla to within 1/2 inch of the edges."
+        },
+        {
+            "text": "Roll up the tortillas."
+        },
+        {
+            "text": "Cover and chill 4 to 24 hours."
+        },
+        {
+            "text": "To serve, slice in 2\" pieces."
+        }
+    ]
+}

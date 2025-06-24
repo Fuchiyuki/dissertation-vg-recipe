@@ -1,0 +1,67 @@
+{
+    "title": "chicken_pizza_rice_cake_snack",
+    "id": "c08c2f814f",
+    "table": [
+        {
+            "instructions": "mix pizza_sauce and parmesan cheese_spread evenly over rice_cake .",
+            "input": "(pizza_sauce; parmesan cheese_spread; rice_cake)",
+            "action": "mix",
+            "output": "pizza_sauce and parmesan cheese_spread on rice cake"
+        },
+        {
+            "instructions": "top each with 1 tbsp shredded chicken .",
+            "input": "(rice cake with pizza sauce and parmesan cheese spread; shredded chicken)",
+            "action": "top",
+            "output": "rice cake with pizza sauce and parmesan cheese spread topped with shredded chicken"
+        },
+        {
+            "instructions": "top each with a few tbsp veggies and 1 tbsp cheese .",
+            "input": "rice cake with pizza sauce and parmesan cheese spread topped with shredded chicken, veggies, cheese",
+            "action": "top",
+            "output": "rice cake with pizza sauce and parmesan cheese spread topped with shredded chicken, cheese and vegetables"
+        },
+        {
+            "instructions": "bake about 5 minutes on 450 degrees .",
+            "input": "uncooked assembled chicken_pizza_rice_cake_snack",
+            "action": "bake",
+            "output": "Baked chicken_pizza_rice_cake_snack"
+        }
+    ],
+    "ingredients": [
+        {
+            "text": "2 rice cakes"
+        },
+        {
+            "text": "3 tablespoons pizza sauce"
+        },
+        {
+            "text": "1 tablespoon parmesan cheese, grated"
+        },
+        {
+            "text": "2 tablespoons cooked chicken, shredded"
+        },
+        {
+            "text": "14 cup assorted fresh vegetable, chopped"
+        },
+        {
+            "text": "2 tablespoons mozzarella cheese"
+        }
+    ],
+    "recipe": [
+        {
+            "text": "Mix pizza sauce and parmesan cheese, spread evenly over rice cakes."
+        },
+        {
+            "text": "Top each with 1 tbsp shredded chicken."
+        },
+        {
+            "text": "Top each with a few tbsp veggies and 1 tbsp cheese."
+        },
+        {
+            "text": "Bake about 5 minutes on 450 degrees."
+        },
+        {
+            "text": "Or you can broil them."
+        }
+    ]
+}

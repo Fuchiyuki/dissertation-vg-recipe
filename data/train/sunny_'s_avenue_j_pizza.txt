@@ -1,0 +1,223 @@
+{
+    "title": "sunny_'s_avenue_j_pizza",
+    "id": "19f98ffbe0",
+    "table": [
+        {
+            "instructions": "preheat oven to 450 degrees f .",
+            "input": "NA",
+            "action": "preheat",
+            "output": "NA"
+        },
+        {
+            "instructions": "In a small saucepan, bring 1 cup water and white wine vinegar to a simmer. t",
+            "input": "water; white wine vinegar",
+            "action": "bring",
+            "output": "boiling water and white vinegar mixture"
+        },
+        {
+            "instructions": "remove from heat",
+            "input": "boiling water and white vinegar mixture",
+            "action": "remove",
+            "output": "boiling water and white vinegar mixture"
+        },
+        {
+            "instructions": "add mushrooms .",
+            "input": "mushrooms; boiling water and white vinegar mixture",
+            "action": "add",
+            "output": "mushrooms in boiling water and white vinegar mixture"
+        },
+        {
+            "instructions": "cover",
+            "input": "mushrooms in boiling water and white vinegar mixture",
+            "action": "cover",
+            "output": "covered mushrooms in boiling water and white vinegar mixture "
+        },
+        {
+            "instructions": "strain .",
+            "input": "covered mushrooms in boiling water and white vinegar mixture ",
+            "action": "strain",
+            "output": "strained porcini mushrooms"
+        },
+        {
+            "instructions": "slice bread horizontally to create 2 pizzas .",
+            "input": "bread",
+            "action": "slice",
+            "output": "sliced_bread_horizontally as pizza crust"
+        },
+        {
+            "instructions": "lightly oil a baking sheet",
+            "input": "NA",
+            "action": "oil",
+            "output": "NA"
+        },
+        {
+            "instructions": "place pizza_crust side up .",
+            "input": "sliced bread",
+            "action": "place",
+            "output": "sliced bread crust_side_up"
+        },
+        {
+            "instructions": "brush top with 14 cup , oil .",
+            "input": "sliced bread crust_side_up; oil",
+            "action": "brush",
+            "output": "sliced bread crust_side_up with top brushed with oil"
+        },
+        {
+            "instructions": "in a bowl , squeeze tomatoes to break up slightly .",
+            "input": "tomatoes",
+            "action": "squeeze",
+            "output": "broken tomatoes"
+        },
+        {
+            "instructions": "place on pizza halves .",
+            "input": "broken tomatoes; sliced bread crust_side_up with top brushed with oil",
+            "action": "place",
+            "output": "sliced bread crust_side_up with top brushed with oil, topped with broken tomatoes "
+        },
+        {
+            "instructions": "pull pieces of buffalo_mozzarella from the ball",
+            "input": "buffalo_mozzarella",
+            "action": "pull",
+            "output": "pulled buffalo_mozzarella"
+        },
+        {
+            "instructions": "place on halves .",
+            "input": "buffalo_mozzarella; sliced bread crust_side_up with top brushed with oil, topped with broken tomatoes ",
+            "action": "place",
+            "output": "sliced bread crust_side_up with top brushed with oil, topped with broken tomatoes and buffalo mozzarella"
+        },
+        {
+            "instructions": "top with porcini mushrooms , shredded mozzarella , garlic and pepperoni .",
+            "input": "strained porcini mushrooms; shredded mozzarella; garlic; pepperoni",
+            "action": "top",
+            "output": "sliced bread crust_side_up with top brushed with oil, topped with broken tomatoes, buffalo mozzarella, strained porcini mushrooms , shredded mozzarella , garlic and pepperoni "
+        },
+        {
+            "instructions": "bake until cheese has melted and crust is crispy , about 25 minutes .",
+            "input": "sliced bread crust_side_up with top brushed with oil, topped with broken tomatoes, buffalo mozzarella, strained porcini mushrooms , shredded mozzarella , garlic and pepperoni ",
+            "action": "bake",
+            "output": "baked_porcini and pepperoni bread pizza"
+        },
+        {
+            "instructions": "remove from oven",
+            "input": "baked_porcini and pepperoni bread pizza",
+            "action": "remove",
+            "output": "baked_porcini and pepperoni bread pizza"
+        },
+        {
+            "instructions": "drizzle with oil",
+            "input": "baked_porcini and pepperoni bread pizza; oil",
+            "action": "drizzle",
+            "output": "baked_porcini and pepperoni bread pizza drizzled_with_oil"
+        },
+        {
+            "instructions": "sprinkle on parmesan",
+            "input": "baked_porcini and pepperoni bread pizza drizzled_with_oil: parmesan",
+            "action": "sprinkle",
+            "output": "baked_porcini and pepperoni bread pizza with_oil and parmesan cheese "
+        },
+        {
+            "instructions": "spread with cut basil .",
+            "input": "baked_porcini and pepperoni bread pizza with_oil and parmesan cheese ; basil",
+            "action": "spread",
+            "output": "baked_porcini and pepperoni bread pizza with_oil, parmesan cheese and basil "
+        },
+        {
+            "instructions": "sprinkle with salt and pepper",
+            "input": "baked_porcini and pepperoni bread pizza with_oil, parmesan cheese and basil ; salt; pepper",
+            "action": "sprinkle",
+            "output": "seasoned baked_porcini and pepperoni bread pizza with_oil, parmesan cheese and basil "
+        },
+        {
+            "instructions": "serve .",
+            "input": "seasoned baked_porcini and pepperoni bread pizza with_oil, parmesan cheese and basil ",
+            "action": "serve",
+            "output": "seasoned baked_porcini and pepperoni bread pizza with_oil, parmesan cheese and basil  served"
+        }
+    ],
+    "ingredients": [
+        {
+            "text": "1 cup water"
+        },
+        {
+            "text": "1/4 cup white wine vinegar"
+        },
+        {
+            "text": "1/2 -ounce dehydrated porcini mushrooms"
+        },
+        {
+            "text": "1 (8 by 14-inch) piece focaccia"
+        },
+        {
+            "text": "1/4 cup extra-virgin olive oil, plus extra for preparing pan and garnishing"
+        },
+        {
+            "text": "1 1/2 cups canned whole tomatoes with basil"
+        },
+        {
+            "text": "8 ounces fresh Buffalo mozzarella"
+        },
+        {
+            "text": "1/2 cup shredded aged mozzarella"
+        },
+        {
+            "text": "4 cloves garlic, roughly chopped"
+        },
+        {
+            "text": "18 to 20 thick pepperoni slices"
+        },
+        {
+            "text": "1/3 cup shredded Parmigiano-Reggiano"
+        },
+        {
+            "text": "2 cups fresh basil leaves"
+        },
+        {
+            "text": "Salt and freshly ground black pepper"
+        }
+    ],
+    "recipe": [
+        {
+            "text": "Preheat oven to 450 degrees F. In a small saucepan, bring 1 cup water and white wine vinegar to a simmer."
+        },
+        {
+            "text": "Remove from heat and add mushrooms."
+        },
+        {
+            "text": "Cover and let mushrooms sit, 15 minutes."
+        },
+        {
+            "text": "Strain."
+        },
+        {
+            "text": "Slice bread horizontally to create 2 pizzas."
+        },
+        {
+            "text": "Lightly oil a baking sheet and place pizzas crust side up."
+        },
+        {
+            "text": "Brush top with 1/4 cup oil."
+        },
+        {
+            "text": "In a bowl, squeeze tomatoes to break up slightly."
+        },
+        {
+            "text": "Place on pizza halves."
+        },
+        {
+            "text": "Pull pieces of Buffalo mozzarella from the ball and place on halves."
+        },
+        {
+            "text": "Top with porcini mushrooms, shredded mozzarella, garlic and pepperoni."
+        },
+        {
+            "text": "Bake until cheese has melted and crust is crispy, about 25 minutes."
+        },
+        {
+            "text": "Remove from oven, drizzle with oil, sprinkle on Parmesan and spread with cut basil."
+        },
+        {
+            "text": "Sprinkle with salt and pepper and serve."
+        }
+    ]
+}

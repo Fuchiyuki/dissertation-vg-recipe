@@ -1,0 +1,139 @@
+{
+    "title": "lavash_pizza_with_smoked_salmon",
+    "id": "93c59640d7",
+    "table": [
+        {
+            "instructions": "heat the oven to 375 degrees .",
+            "input": "NA",
+            "action": "heat",
+            "output": "NA"
+        },
+        {
+            "instructions": "place the lavash on a baking sheet .",
+            "input": "lavash",
+            "action": "place",
+            "output": "lavash"
+        },
+        {
+            "instructions": "bake for 8 to 10 minutes , just until the edges are crisp",
+            "input": "lavash",
+            "action": "bake",
+            "output": "baked lavash"
+        },
+        {
+            "instructions": "remove from the heat",
+            "input": "baked lavash",
+            "action": "remove",
+            "output": "baked lavash"
+        },
+        {
+            "instructions": "brush with the oil",
+            "input": "(baked lavash; oil)",
+            "action": "brush",
+            "output": "baked lavash brushed with oil"
+        },
+        {
+            "instructions": "set aside .",
+            "input": "baked lavash brushed with oil",
+            "action": "set",
+            "output": "baked lavash brushed with oil"
+        },
+        {
+            "instructions": "mix together the yogurt , lemon_juice and 1 teaspoon dill or chives .",
+            "input": "(yogurt; lemon juice; dill)",
+            "action": "mix",
+            "output": "mixed yogurt sauce"
+        },
+        {
+            "instructions": "season to taste with salt and pepper .",
+            "input": "(mixed yogurt sauce; salt; pepper)",
+            "action": "season",
+            "output": "seasoned mixed yogurt sauce"
+        },
+        {
+            "instructions": "spread over the lavash in a thin layer .",
+            "input": "(baked lavash brushed with oil; seasoned mixed yogurt sauce)",
+            "action": "spread",
+            "output": "seasoned mixed yogurt sauce spread on baked lavash "
+        },
+        {
+            "instructions": "top with overlapping slices of smoked_salmon .",
+            "input": "(smoked salmon slices; baked lavash with yogurt sauce)",
+            "action": "top",
+            "output": "baked lavash with yogurt sauce topped with overlapping smoked salmon slices"
+        },
+        {
+            "instructions": "sprinkle the salmon with chives",
+            "input": "(chives; baked lavash with yogurt sauce and smoked salmon slices)",
+            "action": "sprinkle",
+            "output": "chives sprinkled on baked lavash with yogurt sauce and smoked salmon slices"
+        },
+        {
+            "instructions": "grind on some pepper",
+            "input": "pepper",
+            "action": "grind",
+            "output": "baked lavash with yogurt sauce and smoked salmon slices garnished with chives and ground pepper"
+        },
+        {
+            "instructions": "serve .",
+            "input": "lavash_pizza_with_smoked_salmon",
+            "action": "serve",
+            "output": "lavash_pizza_with_smoked_salmon ready to eat"
+        }
+    ],
+    "ingredients": [
+        {
+            "text": "1 9-by-12-inch lavash"
+        },
+        {
+            "text": "1/4 cup drained regular 2 percent yogurt or thick, Greek-style 2 percent yogurt"
+        },
+        {
+            "text": "1 teaspoon freshly squeezed lemon juice"
+        },
+        {
+            "text": "1 teaspoon minced fresh dill or chives"
+        },
+        {
+            "text": "1 tablespoon extra-virgin olive oil, plain or mixed with 1 finely minced clove garlic"
+        },
+        {
+            "text": "3 to 4 ounces thinly sliced smoked salmon (enough to cover the lavash)"
+        },
+        {
+            "text": "2 additional teaspoons chopped chives"
+        },
+        {
+            "text": "Freshly ground pepper"
+        }
+    ],
+    "recipe": [
+        {
+            "text": "Heat the oven to 375 degrees."
+        },
+        {
+            "text": "Place the lavash on a baking sheet."
+        },
+        {
+            "text": "Bake for 8 to 10 minutes, just until the edges are crisp and browned."
+        },
+        {
+            "text": "Remove from the heat, brush with the oil and set aside."
+        },
+        {
+            "text": "Mix together the yogurt, lemon juice and 1 teaspoon dill or chives."
+        },
+        {
+            "text": "Season to taste with salt and pepper."
+        },
+        {
+            "text": "Spread over the lavash in a thin layer."
+        },
+        {
+            "text": "Top with overlapping slices of smoked salmon."
+        },
+        {
+            "text": "Sprinkle the salmon with chives, grind on some pepper and serve."
+        }
+    ]
+}

@@ -1,0 +1,250 @@
+{
+    "title": "whole_wheat_pizza_portobello_spinach_and_feta_cheese_pizza",
+    "id": "ded806fdcb",
+    "table": [
+        {
+            "instructions": "mince fine dice shallots and garlic",
+            "input": "(shallots; garlic)",
+            "action": "mince",
+            "output": "minced shallots and garlic mix"
+        },
+        {
+            "instructions": "chop baby_spinach",
+            "input": "Baby_spinach",
+            "action": "chop",
+            "output": "chopped baby_spinach"
+        },
+        {
+            "instructions": "slice rom_tomato sliced into 8 slices each",
+            "input": "Roms_tomato",
+            "action": "slice",
+            "output": "Sliced roma_tomato into 8 slices each"
+        },
+        {
+            "instructions": "slice mushrooms",
+            "input": "portobello mushrooms",
+            "action": "slice",
+            "output": "Sliced portobello mushrooms"
+        },
+        {
+            "instructions": "heat on the stove the large sauteuse",
+            "input": "NA",
+            "action": "heat",
+            "output": "NA"
+        },
+        {
+            "instructions": "then add 14 cup olive_oil",
+            "input": "olive oil",
+            "action": "add",
+            "output": "heated olive oil"
+        },
+        {
+            "instructions": "then add all the shallots and garlics",
+            "input": "(heated olive oil; minced shallots and garlic mix)",
+            "action": "add",
+            "output": "minced shallots and garlics added to heated olive oil"
+        },
+        {
+            "instructions": "saute sweat for 1 minute",
+            "input": "minced shallots and garlics added to heated olive oil",
+            "action": "saute",
+            "output": "sauteed minced shallot and garlic mix"
+        },
+        {
+            "instructions": "next add the sliced portobello mushrooms",
+            "input": "(sauteed minced shallot and garlic mix; Sliced portobello mushrooms)",
+            "action": "add",
+            "output": "Sliced portobello mushrooms added to sauteed minced shallot and garlic mix"
+        },
+        {
+            "instructions": "saute for another 3 minutes careful not to brown the garlic",
+            "input": "Sliced portobello mushrooms added to sauteed minced shallot and garlic mix",
+            "action": "saute",
+            "output": "sauteed shallot, garlic and mushrooms mixture"
+        },
+        {
+            "instructions": "then add the chopped spinach stirring",
+            "input": "(sauteed shallot, garlic and mushrooms mixture; chopped baby_spinach)",
+            "action": "add",
+            "output": "spinach added to sauteed shallot, garlic and mushrooms mixture"
+        },
+        {
+            "instructions": "saute until lightly wilted about 10 seconds",
+            "input": "spinach added to sauteed shallot, garlic and mushrooms mixture",
+            "action": "saute",
+            "output": "sauteed mushroom and spinach mixture"
+        },
+        {
+            "instructions": "empty pan into bowl to cool down",
+            "input": "sauteed mushroom and spinach mixture",
+            "action": "empty",
+            "output": "cooled sauteed mushroom and spinach mixture"
+        },
+        {
+            "instructions": "roll out the 4 pizza_dough crusts to 4 each 9 inch discs .",
+            "input": "pizza dough",
+            "action": "roll",
+            "output": "rolled pizza crusts"
+        },
+        {
+            "instructions": "place aluminum foil in sheet pan to cover",
+            "input": "NA",
+            "action": "place",
+            "output": "NA"
+        },
+        {
+            "instructions": "place pizza_dough on pan 2 per pan should fit",
+            "input": "rolled pizza crusts",
+            "action": "place",
+            "output": "rolled pizza crusts in pan"
+        },
+        {
+            "instructions": "lightly toss a small amount of corn meal under dough .",
+            "input": "NA",
+            "action": "toss",
+            "output": "NA"
+        },
+        {
+            "instructions": "top each pizza with equal amounts of the spinach mushroom mix .",
+            "input": "(rolled pizza crusts in pan; cooled sauteed mushroom and spinach mixture)",
+            "action": "top",
+            "output": "rolled pizza crusts with cooled sauteed mushroom and spinach mixture"
+        },
+        {
+            "instructions": "arrange 8 slices of tomato per pizza .",
+            "input": "(rolled pizza crusts with cooled sauteed mushroom and spinach mixture; Sliced roma_tomato into 8 slices each)",
+            "action": "arrange",
+            "output": "rolled pizza crusts with cooled sauteed mushroom and spinach mixture and sliced roma tomato"
+        },
+        {
+            "instructions": "sprinkle 3 ounces of feta_cheese per pizza_crust .",
+            "input": "(rolled pizza crusts with cooled sauteed mushroom and spinach mixture and sliced roma tomato; feta cheese)",
+            "action": "sprinkle",
+            "output": "rolled pizza crusts with cooled sauteed mushroom and spinach mixture, sliced roma tomato and feta cheese"
+        },
+        {
+            "instructions": "season with cracked_black_pepper",
+            "input": "(rolled pizza crusts with cooled sauteed mushroom and spinach mixture, sliced roma tomato and feta cheese; chracked black pepper)",
+            "action": "season",
+            "output": "rolled pizza crusts with cooled sauteed mushroom and spinach mixture, sliced roma tomato, feta cheese and cracked black pepper"
+        },
+        {
+            "instructions": "bake for 2 minutes",
+            "input": "rolled pizza crusts with cooled sauteed mushroom and spinach mixture, sliced roma tomato, feta cheese and cracked black pepper",
+            "action": "bake",
+            "output": "baking portobello_spinach_and_feta_cheese_pizza"
+        },
+        {
+            "instructions": "turn rotate pan 180 degrees for even baking",
+            "input": "baking portobello_spinach_and_feta_cheese_pizza",
+            "action": "turn",
+            "output": "baking portobello_spinach_and_feta_cheese_pizza"
+        },
+        {
+            "instructions": "cook time should take 5 to 8 minutes to bake depending on oven .",
+            "input": "baking portobello_spinach_and_feta_cheese_pizza",
+            "action": "take",
+            "output": "baked portobello_spinach_and_feta_cheese_pizza"
+        },
+        {
+            "instructions": "preheat the oven at 450f .",
+            "input": "NA",
+            "action": "preheat",
+            "output": "NA"
+        }
+    ],
+    "ingredients": [
+        {
+            "text": "4 each whole wheat pizza dough crust (9 inches each)"
+        },
+        {
+            "text": "1 cup wheat flour (for rolling out pizza dough)"
+        },
+        {
+            "text": "1 each shallot"
+        },
+        {
+            "text": "1 each garlic clove"
+        },
+        {
+            "text": "1 1/2 lbs baby spinach"
+        },
+        {
+            "text": "4 each Roma tomatoes (sliced into 8 slices each)"
+        },
+        {
+            "text": "2 each large Portobello mushrooms"
+        },
+        {
+            "text": "12 oz. Feta cheese, crumbled"
+        },
+        {
+            "text": "1/4 cup olive oil"
+        },
+        {
+            "text": "4 Tbsp Cracked Black Pepper"
+        },
+        {
+            "text": "1 Cup Corn Meal (for cooking, gives an authentic feel and taste)"
+        }
+    ],
+    "recipe": [
+        {
+            "text": "Prep all the ingredients; Mince (fine dice) Shallots and Garlic, Chop baby spinach, Slice Roma Tomatoes (sliced into 8 slices each), Slice Mushrooms"
+        },
+        {
+            "text": "Heat on the stove the large sauteuse"
+        },
+        {
+            "text": "Then add 1/4 cup olive oil"
+        },
+        {
+            "text": "Then add all the shallots and garlics, Saute / sweat for 1 minute"
+        },
+        {
+            "text": "Next add the sliced Portobello mushrooms, saute for another 3 minutes (careful not to brown the garlic)"
+        },
+        {
+            "text": "Then add the chopped spinach (stirring), saute until lightly wilted (about 10 seconds)"
+        },
+        {
+            "text": "Empty Pan into bowl to cool down"
+        },
+        {
+            "text": "Roll out the 4 pizza dough crusts to 4 each 9 inch discs."
+        },
+        {
+            "text": "Place Aluminum Foil in sheet pan to cover"
+        },
+        {
+            "text": "Place Pizza dough on pan (2 per pan should fit)"
+        },
+        {
+            "text": "(optional) Dust under dough with corn meal (to prevent sticking) by lifting a corner of the dough and lightly toss a small amount of corn meal under dough."
+        },
+        {
+            "text": "Prevents sticking and gives an authentic texture to the bottom of the dough."
+        },
+        {
+            "text": "Top each pizza with equal amounts of the spinach/ mushroom mix."
+        },
+        {
+            "text": "Arrange 8 slices of tomato per pizza."
+        },
+        {
+            "text": "Sprinkle 3 ounces of Feta cheese per pizza crust."
+        },
+        {
+            "text": "Season with cracked black pepper"
+        },
+        {
+            "text": "Bake for 2 minutes and turn/ rotate pan 180 degrees for even baking"
+        },
+        {
+            "text": "Cook time should take 5 to 8 minutes to bake depending on oven."
+        },
+        {
+            "text": "Preheat the oven at 450F."
+        }
+    ]
+}

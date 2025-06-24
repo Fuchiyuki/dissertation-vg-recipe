@@ -1,0 +1,226 @@
+{
+    "title": "roasted_vegetable_and_ricotta_pizza",
+    "id": "d14bcd1b0a",
+    "table": [
+        {
+            "instructions": "position an oven rack in the lowest setting ;",
+            "input": "NA",
+            "action": "position",
+            "output": "NA"
+        },
+        {
+            "instructions": "place a pizza stone on rack .",
+            "input": "NA",
+            "action": "place",
+            "output": "NA"
+        },
+        {
+            "instructions": "preheat oven to 500 .",
+            "input": "NA",
+            "action": "preheat",
+            "output": "NA"
+        },
+        {
+            "instructions": "remove dough from refrigerator .",
+            "input": "refrigerated dough",
+            "action": "remove",
+            "output": "refrigerated dough"
+        },
+        {
+            "instructions": "combine mushrooms and next 4 ingredients through onion in a large bowl ;",
+            "input": "(mushrooms; sliced zucchini; sliced yellow bell pepper; black pepper; red onion)",
+            "action": "combine",
+            "output": "uncooked vegetable mixture"
+        },
+        {
+            "instructions": "drizzle with 1 12 tablespoons , oil .",
+            "input": "(uncooked vegetable mixture; olive oil)",
+            "action": "drizzle",
+            "output": "olive oil drizzled over uncooked vegetable mixture"
+        },
+        {
+            "instructions": "toss .",
+            "input": "olive oil drizzled over uncooked vegetable mixture",
+            "action": "toss",
+            "output": "tossed uncooked vegetable mixture"
+        },
+        {
+            "instructions": "arrange vegetables on a jelly roll pan .",
+            "input": "uncooked vegetable mixture",
+            "action": "arrange",
+            "output": "uncooked vegetable mixture"
+        },
+        {
+            "instructions": "bake at 500 for 15 minutes .",
+            "input": "uncooked vegetable mixture",
+            "action": "bake",
+            "output": "roasted vegetable mixture"
+        },
+        {
+            "instructions": "punch dough down .",
+            "input": "risen dough",
+            "action": "punch",
+            "output": "punched down dough"
+        },
+        {
+            "instructions": "sprinkle a lightly floured baking sheet with cornmeal",
+            "input": "NA",
+            "action": "sprinkle",
+            "output": "NA"
+        },
+        {
+            "instructions": "roll dough out to 15",
+            "input": "punched down dough",
+            "action": "roll",
+            "output": "rolled dough"
+        },
+        {
+            "instructions": "brush dough with 1 teaspoon oil .",
+            "input": "(rolled dough; oil)",
+            "action": "brush",
+            "output": "oiled pizza crust"
+        },
+        {
+            "instructions": "spread sauce over dough , leaving a 12 inch border .",
+            "input": "(sauce; oiled pizza crust)",
+            "action": "spread",
+            "output": "sauce spread on oiled pizza crust"
+        },
+        {
+            "instructions": "sprinkle 12 cup mozzarella over sauce ;",
+            "input": "(mozzarella; pizza crust with sauce)",
+            "action": "sprinkle",
+            "output": "mozzarella sprinkled on pizza crust with sauce"
+        },
+        {
+            "instructions": "top with vegetables .",
+            "input": "(pizza crust with sauce and mozzarella; roasted vegetables)",
+            "action": "top",
+            "output": "pizza crust with sauce and mozzarella topped with roasted vegetables"
+        },
+        {
+            "instructions": "dollop with ricotta.",
+            "input": "(uncooked roasted vegetable; ricotta)",
+            "action": "dollop",
+            "output": "ricotta dolloped on uncooked roasted vegetable pizza"
+        },
+        {
+            "instructions": "slide pizza onto preheated pizza stone .",
+            "input": "uncooked roasted_vegetable_and_ricotta_pizza",
+            "action": "slide",
+            "output": "uncooked roasted_vegetable_and_ricotta_pizza"
+        },
+        {
+            "instructions": "bake at 500 for 11 minutes or until crust is golden .",
+            "input": "uncooked roasted_vegetable_and_ricotta_pizza",
+            "action": "bake",
+            "output": "baked uncooked roasted_vegetable_and_ricotta_pizza"
+        },
+        {
+            "instructions": "sprinkle with basil .",
+            "input": "(basil; baked uncooked roasted_vegetable_and_ricotta_pizza)",
+            "action": "sprinkle",
+            "output": "basil sprinkled on baked baked uncooked roasted_vegetable_and_ricotta_pizza"
+        }
+    ],
+    "ingredients": [
+        {
+            "text": "1 pound refrigerated fresh pizza dough"
+        },
+        {
+            "text": "2 cups sliced cremini mushrooms"
+        },
+        {
+            "text": "1 cup (1/4-inch-thick) slices zucchini"
+        },
+        {
+            "text": "1/4 teaspoon black pepper"
+        },
+        {
+            "text": "1 medium yellow bell pepper, sliced"
+        },
+        {
+            "text": "1 medium red onion, cut into thick slices"
+        },
+        {
+            "text": "5 1/2 teaspoons olive oil, divided"
+        },
+        {
+            "text": "1 tablespoon yellow cornmeal"
+        },
+        {
+            "text": "1/3 cup tomato sauce"
+        },
+        {
+            "text": "1 cup (4 ounces) shredded part-skim mozzarella cheese"
+        },
+        {
+            "text": "1/2 teaspoon crushed red pepper"
+        },
+        {
+            "text": "1/3 cup part-skim ricotta cheese"
+        },
+        {
+            "text": "2 tablespoons small fresh basil leaves"
+        }
+    ],
+    "recipe": [
+        {
+            "text": "1."
+        },
+        {
+            "text": "Position an oven rack in the lowest setting; place a pizza stone on rack."
+        },
+        {
+            "text": "Preheat oven to 500.2."
+        },
+        {
+            "text": "Remove dough from refrigerator."
+        },
+        {
+            "text": "Let stand, covered, for 30 minutes.3."
+        },
+        {
+            "text": "Combine mushrooms and next 4 ingredients (through onion) in a large bowl; drizzle with 1 1/2 tablespoons oil."
+        },
+        {
+            "text": "Toss."
+        },
+        {
+            "text": "Arrange vegetables on a jelly-roll pan."
+        },
+        {
+            "text": "Bake at 500 for 15 minutes.4."
+        },
+        {
+            "text": "Punch dough down."
+        },
+        {
+            "text": "Sprinkle a lightly floured baking sheet with cornmeal; roll dough out to 15-inch circle on prepared baking sheet."
+        },
+        {
+            "text": "Brush dough with 1 teaspoon oil."
+        },
+        {
+            "text": "Spread sauce over dough, leaving a 1/2-inch border."
+        },
+        {
+            "text": "Sprinkle 1/2 cup mozzarella over sauce; top with vegetables."
+        },
+        {
+            "text": "Sprinkle 1/2 cup mozzarella and red pepper over zucchini mixture."
+        },
+        {
+            "text": "Dollop with ricotta."
+        },
+        {
+            "text": "Slide pizza onto preheated pizza stone."
+        },
+        {
+            "text": "Bake at 500 for 11 minutes or until crust is golden."
+        },
+        {
+            "text": "Sprinkle with basil."
+        }
+    ]
+}

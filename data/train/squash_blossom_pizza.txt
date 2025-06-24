@@ -1,0 +1,229 @@
+{
+    "title": "squash_blossom_pizza",
+    "id": "d27a0d3c1e",
+    "table": [
+        {
+            "instructions": "split the pizza_dough into 2 even balls .",
+            "input": "pizza_dough",
+            "action": "split",
+            "output": "halved_pizza_dough"
+        },
+        {
+            "instructions": "roll each ball of dough out into a flat pizza_dough shape .",
+            "input": "halved_pizza_dough",
+            "action": "roll",
+            "output": "pizza crust"
+        },
+        {
+            "instructions": "preheat oven to 475 degrees f .",
+            "input": "NA",
+            "action": "preheat",
+            "output": "NA"
+        },
+        {
+            "instructions": "cut the ends off the zucchini and slices into 14 inch pieces",
+            "input": "whole zucchini",
+            "action": "cut",
+            "output": "sliced zucchini"
+        },
+        {
+            "instructions": "set aside .",
+            "input": "sliced zucchini",
+            "action": "set",
+            "output": "sliced zucchini"
+        },
+        {
+            "instructions": "to clean the flower portion of the squash_blossom , simply cut off the bottom 12 inch of the flower .",
+            "input": "squash blossom flower",
+            "action": "clean",
+            "output": "cleaned squash bottom flower"
+        },
+        {
+            "instructions": "remove the insides",
+            "input": "cleaned squash bottom flower",
+            "action": "remove",
+            "output": "emptied squash bottom flower"
+        },
+        {
+            "instructions": "dust off if needed .",
+            "input": "emptied squash bottom flower",
+            "action": "dust",
+            "output": "emptied squash bottom flower"
+        },
+        {
+            "instructions": "gently tear each flower into 2 pieces",
+            "input": "emptied squash bottom flower",
+            "action": "tear",
+            "output": "teared emptied squash bottom flower"
+        },
+        {
+            "instructions": "set aside .",
+            "input": "teared emptied squash bottom flower",
+            "action": "set",
+            "output": "squash blossom flower halves"
+        },
+        {
+            "instructions": "in a large skillet , saute the pancetta for a few minutes until it starts getting crisp and the fat renders .",
+            "input": "pancetta",
+            "action": "saute",
+            "output": "sauteed pancetta"
+        },
+        {
+            "instructions": "add the sliced zucchini",
+            "input": "(sliced zucchini; sauteed pancetta)",
+            "action": "add",
+            "output": "pancetta and zucchini mixture"
+        },
+        {
+            "instructions": "remove",
+            "input": "pancetta and zucchini mixture",
+            "action": "remove",
+            "output": "cooked pancetta and zucchini mixture"
+        },
+        {
+            "instructions": "set aside .",
+            "input": "cooked pancetta and zucchini mixture",
+            "action": "set",
+            "output": "cooled cooked pancetta and zucchini mixture"
+        },
+        {
+            "instructions": "place the rolled out pizza_dough onto a pizza peel with corn , meal so the pizza easily slides off when going into the oven .",
+            "input": "pizza crust",
+            "action": "place",
+            "output": "pizza crust"
+        },
+        {
+            "instructions": "spread 1 tablespoon of olive_oil on each of the pizza_dough .",
+            "input": "(olive oil; pizza crust)",
+            "action": "spread",
+            "output": "pizza crust with olive oil"
+        },
+        {
+            "instructions": "add 1 cup of cheese to each pizza and",
+            "input": "(cheese; pizza crust with olive oil)",
+            "action": "add",
+            "output": "pizza crust with olive oil and cheese"
+        },
+        {
+            "instructions": "evenly scatter the pancetta and zucchini mixture on top of the cheese .",
+            "input": "(cooled cooked pancetta and zucchini mixture; pizza crust with olive oil and cheese)",
+            "action": "scatter",
+            "output": "pizza crust with olive oil, cheese and cooled cooked pancetta and zucchini mixture"
+        },
+        {
+            "instructions": "lay the squash_blossom on top .",
+            "input": "(squash blossom flower halves; pizza crust with olive oil, cheese and cooled cooked pancetta and zucchini mixture)",
+            "action": "lay",
+            "output": "pizza crust with olive oil, cheese, cooled cooked pancetta and zucchini mixture and squash blossom flower halves"
+        },
+        {
+            "instructions": "slide the pizza from the peel into the pizza stone in the oven .",
+            "input": "pizza crust with olive oil, cheese, cooled cooked pancetta and zucchini mixture and squash blossom flower halves",
+            "action": "slide",
+            "output": "uncooked pancetta, zucchini and squash_blossom_pizza"
+        },
+        {
+            "instructions": "bake for 10 12 minutes until the cheese is bubbly and the edges of the crust are golden brown .",
+            "input": "uncooked pancetta, zucchini and squash_blossom_pizza",
+            "action": "bake",
+            "output": "baked pancetta, zucchini and squash_blossom_pizza"
+        },
+        {
+            "instructions": "using the peel , remove from the oven",
+            "input": "baked pancetta, zucchini and squash_blossom_pizza",
+            "action": "remove",
+            "output": "baked pancetta, zucchini and squash_blossom_pizza"
+        },
+        {
+            "instructions": "slice",
+            "input": "baked pancetta, zucchini and squash_blossom_pizza",
+            "action": "slice",
+            "output": "sliced baked pancetta, zucchini and squash_blossom_pizza"
+        },
+        {
+            "instructions": "serve .",
+            "input": "sliced baked pancetta, zucchini and squash_blossom_pizza",
+            "action": "serve",
+            "output": "sliced baked pancetta, zucchini and squash_blossom_pizza ready to serve"
+        }
+    ],
+    "ingredients": [
+        {
+            "text": "1 whole Pizza Dough (frozen Ball Of Pizza Dough)"
+        },
+        {
+            "text": "8 whole Squash Blossoms With Baby Zucchini Attached"
+        },
+        {
+            "text": "4 ounces, weight Pancetta Cubes"
+        },
+        {
+            "text": "2 Tablespoons Corn Meal, For Dusting"
+        },
+        {
+            "text": "2 Tablespoons Olive Oil"
+        },
+        {
+            "text": "2 cups Shredded Pepper Jack Cheese"
+        }
+    ],
+    "recipe": [
+        {
+            "text": "Split the pizza dough into 2 even balls."
+        },
+        {
+            "text": "Roll each ball of dough out into a flat pizza dough shape."
+        },
+        {
+            "text": "Preheat oven to 475 degrees F."
+        },
+        {
+            "text": "Detach the zucchini section of the squash blossom."
+        },
+        {
+            "text": "Cut the ends off the zucchini and slices into 1/4 inch pieces and set aside."
+        },
+        {
+            "text": "To clean the flower portion of the squash blossom, simply cut off the bottom 1/2 inch of the flower."
+        },
+        {
+            "text": "Remove the insides and dust off if needed."
+        },
+        {
+            "text": "Gently tear each flower into 2 pieces and set aside."
+        },
+        {
+            "text": "In a large skillet, saute the pancetta for a few minutes until it starts getting crisp and the fat renders."
+        },
+        {
+            "text": "Add the sliced zucchini and continue to cook until the pancetta is crisp and the zucchini is tender."
+        },
+        {
+            "text": "Remove and set aside."
+        },
+        {
+            "text": "Place the rolled out pizza dough onto a pizza peel with corn meal so the pizza easily slides off when going into the oven."
+        },
+        {
+            "text": "Spread 1 tablespoon of olive oil on each of the pizza doughs."
+        },
+        {
+            "text": "Add 1 cup of cheese to each pizza and then evenly scatter the pancetta and zucchini mixture on top of the cheese."
+        },
+        {
+            "text": "Lay the squash blossoms on top."
+        },
+        {
+            "text": "Slide the pizza from the peel into the pizza stone in the oven."
+        },
+        {
+            "text": "Bake for 10-12 minutes until the cheese is bubbly and the edges of the crust are golden brown."
+        },
+        {
+            "text": "Using the peel, remove from the oven, slice and serve."
+        },
+        {
+            "text": "Repeat with the remaining pizza dough."
+        }
+    ]
+}

@@ -1,0 +1,208 @@
+{
+    "title": "chicken_parmesan_pizza",
+    "id": "f7b45f8c4d",
+    "table": [
+        {
+            "instructions": "line a rimmed baking sheet with foil",
+            "input": "NA",
+            "action": "line",
+            "output": "NA"
+        },
+        {
+            "instructions": "spray foil well with non_stick_spray .",
+            "input": "NA",
+            "action": "spray",
+            "output": "NA"
+        },
+        {
+            "instructions": "preheat oven to 42",
+            "input": "NA",
+            "action": "preheat",
+            "output": "NA"
+        },
+        {
+            "instructions": "in a small skillet heat olive_oil",
+            "input": "olive_oil",
+            "action": "heat",
+            "output": "heated_olive_oil"
+        },
+        {
+            "instructions": "add onion and garlic",
+            "input": "onion, garlic",
+            "action": "add",
+            "output": "onion_garlic mix"
+        },
+        {
+            "instructions": "cook gently until soft , but not brown .",
+            "input": "onion_garlic mix",
+            "action": "cook",
+            "output": "softened onion_garlic mix"
+        },
+        {
+            "instructions": "cool to room temperature .",
+            "input": "softened onion_garlic mix",
+            "action": "cool",
+            "output": "cooled onion_garlic mix"
+        },
+        {
+            "instructions": "in a large bowl combine ground_chicken with all pizza base ingredients including cooled onion garlic mixture .",
+            "input": "ground_chicken, beaten egg; sour cream; grated parmesan cheese; shredded fontina cheese; italian seasoning spice blend; olive oil; hot sauce; black pepper; cooled onion_garlic mix",
+            "action": "combine",
+            "output": "chicken pizza base dough "
+        },
+        {
+            "instructions": "mix well but gently to combine all_ingredient .",
+            "input": "chicken pizza base dough ",
+            "action": "mix",
+            "output": "mixed_chicken pizza base dough "
+        },
+        {
+            "instructions": "place on prepared baking sheet",
+            "input": "chicken pizza base dough ",
+            "action": "place",
+            "output": "chicken pizza base dough "
+        },
+        {
+            "instructions": "form into a 10 inch circle .",
+            "input": "chicken pizza base dough ",
+            "action": "form",
+            "output": "formed_chicken pizza base dough inot a circle"
+        },
+        {
+            "instructions": "bake 20 minutes",
+            "input": "uncooked chicken pizza base",
+            "action": "bake",
+            "output": "baked_chicken pizza crust"
+        },
+        {
+            "instructions": "remove from oven .",
+            "input": "baked_chicken pizza crust",
+            "action": "remove",
+            "output": "baked_chicken pizza crust"
+        },
+        {
+            "instructions": "top pizza base with marinara_sauce ,",
+            "input": "baked_chicken pizza crust; marinara sauce",
+            "action": "top",
+            "output": "marinara_topped_pizza_crust"
+        },
+        {
+            "instructions": "cover sauce with cheese",
+            "input": "marinara_topped_pizza_crust; cheese",
+            "action": "cover",
+            "output": "chicken pizza crust with marinara sauce topped with cheese"
+        },
+        {
+            "instructions": "sprinkle italian_seasoning evenly over cheese , finally add pepperoni",
+            "input": "italian seasoning; pepperoni; chicken crust with cheese and marinara sauce",
+            "action": "sprinkle",
+            "output": "italian seasoning sprinkled on chicken crust with cheese and marinara sauce"
+        },
+        {
+            "instructions": "bake until cheese melts , about 10 minutes more .",
+            "input": "chicken parmesan pizza",
+            "action": "bake",
+            "output": "baked chicken parmesan pizza"
+        },
+        {
+            "instructions": "slice into wedges",
+            "input": "baked chicken parmesan pizza",
+            "action": "slice",
+            "output": "sliced_baked chicken parmesan pizza"
+        },
+        {
+            "instructions": "serve .",
+            "input": "sliced_baked chicken parmesan pizza",
+            "action": "serve",
+            "output": "served sliced_baked chicken parmesan pizza"
+        }
+    ],
+    "ingredients": [
+        {
+            "text": "1 FOR PIZZA BASE"
+        },
+        {
+            "text": "1 lb ground chicken"
+        },
+        {
+            "text": "1 large egg, beaten"
+        },
+        {
+            "text": "2 tbsp sour cream"
+        },
+        {
+            "text": "1/4 cup grated parmesan cheese"
+        },
+        {
+            "text": "1/4 cup shredded fontina cheese"
+        },
+        {
+            "text": "1/2 tsp italian seasoning spice blend"
+        },
+        {
+            "text": "1 tsp hot sauce, such as franks brand"
+        },
+        {
+            "text": "1/4 tsp black pepper and salt to taste"
+        },
+        {
+            "text": "1 small onion, minced"
+        },
+        {
+            "text": "1 clove of garlic, minced"
+        },
+        {
+            "text": "1 tsp olive oil"
+        },
+        {
+            "text": "1 FOR TOPPING"
+        },
+        {
+            "text": "3/4 cup marinara sauce, your favorite or my recipe, listed below"
+        },
+        {
+            "text": "1 1/2 cup shredded cheese, I used italian four cheese blend"
+        },
+        {
+            "text": "10 slice of pepperoni"
+        },
+        {
+            "text": "1/4 tsp italian dry seasoning blend"
+        }
+    ],
+    "recipe": [
+        {
+            "text": "Line a rimmed baking sheet with foil, spray foil well with non stick spray.preheat oven to 425."
+        },
+        {
+            "text": "In a small skillet heat olive oil, add onion and garlic and cook gently until soft, but not brown."
+        },
+        {
+            "text": "Cool to room temperature."
+        },
+        {
+            "text": "In a large bowl combine ground chicken with all pizza base ingredients including cooled onion/garlic mixture."
+        },
+        {
+            "text": "."
+        },
+        {
+            "text": "Mix well but gently to combine all ingredients."
+        },
+        {
+            "text": "Place on prepared baking sheet and form into a 10 inch circle."
+        },
+        {
+            "text": "Bake 20 minutes, remove from oven.Top pizza base with marinara sauce, then cover sauce with cheese, sprinkle italian seasoning evenly over cheese, finally add pepperoni, retun to oven and bake until cheese melts, about 10 minutes more."
+        },
+        {
+            "text": "Slice into wedges and serve."
+        },
+        {
+            "text": "This makes a great lumch or light dinner."
+        },
+        {
+            "text": "It:s also a nice appetizer cut into small wedges!"
+        }
+    ]
+}

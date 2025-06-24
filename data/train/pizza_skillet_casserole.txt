@@ -1,0 +1,121 @@
+{
+    "title": "pizza_skillet_casserole",
+    "id": "e45167fc01",
+    "table": [
+        {
+            "instructions": "cook egg_noodle as directed on package .",
+            "input": "egg_noodle",
+            "action": "cook",
+            "output": "cooked_egg_noodle"
+        },
+        {
+            "instructions": "brown beef and onion in large skillet on medium heat .",
+            "input": "(beef; onion)",
+            "action": "brown",
+            "output": "browned_beef and onion mixture"
+        },
+        {
+            "instructions": "drain fat .",
+            "input": "browned_beef and onion mixture",
+            "action": "drain",
+            "output": "browned_beef and onion mixture with excedd fat"
+        },
+        {
+            "instructions": "add tomato_sauce , italian_seasoning and garlic .",
+            "input": "(tomato_sauce; italian_seasoning; garlic; browned_beef and onion mixture with excedd fat)",
+            "action": "add",
+            "output": "seasoned tomato and beef sauce"
+        },
+        {
+            "instructions": "reduce heat to low ;",
+            "input": "seasoned tomato and beef sauce",
+            "action": "reduce",
+            "output": "seasoned tomato and beef sauce"
+        },
+        {
+            "instructions": "cover",
+            "input": "seasoned tomato and beef sauce",
+            "action": "cover",
+            "output": "covered seasoned tomato and beef sauce"
+        },
+        {
+            "instructions": "simmer 10 minutes .",
+            "input": "covered seasoned tomato and beef sauce",
+            "action": "simmer",
+            "output": "cooked covered seasoned tomato and beef sauce"
+        },
+        {
+            "instructions": "stir in cooked egg_noodle .",
+            "input": "(cooked_egg_noodle; covered seasoned tomato and beef sauce)",
+            "action": "stir",
+            "output": "cooked egg noodle stirred into cooked tomato and beef sauce"
+        },
+        {
+            "instructions": "top with cheese ;",
+            "input": "(cheese; cooked egg noodle stirred into cooked tomato and beef sauce)",
+            "action": "top",
+            "output": "cooked egg noodle stirred into cooked tomato and beef sauce and topped with cheese"
+        },
+        {
+            "instructions": "cover .",
+            "input": "cooked egg noodle stirred into cooked tomato and beef sauce and topped with cheese",
+            "action": "cover",
+            "output": "covered pizza casserole"
+        },
+        {
+            "instructions": "cook on low 5 minutes or until cheese melts .",
+            "input": "(rowned_Beef; Onion; tomato_sauce; italian_seasoning; garlic)",
+            "action": "cook",
+            "output": "cooked_egg_noodle"
+        }
+    ],
+    "ingredients": [
+        {
+            "text": "5 cups curly egg noodles"
+        },
+        {
+            "text": "1 lb ground beef"
+        },
+        {
+            "text": "1 cup chopped onion"
+        },
+        {
+            "text": "1 (8 ounce) can tomato sauce"
+        },
+        {
+            "text": "1 12 teaspoons italian seasoning"
+        },
+        {
+            "text": "1 garlic clove, minced"
+        },
+        {
+            "text": "1 cup mozzarella cheese, shredded"
+        }
+    ],
+    "recipe": [
+        {
+            "text": "Cook egg noodles as directed on package."
+        },
+        {
+            "text": "Brown beef and onion in large skillet on medium heat."
+        },
+        {
+            "text": "Drain fat."
+        },
+        {
+            "text": "Add tomato sauce, Italian seasoning and garlic."
+        },
+        {
+            "text": "Reduce heat to low; cover and simmer 10 minutes."
+        },
+        {
+            "text": "Stir in cooked egg noodles."
+        },
+        {
+            "text": "Top with cheese; cover."
+        },
+        {
+            "text": "Cook on low 5 minutes or until cheese melts."
+        }
+    ]
+}

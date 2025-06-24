@@ -1,0 +1,163 @@
+{
+    "title": "oatmeal_raisin_pizza_cookie",
+    "id": "f58ea95672",
+    "table": [
+        {
+            "instructions": "preheat oven to 32",
+            "input": "NA",
+            "action": "preheat",
+            "output": "NA"
+        },
+        {
+            "instructions": "spray 2 pizza\u2012pan , pie pans , or cookie sheets with cooking_spray .",
+            "input": "NA",
+            "action": "spray",
+            "output": "NA"
+        },
+        {
+            "instructions": "beat butter , sugars , milk , egg , and vanilla until smooth .",
+            "input": "(butter; sugars; milk; egg; vanilla)",
+            "action": "beat",
+            "output": "butter and egg mixture"
+        },
+        {
+            "instructions": "in another bowl , stir together flour , cinnamon , baking_soda , and salt .",
+            "input": "(flour; cinnamon; baking soda; salt)",
+            "action": "stir",
+            "output": "dry ingredients"
+        },
+        {
+            "instructions": "gradually add to butter mixture",
+            "input": "(butter and egg mixture; dry ingredients)",
+            "action": "add",
+            "output": "partially mixed cookie dough"
+        },
+        {
+            "instructions": "mix well .",
+            "input": "partially mixed cookie dough",
+            "action": "mix",
+            "output": "cookie dough"
+        },
+        {
+            "instructions": "stir in oatmeal and raisins .",
+            "input": "(oatmeal; raisins; cookie dough)",
+            "action": "stir",
+            "output": "cookie dough with oatmeal and raisins"
+        },
+        {
+            "instructions": "divide dough in half",
+            "input": "cookie dough with oatmeal and raisins",
+            "action": "divide",
+            "output": "halved cookie dough with oatmeal and raisins"
+        },
+        {
+            "instructions": "spread into desired dishes .",
+            "input": "halved cookie dough with oatmeal and raisins",
+            "action": "spread",
+            "output": "pressed cookie dough with oatmeal and raisins"
+        },
+        {
+            "instructions": "pat dough into 9 inchpizzas .",
+            "input": "pressed cookie dough with oatmeal and raisins",
+            "action": "pat",
+            "output": "patted cookie dough with oatmeal and raisins"
+        },
+        {
+            "instructions": "bake 30 40 minutes , or until firm to touch .",
+            "input": "uncooked cookie dough with oatmeal and raisins",
+            "action": "bake",
+            "output": "baked cookie crust with oatmeal and raisins"
+        },
+        {
+            "instructions": "top with yogurt or white_chocolate",
+            "input": "(white chocolate/yogurt; baked cookie crust with oatmeal and raisins)",
+            "action": "top",
+            "output": "baked cookie crust with oatmeal and raisins topped white chocolate or yogurt"
+        },
+        {
+            "instructions": "decorate with dried_fruit .",
+            "input": "(dried fruit; baked cookie crust with oatmeal and raisins topped white chocolate or yogurt)",
+            "action": "decorate",
+            "output": "baked cookie crust with oatmeal and raisins topped white chocolate or yogurt decorated dried fruit"
+        }
+    ],
+    "ingredients": [
+        {
+            "text": "34 cup butter"
+        },
+        {
+            "text": "1 cup packed brown sugar"
+        },
+        {
+            "text": "12 cup sugar"
+        },
+        {
+            "text": "14 cup skim milk"
+        },
+        {
+            "text": "1 egg"
+        },
+        {
+            "text": "1 teaspoon vanilla"
+        },
+        {
+            "text": "1 cup whole wheat flour"
+        },
+        {
+            "text": "12 teaspoon baking soda"
+        },
+        {
+            "text": "1 teaspoon cinnamon"
+        },
+        {
+            "text": "14 teaspoon salt"
+        },
+        {
+            "text": "3 cups old fashioned oats"
+        },
+        {
+            "text": "1 cup raisins"
+        },
+        {
+            "text": "dried apricot"
+        },
+        {
+            "text": "assorted dried fruits"
+        },
+        {
+            "text": "1 (6 ounce) container yogurt (your choice on the flavor) or 1 (6 ounce) container white chocolate chips, melted"
+        }
+    ],
+    "recipe": [
+        {
+            "text": "Preheat oven to 325."
+        },
+        {
+            "text": "Spray 2 pizza pans, pie pans, or cookie sheets with cooking spray."
+        },
+        {
+            "text": "Beat butter, sugars, milk, egg, and vanilla until smooth."
+        },
+        {
+            "text": "In another bowl, stir together flour, cinnamon, baking soda, and salt."
+        },
+        {
+            "text": "Gradually add to butter mixture and mix well."
+        },
+        {
+            "text": "Stir in oatmeal and raisins."
+        },
+        {
+            "text": "Divide dough in half and spread into desired dishes."
+        },
+        {
+            "text": "Pat dough into 9-inch\"pizzas\"."
+        },
+        {
+            "text": "Bake 30-40 minutes, or until firm to touch."
+        },
+        {
+            "text": "Once cooled, top with yogurt or white chocolate and decorate with dried fruit."
+        }
+    ]
+}

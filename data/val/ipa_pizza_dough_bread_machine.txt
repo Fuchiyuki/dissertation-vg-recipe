@@ -1,0 +1,97 @@
+{
+    "title": "ipa_pizza_dough_bread_machine",
+    "id": "6fa9f97974",
+    "table": [
+        {
+            "instructions": "add all_ingredient to bread maker in the order listed .",
+            "input": "all_ingredient",
+            "actions": "add",
+            "output": "added_all_ingredient"
+        },
+        {
+            "instructions": "press button for dough cycle",
+            "input": "NA",
+            "actions": "press",
+            "output": "NA"
+        },
+        {
+            "instructions": "preheat oven to 400f .",
+            "input": "NA",
+            "actions": "preheat",
+            "output": "NA"
+        },
+        {
+            "instructions": "when the dough is done in the machine , take it out",
+            "input": "added_all_ingredient",
+            "actions": "take",
+            "output": "dough"
+        },
+        {
+            "instructions": "roll or press into pan",
+            "input": "dough",
+            "actions": "roll",
+            "output": "rolled dough"
+        },
+        {
+            "instructions": "brush with olive_oil cover ,",
+            "input": "(olive oil; dough)",
+            "actions": "brush",
+            "output": "dough brushed with olive_oil"
+        },
+        {
+            "instructions": "spread with sauce",
+            "input": "(sauce; dough brushed with olive_oil)",
+            "actions": "spread",
+            "output": "sauce spread on dough"
+        },
+        {
+            "instructions": "add toppings",
+            "input": "(toppings; pizza_dough with sauce)",
+            "actions": "add",
+            "output": "topped bread dough with sauce"
+        },
+        {
+            "instructions": "bake for about 20 minutes or until crust is brown and cheese is melted .",
+            "input": "uncooked pizza",
+            "actions": "bake",
+            "output": "baked pizza"
+        }
+    ],
+    "ingredients": [
+        {
+            "text": "1 cup ipa beer, flat"
+        },
+        {
+            "text": "2 tablespoons olive oil"
+        },
+        {
+            "text": "1 teaspoon salt"
+        },
+        {
+            "text": "2 tablespoons evaporated cane juice, crystals"
+        },
+        {
+            "text": "2 12 cups cups unbleached white flour"
+        },
+        {
+            "text": "2 14 teaspoons bread machine yeast"
+        }
+    ],
+    "recipe": [
+        {
+            "text": "Add all ingredients to bread maker in the order listed."
+        },
+        {
+            "text": "Press button for \"dough cycle\" and let the bread machine do its magic."
+        },
+        {
+            "text": "Preheat oven to 400F."
+        },
+        {
+            "text": "When the dough is done in the machine, take it out, roll or press into pan, brush with olive oil cover, and let it rest."
+        },
+        {
+            "text": "Spread with sauce, add toppings and bake for about 20 minutes or until crust is brown and cheese is melted."
+        }
+    ]
+}

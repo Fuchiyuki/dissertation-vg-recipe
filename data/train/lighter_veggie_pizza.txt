@@ -1,0 +1,91 @@
+{
+    "title": "lighter_veggie_pizza",
+    "id": "30a278ea57",
+    "table": [
+        {
+            "instructions": "roll out pizza_crust",
+            "input": "pizza_crust",
+            "action": "roll",
+            "output": "rolled_out pizza_crust"
+        },
+        {
+            "instructions": "bake according to the instructions on the package .",
+            "input": "rolled_out pizza_crust",
+            "action": "bake",
+            "output": "baked pizza crust"
+        },
+        {
+            "instructions": "  i make mine in pampered chef 's large bar pan .",
+            "input": "NA",
+            "action": "make",
+            "output": "NA"
+        },
+        {
+            "instructions": "meanwhile , combine the cream_cheese , dry italian dressing and mayo in a small bowl .",
+            "input": "(cream cheese; dry italian dressing; mayo)",
+            "action": "combine",
+            "output": "cream cheese, dry italian dressing, and mayo combined"
+        },
+        {
+            "instructions": "finely chop the veggies .",
+            "input": "veggies",
+            "action": "chop",
+            "output": "chopped veggies"
+        },
+        {
+            "instructions": "then spread with the cream_cheese mixture",
+            "input": "(cream cheese, dry italian dressing, and mayo combined; baked pizza crust)",
+            "action": "spread",
+            "output": "baked pizza crust spread with cream cheese mixture"
+        },
+        {
+            "instructions": "top with veggies .",
+            "input": "(veggies; pizza spread with cream cheese mixture)",
+            "action": "top",
+            "output": "pizza spread with cream cheese mixture and topped with veggies"
+        }
+    ],
+    "ingredients": [
+        {
+            "text": "1 (8 ounce) package reduced-fat cream cheese"
+        },
+        {
+            "text": "12 cup light mayonnaise"
+        },
+        {
+            "text": "1 (2/3 ounce) package Italian salad dressing mix"
+        },
+        {
+            "text": "1 package refrigerated pizza dough"
+        },
+        {
+            "text": "4 cups chopped vegetables (broccoli, tomatoes, green peppers, whatever you want)"
+        }
+    ],
+    "recipe": [
+        {
+            "text": "Roll out pizza crust and bake according to the instructions on the package."
+        },
+        {
+            "text": "(I make mine in Pampered Chef's large bar pan."
+        },
+        {
+            "text": ")."
+        },
+        {
+            "text": "Meanwhile, combine the cream cheese, dry italian dressing and mayo in a small bowl."
+        },
+        {
+            "text": "Finely chop the veggies."
+        },
+        {
+            "text": "When the pizza crust is finished baking, let it cool completely."
+        },
+        {
+            "text": "Then spread with the cream cheese mixture and top with veggies."
+        },
+        {
+            "text": "Enjoy!"
+        }
+    ]
+}

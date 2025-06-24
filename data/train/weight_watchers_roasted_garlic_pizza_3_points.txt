@@ -1,0 +1,115 @@
+{
+    "title": "weight_watchers_roasted_garlic_pizza_3_points",
+    "id": "afbab77dc0",
+    "table": [
+        {
+            "instructions": "preheat oven to 400f ;",
+            "input": "NA",
+            "action": "preheat",
+            "output": "NA"
+        },
+        {
+            "instructions": "wrap garlic in heavy duty foil .",
+            "input": "garlic",
+            "action": "wrap",
+            "output": "wrapped_garlic"
+        },
+        {
+            "instructions": "roast until soft , about 45 minutes .",
+            "input": "wrapped garlic",
+            "action": "roast",
+            "output": "roasted garlic head"
+        },
+        {
+            "instructions": "separate garlic_clove ;",
+            "input": "roasted garlic head",
+            "action": "separate",
+            "output": "separated roasted cloves of garlic"
+        },
+        {
+            "instructions": "squeeze pulp out of their papery skins combine roasted_garlic pulp , tomato_sauce , and pepper in small bowl .",
+            "input": "(roasted garlic pulp; tomato sauce; pepper)",
+            "action": "squeeze",
+            "output": "tomato sauce mixture"
+        },
+        {
+            "instructions": "put crust on baking sheet ;",
+            "input": "pizza crust",
+            "action": "put",
+            "output": "pizza crust on sheet"
+        },
+        {
+            "instructions": "spread top with tomato_sauce mixture ,",
+            "input": "(tomato sauce mixture; pizza crust on sheet)",
+            "action": "spread",
+            "output": "Pizza crust topped wtih tomato sauce mixture"
+        },
+        {
+            "instructions": "sprinkle with mozzarella , parmesan and rosemary .",
+            "input": "(mozzarella; parmesan; rosemary; Pizza crust topped wtih tomato sauce mixture)",
+            "action": "sprinkle",
+            "output": "pizza crust topped with tomato sauce mixture, mozzarella, parmesan and rosemary"
+        },
+        {
+            "instructions": "bake until bubbling , about 12 minutes .",
+            "input": "uncooked roasted garlic pizza",
+            "action": "bake",
+            "output": "baked roasted garlic pizza"
+        },
+        {
+            "instructions": "cut into 8 wedges .",
+            "input": "baked roasted garlic pizza",
+            "action": "cut",
+            "output": "sliced baked roasted garlic pizza"
+        }
+    ],
+    "ingredients": [
+        {
+            "text": "1 garlic, bulb"
+        },
+        {
+            "text": "8 ounces tomato sauce"
+        },
+        {
+            "text": "1 pinch black pepper"
+        },
+        {
+            "text": "10 ounces whole wheat prebaked thin pizza crust"
+        },
+        {
+            "text": "12 cup shredded part-skim mozzarella cheese"
+        },
+        {
+            "text": "14 cup grated parmesan cheese"
+        },
+        {
+            "text": "1 tablespoon fresh rosemary"
+        }
+    ],
+    "recipe": [
+        {
+            "text": "Preheat oven to 400F Wrap garlic in heavy-duty foil."
+        },
+        {
+            "text": "Roast until soft, about 45 minutes."
+        },
+        {
+            "text": "Unwrap and let stand until cool enough to handle, 10 minutes."
+        },
+        {
+            "text": "Increase oven temperature to 450F."
+        },
+        {
+            "text": "Separate garlic cloves; squeeze pulp out of their papery skins Combine roasted garlic pulp, tomato sauce, and pepper in small bowl."
+        },
+        {
+            "text": "Put crust on baking sheet; spread top with tomato sauce mixture, then sprinkle with mozzarella, parmesan and rosemary."
+        },
+        {
+            "text": "Bake until bubbling, about 12 minutes."
+        },
+        {
+            "text": "Cut into 8 wedges."
+        }
+    ]
+}

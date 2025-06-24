@@ -1,0 +1,130 @@
+{
+    "title": "lime_chicken_pita_pizzas",
+    "id": "ab653b932e",
+    "table": [
+        {
+            "instructions": "cook chicken_breast in lemon_juice , lime_juice , water , garlic_powder , parsley , and ground_pepper .",
+            "input": "(chicken_breast; lime_juice; lemon juice; water; garlic_powder; parsley; ground_pepper)",
+            "action": "cook",
+            "output": "cooked seansoned chicken"
+        },
+        {
+            "instructions": "cube into bite sized pieces .",
+            "input": "cooked seansoned chicken",
+            "action": "cube",
+            "output": "cubed cooked chicken"
+        },
+        {
+            "instructions": "sprinkle six pitas with cubed chicken , red onions , red_bell_pepper , diced cheese , and cilantro .",
+            "input": "(pitas; cubed cooked chicken; red onions; red bell pepper; diced cheese; cilantro)",
+            "action": "sprinkle",
+            "output": "pitas topped with cubed cooked chicken, red onions, red bell pepper, diced cheese and cilantro"
+        },
+        {
+            "instructions": "broil until cheese begins to melt about 5 minutes .",
+            "input": "pitas topped with cubed cooked chicken, red onions, red bell pepper, diced cheese and cilantro",
+            "action": "broil",
+            "output": "broiled lime chicken pitas"
+        },
+        {
+            "instructions": "combine soy_sauce , barbeque sauce , orange_juice , lime_juice , cayenne_pepper , brown_sugar , and cornstarch until well blended .",
+            "input": "(soy sauce; barbeque sauce; orange juice; lime juice; cayenne pepper; brown sugar; cornstarch)",
+            "action": "combine",
+            "output": "sauce"
+        },
+        {
+            "instructions": "set aside .",
+            "input": "sauce",
+            "action": "set",
+            "output": "reserved sauce"
+        },
+        {
+            "instructions": "drizzle pitas with sauce .",
+            "input": "(broiled lime chicken pitas; reserved sauce)",
+            "action": "drizzle",
+            "output": "reserved sauce drizzled over broiled lime chicken pitas"
+        }
+    ],
+    "ingredients": [
+        {
+            "text": "2 large chicken breasts"
+        },
+        {
+            "text": "14 cup lime juice"
+        },
+        {
+            "text": "14 cup lemon juice"
+        },
+        {
+            "text": "1 cup water"
+        },
+        {
+            "text": "1 teaspoon garlic powder"
+        },
+        {
+            "text": "2 teaspoons parsley"
+        },
+        {
+            "text": "1 12 teaspoons ground black pepper"
+        },
+        {
+            "text": "12 cup chopped red onion"
+        },
+        {
+            "text": "12 cup julienned red bell pepper"
+        },
+        {
+            "text": "12 cup diced mozzarella cheese"
+        },
+        {
+            "text": "2 tablespoons finely chopped fresh cilantro"
+        },
+        {
+            "text": "6 white pita bread"
+        },
+        {
+            "text": "18 cup soy sauce"
+        },
+        {
+            "text": "1 tablespoon hickory barbecue sauce"
+        },
+        {
+            "text": "12 orange, juice of"
+        },
+        {
+            "text": "18 cup lime juice"
+        },
+        {
+            "text": "18 teaspoon cayenne pepper"
+        },
+        {
+            "text": "1 tablespoon brown sugar"
+        },
+        {
+            "text": "2 tablespoons cornstarch"
+        }
+    ],
+    "recipe": [
+        {
+            "text": "Cook chicken breasts in lemon juice, lime juice, water, garlic powder, parsley, and ground pepper."
+        },
+        {
+            "text": "Cube into bite sized pieces."
+        },
+        {
+            "text": "Sprinkle six pitas with cubed chicken, red onions, red bell peppers, diced cheese, and cilantro."
+        },
+        {
+            "text": "Broil until cheese begins to melt (about 5 minutes)."
+        },
+        {
+            "text": "Combine soy sauce, barbeque sauce, orange juice, lime juice, cayenne pepper, brown sugar, and cornstarch until well blended."
+        },
+        {
+            "text": "Set aside."
+        },
+        {
+            "text": "Drizzle pitas with sauce."
+        }
+    ]
+}

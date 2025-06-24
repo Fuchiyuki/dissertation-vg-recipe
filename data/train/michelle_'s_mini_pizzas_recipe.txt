@@ -1,0 +1,157 @@
+{
+    "title": "michelle_'s_mini_pizzas_recipe",
+    "id": "72a83b2e55",
+    "table": [
+        {
+            "instructions": "dissolve yeast in 14 c.",
+            "input": "(yeast; hot water)",
+            "action": "dissolve",
+            "output": "dissolved_yeast"
+        },
+        {
+            "instructions": "combine salt with 2 12 c.",
+            "input": "(Salt; flour)",
+            "action": "combine",
+            "output": "Salt combined with flour"
+        },
+        {
+            "instructions": ", flour .",
+            "input": "Salt combined with flour",
+            "action": "flour",
+            "output": "Salt combined with flour"
+        },
+        {
+            "instructions": "add in yeast mix to flour along with extra virgin_olive_oil and remaining hot_water .",
+            "input": "(dissolved_yeast; extra virgin_olive_oi; remaining hot water)",
+            "action": "add",
+            "output": "dough"
+        },
+        {
+            "instructions": "mix well , adding one more c.",
+            "input": "(Dough; flour)",
+            "action": "mix",
+            "output": "Well-mixed dough"
+        },
+        {
+            "instructions": "knead 10 min , adding up to 12 c.",
+            "input": "Well-mixed dough",
+            "action": "knead",
+            "output": "kneaded dough"
+        },
+        {
+            "instructions": ", flour if necessary .",
+            "input": "kneaded dough",
+            "action": "flour",
+            "output": "kneaded dough"
+        },
+        {
+            "instructions": "split into 2 parts",
+            "input": "Kneaded dough",
+            "action": "split",
+            "output": "Dough split into 2 parts"
+        },
+        {
+            "instructions": "roll each into thin rectangles .",
+            "input": "Dough portions",
+            "action": "roll",
+            "output": "Dough portions rolled into thin rectangles"
+        },
+        {
+            "instructions": "spread with tomato_sauce .",
+            "input": "(Thin dough rectangles; tomato sauce)",
+            "action": "spread",
+            "output": "Dough rectangles spread with tomato sauce"
+        },
+        {
+            "instructions": "sprinkle approximately 1 c.",
+            "input": "(Tomato sauce on dough; cheese)",
+            "action": "sprinkle",
+            "output": "Tomato sauce on dough sprinkled with cheese"
+        },
+        {
+            "instructions": "sprinkle with garlic and oregano to taste .",
+            "input": "(Tomato sauce and cheese on dough; garlic; oregano)",
+            "action": "sprinkle",
+            "output": "Tomato sauce and cheese on dough sprinkled with garlic and oregano"
+        },
+        {
+            "instructions": "bake on cookie sheets in preheated 450 degree oven for 15 min or possibly till crust is brown .",
+            "input": "uncooked pizza",
+            "action": "bake",
+            "output": "Baked pizza until brown"
+        },
+        {
+            "instructions": "use pizza cutter to make 12 16 mini pizzas .",
+            "input": "Baked pizza",
+            "action": "use",
+            "output": "Baked pizza cut inot mini pizzas"
+        }
+    ],
+    "ingredients": [
+        {
+            "text": "1 pkg. (tbsp.) yeast"
+        },
+        {
+            "text": "1 1/4 c. hot water"
+        },
+        {
+            "text": "2 teaspoon salt"
+        },
+        {
+            "text": "3 1/2 - 4 c. flour"
+        },
+        {
+            "text": "2 tbsp. extra virgin olive oil"
+        },
+        {
+            "text": "8 ounce. can tomato sauce or possibly favorite pizza sauce"
+        },
+        {
+            "text": "2 c. Mozzarella cheese, grated"
+        },
+        {
+            "text": "Garlic pwdr and oregano to taste"
+        }
+    ],
+    "recipe": [
+        {
+            "text": "Dissolve yeast in 1/4 c. hot water."
+        },
+        {
+            "text": "Combine salt with 2 1/2 c. flour."
+        },
+        {
+            "text": "Add in yeast mix to flour along with extra virgin olive oil and remaining hot water."
+        },
+        {
+            "text": "Mix well, adding one more c. of flour."
+        },
+        {
+            "text": "Knead 10 min, adding up to 1/2 c. flour if necessary."
+        },
+        {
+            "text": "Let rise 1 1/2 hrs."
+        },
+        {
+            "text": "Split into 2 parts and roll each into thin rectangles."
+        },
+        {
+            "text": "Spread with tomato sauce."
+        },
+        {
+            "text": "Sprinkle approximately 1 c. of grated cheese on each rectangle."
+        },
+        {
+            "text": "Sprinkle with garlic and oregano to taste."
+        },
+        {
+            "text": "Bake on cookie sheets in preheated 450 degree oven for 15 min or possibly till crust is brown."
+        },
+        {
+            "text": "Use pizza cutter to make 12-16 \"mini\" pizzas."
+        },
+        {
+            "text": "Note: You may use 2 cans of refrigerated commercial pizza dough in place of your own dough."
+        }
+    ]
+}

@@ -1,0 +1,130 @@
+{
+    "title": "veggie_pesto_pizza",
+    "id": "ad736a7977",
+    "table": [
+        {
+            "instructions": "preheat oven to 500 degrees f . ;",
+            "input": "NA",
+            "actions": "preheat",
+            "output": "NA"
+        },
+        {
+            "instructions": "line pizza\u2012pan with parchment if desired or lightly spray with nonstick cooking_spray .",
+            "input": "NA",
+            "actions": "line",
+            "output": "NA"
+        },
+        {
+            "instructions": "spread pizza_dough out to 12 14 inches in diameter .",
+            "input": "pizza_dough",
+            "actions": "spread",
+            "output": "spread_pizza_dough"
+        },
+        {
+            "instructions": "spread pesto over dough .",
+            "input": "(dough; pesto)",
+            "actions": "spread",
+            "output": "dough_with_spread_pesto"
+        },
+        {
+            "instructions": "top with spinach , fresh_mozzarella , zucchini , olives , artichokes , green_pepper , cheddar and parmesan_cheese .",
+            "input": "(dough_with_spread_pesto; spinach; fresh_mozzarella; zucchini; artichokes; green_pepper; cheddar; parmesan)",
+            "actions": "top",
+            "output": "dough_with_spread_pesto_topped_with_veggies_and_cheeses"
+        },
+        {
+            "instructions": "bake 7 10 minutes or until edges are brown and cheese is bubbly .",
+            "input": "uncooked_pizza",
+            "actions": "bake",
+            "output": "cooked_pizza"
+        },
+        {
+            "instructions": "remove from oven",
+            "input": "cooked_pizza",
+            "actions": "remove",
+            "output": "cooked_pizza"
+        },
+        {
+            "instructions": "top with tomato slices and green_onion .",
+            "input": "(cooked_pizza; tomato_slices; green_onion)",
+            "actions": "top",
+            "output": "cooked_pizza_topped_with_tomato_slices_and_green_onion"
+        },
+        {
+            "instructions": "slice",
+            "input": "cooked_pizza_topped_with_tomato_slices_and_green_onion",
+            "actions": "slice",
+            "output": "sliced_veggie_pesto_pizza"
+        },
+        {
+            "instructions": "serve .",
+            "input": "sliced_veggie_pesto_pizza",
+            "actions": "serve",
+            "output": "sliced_veggie_pesto_pizza"
+        }
+    ],
+    "ingredients": [
+        {
+            "text": "1/2 whole Recipe Fail-Proof Pizza Dough (see My Recipe Box)"
+        },
+        {
+            "text": "13 cups Prepared Pesto"
+        },
+        {
+            "text": "1 cup Baby Spinach"
+        },
+        {
+            "text": "6 ounces, weight Sliced Fresh Mozzarella"
+        },
+        {
+            "text": "13 whole Zucchini, Sliced Very Thin"
+        },
+        {
+            "text": "1/4 cups Sliced Green Olives"
+        },
+        {
+            "text": "13 cups Chopped Marinated Artichoke Hearts"
+        },
+        {
+            "text": "1/2 whole Green Bell Pepper, Sliced Into Rings"
+        },
+        {
+            "text": "1/2 cups Grated Cheddar Cheese"
+        },
+        {
+            "text": "1/2 cups Grated Parmigianno Reggiano Cheese"
+        },
+        {
+            "text": "1 whole Tomato, Sliced"
+        },
+        {
+            "text": "1 whole Green Onion, Chopped"
+        }
+    ],
+    "recipe": [
+        {
+            "text": "Preheat oven to 500 degrees F. Line pizza pan with parchment (if desired) or lightly spray with nonstick cooking spray."
+        },
+        {
+            "text": "Spread pizza dough out to 12-14 inches in diameter."
+        },
+        {
+            "text": "Spread pesto over dough."
+        },
+        {
+            "text": "Top with spinach, fresh mozzarella, zucchini, olives, artichokes, green pepper, cheddar and parmesan cheeses."
+        },
+        {
+            "text": "Bake 7-10 minutes or until edges are brown and cheese is bubbly."
+        },
+        {
+            "text": "Remove from oven and cool 5 minutes."
+        },
+        {
+            "text": "Top with tomato slices and green onion."
+        },
+        {
+            "text": "Slice and serve."
+        }
+    ]
+}

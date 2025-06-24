@@ -1,0 +1,94 @@
+{
+    "title": "texas_toast_pizza_burgers",
+    "id": "7f29afae60",
+    "table": [
+        {
+            "instructions": "pat out the ground_chuck into 6 patties .",
+            "input": "ground_chuck",
+            "action": "pat",
+            "output": "patted_ground_chuck"
+        },
+        {
+            "instructions": "in a large skillet on medium heat , cook until no longer pink inside , about 6 minutes per side .",
+            "input": "uncooked patties",
+            "action": "cook",
+            "output": "cooked patties"
+        },
+        {
+            "instructions": "heat griddle and on medium heat place the cheese side of the texas",
+            "input": "uncooked texas toast",
+            "action": "heat",
+            "output": "cooked toast"
+        },
+        {
+            "instructions": "toast down",
+            "input": "cooked toast",
+            "action": "toast",
+            "output": "cooked toast"
+        },
+        {
+            "instructions": "top with 4 tablespoons of pizza_sauce , cooked beef patty , 1 slice of the mozzerella cheese , 4 slices pepperoni ,",
+            "input": "(cooked toast; pizza_sauce; cooked beef patty; mozzarella cheese; pepperoni slices)",
+            "action": "top",
+            "output": "cooked toast topped with pizza_sauce , cooked beef patty, mozzarella cheese and slices pepperoni"
+        },
+        {
+            "instructions": "top with another 4 tablespoons of pizza_sauce and the top slice of cheese , bread cheese side up .",
+            "input": "(cooked toast topped with pizza_sauce , cooked beef patty, mozzarella cheese and slices pepperoni; pizza sauce)",
+            "action": "top",
+            "output": "cooked toast topped with pizza_sauce , cooked beef patty, mozzarella cheese, slices pepperoni and pizza sauce"
+        },
+        {
+            "instructions": "grill until cheese is melted and bread is golden brown .",
+            "input": "texas_toast_pizza_burgers",
+            "action": "grill",
+            "output": "grilled texas_toast_pizza_burgers"
+        },
+        {
+            "instructions": "use remaining sauce for dipping or for extra on burgers .",
+            "input": "(grilled texas_toast_pizza_burgers; remaining sauce)",
+            "action": "use",
+            "output": "grilled texas_toast_pizza_burgers with remaining sauce used as dipping"
+        }
+    ],
+    "ingredients": [
+        {
+            "text": "1- 1/2 pound Ground Chuck"
+        },
+        {
+            "text": "12 slices Frozen Cheese Texas Toast, Thawed"
+        },
+        {
+            "text": "1- 1/2 cup Any Pizza Sauce"
+        },
+        {
+            "text": "6 slices Mozzarella Cheese"
+        },
+        {
+            "text": "24 slices Pepperoni"
+        }
+    ],
+    "recipe": [
+        {
+            "text": "This recipe makes 6 sandwiches."
+        },
+        {
+            "text": "Pat out the ground chuck into 6 patties."
+        },
+        {
+            "text": "In a large skillet on medium heat, cook until no longer pink inside, about 6 minutes per side."
+        },
+        {
+            "text": "Heat griddle and on medium heat place the cheese side of the Texas toast down, top with 4 Tablespoons of pizza sauce, cooked beef patty, 1 slice of the mozzerella cheese, 4 slices pepperoni, and top with another 4 Tablespoons of pizza sauce and the top slice of cheese bread (cheese side up)."
+        },
+        {
+            "text": "Grill until cheese is melted and bread is golden brown."
+        },
+        {
+            "text": "This takes about 5 minutes per side ."
+        },
+        {
+            "text": "Use remaining sauce for dipping or for extra on burgers."
+        }
+    ]
+}

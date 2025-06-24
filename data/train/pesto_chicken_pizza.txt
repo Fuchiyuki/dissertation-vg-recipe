@@ -1,0 +1,172 @@
+{
+    "title": "pesto_chicken_pizza",
+    "id": "df8ef9fd11",
+    "table": [
+        {
+            "instructions": "combine shredded chicken and italian dressing .",
+            "input": "(shredded chicken; italian dressing)",
+            "action": "combine",
+            "output": "dressed shredded chicken"
+        },
+        {
+            "instructions": "chill in refrigerator for 2 hours .",
+            "input": "dressed shredded chicken",
+            "action": "chill",
+            "output": "chilled dressed shredded chicken"
+        },
+        {
+            "instructions": "preheat oven to 450 degrees .",
+            "input": "NA",
+            "action": "preheat",
+            "output": "NA"
+        },
+        {
+            "instructions": "spray a large skillet with cooking_spray",
+            "input": "NA",
+            "action": "spray",
+            "output": "NA"
+        },
+        {
+            "instructions": "then heat over medium high heat .",
+            "input": "cooking spray",
+            "action": "heat",
+            "output": "heated cooking spray in skillet"
+        },
+        {
+            "instructions": "add red_pepper and onion , sauteing until tender crisp , about 3 minutes .",
+            "input": "red pepper; onion; heated cooking spray in skillet",
+            "action": "add",
+            "output": "sauteed red_pepper mixture"
+        },
+        {
+            "instructions": "sprinkle a large cookie sheet with cornmeal .",
+            "input": "NA",
+            "action": "sprinkle",
+            "output": "NA"
+        },
+        {
+            "instructions": "place pizza_crust dough on sheet",
+            "input": "pizza_crust dough",
+            "action": "place",
+            "output": "pizza_crust dough"
+        },
+        {
+            "instructions": "unroll .",
+            "input": "pizza_crust dough",
+            "action": "unroll",
+            "output": "unrolled pizza_crust dough"
+        },
+        {
+            "instructions": "pat into 14 x 10 inch rectangle .",
+            "input": "unrolled pizza_crust dough",
+            "action": "pat",
+            "output": "pizza_crust dough in rectangle shape"
+        },
+        {
+            "instructions": "spread pesto over dough up to 12 from edges .",
+            "input": "pesto; pizza_crust dough in rectangle shape",
+            "action": "spread",
+            "output": "pesto spread on pizza_crust dough in rectangle shape"
+        },
+        {
+            "instructions": "top with 1 cup mozzarella .",
+            "input": "mozzarella; pizza crust with pesto",
+            "action": "top",
+            "output": "pizza crust with pesto topped with mozzarella"
+        },
+        {
+            "instructions": "drain chicken",
+            "input": "chilled dressed shredded chicken",
+            "action": "drain",
+            "output": "drained dressed shredded chicken"
+        },
+        {
+            "instructions": "put on top with red_pepper mixture .",
+            "input": "sauteed red_pepper mixture; drained dressed shredded chicken; pizza crust with pesto topped with mozzarella",
+            "action": "put",
+            "output": "pizza crust with pesto topped with mozzarella, sauteed red pepper mixture and dressed chicken"
+        },
+        {
+            "instructions": "sprinkle with remaining mozzarella and parmesan_cheese .",
+            "input": "uncooked pesto_chicken_pizza; remaining mozzarella; parmesan cheese",
+            "action": "sprinkle",
+            "output": "remaining mozzarella and parmesan_cheese spread on uncooked pesto_chicken_pizza"
+        },
+        {
+            "instructions": "bake on bottom oven rack 8 10 minutes until crust is browned and cheese is melted .",
+            "input": "uncooked pesto_chicken_pizza",
+            "action": "bake",
+            "output": "baked pesto_chicken_pizza"
+        }
+    ],
+    "ingredients": [
+        {
+            "text": "2 boneless skinless chicken breasts, cooked and shredded"
+        },
+        {
+            "text": "12 cup Italian dressing"
+        },
+        {
+            "text": "1 small red bell pepper, cored and thinly sliced"
+        },
+        {
+            "text": "1 small red onion, diced"
+        },
+        {
+            "text": "cornmeal"
+        },
+        {
+            "text": "1 (10 ounce) packagerefrigerated pizza crusts"
+        },
+        {
+            "text": "3 tablespoons pesto sauce"
+        },
+        {
+            "text": "2 cups shredded mozzarella cheese"
+        },
+        {
+            "text": "3 tablespoons grated parmesan cheese"
+        }
+    ],
+    "recipe": [
+        {
+            "text": "Combine shredded chicken and Italian dressing."
+        },
+        {
+            "text": "Chill in refrigerator for 2 hours."
+        },
+        {
+            "text": "Preheat oven to 450 degrees."
+        },
+        {
+            "text": "Spray a large skillet with cooking spray and then heat over medium-high heat."
+        },
+        {
+            "text": "Add red pepper and onion, sauteing until tender-crisp, about 3 minutes."
+        },
+        {
+            "text": "Sprinkle a large cookie sheet with cornmeal."
+        },
+        {
+            "text": "Place pizza crust dough on sheet and unroll."
+        },
+        {
+            "text": "Pat into 14 x 10 inch rectangle."
+        },
+        {
+            "text": "Spread pesto over dough up to 1/2\" from edges."
+        },
+        {
+            "text": "Top with 1 cup mozzarella."
+        },
+        {
+            "text": "Drain chicken and put on top with red pepper mixture."
+        },
+        {
+            "text": "Sprinkle with remaining mozzarella and Parmesan cheese."
+        },
+        {
+            "text": "Bake on bottom oven rack 8-10 minutes until crust is browned and cheese is melted."
+        }
+    ]
+}

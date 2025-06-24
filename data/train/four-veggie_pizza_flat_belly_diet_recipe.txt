@@ -1,0 +1,145 @@
+{
+    "title": "four-veggie_pizza_flat_belly_diet_recipe",
+    "id": "dbb4ea50f5",
+    "table": [
+        {
+            "instructions": "preheat oven to 425f ;",
+            "input": "NA",
+            "action": "preheat",
+            "output": "NA"
+        },
+        {
+            "instructions": "put crust on baking sheet or pizza\u2012pan .",
+            "input": "crust",
+            "action": "put",
+            "output": "crust"
+        },
+        {
+            "instructions": "spread crust with pesto .",
+            "input": "(crust; pesto)",
+            "action": "spread",
+            "output": "pesto_crust"
+        },
+        {
+            "instructions": "toss zucchini , pepper , mushrooms , and onion with oil .",
+            "input": "(zucchini; pepper; mushrooms; onion; oil)",
+            "action": "toss",
+            "output": "tossed vegetable mixture"
+        },
+        {
+            "instructions": "place in medium skillet over medium high heat",
+            "input": "tossed vegetable mixture",
+            "action": "place",
+            "output": "tossed vegetable mixture in hot pan"
+        },
+        {
+            "instructions": "saute until veggies are soft and excess liquid has evaporated , about 6 to 8 minutes .",
+            "input": "tossed vegetable mixture in hot pan",
+            "action": "saute",
+            "output": "sauteed vegetable mixture"
+        },
+        {
+            "instructions": "top crust evenly with cheeses .",
+            "input": "(cheeses; crust with pesto)",
+            "action": "top",
+            "output": "cheese_pesto_crust"
+        },
+        {
+            "instructions": "arrange sauteed vegetables over cheese",
+            "input": "(sauteed_vegetable mixture; cheese_pesto_crust)",
+            "action": "arrange",
+            "output": "cheese_pesto_crust with sauteed vegetables"
+        },
+        {
+            "instructions": "top with tomatoes .",
+            "input": "(tomatoes; cheese_pesto_crust with sauteed vegetables)",
+            "action": "top",
+            "output": "cheese_pesto_crust with sauteed vegetables and tomatoes"
+        },
+        {
+            "instructions": "bake 18 to 20 minutes until crust is baked through and slightly crisp .",
+            "input": "uncooked vegetable pesto pizza",
+            "action": "bake",
+            "output": "baked pesto vegetable pizza"
+        },
+        {
+            "instructions": "sprinkle with basil .",
+            "input": "(basil; baked pesto vegetable pizza)",
+            "action": "sprinkle",
+            "output": "baked pesto vegetable pizza garnished with basil"
+        }
+    ],
+    "ingredients": [
+        {
+            "text": "1 Boboli whole wheat pizza crust, we used Boboli (12-inch diameter)"
+        },
+        {
+            "text": "14 cup sun-dried tomato pesto (MUFA)"
+        },
+        {
+            "text": "1 zucchini, sliced (1 c)"
+        },
+        {
+            "text": "1 orange bell peppers (about 1 c) or 1 yellow bell pepper, cut into thin strips (about 1 c)"
+        },
+        {
+            "text": "1 cup cremini mushrooms or 1 cup fresh button mushrooms, sliced"
+        },
+        {
+            "text": "12 red onion, thinly sliced (1/2 c)"
+        },
+        {
+            "text": "2 teaspoons olive oil"
+        },
+        {
+            "text": "2 ounces mozzarella cheese, thinly sliced"
+        },
+        {
+            "text": "2 tablespoons parmesan cheese, grated"
+        },
+        {
+            "text": "34 cup grape tomatoes or 34 cup cherry tomatoes, quartered"
+        },
+        {
+            "text": "12 cup fresh basil leaf, thinly sliced"
+        }
+    ],
+    "recipe": [
+        {
+            "text": "Preheat oven to 425F Put crust on baking sheet or pizza pan."
+        },
+        {
+            "text": "Spread crust with pesto."
+        },
+        {
+            "text": "2."
+        },
+        {
+            "text": "Toss zucchini, pepper, mushrooms, and onion with oil."
+        },
+        {
+            "text": "Place in medium skillet over medium-high heat and saute until veggies are soft and excess liquid has evaporated, about 6 to 8 minutes."
+        },
+        {
+            "text": "3."
+        },
+        {
+            "text": "Top crust evenly with cheeses."
+        },
+        {
+            "text": "Arrange sauteed vegetables over cheese and top with tomatoes."
+        },
+        {
+            "text": "Bake 18 to 20 minutes until crust is baked through and slightly crisp."
+        },
+        {
+            "text": "Sprinkle with basil."
+        },
+        {
+            "text": "Let stand a few minutes before cutting into quarters."
+        },
+        {
+            "text": "Nutritional info per serving (1/4 pizza) 301 cal, 16 g pro, 42 g carb, 7 g fiber, 11 g fat, 3 g sat fat, 10 mg chol, 600 mg sodium*."
+        }
+    ]
+}

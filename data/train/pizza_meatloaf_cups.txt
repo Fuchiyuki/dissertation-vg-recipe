@@ -1,0 +1,145 @@
+{
+    "title": "pizza_meatloaf_cups",
+    "id": "d97bb793e5",
+    "table": [
+        {
+            "instructions": "preheat oven to 350 degrees .",
+            "input": "NA",
+            "action": "preheat",
+            "output": "NA"
+        },
+        {
+            "instructions": "place frozen veggies in a mini chopper",
+            "input": "frozen veggies",
+            "action": "place",
+            "output": "frozen veggies"
+        },
+        {
+            "instructions": "chop fine ;",
+            "input": "frozen veggies",
+            "action": "chop",
+            "output": "chopped frozen veggies"
+        },
+        {
+            "instructions": "set aside .",
+            "input": "chopped frozen veggies",
+            "action": "set",
+            "output": "chopped frozen veggies"
+        },
+        {
+            "instructions": "combine meat , chopped veggies , dressing mix , egg and parmesan_cheese until just mixed ;",
+            "input": "meat; chopped frozen veggies; dressing mix; eggs; parmesan cheese",
+            "action": "combine",
+            "output": "meat, vegetables and parmesan mixture"
+        },
+        {
+            "instructions": "scoop about 13 c , meat mixture into each muffin cup",
+            "input": "meat, vegetables and parmesan mixture",
+            "action": "scoop",
+            "output": "meat, vegetables and parmesan mixture scooped in muffin cups"
+        },
+        {
+            "instructions": "press down .",
+            "input": "meat, vegetables and parmesan mixture scooped in muffin cups",
+            "action": "press",
+            "output": "pressed meat, vegetables and parmesan mixture"
+        },
+        {
+            "instructions": "sprinkle 2 t shredded_mozzarella_cheese on top of each cup .",
+            "input": "shredded mozzarella cheese; pressed meat, vegetables and parmesan mixture",
+            "action": "sprinkle",
+            "output": "meat patty topped with shredded mozzarella cheese"
+        },
+        {
+            "instructions": "place another scoop of the meat mixture on top of the cheese on each cup , pushing to the edges to seal .",
+            "input": "meat, vegetables and parmesan mixture; meat patty topped with shredded mozzarella cheese",
+            "action": "place",
+            "output": "additional meat mixture on top of meat patty topped with shredded mozzarella cheese"
+        },
+        {
+            "instructions": "bake for 35 minutes .",
+            "input": "uncooked stuffed meat patties",
+            "action": "bake",
+            "output": "baked stuffed meat patties"
+        },
+        {
+            "instructions": "remove from oven",
+            "input": "baked stuffed meat patties",
+            "action": "remove",
+            "output": "baked stuffed meat patties"
+        },
+        {
+            "instructions": "top each muffin with 2 t , pizza_sauce and 1 t shredded_cheese .",
+            "input": "pizza sauce; shredded cheese; baked stuffed meat patties",
+            "action": "top",
+            "output": "baked stuffed meat patties topped with pizza sauce and shredded cheese"
+        },
+        {
+            "instructions": "return to oven",
+            "input": "uncooked pizza stuffed meat patties",
+            "action": "return",
+            "output": "uncooked pizza stuffed meat patties"
+        },
+        {
+            "instructions": "bake an additional 10 minutes , until cheese is melted .",
+            "input": "uncooked pizza stuffed meat patties",
+            "action": "bake",
+            "output": "doubly baked pizza stuffed meat patties"
+        }
+    ],
+    "ingredients": [
+        {
+            "text": "1 lb ground chuck"
+        },
+        {
+            "text": "1 (3/4 ounce) packetgood season's Italian salad dressing mix"
+        },
+        {
+            "text": "1 cup frozen pepper stir fry vegetables"
+        },
+        {
+            "text": "1 egg"
+        },
+        {
+            "text": "14 cup grated parmesan cheese"
+        },
+        {
+            "text": "12 cup Italian seasoned breadcrumbs"
+        },
+        {
+            "text": "1 cup pizza sauce"
+        },
+        {
+            "text": "2 cups shredded mozzarella cheese"
+        }
+    ],
+    "recipe": [
+        {
+            "text": "Preheat oven to 350 degrees."
+        },
+        {
+            "text": "Place frozen veggies in a mini chopper and chop fine; set aside."
+        },
+        {
+            "text": "Combine meat, chopped veggies, dressing mix, egg and Parmesan cheese until JUST mixed; do not overmix."
+        },
+        {
+            "text": "Scoop about 1/3 c meat mixture into each muffin cup and press down."
+        },
+        {
+            "text": "Sprinkle 2 T shredded mozzarella cheese on top of each cup."
+        },
+        {
+            "text": "Place another scoop of the meat mixture on top of the cheese on each cup, pushing to the edges to seal."
+        },
+        {
+            "text": "Bake for 35 minutes."
+        },
+        {
+            "text": "Remove from oven and top each muffin with 2 T pizza sauce and 1 T shredded cheese."
+        },
+        {
+            "text": "Return to oven and bake an additional 10 minutes, until cheese is melted."
+        }
+    ]
+}

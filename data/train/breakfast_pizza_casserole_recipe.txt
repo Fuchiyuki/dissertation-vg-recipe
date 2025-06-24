@@ -1,0 +1,154 @@
+{
+    "title": "breakfast_pizza_casserole_recipe",
+    "id": "e696506fc8",
+    "table": [
+        {
+            "instructions": "cook sausage till browned , stirring to crumble ;",
+            "input": "sausage",
+            "actions": "cook",
+            "output": "cooked_sausage"
+        },
+        {
+            "instructions": "drain well",
+            "input": "cooked_sausage",
+            "actions": "drain",
+            "output": "drained_cooked_sausage"
+        },
+        {
+            "instructions": "set aside .",
+            "input": "drained_cooked_sausage",
+            "actions": "set",
+            "output": "drained_cooked_sausage"
+        },
+        {
+            "instructions": "unroll crescent_roll , dough",
+            "input": "rolled_crescent_roll",
+            "actions": "unroll",
+            "output": "unrolled_crescent_roll"
+        },
+        {
+            "instructions": "press bottom and sides to create a crust",
+            "input": "unrolled_crescent_roll",
+            "actions": "press",
+            "output": "pizza_crust"
+        },
+        {
+            "instructions": "seal perforations .",
+            "input": "perforated_pizza_crust",
+            "actions": "seal",
+            "output": "pizza_crust"
+        },
+        {
+            "instructions": "prick with a fork .",
+            "input": "pizza_crust",
+            "actions": "prick",
+            "output": "pricked_pizza_crust"
+        },
+        {
+            "instructions": "bake at 350 degrees for 6 min on lower oven rack .",
+            "input": "uncooked_pizza_crust",
+            "actions": "bake",
+            "output": "baked_pizza_crust"
+        },
+        {
+            "instructions": "spoon sausage proportionately over crust , top with potatoes .",
+            "input": "(cooked_sausages; potatoes; pizza_crust)",
+            "actions": "spoon",
+            "output": "cooked_sausages and potatoes spooned over pizza crust"
+        },
+        {
+            "instructions": "beat large_egg well",
+            "input": "large_egg",
+            "actions": "beat",
+            "output": "beaten_large_egg"
+        },
+        {
+            "instructions": "pour over potatoes .",
+            "input": "(beaten_large_egg; cooked_sausages and potatoes spooned over pizza crust)",
+            "actions": "pour",
+            "output": "beaten_egg_poured_over_pizza_crust_with_toppings"
+        },
+        {
+            "instructions": "bake uncovered at 350 degrees on lower oven rack for 25 min or possibly till set .",
+            "input": "beaten_egg_poured_over_pizza_crust_with_toppings",
+            "actions": "bake",
+            "output": "baked_pizza"
+        },
+        {
+            "instructions": "sprinkle cheese proportionately over top .",
+            "input": "(cheese; baked_pizza)",
+            "actions": "sprinkle",
+            "output": "cheese_sprinkled_over_baked_pizza"
+        },
+        {
+            "instructions": "bake an additional 5 min or possibly till cheese melts .",
+            "input": "cheese_sprinkled_over_baked_pizza",
+            "actions": "bake",
+            "output": "melted_cheese_sprinkled_over_baked_pizza"
+        },
+        {
+            "instructions": "garnish if you like .",
+            "input": "(garnishes; melted_cheese_sprinkled_over_baked_pizza)",
+            "actions": "garnish",
+            "output": "breakfast_pizza_casserole"
+        }
+    ],
+    "ingredients": [
+        {
+            "text": "1 pound bulk pork sausage"
+        },
+        {
+            "text": "1 (8 ounce.) pkg. refrigerator crescent dinner rolls"
+        },
+        {
+            "text": "1 c. frzn hash brown potatoes, thawed"
+        },
+        {
+            "text": "6 Large eggs"
+        },
+        {
+            "text": "1 c. (4 ounce.) grated Longhorn Cheddar cheese"
+        },
+        {
+            "text": "Garnishes: cherry tomato halves, parsley sprigs"
+        }
+    ],
+    "recipe": [
+        {
+            "text": "Cook sausage till browned, stirring to crumble; drain well and set aside."
+        },
+        {
+            "text": "Unroll crescent roll dough into a lightly greased 13 x 9 x 2 inch baking dish."
+        },
+        {
+            "text": "Press bottom and sides to create a crust, seal perforations."
+        },
+        {
+            "text": "Prick with a fork."
+        },
+        {
+            "text": "Bake at 350 degrees for 6 min on lower oven rack."
+        },
+        {
+            "text": "Spoon sausage proportionately over crust, top with potatoes."
+        },
+        {
+            "text": "Beat Large eggs well, pour over potatoes."
+        },
+        {
+            "text": "Bake uncovered at 350 degrees on lower oven rack for 25 min or possibly till set."
+        },
+        {
+            "text": "Sprinkle cheese proportionately over top."
+        },
+        {
+            "text": "Bake an additional 5 min or possibly till cheese melts."
+        },
+        {
+            "text": "Garnish if you like."
+        },
+        {
+            "text": "Yield: 8 servings."
+        }
+    ]
+}

@@ -1,0 +1,76 @@
+{
+    "title": "fig_brie_and_basil_pizza",
+    "id": "b75742af8e",
+    "table": [
+        {
+            "instructions": "preheat oven to 42",
+            "input": "NA",
+            "actions": "preheat",
+            "output": "NA"
+        },
+        {
+            "instructions": "place toasted muffins onto a baking sheet .",
+            "input": "muffins",
+            "actions": "place",
+            "output": "muffins"
+        },
+        {
+            "instructions": "top evenly with brie_cheese .",
+            "input": "(muffins; brie_cheese)",
+            "actions": "top",
+            "output": "muffins_topped_with brie cheese"
+        },
+        {
+            "instructions": "spoon a heaping tablespoon of fig , preserves onto each pizza .",
+            "input": "(muffins_topped_with brie cheese; fig_preserve)",
+            "actions": "spoon",
+            "output": "fig_preserve_spooned_on pizzas"
+        },
+        {
+            "instructions": "bake for 6 9 minutes , or until cheese is melted and crust is crisp .",
+            "input": "unbaked pizza",
+            "actions": "bake",
+            "output": "baked_fig_brie_and_pizza"
+        },
+        {
+            "instructions": "top with basil .",
+            "input": "(baked_fig_brie_and_pizza; basil)",
+            "actions": "top",
+            "output": "fig_brie_and_basil_pizza"
+        }
+    ],
+    "ingredients": [
+        {
+            "text": "8 lightly toasted whole wheat English muffins, split"
+        },
+        {
+            "text": "8 slices brie cheese (thin slices)"
+        },
+        {
+            "text": "8 tablespoons fig preserves"
+        },
+        {
+            "text": "8 fresh basil leaves, chopped"
+        }
+    ],
+    "recipe": [
+        {
+            "text": "Preheat oven to 425F"
+        },
+        {
+            "text": "Place toasted muffins onto a baking sheet."
+        },
+        {
+            "text": "Top evenly with brie cheese."
+        },
+        {
+            "text": "Spoon a heaping Tablespoon of Fig preserves onto each pizza."
+        },
+        {
+            "text": "Bake for 6-9 minutes, or until cheese is melted and crust is crisp."
+        },
+        {
+            "text": "Top with basil."
+        }
+    ]
+}

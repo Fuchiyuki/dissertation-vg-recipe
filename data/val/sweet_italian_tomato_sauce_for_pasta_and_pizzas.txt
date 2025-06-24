@@ -1,0 +1,151 @@
+{
+    "title": "sweet_italian_tomato_sauce_for_pasta_and_pizzas",
+    "id": "79855320cc",
+    "table": [
+        {
+            "instructions": "in a large sauce pan , cook the pancetta or bacon till crisp .",
+            "input": "(pancetta; bacon)",
+            "action": "cook",
+            "output": "cooked_pancetta and bacon"
+        },
+        {
+            "instructions": "drain ,",
+            "input": "cooked_pancetta and bacon",
+            "action": "drain",
+            "output": "(drained cooked_pancetta and bacon; drippings)"
+        },
+        {
+            "instructions": "add olive_oil to the drippings .",
+            "input": "(olive oil; drippings)",
+            "action": "add",
+            "output": "olive oil added to drippings"
+        },
+        {
+            "instructions": "add garlic and chopped_onion ,",
+            "input": "(garlic; chopped onion; olive oil added to drippings)",
+            "action": "add",
+            "output": "garlic and chopped onion added to olive oil and drippings"
+        },
+        {
+            "instructions": "saute till soft and transparent .",
+            "input": "garlic and chopped onion added to olive oil and drippings",
+            "action": "saute",
+            "output": "sauteed garlic and onion"
+        },
+        {
+            "instructions": "add tomatoes , artichoke_heart , olives , and sprig of rosemary .",
+            "input": "(tomatoes; artichoke heart; olives; sprig of rosemary; sauteed garlic and onion)",
+            "action": "add",
+            "output": "tomatoes , artichoke_heart , olives , and sprig of rosemary added to sauteed garlic and onion"
+        },
+        {
+            "instructions": "add red and black_pepper , salt and pinch of sugar .",
+            "input": "(red pepper; black pepper; salt; sugar; vegetable mixture)",
+            "action": "add",
+            "output": "red and black_pepper , salt and pinch of sugar added to vegetable mixture"
+        },
+        {
+            "instructions": "add nutmeg .",
+            "input": "(nutmeg; seasoned vegetable sauce)",
+            "action": "add",
+            "output": "nutmeg added to seasoned vegetable sauce"
+        },
+        {
+            "instructions": "taste",
+            "input": "NA",
+            "action": "taste",
+            "output": "NA"
+        },
+        {
+            "instructions": "adjust seasonings .",
+            "input": "(seasonings; seasoned vegetable sauce)",
+            "action": "adjust",
+            "output": "seasoned vegetable sauce"
+        },
+        {
+            "instructions": "shortly before serving , add the pancetta or bacon .",
+            "input": "(cooked_pancetta and bacon; seasoned vegetable sauce)",
+            "action": "add",
+            "output": "cooked_pancetta and bacon added to seasoned vegetable sauce"
+        },
+        {
+            "instructions": "serve over your favorite pasta , or use as a pizza_sauce .",
+            "input": "tomato and vegetable sauce",
+            "action": "serve",
+            "output": "served tomato and vegetable sauce"
+        }
+    ],
+    "ingredients": [
+        {
+            "text": "2 (28 ounce) cans diced tomatoes"
+        },
+        {
+            "text": "12 lb pancetta, diced or 12 lb regular bacon"
+        },
+        {
+            "text": "2 tablespoons olive oil"
+        },
+        {
+            "text": "2 onions, diced"
+        },
+        {
+            "text": "6 garlic cloves, crushed"
+        },
+        {
+            "text": "1 (14 ounce) can artichoke hearts, quartered"
+        },
+        {
+            "text": "12 cup kalamata olive, pitted and sliced"
+        },
+        {
+            "text": "1 sprig fresh rosemary"
+        },
+        {
+            "text": "red pepper flakes"
+        },
+        {
+            "text": "sea salt"
+        },
+        {
+            "text": "pepper"
+        },
+        {
+            "text": "freshly grated nutmeg"
+        },
+        {
+            "text": "1 pinch sugar"
+        }
+    ],
+    "recipe": [
+        {
+            "text": "In a large sauce pan, cook the pancetta or bacon till crisp."
+        },
+        {
+            "text": "Drain, and save for later."
+        },
+        {
+            "text": "Reserve about a tablespoon of the pan drippings and add olive oil to the drippings."
+        },
+        {
+            "text": "Add garlic and chopped onion, and saute till soft and transparent."
+        },
+        {
+            "text": "Add tomatoes, artichoke hearts, olives, and sprig of rosemary."
+        },
+        {
+            "text": "Add red and black pepper, salt and pinch of sugar."
+        },
+        {
+            "text": "Add nutmeg."
+        },
+        {
+            "text": "Let all simmer on low heat for 1/2 to one hour; taste and adjust seasonings."
+        },
+        {
+            "text": "Shortly before serving, add the pancetta or bacon."
+        },
+        {
+            "text": "Serve over your favorite pasta, or use as a pizza sauce."
+        }
+    ]
+}

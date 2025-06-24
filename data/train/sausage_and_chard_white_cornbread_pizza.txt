@@ -1,0 +1,214 @@
+{
+    "title": "sausage_and_chard_white_cornbread_pizza",
+    "id": "84b22319d0",
+    "table": [
+        {
+            "instructions": "preheat the oven to 400 degrees f .",
+            "input": "NA",
+            "actions": "preheat",
+            "output": "NA"
+        },
+        {
+            "instructions": "mix the cornbread_mix , milk , butter and egg in a bowl until smooth .",
+            "input": "(cornbread_mix; milk; butter; egg)",
+            "actions": "mix",
+            "output": "cornbread mixture"
+        },
+        {
+            "instructions": "coat a large",
+            "input": "NA",
+            "actions": "coat",
+            "output": "NA"
+        },
+        {
+            "instructions": "add the cornbread mixture to the skillet and , using your fingers",
+            "input": "cornbread mixture",
+            "actions": "add",
+            "output": "cornbread mixture"
+        },
+        {
+            "instructions": "press it until it covers the entire surface area of the skillet .",
+            "input": "cornbread mixture",
+            "actions": "press",
+            "output": "pressed_cornbread mixture"
+        },
+        {
+            "instructions": "bake until golden around the edges , 15 to 20 minutes .",
+            "input": "uncooked cornbread mixture",
+            "actions": "bake",
+            "output": "baked cornbread mixture"
+        },
+        {
+            "instructions": "mix together the ricotta , asiago , pecorino romano and parm in a small bowl .",
+            "input": "(ricotta; asiago; pecorino romano; parm)",
+            "actions": "mix",
+            "output": "cheese_blend"
+        },
+        {
+            "instructions": "in a separate skillet , brown the sausage over medium high heat , crumbling the sausage with a spoon and cooking until golden brown and no longer pink .",
+            "input": "sausage",
+            "actions": "brown",
+            "output": "browned and crumbled sausage"
+        },
+        {
+            "instructions": "drain on a paper towel ,",
+            "input": "browned and crumbled sausage",
+            "actions": "drain",
+            "output": "drained cooked sausage"
+        },
+        {
+            "instructions": "lower the heat to medium",
+            "input": "NA",
+            "actions": "lower",
+            "output": "NA"
+        },
+        {
+            "instructions": "add the greens .",
+            "input": "(drained cooked sausage; greens)",
+            "actions": "add",
+            "output": "greens and cooked sausage"
+        },
+        {
+            "instructions": "season with salt and pepper",
+            "input": "(greens and cooked sausage; salt; pepper)",
+            "actions": "season",
+            "output": "seasoned greens and cooked sausage"
+        },
+        {
+            "instructions": "saute until wilted",
+            "input": "seasoned greens and cooked sausage",
+            "actions": "saute",
+            "output": "sauteed greens and cooked sausage"
+        },
+        {
+            "instructions": "preheat the broiler .",
+            "input": "NA",
+            "actions": "preheat",
+            "output": "NA"
+        },
+        {
+            "instructions": "smear a good layer of the cheese mixture on top of the crust .",
+            "input": "(pizza_crust; cheese mixture)",
+            "actions": "smear",
+            "output": "cheese_mixture_smeared over pizza crust"
+        },
+        {
+            "instructions": "top with the crumbled sausage and sauteed chard .",
+            "input": "(crumbled sausage and sauteed chard; white_pizza_base)",
+            "actions": "top",
+            "output": "white_pizza_base_topped_with sauteed greens and cooked sausage"
+        },
+        {
+            "instructions": "place under the broiler until bubbling",
+            "input": "sausage and chard white pizza",
+            "actions": "place",
+            "output": "cooked sausage and chard white pizzasausage and chard white pizza"
+        },
+        {
+            "instructions": "top with the sliced peppers",
+            "input": "sliced_peppers: sausage and chard white pizza",
+            "actions": "top",
+            "output": "sausage and chard white pizza topped with sliced_peppers"
+        },
+        {
+            "instructions": "serve !",
+            "input": "sausage and chard white pizza topped with sliced_peppers",
+            "actions": "serve",
+            "output": "served sausage_and_chard_white_cornbread_pizza"
+        }
+    ],
+    "ingredients": [
+        {
+            "text": "1 box instant cornbread mix"
+        },
+        {
+            "text": "1/3 cup milk"
+        },
+        {
+            "text": "4 tablespoons unsalted butter, melted and cooled"
+        },
+        {
+            "text": "1 large egg"
+        },
+        {
+            "text": "1 tablespoon vegetable oil"
+        },
+        {
+            "text": "1 cup whole-milk ricotta"
+        },
+        {
+            "text": "1/4 cup grated Asiago cheese"
+        },
+        {
+            "text": "2 tablespoons grated Pecorino Romano cheese"
+        },
+        {
+            "text": "2 tablespoons grated Parmesan"
+        },
+        {
+            "text": "1 pound Italian sausage, in bulk or removed from the casing"
+        },
+        {
+            "text": "2 cups Swiss chard leaves, chopped"
+        },
+        {
+            "text": "Salt and freshly ground black pepper"
+        },
+        {
+            "text": "Pickled sweet red cherry peppers, such as Peppadews, thinly sliced, for topping"
+        }
+    ],
+    "recipe": [
+        {
+            "text": "Preheat the oven to 400 degrees F."
+        },
+        {
+            "text": "Mix the cornbread mix, milk, butter and egg in a bowl until smooth."
+        },
+        {
+            "text": "Coat a large, cast-iron skillet with the oil."
+        },
+        {
+            "text": "Add the cornbread mixture to the skillet and, using your fingers, press it until it covers the entire surface area of the skillet."
+        },
+        {
+            "text": "Bake until golden around the edges, 15 to 20 minutes."
+        },
+        {
+            "text": "Let cool."
+        },
+        {
+            "text": "Mix together the ricotta, Asiago, Pecorino Romano and Parm in a small bowl."
+        },
+        {
+            "text": "In a separate skillet, brown the sausage over medium-high heat, crumbling the sausage with a spoon and cooking until golden brown and no longer pink."
+        },
+        {
+            "text": "Drain on a paper towel, but reserve the fat in the skillet."
+        },
+        {
+            "text": "Lower the heat to medium and add the greens."
+        },
+        {
+            "text": "Season with salt and pepper and saute until wilted and cooked through, about 5 minutes."
+        },
+        {
+            "text": "Let cool."
+        },
+        {
+            "text": "Preheat the broiler."
+        },
+        {
+            "text": "Smear a good layer of the cheese mixture on top of the crust."
+        },
+        {
+            "text": "Top with the crumbled sausage and sauteed chard."
+        },
+        {
+            "text": "Place under the broiler until bubbling and melted, 3 to 5 minutes."
+        },
+        {
+            "text": "Top with the sliced peppers and serve!"
+        }
+    ]
+}

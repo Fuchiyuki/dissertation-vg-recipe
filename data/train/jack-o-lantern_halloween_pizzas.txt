@@ -1,0 +1,91 @@
+{
+    "title": "jack-o-lantern_halloween_pizzas",
+    "id": "b39f73e851",
+    "table": [
+        {
+            "instructions": "spread the spaghetti_sauce on each of the english_muffin halves for the pizza_sauce .",
+            "input": "(spaghetti_sauce; english_muffin halves)",
+            "actions": "spread",
+            "output": "spaghetti_sauce spread on english_muffin halves"
+        },
+        {
+            "instructions": "sprinkle each half with orange shredded_cheddar_cheese .",
+            "input": "(english muffins with spaghetti sauce; shredded_cheddar_cheese)",
+            "actions": "sprinkle",
+            "output": "shredded_cheddar_cheese sprinkled on english muffins with spaghetti sauce"
+        },
+        {
+            "instructions": "prepare various sizes of pieces suitable for decorating by slicing the olives and bell_pepper as desired .",
+            "input": "(olives; bell_pepper; english muffin pizza)",
+            "actions": "prepare",
+            "output": "english muffin pizza topped with olives and bell pepper pieces"
+        },
+        {
+            "instructions": "place the mini pizzas on a baking sheet .",
+            "input": "english muffin pizza",
+            "actions": "place",
+            "output": "english muffin pizza"
+        },
+        {
+            "instructions": "broil in the oven or toaster oven until the cheese is melted .",
+            "input": "english muffin pizza",
+            "actions": "broil",
+            "output": "broiled english muffin pizza"
+        },
+        {
+            "instructions": "cool slightly",
+            "input": "broiled english muffin pizza",
+            "actions": "cool",
+            "output": "cooled english muffin pizza"
+        },
+        {
+            "instructions": "serve warm .",
+            "input": "english muffin pizza",
+            "actions": "serve",
+            "output": "english muffin pizza"
+        }
+    ],
+    "ingredients": [
+        {
+            "text": "3 each english muffins split"
+        },
+        {
+            "text": "1 cup spaghetti sauce your favorite marinara style"
+        },
+        {
+            "text": "1 cup cheddar cheese shredded, orange coloured"
+        },
+        {
+            "text": "1/4 cup black olives as needed"
+        },
+        {
+            "text": "1 each sweet yellow bell peppers red or green peppers work too"
+        }
+    ],
+    "recipe": [
+        {
+            "text": "This recipe is a great party activity as well as a menu-item you have prepared in advance for a Halloween party."
+        },
+        {
+            "text": "Spread the spaghetti sauce on each of the english muffin halves for the pizza sauce."
+        },
+        {
+            "text": "Sprinkle each half with orange shredded cheddar cheese."
+        },
+        {
+            "text": "Prepare various sizes of pieces suitable for decorating by slicing the olives and bell pepper as desired."
+        },
+        {
+            "text": "Let the kids \"carve\" their pumpkin using shapes prepared from the black olives and bell pepper."
+        },
+        {
+            "text": "Place the mini-pizzas on a baking sheet."
+        },
+        {
+            "text": "Broil in the oven or toaster oven until the cheese is melted."
+        },
+        {
+            "text": "Cool slightly and serve warm."
+        }
+    ]
+}

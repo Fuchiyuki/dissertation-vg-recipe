@@ -1,0 +1,166 @@
+{
+    "title": "bite_size_pizzas_recipe",
+    "id": "8d34a2eba6",
+    "table": [
+        {
+            "instructions": "simmer sausage till half done .",
+            "input": "sausage",
+            "action": "simmer",
+            "output": "cooked_sausage"
+        },
+        {
+            "instructions": "add in onion",
+            "input": "(cooked_sausage; onion )",
+            "action": "add",
+            "output": "onion added to cooked_sausage"
+        },
+        {
+            "instructions": "cook till sausage is done .",
+            "input": "onion added to cooked_sausage",
+            "action": "cook",
+            "output": "cooked sausage and onion mixture"
+        },
+        {
+            "instructions": "drain .",
+            "input": "cooked sausage and onion mixture",
+            "action": "drain",
+            "output": "cooked sausage and onion mixture without excess fat"
+        },
+        {
+            "instructions": "add in sharp cheese , parmesan_cheese , oregano , garlic_salt , tomato_paste , and tomato_sauce .",
+            "input": "(cooked sausage and onion mixture; sharp cheese; parmesan cheese; oregano; garlic salt; tomato paste; tomato sauce)",
+            "action": "add",
+            "output": "sharp cheese , parmesan_cheese , oregano , garlic_salt , tomato_paste , and tomato_sauce added to cooked sausage and onion mixture without excess fat"
+        },
+        {
+            "instructions": "simmer 15 to 20 min .",
+            "input": "sharp cheese , parmesan_cheese , oregano , garlic_salt , tomato_paste , and tomato_sauce added to cooked sausage and onion mixture without excess fat",
+            "action": "simmer",
+            "output": "cooked cheese, sausage and tomato sauce"
+        },
+        {
+            "instructions": "separate each biscuit into 4 layers",
+            "input": "biscuit",
+            "action": "separate",
+            "output": "separated biscuits"
+        },
+        {
+            "instructions": "place on cookie sheet sprayed with pam .",
+            "input": "separated biscuits",
+            "action": "place",
+            "output": "separated biscuits"
+        },
+        {
+            "instructions": "add in sauce .",
+            "input": "(cooked cheese, sausage and tomato sauce; separated biscuits)",
+            "action": "add",
+            "output": "cooked cheese, sausage and tomato sauce added to biscuits"
+        },
+        {
+            "instructions": "freeze on sheet",
+            "input": "cooked cheese, sausage and tomato sauce added to biscuits",
+            "action": "freeze",
+            "output": "frozen uncooked biscuit with pizza topping"
+        },
+        {
+            "instructions": "remove",
+            "input": "frozen uncooked biscuit with pizza topping",
+            "action": "remove",
+            "output": "frozen uncooked biscuit with pizza topping"
+        },
+        {
+            "instructions": "place in plastic bags",
+            "input": "frozen uncooked biscuit with pizza topping",
+            "action": "place",
+            "output": "frozen uncooked biscuit with pizza topping in bags"
+        },
+        {
+            "instructions": "freeze .",
+            "input": "frozen uncooked biscuit with pizza topping in bags",
+            "action": "freeze",
+            "output": "frozen uncooked biscuit with pizza topping in bags"
+        },
+        {
+            "instructions": "remove from freezer",
+            "input": "frozen uncooked biscuit with pizza topping in bags",
+            "action": "remove",
+            "output": "thawed uncooked biscuit with pizza topping in bags"
+        },
+        {
+            "instructions": "add in mozzarella_cheese to each .",
+            "input": "(mozzarella cheese; thawed uncooked biscuit with pizza topping in bags)",
+            "action": "add",
+            "output": "thawed uncooked biscuit with pizza topping in bags with mozzarella cheese"
+        }
+    ],
+    "ingredients": [
+        {
+            "text": "1 pound pork sausage"
+        },
+        {
+            "text": "3/4 to 1 c. minced onion"
+        },
+        {
+            "text": "1 1/2 c. shredded sharp cheese"
+        },
+        {
+            "text": "1/2 c. grated Parmesan cheese"
+        },
+        {
+            "text": "1 1/2 teaspoon oregano"
+        },
+        {
+            "text": "1 teaspoon garlic salt"
+        },
+        {
+            "text": "1 sm. can tomato paste"
+        },
+        {
+            "text": "1 sm. can tomato sauce"
+        },
+        {
+            "text": "2 cans of 10 each Pillsbury Flaky biscuits"
+        },
+        {
+            "text": "Mozzarella cheese"
+        }
+    ],
+    "recipe": [
+        {
+            "text": "Simmer sausage till half done."
+        },
+        {
+            "text": "Add in onion and cook till sausage is done."
+        },
+        {
+            "text": "Drain."
+        },
+        {
+            "text": "Add in sharp cheese, Parmesan cheese, oregano, garlic salt, tomato paste, and tomato sauce."
+        },
+        {
+            "text": "Simmer 15 to 20 min."
+        },
+        {
+            "text": "Cold."
+        },
+        {
+            "text": "Separate each biscuit into 4 layers and place on cookie sheet sprayed with \"Pam.\""
+        },
+        {
+            "text": "Add in sauce."
+        },
+        {
+            "text": "Freeze on sheet, remove and place in plastic bags and freeze."
+        },
+        {
+            "text": "When ready to serve, remove from freezer, add in mozzarella cheese to each."
+        },
+        {
+            "text": "Bake at 400 degrees for 10 min."
+        },
+        {
+            "text": "Makes 80 small pizzas."
+        }
+    ]
+}

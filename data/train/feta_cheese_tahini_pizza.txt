@@ -1,0 +1,100 @@
+{
+    "title": "feta_cheese_tahini_pizza",
+    "id": "0a3ff6931c",
+    "table": [
+        {
+            "instructions": "place each pita on large cookie sheet .",
+            "input": "pita",
+            "actions": "place",
+            "output": "pita"
+        },
+        {
+            "instructions": "brush both sides with olive_oil .",
+            "input": "(pita; olive_oil)",
+            "actions": "brush",
+            "output": "pita brushed with olive_oil"
+        },
+        {
+            "instructions": "spread 2 tablespoons of tahini on each pita .",
+            "input": "(oiled pita; tahini)",
+            "actions": "spread",
+            "output": "tahini spread on oiled pita"
+        },
+        {
+            "instructions": "top each with olives and tomato slices .",
+            "input": "(olives; tomato_slices; pita with tahini)",
+            "actions": "top",
+            "output": "pita with tahini topped with olives and tomato slices"
+        },
+        {
+            "instructions": "top with zatar which is a thyme and sesame_seed spice found at most middle eastern markets .",
+            "input": "(zaatar; tomato olive and tahini pita)",
+            "actions": "top",
+            "output": "tomato olive and tahini pita topped with zaatar"
+        },
+        {
+            "instructions": "sprinkle with garlic_powder .",
+            "input": "(garlic powder; tomato zaatar and olive pita)",
+            "actions": "sprinkle",
+            "output": "garlic powder sprinkled on pita pizza"
+        },
+        {
+            "instructions": "bake in oven at 350f until cheese is almost brown and bread is lightly crisp .",
+            "input": "uncooked pita pizza",
+            "actions": "bake",
+            "output": "baked pita pizza"
+        }
+    ],
+    "ingredients": [
+        {
+            "text": "4 arabic style pita bread (pocket)"
+        },
+        {
+            "text": "4 tablespoons olive oil"
+        },
+        {
+            "text": "8 tablespoons tahini (sesame seed paste)"
+        },
+        {
+            "text": "2 cups feta cheese"
+        },
+        {
+            "text": "10 -12 pitted green olives, sliced"
+        },
+        {
+            "text": "2 tomatoes, sliced and quartered"
+        },
+        {
+            "text": "za'atar spice mix (optional)"
+        },
+        {
+            "text": "garlic powder"
+        }
+    ],
+    "recipe": [
+        {
+            "text": "Place each pita on large cookie sheet."
+        },
+        {
+            "text": "Brush both sides with olive oil."
+        },
+        {
+            "text": "Spread 2 tablespoons of tahini on each pita."
+        },
+        {
+            "text": "Then top with generous amounts of Feta cheese (French Feta is the best)."
+        },
+        {
+            "text": "Top each with olives and tomato slices."
+        },
+        {
+            "text": "Top with Zatar which is a thyme and sesame seed spice found at most middle eastern markets."
+        },
+        {
+            "text": "Sprinkle with garlic powder."
+        },
+        {
+            "text": "Bake in oven at 350F until cheese is almost brown and bread is lightly crisp."
+        }
+    ]
+}

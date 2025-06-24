@@ -1,0 +1,145 @@
+{
+    "title": "cheese_stuffed_crust_pizza",
+    "id": "a0bca19eb6",
+    "table": [
+        {
+            "instructions": "heat oven to 42",
+            "input": "NA",
+            "actions": "heat",
+            "output": "NA"
+        },
+        {
+            "instructions": "spray 12 inch , pizza\u2012pan with nonstick cooking_spray .",
+            "input": "NA",
+            "actions": "spray",
+            "output": "NA"
+        },
+        {
+            "instructions": "unroll dough ;",
+            "input": "dough",
+            "actions": "unroll",
+            "output": "unrolled_dough"
+        },
+        {
+            "instructions": "place in sprayed pan .",
+            "input": "unrolled_dough",
+            "actions": "place",
+            "output": "unrolled_dough"
+        },
+        {
+            "instructions": "starting at center , press out dough to edge of pan , pressing up and extending over sides by at least 1 inch .",
+            "input": "unrolled_dough",
+            "actions": "press",
+            "output": "pressed_dough"
+        },
+        {
+            "instructions": "place string_cheese around inside edge of crust .",
+            "input": "(pressed_dough; string_cheese)",
+            "actions": "place",
+            "output": "string cheese in pressed dough"
+        },
+        {
+            "instructions": "fold extended edge of dough over cheese ;",
+            "input": "string cheese in pressed dough",
+            "actions": "fold",
+            "output": "folded_edges of pizza_dough over string_cheese"
+        },
+        {
+            "instructions": "pinch firmly to seal .",
+            "input": "folded_edges of pizza_dough over string_cheese",
+            "actions": "pinch",
+            "output": "stuffed pizza_base"
+        },
+        {
+            "instructions": "bake at 425 for 8 to 10 minutes or until crust is set",
+            "input": "stuffed pizza_base",
+            "actions": "bake",
+            "output": "cooked_stuffed pizza_base"
+        },
+        {
+            "instructions": "spoon sauce evenly over crust .",
+            "input": "(cooked_stuffed pizza_base; sauce)",
+            "actions": "spoon",
+            "output": "sauce spooned over stuffed_pizza_base"
+        },
+        {
+            "instructions": "top with pepperoni and italian_cheese_blend .",
+            "input": "(cooked stuffed pizza_base; pepperoni; italian_cheese_blend)",
+            "actions": "top",
+            "output": "stuffed_pizza base topped with pepperoni and italian cheese blend"
+        },
+        {
+            "instructions": "return to oven ;",
+            "input": "stuffed_pizza base topped with pepperoni and italian cheese blend",
+            "actions": "return",
+            "output": "stuffed_pizza base topped with pepperoni and italian cheese blend"
+        },
+        {
+            "instructions": "bake an additional 12 to 16 minutes or until crust is deep golden brown and cheese in center is melted .",
+            "input": "stuffed_pizza base topped with pepperoni and italian cheese blend",
+            "actions": "bake",
+            "output": "baked cheese stuffed crust pizza"
+        },
+        {
+            "instructions": "cut into wedges .",
+            "input": "baked cheese stuffed crust pizza",
+            "actions": "cut",
+            "output": "cut baked cheese stuffed crust pizza"
+        }
+    ],
+    "ingredients": [
+        {
+            "text": "1 (13 7/8 ounce) canrefrigerated prepared pizza crust"
+        },
+        {
+            "text": "7 (1 ounce) mozzarella string cheese (sticks)"
+        },
+        {
+            "text": "12 cup pizza sauce"
+        },
+        {
+            "text": "24 slices pepperoni (from 3.5 oz pkg)"
+        },
+        {
+            "text": "2 cups shredded Italian cheese blend"
+        }
+    ],
+    "recipe": [
+        {
+            "text": "Heat oven to 425."
+        },
+        {
+            "text": "Spray 12-inch pizza pan with nonstick cooking spray."
+        },
+        {
+            "text": "Unroll dough; place in sprayed pan."
+        },
+        {
+            "text": "Starting at center, press out dough to edge of pan, pressing up and extending over sides by at least 1 inch."
+        },
+        {
+            "text": "Place string cheese around inside edge of crust."
+        },
+        {
+            "text": "Fold extended edge of dough over cheese; pinch firmly to seal."
+        },
+        {
+            "text": "Bake at 425 for 8 to 10 minutes or until crust is set and edges are light golden brown."
+        },
+        {
+            "text": "Removed partially baked crust from oven."
+        },
+        {
+            "text": "Spoon sauce evenly over crust."
+        },
+        {
+            "text": "Top with pepperoni and italian cheese blend."
+        },
+        {
+            "text": "Return to oven; bake an additional 12 to 16 minutes or until crust is deep golden brown and cheese in center is melted."
+        },
+        {
+            "text": "Cut into wedges."
+        }
+    ]
+}

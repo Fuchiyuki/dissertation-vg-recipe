@@ -1,0 +1,112 @@
+{
+    "title": "best_pizza_dough_recipe",
+    "id": "e5e8a4a71b",
+    "table": [
+        {
+            "instructions": "for starter combine room , temp , water , flour and yeast .",
+            "input": "(water; flour; yeast)",
+            "action": "combine",
+            "output": "starter dough"
+        },
+        {
+            "instructions": "for dough add in water and yeast to starter ;",
+            "input": "(starter dough; water; yeast)",
+            "action": "add",
+            "output": "partially mixed dough"
+        },
+        {
+            "instructions": "mix",
+            "input": "partially mixed dough",
+            "action": "mix",
+            "output": "mixed dough"
+        },
+        {
+            "instructions": "add in salt and sufficient flour to make a soft dough .",
+            "input": "(mixed dough; flour; salt)",
+            "action": "add",
+            "output": "dough"
+        },
+        {
+            "instructions": "healthy pinch off a piece of dough the size of a tennis ball",
+            "input": "dough",
+            "action": "pinch",
+            "output": "(dough; small portion of dough)"
+        },
+        {
+            "instructions": "place in the fridge in a jar .",
+            "input": "small portion of dough",
+            "action": "place",
+            "output": "refrigerated small portion of dough in a jar"
+        },
+        {
+            "instructions": "use as starter .",
+            "input": "refrigerated small portion of dough in a jar",
+            "action": "use",
+            "output": "starter dough"
+        },
+        {
+            "instructions": "press rest of dough into pan",
+            "input": "dough",
+            "action": "press",
+            "output": "pressed dough in pan"
+        },
+        {
+            "instructions": "add in toppings .",
+            "input": "(pressed dough in pan; toppings)",
+            "action": "add",
+            "output": "dough in pan with added toppings"
+        },
+        {
+            "instructions": "cook on stones in 500 degree oven .",
+            "input": "dough in pan with added toppings",
+            "action": "cook",
+            "output": "cooked pizza"
+        }
+    ],
+    "ingredients": [
+        {
+            "text": "1/2 c. Flour"
+        },
+        {
+            "text": "1/2 c. Water"
+        },
+        {
+            "text": "1 tsp Yeast"
+        },
+        {
+            "text": "1 1/2 c. Hot water"
+        },
+        {
+            "text": "1 tsp Yeast ds Salt"
+        }
+    ],
+    "recipe": [
+        {
+            "text": "For starter: Combine room temp water, flour and yeast."
+        },
+        {
+            "text": "Let stand at room temp overnight."
+        },
+        {
+            "text": "For dough: Add in water and yeast to starter; mix then add in salt and sufficient flour to make a soft dough."
+        },
+        {
+            "text": "Let rise 1 1/2 to 2 hrs."
+        },
+        {
+            "text": "Healthy pinch off a piece of dough the size of a tennis ball and place in the fridge in a jar."
+        },
+        {
+            "text": "Use as starter."
+        },
+        {
+            "text": "Press rest of dough into pan and add in toppings."
+        },
+        {
+            "text": "Cook on stones in 500 degree oven."
+        },
+        {
+            "text": "Takes about 10 minutes."
+        }
+    ]
+}

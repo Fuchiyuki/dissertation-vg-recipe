@@ -1,0 +1,154 @@
+{
+    "title": "deep_dish_pizza_recipe",
+    "id": "8d76afe163",
+    "table": [
+        {
+            "instructions": "mix all together tomato paste, cornstarch, basil, sugar, oregano .",
+            "input": "tomato paste, cornstarch, basil, sugar, oregano",
+            "action": "mix",
+            "output": "tomato paste mixture"
+        },
+        {
+            "instructions": "mix dry_yeast and hot_water till dissolved .",
+            "input": "Dry yeast, hot water",
+            "action": "mix",
+            "output": "dry yeast mixed into hot water"
+        },
+        {
+            "instructions": "add in remaining crust ingredients ;",
+            "input": "oil; flour; tomato paste mixture",
+            "action": "add",
+            "output": "oil and flour added to tomato paste mixture"
+        },
+        {
+            "instructions": "mix well .",
+            "input": "dough ingredients",
+            "action": "mix",
+            "output": "dough"
+        },
+        {
+            "instructions": "place dough in greased bowl .",
+            "input": "dough",
+            "action": "place",
+            "output": "Dough in greased bowl"
+        },
+        {
+            "instructions": "heat oven to 400 degrees",
+            "input": "NA",
+            "action": "heat",
+            "output": "NA"
+        },
+        {
+            "instructions": "set on stove covered for 35 min .",
+            "input": "dough",
+            "action": "set",
+            "output": "NA"
+        },
+        {
+            "instructions": "mix sauce_mix while dough is rising .",
+            "input": "Sauce mix",
+            "action": "mix",
+            "output": "Mixed sauce"
+        },
+        {
+            "instructions": "grease 9x13 pan with 1 to 2 tbsp .",
+            "input": "NA",
+            "action": "grease",
+            "output": "NA"
+        },
+        {
+            "instructions": "spread dough , curling the edges .",
+            "input": "Dough",
+            "action": "spread",
+            "output": "Dough spread in pan with curled edges"
+        },
+        {
+            "instructions": "add in 12 of sauce_mix freeze the rest .",
+            "input": "mixed sauce; dough crust",
+            "action": "add",
+            "output": "mixed sauce added to dough crust"
+        },
+        {
+            "instructions": "top with pizza_topping hamburger , pepperoni , mushrooms , onions , etc .",
+            "input": "pizza_topping; hamburger , pepperoni , mushrooms , onions; dough crust with sauce",
+            "action": "top",
+            "output": "pizza_topping, hamburger , pepperoni , mushrooms , onions on top of dough crust with sauce"
+        },
+        {
+            "instructions": "bake 30 to 35 min at 400 degrees till crust is golden .",
+            "input": "uncooked deep dish pizza",
+            "action": "bake",
+            "output": "Baked deep_dish_pizza"
+        }
+    ],
+    "ingredients": [
+        {
+            "text": "1 (1/4 ounce.) pkg. dry yeast"
+        },
+        {
+            "text": "3/4 c. hot water"
+        },
+        {
+            "text": "1 teaspoon sugar"
+        },
+        {
+            "text": "1 teaspoon salt"
+        },
+        {
+            "text": "1 1/2 tbsp. oil"
+        },
+        {
+            "text": "2 1/4 c. flour"
+        },
+        {
+            "text": "Pizza toppings"
+        }
+    ],
+    "recipe": [
+        {
+            "text": "Mix all together: 1 (6 ounce.)"
+        },
+        {
+            "text": "can tomato paste 2 teaspoon cornstarch 1 teaspoon basil 1 teaspoon sugar 1/2 teaspoon oregano"
+        },
+        {
+            "text": "Mix dry yeast and hot water till dissolved."
+        },
+        {
+            "text": "Add in remaining crust ingredients; mix well."
+        },
+        {
+            "text": "Knead (may need to add in more water and flour)."
+        },
+        {
+            "text": "Place dough in greased bowl."
+        },
+        {
+            "text": "Heat oven to 400 degrees and set on stove covered for 35 min."
+        },
+        {
+            "text": "Mix sauce mix while dough is rising."
+        },
+        {
+            "text": "Grease 9\"x13\" pan with 1 to 2 Tbsp."
+        },
+        {
+            "text": "of oil."
+        },
+        {
+            "text": "Spread dough, curling the edges."
+        },
+        {
+            "text": "Add in 1/2 of sauce mix (freeze the rest)."
+        },
+        {
+            "text": "Top with pizza toppings: hamburger, pepperoni, mushrooms, onions, etc."
+        },
+        {
+            "text": "Finish with Mozzarella cheese."
+        },
+        {
+            "text": "Bake 30 to 35 min at 400 degrees till crust is golden."
+        }
+    ]
+}

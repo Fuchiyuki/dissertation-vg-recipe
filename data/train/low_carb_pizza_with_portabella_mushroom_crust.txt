@@ -1,0 +1,142 @@
+{
+    "title": "low_carb_pizza_with_portabella_mushroom_crust",
+    "id": "3228b81f0a",
+    "table": [
+        {
+            "instructions": "preheat oven to 42",
+            "input": "NA",
+            "action": "preheat",
+            "output": "NA"
+        },
+        {
+            "instructions": "clean",
+            "input": "mushrooms",
+            "action": "clean",
+            "output": "cleaned mushrooms"
+        },
+        {
+            "instructions": "dry mushrooms removing the stems but keeping the gills .",
+            "input": "cleaned mushrooms",
+            "action": "dry",
+            "output": "cleand and dried_mushrooms"
+        },
+        {
+            "instructions": "rub both sides of the mushrooms liberly with olive_oil but not dripping in oil .",
+            "input": "(olive oil; cleand and dried_mushrooms)",
+            "action": "rub",
+            "output": "cleand and dried_mushrooms rubbed in olive oil"
+        },
+        {
+            "instructions": "place on large cookie sheet with a rim , or it will drip , gill side up .",
+            "input": "cleand and dried_mushrooms rubbed in olive oil",
+            "action": "place",
+            "output": "cleand and dried_mushrooms rubbed in olive oil"
+        },
+        {
+            "instructions": "sprinkle salt and pepper to taste on gill side only .",
+            "input": "(cleand and dried_mushrooms rubbed in olive oil; salt; pepper)",
+            "action": "sprinkle",
+            "output": "salt and pepper sprinkled on the gill of oiled mushrooms"
+        },
+        {
+            "instructions": "pour 14 cup low carb pizza_sauce on top of the inside of each mushroom .",
+            "input": "(seasoned mushroom; low carb pizza sauce)",
+            "action": "pour",
+            "output": "low carb piza sauce poured into seasoned mushrooms"
+        },
+        {
+            "instructions": "sprinkle 14 cup of motzzarella on top of the sauce of each mushroom .",
+            "input": "(seasoned mushrooms with pizza sauce; mozzarella)",
+            "action": "sprinkle",
+            "output": "mozzarella sprinkled into seasoned mushrooms with pizza sauce"
+        },
+        {
+            "instructions": "lay 4 or 5 slices of pepperoni on top the motzzarella .",
+            "input": "(pepperoni slices; seasoned mushrooms with pizza sauce and mozzarella)",
+            "action": "lay",
+            "output": "pepperoni slice layed onto seasoned mushrooms with pizza sauce and mozzarella"
+        },
+        {
+            "instructions": "sprinkle lightly with dried_oregano .",
+            "input": "(dried oregano; uncooked low_carb_pizza_with_portabella_mushroom_crust)",
+            "action": "sprinkle",
+            "output": "dried oregano sprinkled on low_carb_pizza_with_portabella_mushroom_crust"
+        },
+        {
+            "instructions": "bake 12 to 15 minutes depending on the thickness of your mushrooms , until hot , lightly brown and bubbly .",
+            "input": "uncooked low_carb_pizza_with_portabella_mushroom_crust",
+            "action": "bake",
+            "output": "baked low_carb_pizza_with_portabella_mushroom_crust"
+        }
+    ],
+    "ingredients": [
+        {
+            "text": "4 large portabella mushrooms (I buy a 4 pack at Sams Club)"
+        },
+        {
+            "text": "3 tablespoons olive oil (to rub on the mushrooms)"
+        },
+        {
+            "text": "1 teaspoon salt (or to taste)"
+        },
+        {
+            "text": "12 teaspoon pepper (or to taste)"
+        },
+        {
+            "text": "1 cup pizza sauce (low carb, please see note above)"
+        },
+        {
+            "text": "1 12 cups mozzarella cheese"
+        },
+        {
+            "text": "16 slices pepperoni (or your favorite toppings)"
+        },
+        {
+            "text": "3 teaspoons parmesan cheese (or to taste)"
+        },
+        {
+            "text": "1 teaspoon dry oregano (or to taste)"
+        }
+    ],
+    "recipe": [
+        {
+            "text": "Preheat oven to 425."
+        },
+        {
+            "text": "Clean and dry mushrooms removing the stems but keeping the gills."
+        },
+        {
+            "text": "Rub both sides of the mushrooms liberly with olive oil but not dripping in oil."
+        },
+        {
+            "text": "Place on large cookie sheet with a rim, (or it will drip), gill side up."
+        },
+        {
+            "text": "No need to oil cookie sheet but you can lay down parchment paper or foil for easier clean up."
+        },
+        {
+            "text": "Sprinkle salt and pepper to taste on gill side only."
+        },
+        {
+            "text": "Pour 1/4 cup low carb pizza sauce on top of the inside of each mushroom."
+        },
+        {
+            "text": "Sprinkle 1/4 cup of motzzarella on top of the sauce of each mushroom."
+        },
+        {
+            "text": "Lay 4 or 5 slices of pepperoni on top the motzzarella."
+        },
+        {
+            "text": "Sprinkle lightly with dried oregano."
+        },
+        {
+            "text": "Bake 12 to 15 minutes depending on the thickness of your mushrooms, until hot, lightly brown and bubbly."
+        },
+        {
+            "text": "Enjoy as a meal with a green salad."
+        },
+        {
+            "text": "Or try sharing as an appetizer or as a side in place of a veggie."
+        }
+    ]
+}

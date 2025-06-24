@@ -1,0 +1,142 @@
+{
+    "title": "sausage_and_veggie_breakfast_pizza",
+    "id": "44b16a0128",
+    "table": [
+        {
+            "instructions": "preheat oven to 375 degrees .",
+            "input": "NA",
+            "action": "preheat",
+            "output": "NA"
+        },
+        {
+            "instructions": "spray a cookie sheet with cooking_spray .",
+            "input": "NA",
+            "action": "spray",
+            "output": "NA"
+        },
+        {
+            "instructions": "open the pizza_dough",
+            "input": "pizza_dough package",
+            "action": "open",
+            "output": "opened_pizza_dough package"
+        },
+        {
+            "instructions": "spread into the cookie sheet",
+            "input": "pizza dough",
+            "action": "spread",
+            "output": "spread pizza dough"
+        },
+        {
+            "instructions": "push up at the edges to make a 12 border around the outside of the pan .",
+            "input": "spread pizza dough",
+            "action": "push",
+            "output": "edged pizza dough"
+        },
+        {
+            "instructions": "spread the spinach leaves on the dough so it is completely covered in spinach up to the edges .",
+            "input": "(edged pizza dough; spinach)",
+            "action": "spread",
+            "output": "pizza base with spread spinach"
+        },
+        {
+            "instructions": "in a medium bowl , mix spices , eggs , and milk",
+            "input": "(spices, eggs; milk)",
+            "action": "mix",
+            "output": "spiced egg mixture"
+        },
+        {
+            "instructions": "whisk until combined .",
+            "input": "spiced egg mixture",
+            "action": "whisk",
+            "output": "whisked spiced egg mixture"
+        },
+        {
+            "instructions": "pour gently into the pizza\u2012pan .",
+            "input": "(whisked spiced egg mixture; pizza base with spinach)",
+            "action": "pour",
+            "output": "whisked spiced egg mixture poured over pizza base with spread spinach"
+        },
+        {
+            "instructions": "sprinkle with the cheese .",
+            "input": "(pizza base with spread spinach and egg mixture; cheese)",
+            "action": "sprinkle",
+            "output": "pizza base with spread spinach and egg mixture dough with cheese"
+        },
+        {
+            "instructions": "bake for 25 minutes until crust is golden brown and cheese is melted .",
+            "input": "uncooked spinach breakfast pizza",
+            "action": "bake",
+            "output": "baked Spinach and Cheese Pizza"
+        }
+    ],
+    "ingredients": [
+        {
+            "text": "13 78 ounces pillsbury pizza dough (in a tube)"
+        },
+        {
+            "text": "2 cups fresh spinach"
+        },
+        {
+            "text": "1 cup fresh mushrooms, sliced"
+        },
+        {
+            "text": "12 onion, chopped"
+        },
+        {
+            "text": "12 green pepper, chopped"
+        },
+        {
+            "text": "12 lb sausage, browned & shredded"
+        },
+        {
+            "text": "12 teaspoon garlic powder"
+        },
+        {
+            "text": "12 teaspoon pepper"
+        },
+        {
+            "text": "12 teaspoon salt"
+        },
+        {
+            "text": "2 tablespoons hot sauce"
+        },
+        {
+            "text": "4 eggs"
+        },
+        {
+            "text": "12 cup milk"
+        },
+        {
+            "text": "1 cup monterey jack and cheddar cheese blend"
+        }
+    ],
+    "recipe": [
+        {
+            "text": "Preheat oven to 375 degrees."
+        },
+        {
+            "text": "Spray a cookie sheet with cooking spray."
+        },
+        {
+            "text": "Open the Pizza dough and spread into the cookie sheet and push up at the edges to make a 1/2 border around the outside of the pan."
+        },
+        {
+            "text": "Spread the spinach leaves on the dough so it is completely covered in spinach up to the edges."
+        },
+        {
+            "text": "Layer in remaining veggies and sausage."
+        },
+        {
+            "text": "In a medium bowl, mix spices, eggs, and milk and whisk until combined."
+        },
+        {
+            "text": "Pour gently into the pizza pan."
+        },
+        {
+            "text": "Sprinkle with the cheese."
+        },
+        {
+            "text": "Bake for 25 minutes until crust is golden brown and cheese is melted."
+        }
+    ]
+}

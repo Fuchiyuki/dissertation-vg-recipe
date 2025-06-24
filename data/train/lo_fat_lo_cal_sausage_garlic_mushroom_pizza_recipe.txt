@@ -1,0 +1,184 @@
+{
+    "title": "lo_fat_lo_cal_sausage_garlic_mushroom_pizza_recipe",
+    "id": "a4f4ac84a1",
+    "table": [
+        {
+            "instructions": "cook turkey_sausage in a large non stick skillet over medium heat till browned , stirring to crumble .",
+            "input": "turkey_sausage",
+            "action": "cook",
+            "output": "cooked_turkey_sausage"
+        },
+        {
+            "instructions": "drain",
+            "input": "cooked_turkey_sausage",
+            "action": "drain",
+            "output": "cooked_turkey_sausage woithout excess fat"
+        },
+        {
+            "instructions": "pat dry with paper towels .",
+            "input": "cooked_turkey_sausage woithout excess fat",
+            "action": "pat",
+            "output": "Dried cooked turkey sausage"
+        },
+        {
+            "instructions": "set aside .",
+            "input": "Dried cooked turkey sausage",
+            "action": "set",
+            "output": "Dried cooked turkey sausage"
+        },
+        {
+            "instructions": "coat a skillet with cooking_spray .",
+            "input": "NA",
+            "action": "coat",
+            "output": "NA"
+        },
+        {
+            "instructions": "place over medium high heat till warm .",
+            "input": "NA",
+            "action": "place",
+            "output": "NA"
+        },
+        {
+            "instructions": "add in mushrooms , onion and garlic .",
+            "input": "(Mushrooms; Onion; Garlic)",
+            "action": "add",
+            "output": "Mushrooms, Onion, and Garlic in skillet"
+        },
+        {
+            "instructions": "cook 7 min or possibly till liquid evaporates .",
+            "input": "Mushrooms, Onion, and Garlic in skillet",
+            "action": "cook",
+            "output": "Cooked vegetables"
+        },
+        {
+            "instructions": "add in lowfat milk and parsley .",
+            "input": "(Lowfat Milk; Parsley; Cooked vegetables)",
+            "action": "add",
+            "output": "Milk and Parsley added into Cooked vegetables"
+        },
+        {
+            "instructions": "cook on additional 2 min .",
+            "input": "mushroom milky sauce",
+            "action": "cook",
+            "output": "Cooked mushroom milky mixture"
+        },
+        {
+            "instructions": "sprinkle provolone_cheese over prepared crust , leaving a 12 inch border .",
+            "input": "(Provolone Cheese; pizza Crust)",
+            "action": "sprinkle",
+            "output": "provolone_cheese topped pizza crust"
+        },
+        {
+            "instructions": "spread mushroom mix proportionately over cheese",
+            "input": "(Cooked mushroom milky mixture; provolone_cheese topped pizza crust)",
+            "action": "spread",
+            "output": "pizza crust topped with provolone_cheese and cooked mushroom milky mixture"
+        },
+        {
+            "instructions": "top with turkey_sausage .",
+            "input": "(cooked Turkey Sausage; pizza crust with provolone_cheese and cooked mushroom milky mixture)",
+            "action": "top",
+            "output": "pizza crust with provolone_cheese, cooked mushroom milky mixture and cooked turkey sausage"
+        },
+        {
+            "instructions": "sprinkle romano_cheese over pizza .",
+            "input": "(Romano Cheese;  pizza crust with provolone_cheese, cooked mushroom milky mixture and cooked turkey sausage)",
+            "action": "sprinkle",
+            "output": "romano cheese sprinkled over pizza crust with provolone_cheese, cooked mushroom milky mixture and cooked turkey sausage"
+        },
+        {
+            "instructions": "bake at 500 degrees for 12 min on bottom rack of oven .",
+            "input": "Uncooked ausage_garlic_mushroom_pizza",
+            "action": "bake",
+            "output": "Baked ausage_garlic_mushroom_pizza"
+        },
+        {
+            "instructions": "remove to a cutting board",
+            "input": "Baked ausage_garlic_mushroom_pizza",
+            "action": "remove",
+            "output": "Baked ausage_garlic_mushroom_pizza"
+        }
+    ],
+    "ingredients": [
+        {
+            "text": "6 ounce. Italian flavor turkey sausage"
+        },
+        {
+            "text": "Vegetable cooking spray"
+        },
+        {
+            "text": "4 c. fresh mushrooms, finely minced (about 12 ounce.)"
+        },
+        {
+            "text": "1/2 c. diced onion"
+        },
+        {
+            "text": "6 cloves garlic, chopped"
+        },
+        {
+            "text": "1/4 c. evaporated skim lowfat milk"
+        },
+        {
+            "text": "3 tbsp. minced fresh parsley"
+        },
+        {
+            "text": "1/2 c. (2 ounce.) shredded provolone cheese"
+        },
+        {
+            "text": "1 whole wheat pizza crust (12\")"
+        },
+        {
+            "text": "1/4 c. grated fresh Romano cheese"
+        }
+    ],
+    "recipe": [
+        {
+            "text": "Cook turkey sausage in a large non-stick skillet over medium heat till browned, stirring to crumble."
+        },
+        {
+            "text": "Drain, pat dry with paper towels."
+        },
+        {
+            "text": "Set aside."
+        },
+        {
+            "text": "Coat a skillet with cooking spray."
+        },
+        {
+            "text": "Place over medium high heat till warm."
+        },
+        {
+            "text": "Add in mushrooms, onion and garlic."
+        },
+        {
+            "text": "Cook 7 min or possibly till liquid evaporates."
+        },
+        {
+            "text": "Add in lowfat milk and parsley."
+        },
+        {
+            "text": "Cook on additional 2 min."
+        },
+        {
+            "text": "Sprinkle provolone cheese over prepared crust, leaving a 1/2 inch border."
+        },
+        {
+            "text": "Spread mushroom mix proportionately over cheese and top with turkey sausage."
+        },
+        {
+            "text": "Sprinkle Romano cheese over pizza."
+        },
+        {
+            "text": "Bake at 500 degrees for 12 min on bottom rack of oven."
+        },
+        {
+            "text": "Remove to a cutting board and let stand 5 min."
+        },
+        {
+            "text": "Makes 6 servings."
+        },
+        {
+            "text": "(About 247 calories each and 8.1 grams of fat each, including crust.)"
+        }
+    ]
+}

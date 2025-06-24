@@ -1,0 +1,130 @@
+{
+    "title": "fruit_dessert_pizza",
+    "id": "c5c512f6a2",
+    "table": [
+        {
+            "instructions": "preheat oven to 35",
+            "input": "NA",
+            "action": "preheat",
+            "output": "NA"
+        },
+        {
+            "instructions": "press cookie dough onto a 14 , pizza\u2012pan .",
+            "input": "cookie dough",
+            "action": "press",
+            "output": "pressed cookie dough"
+        },
+        {
+            "instructions": "bake for 8 minutes or until lightly browned .",
+            "input": "(uncooked; pressed cookie dough)",
+            "action": "bake",
+            "output": "cookie dough crust"
+        },
+        {
+            "instructions": "mix cream_cheese with curd until smooth ;",
+            "input": "(cream cheese; curd)",
+            "action": "mix",
+            "output": "cream cheese mixture"
+        },
+        {
+            "instructions": "blend in almond_extract .",
+            "input": "cream cheese mixture",
+            "action": "blend",
+            "output": "cheese mixture"
+        },
+        {
+            "instructions": "spread cheese mixture on cooled crust .",
+            "input": "(cookie dough crust; cheese mixture)",
+            "action": "spread",
+            "output": "cookie crust with cheese mixture"
+        },
+        {
+            "instructions": "arrange fruit on cheese mixture .",
+            "input": "(fruit; cookie crust with cheese mixture)",
+            "action": "arrange",
+            "output": "fruit pizza"
+        },
+        {
+            "instructions": "soften jelly by stirring vigorously until smooth .",
+            "input": "jelly",
+            "action": "soften",
+            "output": "smooth jelly"
+        },
+        {
+            "instructions": "brush fruit with softened jelly .",
+            "input": "(smooth jelly; fruit pizza)",
+            "action": "brush",
+            "output": "fruit pizza with smooth jelly"
+        },
+        {
+            "instructions": "chill several hours",
+            "input": "fruit pizza with smooth jelly",
+            "action": "chill",
+            "output": "chilled fruit pizza"
+        },
+        {
+            "instructions": "serve .",
+            "input": "chilled fruit pizza",
+            "action": "serve",
+            "output": "fruit pizza"
+        }
+    ],
+    "ingredients": [
+        {
+            "text": "10 ounces dickinson's lemon curd"
+        },
+        {
+            "text": "red currant jelly"
+        },
+        {
+            "text": "1 (16 ounce) package refrigerated sugar cookie dough"
+        },
+        {
+            "text": "1 (8 ounce) package cream cheese, softened"
+        },
+        {
+            "text": "12 teaspoon almond extract"
+        },
+        {
+            "text": "1 cup sliced peach"
+        },
+        {
+            "text": "2 cups fresh strawberries, quartered"
+        },
+        {
+            "text": "1 cup blueberries"
+        }
+    ],
+    "recipe": [
+        {
+            "text": "Preheat oven to 350F"
+        },
+        {
+            "text": "Press cookie dough onto a 14\" pizza pan."
+        },
+        {
+            "text": "Bake for 8 minutes or until lightly browned."
+        },
+        {
+            "text": "Cool."
+        },
+        {
+            "text": "Mix cream cheese with curd until smooth; blend in almond extract."
+        },
+        {
+            "text": "Spread cheese mixture on cooled crust."
+        },
+        {
+            "text": "Arrange fruit on cheese mixture."
+        },
+        {
+            "text": "Soften jelly by stirring vigorously until smooth."
+        },
+        {
+            "text": "Brush fruit with softened jelly."
+        },
+        {
+            "text": "Chill several hours and serve."
+        }
+    ]
+}

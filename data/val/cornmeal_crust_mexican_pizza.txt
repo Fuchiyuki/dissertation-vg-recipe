@@ -1,0 +1,235 @@
+{
+    "title": "cornmeal_crust_mexican_pizza",
+    "id": "d30dc00e33",
+    "table": [
+        {
+            "instructions": "preheat oven to 450 degrees f .",
+            "input": "NA",
+            "action": "preheat",
+            "output": "NA"
+        },
+        {
+            "instructions": "in a medium bowl , mix half of the flour 34 cup , sugar , yeast and salt .",
+            "input": "(sugar; yeast; salt; flour)",
+            "action": "mix",
+            "output": "dry ingredients mix"
+        },
+        {
+            "instructions": "stir in the warm_water and oil .",
+            "input": "(warm_water; oil; dry ingredients)",
+            "action": "stir",
+            "output": "warm water and oil stirred into dry ingredients"
+        },
+        {
+            "instructions": "beat on low speed for about 30 seconds .",
+            "input": "warm water and oil stirred into dry ingredients",
+            "action": "beat",
+            "output": "sticky dough"
+        },
+        {
+            "instructions": "beat an additional 1 minute .",
+            "input": "sticky dough",
+            "action": "beat",
+            "output": "sticky dough"
+        },
+        {
+            "instructions": "stir in 13 cup , cornmeal and remaining 34 cup flour .",
+            "input": "(cornmeal; remaining flour; sticky dough)",
+            "action": "stir",
+            "output": "dough"
+        },
+        {
+            "instructions": "on a lightly floured surface knead dough until smooth and elastic , about 5 minutes .",
+            "input": "dough",
+            "action": "knead",
+            "output": "kneaded dough ball"
+        },
+        {
+            "instructions": "place in a lightly greased bowl",
+            "input": "kneaded dough ball",
+            "action": "place",
+            "output": "kneaded dough ball"
+        },
+        {
+            "instructions": "cover it .",
+            "input": "kneaded dough ball",
+            "action": "cover",
+            "output": "covered dough ball"
+        },
+        {
+            "instructions": "rest dough for 10 minutes .",
+            "input": "covered dough ball",
+            "action": "rest",
+            "output": "rested dough ball"
+        },
+        {
+            "instructions": "sprinkle additional cornmeal on parchment paper",
+            "input": "NA",
+            "action": "sprinkle",
+            "output": "NA"
+        },
+        {
+            "instructions": "roll out dough to create your desired shape .",
+            "input": "rested dough ball",
+            "action": "roll",
+            "output": "flattened dough"
+        },
+        {
+            "instructions": "transfer to baking surface",
+            "input": "flattened dough",
+            "action": "transfer",
+            "output": "flattened dough on sheet"
+        },
+        {
+            "instructions": "i use a pizza stone .",
+            "input": "na",
+            "action": "use",
+            "output": "na"
+        },
+        {
+            "instructions": "prick dough with a fork .",
+            "input": "na",
+            "action": "prick",
+            "output": "pricked flattened dough"
+        },
+        {
+            "instructions": "bake the crust for 8 10 minutes or just until edges begin to turn brown .",
+            "input": "uncooked pizza crust",
+            "action": "bake",
+            "output": "baked crust"
+        },
+        {
+            "instructions": "remove from oven",
+            "input": "baked crust",
+            "action": "remove",
+            "output": "baked crust"
+        },
+        {
+            "instructions": "top with 12 cup mozzarella and 12 cup monterey_jack cheese , tomatoes , chicken , black_bean , corn , bell_pepper and jalapeno",
+            "input": "(mozzarella; monterey jack cheese; tomatoes; chicken; black beans; corn; bell pepper; jalapeno; baked crust)",
+            "action": "top",
+            "output": "baked crust topped with mozzarella cheese, monterey jack cheese, tomatoes, chicken, black_bean , corn , bell_pepper and jalapeno"
+        },
+        {
+            "instructions": "cover with remaining shredded_cheese .",
+            "input": "(shredded cheese; baked crust topped with mozzarella cheese, monterey jack cheese, tomatoes, chicken, black_bean , corn , bell_pepper and jalapeno)",
+            "action": "cover",
+            "output": "baked crust topped with mozzarella cheese, monterey jack cheese, tomatoes, chicken, black_bean , corn , bell_pepper and jalapeno topped with shredded cheese"
+        },
+        {
+            "instructions": "bake 6 8 minutes or until cheese is melted .",
+            "input": "uncooked cornmeal_crust_mexican_pizza",
+            "action": "bake",
+            "output": "baked cornmeal_crust_mexican_pizza"
+        },
+        {
+            "instructions": "sprinkle with green_onion and cilantro .",
+            "input": "(green onion; cilantro; baked cornmeal_crust_mexican_pizza)",
+            "action": "sprinkle",
+            "output": "green onion and cilantro sprinkled on cornmeal_crust_mexican_pizza "
+        }
+    ],
+    "ingredients": [
+        {
+            "text": "1- 1/2 cup All-purpose Flour"
+        },
+        {
+            "text": "1 Tablespoon Sugar"
+        },
+        {
+            "text": "1- 1/4 teaspoon Regular Active Dry Yeast"
+        },
+        {
+            "text": "1/4 teaspoons Kosher Salt"
+        },
+        {
+            "text": "3/4 cups Warm Water"
+        },
+        {
+            "text": "1 Tablespoon Olive Oil"
+        },
+        {
+            "text": "13 cups Yellow Cornmeal (plus Some Additional For Rolling Out The Dough)"
+        },
+        {
+            "text": "1 cup Mozzarella Cheese, Shredded"
+        },
+        {
+            "text": "1 cup Monterey Jack Cheese, Shredded"
+        },
+        {
+            "text": "1 can Diced Fire Roasted Tomatoes, Drained (14.5oz)"
+        },
+        {
+            "text": "1- 1/2 cup Cooked Chicken, Diced"
+        },
+        {
+            "text": "1/2 cups Black Beans"
+        },
+        {
+            "text": "1/2 cups Corn"
+        },
+        {
+            "text": "1/2 whole Red Or Orange Bell Pepper, Chopped"
+        },
+        {
+            "text": "1 whole Jalapeno, Seeded And Chopped"
+        },
+        {
+            "text": "4 whole Green Onions, Chopped"
+        },
+        {
+            "text": "Chopped Fresh Cilantro, For Garnish (optional)"
+        }
+    ],
+    "recipe": [
+        {
+            "text": "Preheat oven to 450 degrees F."
+        },
+        {
+            "text": "In a medium bowl, mix half of the flour (3/4 cup), sugar, yeast and salt."
+        },
+        {
+            "text": "Stir in the warm water and oil."
+        },
+        {
+            "text": "Beat on low speed for about 30 seconds."
+        },
+        {
+            "text": "Increase to high speed and beat an additional 1 minute."
+        },
+        {
+            "text": "Stir in 1/3 cup cornmeal and remaining 3/4 cup flour."
+        },
+        {
+            "text": "On a lightly floured surface knead dough until smooth and elastic, about 5 minutes."
+        },
+        {
+            "text": "Place in a lightly greased bowl and cover it."
+        },
+        {
+            "text": "Rest dough for 10 minutes."
+        },
+        {
+            "text": "Sprinkle additional cornmeal on parchment paper and roll out dough to create your desired shape."
+        },
+        {
+            "text": "Transfer to baking surface, I use a pizza stone."
+        },
+        {
+            "text": "Prick dough with a fork."
+        },
+        {
+            "text": "Bake the crust for 8-10 minutes or just until edges begin to turn brown."
+        },
+        {
+            "text": "Remove from oven and top with 1/2 cup mozzarella and 1/2 cup Monterey Jack cheese, tomatoes, chicken, black beans, corn, bell pepper and jalapeno, then cover with remaining shredded cheese."
+        },
+        {
+            "text": "Bake 6-8 minutes or until cheese is melted."
+        },
+        {
+            "text": "Sprinkle with green onions and cilantro."
+        }
+    ]
+}

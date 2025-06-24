@@ -1,0 +1,109 @@
+{
+    "title": "flatbread_pizza_with_bbq_chicken_gruyere_and_caramelized_onion",
+    "id": "79db62897d",
+    "table": [
+        {
+            "instructions": "preheat oven to 400 degrees .",
+            "input": "NA",
+            "action": "preheat",
+            "output": "NA"
+        },
+        {
+            "instructions": "Prepare flatbreads, bake them for 5 minutes on each side .",
+            "input": "flatbreads",
+            "action": "bake",
+            "output": "pre baked flatbreads"
+        },
+        {
+            "instructions": "it wo n't get soggy when you bake it with pizza_topping .",
+            "input": "NA",
+            "action": "get",
+            "output": "NA"
+        },
+        {
+            "instructions": "while flatbreads are pre baking , saute sliced red onion in 1 t.",
+            "input": "sliced red onion",
+            "action": "saute",
+            "output": "sauteed sliced red onion"
+        },
+        {
+            "instructions": "set onions aside .",
+            "input": "sauteed sliced red onion",
+            "action": "set",
+            "output": "sauteed sliced red onion"
+        },
+        {
+            "instructions": "then divide equally red onion , cooked_chicken , and shredded grueyere cheese .",
+            "input": "(rsauteed sliced red onion; cooked chicken; shredded grueyere cheese)",
+            "action": "divide",
+            "output": "pre baked flatbread with sauteed sliced red onion, cooked chicken and shredded grueyere"
+        },
+        {
+            "instructions": "drizzle each pizza with about 14 cup , bbq_sauce .",
+            "input": "(barbecue sauce; pre baked flatbread with sauteed sliced red onion, cooked chicken and shredded grueyere)",
+            "action": "drizzle",
+            "output": "pre baked flatbread with sauteed sliced red onion, cooked chicken, shredded grueyere and barbecue sauce"
+        },
+        {
+            "instructions": "bake 400 degrees for 10 minutes .",
+            "input": "uncooked flatbread_pizza_with_bbq_chicken_gruyere_and_caramelized_onion",
+            "action": "bake",
+            "output": "baked flatbread_pizza_with_bbq_chicken_gruyere_and_caramelized_onion"
+        }
+    ],
+    "ingredients": [
+        {
+            "text": "4 flat bread (such as \"FlatOut\", or use 4 pitas, split into 8 thin rounds)"
+        },
+        {
+            "text": "8 ounces chicken, cooked, cut in pieces"
+        },
+        {
+            "text": "1 large red onion, sliced"
+        },
+        {
+            "text": "1 tablespoon oil"
+        },
+        {
+            "text": "4 tablespoons boursin cheese (cream cheese with herb or garlic seasoning)"
+        },
+        {
+            "text": "4 ounces gruyere cheese, shredded (or Swiss cheese)"
+        },
+        {
+            "text": "1 cup barbecue sauce, your favorite brand"
+        }
+    ],
+    "recipe": [
+        {
+            "text": "Preheat oven to 400 degrees."
+        },
+        {
+            "text": "Prepare flatbreads - It works best if the flatbreads have dried and crisped a bit before adding pizza toppings."
+        },
+        {
+            "text": "So as my oven is pre-heating, I place the flatbreads on parchment paper and bake them for 5 minutes on each side."
+        },
+        {
+            "text": "After 10 minutes, the flatbread is still soft but it won't get soggy when you bake it with pizza toppings."
+        },
+        {
+            "text": "While flatbreads are pre-baking, saute sliced red onion in 1 T. oil about 8-10 minutes over MEDIUM heat."
+        },
+        {
+            "text": "Set onions aside."
+        },
+        {
+            "text": "To assemble - spread each pre-baked flatbread with 1 T. Boursin cheese."
+        },
+        {
+            "text": "Then divide equally red onion, cooked chicken, and shredded Grueyere cheese."
+        },
+        {
+            "text": "Drizzle each pizza with about 1/4 cup BBQ sauce."
+        },
+        {
+            "text": "Bake 400 degrees for 10 minutes."
+        }
+    ]
+}

@@ -1,0 +1,247 @@
+{
+    "title": "flux_pizza",
+    "id": "9069e61c28",
+    "table": [
+        {
+            "instructions": "add your yeast and sugar to the water",
+            "input": "(yeast; sugar; water)",
+            "actions": "add",
+            "output": "yeast_and_sugar_added_to_water"
+        },
+        {
+            "instructions": "whisk it together .",
+            "input": "yeast_and_sugar_added_to_water",
+            "actions": "whisk",
+            "output": "yeast solution"
+        },
+        {
+            "instructions": "combine the bread_flour and kosher_salt in the bowl",
+            "input": "(bread_flour; kosher_salt)",
+            "actions": "combine",
+            "output": "bread and salt mix"
+        },
+        {
+            "instructions": "add the water yeast solution and 1 tablespoon of the oil",
+            "input": "(oil; yeast solution; bread and salt mix)",
+            "actions": "add",
+            "output": "dough"
+        },
+        {
+            "instructions": "mix until the dough forms into a ball .",
+            "input": "dough",
+            "actions": "mix",
+            "output": "ball of dough"
+        },
+        {
+            "instructions": "if the dough is sticky , add additional flour , 12 tablespoon at a time , until the dough comes together in a solid ball .",
+            "input": "(ball of dough; flour)",
+            "actions": "add",
+            "output": "firm dough"
+        },
+        {
+            "instructions": "if the dough is too dry , add additional water , 12 tablespoon at a time .",
+            "input": "(ball of dough; water)",
+            "actions": "add",
+            "output": "dough"
+        },
+        {
+            "instructions": "scrape the dough onto a lightly floured surface",
+            "input": "dough",
+            "actions": "scrape",
+            "output": "dough"
+        },
+        {
+            "instructions": "gently knead into a smooth , firm ball .",
+            "input": "dough",
+            "actions": "knead",
+            "output": "kneaded dough"
+        },
+        {
+            "instructions": "grease a large bowl with the remaining 1 teaspoons , olive_oil",
+            "input": "NA",
+            "actions": "grease",
+            "output": "NA"
+        },
+        {
+            "instructions": "add the dough",
+            "input": "dough",
+            "actions": "add",
+            "output": "dough"
+        },
+        {
+            "instructions": "cover the bowl with plastic wrap",
+            "input": "dough",
+            "actions": "cover",
+            "output": "covered_dough"
+        },
+        {
+            "instructions": "put it in a warm area to let it double in size , about 1 hour .",
+            "input": "covered_dough",
+            "actions": "put",
+            "output": "risen_dough"
+        },
+        {
+            "instructions": "chop your onions .",
+            "input": "onions",
+            "actions": "chop",
+            "output": "chopped_onion"
+        },
+        {
+            "instructions": "mix your bbq_sauce , grape_jelly , pepper , and sweet_onion together to make your sauce .",
+            "input": "(bbq_sauce; grape_jelly; pepper; chopped_sweet_onion)",
+            "actions": "mix",
+            "output": "onion_sauce"
+        },
+        {
+            "instructions": "preheat the oven to 425f .",
+            "input": "NA",
+            "actions": "preheat",
+            "output": "NA"
+        },
+        {
+            "instructions": "turn the dough out onto a lightly floured surface .",
+            "input": "dough",
+            "actions": "turn",
+            "output": "dough"
+        },
+        {
+            "instructions": "cover with a clean kitchen towel or plastic wrap",
+            "input": "dough",
+            "actions": "cover",
+            "output": "covered_dough"
+        },
+        {
+            "instructions": "bake the crust without toppings for 7 9 minutes at 425f .",
+            "input": "pizza crust",
+            "actions": "bake",
+            "output": "baked pizza crust"
+        },
+        {
+            "instructions": "remove from the oven",
+            "input": "baked pizza crust",
+            "actions": "remove",
+            "output": "baked pizza crust"
+        },
+        {
+            "instructions": "spread sauce and cheese",
+            "input": "(baked pizza crust; onion_sauce)",
+            "actions": "spread",
+            "output": "onion_sauce_and cheese_spread_on_baked_pizza_crust"
+        },
+        {
+            "instructions": "bake for 15 20 minutes until crust and cheese are browned .",
+            "input": "uncooked pizza",
+            "actions": "bake",
+            "output": "baked pizza"
+        },
+        {
+            "instructions": "pull it out",
+            "input": "baked pizza",
+            "actions": "pull",
+            "output": "baked pizza"
+        }
+    ],
+    "ingredients": [
+        {
+            "text": "2 cups flour"
+        },
+        {
+            "text": "12 teaspoon sugar"
+        },
+        {
+            "text": "18 ounce dry yeast"
+        },
+        {
+            "text": "1 teaspoon salt"
+        },
+        {
+            "text": "34 cup water"
+        },
+        {
+            "text": "1 tablespoon olive oil"
+        },
+        {
+            "text": "14 cup barbecue sauce"
+        },
+        {
+            "text": "1 tablespoon grape jelly"
+        },
+        {
+            "text": "14 teaspoon ground black pepper"
+        },
+        {
+            "text": "14 cup sweet onion, chopped"
+        },
+        {
+            "text": "1 12 cups cooked chicken breasts, cubed"
+        },
+        {
+            "text": "13 cup halves and pieces cashews"
+        },
+        {
+            "text": "1 cup mozzarella cheese"
+        },
+        {
+            "text": "4 slices pineapple, chopped"
+        },
+        {
+            "text": "4 slices crispy bacon"
+        }
+    ],
+    "recipe": [
+        {
+            "text": "You want to cook your bacon and chicken breast before hand."
+        },
+        {
+            "text": "Bring the water to a temp of around 110F, not hotter than 115F."
+        },
+        {
+            "text": "Add your yeast and sugar to the water and whisk it together."
+        },
+        {
+            "text": "Combine the bread flour and kosher salt in the bowl and aerate with a whisk."
+        },
+        {
+            "text": "Add the water yeast solution and 1 tablespoon of the oil and mix until the dough forms into a ball."
+        },
+        {
+            "text": "If the dough is sticky, add additional flour, 1/2 tablespoon at a time, until the dough comes together in a solid ball."
+        },
+        {
+            "text": "If the dough is too dry, add additional water, 1/2 tablespoon at a time."
+        },
+        {
+            "text": "Scrape the dough onto a lightly floured surface and gently knead into a smooth, firm ball."
+        },
+        {
+            "text": "Grease a large bowl with the remaining 1 teaspoons olive oil, add the dough, cover the bowl with plastic wrap and put it in a warm area to let it double in size, about 1 hour."
+        },
+        {
+            "text": "Chop your onions."
+        },
+        {
+            "text": "Mix your BBQ sauce, grape jelly, pepper, and sweet onions together to make your sauce."
+        },
+        {
+            "text": "Preheat the oven to 425F."
+        },
+        {
+            "text": "Turn the dough out onto a lightly floured surface."
+        },
+        {
+            "text": "Cover with a clean kitchen towel or plastic wrap and let rest for 10 minutes."
+        },
+        {
+            "text": "Work the dough into a disk on a pizza pan."
+        },
+        {
+            "text": "Bake the crust without toppings for 7-9 minutes at 425F."
+        },
+        {
+            "text": "Remove from the oven and spread sauce, distribute toppings, and bake for 15 - 20 minutes until crust and cheese are browned."
+        },
+        {
+            "text": "Pull it out and give it 5 minutes to rest before cutting up and eating."
+        }
+    ]
+}

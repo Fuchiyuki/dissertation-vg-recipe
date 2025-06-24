@@ -1,0 +1,61 @@
+{
+    "title": "simple_yet_delicious_pizzas",
+    "id": "e6f2e61436",
+    "table": [
+        {
+            "instructions": "toast english_muffin .",
+            "input": "english_muffin",
+            "action": "toast",
+            "output": "toasted_english_muffin"
+        },
+        {
+            "instructions": "put a spoonful of pizza_sauce or marinara_sauce on each side of english_muffin .",
+            "input": "(pizza_sauce; toasted_english_muffin)",
+            "action": "put",
+            "output": "pizza_sauce_on toasted_ english_muffin"
+        },
+        {
+            "instructions": "top with cheese and pepperoni .",
+            "input": "(cheese; pepperoni; pizza_sauce_on toasted_ english_muffin)",
+            "action": "top",
+            "output": "cheese_pepperoni_pizza_sauce_english_muffin"
+        },
+        {
+            "instructions": "place in oven broiler or toaster oven until cheese is melted .",
+            "input": "cheese_pepperoni_pizza_sauce_english_muffin",
+            "action": "place",
+            "output": "pepperoni_pizza_sauce_english_muffin with melted cheese"
+        }
+    ],
+    "ingredients": [
+        {
+            "text": "1 English muffin"
+        },
+        {
+            "text": "2 tablespoons pizza sauce or 2 tablespoons marinara sauce"
+        },
+        {
+            "text": "14 cup mozzarella cheese or 14 cup pizza cheese, shredded"
+        },
+        {
+            "text": "3 pepperoni"
+        }
+    ],
+    "recipe": [
+        {
+            "text": "Toast english muffins."
+        },
+        {
+            "text": "Put a spoonful of pizza sauce or marinara sauce on each side of english muffin."
+        },
+        {
+            "text": "Top with cheese and pepperoni."
+        },
+        {
+            "text": "Place in oven broiler or toaster oven until cheese is melted."
+        },
+        {
+            "text": "Enjoy!"
+        }
+    ]
+}

@@ -1,0 +1,202 @@
+{
+    "title": "pizza_with_charred_cherry_tomatoes_and_pesto",
+    "id": "22f4ea1766",
+    "table": [
+        {
+            "instructions": "preheat the broiler .",
+            "input": "NA",
+            "actions": "preheat",
+            "output": "NA"
+        },
+        {
+            "instructions": "in a medium baking dish , toss the cherry_tomato with the panko , garlic , shallot , basil and olive_oil",
+            "input": "(cherry_tomato; garlic; shallot; basil; olive_oil)",
+            "actions": "toss",
+            "output": "tossed_cherry_tomato_salad"
+        },
+        {
+            "instructions": "season with salt and pepper .",
+            "input": "(tossed_cherry_tomato_mixture, salt; pepper)",
+            "actions": "season",
+            "output": "seasoned_cherry_tomato_mixture"
+        },
+        {
+            "instructions": "broil 6 inches from the heat for about 5 minutes , or until the tomatoes pop",
+            "input": "seasoned_cherry_tomato_mixture",
+            "actions": "broil",
+            "output": "broiled_cherry_tomatoes_mixture"
+        },
+        {
+            "instructions": "brown lightly .",
+            "input": "cherry_tomatoes_mixture",
+            "actions": "brown",
+            "output": "browned_cherry_tomatoes_topping"
+        },
+        {
+            "instructions": "preheat the oven to 50",
+            "input": "NA",
+            "actions": "preheat",
+            "output": "NA"
+        },
+        {
+            "instructions": "set a pizza stone on the bottom of the oven",
+            "input": "NA",
+            "actions": "set",
+            "output": "NA"
+        },
+        {
+            "instructions": "heat for at least 30 minutes .",
+            "input": "NA",
+            "actions": "heat",
+            "output": "NA"
+        },
+        {
+            "instructions": "on a lightly floured work surface , roll out each ball of pizza_dough to a 7 inch round .",
+            "input": "pizza_dough",
+            "actions": "roll",
+            "output": "rolled_pizza_dough"
+        },
+        {
+            "instructions": "transfer two rounds to a lightly floured pizza peel .",
+            "input": "rolled_pizza_dough",
+            "actions": "transfer",
+            "output": "rolled_pizza_dough"
+        },
+        {
+            "instructions": "spoon one sixth of the cherry_tomato , topping on each round .",
+            "input": "(cherry_tomatoes_topping; rolled_pizza_dough)",
+            "actions": "spoon",
+            "output": "cherry_tomatoes_topping_spooned over_rolled_pizza_dough"
+        },
+        {
+            "instructions": "slide the pizzas onto the heated stone",
+            "input": "uncooked pizza",
+            "actions": "slide",
+            "output": "uncooked pizza"
+        },
+        {
+            "instructions": "bake for about 5 minutes , or until sizzling",
+            "input": "uncooked pizza",
+            "actions": "bake",
+            "output": "baked pizza"
+        },
+        {
+            "instructions": "just set .",
+            "input": "baked pizza",
+            "actions": "set",
+            "output": "baked pizza"
+        },
+        {
+            "instructions": "remove from the oven",
+            "input": "baked pizza",
+            "actions": "remove",
+            "output": "baked pizza"
+        },
+        {
+            "instructions": "sprinkle each with 2 tablespoons of the aged_gouda and 1 tablespoon of the parmigiano .",
+            "input": "(baked pizza; aged_gouda; parmigiano)",
+            "actions": "sprinkle",
+            "output": "aged_gouda and parmigiano sprikled over pizzas"
+        },
+        {
+            "instructions": "return the pizzas to the oven",
+            "input": "aged_gouda and parmigiano sprikled over pizzas",
+            "actions": "return",
+            "output": "aged_gouda and parmigiano sprikled over pizzas"
+        },
+        {
+            "instructions": "bake for about 5 minutes longer , until the cheeses are melted and the crust is lightly browned .",
+            "input": "aged_gouda and parmigiano sprikled over pizzas",
+            "actions": "bake",
+            "output": "cooked pizza"
+        },
+        {
+            "instructions": "drizzle with a little basil , pesto",
+            "input": "(cooked pizza; pesto)",
+            "actions": "drizzle",
+            "output": "pest_drizzled over baked pizza"
+        },
+        {
+            "instructions": "serve .",
+            "input": "pizza_with_charred_cherry_tomatoes_and_pesto",
+            "actions": "serve",
+            "output": "served_pizza_with_charred_cherry_tomatoes_and_pesto"
+        }
+    ],
+    "ingredients": [
+        {
+            "text": "3/4 pound cherry tomatoes"
+        },
+        {
+            "text": "1/4 cup panko (Japanese bread crumbs)"
+        },
+        {
+            "text": "2 garlic cloves, thinly sliced"
+        },
+        {
+            "text": "1 shallot, thinly sliced"
+        },
+        {
+            "text": "5 basil leaves, torn"
+        },
+        {
+            "text": "2 tablespoons extra-virgin olive oil"
+        },
+        {
+            "text": "Salt and freshly ground pepper"
+        },
+        {
+            "text": "Pizza Dough"
+        },
+        {
+            "text": "3/4 cup coarsely grated aged Gouda (3 ounces)"
+        },
+        {
+            "text": "6 tablespoons freshly grated Parmigiano-Reggiano cheese"
+        },
+        {
+            "text": "Basil Pesto"
+        }
+    ],
+    "recipe": [
+        {
+            "text": "Preheat the broiler."
+        },
+        {
+            "text": "In a medium baking dish, toss the cherry tomatoes with the panko, garlic, shallot, basil and olive oil and season with salt and pepper."
+        },
+        {
+            "text": "Broil 6 inches from the heat for about 5 minutes, or until the tomatoes pop and brown lightly."
+        },
+        {
+            "text": "Preheat the oven to 500."
+        },
+        {
+            "text": "Set a pizza stone on the bottom of the oven and heat for at least 30 minutes."
+        },
+        {
+            "text": "On a lightly floured work surface, roll out each ball of Pizza Dough to a 7-inch round."
+        },
+        {
+            "text": "Transfer two rounds to a lightly floured pizza peel."
+        },
+        {
+            "text": "Spoon one-sixth of the cherry tomato topping on each round."
+        },
+        {
+            "text": "Slide the pizzas onto the heated stone and bake for about 5 minutes, or until sizzling and just set."
+        },
+        {
+            "text": "Remove from the oven and sprinkle each with 2 tablespoons of the aged Gouda and 1 tablespoon of the Parmigiano."
+        },
+        {
+            "text": "Return the pizzas to the oven and bake for about 5 minutes longer, until the cheeses are melted and the crust is lightly browned."
+        },
+        {
+            "text": "Drizzle with a little Basil Pesto and serve."
+        },
+        {
+            "text": "Repeat with the remaining dough, tomato topping, cheeses and pesto."
+        }
+    ]
+}

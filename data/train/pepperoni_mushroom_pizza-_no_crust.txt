@@ -1,0 +1,151 @@
+{
+    "title": "pepperoni_mushroom_pizza-_no_crust",
+    "id": "624e5f8bc3",
+    "table": [
+        {
+            "instructions": "heat oil in skillet ,",
+            "input": "oil",
+            "actions": "heat",
+            "output": "heated_oil"
+        },
+        {
+            "instructions": "saute onions until slightly tender .",
+            "input": "(onions; heated_oil)",
+            "actions": "saute",
+            "output": "sauteed onions"
+        },
+        {
+            "instructions": "add mushrooms",
+            "input": "(mushrooms; sauteed onions)",
+            "actions": "add",
+            "output": "onions and mushroom sauteed in oil"
+        },
+        {
+            "instructions": "set aside",
+            "input": "onions and mushroom mix",
+            "actions": "set",
+            "output": "onions and mushroom mix"
+        },
+        {
+            "instructions": "about halfway through browning turkey , add in the quartered pepperoni .",
+            "input": "(browning turkey; pepperoni)",
+            "actions": "add",
+            "output": "turkey and mushroom onion mixture"
+        },
+        {
+            "instructions": "drain fat liquid",
+            "input": "turkey and mushroom onion mixture",
+            "actions": "drain",
+            "output": "drained turkey and mushroom onion mixture"
+        },
+        {
+            "instructions": "return turkey and mushroom onion mixture to skillet .",
+            "input": "turkey and mushroom onion mixture",
+            "actions": "return",
+            "output": "turkey and mushroom onion mixture"
+        },
+        {
+            "instructions": "add the pizza_sauce , garlic , oregano and red_pepper_flake .",
+            "input": "(pizza sauce; oregano; red pepper flake; turkey and mushroom onion mixture)",
+            "actions": "add",
+            "output": "pizza_sauce , garlic , oregano and red_pepper_flake added to turkey and mushroom onion mixture"
+        },
+        {
+            "instructions": "simmer uncovered for 10 12 minutes , letting a large amount of the liquid cook away .",
+            "input": "pizza sauce mixture",
+            "actions": "simmer",
+            "output": "cooked pizza sauce mixture"
+        },
+        {
+            "instructions": "transfer mixture to square pyrex pan .",
+            "input": "cooked pizza sauce mixture",
+            "actions": "transfer",
+            "output": "cooked pizza sauce mixture"
+        },
+        {
+            "instructions": "top with mozzarella_cheese and remaining pepperoni .",
+            "input": "(mozzarella cheese; pepperoni; cooked pizza sauce mixture)",
+            "actions": "top",
+            "output": "cooked pizza sauce mixture topped with mozzarella cheese and pepperoni"
+        },
+        {
+            "instructions": "put in the fridge if you want to prepare serve later .",
+            "input": "cooked pizza sauce mixture topped with mozzarella cheese and pepperoni",
+            "actions": "put",
+            "output": "cooked pizza sauce mixture topped with mozzarella cheese and pepperoni"
+        }
+    ],
+    "ingredients": [
+        {
+            "text": "1 lb italian seasoned ground turkey"
+        },
+        {
+            "text": "12 cup chopped onion"
+        },
+        {
+            "text": "9 slices pepperoni"
+        },
+        {
+            "text": "9 slices pepperoni, cut into quarters"
+        },
+        {
+            "text": "8 ounces fresh sliced mushrooms"
+        },
+        {
+            "text": "2 cups pizza sauce"
+        },
+        {
+            "text": "1 cup shredded mozzarella cheese"
+        },
+        {
+            "text": "1 teaspoon olive oil"
+        },
+        {
+            "text": "1 teaspoon oregano flakes"
+        },
+        {
+            "text": "1 teaspoon garlic powder"
+        },
+        {
+            "text": "12 teaspoon red pepper flakes (or to taste)"
+        }
+    ],
+    "recipe": [
+        {
+            "text": "Heat oil in skillet, and saute onions until slightly tender."
+        },
+        {
+            "text": "Add mushrooms, continue to saute until mushrooms and onions are both tender and leaving juices."
+        },
+        {
+            "text": "Set aside, keep warm."
+        },
+        {
+            "text": "In same skillet, brown ground turkey."
+        },
+        {
+            "text": "About halfway through browning turkey, add in the quartered pepperoni."
+        },
+        {
+            "text": "Drain fat/liquid and return turkey and mushroom/onion mixture to skillet."
+        },
+        {
+            "text": "Add the pizza sauce, garlic, oregano and red pepper flakes."
+        },
+        {
+            "text": "Simmer uncovered for 10-12 minutes, letting a large amount of the liquid cook away."
+        },
+        {
+            "text": "Transfer mixture to square pyrex pan."
+        },
+        {
+            "text": "Top with mozzarella cheese and remaining pepperoni."
+        },
+        {
+            "text": "At this point, you can cover and put in the fridge if you want to prepare/serve later."
+        },
+        {
+            "text": "Bake at 350, uncovered for 25-30 minutes, or until bubbly."
+        }
+    ]
+}

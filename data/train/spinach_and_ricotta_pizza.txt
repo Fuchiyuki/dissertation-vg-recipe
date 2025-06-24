@@ -1,0 +1,241 @@
+{
+    "title": "spinach_and_ricotta_pizza",
+    "id": "a3e0e14592",
+    "table": [
+        {
+            "instructions": "position an oven rack on the 2nd lowest level in the oven",
+            "input": "NA",
+            "actions": "position",
+            "output": "NA"
+        },
+        {
+            "instructions": "place a baking stone on the rack",
+            "input": "NA",
+            "actions": "place",
+            "output": "NA"
+        },
+        {
+            "instructions": "position another rack in the upper third of the oven ;",
+            "input": "NA",
+            "actions": "position",
+            "output": "NA"
+        },
+        {
+            "instructions": "preheat oven to 50",
+            "input": "NA",
+            "actions": "preheat",
+            "output": "NA"
+        },
+        {
+            "instructions": "coat a 12 inch , pizza\u2012screen or perforated pizza\u2012pan with cooking_spray .",
+            "input": "NA",
+            "actions": "coat",
+            "output": "NA"
+        },
+        {
+            "instructions": "lightly dust pizza_dough with flour ;",
+            "input": "(pizza_dough; flour)",
+            "actions": "dust",
+            "output": "pizza_dough_dusted_with_flour"
+        },
+        {
+            "instructions": "lay dough in prepared pan",
+            "input": "pizza_dough_dusted_with_flour",
+            "actions": "lay",
+            "output": "pizza_dough"
+        },
+        {
+            "instructions": "gently stretch into a 12 inch round .",
+            "input": "pizza_dough",
+            "actions": "stretch",
+            "output": "stretched_pizza_dough"
+        },
+        {
+            "instructions": "top the pizza brush the dough with 1 tablespoons , olive_oil .",
+            "input": "pizza_dough",
+            "actions": "top",
+            "output": "pizza_dough_topped_with_olive_oil"
+        },
+        {
+            "instructions": "spread the pizza_sauce evenly over dough , leaving a 14 inch border .",
+            "input": "(oiled_pizza_dough; pizza_sauce)",
+            "actions": "spread",
+            "output": "pizza_sauce_spread_over_pizza_crust"
+        },
+        {
+            "instructions": "sprinkle the parmesan over the top ;",
+            "input": "(parmesan; pizza)",
+            "actions": "sprinkle",
+            "output": "sprinkled_parmesan_on_pizza"
+        },
+        {
+            "instructions": "sprinkle garlic over the spinach .",
+            "input": "(spinach; garlic)",
+            "actions": "sprinkle",
+            "output": "sprinkled_garlic_over_spinach"
+        },
+        {
+            "instructions": "cover the spinach with the mozzarella .",
+            "input": "(spinach and galic; mozzarella)",
+            "actions": "cover",
+            "output": "spinach and galic covered with mozzarella"
+        },
+        {
+            "instructions": "using a teaspoon , arrange little globs of ricotta evenly over the top .",
+            "input": "(pizza_crust; ricotta)",
+            "actions": "arrange",
+            "output": "ricotta_arranged_over_pizza_crust"
+        },
+        {
+            "instructions": "drizzle with the remaining 1 tablespoons , olive_oil .",
+            "input": "(pizza; olive_oil)",
+            "actions": "drizzle",
+            "output": "olive_oil_drizzled_over_pizza"
+        },
+        {
+            "instructions": "place pizza in oven on the upper rack .",
+            "input": "uncooked_pizza",
+            "actions": "place",
+            "output": "uncooked_pizza"
+        },
+        {
+            "instructions": "bake 10 minutes , until crust is crisp and golden brown .",
+            "input": "uncooked_pizza",
+            "actions": "bake",
+            "output": "baked_pizza"
+        },
+        {
+            "instructions": "using a pizza peel , lift pizza off the pan",
+            "input": "baked_pizza",
+            "actions": "lift",
+            "output": "baked_pizza"
+        },
+        {
+            "instructions": "place the crust directly on the baking stone ;",
+            "input": "baked_pizza",
+            "actions": "place",
+            "output": "baked_pizza"
+        },
+        {
+            "instructions": "remove pizza\u2012pan from oven .",
+            "input": "baked_pizza",
+            "actions": "remove",
+            "output": "baked_pizza"
+        },
+        {
+            "instructions": "bake about 3 more minutes , until bottom of crust is golden brown .",
+            "input": "baked_pizza",
+            "actions": "bake",
+            "output": "baked_pizza"
+        },
+        {
+            "instructions": "using the peel , remove the pizza from the oven",
+            "input": "baked_pizza",
+            "actions": "remove",
+            "output": "baked_pizza"
+        },
+        {
+            "instructions": "transfer to a cutting board .",
+            "input": "baked_pizza",
+            "actions": "transfer",
+            "output": "baked_pizza"
+        },
+        {
+            "instructions": "arrange tomato slices over the top ;",
+            "input": "(baked_pizza; tomato_slices)",
+            "actions": "arrange",
+            "output": "tomato_slices_arranged_over_baked_pizza"
+        },
+        {
+            "instructions": "slice",
+            "input": "baked_sliced_spinach_and_ricotta_pizza",
+            "actions": "slice",
+            "output": "sliced_spinach_and_ricotta_pizza"
+        },
+        {
+            "instructions": "serve .",
+            "input": "sliced_spinach_and_ricotta_pizza",
+            "actions": "serve",
+            "output": "sliced_spinach_and_ricotta_pizza"
+        }
+    ],
+    "ingredients": [
+        {
+            "text": "15 ounces pizza dough, at room temperature (New York-Style Pizza Dough)"
+        },
+        {
+            "text": "unbleached bread flour, for dusting"
+        },
+        {
+            "text": "2 tablespoons extra virgin olive oil"
+        },
+        {
+            "text": "12 cup pizza sauce (New York-Style Pizza Sauce)"
+        },
+        {
+            "text": "12 tablespoon freshly grated parmesan cheese"
+        },
+        {
+            "text": "1 12 cups lightly packed fresh spinach leaves, torn into large pieces"
+        },
+        {
+            "text": "12 teaspoon minced fresh garlic"
+        },
+        {
+            "text": "2 cups coarsely shredded mozzarella cheese"
+        },
+        {
+            "text": "13 cup whole milk ricotta cheese"
+        },
+        {
+            "text": "1 ripe tomatoes, cored and thinly sliced"
+        }
+    ],
+    "recipe": [
+        {
+            "text": "Position an oven rack on the 2nd-lowest level in the oven; place a baking stone on the rack; position another rack in the upper third of the oven; preheat oven to 500."
+        },
+        {
+            "text": "Coat a 12-inch pizza screen or perforated pizza pan with cooking spray."
+        },
+        {
+            "text": "Lightly dust pizza dough with flour; lay dough in prepared pan and gently stretch into a 12-inch round."
+        },
+        {
+            "text": "Top the pizza: brush the dough with 1 tablespoons olive oil."
+        },
+        {
+            "text": "Spread the pizza sauce evenly over dough, leaving a 1/4-inch border."
+        },
+        {
+            "text": "Sprinkle the Parmesan over the top; distribute the spinach evenly over the top and sprinkle garlic over the spinach."
+        },
+        {
+            "text": "Cover the spinach with the mozzarella."
+        },
+        {
+            "text": "Using a teaspoon, arrange little globs of ricotta evenly over the top."
+        },
+        {
+            "text": "Drizzle with the remaining 1 tablespoons olive oil."
+        },
+        {
+            "text": "Place pizza in oven on the upper rack."
+        },
+        {
+            "text": "Bake 10 minutes, until crust is crisp and golden brown."
+        },
+        {
+            "text": "Using a pizza peel, lift pizza off the pan and place the crust directly on the baking stone; remove pizza pan from oven."
+        },
+        {
+            "text": "Bake about 3 more minutes, until bottom of crust is golden brown."
+        },
+        {
+            "text": "Using the peel, remove the pizza from the oven and transfer to a cutting board."
+        },
+        {
+            "text": "Arrange tomato slices over the top; slice and serve."
+        }
+    ]
+}

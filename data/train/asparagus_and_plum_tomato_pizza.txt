@@ -1,0 +1,187 @@
+{
+    "title": "asparagus_and_plum_tomato_pizza",
+    "id": "051a4817af",
+    "table": [
+        {
+            "instructions": "preheat oven to 400 degrees f .",
+            "input": "NA",
+            "actions": "preheat",
+            "output": "NA"
+        },
+        {
+            "instructions": "trim tough ends off asparagus  leaving 4",
+            "input": "asparagus",
+            "actions": "trim",
+            "output": "trimmed asparagus"
+        },
+        {
+            "instructions": "place tops in a small skillet in 12 inch of boiling_water .",
+            "input": "(boiling_water; asparagus tops)",
+            "actions": "place",
+            "output": "asparagus tops in boiling water"
+        },
+        {
+            "instructions": "cover the pan",
+            "input": "uncovered asparagus",
+            "actions": "cover",
+            "output": "covered asparagus"
+        },
+        {
+            "instructions": "steam asparagus for 2 minutes .",
+            "input": "uncooked covered asparagus",
+            "actions": "steam",
+            "output": "steamed asparagus"
+        },
+        {
+            "instructions": "run asparagus under cool water",
+            "input": "(steamed asparagus; cool water)",
+            "actions": "run",
+            "output": "cooled asparagus"
+        },
+        {
+            "instructions": "drain well .",
+            "input": "cooled asparagus in water",
+            "actions": "drain",
+            "output": "drained asparagus"
+        },
+        {
+            "instructions": "cut spears into 1",
+            "input": "drained asparagus",
+            "actions": "cut",
+            "output": "cut asparagus"
+        },
+        {
+            "instructions": "spread a foccacia with a thin layer of pesto_sauce .",
+            "input": "(foccacia; pesto sauce)",
+            "actions": "spread",
+            "output": "spread pesto sauce over foccacia"
+        },
+        {
+            "instructions": "dot the top of pizza pie with cubed fontina_cheese .",
+            "input": "pizza pie with pesto, cubed fontina cheese",
+            "actions": "dot",
+            "output": "pizza pie top dotted with fontina cheese"
+        },
+        {
+            "instructions": "add a scattering of chopped asparagus and diced plum_tomato .",
+            "input": "(pizza pie with pesto sauce and fontina cheese; chopped asparagus; diced plum tomato)",
+            "actions": "add",
+            "output": "chopped asparagus and diced plum_tomato added to pizza pie"
+        },
+        {
+            "instructions": "bake directly on oven rack or on a perforated pizza\u2012pan .",
+            "input": "uncooked pizza pie",
+            "actions": "bake",
+            "output": "uncooked pizza pie"
+        },
+        {
+            "instructions": "bake foccacia pie for 10 minutes in preheated oven on middle rack or , until the cheese melts",
+            "input": "uncooked pizza pie",
+            "actions": "bake",
+            "output": "cooked foccacia pie"
+        },
+        {
+            "instructions": "combine basil , pine nuts , and garlic in a food processor with a drizzle of the olive_oil .",
+            "input": "(basil; pine nuts; garlic; olive oil)",
+            "actions": "combine",
+            "output": "combined basil, pine nuts, garlic and olive oil"
+        },
+        {
+            "instructions": "blend coarsely , stopping from time to time to scrape down the sides .",
+            "input": "combined basil, pine nuts, garlic and olive oil",
+            "actions": "blend",
+            "output": "blended basil mixture"
+        },
+        {
+            "instructions": "place in small bowl ,",
+            "input": "blended basil mixture",
+            "actions": "place",
+            "output": "blended basil mixture"
+        },
+        {
+            "instructions": "stir in the remaining olive_oil as needed , parmesan , and pepper , to taste .",
+            "input": "(blended basil mixture; remaining olive oil; parmesan; pepper)",
+            "actions": "stir",
+            "output": "stirred pesto"
+        }
+    ],
+    "ingredients": [
+        {
+            "text": "1/2 pound thin asparagus spears"
+        },
+        {
+            "text": "1 (12-inch) packaged prepared foccacia"
+        },
+        {
+            "text": "1 cup prepared pesto sauce, store-bought or homemade, recipe follows"
+        },
+        {
+            "text": "1/2 pound Fontina, diced into small cubes, about 1 1/2 cups"
+        },
+        {
+            "text": "1 firm plum tomato, seeded and diced"
+        },
+        {
+            "text": "2 cups fresh basil, packed"
+        },
+        {
+            "text": "1/4 cup pine nuts, toasted"
+        },
+        {
+            "text": "1 clove garlic, peeled and smashed"
+        },
+        {
+            "text": "1/4 to 1/2 cup extra-virgin olive oil"
+        },
+        {
+            "text": "1/2 cup grated Parmesan"
+        },
+        {
+            "text": "Fresh black pepper"
+        }
+    ],
+    "recipe": [
+        {
+            "text": "Preheat oven to 400 degrees F."
+        },
+        {
+            "text": "Trim tough ends off asparagus, leaving 4 or 5-inch long tender tops of spears."
+        },
+        {
+            "text": "Place tops in a small skillet in 1/2-inch of boiling water."
+        },
+        {
+            "text": "Cover the pan and steam asparagus for 2 minutes."
+        },
+        {
+            "text": "Run asparagus under cool water and drain well."
+        },
+        {
+            "text": "Cut spears into 1-inch pieces on the diagonal."
+        },
+        {
+            "text": "Spread a foccacia with a thin layer of pesto sauce."
+        },
+        {
+            "text": "Dot the top of pizza pie with cubed Fontina cheese."
+        },
+        {
+            "text": "Add a scattering of chopped asparagus and diced plum tomatoes."
+        },
+        {
+            "text": "Bake directly on oven rack or on a perforated pizza pan."
+        },
+        {
+            "text": "Bake foccacia pie for 10 minutes in preheated oven on middle rack or, until the cheese melts and edges of your pizza are crisp and dark golden in color."
+        },
+        {
+            "text": "Combine basil, pine nuts, and garlic in a food processor with a drizzle of the olive oil."
+        },
+        {
+            "text": "Blend coarsely, stopping from time to time to scrape down the sides."
+        },
+        {
+            "text": "Place in small bowl, and stir in the remaining olive oil (as needed), Parmesan, and pepper, to taste."
+        }
+    ]
+}

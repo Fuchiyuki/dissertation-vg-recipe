@@ -1,0 +1,112 @@
+{
+    "title": "crock_pot_pizza_beans",
+    "id": "f8c6716022",
+    "table": [
+        {
+            "instructions": "brown sausage",
+            "input": "sausage",
+            "actions": "brown",
+            "output": "browned_sausage"
+        },
+        {
+            "instructions": "put in crock pot .",
+            "input": "browned_sausage",
+            "actions": "put",
+            "output": "browned_sausage"
+        },
+        {
+            "instructions": "saute green_pepper , onion , and garlic in sausage drippings",
+            "input": "(green_pepper; onion; garlic; garlic fat)",
+            "actions": "saute",
+            "output": "green_pepper , onion , and garlic sauteed in sausage fat"
+        },
+        {
+            "instructions": "place in crock pot .",
+            "input": "(browned_sausage; sauteed vegetables)",
+            "actions": "place",
+            "output": "(browned_sausage; sauteed vegetables)"
+        },
+        {
+            "instructions": "add the rest of the ingredients except the parmesan_cheese .",
+            "input": "(browned_sausage; sauteed vegetables; remaining ingredients)",
+            "actions": "add",
+            "output": "sausage and vegetables mixture"
+        },
+        {
+            "instructions": "stir",
+            "input": "sausage and vegetables mixture",
+            "actions": "stir",
+            "output": "sausage and vegetables mixture"
+        },
+        {
+            "instructions": "cook on low 7 9 hours .",
+            "input": "sausage and vegetables mixture",
+            "actions": "cook",
+            "output": "cooked crock_pot_pizza_beans"
+        },
+        {
+            "instructions": "sprinkle with parmesan_cheese before serving .",
+            "input": "(crock_pot_pizza_beans; parmesa_cheese)",
+            "actions": "sprinkle",
+            "output": "parmesan_cheese_sprinkled over crock_pot_pizza_beans"
+        }
+    ],
+    "ingredients": [
+        {
+            "text": "1 (16 ounce) can pinto beans, drained and rinsed"
+        },
+        {
+            "text": "1 (16 ounce) can black beans, drained and rinsed"
+        },
+        {
+            "text": "1 (16 ounce) can kidney beans, drained and rinsed"
+        },
+        {
+            "text": "1 (2 1/4 ounce) cansliced black olives, drained"
+        },
+        {
+            "text": "1 (14 1/2 ounce) can diced tomatoes, drained"
+        },
+        {
+            "text": "34 lb Italian sausage"
+        },
+        {
+            "text": "12-1 green bell pepper, chopped"
+        },
+        {
+            "text": "12 medium onion, chopped"
+        },
+        {
+            "text": "2 garlic cloves, minced"
+        },
+        {
+            "text": "1 teaspoon salt"
+        },
+        {
+            "text": "1 teaspoon oregano"
+        },
+        {
+            "text": "1 teaspoon basil"
+        },
+        {
+            "text": "parmesan cheese"
+        }
+    ],
+    "recipe": [
+        {
+            "text": "Brown sausage and put in crock pot."
+        },
+        {
+            "text": "Saute green pepper, onion, and garlic in sausage drippings and place in crock pot."
+        },
+        {
+            "text": "Add the rest of the ingredients except the parmesan cheese."
+        },
+        {
+            "text": "Stir and cook on low 7-9 hours."
+        },
+        {
+            "text": "Sprinkle with parmesan cheese before serving."
+        }
+    ]
+}

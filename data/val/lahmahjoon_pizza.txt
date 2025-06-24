@@ -1,0 +1,253 @@
+{
+    "title": "lahmahjoon_pizza",
+    "id": "0e8d65c7cd",
+    "table": [
+        {
+            "instructions": "heat oil in a large nonstick skillet over medium heat .",
+            "input": "oil",
+            "action": "heat",
+            "output": "heated_oil"
+        },
+        {
+            "instructions": "add shallots ;",
+            "input": "(shallots; heated oil)",
+            "action": "add",
+            "output": "shallots in heated oil"
+        },
+        {
+            "instructions": "cook , stirring often , until softened , about 2 minutes .",
+            "input": "shallots in heated oil",
+            "action": "cook",
+            "output": "cooked shallots"
+        },
+        {
+            "instructions": "add lamb",
+            "input": "(lamb; cooked shallots)",
+            "action": "add",
+            "output": "lamb added to cooked shallots"
+        },
+        {
+            "instructions": "cook , stirring and breaking up with a wooden spoon , until lightly browned , about 5 minutes .",
+            "input": "lamb added to cooked shallots",
+            "action": "cook",
+            "output": "cooked lamb and shallots"
+        },
+        {
+            "instructions": "transfer to a colander",
+            "input": "cooked lamb and shallots",
+            "action": "transfer",
+            "output": "cooked lamb and shallots in colander"
+        },
+        {
+            "instructions": "drain fat .",
+            "input": "cooked lamb and shallots in colander",
+            "action": "drain",
+            "output": "cooked lamb and shallots without excess fat"
+        },
+        {
+            "instructions": "wipe out the pan ;",
+            "input": "NA",
+            "action": "wipe",
+            "output": "NA"
+        },
+        {
+            "instructions": "return the meat and shallots to the pan",
+            "input": "cooked lamb and shallots without excess fat",
+            "action": "return",
+            "output": "lamb with cooked shallots without excess fat"
+        },
+        {
+            "instructions": "stir in tomatoes .",
+            "input": "(cooked lamb and shallots without excess fat; tomatoes)",
+            "action": "stir",
+            "output": "tomatoes stirred into cooked lamb and shallots"
+        },
+        {
+            "instructions": "cook until the tomatoes begin to break down , about 3 minutes .",
+            "input": "tomatoes stirred into cooked lamb and shallots",
+            "action": "cook",
+            "output": "cooked lamb, shallot and tomato mixture"
+        },
+        {
+            "instructions": "add parsley , pomegranate molasses , cinnamon , salt and pepper",
+            "input": "(parsley; pomegranate molasses; cinnamon; salt; pepper)",
+            "action": "add",
+            "output": "parsley , pomegranate molasses , cinnamon , salt and pepper added to cooked lamb, shallot and tomato mixture"
+        },
+        {
+            "instructions": "stir to coat ;",
+            "input": "parsley , pomegranate molasses , cinnamon , salt and pepper added to cooked lamb, shallot and tomato mixture",
+            "action": "stir",
+            "output": "seasoned cooked lamb, shallot and tomato"
+        },
+        {
+            "instructions": "remove from the heat .",
+            "input": "seasoned cooked lamb, shallot and tomato",
+            "action": "remove",
+            "output": "seasoned cooked lamb, shallot and tomato"
+        },
+        {
+            "instructions": "preheat grill to low .",
+            "input": "NA",
+            "action": "preheat",
+            "output": "NA"
+        },
+        {
+            "instructions": "sprinkle cornmeal onto a pizza peel or large baking sheet .",
+            "input": "NA",
+            "action": "sprinkle",
+            "output": "NA"
+        },
+        {
+            "instructions": "roll out the dough see tip",
+            "input": "dough",
+            "action": "roll",
+            "output": "rolled out pizza dough"
+        },
+        {
+            "instructions": "transfer it to the prepared peel or baking sheet , making sure the underside of the dough is completely coated with cornmeal .",
+            "input": "rolled out pizza dough",
+            "action": "transfer",
+            "output": "rolled out pizza crust"
+        },
+        {
+            "instructions": "slide the crust onto the grill rack ;",
+            "input": "pizza crust",
+            "action": "slide",
+            "output": "pizza crust"
+        },
+        {
+            "instructions": "close the lid .",
+            "input": "pizza crust",
+            "action": "close",
+            "output": "pizza crust"
+        },
+        {
+            "instructions": "cook until lightly browned , 3 to 4 minutes .",
+            "input": "pizza crust",
+            "action": "cook",
+            "output": "grilled pizza crust"
+        },
+        {
+            "instructions": "spread the lamb mixture on the crust , leaving a 1 inch border .",
+            "input": "(seasoned cooked lamb, shallot and tomato; grilled pizza crust)",
+            "action": "spread",
+            "output": "grilled pizza crust topped with seasoned cooked lamb, shallot and tomato"
+        },
+        {
+            "instructions": "sprinkle with feta and pine nuts .",
+            "input": "(feta; pine nuts; grilled pizza crust with seasoned cooked lamb, shallot and tomato)",
+            "action": "sprinkle",
+            "output": "grilled pizza crust with seasoned cooked lamb, shallot and tomato, feta and pine nuts"
+        },
+        {
+            "instructions": "close the lid again",
+            "input": "grilled pizza crust with seasoned cooked lamb, shallot and tomato, feta and pine nuts",
+            "action": "close",
+            "output": "grilled pizza crust with seasoned cooked lamb, shallot and tomato, feta and pine nuts"
+        },
+        {
+            "instructions": "grill until the toppings are hot and the bottom of the crust has browned , about 8 minutes .",
+            "input": "grilled pizza crust with seasoned cooked lamb, shallot and tomato, feta and pine nuts",
+            "action": "grill",
+            "output": "twice grilled pizza crust with seasoned cooked lamb, shallot and tomato, feta and pine nuts"
+        }
+    ],
+    "ingredients": [
+        {
+            "text": "1 tablespoon extra virgin olive oil"
+        },
+        {
+            "text": "12 cup chopped shallot"
+        },
+        {
+            "text": "8 ounces ground lamb"
+        },
+        {
+            "text": "4 medium plum tomatoes, chopped"
+        },
+        {
+            "text": "2 tablespoons minced fresh parsley"
+        },
+        {
+            "text": "1 tablespoon pomegranate molasses"
+        },
+        {
+            "text": "1 teaspoon ground cinnamon"
+        },
+        {
+            "text": "12 teaspoon salt"
+        },
+        {
+            "text": "12 teaspoon fresh ground pepper"
+        },
+        {
+            "text": "yellow cornmeal, for dusting"
+        },
+        {
+            "text": "1 lb pizza dough"
+        },
+        {
+            "text": "13 cup crumbled feta"
+        },
+        {
+            "text": "1 tablespoon pine nuts"
+        }
+    ],
+    "recipe": [
+        {
+            "text": "Heat oil in a large nonstick skillet over medium heat."
+        },
+        {
+            "text": "Add shallots; cook, stirring often, until softened, about 2 minutes."
+        },
+        {
+            "text": "Add lamb and cook, stirring and breaking up with a wooden spoon, until lightly browned, about 5 minutes."
+        },
+        {
+            "text": "Transfer to a colander and drain fat."
+        },
+        {
+            "text": "Wipe out the pan; return the meat and shallots to the pan and stir in tomatoes."
+        },
+        {
+            "text": "Cook until the tomatoes begin to break down, about 3 minutes."
+        },
+        {
+            "text": "Add parsley, pomegranate molasses, cinnamon, salt and pepper and stir to coat; remove from the heat."
+        },
+        {
+            "text": "Preheat grill to low."
+        },
+        {
+            "text": "(For charcoal grilling or an oven variation, see below."
+        },
+        {
+            "text": ")."
+        },
+        {
+            "text": "Sprinkle cornmeal onto a pizza peel or large baking sheet."
+        },
+        {
+            "text": "Roll out the dough (see Tip) and transfer it to the prepared peel or baking sheet, making sure the underside of the dough is completely coated with cornmeal."
+        },
+        {
+            "text": "Slide the crust onto the grill rack; close the lid."
+        },
+        {
+            "text": "Cook until lightly browned, 3 to 4 minutes."
+        },
+        {
+            "text": "Using a large spatula, flip the crust."
+        },
+        {
+            "text": "Spread the lamb mixture on the crust, leaving a 1-inch border."
+        },
+        {
+            "text": "Sprinkle with feta and pine nuts."
+        },
+        {
+            "text": "Close the lid again and grill until the toppings are hot and the bottom of the crust has browned, about 8 minutes."
+        }
+    ]
+}

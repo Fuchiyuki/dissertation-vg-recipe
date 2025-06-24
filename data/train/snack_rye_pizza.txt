@@ -1,0 +1,115 @@
+{
+    "title": "snack_rye_pizza",
+    "id": "b470763ad5",
+    "table": [
+        {
+            "instructions": "preheat oven to 350f 176c .",
+            "input": "NA",
+            "actions": "preheat",
+            "output": "NA"
+        },
+        {
+            "instructions": "in a skillet , saute ground_turkey_breast with yellow_onion and green_bell_pepper in oil .",
+            "input": "(ground_turkey_breast; yellow_onion; oil; green_bell_pepper)",
+            "actions": "saute",
+            "output": "(sauteed_ground_turkey_breast; green_bell_pepper)"
+        },
+        {
+            "instructions": "add garlic , tomato_paste , water and seasonings ;",
+            "input": "(sauteed_ground_turkey_breast,_yellow_onion and green_bell_pepper; garlic; tomato_paste; water; seasonings)",
+            "actions": "add",
+            "output": "ground_turkey_breast_sauce"
+        },
+        {
+            "instructions": "cook over low heat for approximately 10 minutes or until thickened",
+            "input": "uncooked_ground_turkey_breast_sauce",
+            "actions": "cook",
+            "output": "cooked_ground_turkey_breast_sauce"
+        },
+        {
+            "instructions": "spread approximately 1 tablespoonful on each slice of snack size , bread",
+            "input": "(cooked_ground_turkey_breast_sauce; bread)",
+            "actions": "spread",
+            "output": "bread_with_spreaded_sauce"
+        },
+        {
+            "instructions": "place each slice on ungreased cookie sheets .",
+            "input": "bread_with_spreaded_sauce",
+            "actions": "place",
+            "output": "bread_with_spreaded_sauce"
+        },
+        {
+            "instructions": "sprinkle with the parmesan",
+            "input": "(bread_with_spreaded_sauce; parmesan)",
+            "actions": "sprinkle",
+            "output": "bread_with_spreaded_sauce_topped_with_parmesan"
+        },
+        {
+            "instructions": "bake for approximately 8 10 minutes ;",
+            "input": "bread_with_spreaded_sauce_topped_with_parmesan",
+            "actions": "bake",
+            "output": "baked_snack_rye_pizza"
+        },
+        {
+            "instructions": "serve immediately .",
+            "input": "snack_rye_pizza",
+            "actions": "serve",
+            "output": "snack_rye_pizza"
+        }
+    ],
+    "ingredients": [
+        {
+            "text": "1 lb ground turkey breast or 1 lb ground chicken breast"
+        },
+        {
+            "text": "1 -2 tablespoon olive oil"
+        },
+        {
+            "text": "1 medium yellow onion, chopped"
+        },
+        {
+            "text": "12 cup green bell pepper, chopped"
+        },
+        {
+            "text": "1 garlic clove, minced"
+        },
+        {
+            "text": "1 (6 ounce) can tomato paste (no salt added preferred)"
+        },
+        {
+            "text": "34 cup water"
+        },
+        {
+            "text": "4 12 teaspoons fresh oregano, minced or 1 12 teaspoons dried oregano, crumbled"
+        },
+        {
+            "text": "1 12 teaspoons fresh thyme, minced or 12 teaspoon dried thyme, crumbled"
+        },
+        {
+            "text": "12 teaspoon fennel seed"
+        },
+        {
+            "text": "36 slices rye cocktail bread, snack size"
+        },
+        {
+            "text": "14 cup parmesan cheese, grated (Kraft Reduced Fat preferred)"
+        }
+    ],
+    "recipe": [
+        {
+            "text": "Preheat oven to 350F (176C)."
+        },
+        {
+            "text": "In a skillet, saute ground turkey breast with yellow onion and green bell pepper in oil."
+        },
+        {
+            "text": "Add garlic, tomato paste, water and seasonings; cook over low heat for approximately 10 minutes or until thickened and heated through."
+        },
+        {
+            "text": "Spread approximately 1 tablespoonful on each slice of snack-size bread and place each slice on ungreased cookie sheets."
+        },
+        {
+            "text": "Sprinkle with the parmesan and bake for approximately 8-10 minutes; serve immediately."
+        }
+    ]
+}

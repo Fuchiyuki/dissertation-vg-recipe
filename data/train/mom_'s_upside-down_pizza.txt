@@ -1,0 +1,121 @@
+{
+    "title": "mom_'s_upside-down_pizza",
+    "id": "9893cc9c02",
+    "table": [
+        {
+            "instructions": "preheat oven to 35",
+            "input": "NA",
+            "action": "preheat",
+            "output": "NA"
+        },
+        {
+            "instructions": "brown meat and onion in a large skillet",
+            "input": "(meat; onion)",
+            "action": "brown",
+            "output": "browned_meat and onion mixture"
+        },
+        {
+            "instructions": "drain .",
+            "input": "browned_meat and onion mixture",
+            "action": "drain",
+            "output": "browned_meat and onion mixture withou excess fat"
+        },
+        {
+            "instructions": "stir in tomato_sauce",
+            "input": "(tomato sauce; browned_meat and onion mixture withou excess fat)",
+            "action": "stir",
+            "output": "tomato sauce stirred into browned_meat and onion mixture withou excess fat"
+        },
+        {
+            "instructions": "mix",
+            "input": "tomato sauce stirred into browned_meat and onion mixture withou excess fat",
+            "action": "mix",
+            "output": "beef and tomato sauce"
+        },
+        {
+            "instructions": "cook over low heat for 10 minutes .",
+            "input": "beef and tomato mixture",
+            "action": "cook",
+            "output": "cooked beef and tomato mixture"
+        },
+        {
+            "instructions": "spoon mixture into lightly greased 13x9 dish",
+            "input": "cooked beef and tomato mixture",
+            "action": "spoon",
+            "output": "cooked beef and tomato mixture on baking dish"
+        },
+        {
+            "instructions": "top with sour_cream",
+            "input": "(sour cream; cooked beef and tomato mixture on baking dish)",
+            "action": "top",
+            "output": "cooked beef and tomato mixture on baking dish topped with sour cream"
+        },
+        {
+            "instructions": "sprinkle with cheese .",
+            "input": "(cheese; cooked beef and tomato mixture on baking dish topped with sour cream)",
+            "action": "sprinkle",
+            "output": "cooked beef and tomato mixture on baking dish topped with sour cream and cheese"
+        },
+        {
+            "instructions": "unroll crescent_roll",
+            "input": "crescent roll dough",
+            "action": "unroll",
+            "output": "unrolled crescent roll dough"
+        },
+        {
+            "instructions": "place over cheese .",
+            "input": "(unrolled crescent roll dough; cooked beef and tomato mixture on baking dish topped with sour cream and cheese)",
+            "action": "place",
+            "output": "cooked beef and tomato mixture on baking dish topped with sour cream, cheese and unrolled crescent roll dough"
+        },
+        {
+            "instructions": "bake , uncovered , for 20 to 25 minutes until done .",
+            "input": "uncooked upside down beaf pizza",
+            "action": "bake",
+            "output": "baked upside down beaf pizza"
+        }
+    ],
+    "ingredients": [
+        {
+            "text": "2 lbs ground beef"
+        },
+        {
+            "text": "1 cup onion, chopped"
+        },
+        {
+            "text": "15 ounces tomato sauce"
+        },
+        {
+            "text": "1 14 ounces spaghetti sauce mix"
+        },
+        {
+            "text": "8 ounces sour cream"
+        },
+        {
+            "text": "8 ounces mozzarella cheese, shredded"
+        },
+        {
+            "text": "8 ounces crescent roll dough"
+        }
+    ],
+    "recipe": [
+        {
+            "text": "Preheat oven to 350."
+        },
+        {
+            "text": "Brown meat and onion in a large skillet and drain."
+        },
+        {
+            "text": "Stir in tomato sauce and mix, cook over low heat for 10 minutes."
+        },
+        {
+            "text": "Spoon mixture into lightly greased 13X9 dish, top with sour cream and sprinkle with cheese."
+        },
+        {
+            "text": "Unroll crescent rolls and place over cheese."
+        },
+        {
+            "text": "Bake, uncovered, for 20 to 25 minutes until done."
+        }
+    ]
+}

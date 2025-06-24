@@ -1,0 +1,130 @@
+{
+    "title": "pizza_lovers_lasagna_2",
+    "id": "042ce66c7d",
+    "table": [
+        {
+            "instructions": "heat oven to 400f .",
+            "input": "NA",
+            "action": "heat",
+            "output": "NA"
+        },
+        {
+            "instructions": "heat oil in large skillet on medium heat .",
+            "input": "oil",
+            "action": "heat",
+            "output": "heated_oil"
+        },
+        {
+            "instructions": "add pepperoni and peppers ;",
+            "input": "heated oil; pepperoni; peppers",
+            "action": "add",
+            "output": "pepperoni and peppers mix"
+        },
+        {
+            "instructions": "cook",
+            "input": "pepperoni and peppers mix",
+            "action": "cook",
+            "output": "cooked pepperoni and peppers mix"
+        },
+        {
+            "instructions": "stir 5 min .",
+            "input": "cooked pepperoni and peppers mix",
+            "action": "stir",
+            "output": "cooked pepperoni and peppers mix"
+        },
+        {
+            "instructions": "stir in pasta_sauce , water , parmesan and 1 cup mozzarella .",
+            "input": "pasta suce; water; parmesan; mozzarella",
+            "action": "stir",
+            "output": "pepperoni mixture"
+        },
+        {
+            "instructions": "spread 14 of the pepperoni mixture onto bottom of 13x9 inch pan ;",
+            "input": "pepperoni mixture",
+            "action": "spread",
+            "output": "pepperoni mixture spread on pan"
+        },
+        {
+            "instructions": "top with 3 noodles .",
+            "input": "noodles; pepperoni mixture spread on pan",
+            "action": "top",
+            "output": "pepperoni mixture spread on pan and topped with noodles"
+        },
+        {
+            "instructions": "cover with remaining pepperoni mixture .",
+            "input": "pepperoni mixture spread on pan and topped with noodles; remaining pepperoni mixture",
+            "action": "cover",
+            "output": "pepperoni mixture spread on pan and topped with noodles and again with remaining pepperoni mixture"
+        },
+        {
+            "instructions": "sprinkle with remaining mozzarella .",
+            "input": "mozzarella; pepperoni mixture spread on pan and topped with noodles and again with remaining pepperoni mixture",
+            "action": "sprinkle",
+            "output": "mozzarella sprinkled on pepperoni mixture spread on pan and topped with noodles and again with remaining pepperoni mixture"
+        },
+        {
+            "instructions": "bake 30 min .",
+            "input": "uncooked lasagna ",
+            "action": "bake",
+            "output": "baked lasagna"
+        }
+    ],
+    "ingredients": [
+        {
+            "text": "1 Tbsp. oil"
+        },
+        {
+            "text": "1 pkg. (3 oz.) OSCAR MAYER Pepperoni"
+        },
+        {
+            "text": "2 green peppers, chopped"
+        },
+        {
+            "text": "3 cups CLASSICO FAMILY FAVORITES Traditional Pasta Sauce"
+        },
+        {
+            "text": "1 cup water"
+        },
+        {
+            "text": "1/2 cup KRAFT Grated Parmesan Cheese"
+        },
+        {
+            "text": "1-1/2 cups KRAFT Shredded Mozzarella Cheese, divided"
+        },
+        {
+            "text": "9 oven-ready lasagna noodles"
+        }
+    ],
+    "recipe": [
+        {
+            "text": "Heat oven to 400F."
+        },
+        {
+            "text": "Heat oil in large skillet on medium heat."
+        },
+        {
+            "text": "Add pepperoni and peppers; cook and stir 5 min."
+        },
+        {
+            "text": "or until peppers are tender."
+        },
+        {
+            "text": "Stir in pasta sauce, water, Parmesan and 1 cup mozzarella."
+        },
+        {
+            "text": "Spread 1/4 of the pepperoni mixture onto bottom of 13x9-inch pan; top with 3 noodles."
+        },
+        {
+            "text": "Repeat layers twice; cover with remaining pepperoni mixture."
+        },
+        {
+            "text": "Sprinkle with remaining mozzarella."
+        },
+        {
+            "text": "Bake 30 min."
+        },
+        {
+            "text": "or until heated through."
+        }
+    ]
+}

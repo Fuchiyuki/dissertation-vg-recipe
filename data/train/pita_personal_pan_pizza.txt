@@ -1,0 +1,91 @@
+{
+    "title": "pita_personal_pan_pizza",
+    "id": "3b1807f968",
+    "table": [
+        {
+            "instructions": "take a piece of pita_bread",
+            "input": "pita_bread",
+            "actions": "take",
+            "output": "pita_bread"
+        },
+        {
+            "instructions": "spread on a light coat of marinara .",
+            "input": "(pita_bread; marinara_sauce)",
+            "actions": "spread",
+            "output": "pita_bread_topped_with_marinara_sauce"
+        },
+        {
+            "instructions": "sprinkle the cheese on top of the marinara .",
+            "input": "(pita_bread_topped_with_marinara_sauce; cheese)",
+            "actions": "sprinkle",
+            "output": "pita_bread_topped_with_marinara_and_cheese"
+        },
+        {
+            "instructions": "put it in the toaster oven , or oven",
+            "input": "pita_bread_topped_with_marinara_and_cheese",
+            "actions": "put",
+            "output": "baked_pita_bread_topped_with_marinara_and cheese"
+        },
+        {
+            "instructions": "heat until the cheese melted .",
+            "input": "baked_pita_bread_topped_with_marinara_and cheese",
+            "actions": "heat",
+            "output": "baked_pita_bread_topped_with_marinara_and_melted_cheese"
+        },
+        {
+            "instructions": "remove from heat",
+            "input": "baked_pita_bread_topped_with_marinara_and_melted_cheese",
+            "actions": "remove",
+            "output": "baked_pita_bread_topped_with_marinara_and_melted_cheese"
+        },
+        {
+            "instructions": "slice into quarters .",
+            "input": "pita_pizza",
+            "actions": "slice",
+            "output": "sliced_pita_pizza"
+        },
+        {
+            "instructions": "make more !",
+            "input": "NA",
+            "actions": "make",
+            "output": "NA"
+        }
+    ],
+    "ingredients": [
+        {
+            "text": "pita bread (the thick little round ones)"
+        },
+        {
+            "text": "marinara sauce (Just enough to cover the surface of the bread)"
+        },
+        {
+            "text": "shredded cheese (The little prepackaged Italian blend works well)"
+        },
+        {
+            "text": "1 couple dashes of oregano and garlic powder (to taste)"
+        }
+    ],
+    "recipe": [
+        {
+            "text": "Take a piece of pita bread and spread on a light coat of marinara."
+        },
+        {
+            "text": "Sprinkle the cheese on top of the marinara."
+        },
+        {
+            "text": "Apply oregano and garlic powder to taste."
+        },
+        {
+            "text": "Put it in the toaster oven, or oven and heat until the cheese melted."
+        },
+        {
+            "text": "Remove from heat and slice into quarters."
+        },
+        {
+            "text": "Make more!"
+        },
+        {
+            "text": "because your hungry, and it was quite tasty -- ."
+        }
+    ]
+}

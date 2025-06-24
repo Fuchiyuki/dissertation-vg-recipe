@@ -1,0 +1,136 @@
+{
+    "title": "pizza_florentina",
+    "id": "16202cb086",
+    "table": [
+        {
+            "instructions": "preheat the oven to 400f 200c .",
+            "input": "NA",
+            "action": "preheat",
+            "output": "NA"
+        },
+        {
+            "instructions": "lightly oil 2 large baking sheets .",
+            "input": "NA",
+            "action": "oil",
+            "output": "NA"
+        },
+        {
+            "instructions": "divide the dough into 4 equal portions .",
+            "input": "dough",
+            "action": "divide",
+            "output": "divided_dough"
+        },
+        {
+            "instructions": "roll each on a lightly floured work surface into an 8 in 20 cm round .",
+            "input": "divided_dough",
+            "action": "roll",
+            "output": "flattened dough in rounds"
+        },
+        {
+            "instructions": "arrange 2 rounds on each sheet .",
+            "input": "flattened dough in rounds",
+            "action": "arrange",
+            "output": "flattened dough in rounds"
+        },
+        {
+            "instructions": "spread each with 13 cup , tomato_sauce , leaving a 1 in 5 cm border .",
+            "input": "tomato sauce; flattened dough in rounds",
+            "action": "spread",
+            "output": "flattened rounds of dough with tomato sauce"
+        },
+        {
+            "instructions": "top each pizza with spinach ,",
+            "input": "spinach; flattened rounds of dough with tomato sauce",
+            "action": "top",
+            "output": "flattened rounds of dough with tomato sauce and spinach"
+        },
+        {
+            "instructions": "sprinkle with the thyme and nutmeg .",
+            "input": "thyme; nutmeg; flattened rounds of dough with tomato sauce and spinach",
+            "action": "sprinkle",
+            "output": "flattened rounds of dough with tomato sauce, spinach, thyme and nutmeg"
+        },
+        {
+            "instructions": "divide the mozzarella overtop .",
+            "input": "mozzarella; flattened rounds of dough with tomato sauce, spinach, thyme and nutmeg",
+            "action": "divide",
+            "output": "flattened rounds of dough with tomato sauce, spinach, thyme, nutmeg and mozzarella"
+        },
+        {
+            "instructions": "crack an egg in the center of each ,",
+            "input": "egg; flattened rounds of dough with tomato sauce, spinach, thyme, nutmeg and mozzarella",
+            "action": "crack",
+            "output": "flattened rounds of dough with tomato sauce, spinach, thyme, nutmeg, mozzarella and cracked egg at the center"
+        },
+        {
+            "instructions": "sprinkle with the parmesan .",
+            "input": "flattened rounds of dough with tomato sauce, spinach, thyme, nutmeg, mozzarella and cracked egg at the center; parmesan",
+            "action": "sprinkle",
+            "output": "flattened rounds of dough with tomato sauce, spinach, thyme, nutmeg, mozzarella, cracked egg at the center and sprinkled parmesa"
+        },
+        {
+            "instructions": "bake for 20 25 minutes , until the edges of the dough are crisp and golden brown .",
+            "input": "flattened rounds of dough with tomato sauce, spinach, thyme, nutmeg, mozzarella, cracked egg at the center and sprinkled parmesa",
+            "action": "bake",
+            "output": "baked florentine pizza"
+        }
+    ],
+    "ingredients": [
+        {
+            "text": "Basic Pizza Dough"
+        },
+        {
+            "text": "1 1/3 cups store-bought tomato pizza or pasta sauce"
+        },
+        {
+            "text": "8 oz (225g) spinach, cooked, drained well, and chopped"
+        },
+        {
+            "text": "1 tsp thyme leaves"
+        },
+        {
+            "text": "1/4 tsp freshly grated nutmeg"
+        },
+        {
+            "text": "6 oz (175g) mozzarella, sliced"
+        },
+        {
+            "text": "4 small eggs"
+        },
+        {
+            "text": "4 tbsp grated Parmesan cheese"
+        }
+    ],
+    "recipe": [
+        {
+            "text": "Preheat the oven to 400F (200C)."
+        },
+        {
+            "text": "Lightly oil 2 large baking sheets."
+        },
+        {
+            "text": "Divide the dough into 4 equal portions."
+        },
+        {
+            "text": "Roll each on a lightly floured work surface into an 8in (20cm) round."
+        },
+        {
+            "text": "Arrange 2 rounds on each sheet."
+        },
+        {
+            "text": "Spread each with 1/3 cup tomato sauce, leaving a 1in (5cm) border."
+        },
+        {
+            "text": "Top each pizza with spinach, then sprinkle with the thyme and nutmeg."
+        },
+        {
+            "text": "Divide the mozzarella overtop."
+        },
+        {
+            "text": "Crack an egg in the center of each, and sprinkle with the Parmesan."
+        },
+        {
+            "text": "Bake for 20-25 minutes, until the edges of the dough are crisp and golden brown."
+        }
+    ]
+}

@@ -1,0 +1,100 @@
+{
+    "title": "jan_'s_shrimp_and_artichoke_pizza",
+    "id": "b3cf127a6f",
+    "table": [
+        {
+            "instructions": "preheat oven to 400 degrees .",
+            "input": "NA",
+            "action": "preheat",
+            "output": "NA"
+        },
+        {
+            "instructions": "spray cookie sheet with cooking_spray .",
+            "input": "NA",
+            "action": "spray",
+            "output": "NA"
+        },
+        {
+            "instructions": "roll out pizza_dough on cookie sheet .",
+            "input": "pizza_dough",
+            "action": "roll",
+            "output": "rolled_pizza_dough"
+        },
+        {
+            "instructions": "spread with entire bottle of basil pesto .",
+            "input": "(basil pesto; rolled_pizza_dough)",
+            "action": "spread",
+            "output": "pesto spread on pizza dough"
+        },
+        {
+            "instructions": "place shrimp evenly on pizza .",
+            "input": "(shrimp; pizza crust with pesto)",
+            "action": "place",
+            "output": "shrimp placed on pizza crust with pesto"
+        },
+        {
+            "instructions": "add artichoke_heart and black_olive .",
+            "input": "(artichoke heart, black olive; pizza crust with pesto and shrimp)",
+            "action": "add",
+            "output": "artichoke heart and black olives added to pizza crust with pesto and shrimp"
+        },
+        {
+            "instructions": "sprinkle with cheese .",
+            "input": "(cheese; pizza crust with pesto, shrimp, artichoke heart and black olives)",
+            "action": "sprinkle",
+            "output": "cheese sprinkled on pizza crust with pesto, shrimp, artichoke heart and black olives"
+        },
+        {
+            "instructions": "bake in oven for 15 18 mins .",
+            "input": "uncooked pesto, shrimp, artichoke heart and black olives pizza",
+            "action": "bake",
+            "output": "baked pesto shrimp pizza"
+        }
+    ],
+    "ingredients": [
+        {
+            "text": "1 can frozen pillsbury pizza dough"
+        },
+        {
+            "text": "6 ounces cooked peeled shrimp"
+        },
+        {
+            "text": "1 (5 ounce) bottle basil pesto"
+        },
+        {
+            "text": "1 (10 ounce) canquartered artichoke hearts"
+        },
+        {
+            "text": "8 ounces shredded mozzarella cheese"
+        },
+        {
+            "text": "1 (4 ounce) can sliced ripe olives"
+        }
+    ],
+    "recipe": [
+        {
+            "text": "Preheat oven to 400 degrees."
+        },
+        {
+            "text": "Spray cookie sheet with cooking spray."
+        },
+        {
+            "text": "Roll out pizza dough on cookie sheet."
+        },
+        {
+            "text": "Spread with entire bottle of Basil Pesto."
+        },
+        {
+            "text": "Place shrimp evenly on pizza."
+        },
+        {
+            "text": "Add artichoke hearts and black olives."
+        },
+        {
+            "text": "Sprinkle with cheese."
+        },
+        {
+            "text": "Bake in oven for 15-18 mins."
+        }
+    ]
+}

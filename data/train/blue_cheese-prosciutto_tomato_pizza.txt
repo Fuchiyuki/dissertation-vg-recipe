@@ -1,0 +1,94 @@
+{
+    "title": "blue_cheese-prosciutto_tomato_pizza",
+    "id": "976fec78c8",
+    "table": [
+        {
+            "instructions": "heat oven to 400 degrees f .",
+            "input": "NA",
+            "action": "heat",
+            "output": "NA"
+        },
+        {
+            "instructions": "unroll",
+            "input": "pizza dough",
+            "action": "unroll",
+            "output": "unrolled pizza dough"
+        },
+        {
+            "instructions": "press dough onto 12 inch , pizza\u2012pan sprayed with cooking_spray .",
+            "input": "dough",
+            "action": "press",
+            "output": "pressed_dough"
+        },
+        {
+            "instructions": "brush with dressing .",
+            "input": "dressing; pressed_dough",
+            "action": "brush",
+            "output": "pressed_dough brushed with dressing"
+        },
+        {
+            "instructions": "bake 5 min .",
+            "input": "pressed_dough brushed with dressing",
+            "action": "bake",
+            "output": "baked crust"
+        },
+        {
+            "instructions": "top crust with remaining_ingredient .",
+            "input": "prosciutto; sliced fresh basil; Italian Five Cheese Blend; blue cheese crumbles; halved cherry tomatoes",
+            "action": "top",
+            "output": "baked pizza crust topped with prosciutto, sliced fresh basil, Italian Five Cheese Blend, blue cheese crumbles, halved cherry tomatoes"
+        },
+        {
+            "instructions": "bake 10 to 12 min .",
+            "input": "uncooked blue_cheese-prosciutto_tomato_pizza",
+            "action": "bake",
+            "output": "baked blue_cheese-prosciutto_tomato_pizza"
+        }
+    ],
+    "ingredients": [
+        {
+            "text": "1 can (391 g) refrigerated pizza crust"
+        },
+        {
+            "text": "2 Tbsp. Kraft Zesty Italian Dressing"
+        },
+        {
+            "text": "60 g sliced prosciutto"
+        },
+        {
+            "text": "1/4 cup thinly sliced fresh basil"
+        },
+        {
+            "text": "1 cup Cracker Barrel Shredded 4 Cheese Italiano Cheese"
+        },
+        {
+            "text": "1/2 cup crumbled blue cheese"
+        },
+        {
+            "text": "1 cup cherry tomatoes, halved"
+        }
+    ],
+    "recipe": [
+        {
+            "text": "Heat oven to 400 degrees F."
+        },
+        {
+            "text": "Unroll and press dough onto 12-inch pizza pan sprayed with cooking spray."
+        },
+        {
+            "text": "Brush with dressing."
+        },
+        {
+            "text": "Bake 5 min."
+        },
+        {
+            "text": "Top crust with remaining ingredients."
+        },
+        {
+            "text": "Bake 10 to 12 min."
+        },
+        {
+            "text": "or until edge of crust is lightly browned."
+        }
+    ]
+}

@@ -1,0 +1,130 @@
+{
+    "title": "quick_onion_pizza",
+    "id": "2ebb1243c8",
+    "table": [
+        {
+            "instructions": "grill bacon rashers until crispy .",
+            "input": "bacon rashers",
+            "action": "grill",
+            "output": "grilled bacon rashers"
+        },
+        {
+            "instructions": "spread the onion relish over a tortilla wrap",
+            "input": "(onion relish; tortilla wrap)",
+            "action": "spread",
+            "output": "onion relish spread on tortilla wrap"
+        },
+        {
+            "instructions": "in a blender , mix cream , lime_juice and butter until stiff .",
+            "input": "(cream; lime_juice; butter)",
+            "action": "mix",
+            "output": "cream mixture"
+        },
+        {
+            "instructions": "spoon over the onion relish .",
+            "input": "(tortilla with onion relish; cream mixture)",
+            "action": "spoon",
+            "output": "cream mixture spooned over tortilla with onion relish"
+        },
+        {
+            "instructions": "cut the onion into thin crescents",
+            "input": "onions",
+            "action": "cut",
+            "output": "sliced_onions"
+        },
+        {
+            "instructions": "lay gently on the cream mixture .",
+            "input": "(sliced_onions; tortilla with onion relish and cream mixture)",
+            "action": "lay",
+            "output": "tortilla with onion relish, cream mixture and sliced onions"
+        },
+        {
+            "instructions": "sprinkle with herbs , salt and pepper .",
+            "input": "(herbs; salt; pepper; tortilla with onion relish, cream mixture and sliced onions)",
+            "action": "sprinkle",
+            "output": "herbs, salt and pepper sprinkled on tortilla with onion relish, cream mixture and sliced onions"
+        },
+        {
+            "instructions": "Once the bacon is cooked, allow it to cool slightly. using scissors , snip it over the pizza",
+            "input": "(cooled grilled bacon rashers; ortilla with onion relish, cream mixture and sliced onions)",
+            "action": "snip",
+            "output": "seasoned tortilla with onion relish, cream mixture, sliced onions and chopped bacon rashers"
+        },
+        {
+            "instructions": "move the pizza to the oven .",
+            "input": "assembled tortilla onion pizza",
+            "action": "move",
+            "output": "assembled tortilla onion pizza"
+        },
+        {
+            "instructions": "cook at 180 degrees c 360 degrees f for about ten minutes , checking on it regularly .",
+            "input": "uncooked tortilla onion pizza",
+            "action": "cook",
+            "output": "baked tortilla onion pizza"
+        },
+        {
+            "instructions": "serve .",
+            "input": "baked tortilla onion pizza",
+            "action": "serve",
+            "output": "baked tortilla onion pizza reasy to serve"
+        }
+    ],
+    "ingredients": [
+        {
+            "text": "2 slices Bacon"
+        },
+        {
+            "text": "2 Tablespoons Onion Relish"
+        },
+        {
+            "text": "1 whole Tortilla Wrap"
+        },
+        {
+            "text": "1/2 cups Cream"
+        },
+        {
+            "text": "1 teaspoon Lime Juice"
+        },
+        {
+            "text": "1 Tablespoon Butter"
+        },
+        {
+            "text": "1/2 whole Onion"
+        },
+        {
+            "text": "1 teaspoon Mixed Herbs"
+        }
+    ],
+    "recipe": [
+        {
+            "text": "Grill bacon rashers until crispy."
+        },
+        {
+            "text": "Spread the onion relish over a tortilla wrap."
+        },
+        {
+            "text": "In a blender, mix cream, lime juice and butter until stiff."
+        },
+        {
+            "text": "Spoon over the onion relish."
+        },
+        {
+            "text": "Cut the onion into thin crescents and lay gently on the cream mixture."
+        },
+        {
+            "text": "Sprinkle with herbs, salt and pepper."
+        },
+        {
+            "text": "Once the bacon is cooked, allow it to cool slightly."
+        },
+        {
+            "text": "Using scissors, snip it over the pizza and move the pizza to the oven."
+        },
+        {
+            "text": "Cook at 180 degrees C (360 degrees F) for about ten minutes, checking on it regularly."
+        },
+        {
+            "text": "Serve."
+        }
+    ]
+}

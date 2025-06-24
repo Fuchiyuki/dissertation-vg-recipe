@@ -1,0 +1,148 @@
+{
+    "title": "grilled_veggie_naan_pizza_with_pesto",
+    "id": "d93f6eb185",
+    "table": [
+        {
+            "instructions": "preheat grill to medium hot .",
+            "input": "NA",
+            "action": "preheat",
+            "output": "NA"
+        },
+        {
+            "instructions": "brush one side of bread with water or olive_oil",
+            "input": "(olive_oil; bread)",
+            "action": "brush",
+            "output": "bread brushed with olive oil"
+        },
+        {
+            "instructions": "place onto the hot grill rack .",
+            "input": "bread brushed with olive oil",
+            "action": "place",
+            "output": "bread brushed with olive oil"
+        },
+        {
+            "instructions": "grill for a few minutes until bread has light grill marks",
+            "input": "bread brushed with olive oil",
+            "action": "grill",
+            "output": "grilled bread"
+        },
+        {
+            "instructions": "carefully take off the grill",
+            "input": "grilled bread",
+            "action": "take",
+            "output": "grilled bread"
+        },
+        {
+            "instructions": "set aside , grilled side down .",
+            "input": "grilled bread",
+            "action": "set",
+            "output": "cooled bread"
+        },
+        {
+            "instructions": "spread 2 tablespoons of pesto onto each of the non grilled sides of the bread .",
+            "input": "(pesto; grilled bread)",
+            "action": "spread",
+            "output": "pesto spread onto grilled bread"
+        },
+        {
+            "instructions": "top with pepper rings , tomato slices , vidalia_onion rings and parmesan_cheese .",
+            "input": "(grilled bread with pesto; pepper rings; tomato slices; vidalia_onion rings; parmesan_cheese)",
+            "action": "top",
+            "output": "grilled bread with pesto, pepper rings , tomato slices , vidalia_onion rings and parmesan_cheese"
+        },
+        {
+            "instructions": "sprinkle with fresh ground_pepper and red_pepper_flake optional",
+            "input": "(ground pepper; optional red pepper flake; grilled bread with pesto, pepper rings , tomato slices , vidalia_onion rings and parmesan_cheese)",
+            "action": "sprinkle",
+            "output": "grilled bread with pesto, pepper rings , tomato slices , vidalia_onion rings, parmesan_cheese, fresh ground_pepper and optional red_pepper_flake "
+        },
+        {
+            "instructions": "carefully place back on the hot grill .",
+            "input": "grilled bread with pesto, pepper rings , tomato slices , vidalia_onion rings, parmesan_cheese, fresh ground_pepper and optional red_pepper_flake ",
+            "action": "place",
+            "output": "grilled bread with pesto, pepper rings , tomato slices , vidalia_onion rings, parmesan_cheese, fresh ground_pepper and optional red_pepper_flake "
+        },
+        {
+            "instructions": "close grill",
+            "input": "grilled bread with pesto, pepper rings , tomato slices , vidalia_onion rings, parmesan_cheese, fresh ground_pepper and optional red_pepper_flake ",
+            "action": "close",
+            "output": "grilled bread with pesto, pepper rings , tomato slices , vidalia_onion rings, parmesan_cheese, fresh ground_pepper and optional red_pepper_flake "
+        },
+        {
+            "instructions": "once cheese is melted and bread is crisp , take off grill",
+            "input": "grilled bread with pesto, pepper rings , tomato slices , vidalia_onion rings, parmesan_cheese, fresh ground_pepper and optional red_pepper_flake ",
+            "action": "take",
+            "output": "grilled cheesy vegetable pesto bread"
+        },
+        {
+            "instructions": "slice",
+            "input": "grilled cheesy vegetable pesto bread",
+            "action": "slice",
+            "output": "sliced grilled cheesy vegetable pesto bread"
+        },
+        {
+            "instructions": "serve .",
+            "input": "grilled cheesy vegetable pesto bread",
+            "action": "serve",
+            "output": "cheesy grilled cheesy vegetable pesto bread served"
+        }
+    ],
+    "ingredients": [
+        {
+            "text": "2 whole Naan Flatbreads"
+        },
+        {
+            "text": "Olive Oil (or Water), To Brush On Flatbreads"
+        },
+        {
+            "text": "4 Tablespoons Prepared Pesto (homeade For Best Flavor)"
+        },
+        {
+            "text": "1 whole Yellow, Red, Or Orange Bell Pwpper, Sliced In Rings"
+        },
+        {
+            "text": "1 whole Tomato, Sliced In Rounds"
+        },
+        {
+            "text": "1/2 whole Vidalia Onion, Sliced In Rings"
+        },
+        {
+            "text": "4 Tablespoons Shredded Parmesan Cheese"
+        },
+        {
+            "text": "1 pinch Freshly Ground Pepper"
+        },
+        {
+            "text": "1 pinch Red Pepper Flakes (optional)"
+        }
+    ],
+    "recipe": [
+        {
+            "text": "Preheat grill to medium hot."
+        },
+        {
+            "text": "Brush one side of bread with water or olive oil and place onto the hot grill rack."
+        },
+        {
+            "text": "Grill for a few minutes until bread has light grill marks and is slightly crisp."
+        },
+        {
+            "text": "Carefully take off the grill and set aside, grilled side down."
+        },
+        {
+            "text": "Spread 2 tablespoons of pesto onto each of the non-grilled sides of the bread."
+        },
+        {
+            "text": "Top with pepper rings, tomato slices, vidalia onion rings and Parmesan cheese."
+        },
+        {
+            "text": "Sprinkle with fresh ground pepper and red pepper flakes (optional) and carefully place back on the hot grill."
+        },
+        {
+            "text": "Close grill and let cook for about 4-5 minutes, checking for melting cheese."
+        },
+        {
+            "text": "Once cheese is melted and bread is crisp, take off grill, slice and serve."
+        }
+    ]
+}

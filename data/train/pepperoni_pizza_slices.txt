@@ -1,0 +1,151 @@
+{
+    "title": "pepperoni_pizza_slices",
+    "id": "14b556b61b",
+    "table": [
+        {
+            "instructions": "preheat oven to 425 degrees f .",
+            "input": "NA",
+            "action": "preheat",
+            "output": "NA"
+        },
+        {
+            "instructions": "combine baking_mix and water until you have a soft dough .",
+            "input": "(baking_mix; water)",
+            "action": "combine",
+            "output": "soft dough"
+        },
+        {
+            "instructions": "turn dough onto floured board",
+            "input": "soft dough",
+            "action": "turn",
+            "output": "soft dough"
+        },
+        {
+            "instructions": "knead 5 times .",
+            "input": "soft dough",
+            "action": "knead",
+            "output": "kneaded soft dough"
+        },
+        {
+            "instructions": "roll into a rectangle 15x9 inches .",
+            "input": "kneaded soft dough",
+            "action": "roll",
+            "output": "rolled dough in rectangle shape"
+        },
+        {
+            "instructions": "mix tomato_paste , italian_seasoning and garlic_salt .",
+            "input": "(tomato paste; italian seasoning; garlic salt)",
+            "action": "mix",
+            "output": "mixed tomato sauce"
+        },
+        {
+            "instructions": "spread over dough rectangle to within 12 inch of sides .",
+            "input": "(mixed tomato sauce; rolled dough in rectangle shape)",
+            "action": "spread",
+            "output": "pizza dough in rectangle shape with mixed tomato sauce"
+        },
+        {
+            "instructions": "sprinkle pepperoni and cheese over seasoning mixture .",
+            "input": "(pizza dough in rectangle shape with mixed tomato sauce; pepperoni; cheese)",
+            "action": "sprinkle",
+            "output": "pizza dough in rectangle shape with mixed tomato sauce, pepperoni and cheese"
+        },
+        {
+            "instructions": "roll up firmly beginning with long side .",
+            "input": "pizza dough in rectangle shape with mixed tomato sauce, pepperoni and cheese",
+            "action": "roll",
+            "output": "rolled dough with mixed tomato sauce, pepperoni and cheese"
+        },
+        {
+            "instructions": "pinch edges to seal .",
+            "input": "rolled dough with mixed tomato sauce, pepperoni and cheese",
+            "action": "pinch",
+            "output": "rolled dough with mixed tomato sauce, pepperoni and cheese and sealed edges"
+        },
+        {
+            "instructions": "place roll , seam side down , on ungreased cookie sheet .",
+            "input": "rolled dough with mixed tomato sauce, pepperoni and cheese and sealed edges",
+            "action": "place",
+            "output": "pepperoni pizza roll on ungreased cookie sheet"
+        },
+        {
+            "instructions": "bake until golden brown , about 15 20 minutes .",
+            "input": "pepperoni pizza roll on ungreased cookie sheet",
+            "action": "bake",
+            "output": "baked pepperoni pizza roll"
+        },
+        {
+            "instructions": "cool 5 minutes on sheet ,",
+            "input": "baked pepperoni pizza roll",
+            "action": "cool",
+            "output": "cooled baked pepperoni pizza roll"
+        },
+        {
+            "instructions": "cut into slices .",
+            "input": "cooled baked pepperoni pizza roll",
+            "action": "cut",
+            "output": "cooled baked pepperoni pizza roll cut into slices"
+        }
+    ],
+    "ingredients": [
+        {
+            "text": "2 cups baking mix, such as Bisquick"
+        },
+        {
+            "text": "12 cup cold water"
+        },
+        {
+            "text": "13 cup tomato paste"
+        },
+        {
+            "text": "14 teaspoon italian seasoning"
+        },
+        {
+            "text": "14 teaspoon garlic salt"
+        },
+        {
+            "text": "1 (4 ounce) package pepperoni, chopped coarsely"
+        },
+        {
+            "text": "1 cup mozzarella cheese"
+        }
+    ],
+    "recipe": [
+        {
+            "text": "Preheat oven to 425 degrees F."
+        },
+        {
+            "text": "Combine baking mix and water until you have a soft dough."
+        },
+        {
+            "text": "Turn dough onto floured board and knead 5 times."
+        },
+        {
+            "text": "Roll into a rectangle 15x9 inches."
+        },
+        {
+            "text": "Mix tomato paste, Italian seasoning and garlic salt."
+        },
+        {
+            "text": "Spread over dough rectangle to within 1/2 inch of sides."
+        },
+        {
+            "text": "Sprinkle pepperoni and cheese over seasoning mixture."
+        },
+        {
+            "text": "Roll up firmly beginning with long side."
+        },
+        {
+            "text": "Pinch edges to seal."
+        },
+        {
+            "text": "Place roll, seam side down, on ungreased cookie sheet."
+        },
+        {
+            "text": "Bake until golden brown, about 15-20 minutes."
+        },
+        {
+            "text": "Cool 5 minutes on sheet, then cut into slices."
+        }
+    ]
+}

@@ -1,0 +1,160 @@
+{
+    "title": "heirloom_tomato_sweet_corn_pizzas",
+    "id": "233a792024",
+    "table": [
+        {
+            "instructions": "to make garlic pistou",
+            "input": "NA",
+            "actions": "make",
+            "output": "NA"
+        },
+        {
+            "instructions": "preheat oven to 350f .",
+            "input": "NA",
+            "actions": "preheat",
+            "output": "NA"
+        },
+        {
+            "instructions": "wrap garlic in foil .",
+            "input": "garlic",
+            "actions": "wrap",
+            "output": "wrapped_garlic_in_foil"
+        },
+        {
+            "instructions": "bake 40 minutes , or until softened .",
+            "input": "wrapped_garlic_in_foil",
+            "actions": "bake",
+            "output": "baked_garlic"
+        },
+        {
+            "instructions": "squeeze garlic_clove into bowl of food processor .",
+            "input": "baked_garlic",
+            "actions": "squeeze",
+            "output": "squeezed_roasted_garlic_cloves"
+        },
+        {
+            "instructions": "blend with remaining_ingredient until smooth .",
+            "input": "(squeezed_roasted_garlic_cloves; remaining_ingredient)",
+            "actions": "blend",
+            "output": "blended_garlic_mixture"
+        },
+        {
+            "instructions": "to make pizzas preheat oven to 400f .",
+            "input": "NA",
+            "actions": "make",
+            "output": "NA"
+        },
+        {
+            "instructions": "place doughs on 2 baking sheets coated with cooking_spray .",
+            "input": "pizza_dough",
+            "actions": "place",
+            "output": "pizza_crust"
+        },
+        {
+            "instructions": "spread with garlic pistou .",
+            "input": "pizza_crust",
+            "actions": "spread",
+            "output": "garlic_pistou_spread_on_pizza_crust"
+        },
+        {
+            "instructions": "sprinkle with cheese and corn .",
+            "input": "(garlic_pistou_spread_on_pizza_crust; cheese; corn)",
+            "actions": "sprinkle",
+            "output": "cheese_and_corn spread on garlic_pistou_pizza"
+        },
+        {
+            "instructions": "bake 15 minutes , or until crisp .",
+            "input": "cheese_and_corn spread on garlic_pistou_pizza",
+            "actions": "bake",
+            "output": "garlic pistou corn pizza"
+        },
+        {
+            "instructions": "toss tomatoes with basil and dill in bowl .",
+            "input": "(heirloom_tomatoes; basil; dill)",
+            "actions": "toss",
+            "output": "tomatoes_with_basil_and_dill"
+        },
+        {
+            "instructions": "arrange tomatoes on hot crusts .",
+            "input": "(tomatoes_with_basil_and_dill; garlic pistou corn pizza)",
+            "actions": "arrange",
+            "output": "heirloom tomato sweet corn pizza"
+        }
+    ],
+    "ingredients": [
+        {
+            "text": "1 head garlic, top trimmed"
+        },
+        {
+            "text": "1/4 cup pine nuts"
+        },
+        {
+            "text": "2 Tbs. olive oil"
+        },
+        {
+            "text": "1 Tbs. fresh oregano leaves"
+        },
+        {
+            "text": "1 tsp. fresh lemon zest"
+        },
+        {
+            "text": "2 prepared garlic-herb pizza doughs"
+        },
+        {
+            "text": "2 1/2 oz. Cotija or feta cheese"
+        },
+        {
+            "text": "3 cups fresh corn kernels"
+        },
+        {
+            "text": "1 lb. assorted heirloom tomatoes, sliced"
+        },
+        {
+            "text": "2 Tbs. torn fresh basil"
+        },
+        {
+            "text": "2 tsp. chopped fresh dill"
+        }
+    ],
+    "recipe": [
+        {
+            "text": "To make Garlic Pistou: Preheat oven to 350F."
+        },
+        {
+            "text": "Wrap garlic in foil."
+        },
+        {
+            "text": "Bake 40 minutes, or until softened."
+        },
+        {
+            "text": "Cool."
+        },
+        {
+            "text": "Squeeze garlic cloves into bowl of food processor."
+        },
+        {
+            "text": "Blend with remaining ingredients until smooth."
+        },
+        {
+            "text": "To make Pizzas: Preheat oven to 400F."
+        },
+        {
+            "text": "Place doughs on 2 baking sheets coated with cooking spray."
+        },
+        {
+            "text": "Spread with Garlic Pistou."
+        },
+        {
+            "text": "Sprinkle with cheese and corn."
+        },
+        {
+            "text": "Bake 15 minutes, or until crisp."
+        },
+        {
+            "text": "Toss tomatoes with basil and dill in bowl."
+        },
+        {
+            "text": "Arrange tomatoes on hot crusts."
+        }
+    ]
+}

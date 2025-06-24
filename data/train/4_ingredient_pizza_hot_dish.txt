@@ -1,0 +1,73 @@
+{
+    "title": "4_ingredient_pizza_hot_dish",
+    "id": "661a92397f",
+    "table": [
+        {
+            "instructions": "brown ground beef .",
+            "input": "ground beef",
+            "action": "brown",
+            "output": "browned ground beef"
+        },
+        {
+            "instructions": "spread 4 crescent_roll in bottom of 8 inch square baking dish .",
+            "input": "crescent_roll",
+            "action": "spread",
+            "output": "spread crescent_roll in baking dish"
+        },
+        {
+            "instructions": "mix pizza_sauce with beef",
+            "input": "(pizza sauce; browned ground beef)",
+            "action": "mix",
+            "output": "pizza sauce with ground beef"
+        },
+        {
+            "instructions": "spread over crescent_roll .",
+            "input": "(spread crescent_roll in baking dish; pizza sauce with ground beef)",
+            "action": "spread",
+            "output": "spread crescent_roll with ground beef and pizza sauce mixture"
+        },
+        {
+            "instructions": "add cheese",
+            "input": "(spread crescent_roll iwith ground beef and pizza sauce mixture; cheese)",
+            "action": "add",
+            "output": "spread crescent_roll with ground beef and pizza sauce mixture and cheese"
+        },
+        {
+            "instructions": "top with remaining 4 crescent_roll .",
+            "input": "(spread crescent_roll with ground beef and pizza sauce mixture and cheese; crescent rolls)",
+            "action": "top",
+            "output": "spread crescent_roll with ground beef and pizza sauce mixture and cheese topped with additional crescent roll"
+        }
+    ],
+    "ingredients": [
+        {
+            "text": "8 ounces crescent dinner rolls"
+        },
+        {
+            "text": "1 lb ground beef"
+        },
+        {
+            "text": "1 (14 ounce) jar pizza sauce"
+        },
+        {
+            "text": "8 ounces shredded monterey jack cheese (or whatever cheese you prefer)"
+        }
+    ],
+    "recipe": [
+        {
+            "text": "Brown gound beef."
+        },
+        {
+            "text": "Spread 4 crescent rolls in bottom of 8 inch square baking dish."
+        },
+        {
+            "text": "Mix pizza sauce with beef and spread over crescent rolls."
+        },
+        {
+            "text": "Add cheese and top with remaining 4 crescent rolls."
+        },
+        {
+            "text": "Baker at 350 F for 20 minutes (until brown on top)."
+        }
+    ]
+}

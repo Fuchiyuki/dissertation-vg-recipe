@@ -1,0 +1,166 @@
+{
+    "title": "peaches_and_cream_pizza",
+    "id": "1395a0783f",
+    "table": [
+        {
+            "instructions": "separate crescent_dough into eight triangles .",
+            "input": "crescent_dough",
+            "actions": "separate",
+            "output": "separated_crescent_dough"
+        },
+        {
+            "instructions": "press onto a greased 12 inch , pizza\u2012pan ;",
+            "input": "separated_crescent_dough",
+            "actions": "press",
+            "output": "pressed_dough"
+        },
+        {
+            "instructions": "seal seams .",
+            "input": "dough",
+            "actions": "seal",
+            "output": "dough with sealed_seams"
+        },
+        {
+            "instructions": "bake at 375 degrees for 8 10 minutes or until edges are golden .",
+            "input": "dough with sealed_seams",
+            "actions": "bake",
+            "output": "baked_crust"
+        },
+        {
+            "instructions": "cool slightly on a wire rack .",
+            "input": "baked_crust",
+            "actions": "cool",
+            "output": "cooled_crust"
+        },
+        {
+            "instructions": "in a small mixing bowl , beat the cream_cheese , sugar",
+            "input": "(cream_cheese; sugar)",
+            "actions": "beat",
+            "output": "beaten_cream_cheese_mixture"
+        },
+        {
+            "instructions": "extract until smooth .",
+            "input": "cream_cheese_mixture",
+            "actions": "extract",
+            "output": "smooth_cream_cheese_mixture"
+        },
+        {
+            "instructions": "spread over crust .",
+            "input": "(cream_cheese_mixture; crust)",
+            "actions": "spread",
+            "output": "cream_cheese_topped_crust"
+        },
+        {
+            "instructions": "top with pie_filling .",
+            "input": "(cream_cheese_topped_crust; pie_filling)",
+            "actions": "top",
+            "output": "topped_crust"
+        },
+        {
+            "instructions": "in a small bowl , combine flour and brown_sugar ;",
+            "input": "(flour; brown_sugar)",
+            "actions": "combine",
+            "output": "combined_flour_and_sugar_mixture"
+        },
+        {
+            "instructions": "cut in butter until crumbly .",
+            "input": "(combined_flour_and_sugar_mixture; butter)",
+            "actions": "cut",
+            "output": "crumbly_flour_mixture"
+        },
+        {
+            "instructions": "sprinkle over peaches .",
+            "input": "(crumbly_flour_mixture; peaches)",
+            "actions": "sprinkle",
+            "output": "sprinkled_peach_pizza_with_crumbly_flour_mixture"
+        },
+        {
+            "instructions": "top with almonds .",
+            "input": "(sprinkled_peach_pizza_with_crumbly_flour_mixture; almonds)",
+            "actions": "top",
+            "output": "almond_topped_peach_pizza"
+        },
+        {
+            "instructions": "bake for 20 25 minutes or until golden brown .",
+            "input": "uncooked peaches and cream pizza",
+            "actions": "bake",
+            "output": "baked_peaches and cream pizza"
+        },
+        {
+            "instructions": "refrigerate leftovers .",
+            "input": "NA",
+            "actions": "refrigerate",
+            "output": "NA"
+        }
+    ],
+    "ingredients": [
+        {
+            "text": "1 (8 ounce) package crescent roll dough"
+        },
+        {
+            "text": "1 (8 ounce) package cream cheese, softened"
+        },
+        {
+            "text": "12 cup sugar"
+        },
+        {
+            "text": "12 teaspoon almond extract"
+        },
+        {
+            "text": "1 (21 ounce) can peach pie filling"
+        },
+        {
+            "text": "12 cup all-purpose flour"
+        },
+        {
+            "text": "14 cup packed brown sugar"
+        },
+        {
+            "text": "3 tablespoons cold butter"
+        },
+        {
+            "text": "12 cup sliced almonds"
+        }
+    ],
+    "recipe": [
+        {
+            "text": "Separate crescent dough into eight triangles."
+        },
+        {
+            "text": "Press onto a greased 12 inch pizza pan; seal seams."
+        },
+        {
+            "text": "Bake at 375 degrees for 8 - 10 minutes or until edges are golden."
+        },
+        {
+            "text": "Cool slightly on a wire rack."
+        },
+        {
+            "text": "In a small mixing bowl, beat the cream cheese, sugar and extract until smooth."
+        },
+        {
+            "text": "Spread over crust."
+        },
+        {
+            "text": "Top with pie filling."
+        },
+        {
+            "text": "In a small bowl, combine flour and brown sugar; cut in butter until crumbly."
+        },
+        {
+            "text": "Sprinkle over peaches."
+        },
+        {
+            "text": "Top with almonds."
+        },
+        {
+            "text": "Bake for 20-25 minutes or until golden brown."
+        },
+        {
+            "text": "Cool."
+        },
+        {
+            "text": "Refrigerate leftovers."
+        }
+    ]
+}

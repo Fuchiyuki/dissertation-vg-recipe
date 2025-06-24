@@ -1,0 +1,106 @@
+{
+    "title": "pizza_soup_low_er_carb",
+    "id": "dcdd5b99c6",
+    "table": [
+        {
+            "instructions": "brown ground_beef and pepperoni in a large dutch oven .",
+            "input": "(ground_beef; pepperoni)",
+            "action": "brown",
+            "output": "browned_ground_beef and pepperoni mixture"
+        },
+        {
+            "instructions": "rinse",
+            "input": "browned_ground_beef and pepperoni mixture",
+            "action": "rinse",
+            "output": "Rinsed browned_ground_beef and pepperoni mixture"
+        },
+        {
+            "instructions": "drain to remove some of the fat from the pepperoni .",
+            "input": "Rinsed browned_ground_beef and pepperoni mixture",
+            "action": "drain",
+            "output": "drained browned_ground_beef and pepperoni mixture"
+        },
+        {
+            "instructions": "put meat back in dutch oven",
+            "input": "drained browned_ground_beef and pepperoni mixture",
+            "action": "put",
+            "output": "drained browned_ground_beef and pepperoni mixture back in dutch oven"
+        },
+        {
+            "instructions": "add the remaining_ingredient .",
+            "input": "(crushed tomatoes; pizza sauce; water; italian seasoning; drained browned_ground_beef and pepperoni mixture back in dutch oven)",
+            "action": "add",
+            "output": "drained browned_ground_beef and pepperoni mixture with added crushed tomatoes, pizza sauce and italian seasoning"
+        },
+        {
+            "instructions": "lower heat",
+            "input": "drained browned_ground_beef and pepperoni mixture with added crushed tomatoes, pizza sauce and italian seasoning",
+            "action": "lower",
+            "output": "cooking drained browned_ground_beef and pepperoni mixture with added crushed tomatoes, pizza sauce and italian seasoning"
+        },
+        {
+            "instructions": "simmer for 45 minutes .",
+            "input": "cooking drained browned_ground_beef and pepperoni mixture with added crushed tomatoes, pizza sauce and italian seasoning",
+            "action": "simmer",
+            "output": "cooked meat and tomato soup"
+        },
+        {
+            "instructions": "skim off any additional fat from the pepperoni as desired .",
+            "input": "cooked meat and tomato soup",
+            "action": "skim",
+            "output": "cooked meat and tomato soup with excess fat skimmed off"
+        },
+        {
+            "instructions": "serve in bowls topped with shredded_mozzarella_cheese if desired .",
+            "input": "(cooked meat and tomato soup with excess fat skimmed off; shredded mozzarella cheese)",
+            "action": "serve",
+            "output": "cooked meat and tomato mixture with excess fat skimmed off served with shredded mozzarella cheese"
+        }
+    ],
+    "ingredients": [
+        {
+            "text": "2 lbs Italian sausage (ground type)"
+        },
+        {
+            "text": "8 ounces pepperoni, sliced in half"
+        },
+        {
+            "text": "1 (28 ounce) can crushed tomatoes"
+        },
+        {
+            "text": "1 (14 ounce) jar pizza sauce (lowest carb you can find)"
+        },
+        {
+            "text": "5 cups water"
+        },
+        {
+            "text": "1 teaspoon italian seasoning"
+        }
+    ],
+    "recipe": [
+        {
+            "text": "Brown ground beef and pepperoni in a large dutch oven."
+        },
+        {
+            "text": "Rinse and drain to remove some of the fat from the pepperoni."
+        },
+        {
+            "text": "Put meat back in dutch oven and add the remaining ingredients."
+        },
+        {
+            "text": "(If desired, you can also add sliced mushrooms at this point too."
+        },
+        {
+            "text": ")."
+        },
+        {
+            "text": "Bring to a boil, then lower heat and simmer for 45 minutes."
+        },
+        {
+            "text": "Skim off any additional fat from the pepperoni as desired."
+        },
+        {
+            "text": "Serve in bowls topped with shredded mozzarella cheese (if desired)."
+        }
+    ]
+}

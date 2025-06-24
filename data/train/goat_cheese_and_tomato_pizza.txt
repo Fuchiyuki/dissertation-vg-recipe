@@ -1,0 +1,136 @@
+{
+    "title": "goat_cheese_and_tomato_pizza",
+    "id": "69b15e5ed3",
+    "table": [
+        {
+            "instructions": "preheat oven to 400 degrees f 200 degrees c.",
+            "input": "NA",
+            "action": "preheat",
+            "output": "NA"
+        },
+        {
+            "instructions": "in small saucepan , mix tomato_paste with water and oil ,",
+            "input": "(tomato_paste; oil; water)",
+            "action": "mix",
+            "output": "tomato sauce"
+        },
+        {
+            "instructions": "stir in chopped_tomato .",
+            "input": "tomato sauce; chopped tomato",
+            "action": "stir",
+            "output": "tomato sauce mixture"
+        },
+        {
+            "instructions": "season with italian_seasoning , garlic_salt , cayenne_pepper , and ground_pepper .",
+            "input": "tomato sauce mixture; italian seasoning; garlic salt; cayenne pepper; ground pepper",
+            "action": "season",
+            "output": "seasoned tomato sauce mixture"
+        },
+        {
+            "instructions": "simmer over low heat for 20 minutes .",
+            "input": "seasoned tomato sauce mixture",
+            "action": "simmer",
+            "output": "Simmering seasoned tomato sauce mixture"
+        },
+        {
+            "instructions": "meanwhile , mix pizza_dough according to directions on box .",
+            "input": "pizza dough box",
+            "action": "mix",
+            "output": "prepared pizza dough"
+        },
+        {
+            "instructions": "spread onto a greased cookie sheet or pizza\u2012pan .",
+            "input": "NA",
+            "action": "spread",
+            "output": "NA"
+        },
+        {
+            "instructions": "when sauce is done , spread over crust .",
+            "input": "cooked seasoned tomato sauce mixture; prepared pizza dough",
+            "action": "spread",
+            "output": "cooked tomato sauce spread over the prepared pizza dough crust"
+        },
+        {
+            "instructions": "arrange sliced_tomato over sauce ,",
+            "input": "sliced tomato; prepared pizza dough crust with cooked tomato sauce",
+            "action": "arrange",
+            "output": "pizza crust with cooked tomato sauce and sliced tomatoes"
+        },
+        {
+            "instructions": "top with small chunks of goat_cheese .",
+            "input": "pizza crust with cooked tomato sauce and sliced tomatoes; goat cheese",
+            "action": "top",
+            "output": "pizza crust with cooked tomato sauce, sliced tomatoes and goat cheese"
+        },
+        {
+            "instructions": "bake for 15 minutes , or until crust is golden brown .",
+            "input": "raw goat_cheese_and_tomato_pizza",
+            "action": "bake",
+            "output": "baked goat_cheese_and_tomato_pizza"
+        }
+    ],
+    "ingredients": [
+        {
+            "text": "1 (6 ounce) can tomato paste"
+        },
+        {
+            "text": "3/4 cup water"
+        },
+        {
+            "text": "1/4 cup olive oil"
+        },
+        {
+            "text": "1 tablespoon Italian seasoning"
+        },
+        {
+            "text": "1/2 teaspoon garlic salt"
+        },
+        {
+            "text": "1/8 teaspoon cayenne pepper"
+        },
+        {
+            "text": "1/2 teaspoon ground black pepper"
+        },
+        {
+            "text": "2 roma (plum) tomatoes, diced"
+        },
+        {
+            "text": "2 (6.5 ounce) packages dry pizza crust mix"
+        },
+        {
+            "text": "6 roma (plum) tomatoes, thinly sliced"
+        },
+        {
+            "text": "4 ounces goat cheese"
+        }
+    ],
+    "recipe": [
+        {
+            "text": "Preheat oven to 400 degrees F (200 degrees C)."
+        },
+        {
+            "text": "In small saucepan, mix tomato paste with water and oil, and stir in chopped tomato."
+        },
+        {
+            "text": "Season with Italian seasoning, garlic salt, cayenne pepper, and ground pepper."
+        },
+        {
+            "text": "Simmer over low heat for 20 minutes."
+        },
+        {
+            "text": "Meanwhile, mix pizza dough according to directions on box."
+        },
+        {
+            "text": "Spread onto a greased cookie sheet or pizza pan."
+        },
+        {
+            "text": "When sauce is done, spread over crust."
+        },
+        {
+            "text": "Arrange sliced tomatoes over sauce, and top with small chunks of goat cheese."
+        },
+        {
+            "text": "Bake for 15 minutes, or until crust is golden brown."
+        }
+    ]
+}

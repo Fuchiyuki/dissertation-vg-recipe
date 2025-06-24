@@ -1,0 +1,139 @@
+{
+    "title": "quesadilla_pizzas",
+    "id": "dcfe992325",
+    "table": [
+        {
+            "instructions": "preheat oven to 45",
+            "input": "NA",
+            "actions": "preheat",
+            "output": "NA"
+        },
+        {
+            "instructions": "place 4 tortillas on baking sheet .",
+            "input": "tortillas",
+            "actions": "place",
+            "output": "tortillas"
+        },
+        {
+            "instructions": "sprinkle cheddar_cheese evenly over tortillas ;",
+            "input": "(cheddar cheese; tortillas)",
+            "actions": "sprinkle",
+            "output": "cheesy tortillas"
+        },
+        {
+            "instructions": "top with remaining tortillas .",
+            "input": "(remaining tortillas; cheesy tortillas)",
+            "actions": "top",
+            "output": "cheesy tortillas"
+        },
+        {
+            "instructions": "brush lightly with oil .",
+            "input": "(oil; cheesy tortillas)",
+            "actions": "brush",
+            "output": "oiled cheesy tortillas"
+        },
+        {
+            "instructions": "bake for 4 minutes .",
+            "input": "uncooked tortilla",
+            "actions": "bake",
+            "output": "baked tortillas"
+        },
+        {
+            "instructions": "combine pizza_sauce and cumin in small bowl ;",
+            "input": "(pizza sauce; cumin)",
+            "actions": "combine",
+            "output": "sauce mixture"
+        },
+        {
+            "instructions": "spread on tortillas .",
+            "input": "(sauce mixture; baked tortillas )",
+            "actions": "spread",
+            "output": "sauce mixture spread on tortillas"
+        },
+        {
+            "instructions": "spoon beans evenly over sauce mixture ;",
+            "input": "(beans; sauce mixture spread on tortillas)",
+            "actions": "spoon",
+            "output": "beans spooned over tortillas"
+        },
+        {
+            "instructions": "sprinkle with chiles , green_onion , monterey_jack cheese and olives .",
+            "input": "(chiles; green_onion; monterey_jack cheese; olives; tortillas with cheese and beans)",
+            "actions": "sprinkle",
+            "output": "quesadillas with chiles , green_onion , monterey_jack cheese and olives"
+        },
+        {
+            "instructions": "bake for 3 minutes or until cheese is melted .",
+            "input": "uncooked quesadillas",
+            "actions": "bake",
+            "output": "cooked quesadillas pizza"
+        },
+        {
+            "instructions": "cut into wedges .",
+            "input": "cooked quesadillas",
+            "actions": "cut",
+            "output": "cut quesadillas pizza"
+        }
+    ],
+    "ingredients": [
+        {
+            "text": "8 (6 inch) fajita-size low-fat flour tortillas (divided)"
+        },
+        {
+            "text": "1 cup shredded reduced-fat cheddar cheese"
+        },
+        {
+            "text": "1 tablespoon extra virgin olive oil"
+        },
+        {
+            "text": "12 cup pizza sauce"
+        },
+        {
+            "text": "12 teaspoon ground cumin"
+        },
+        {
+            "text": "12 cup fat-free refried beans, warmed"
+        },
+        {
+            "text": "14 cup diced green chilis"
+        },
+        {
+            "text": "2 green onions, thinly sliced"
+        },
+        {
+            "text": "14 cup shredded reduced-fat monterey jack cheese"
+        },
+        {
+            "text": "14 cup sliced ripe olives"
+        }
+    ],
+    "recipe": [
+        {
+            "text": "PREHEAT oven to 450F"
+        },
+        {
+            "text": "PLACE 4 tortillas on baking sheet."
+        },
+        {
+            "text": "Sprinkle cheddar cheese evenly over tortillas; top with remaining tortillas."
+        },
+        {
+            "text": "Brush lightly with oil."
+        },
+        {
+            "text": "BAKE for 4 minutes."
+        },
+        {
+            "text": "Combine pizza sauce and cumin in small bowl; spread on tortillas."
+        },
+        {
+            "text": "Spoon beans evenly over sauce mixture; sprinkle with chiles, green onions, Monterey Jack cheese and olives."
+        },
+        {
+            "text": "BAKE for 3 minutes or until cheese is melted."
+        },
+        {
+            "text": "Cut into wedges."
+        }
+    ]
+}

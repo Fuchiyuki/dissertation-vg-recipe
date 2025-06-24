@@ -1,0 +1,247 @@
+{
+    "title": "pizza_steak",
+    "id": "ad4a97f8fe",
+    "table": [
+        {
+            "instructions": "put the saltines crackers in a large seal bag",
+            "input": "saltine crackers",
+            "action": "put",
+            "output": "saltine crackers"
+        },
+        {
+            "instructions": "roll with a rolling pin until well crushed .",
+            "input": "saltine crackers",
+            "action": "roll",
+            "output": "crushed saltine crackers"
+        },
+        {
+            "instructions": "add 3 tablespoons of grated_parmesan_cheese",
+            "input": "(parmesan cheese; crushed saltine crackers)",
+            "action": "add",
+            "output": "parmesan cheese and crushed saltine crackers mixture"
+        },
+        {
+            "instructions": "mix well in the bag .",
+            "input": "parmesan cheese and crushed saltine crackers mixture",
+            "action": "mix",
+            "output": "parmesan cheese and crushed saltine crackers mixture"
+        },
+        {
+            "instructions": "place crumbs on a plate for breading .",
+            "input": "parmesan cheese and crushed saltine crackers mixture",
+            "action": "place",
+            "output": "parmesan cheese and crushed saltine crackers mixture"
+        },
+        {
+            "instructions": "in a shallow bowl add eggs and milk mix well with a whisk .",
+            "input": "(eggs; milk)",
+            "action": "add",
+            "output": "whisked egg mixture"
+        },
+        {
+            "instructions": "dip each steak in the egg mixture",
+            "input": "(steak; whisked egg mixture)",
+            "action": "dip",
+            "output": "steak dipped into whisked egg mixture"
+        },
+        {
+            "instructions": "place carefully in crumbs",
+            "input": "(parmesan cheese and crushed saltine crackers mixture; steak dipped into whisked egg mixture)",
+            "action": "place",
+            "output": "steak coated with whisked egg mixture dipped into parmesan cheese and crushed saltine crackers mixture"
+        },
+        {
+            "instructions": "turn over to coat well .",
+            "input": "steak coated with whisked egg mixture dipped into parmesan cheese and crushed saltine crackers mixture",
+            "action": "turn",
+            "output": "breaded steak"
+        },
+        {
+            "instructions": "double dip if you want a thicker crust .",
+            "input": "(breaded steak; parmesan cheese and crushed saltine crackers mixture)",
+            "action": "dip",
+            "output": "double breaded steak "
+        },
+        {
+            "instructions": "add oil to a heavy duty fry pan",
+            "input": "oil",
+            "action": "add",
+            "output": "oil"
+        },
+        {
+            "instructions": "heat medium heat until oil is hot but not smoking .",
+            "input": "oil",
+            "action": "heat",
+            "output": "heated oil"
+        },
+        {
+            "instructions": "add each steak",
+            "input": "(breaded steak; heated oil)",
+            "action": "add",
+            "output": "breaded steak into heated oil"
+        },
+        {
+            "instructions": "cook just until each side is golden brown , 3 4 minutes per side .",
+            "input": "breaded steak into heated oil",
+            "action": "cook",
+            "output": "cooked breaded steak"
+        },
+        {
+            "instructions": "move each steak to a 9x13 baking dish .",
+            "input": "cooked breaded steak",
+            "action": "move",
+            "output": "cooked breaded steak"
+        },
+        {
+            "instructions": "remove excess oil from the fry pan",
+            "input": "cooked breaded steak",
+            "action": "remove",
+            "output": "cooked breaded steak without excess fat"
+        },
+        {
+            "instructions": "leave the drippings .",
+            "input": "heated oil with cooked breaded steak drippings",
+            "action": "leave",
+            "output": "heated oil with cooked breaded steak drippings"
+        },
+        {
+            "instructions": "add the tomato_sauce",
+            "input": "(tomato sauce; heated oil with cooked breaded steak drippings)",
+            "action": "add",
+            "output": "tomato sauce into heated oil with cooked breaded steak drippings"
+        },
+        {
+            "instructions": "stir up all the drippings .",
+            "input": "tomato sauce into heated oil with cooked breaded steak drippings",
+            "action": "stir",
+            "output": "tomato sauce and drippings mixture"
+        },
+        {
+            "instructions": "add 12 cup of the parmesan_cheese to the tomato_sauce",
+            "input": "(tomato sauce and drippings mixture; parmesan cheese)",
+            "action": "add",
+            "output": "parmesan cheese added to tomato sauce and drippings mixture"
+        },
+        {
+            "instructions": "simmer for about 5 minutes .",
+            "input": "tomato sauce mixture",
+            "action": "simmer",
+            "output": "simmering tomato sauce mixture"
+        },
+        {
+            "instructions": "cover each steak with mozzarella_cheese",
+            "input": "(cooked breaded steak; mozzarella cheese)",
+            "action": "cover",
+            "output": "cooked breaded steak covered with mozzarella cheese"
+        },
+        {
+            "instructions": "pour the sauce over the top .",
+            "input": "(cooked breaded steak covered with mozzarella cheese; tomato sauce mixture)",
+            "action": "pour",
+            "output": "tomato sauce mixture poured over cooked breaded steak covered with mozzarella cheese"
+        },
+        {
+            "instructions": "cover the pan with foil",
+            "input": "assembled pizza steak",
+            "action": "cover",
+            "output": "covered assembled pizza steak"
+        },
+        {
+            "instructions": "bake for 30 minutes .",
+            "input": "covered pizza steak",
+            "action": "bake",
+            "output": "baked covered pizza steak"
+        },
+        {
+            "instructions": "remove foil",
+            "input": "baked covered pizza steak",
+            "action": "remove",
+            "output": "uncovered baked pizza steak"
+        },
+        {
+            "instructions": "bake another 15 minutes",
+            "input": "uncovered baked pizza steak",
+            "action": "bake",
+            "output": "uncovered baked pizza steak"
+        }
+    ],
+    "ingredients": [
+        {
+            "text": "4 cube steaks"
+        },
+        {
+            "text": "2 eggs"
+        },
+        {
+            "text": "14 cup milk"
+        },
+        {
+            "text": "6 ounces saltine crackers"
+        },
+        {
+            "text": "3 tablespoons parmesan cheese"
+        },
+        {
+            "text": "12 cup parmesan cheese"
+        },
+        {
+            "text": "12 cup canola oil"
+        },
+        {
+            "text": "2 (8 ounce) cans salt-free tomato sauce"
+        },
+        {
+            "text": "4 slices mozzarella cheese (1 oz each)"
+        }
+    ],
+    "recipe": [
+        {
+            "text": "Put the saltines crackers in a large seal bag and roll with a rolling pin until well crushed."
+        },
+        {
+            "text": "Add 3 tablespoons of grated parmesan cheese and mix well in the bag."
+        },
+        {
+            "text": "Place crumbs on a plate for breading."
+        },
+        {
+            "text": "In a shallow bowl add eggs and milk mix well with a whisk."
+        },
+        {
+            "text": "Dip each steak in the egg mixture then place carefully in crumbs and turn over to coat well."
+        },
+        {
+            "text": "Double dip if you want a thicker crust."
+        },
+        {
+            "text": "Add oil to a heavy duty fry pan, heat @ medium heat until oil is hot but not smoking."
+        },
+        {
+            "text": "Add each steak and cook just until each side is golden brown, 3-4 minutes per side."
+        },
+        {
+            "text": "You make need to add additional oil as you cook steaks there should be about 1/4 inch of oil."
+        },
+        {
+            "text": "Move each steak to a 9x13 baking dish."
+        },
+        {
+            "text": "Remove excess oil from the fry pan but leave the drippings."
+        },
+        {
+            "text": "Add the tomato sauce and stir up all the drippings."
+        },
+        {
+            "text": "Add 1/2 cup of the parmesan cheese to the tomato sauce and simmer for about 5 minutes."
+        },
+        {
+            "text": "Cover each steak with mozzarella cheese then pour the sauce over the top."
+        },
+        {
+            "text": "Cover the pan with foil and bake for 30 minutes."
+        },
+        {
+            "text": "Remove foil and bake another 15 minutes or until the sauce is hot."
+        }
+    ]
+}

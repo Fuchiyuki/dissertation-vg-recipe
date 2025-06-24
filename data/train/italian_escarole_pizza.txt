@@ -1,0 +1,97 @@
+{
+    "title": "italian_escarole_pizza",
+    "id": "3d14a144f2",
+    "table": [
+        {
+            "instructions": "preheat oven to 350 degrees f 175 degrees c.",
+            "input": "NA",
+            "actions": "preheat",
+            "output": "NA"
+        },
+        {
+            "instructions": "lightly brush pizza_crust with olive_oil .",
+            "input": "pizza_crust",
+            "actions": "brush",
+            "output": "brushed_pizza_crust_with_olive_oil"
+        },
+        {
+            "instructions": "spread with a thin layer of pizza_sauce ,",
+            "input": "(brushed_pizza_crust_with_olive_oil; pizza_sauce)",
+            "actions": "spread",
+            "output": "spread pizza_sauce on pizza crust"
+        },
+        {
+            "instructions": "sprinkle with minced_garlic .",
+            "input": "(minced_garlic; pizza crust with pizza sauce)",
+            "actions": "sprinkle",
+            "output": "minced_garlic sprinkled on pizza crust with pizza sauce"
+        },
+        {
+            "instructions": "remove thick stems from escarole ,",
+            "input": "escarole",
+            "actions": "remove",
+            "output": "escarole without stems"
+        },
+        {
+            "instructions": "arrange leaves over pizza .",
+            "input": "(escarole leaves; pizza_crust with pizza sauce and minced garlic)",
+            "actions": "arrange",
+            "output": "escarole leaves arranged over pizza crust"
+        },
+        {
+            "instructions": "cover with shredded mozzarella .",
+            "input": "(shredded mozzarella; pizza crust with pizza sauce and escaroles)",
+            "actions": "cover",
+            "output": "shredded mozzarella covered pizza"
+        },
+        {
+            "instructions": "bake in preheated oven for 30 to 35 minutes , or until cheese is bubbly .",
+            "input": "uncooked escarole pizza",
+            "actions": "bake",
+            "output": "baked escarole pizza"
+        }
+    ],
+    "ingredients": [
+        {
+            "text": "1 (12 inch) individual ready made pizza crusts"
+        },
+        {
+            "text": "1 tablespoon olive oil"
+        },
+        {
+            "text": "1 cup pizza sauce"
+        },
+        {
+            "text": "1 clove garlic, minced"
+        },
+        {
+            "text": "5 leaves escarole, rinsed and dried"
+        },
+        {
+            "text": "2 cups shredded mozzarella cheese"
+        },
+        {
+            "text": "salt and pepper to taste"
+        }
+    ],
+    "recipe": [
+        {
+            "text": "Preheat oven to 350 degrees F (175 degrees C)."
+        },
+        {
+            "text": "Lightly brush pizza crust with olive oil."
+        },
+        {
+            "text": "Spread with a thin layer of pizza sauce, and sprinkle with minced garlic."
+        },
+        {
+            "text": "Remove thick stems from escarole, and arrange leaves over pizza."
+        },
+        {
+            "text": "Cover with shredded mozzarella."
+        },
+        {
+            "text": "Bake in preheated oven for 30 to 35 minutes, or until cheese is bubbly."
+        }
+    ]
+}

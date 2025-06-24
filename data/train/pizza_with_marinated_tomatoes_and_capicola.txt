@@ -1,0 +1,145 @@
+{
+    "title": "pizza_with_marinated_tomatoes_and_capicola",
+    "id": "ade18c7124",
+    "table": [
+        {
+            "instructions": "preheat the oven to 50",
+            "input": "NA",
+            "action": "preheat",
+            "output": "NA"
+        },
+        {
+            "instructions": "preheat a pizza stone or generously oil a large baking sheet .",
+            "input": "NA",
+            "action": "preheat",
+            "output": "NA"
+        },
+        {
+            "instructions": "in a small bowl , combine the tomatoes with 2 tablespoons of the olive_oil and the garlic , oregano and crushed_red_pepper .",
+            "input": "(tomatoes; garlic; oregano; crushed_red_pepper; olive_oil)",
+            "action": "combine",
+            "output": "tomato mixture"
+        },
+        {
+            "instructions": "on a lightly floured surface , roll or stretch the dough to a rough 14 inch round .",
+            "input": "pizza dough",
+            "action": "roll",
+            "output": "rolled pizza dough"
+        },
+        {
+            "instructions": "transfer the dough to a floured pizza peel or rimless cookie sheet , or to the oiled baking sheet .",
+            "input": "rolled pizza dough",
+            "action": "transfer",
+            "output": "pizza crust"
+        },
+        {
+            "instructions": "arrange the tomatoes on the pizza in slightly overlapping concentric circles , leaving a 1 inch border of dough .",
+            "input": "(tomato mixture; pizza crust)",
+            "action": "arrange",
+            "output": "tomato mixture arranged over pizza crust"
+        },
+        {
+            "instructions": "brush the border with the remaining 1 teaspoon of olive_oil .",
+            "input": "(olive oil; pizza crust with tomato mixture)",
+            "action": "brush",
+            "output": "pizza crust with tomato mixture brushed with olive oil"
+        },
+        {
+            "instructions": "crumble the goat_cheese over the tomatoes",
+            "input": "(goat cheese; oiled crust wit tomato crust)",
+            "action": "crumble",
+            "output": "oiled crust with tomato mixture and goat cheese"
+        },
+        {
+            "instructions": "spoon any remaining marinade on top",
+            "input": "(remaining tomato mixture marinade; oiled crust with tomato mixture and goat cheese)",
+            "action": "spoon",
+            "output": "oiled crust with tomato mixture, goat cheese and remaining tomato mixture marinade"
+        },
+        {
+            "instructions": "arrange the capicola in concentric circles over all .",
+            "input": "(capicola; oiled crust with tomato mixture, goat cheese and remaining tomato mixture marinade)",
+            "action": "arrange",
+            "output": "capicola circled over oiled crust with tomato mixture, goat cheese and remaining tomato mixture marinade"
+        },
+        {
+            "instructions": "slide the pizza onto the hot stone , if using ,",
+            "input": "uncooked pizza_with_marinated_tomatoes_and_capicola",
+            "action": "slide",
+            "output": "uncooked pizza_with_marinated_tomatoes_and_capicola"
+        },
+        {
+            "instructions": "bake for about 10 minutes on the stone or 16 minutes on the baking sheet , until the crust is golden and the capicola is sizzling .",
+            "input": "uncooked pizza_with_marinated_tomatoes_and_capicola",
+            "action": "bake",
+            "output": "baked pizza_with_marinated_tomatoes_and_capicola"
+        },
+        {
+            "instructions": "transfer the pizza to a rack",
+            "input": "baked pizza_with_marinated_tomatoes_and_capicola",
+            "action": "transfer",
+            "output": "baked pizza_with_marinated_tomatoes_and_capicola"
+        }
+    ],
+    "ingredients": [
+        {
+            "text": "One 28-ounce can Italian peeled tomatoesdrained, tomatoes quartered lengthwise, seeded and patted dry"
+        },
+        {
+            "text": "2 tablespoons plus 1 teaspoon extra-virgin olive oil"
+        },
+        {
+            "text": "1 teaspoon minced garlic"
+        },
+        {
+            "text": "1/2 teaspoon dried oregano, crumbled"
+        },
+        {
+            "text": "1/4 teaspoon crushed red pepper"
+        },
+        {
+            "text": "1 pound pizza dough, at room temperature"
+        },
+        {
+            "text": "5 ounces mild goat cheese"
+        },
+        {
+            "text": "2 ounces thinly sliced capicola"
+        }
+    ],
+    "recipe": [
+        {
+            "text": "Preheat the oven to 500."
+        },
+        {
+            "text": "Preheat a pizza stone or generously oil a large baking sheet."
+        },
+        {
+            "text": "In a small bowl, combine the tomatoes with 2 tablespoons of the olive oil and the garlic, oregano and crushed red pepper."
+        },
+        {
+            "text": "Let stand for 15 minutes."
+        },
+        {
+            "text": "On a lightly floured surface, roll or stretch the dough to a rough 14-inch round."
+        },
+        {
+            "text": "Transfer the dough to a floured pizza peel or rimless cookie sheet, or to the oiled baking sheet."
+        },
+        {
+            "text": "Arrange the tomatoes on the pizza in slightly overlapping concentric circles, leaving a 1-inch border of dough."
+        },
+        {
+            "text": "Brush the border with the remaining 1 teaspoon of olive oil."
+        },
+        {
+            "text": "Crumble the goat cheese over the tomatoes, spoon any remaining marinade on top and arrange the capicola in concentric circles over all."
+        },
+        {
+            "text": "Slide the pizza onto the hot stone, if using, and bake for about 10 minutes on the stone or 16 minutes on the baking sheet, until the crust is golden and the capicola is sizzling."
+        },
+        {
+            "text": "Transfer the pizza to a rack and let cool slightly before serving."
+        }
+    ]
+}

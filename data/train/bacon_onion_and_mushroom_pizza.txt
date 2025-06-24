@@ -1,0 +1,196 @@
+{
+    "title": "bacon_onion_and_mushroom_pizza",
+    "id": "6f5819bd9a",
+    "table": [
+        {
+            "instructions": "beginning at seam , gently unroll dough into a rectangle on a lightly floured surface .",
+            "input": "dough",
+            "actions": "unroll",
+            "output": "unrolled_dough"
+        },
+        {
+            "instructions": "stretch dough into a 12 inch circle on a lightly floured surface ;",
+            "input": "dough",
+            "actions": "stretch",
+            "output": "stretched_dough"
+        },
+        {
+            "instructions": "transfer to a round pizza\u2012pan or large baking sheet sprinkled with cornmeal .",
+            "input": "stretched_dough",
+            "actions": "transfer",
+            "output": "stretched_dough"
+        },
+        {
+            "instructions": "preheat oven to 425 .",
+            "input": "NA",
+            "actions": "preheat",
+            "output": "NA"
+        },
+        {
+            "instructions": "heat a large nonstick skillet over medium high heat .",
+            "input": "NA",
+            "actions": "heat",
+            "output": "NA"
+        },
+        {
+            "instructions": "add olive_oil to pan ;",
+            "input": "olive_oil",
+            "actions": "add",
+            "output": "heated olive_oil"
+        },
+        {
+            "instructions": "swirl to coat .",
+            "input": "heated olive_oil",
+            "actions": "swirl",
+            "output": "heated olive_oil"
+        },
+        {
+            "instructions": "add onion ;",
+            "input": "(heated olive_oil; onion)",
+            "actions": "add",
+            "output": "onion_in_heated olive_oil"
+        },
+        {
+            "instructions": "saute 8 minutes , stirring occasionally .",
+            "input": "onion_in_heated olive_oil",
+            "actions": "saute",
+            "output": "sauteed_onion"
+        },
+        {
+            "instructions": "place chopped_onion in a bowl .",
+            "input": "sauteed_onion",
+            "actions": "place",
+            "output": "sauteed_onion"
+        },
+        {
+            "instructions": "add cremini_mushroom to pan ;",
+            "input": "cremini_mushroom",
+            "actions": "add",
+            "output": "cremini_mushroom"
+        },
+        {
+            "instructions": "saute 8 minutes or until liquid almost evaporates .",
+            "input": "cremini_mushroom",
+            "actions": "saute",
+            "output": "sauteed_mushrooms"
+        },
+        {
+            "instructions": "add mushrooms to onion mixture ;",
+            "input": "(sauted_mushrooms; sauteed_onion)",
+            "actions": "add",
+            "output": "mushroom_mixture"
+        },
+        {
+            "instructions": "toss .",
+            "input": "mushroom_mixture",
+            "actions": "toss",
+            "output": "tossed_mushroom_mixture"
+        },
+        {
+            "instructions": "spread onion mixture evenly over prepared dough , leaving a 14 inch border .",
+            "input": "(onion mixture; prepared_dough)",
+            "actions": "spread",
+            "output": "onion mixture spread over_dough"
+        },
+        {
+            "instructions": "sprinkle evenly with white_cheddar_cheese and bacon .",
+            "input": "(onion mixture spread over_dough; white_cheddar_cheese; bacon )",
+            "actions": "sprinkle",
+            "output": "uncooked_bacon_onion_and_mushroom_pizza"
+        },
+        {
+            "instructions": "bake at 425 for 15 minutes or until crust is lightly browned .",
+            "input": "uncooked_bacon_onion_and_mushroom_pizza",
+            "actions": "bake",
+            "output": "baked_bacon_onion_and_mushroom_pizza"
+        },
+        {
+            "instructions": "sprinkle with parsley .",
+            "input": "baked_bacon_onion_and_mushroom_pizza",
+            "actions": "sprinkle",
+            "output": "sprinkled parsley over_baked_pizza"
+        },
+        {
+            "instructions": "cut into 12 wedges .",
+            "input": "sprinkled_baked_pizza",
+            "actions": "cut",
+            "output": "cut_pizza"
+        }
+    ],
+    "ingredients": [
+        {
+            "text": "1 (11-ounce) can refrigerated French bread dough"
+        },
+        {
+            "text": "2 teaspoons yellow cornmeal"
+        },
+        {
+            "text": "1 tablespoon olive oil, divided"
+        },
+        {
+            "text": "2 cups vertically sliced onion (about 2 small)"
+        },
+        {
+            "text": "1 (8-ounce) package presliced cremini mushrooms"
+        },
+        {
+            "text": "3/4 cup (3 ounces) shredded white cheddar cheese"
+        },
+        {
+            "text": "6 bacon slices, cooked and coarsely crumbled"
+        },
+        {
+            "text": "1/4 cup finely chopped fresh flat-leaf parsley"
+        }
+    ],
+    "recipe": [
+        {
+            "text": "1."
+        },
+        {
+            "text": "Find lengthwise seam in dough."
+        },
+        {
+            "text": "Beginning at seam, gently unroll dough into a rectangle on a lightly floured surface."
+        },
+        {
+            "text": "Stretch dough into a 12-inch circle on a lightly floured surface; transfer to a round pizza pan or large baking sheet sprinkled with cornmeal.2."
+        },
+        {
+            "text": "Preheat oven to 425.3."
+        },
+        {
+            "text": "Heat a large nonstick skillet over medium-high heat."
+        },
+        {
+            "text": "Add olive oil to pan; swirl to coat."
+        },
+        {
+            "text": "Add onion; saute 8 minutes, stirring occasionally."
+        },
+        {
+            "text": "Place chopped onion in a bowl."
+        },
+        {
+            "text": "Add cremini mushrooms to pan; saute 8 minutes or until liquid almost evaporates."
+        },
+        {
+            "text": "Add mushrooms to onion mixture; toss."
+        },
+        {
+            "text": "Spread onion mixture evenly over prepared dough, leaving a 1/4-inch border."
+        },
+        {
+            "text": "Sprinkle evenly with white cheddar cheese and bacon."
+        },
+        {
+            "text": "Bake at 425 for 15 minutes or until crust is lightly browned."
+        },
+        {
+            "text": "Sprinkle with parsley."
+        },
+        {
+            "text": "Cut into 12 wedges."
+        }
+    ]
+}

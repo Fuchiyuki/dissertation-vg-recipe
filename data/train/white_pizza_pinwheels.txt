@@ -1,0 +1,130 @@
+{
+    "title": "white_pizza_pinwheels",
+    "id": "56ce7012a9",
+    "table": [
+        {
+            "instructions": "preheat oven to 350 degrees .",
+            "input": "NA",
+            "action": "preheat",
+            "output": "NA"
+        },
+        {
+            "instructions": "grease two cookie sheets .",
+            "input": "NA",
+            "action": "grease",
+            "output": "NA"
+        },
+        {
+            "instructions": "unroll crescent_roll",
+            "input": "crescent_roll",
+            "action": "unroll",
+            "output": "unrolled_crescent_roll"
+        },
+        {
+            "instructions": "do not separate them ,",
+            "input": "NA",
+            "action": "separate",
+            "output": "NA"
+        },
+        {
+            "instructions": "press perforations together to make one large rectangle .",
+            "input": "unrolled_crescent_roll",
+            "action": "press",
+            "output": "unrolled and perforated crescent_roll"
+        },
+        {
+            "instructions": "mix filling ingredients together in a large bowl",
+            "input": "(cream cheese; alfredo sauce; chopped mushrooms; green onion; garlic powder; shredded mozzarella cheese)",
+            "action": "mix",
+            "output": "pizza filling"
+        },
+        {
+            "instructions": "spread onto each rectangle .",
+            "input": "(pizza filling; crescent roll pizza crust)",
+            "action": "spread",
+            "output": "pizza filling spread on crescent roll pizza crust"
+        },
+        {
+            "instructions": "roll up like a jelly",
+            "input": "pizza filling spread on crescent roll pizza crust",
+            "action": "roll",
+            "output": "rolled filled crescent roll pizza crust"
+        },
+        {
+            "instructions": "roll",
+            "input": "rolled filled crescent roll pizza crust",
+            "action": "roll",
+            "output": "rolled filled crescent roll pizza crust"
+        },
+        {
+            "instructions": "place in freezer for 15 minutes for easier slicing .",
+            "input": "rolled filled crescent roll pizza crust",
+            "action": "place",
+            "output": "frozen_filled pizza roll"
+        },
+        {
+            "instructions": "cut into 2 inch slices",
+            "input": "frozen_filled pizza roll",
+            "action": "cut",
+            "output": "cut frozen_pizza pinwheels"
+        },
+        {
+            "instructions": "place pinwheels cut side down onto baking sheets two inches apart .",
+            "input": "cut frozen_pizza pinwheels",
+            "action": "place",
+            "output": "cut frozen_pizza pinwheels"
+        },
+        {
+            "instructions": "bake about 20 minutes or until golden brown .",
+            "input": "uncooked cut frozen_pizza pinwheels",
+            "action": "bake",
+            "output": "baked_pizza pinwheels"
+        }
+    ],
+    "ingredients": [
+        {
+            "text": "2 (8 ounce) cans refrigerated crescent dinner rolls"
+        },
+        {
+            "text": "1 (8 ounce) package cream cheese"
+        },
+        {
+            "text": "14 cup prepared alfredo sauce"
+        },
+        {
+            "text": "12 cup chopped fresh mushrooms"
+        },
+        {
+            "text": "12 cup chopped green onion"
+        },
+        {
+            "text": "2 tablespoons garlic powder"
+        },
+        {
+            "text": "1 cup shredded mozzarella cheese"
+        }
+    ],
+    "recipe": [
+        {
+            "text": "Preheat oven to 350 degrees."
+        },
+        {
+            "text": "Grease two cookie sheets."
+        },
+        {
+            "text": "Unroll crescent rolls, do not separate them, and press perforations together to make one large rectangle."
+        },
+        {
+            "text": "Mix filling ingredients together in a large bowl and spread onto each rectangle."
+        },
+        {
+            "text": "Roll up like a jelly roll and place in freezer for 15 minutes for easier slicing."
+        },
+        {
+            "text": "Cut into 2 inch slices and place pinwheels cut side down onto baking sheets two inches apart."
+        },
+        {
+            "text": "Bake about 20 minutes or until golden brown."
+        }
+    ]
+}

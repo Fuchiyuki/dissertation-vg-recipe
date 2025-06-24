@@ -1,0 +1,142 @@
+{
+    "title": "4_layer_pizza_dip",
+    "id": "9c174116e0",
+    "table": [
+        {
+            "instructions": "preheat oven to 35",
+            "input": "NA",
+            "action": "preheat",
+            "output": "NA"
+        },
+        {
+            "instructions": "in a blender combine tomatoes , garlic , onion , italian seasoning_salt , and pepper .",
+            "input": "(tomatoes; garlic; onion; seasoning_salt; pepper)",
+            "action": "combine",
+            "output": "tomato mixture"
+        },
+        {
+            "instructions": "blend until pureed .",
+            "input": "tomato mixture",
+            "action": "blend",
+            "output": "blended pizza sauce"
+        },
+        {
+            "instructions": "set pizza_sauce aside .",
+            "input": "blended pizza sauce",
+            "action": "set",
+            "output": "blended pizza sauce"
+        },
+        {
+            "instructions": "in a medium bowl , combine cream_cheese , sour_cream and 2 ounces of shredded_cheese .",
+            "input": "(cream cheese; sour cream; shredded cheese)",
+            "action": "combine",
+            "output": "cheese mixture"
+        },
+        {
+            "instructions": "mix well until well combined .",
+            "input": "cheese mixture",
+            "action": "mix",
+            "output": "cheese mixture"
+        },
+        {
+            "instructions": "spread cream_cheese mixture in an even layer over baking dish pie plate or 8x8 works .",
+            "input": "cheese mixture",
+            "action": "spread",
+            "output": "baking dish with layer of cheese mixture"
+        },
+        {
+            "instructions": "pour blended pizza_sauce tomato mixture over cream_cheese mixture",
+            "input": "(blended pizza sauce; baking dish with layer of cheese mixture)",
+            "action": "pour",
+            "output": "baking dish with cheese mixture topped by pizza sauce"
+        },
+        {
+            "instructions": "sprinkle remaining shredded_cheese over pizza_sauce .",
+            "input": "(shredded cheese; baking dish with cheese mixture topped by pizza sauce)",
+            "action": "sprinkle",
+            "output": "baking dish with cheese mixture, pizza sauce, and shredded cheese topping"
+        },
+        {
+            "instructions": "top pizza dip with bacon and pepperoni .",
+            "input": "(bacon; pepperoni; baking dish with cheese mixture, pizza sauce, and shredded cheese topping)",
+            "action": "top",
+            "output": "uncooked pizza dip topped with bacon and pepperoni"
+        },
+        {
+            "instructions": "bake for 20 25 minutes , until cheese is browned and bubbly .",
+            "input": "uncooked pizza dip topped with bacon and pepperoni",
+            "action": "bake",
+            "output": "baked pizza dip"
+        }
+    ],
+    "ingredients": [
+        {
+            "text": "8 ounces fat free cream cheese (room temperature)"
+        },
+        {
+            "text": "12 cup fat free sour cream"
+        },
+        {
+            "text": "8 ounces mozzarella cheese, finely shredded and divided (or any kind of cheese you like)"
+        },
+        {
+            "text": "14 12 ounces diced tomatoes"
+        },
+        {
+            "text": "14 teaspoon garlic powder"
+        },
+        {
+            "text": "14 teaspoon onion powder"
+        },
+        {
+            "text": "1 tablespoon italian seasoning"
+        },
+        {
+            "text": "12 teaspoon kosher salt"
+        },
+        {
+            "text": "12 teaspoon pepper"
+        },
+        {
+            "text": "12 slices pepperoni"
+        },
+        {
+            "text": "4 slices cooked bacon, chopped (or 1/4 cup real bacon pieces)"
+        }
+    ],
+    "recipe": [
+        {
+            "text": "Preheat oven to 350."
+        },
+        {
+            "text": "In a blender combine tomatoes, garlic, onion, Italian seasoning, salt, and pepper."
+        },
+        {
+            "text": "Blend until pureed."
+        },
+        {
+            "text": "Set pizza sauce aside."
+        },
+        {
+            "text": "In a medium bowl, combine cream cheese, sour cream and 2 ounces of shredded cheese."
+        },
+        {
+            "text": "Mix well until well combined."
+        },
+        {
+            "text": "Spread cream cheese mixture in an even layer over baking dish (pie plate or 8x8 works)."
+        },
+        {
+            "text": "Pour blended pizza sauce (tomato mixture) over cream cheese mixture and evenly distribute with spatula."
+        },
+        {
+            "text": "Sprinkle remaining shredded cheese over pizza sauce."
+        },
+        {
+            "text": "Top pizza dip with bacon and pepperoni."
+        },
+        {
+            "text": "Bake for 20-25 minutes, until cheese is browned and bubbly."
+        }
+    ]
+}

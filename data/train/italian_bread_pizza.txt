@@ -1,0 +1,217 @@
+{
+    "title": "italian_bread_pizza",
+    "id": "eb545c31c1",
+    "table": [
+        {
+            "instructions": "heat 2 tablespoons of oil over medium high heat in a heavy skillet .",
+            "input": "oil",
+            "actions": "heat",
+            "output": "heated_oil"
+        },
+        {
+            "instructions": "add sausages",
+            "input": "(heated_oil; sausages)",
+            "actions": "add",
+            "output": "sausages in heated oil"
+        },
+        {
+            "instructions": "brown them on all sides .",
+            "input": "sausages in heated oil",
+            "actions": "brown",
+            "output": "browned sausages"
+        },
+        {
+            "instructions": "then add enough water into the skillet to just cover the sausages .",
+            "input": "(browned sausages; water)",
+            "actions": "add",
+            "output": "browned sausages covered with water"
+        },
+        {
+            "instructions": "then turn heat to medium low",
+            "input": "browned sausages and water",
+            "actions": "turn",
+            "output": "simmering browned sausages covered with water"
+        },
+        {
+            "instructions": "simmer , covered , until cooked through 30 40 minutes .",
+            "input": "simmering browned sausages covered with water",
+            "actions": "simmer",
+            "output": "cooked sausages"
+        },
+        {
+            "instructions": "preheat your ovens broiler .",
+            "input": "NA",
+            "actions": "preheat",
+            "output": "NA"
+        },
+        {
+            "instructions": "slice the bread in half lengthwise ,",
+            "input": "bread",
+            "actions": "slice",
+            "output": "bread sliced lengthwise"
+        },
+        {
+            "instructions": "scoop out all but a 12 inch of the inside save the insides for another recipe or to make breadcrumbs .",
+            "input": "bread sliced lengthwise",
+            "actions": "scoop",
+            "output": "(hollowed bread; breadcrumbs)"
+        },
+        {
+            "instructions": "drizzle each half lightly with olive_oil",
+            "input": "olive oil",
+            "actions": "drizzle",
+            "output": "bread drizzled with olive oil"
+        },
+        {
+            "instructions": "put the bread on a sheet pan",
+            "input": "bread",
+            "actions": "put",
+            "output": "bread"
+        },
+        {
+            "instructions": "toast under the broiler until lightly browned .",
+            "input": "brea",
+            "actions": "toast",
+            "output": "lightly browned bread"
+        },
+        {
+            "instructions": "then remove it from the oven",
+            "input": "lightly browned bread",
+            "actions": "remove",
+            "output": "lightly browned bread"
+        },
+        {
+            "instructions": "set aside .",
+            "input": "lightly browned bread",
+            "actions": "set",
+            "output": "lightly browned bread"
+        },
+        {
+            "instructions": "turn the oven down to 400 f .",
+            "input": "NA",
+            "actions": "turn",
+            "output": "NA"
+        },
+        {
+            "instructions": "when the sausage is cooked , remove it from the skillet",
+            "input": "cooked sausages",
+            "actions": "remove",
+            "output": "cooked sausages"
+        },
+        {
+            "instructions": "dice it .",
+            "input": "cooked sausage",
+            "actions": "dice",
+            "output": "diced cooked sausage"
+        },
+        {
+            "instructions": "put it into a bowl",
+            "input": "diced cooked sausage",
+            "actions": "put",
+            "output": "diced cooked sausage"
+        },
+        {
+            "instructions": "add the tomato seeded",
+            "input": "(diced cooked sausage; tomato seed)",
+            "actions": "add",
+            "output": "added seeded tomato to diced cooked sausage"
+        },
+        {
+            "instructions": "salt",
+            "input": "seeded tomato and diced sausage mixture",
+            "actions": "salt",
+            "output": "salted seeded tomato and diced sausage mixture"
+        },
+        {
+            "instructions": "pepper to taste ,",
+            "input": "(pepper; seeded tomato and diced sausage mixture)",
+            "actions": "pepper",
+            "output": "peppered tomato and diced sausage mixture"
+        },
+        {
+            "instructions": "fill each half of the bread with the mixture .",
+            "input": "(toasted bread; tomato and diced sausage mixture)",
+            "actions": "fill",
+            "output": "half bread filled with sausage mixture"
+        },
+        {
+            "instructions": "bake for 15 minutes , or until bubbly .",
+            "input": "bread with sausage mixture",
+            "actions": "bake",
+            "output": "baked bread pizza"
+        }
+    ],
+    "ingredients": [
+        {
+            "text": "2 Tablespoons Olive Oil, Plus Extra For Drizzling"
+        },
+        {
+            "text": "1 pound Sweet Italian Sausage Links"
+        },
+        {
+            "text": "1 loaf Crusty Italian Bread"
+        },
+        {
+            "text": "1 whole Medium Tomato Seeded And Diced"
+        },
+        {
+            "text": "1 cup Mozzarella Cheese, Cubed"
+        },
+        {
+            "text": "1/2 cups Swiss Cheese, Cubed"
+        },
+        {
+            "text": "1/2 cups Romano (or Parmesan) Cheese, Shredded"
+        },
+        {
+            "text": "2 cloves Garlic, Diced"
+        },
+        {
+            "text": "1/2 cups Pizza Sauce, Optional"
+        },
+        {
+            "text": "Salt And Pepper, to taste"
+        }
+    ],
+    "recipe": [
+        {
+            "text": "Heat 2 tablespoons of oil over medium-high heat in a heavy skillet."
+        },
+        {
+            "text": "Add sausages and brown them on all sides."
+        },
+        {
+            "text": "Then add enough water into the skillet to just cover the sausages."
+        },
+        {
+            "text": "Then turn heat to medium-low and simmer, covered, until cooked through (30-40 minutes)."
+        },
+        {
+            "text": "Preheat your ovens broiler."
+        },
+        {
+            "text": "Slice the bread in half lengthwise, and scoop out all but a 1/2 inch of the inside (save the insides for another recipe or to make breadcrumbs)."
+        },
+        {
+            "text": "Drizzle each half lightly with olive oil, put the bread on a sheet pan and toast under the broiler until lightly browned."
+        },
+        {
+            "text": "Then remove it from the oven and set aside."
+        },
+        {
+            "text": "Turn the oven down to 400 F."
+        },
+        {
+            "text": "When the sausage is cooked, remove it from the skillet and dice it."
+        },
+        {
+            "text": "Put it into a bowl and add the tomato (seeded and diced), cheeses (cubed/shredded), garlic (diced), and if desired the pizza sauce."
+        },
+        {
+            "text": "Salt and pepper to taste, and fill each half of the bread with the mixture."
+        },
+        {
+            "text": "Bake for 15 minutes, or until bubbly."
+        }
+    ]
+}

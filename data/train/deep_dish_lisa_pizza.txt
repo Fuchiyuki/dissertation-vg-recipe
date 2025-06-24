@@ -1,0 +1,205 @@
+{
+    "title": "deep_dish_lisa_pizza",
+    "id": "41b098c1a6",
+    "table": [
+        {
+            "instructions": "heat a pizza stone in a 425 f oven for one hour before use .",
+            "input": "NA",
+            "actions": "heat",
+            "output": "NA"
+        },
+        {
+            "instructions": "peel",
+            "input": "NA",
+            "actions": "peel",
+            "output": "NA"
+        },
+        {
+            "instructions": "slice all garlic_clove",
+            "input": "garlic_clove",
+            "actions": "slice",
+            "output": "sliced_garlic_clove"
+        },
+        {
+            "instructions": "place in olive_oil to perfume it .",
+            "input": "(sliced_garlic_clove; olive_oil)",
+            "actions": "place",
+            "output": "garlic infused olive oil"
+        },
+        {
+            "instructions": "brush rimmed baking sheet with some olive_oil to coat .",
+            "input": "garlic infused olive oil",
+            "actions": "brush",
+            "output": "garlic infused olive oil"
+        },
+        {
+            "instructions": "after pizza_dough has rested 30 minutes , per recipe , punch down",
+            "input": "risen pizza dough",
+            "actions": "punch",
+            "output": "puched down pizza dough"
+        },
+        {
+            "instructions": "dump into baking sheet .",
+            "input": "puched down pizza dough",
+            "actions": "dump",
+            "output": "puched down pizza dough"
+        },
+        {
+            "instructions": "stretch push dough to fill sheet , with edges being a bit higher for crust .",
+            "input": "puched down pizza dough",
+            "actions": "stretch",
+            "output": "stretched pizza crust"
+        },
+        {
+            "instructions": "brush with olive_oil",
+            "input": "(garlic infused olive oil; stretched pizza crust)",
+            "actions": "brush",
+            "output": "stretched pizza crust brushed with garlic infused olive oil"
+        },
+        {
+            "instructions": "spread garlic over dough , leaving 34 inch , crust .",
+            "input": "(garlic; pizza_crust)",
+            "actions": "spread",
+            "output": "garlic psread on pizza crust"
+        },
+        {
+            "instructions": "bake for 7 10 minutes , until very light tan brown .",
+            "input": "uncooked pizza crust",
+            "actions": "bake",
+            "output": "baked pizza crust"
+        },
+        {
+            "instructions": "remove from oven",
+            "input": "baked pizza crust",
+            "actions": "remove",
+            "output": "baked pizza crust"
+        },
+        {
+            "instructions": "spread a layer of crushed chopped_tomato .",
+            "input": "(baked pizza crust; crushed chopped tomato)",
+            "actions": "spread",
+            "output": "crushed chopped_tomato spread over baked pizza crust"
+        },
+        {
+            "instructions": "add the rest of the ingredients in any order that appeals to you !",
+            "input": "(remaining ingredients; baked pizza crust with tomato)",
+            "actions": "add",
+            "output": "remaining ingredients added to baked pizza crust with tomato"
+        },
+        {
+            "instructions": "i usually drizzle a bit more olive_oil over the whole thing again ,",
+            "input": "(uncooked pizza; olive oil)",
+            "actions": "drizzle",
+            "output": "olive oil drizzled over uncooked pizza"
+        },
+        {
+            "instructions": "brush the crust a bit more .",
+            "input": "(uncooked pizza; olive oil)",
+            "actions": "brush",
+            "output": "brushed pizza with olive oil"
+        },
+        {
+            "instructions": "place baking sheet back on pizza stone for another 12 16 minutes , until the crust is a nice golden brown",
+            "input": "uncooked pizza",
+            "actions": "place",
+            "output": "cooked pizza"
+        },
+        {
+            "instructions": "remove from oven ,",
+            "input": "cooked pizza",
+            "actions": "remove",
+            "output": "cooked pizza"
+        },
+        {
+            "instructions": "slide pizza from baking sheet to a cutting board .",
+            "input": "cooked pizza",
+            "actions": "slide",
+            "output": "cooked pizza"
+        }
+    ],
+    "ingredients": [
+        {
+            "text": "sicilian pizza dough (Sicilian Pizza Dough)"
+        },
+        {
+            "text": "1 can roasted chopped tomato"
+        },
+        {
+            "text": "1 jar roasted red pepper"
+        },
+        {
+            "text": "1 head garlic"
+        },
+        {
+            "text": "14-12 cup extra virgin olive oil"
+        },
+        {
+            "text": "1 can sliced black olives"
+        },
+        {
+            "text": "6 ounces feta cheese"
+        },
+        {
+            "text": "5 thinly sliced mushrooms"
+        },
+        {
+            "text": "1 cup fresh spinach, leaves cut in half"
+        },
+        {
+            "text": "12 cup fresh basil, shredded"
+        },
+        {
+            "text": "2 -3 tablespoons pine nuts"
+        },
+        {
+            "text": "salt and pepper"
+        }
+    ],
+    "recipe": [
+        {
+            "text": "Heat a pizza stone in a 425 F oven for one hour before use."
+        },
+        {
+            "text": "Peel and slice all garlic cloves and place in olive oil to perfume it."
+        },
+        {
+            "text": "This is the oil you will use for the rest of the recipe."
+        },
+        {
+            "text": "Brush rimmed baking sheet with some olive oil to coat."
+        },
+        {
+            "text": "After pizza dough has rested 30 minutes, per recipe, punch down and dump into baking sheet."
+        },
+        {
+            "text": "With oiled fingers, dimple and stretch/push dough to fill sheet, with edges being a bit higher for crust."
+        },
+        {
+            "text": "Brush with olive oil and spread garlic over dough, leaving 3/4 inch crust."
+        },
+        {
+            "text": "(you should have a fair amount of oil left) Place baking sheet on pizza stone and bake for 7-10 minutes, until very light tan/brown."
+        },
+        {
+            "text": "Remove from oven and spread a layer of crushed/chopped tomatoes."
+        },
+        {
+            "text": "Add the rest of the ingredients in any order that appeals to you!"
+        },
+        {
+            "text": "That's the best part of pizza- you can add to, delete and embelish any way you want."
+        },
+        {
+            "text": "I usually drizzle a bit more olive oil over the whole thing again, and brush the crust a bit more."
+        },
+        {
+            "text": "Place baking sheet back on pizza stone for another 12-16 minutes, until the crust is a nice golden brown and it smells wonderful!"
+        },
+        {
+            "text": "Remove from oven, and slide pizza from baking sheet to a cutting board."
+        },
+        {
+            "text": "Enjoy!"
+        }
+    ]
+}

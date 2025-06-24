@@ -1,0 +1,73 @@
+{
+    "title": "bbq_shrimp_pizza",
+    "id": "e7421f50ae",
+    "table": [
+        {
+            "instructions": "preheat oven to 325 f .",
+            "input": "NA",
+            "action": "preheat",
+            "output": "NA"
+        },
+        {
+            "instructions": "in small mixing bowl combine shrimp and bbq_sauce .",
+            "input": "(shrimp; bbq_sauce)",
+            "action": "combine",
+            "output": "combined_shrimp and bbq_sauce"
+        },
+        {
+            "instructions": "spread evenly over pie_crust .",
+            "input": "(pie_crust; shrimp and barbecue mixture)",
+            "action": "spread",
+            "output": "shrimp and barbecue mixture spread on pie crust"
+        },
+        {
+            "instructions": "place pie_crust on flat baking service",
+            "input": "pie crust with shrimp and barbecue mixture",
+            "action": "place",
+            "output": "pie crust with shrimp and barbecue mixture"
+        },
+        {
+            "instructions": "bake until throughly heated .",
+            "input": "uncooked bbq_shrimp_pizza",
+            "action": "bake",
+            "output": "baked bbq_shrimp_pizza"
+        }
+    ],
+    "ingredients": [
+        {
+            "text": "1 cup of precooked bay shrimp"
+        },
+        {
+            "text": "4 tablespoons barbecue sauce, to taste"
+        },
+        {
+            "text": "4 6 inch prepared pizza crust"
+        },
+        {
+            "text": "cheese (optional)"
+        },
+        {
+            "text": "garlic (optional)"
+        },
+        {
+            "text": "oregano (optional)"
+        }
+    ],
+    "recipe": [
+        {
+            "text": "Preheat oven to 325 F."
+        },
+        {
+            "text": "In small mixing bowl combine shrimp and BBQ sauce."
+        },
+        {
+            "text": "Spread evenly over pie crusts."
+        },
+        {
+            "text": "Place pie crusts on flat baking service and bake until throughly heated."
+        },
+        {
+            "text": "If using cheese it may be added at the beginning or halfway through cooking."
+        }
+    ]
+}

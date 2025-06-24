@@ -1,0 +1,115 @@
+{
+    "title": "grilled_sicilian_pizza",
+    "id": "bf004e81d1",
+    "table": [
+        {
+            "instructions": "top pizza_crust with tomatoes , mozzarella_cheese , and olives .",
+            "input": "(pizza_crust; mozzarella_cheese; olives)",
+            "actions": "top",
+            "output": "pizza_crust_topped_with_mozzarella_cheese, tomatoes and olives"
+        },
+        {
+            "instructions": "drizzle oil over all .",
+            "input": "(oil; uncooked pizza)",
+            "actions": "drizzle",
+            "output": "oil_drizzled_over_uncooked_pizza"
+        },
+        {
+            "instructions": "fold a 24x18 inch piece of heavy foil in half lengthwise .",
+            "input": "NA",
+            "actions": "fold",
+            "output": "NA"
+        },
+        {
+            "instructions": "place pizza on foil , turning edges of foil up to edge of pizza .",
+            "input": "uncooked pizza",
+            "actions": "place",
+            "output": "uncooked pizza"
+        },
+        {
+            "instructions": "in a grill with a cover , arrange preheated coals around a drip pan for indirect grilling .",
+            "input": "NA",
+            "actions": "arrange",
+            "output": "NA"
+        },
+        {
+            "instructions": "place pizza on the grill rack over the drip pan .",
+            "input": "Uncooked pizza",
+            "actions": "place",
+            "output": "Pizza placed on grill rack"
+        },
+        {
+            "instructions": "cover",
+            "input": "Pizza placed on grill rack",
+            "actions": "cover",
+            "output": "covered pizza"
+        },
+        {
+            "instructions": "grill about 8 minutes",
+            "input": "Uncooked pizza",
+            "actions": "grill",
+            "output": "Grilled pizza"
+        },
+        {
+            "instructions": "to serve, sprinkle parmesan_cheese and freshly ground_black_pepper over pizza .",
+            "input": "(parmesan cheese; ground black pepper, grilled pizza)",
+            "actions": "sprinkle",
+            "output": "Sprinkled parmesan cheese and black pepper on grilled pizza"
+        }
+    ],
+    "ingredients": [
+        {
+            "text": "16 ounces italian prepared pizza crust (Boboli is good)"
+        },
+        {
+            "text": "2 plum tomatoes, thinly sliced"
+        },
+        {
+            "text": "1 large tomatoes, thinly sliced (or yellow)"
+        },
+        {
+            "text": "4 ounces fresh mozzarella cheese, thinly sliced"
+        },
+        {
+            "text": "13 cup kalamata olive, pitted, halved"
+        },
+        {
+            "text": "1 tablespoon olive oil"
+        },
+        {
+            "text": "1 cup coarsely chopped escarole (or curly endive)"
+        },
+        {
+            "text": "14 cup shredded parmesan cheese (1 ounce) or 14 cup pecorino romano cheese (1 ounce)"
+        }
+    ],
+    "recipe": [
+        {
+            "text": "Top pizza crust with tomatoes, mozzarella cheese, and olives."
+        },
+        {
+            "text": "Drizzle oil over all."
+        },
+        {
+            "text": "Fold a 24x18-inch piece of heavy foil in half lengthwise."
+        },
+        {
+            "text": "Place pizza on foil, turning edges of foil up to edge of pizza."
+        },
+        {
+            "text": "In a grill (with a cover), arrange preheated coals around a drip pan for indirect grilling."
+        },
+        {
+            "text": "Test for medium heat above pan."
+        },
+        {
+            "text": "Place pizza on the grill rack over the drip pan."
+        },
+        {
+            "text": "Cover and grill about 8 minutes or until pizza is heated through, topping with escarole the last 2 minutes of grilling."
+        },
+        {
+            "text": "To serve, sprinkle Parmesan cheese and freshly ground black pepper over pizza."
+        }
+    ]
+}

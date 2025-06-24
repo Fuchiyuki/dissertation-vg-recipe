@@ -1,0 +1,103 @@
+{
+    "title": "ww_breakfast_pizza",
+    "id": "e25f6f9748",
+    "table": [
+        {
+            "instructions": "preheat oven to 350 degrees .",
+            "input": "NA",
+            "action": "preheat",
+            "output": "NA"
+        },
+        {
+            "instructions": "place dough for 5 biscuits on a baking sheet coated with cooking_spray .",
+            "input": "dough",
+            "action": "place",
+            "output": "dough"
+        },
+        {
+            "instructions": "flatten into 3 or 4 rounds .",
+            "input": "dough",
+            "action": "flatten",
+            "output": "flattened_dough"
+        },
+        {
+            "instructions": "bake 8 10 min or golden",
+            "input": "uncooked_flattened_dough",
+            "action": "bake",
+            "output": "cooked_crust"
+        },
+        {
+            "instructions": "while baking , cook egg_substitute according to package directions .",
+            "input": "egg_substitute",
+            "action": "cook",
+            "output": "cooked_egg_substitute"
+        },
+        {
+            "instructions": "remove crusts from oven",
+            "input": "cooked_crust",
+            "action": "remove",
+            "output": "cooked_crust"
+        },
+        {
+            "instructions": "flatten with spatula .",
+            "input": "cooked_crust",
+            "action": "flatten",
+            "output": "flattened_cooked_crust"
+        },
+        {
+            "instructions": "top each with egg , ham , pepper and cheese",
+            "input": "(flattened_cooked_crust; cooked_egg_substitute, ham, pepper, cheese)",
+            "action": "top",
+            "output": "topped_crust with cooked_egg_substitute, ham, pepper and cheese"
+        },
+        {
+            "instructions": "return to oven for 5 min or until cheese is melted .",
+            "input": "uncooked ww_breakfast_pizza",
+            "action": "return",
+            "output": "cooked ww_breakfast_pizza"
+        }
+    ],
+    "ingredients": [
+        {
+            "text": "1 (7 1/2 ounce) canrefrigerated biscuit dough"
+        },
+        {
+            "text": "23 cup egg substitute"
+        },
+        {
+            "text": "13 cup diced deli ham"
+        },
+        {
+            "text": "13 cup chopped red pepper"
+        },
+        {
+            "text": "23 cup low-fat sharp cheddar cheese, shredded"
+        }
+    ],
+    "recipe": [
+        {
+            "text": "Preheat oven to 350 degrees ."
+        },
+        {
+            "text": "Place dough for 5 biscuits on a baking sheet coated with cooking spray."
+        },
+        {
+            "text": "Reserve remaining dough for another use."
+        },
+        {
+            "text": "Flatten into 3 or 4\" rounds."
+        },
+        {
+            "text": "Bake 8-10 min or golden."
+        },
+        {
+            "text": "While baking, cook egg substitute according to package directions."
+        },
+        {
+            "text": "Remove crusts from oven and flatten with spatula."
+        },
+        {
+            "text": "Top each with egg, ham, pepper and cheese and return to oven for 5 min or until cheese is melted."
+        }
+    ]
+}

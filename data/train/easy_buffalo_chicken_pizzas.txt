@@ -1,0 +1,91 @@
+{
+    "title": "easy_buffalo_chicken_pizzas",
+    "id": "4a3f6864cc",
+    "table": [
+        {
+            "instructions": "heat oven to 450f .",
+            "input": "NA",
+            "action": "heat",
+            "output": "NA"
+        },
+        {
+            "instructions": "place pita_bread on baking sheet .",
+            "input": "pita_bread",
+            "action": "place",
+            "output": "pita_bread"
+        },
+        {
+            "instructions": "spread with dressing ;",
+            "input": "(pita_bread; dressing)",
+            "action": "spread",
+            "output": "pita_bread_with_dressing"
+        },
+        {
+            "instructions": "top with chicken and celery .",
+            "input": "(pita_bread_with_dressing; chicken; celery)",
+            "action": "top",
+            "output": "pita_bread_with dressing topped with_chicken_and_celery"
+        },
+        {
+            "instructions": "scatter chicken_strip and celery on dressing .",
+            "input": "pita_bread_with dressing topped with_chicken_and_celery",
+            "action": "scatter",
+            "output": "pita_bread_with dressing topped with_chicken_and_celery"
+        },
+        {
+            "instructions": "bake 10 min .",
+            "input": "uncooked pita_bread_with dressing topped with_chicken_and_celery",
+            "action": "bake",
+            "output": "baked pita bread chicken pizza"
+        },
+        {
+            "instructions": "sprinkle with cheese and pepper_sauce .",
+            "input": "(baked pita bread chicken pizza; cheese; pepper sauce)",
+            "action": "sprinkle",
+            "output": "pepper sauce and cheese sprinkled on baked pita bread chicken pizza"
+        }
+    ],
+    "ingredients": [
+        {
+            "text": "4 pita breads"
+        },
+        {
+            "text": "1/4 cup KRAFT ROKA Blue Cheese Dressing"
+        },
+        {
+            "text": "1 pkg. (5.5 oz.) OSCAR MAYER CARVING BOARD Hot Buffalo Chicken Breast Strips, chopped"
+        },
+        {
+            "text": "1/2 cup thinly sliced celery"
+        },
+        {
+            "text": "2 Tbsp. KRAFT Natural Blue Cheese Crumbles"
+        },
+        {
+            "text": "1 Tbsp. hot pepper sauce"
+        }
+    ],
+    "recipe": [
+        {
+            "text": "Heat oven to 450F."
+        },
+        {
+            "text": "Place pita breads on baking sheet."
+        },
+        {
+            "text": "Spread with dressing; top with chicken and celery."
+        },
+        {
+            "text": "Scatter chicken strips and celery on dressing."
+        },
+        {
+            "text": "Bake 10 min."
+        },
+        {
+            "text": "or until pitas bread is crisp."
+        },
+        {
+            "text": "Sprinkle with cheese and pepper sauce."
+        }
+    ]
+}

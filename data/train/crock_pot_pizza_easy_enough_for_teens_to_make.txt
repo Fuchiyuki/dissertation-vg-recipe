@@ -1,0 +1,88 @@
+{
+    "title": "crock_pot_pizza_easy_enough_for_teens_to_make",
+    "id": "b5b29dc6c6",
+    "table": [
+        {
+            "instructions": "brown the ground_beef in a skillet over medium high heat .",
+            "input": "ground_beef",
+            "action": "brown",
+            "output": "browned_ground_beef"
+        },
+        {
+            "instructions": "drain off grease .",
+            "input": "browned_ground_beef",
+            "action": "drain",
+            "output": "browned_ground_beef without excess grease"
+        },
+        {
+            "instructions": "in slow\u2012cooker pour in soup , pizza_sauce and pepperonis",
+            "input": "(soup; pizza sauce; pepperoni)",
+            "action": "pour",
+            "output": "soup, pizza sauce and pepperoni mixture"
+        },
+        {
+            "instructions": "mix well .",
+            "input": "soup, pizza sauce and pepperoni mixture",
+            "action": "mix",
+            "output": "soup, pizza sauce and pepperoni mixture"
+        },
+        {
+            "instructions": "cover",
+            "input": "soup, pizza sauce and pepperoni mixture",
+            "action": "cover",
+            "output": "covered soup, pizza sauce and pepperoni mixture"
+        },
+        {
+            "instructions": "cook on low setting for 4 hours .",
+            "input": "covered soup, pizza sauce and pepperoni mixture",
+            "action": "cook",
+            "output": "cooked covered soup, pizza sauce and pepperoni mixture"
+        },
+        {
+            "instructions": "one half hour before dinner stir in the uncooked_rigatoni .",
+            "input": "(uncooked rigatoni; covered soup, pizza sauce and pepperoni mixture)",
+            "action": "stir",
+            "output": "rigatoni pizza casserole"
+        }
+    ],
+    "ingredients": [
+        {
+            "text": "2 lbs ground beef"
+        },
+        {
+            "text": "1 (8 ounce) package rigatoni pasta"
+        },
+        {
+            "text": "1 (16 ounce) packageshredded mozzarella cheese"
+        },
+        {
+            "text": "1 (10 3/4 ounce) can condensed cream of tomato soup"
+        },
+        {
+            "text": "2 (14 ounce) jars pizza sauce"
+        },
+        {
+            "text": "1 (8 ounce) packagesliced pepperoni, chopped"
+        }
+    ],
+    "recipe": [
+        {
+            "text": "Brown the ground beef in a skillet over medium-high heat."
+        },
+        {
+            "text": "Drain off grease."
+        },
+        {
+            "text": "In slow cooker pour in soup, pizza sauce and pepperonis and mix well."
+        },
+        {
+            "text": "Cover and cook on Low setting for 4 hours."
+        },
+        {
+            "text": "One half hour before dinner stir in the uncooked rigatoni."
+        },
+        {
+            "text": "When ready to serve stir in the mozzarella cheese."
+        }
+    ]
+}

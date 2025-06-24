@@ -1,0 +1,175 @@
+{
+    "title": "pepperoni_white_pizza_skillet",
+    "id": "4b3cf3cb7e",
+    "table": [
+        {
+            "instructions": "Reserve 14 slices pepperoni .",
+            "input": "pepperoni",
+            "action": "chop",
+            "output": "reserved pepperoni"
+        },
+        {
+            "instructions": "coarsely chop the remaining pepperoni .",
+            "input": "remaining pepperoni",
+            "action": "chop",
+            "output": "chopped_remaining pepperoni"
+        },
+        {
+            "instructions": "heat the oil in a 12 inch skillet over medium heat .",
+            "input": "oil",
+            "action": "heat",
+            "output": "heated oil"
+        },
+        {
+            "instructions": "add the onion , garlic and oregano",
+            "input": "(heated oil; onion, garlic; oregano)",
+            "action": "add",
+            "output": "heated oil and onion mixture"
+        },
+        {
+            "instructions": "cook for 5 minutes or until the onion is tender , stirring occasionally .",
+            "input": "heated oil and onion mixture",
+            "action": "cook",
+            "output": "cooked onion mixture"
+        },
+        {
+            "instructions": "stir the soup , milk , parmesan_cheese , 1 cup , mozzarella_cheese and black_pepper in the skillet",
+            "input": "(soup; milk; parmesan cheese; mozzarella cheese; black pepper)",
+            "action": "stir",
+            "output": "soup, milk, cheese and pepper stirred into cooked onion mixture"
+        },
+        {
+            "instructions": "heat to a boil .",
+            "input": "soup, milk, cheese and pepper stirred into cooked onion mixture",
+            "action": "heat",
+            "output": "heated soup and milk mixture"
+        },
+        {
+            "instructions": "stir in the chicken , chopped pepperoni , rotini and tomato .",
+            "input": "(chicken; chopped remaiining pepperoni; rotini; tomato; heated soup and milk mixture)",
+            "action": "stir",
+            "output": "tomato rotini soup with chicken and chopped pepeproni"
+        },
+        {
+            "instructions": "sprinkle with the remaining mozzarella_cheese .",
+            "input": "(tomato rotini soup with chicken and chopped pepeproni; mozzarella cheese)",
+            "action": "sprinkle",
+            "output": "mozzarella cheese sprinkled over tomato rotini soup with chicken and chopped pepeproni"
+        },
+        {
+            "instructions": "reduce the heat to low .",
+            "input": "mozzarella cheese sprinkled over tomato rotini soup with chicken and chopped pepeproni",
+            "action": "reduce",
+            "output": "mozzarella cheese sprinkled over tomato rotini soup with chicken and chopped pepeproni"
+        },
+        {
+            "instructions": "cover",
+            "input": "mozzarella cheese sprinkled over tomato rotini soup with chicken and chopped pepeproni",
+            "action": "cover",
+            "output": "covered mozzarella cheese sprinkled over tomato rotini soup with chicken and chopped pepeproni"
+        },
+        {
+            "instructions": "cook until the mixture is hot .",
+            "input": "covered mozzarella cheese sprinkled over tomato rotini soup with chicken and chopped pepeproni",
+            "action": "cook",
+            "output": "cooked pepperoni_white_pizza_skillet"
+        },
+        {
+            "instructions": "sprinkle with the cheese .",
+            "input": "(cooked pepperoni_white_pizza_skillet; cheese)",
+            "action": "sprinkle",
+            "output": "cooked pepperoni_white_pizza_skillet with cheese topping"
+        },
+        {
+            "instructions": "top with the reserved pepperoni_slice .",
+            "input": "(cooked pepperoni_white_pizza_skillet with cheese topping; pepperoni)",
+            "action": "top",
+            "output": "cooked pepperoni_white_pizza_skillet with cheese and pepperoni topping"
+        },
+        {
+            "instructions": "sprinkle with additional chopped_tomato , if desired .",
+            "input": "(additional optional chopped tomato; cooked pepperoni_white_pizza_skillet with cheese and pepperoni topping)",
+            "action": "sprinkle",
+            "output": "ready to serve pepperoni_white_pizza_skillet garnished with additional optional chopped tomato"
+        }
+    ],
+    "ingredients": [
+        {
+            "text": "1/2 (7 ounce) package sliced pepperoni"
+        },
+        {
+            "text": "1 tablespoon olive oil"
+        },
+        {
+            "text": "1 large onion, chopped"
+        },
+        {
+            "text": "2 cloves garlic, minced"
+        },
+        {
+            "text": "1 1/4 teaspoons dried oregano leaves, crushed"
+        },
+        {
+            "text": "1 (10.75 ounce) can Campbell's Condensed Cream of Mushroom Soup (Regular or 98% Fat Free)"
+        },
+        {
+            "text": "1 3/4 cups milk"
+        },
+        {
+            "text": "1/4 cup shredded Parmesan cheese"
+        },
+        {
+            "text": "1 1/2 cups shredded mozzarella cheese"
+        },
+        {
+            "text": "1/4 teaspoon ground black pepper"
+        },
+        {
+            "text": "2 cups shredded cooked chicken"
+        },
+        {
+            "text": "1 (16 ounce) package rotini pasta, cooked and drained"
+        },
+        {
+            "text": "1 medium tomato, chopped"
+        }
+    ],
+    "recipe": [
+        {
+            "text": "Reserve 14 slices pepperoni."
+        },
+        {
+            "text": "Coarsely chop the remaining pepperoni."
+        },
+        {
+            "text": "Heat the oil in a 12-inch skillet over medium heat."
+        },
+        {
+            "text": "Add the onion, garlic and oregano and cook for 5 minutes or until the onion is tender, stirring occasionally."
+        },
+        {
+            "text": "Stir the soup, milk, Parmesan cheese, 1 cup mozzarella cheese and black pepper in the skillet and heat to a boil."
+        },
+        {
+            "text": "Stir in the chicken, chopped pepperoni, rotini and tomato."
+        },
+        {
+            "text": "Sprinkle with the remaining mozzarella cheese."
+        },
+        {
+            "text": "Reduce the heat to low."
+        },
+        {
+            "text": "Cover and cook until the mixture is hot."
+        },
+        {
+            "text": "Sprinkle with the cheese."
+        },
+        {
+            "text": "Top with the reserved pepperoni slices."
+        },
+        {
+            "text": "Sprinkle with additional chopped tomato, if desired."
+        }
+    ]
+}

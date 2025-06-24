@@ -1,0 +1,139 @@
+{
+    "title": "pizza_barbecue_monkey_bread",
+    "id": "332b51ae02",
+    "table": [
+        {
+            "instructions": "preheat oven to 375 degrees .",
+            "input": "NA",
+            "action": "preheat",
+            "output": "NA"
+        },
+        {
+            "instructions": "brown sausage",
+            "input": "sausage",
+            "action": "brown",
+            "output": "browned_sausage"
+        },
+        {
+            "instructions": ", drain well .",
+            "input": "browned_sausage",
+            "action": "drain",
+            "output": "browned_sausage without excess fat"
+        },
+        {
+            "instructions": "unroll pizza_dough onto a lightly floured surface .",
+            "input": "pizza dough",
+            "action": "unroll",
+            "output": "unrolled pizza dough"
+        },
+        {
+            "instructions": "combine the sauces .",
+            "input": "(pizza sauce; barbecue sauce)",
+            "action": "combine",
+            "output": "combined sauces"
+        },
+        {
+            "instructions": "roll pizza_dough into a 14x12 inch rectangle .",
+            "input": "unrolled pizza dough",
+            "action": "roll",
+            "output": "rectangle shaped pizza crust"
+        },
+        {
+            "instructions": "spread sauce onto the pizza_dough , top with cheese , sausage , onion .",
+            "input": "(pizza crust; cheese; browned sausage; onion; combined saucea)",
+            "action": "spread",
+            "output": "rectangle shaped pizza crust with combined sauces, cheese , browned sausage , onion"
+        },
+        {
+            "instructions": "roll up starting at 1 side",
+            "input": "rectangle shaped pizza crust with combined sauces, cheese , browned sausage , onion",
+            "action": "roll",
+            "output": "rolled up rectangle shaped pizza crust with combined sauces, cheese , browned sausage , onion"
+        },
+        {
+            "instructions": "roll up completely ,",
+            "input": "rolled up rectangle shaped pizza crust with combined sauces, cheese , browned sausage , onion",
+            "action": "roll",
+            "output": "rolled up rectangle shaped pizza crust with combined sauces, cheese , browned sausage , onion"
+        },
+        {
+            "instructions": "cut into 16 pinwheels .",
+            "input": "rolled up rectangle shaped pizza crust with combined sauces, cheese , browned sausage , onion",
+            "action": "cut",
+            "output": "rolled up rectangle shaped pizza crust with combined sauces, cheese , browned sausage , onion cut into pinwheels "
+        },
+        {
+            "instructions": "place cut side down into a baking pan , sprayed with cooking_spray ,",
+            "input": "uncooked pizza barbecue pinwheels",
+            "action": "place",
+            "output": "uncooked pizza barbecue pinwheels"
+        },
+        {
+            "instructions": "sprinkle with parmesan_cheese .",
+            "input": "(parmesan cheese; uncooked pizza barbecue pinwheels)",
+            "action": "sprinkle",
+            "output": "uncooked pizza barbecue pinwheels sprinkled with parmesan cheese"
+        },
+        {
+            "instructions": "bake for 25 minutes or until golden brown .",
+            "input": "uncooked pizza barbecue pinwheels sprinkled with parmesan cheese",
+            "action": "bake",
+            "output": "baked pizza barbecue pinwheels sprinkled with parmesan cheese"
+        }
+    ],
+    "ingredients": [
+        {
+            "text": "12 lb ground Italian sausage"
+        },
+        {
+            "text": "1 (13 7/8 ounce) canrefrigerated pizza dough"
+        },
+        {
+            "text": "1 12 cups shredded five cheese blend"
+        },
+        {
+            "text": "14 cup pizza sauce"
+        },
+        {
+            "text": "14 cup barbecue sauce"
+        },
+        {
+            "text": "1 tablespoon barbecue seasoning"
+        },
+        {
+            "text": "2 tablespoons parmesan cheese, grated"
+        },
+        {
+            "text": "1 onion, chopped"
+        }
+    ],
+    "recipe": [
+        {
+            "text": "Preheat oven to 375 degrees."
+        },
+        {
+            "text": "Brown sausage, drain well."
+        },
+        {
+            "text": "Unroll pizza dough onto a lightly floured surface."
+        },
+        {
+            "text": "Combine the sauces."
+        },
+        {
+            "text": "Roll pizza dough into a 14x12 inch rectangle."
+        },
+        {
+            "text": "Spread sauce onto the pizza dough, top with cheese, sausage, onion."
+        },
+        {
+            "text": "Roll up starting at 1 side, roll up completely, and cut into 16 pinwheels."
+        },
+        {
+            "text": "Place cut side down into a baking pan, sprayed with cooking spray, and sprinkle with parmesan cheese."
+        },
+        {
+            "text": "Bake for 25 minutes or until golden brown."
+        }
+    ]
+}

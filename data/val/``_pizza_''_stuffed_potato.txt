@@ -1,0 +1,109 @@
+{
+    "title": "``_pizza_''_stuffed_potato",
+    "id": "c51246aad7",
+    "table": [
+        {
+            "instructions": "preheat oven to 450 degrees .",
+            "input": "NA",
+            "action": "preheat",
+            "output": "NA"
+        },
+        {
+            "instructions": "cut potato in half lengthwise .",
+            "input": "potato",
+            "action": "cut",
+            "output": "cut_potato in half lengthwise"
+        },
+        {
+            "instructions": "scoop out pulp from potato halves into a bowl , leaving 14 inch thick shells ;",
+            "input": "cut_potato in half lengthwise",
+            "action": "scoop",
+            "output": "(potato shell without pulp; pulp)"
+        },
+        {
+            "instructions": "mash pulp and reserve shells .",
+            "input": "pulp",
+            "action": "mash",
+            "output": "mashed potato pulp"
+        },
+        {
+            "instructions": "add 1 ounce mozzarella_cheese , the tomato_sauce , ricotta_cheese , oregano and garlic_powder to potato pulp",
+            "input": "(mozzarella_cheese; tomato sauce; ricotta cheese; oregano; garlic powder; mashed potato pulp)",
+            "action": "add",
+            "output": "mozzarella cheese, tomato sauce, ricotta cheese, oregano and garlic powder added to mashed potato pulp"
+        },
+        {
+            "instructions": "stir to combine .",
+            "input": "mozzarella cheese, tomato sauce, ricotta cheese, oregano and garlic powder added to mashed potato pulp",
+            "action": "stir",
+            "output": "potato mixture"
+        },
+        {
+            "instructions": "spoon half of potato mixture into each reserved shell ;",
+            "input": "(potato shells; potato mixture)",
+            "action": "spoon",
+            "output": "potato mixture spooned into potato shells"
+        },
+        {
+            "instructions": "top each with half of the remaining mozzarella_cheese and half of the parmesan_cheese .",
+            "input": "(remaining mozzarella; parmesan cheese; potato shells stuffed with potato mixture)",
+            "action": "top",
+            "output": "potato shells stuffed with potato mixture topped with remaining mozzarella anc parmesan cheese"
+        },
+        {
+            "instructions": "set potato shells in 1 quart casserole",
+            "input": "stuffed potato shells",
+            "action": "set",
+            "output": "stuffed potato shells"
+        },
+        {
+            "instructions": "bake until thoroughly heated , about 10 minutes .",
+            "input": "stuffed potato shells",
+            "action": "bake",
+            "output": "baked stuffed potato shells"
+        }
+    ],
+    "ingredients": [
+        {
+            "text": "1 baking potato, baked (6 ounces)"
+        },
+        {
+            "text": "1 12 ounces mozzarella cheese, shredded,divided"
+        },
+        {
+            "text": "14 cup tomato sauce"
+        },
+        {
+            "text": "14 cup part-skim ricotta cheese"
+        },
+        {
+            "text": "18 teaspoon oregano leaves"
+        },
+        {
+            "text": "18 teaspoon garlic powder"
+        },
+        {
+            "text": "2 teaspoons grated parmesan cheese"
+        }
+    ],
+    "recipe": [
+        {
+            "text": "Preheat oven to 450 degrees."
+        },
+        {
+            "text": "Cut potato in half lengthwise."
+        },
+        {
+            "text": "Scoop out pulp from potato halves into a bowl, leaving 1/4-inch-thick shells; mash pulp and reserve shells."
+        },
+        {
+            "text": "Add 1 ounce mozzarella cheese, the tomato sauce, ricotta cheese, oregano and garlic powder to potato pulp and stir to combine."
+        },
+        {
+            "text": "Spoon half of potato mixture into each reserved shell; top each with half of the remaining mozzarella cheese and half of the Parmesan cheese."
+        },
+        {
+            "text": "Set potato shells in 1-quart casserole and bake until thoroughly heated, about 10 minutes."
+        }
+    ]
+}

@@ -1,0 +1,118 @@
+{
+    "title": "strawberry_fruit_pizza",
+    "id": "f43dd1b3fc",
+    "table": [
+        {
+            "instructions": "heat oven to 350 degrees .",
+            "input": "NA",
+            "action": "heat",
+            "output": "NA"
+        },
+        {
+            "instructions": "press dough into greased 12 inch , pizza\u2012pan .",
+            "input": "dough",
+            "action": "press",
+            "output": "pressed_dough"
+        },
+        {
+            "instructions": "bake at 350 degrees for 20 minutes or until golden brown .",
+            "input": "pressed_dough",
+            "action": "bake",
+            "output": "baked crust"
+        },
+        {
+            "instructions": "cool in pan on wire rack .",
+            "input": "baked crust",
+            "action": "cool",
+            "output": "cooled baked crust"
+        },
+        {
+            "instructions": "beat cream_cheese and sugar in large bowl with wire whisk or electric mixer on high speed until well blended .",
+            "input": "(cream cheese; sugar)",
+            "action": "beat",
+            "output": "beaten cream cheese mixture"
+        },
+        {
+            "instructions": "gently stir in whipped_topping .",
+            "input": "(beaten cream cheese mixture; whipped topping)",
+            "action": "stir",
+            "output": "whipped topping stirred into beaten cream cheese mixture"
+        },
+        {
+            "instructions": "spread cream_cheese layer over cooled crust ;",
+            "input": "(cooled baked crust; cream cheese layer mixture)",
+            "action": "spread",
+            "output": "cream cheese layer mixture spread on cooled crust"
+        },
+        {
+            "instructions": "top with sliced strawberries .",
+            "input": "(sliced strawberries; cooled crust with cream cheese layer)",
+            "action": "top",
+            "output": "cooled crust with cream cheese layer topped with sliced strawberries"
+        },
+        {
+            "instructions": "serve immediately or cover",
+            "input": "strawberry_fruit_pizza",
+            "action": "serve",
+            "output": "served strawberry_fruit_pizza"
+        },
+        {
+            "instructions": "refrigerate until ready to serve .",
+            "input": "strawberry_fruit_pizza",
+            "action": "refrigerate",
+            "output": "refrigerated strawberry_fruit_pizza"
+        }
+    ],
+    "ingredients": [
+        {
+            "text": "1 (20 ounce) package refrigerated sugar cookie dough"
+        },
+        {
+            "text": "1 (8 ounce) package cream cheese, softened"
+        },
+        {
+            "text": "12 cup sugar"
+        },
+        {
+            "text": "1 (8 ounce) container Cool Whip, thawed (Strawberry flavor if you can find it)"
+        },
+        {
+            "text": "1 pint strawberry, sliced"
+        }
+    ],
+    "recipe": [
+        {
+            "text": "1."
+        },
+        {
+            "text": "Heat oven to 350 degrees."
+        },
+        {
+            "text": "Press dough into greased 12-inch pizza pan."
+        },
+        {
+            "text": "Bake at 350 degrees for 20 minutes or until golden brown."
+        },
+        {
+            "text": "Cool in pan on wire rack."
+        },
+        {
+            "text": "2."
+        },
+        {
+            "text": "Beat cream cheese and sugar in large bowl with wire whisk or electric mixer on high speed until well blended."
+        },
+        {
+            "text": "Gently stir in whipped topping."
+        },
+        {
+            "text": "Spread cream cheese layer over cooled crust; top with sliced strawberries."
+        },
+        {
+            "text": "4."
+        },
+        {
+            "text": "Serve immediately or cover and refrigerate until ready to serve."
+        }
+    ]
+}

@@ -1,0 +1,184 @@
+{
+    "title": "robusto_pizza_with_marinated_tomatoes_and_basil",
+    "id": "40fea62769",
+    "table": [
+        {
+            "instructions": "marinate the tomatoes in a non reactive container",
+            "input": "tomatoes",
+            "action": "marinate",
+            "output": "marinated_tomatoes"
+        },
+        {
+            "instructions": "toss the tomatoes , garlic , wine , parsley , salt , pepper and olive_oil .",
+            "input": "(marinated_tomatoes; garlic; wine; parsley; salt; pepper; olive oil)",
+            "action": "toss",
+            "output": "tossed marinated tomato mixture"
+        },
+        {
+            "instructions": "cover",
+            "input": "tossed marinated tomato mixture",
+            "action": "cover",
+            "output": "covered tossed marinated tomato mixture"
+        },
+        {
+            "instructions": "refrigerate up to 8 hours before making the pizza or let stand at room temp",
+            "input": "tossed marinated tomato mixture",
+            "action": "refrigerate",
+            "output": "refrigerated marinated tomato mixture"
+        },
+        {
+            "instructions": "you preheat the oven",
+            "input": "NA",
+            "action": "preheat",
+            "output": "NA"
+        },
+        {
+            "instructions": "prepare the pizza_dough .",
+            "input": "pizza dough",
+            "action": "prepare",
+            "output": "pizza dough"
+        },
+        {
+            "instructions": "preheat oven to 425f .",
+            "input": "NA",
+            "action": "preheat",
+            "output": "NA"
+        },
+        {
+            "instructions": "grease pizza or cookie pan .",
+            "input": "NA",
+            "action": "grease",
+            "output": "NA"
+        },
+        {
+            "instructions": "stretch the dough to fit the pan ;",
+            "input": "pizza dough",
+            "action": "stretch",
+            "output": "stretched pizza dough"
+        },
+        {
+            "instructions": "drape with a clean kitchen towel ,",
+            "input": "stretched pizza dough",
+            "action": "drape",
+            "output": "covered pizza dough"
+        },
+        {
+            "instructions": "when the oven is heated , stir the tomatoes",
+            "input": "refrigerated marinated tomato mixture",
+            "action": "stir",
+            "output": "stirred marinated tomato mixture"
+        },
+        {
+            "instructions": "taste for seasoning .",
+            "input": "NA",
+            "action": "taste",
+            "output": "NA"
+        },
+        {
+            "instructions": "drain the tomatoes",
+            "input": "stirred marinated tomato mixture",
+            "action": "drain",
+            "output": "drained marinated tomato mixture"
+        },
+        {
+            "instructions": "arrange on top of the dough or prepared crust .",
+            "input": "(drained marinated tomato mixture; pizza dough)",
+            "action": "arrange",
+            "output": "drained marinated tomato mixture arranged on pizza dough"
+        },
+        {
+            "instructions": "bake for about 15 minutes , until the crust is browned and the cheese bubbly .",
+            "input": "uncooked crust with marinated tomato ",
+            "action": "bake",
+            "output": "baked crust with marinated tomato "
+        },
+        {
+            "instructions": "remove from oven ;",
+            "input": "baked crust with marinated tomato ",
+            "action": "remove",
+            "output": "baked crust with marinated tomato "
+        },
+        {
+            "instructions": "sprinkle basil over top .",
+            "input": "(basil; baked crust with marinated tomato )",
+            "action": "sprinkle",
+            "output": "baked crust with marinated tomato and basil"
+        },
+        {
+            "instructions": "cut into pieces ;",
+            "input": "baked crust with marinated tomato and basil",
+            "action": "cut",
+            "output": "cut baked crust with marinated tomato and basil"
+        },
+        {
+            "instructions": "serve hot or warm .",
+            "input": "sliced baked crust with marinated tomato and basil",
+            "action": "serve",
+            "output": "sliced baked crust with marinated tomato and basil ready to serve"
+        }
+    ],
+    "ingredients": [
+        {
+            "text": "1 lb pizza dough (or large prepared pizza crust)"
+        },
+        {
+            "text": "6 fresh roma tomatoes, cored and sliced into 1/4 inch circles"
+        },
+        {
+            "text": "1 garlic clove, minced"
+        },
+        {
+            "text": "14 dry white wine"
+        },
+        {
+            "text": "2 tablespoons Italian parsley, minced"
+        },
+        {
+            "text": "salt and pepper"
+        },
+        {
+            "text": "3 tablespoons olive oil"
+        },
+        {
+            "text": "robusto cheese, 1-2 cups, grated"
+        },
+        {
+            "text": "2 tablespoons fresh basil, chopped"
+        }
+    ],
+    "recipe": [
+        {
+            "text": "Marinate the tomatoes: in a non-reactive container, toss the tomatoes, garlic, wine, parsley, salt, pepper and olive oil."
+        },
+        {
+            "text": "Cover and refrigerate up to 8 hours before making the pizza (or let stand at room temp while you preheat the oven and prepare the pizza dough)."
+        },
+        {
+            "text": "Preheat oven to 425F."
+        },
+        {
+            "text": "Grease pizza or cookie pan."
+        },
+        {
+            "text": "Stretch the dough to fit the pan; drape with a clean kitchen towel, and let rest while the oven comes to temperature."
+        },
+        {
+            "text": "When the oven is heated, stir the tomatoes and taste for seasoning."
+        },
+        {
+            "text": "Drain the tomatoes and arrange on top of the dough (or prepared crust)."
+        },
+        {
+            "text": "Sprinkled grated robusto over top, using as much as you like."
+        },
+        {
+            "text": "Bake for about 15 minutes, until the crust is browned and the cheese bubbly."
+        },
+        {
+            "text": "Remove from oven; sprinkle basil over top."
+        },
+        {
+            "text": "Cut into pieces; serve hot or warm."
+        }
+    ]
+}

@@ -1,0 +1,148 @@
+{
+    "title": "chicken_cordon_bleu_pizza",
+    "id": "820d8da393",
+    "table": [
+        {
+            "instructions": "to make the sauce",
+            "input": "NA",
+            "action": "make",
+            "output": "NA"
+        },
+        {
+            "instructions": "melt the butter in a saucepan",
+            "input": "butter",
+            "action": "melt",
+            "output": "melted butter"
+        },
+        {
+            "instructions": "sprinkle the flour over it .",
+            "input": "(flour; melted butter)",
+            "action": "sprinkle",
+            "output": "flour sprinkled in melted butter"
+        },
+        {
+            "instructions": "stir together for about 30 seconds to let the flour cook out ,",
+            "input": "flour sprinkled in melted butter",
+            "action": "stir",
+            "output": "stirred roux"
+        },
+        {
+            "instructions": "once the milk and butter flour mixture have been incorporated , add the salt , pepper , nutmeg and mustard .",
+            "input": "(stirred roux; milk; salt; pepper; nutmeg; mustard)",
+            "action": "add",
+            "output": "milk, salt, pepper, nutmeg and mustard added to stirred roux"
+        },
+        {
+            "instructions": "stir to combine",
+            "input": "seasoned milk and butter flour mixture",
+            "action": "stir",
+            "output": "cooked white sauce"
+        },
+        {
+            "instructions": "remove from heat",
+            "input": "cooked white sauce",
+            "action": "remove",
+            "output": "cooked white sauce"
+        },
+        {
+            "instructions": "to make the pizza",
+            "input": "NA",
+            "action": "make",
+            "output": "NA"
+        },
+        {
+            "instructions": "spread about half of the sauce on the crust .",
+            "input": "(cooked white sauce; pizza crust)",
+            "action": "spread",
+            "output": "white sauce spread on pizza crust"
+        },
+        {
+            "instructions": "sprinkle with swis_cheese",
+            "input": "(swiss_cheese; pizza crust with white sauce)",
+            "action": "sprinkle",
+            "output": "swiss_cheese sprinkled on pizza crust with white sauce"
+        },
+        {
+            "instructions": "evenly spread the ham and chicken on top .",
+            "input": "(ham; chicken; pizza crust with white sauce and swiss cheese)",
+            "action": "spread",
+            "output": "ham and chicken spread on pizza crust with white sauce and swiss cheese"
+        },
+        {
+            "instructions": "bake for 10 15 minutes at 450 degrees f until the top is brown and bubbly and the crust is done .",
+            "input": "uncooked chicken_cordon_bleu_pizza",
+            "action": "bake",
+            "output": "baked chicken_cordon_bleu_pizza"
+        },
+        {
+            "instructions": "remove from heat",
+            "input": "baked chicken_cordon_bleu_pizza",
+            "action": "remove",
+            "output": "baked chicken_cordon_bleu_pizza"
+        }
+    ],
+    "ingredients": [
+        {
+            "text": "1 Tablespoon Butter"
+        },
+        {
+            "text": "1 Tablespoon Flour"
+        },
+        {
+            "text": "1 cup Milk"
+        },
+        {
+            "text": "1/2 teaspoons Salt"
+        },
+        {
+            "text": "1/2 teaspoons Pepper"
+        },
+        {
+            "text": "1 pinch Nutmeg"
+        },
+        {
+            "text": "1 Tablespoon Dijon Mustard"
+        },
+        {
+            "text": "1 whole Large Pizza Crust (about 10 Inches In Diameter)"
+        },
+        {
+            "text": "1 cup Shredded Swiss Cheese"
+        },
+        {
+            "text": "1/4 cups Chopped Ham"
+        },
+        {
+            "text": "3/4 cups Shredded Or Cubed Chicken"
+        }
+    ],
+    "recipe": [
+        {
+            "text": "To make the sauce, melt the butter in a saucepan and sprinkle the flour over it."
+        },
+        {
+            "text": "Stir together for about 30 seconds to let the flour cook out, then slowly stream in the milk while stirring frequently."
+        },
+        {
+            "text": "Once the milk and butter/flour mixture have been incorporated, add the salt, pepper, nutmeg and mustard."
+        },
+        {
+            "text": "Stir to combine and let simmer until thickened."
+        },
+        {
+            "text": "Remove from heat and let sit at room temperature for about 30 minutes."
+        },
+        {
+            "text": "To make the pizza, spread about half of the sauce on the crust."
+        },
+        {
+            "text": "Sprinkle with Swiss cheese and evenly spread the ham and chicken on top."
+        },
+        {
+            "text": "Bake for 10-15 minutes at 450 degrees F until the top is brown and bubbly and the crust is done."
+        },
+        {
+            "text": "Remove from heat and let it sit for about 5 minutes before cutting!"
+        }
+    ]
+}

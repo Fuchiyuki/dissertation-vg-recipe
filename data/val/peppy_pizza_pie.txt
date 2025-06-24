@@ -1,0 +1,130 @@
+{
+    "title": "peppy_pizza_pie",
+    "id": "9b2408603d",
+    "table": [
+        {
+            "instructions": "heat the oven to 400f 200c .",
+            "input": "NA",
+            "action": "heat",
+            "output": "NA"
+        },
+        {
+            "instructions": "mix the meats , bread_crumb , egg , oregano leaves , salt and half of the tomato_sauce .",
+            "input": "(meats; bread_crumb; egg; oregano leaves; salt; half of tomato_sauce)",
+            "action": "mix",
+            "output": "meatball mixture"
+        },
+        {
+            "instructions": "press the mixture evenly against the bottom and sides of an ungreased 10 inch , pie pan .",
+            "input": "meatball mixture",
+            "action": "press",
+            "output": "pressed meatball mixture in pan"
+        },
+        {
+            "instructions": "sprinkle the mushrooms and olives in the meat",
+            "input": "mushrooms; olives; pressed meatball mixture in pan",
+            "action": "sprinkle",
+            "output": "pressed meatball mixture in pan with mushrooms and olives"
+        },
+        {
+            "instructions": "line pan",
+            "input": "NA",
+            "action": "line",
+            "output": "NA"
+        },
+        {
+            "instructions": "pour the remaining tomato_sauce over the vegetables .",
+            "input": "tomato sauce; pressed meatball mixture in pan with mushrooms and olives",
+            "action": "pour",
+            "output": "pressed meatball mixture in pan with mushrooms, olives and tomato sauce"
+        },
+        {
+            "instructions": "bake uncovered for 25 minutes .",
+            "input": "uncooked meat crust vegetable pizza",
+            "action": "bake",
+            "output": "baked uncooked meat crust vegetable pizza"
+        },
+        {
+            "instructions": "sprinkle the pie with the shredded_cheese",
+            "input": "shredded cheese; baked meat crust vegetable pizza",
+            "action": "sprinkle",
+            "output": "baked meat crust vegetable pizza with shredded cheese"
+        },
+        {
+            "instructions": "bake an additional 5 minutes .",
+            "input": "baked meat crust vegetable pizza with shredded cheese",
+            "action": "bake",
+            "output": "twice-baked meat crust vegetable pizza with shredded cheese"
+        },
+        {
+            "instructions": "cool for 5 minutes",
+            "input": "twice-baked meat crust vegetable pizza with shredded cheese",
+            "action": "cool",
+            "output": "twice-baked meat crust vegetable pizza with shredded cheese"
+        },
+        {
+            "instructions": "cut into 6 wedges .",
+            "input": "twice-baked meat crust vegetable pizza with shredded cheese",
+            "action": "cut",
+            "output": "sliced twice-baked meat crust vegetable pizza with shredded cheese"
+        }
+    ],
+    "ingredients": [
+        {
+            "text": "1 pound ground beef, lean"
+        },
+        {
+            "text": "2 ounces pepperoni chopped"
+        },
+        {
+            "text": "13 cup bread crumbs dry"
+        },
+        {
+            "text": "1 each eggs large"
+        },
+        {
+            "text": "1/2 teaspoon oregano"
+        },
+        {
+            "text": "1/4 teaspoon salt"
+        },
+        {
+            "text": "8 ounces tomato sauce"
+        },
+        {
+            "text": "8 ounces mushrooms, canned stems and pieces"
+        },
+        {
+            "text": "1/4 cup olives ripe, pitted, sliced"
+        },
+        {
+            "text": "1 cup mozzarella cheese shredded"
+        }
+    ],
+    "recipe": [
+        {
+            "text": "Heat the oven to 400F (200C)."
+        },
+        {
+            "text": "Mix the meats, bread crumbs, egg, oregano leaves, salt and half of the tomato sauce."
+        },
+        {
+            "text": "Press the mixture evenly against the bottom and sides of an ungreased 10-inch pie pan."
+        },
+        {
+            "text": "Sprinkle the mushrooms and olives in the meat line pan then pour the remaining tomato sauce over the vegetables."
+        },
+        {
+            "text": "Bake uncovered for 25 minutes."
+        },
+        {
+            "text": "The pepperoni gives a red-flecked appearance to the meat."
+        },
+        {
+            "text": "Sprinkle the pie with the shredded cheese and bake an additional 5 minutes."
+        },
+        {
+            "text": "Cool for 5 minutes then cut into 6 wedges."
+        }
+    ]
+}

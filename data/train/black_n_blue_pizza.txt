@@ -1,0 +1,133 @@
+{
+    "title": "black_n_blue_pizza",
+    "id": "3498cadbdb",
+    "table": [
+        {
+            "instructions": "place dough on two baking sheets",
+            "input": "dough",
+            "action": "place",
+            "output": "dough"
+        },
+        {
+            "instructions": "roll into rectangles that are approximately 16x10 in size .",
+            "input": "rolled dough",
+            "action": "roll",
+            "output": "rolled dough rectangles"
+        },
+        {
+            "instructions": "fold edges over to build up the sides slightly .",
+            "input": "rolled dough rectangles",
+            "action": "fold",
+            "output": "folded dough rectangles"
+        },
+        {
+            "instructions": "in a bowl , combine the alfredo_sauce , blackened seasoning , garlic , basil , thyme and oregano .",
+            "input": "alfredo_sauce, blackened seasoning, garlic, basil, thyme, oregano",
+            "action": "combine",
+            "output": "alfredo_sauce mixture"
+        },
+        {
+            "instructions": "spread the sauce over the crusts",
+            "input": "alfredo_sauce mixture, folded dough rectangles",
+            "action": "spread",
+            "output": "sauce-spread folded dough rectangles"
+        },
+        {
+            "instructions": "top with the chicken , mushrooms , olives , onion and sun_dried_tomato .",
+            "input": "chicken, mushrooms, olives, onion, sun_dried_tomato, sauce-spread folded dough rectangles",
+            "action": "top",
+            "output": "topped sauce-spread folded dough rectangles"
+        },
+        {
+            "instructions": "sprinkle blue_cheese evenly over pizzas .",
+            "input": "blue_cheese, topped sauce-spread folded dough rectangles",
+            "action": "sprinkle",
+            "output": "blue_cheese-sprinkled topped sauce-spread folded dough rectangles"
+        },
+        {
+            "instructions": "top pizzas with the provolone , mozzarella , and parmesan_cheese .",
+            "input": "provolone, mozzarella, parmesan_cheese, blue_cheese-sprinkled topped sauce-spread folded dough rectangles",
+            "action": "top",
+            "output": "topped blue_cheese-sprinkled topped sauce-spread folded dough rectangles"
+        },
+        {
+            "instructions": "bake at 450 degrees for 15 18 minutes or until bubbly and the cheese is melted .",
+            "input": "topped blue_cheese-sprinkled topped sauce-spread folded dough rectangles",
+            "action": "bake",
+            "output": "baked topped blue_cheese-sprinkled topped sauce-spread folded dough rectangles"
+        }
+    ],
+    "ingredients": [
+        {
+            "text": "2 loaves frozen bread dough, thawed"
+        },
+        {
+            "text": "1 rotisserie chicken, meat removed from bones and cut up"
+        },
+        {
+            "text": "1 12 tablespoons blackening seasoning"
+        },
+        {
+            "text": "12 small red onion, sliced thin"
+        },
+        {
+            "text": "2 garlic cloves, minced"
+        },
+        {
+            "text": "1 (15 ounce) jar alfredo sauce"
+        },
+        {
+            "text": "2 cups sliced fresh shiitake mushrooms or 2 cups baby portabella mushrooms"
+        },
+        {
+            "text": "1 (3 7/8 ounce) cansliced olives, drained"
+        },
+        {
+            "text": "12 cup sun-dried tomato, finely chopped (not oil packed)"
+        },
+        {
+            "text": "1 14 cups crumbled blue cheese"
+        },
+        {
+            "text": "3 tablespoons minced fresh basil"
+        },
+        {
+            "text": "2 tablespoons minced fresh thyme"
+        },
+        {
+            "text": "2 tablespoons minced fresh oregano"
+        },
+        {
+            "text": "12 slices provolone cheese (I use unsmoked)"
+        },
+        {
+            "text": "2 cups grated mozzarella cheese"
+        },
+        {
+            "text": "12 cup shaved parmesan cheese"
+        }
+    ],
+    "recipe": [
+        {
+            "text": "Place dough on two baking sheets and roll into rectangles that are approximately 16\"x10\" in size."
+        },
+        {
+            "text": "Fold edges over to build up the sides slightly."
+        },
+        {
+            "text": "In a bowl, combine the Alfredo sauce, blackened seasoning, garlic, basil, thyme and oregano."
+        },
+        {
+            "text": "Spread the sauce over the crusts and top with the chicken, mushrooms, olives, onion and sun-dried tomato."
+        },
+        {
+            "text": "Sprinkle blue cheese evenly over pizzas."
+        },
+        {
+            "text": "Top pizzas with the provolone, mozzarella, and Parmesan cheeses."
+        },
+        {
+            "text": "Bake at 450 degrees for 15-18 minutes or until bubbly and the cheese is melted."
+        }
+    ]
+}

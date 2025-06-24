@@ -1,0 +1,124 @@
+{
+    "title": "broccoli_rabe_pizza",
+    "id": "58687bfb47",
+    "table": [
+        {
+            "instructions": "spread dough evenly on a pizza\u2012pan .",
+            "input": "dough",
+            "actions": "spread",
+            "output": "spread_dough"
+        },
+        {
+            "instructions": "coat generously with olive_oil .",
+            "input": "(dough; olive_oil)",
+            "actions": "coat",
+            "output": "dough_coated_with_olive_oil"
+        },
+        {
+            "instructions": "sprinkle surface with chopped_garlic .",
+            "input": "(coated_dough; garlic)",
+            "actions": "sprinkle",
+            "output": "garlic_sprinkled_over_coated_dough"
+        },
+        {
+            "instructions": "rinse",
+            "input": "broccoli",
+            "actions": "rinse",
+            "output": "rinsed_broccoli"
+        },
+        {
+            "instructions": "cut broccoli_rabe into 3 4 inch pieces .",
+            "input": "broccoli_rabe",
+            "actions": "cut",
+            "output": "cut_broccoli_rabe"
+        },
+        {
+            "instructions": "blanch in boiling_water for 2 minutes .",
+            "input": "(cut_broccoli_rabe; boiling_water)",
+            "actions": "blanch",
+            "output": "blanched_broccoli_rabe_inboiling_water"
+        },
+        {
+            "instructions": "drain .",
+            "input": "blanched_broccoli_rabe_inboiling_water",
+            "actions": "drain",
+            "output": "drained_broccoli_rabe"
+        },
+        {
+            "instructions": "sprinkle cheese on pizza then sausage",
+            "input": "(sausage; cheese; pizza)",
+            "actions": "sprinkle",
+            "output": "cheese_and_sausage_sprinkled_on_pizza"
+        },
+        {
+            "instructions": "sprinkle basil and crushed_red_pepper .",
+            "input": "(pizza; basil; crushed_red_pepper )",
+            "actions": "sprinkle",
+            "output": "crushed_red_pepper and cheese sprinkled over pizza"
+        },
+        {
+            "instructions": "bake until crust is brown in a 325f oven .",
+            "input": "uncooked pizza",
+            "actions": "bake",
+            "output": "broccoli_rabe_pizza"
+        }
+    ],
+    "ingredients": [
+        {
+            "text": "1 bunch broccoli rabe"
+        },
+        {
+            "text": "1 lb Italian sausage, cooked and casings removed cut into small pieces"
+        },
+        {
+            "text": "14 cup sun-dried tomato, julienne"
+        },
+        {
+            "text": "4 tablespoons garlic, chopped"
+        },
+        {
+            "text": "2 cups mozzarella cheese, grated or 2 cups favorite cheese"
+        },
+        {
+            "text": "3 tablespoons fresh basil, shredded"
+        },
+        {
+            "text": "1 tablespoon crushed red pepper flakes"
+        },
+        {
+            "text": "1 lb pizza dough, large store bought, basic dough recipe or 1 focaccia bread"
+        },
+        {
+            "text": "14 cup olive oil (or enough to coat pizza dough)"
+        }
+    ],
+    "recipe": [
+        {
+            "text": "Spread dough evenly on a pizza pan."
+        },
+        {
+            "text": "Coat generously with olive oil."
+        },
+        {
+            "text": "Sprinkle surface with chopped garlic."
+        },
+        {
+            "text": "Rinse and cut broccoli rabe into 3-4 inch pieces."
+        },
+        {
+            "text": "Blanch in boiling water for 2 minutes."
+        },
+        {
+            "text": "Drain."
+        },
+        {
+            "text": "Sprinkle cheese on pizza then sausage, sun-dried tomatoes and broccoli rabe."
+        },
+        {
+            "text": "Sprinkle basil and crushed red pepper."
+        },
+        {
+            "text": "Bake until crust is brown in a 325F oven."
+        }
+    ]
+}

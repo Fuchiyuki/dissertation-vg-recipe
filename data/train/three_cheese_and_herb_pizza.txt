@@ -1,0 +1,172 @@
+{
+    "title": "three_cheese_and_herb_pizza",
+    "id": "c63dba389a",
+    "table": [
+        {
+            "instructions": "place oven rack in lowest position in oven .",
+            "input": "NA",
+            "action": "place",
+            "output": "NA"
+        },
+        {
+            "instructions": "heat oven to 500 degrees f .",
+            "input": "na",
+            "action": "heat",
+            "output": "na"
+        },
+        {
+            "instructions": "grease large cookie sheet or pizza\u2012pan .",
+            "input": "NA",
+            "action": "grease",
+            "output": "NA"
+        },
+        {
+            "instructions": "in medium bowl , combine pizza_crust_mix and hot_water .",
+            "input": "(pizza_crust_mix; hot_water)",
+            "action": "combine",
+            "output": "pizza_dough"
+        },
+        {
+            "instructions": "stir vigorously with fork about 30 strokes or until blended .",
+            "input": "pizza_dough",
+            "action": "stir",
+            "output": "pizza_dough"
+        },
+        {
+            "instructions": "shape dough into ball ;",
+            "input": "pizza_dough",
+            "action": "shape",
+            "output": "balled_pizza_dough"
+        },
+        {
+            "instructions": "coat with 1 teaspoon of the olive_oil .",
+            "input": "olive_oil",
+            "action": "coat",
+            "output": "oil_coated_balled_pizza_dough"
+        },
+        {
+            "instructions": "cover",
+            "input": "oil_coated_balled_pizza_dough",
+            "action": "cover",
+            "output": "covered_oil_coated_balled_pizza_dough"
+        },
+        {
+            "instructions": "with greased hands , press dough into 11 inch circle on greased cookie sheet .",
+            "input": "covered_oil_coated_balled_pizza_dough",
+            "action": "press",
+            "output": "flattened_pizza_dough"
+        },
+        {
+            "instructions": "pinch edge to form rim .",
+            "input": "flattened_pizza_dough",
+            "action": "pinch",
+            "output": "formed_pizza_dough"
+        },
+        {
+            "instructions": "drizzle remaining 2 teaspoons olive_oil over dough ;",
+            "input": "(olive_oil; formed_pizza_dough)",
+            "action": "drizzle",
+            "output": "olive_oil covered formed_pizza_dough"
+        },
+        {
+            "instructions": "spread evenly .",
+            "input": "olive_oil covered formed_pizza_dough",
+            "action": "spread",
+            "output": "olive_oil_spread_on_formed_pizza_dough"
+        },
+        {
+            "instructions": "sprinkle garlic and cheeses over dough ;",
+            "input": "(garlic; feta cheese; swiss cheese; parmesan cheese; olive_oil_spread_on_formed_pizza_dough)",
+            "action": "sprinkle",
+            "output": "pizza_dough_with_three cheese_and garlic"
+        },
+        {
+            "instructions": "sprinkle with basil , thyme , rosemary and olives .",
+            "input": "(pizza_dough_with_three cheese_and garlic; basil; thyme; rosemary; olives)",
+            "action": "sprinkle",
+            "output": "seasoned_pizza_dough_with_three_cheeses, herbs and_olives"
+        },
+        {
+            "instructions": "bake at 500 degrees f .",
+            "input": "uncooked three_cheese_and_herbs_pizza",
+            "action": "bake",
+            "output": "baked three_cheese_and_herbs_pizza"
+        }
+    ],
+    "ingredients": [
+        {
+            "text": "1 (6 1/2 ounce) package pizza crust mix (Martha White)"
+        },
+        {
+            "text": "12 cup hot water"
+        },
+        {
+            "text": "3 teaspoons olive oil"
+        },
+        {
+            "text": "1 large garlic clove, minced"
+        },
+        {
+            "text": "2 ounces feta cheese, crumbled"
+        },
+        {
+            "text": "2 ounces swiss cheese, thinly sliced, cut into 1-inch pieces"
+        },
+        {
+            "text": "1 tablespoon grated parmesan cheese"
+        },
+        {
+            "text": "12 teaspoon dried basil leaves"
+        },
+        {
+            "text": "12 teaspoon dried thyme leaves"
+        },
+        {
+            "text": "12 teaspoon dried rosemary leaves, crushed"
+        },
+        {
+            "text": "14 cup sliced ripe olives"
+        }
+    ],
+    "recipe": [
+        {
+            "text": "Place oven rack in lowest position in oven."
+        },
+        {
+            "text": "Heat oven to 500 degrees F."
+        },
+        {
+            "text": "Grease large cookie sheet or pizza pan."
+        },
+        {
+            "text": "In medium bowl, combine pizza crust mix and hot water."
+        },
+        {
+            "text": "Stir vigorously with fork about 30 strokes or until blended."
+        },
+        {
+            "text": "Shape dough into ball; coat with 1 teaspoon of the olive oil."
+        },
+        {
+            "text": "Cover; let rise in warm place (80 to 85 degrees F.) for 5 minutes."
+        },
+        {
+            "text": "With greased hands, press dough into 11-inch circle on greased cookie sheet."
+        },
+        {
+            "text": "Pinch edge to form rim."
+        },
+        {
+            "text": "Drizzle remaining 2 teaspoons olive oil over dough; spread evenly."
+        },
+        {
+            "text": "Sprinkle garlic and cheeses over dough; sprinkle with basil, thyme, rosemary and olives."
+        },
+        {
+            "text": "Bake at 500 degrees F. on lowest oven rack for 10 to 14 minutes or until crust is golden brown and cheese is melted."
+        },
+        {
+            "text": "Let stand 5 minutes before serving."
+        }
+    ]
+}

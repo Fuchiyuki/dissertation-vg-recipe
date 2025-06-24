@@ -1,0 +1,79 @@
+{
+    "title": "southwestern_bbq_chicken_pizza",
+    "id": "c5b9fc8026",
+    "table": [
+        {
+            "instructions": "put the pizza_crust on a large baking sheet or pizza stone .",
+            "input": "pizza_crust",
+            "action": "put",
+            "output": "pizza_crust"
+        },
+        {
+            "instructions": "spread 14 cup , barbecue_sauce over crust .",
+            "input": "crust, barbecue",
+            "action": "spread",
+            "output": "Spread barbecue over crust"
+        },
+        {
+            "instructions": "in a bowl , combine the remaining barbecue_sauce and chicken ;",
+            "input": "Barbeque_sauce, chicken",
+            "action": "combine",
+            "output": "chicken mixture"
+        },
+        {
+            "instructions": "spoon chicken mixture over crust .",
+            "input": "chicken mixture,crust",
+            "action": "spoon",
+            "output": "spoon chicken mixture over crust"
+        },
+        {
+            "instructions": "top with cheese and cilantro .",
+            "input": "cheese, cilantro, pizza crust",
+            "action": "top",
+            "output": "pizza crust topped with cheese and cilantro"
+        },
+        {
+            "instructions": "bake in a 450 oven for 10 minutes or until cheese melts .",
+            "input": "uncookd pizza",
+            "action": "bake",
+            "output": "baken barbeques and chicken cilantro pizza"
+        }
+    ],
+    "ingredients": [
+        {
+            "text": "1 (16 ounce) package prepared pizza crust (Boboli)"
+        },
+        {
+            "text": "12 cup barbecue sauce, divided"
+        },
+        {
+            "text": "2 (9 ounce) packagessouthwest-flavored cooked chicken breast strips, chopped (Tyson Southwest Seasoned Chicken Breast Strips)"
+        },
+        {
+            "text": "1 12 cups shredded four-cheese Mexican blend cheese"
+        },
+        {
+            "text": "2 tablespoons chopped fresh cilantro"
+        }
+    ],
+    "recipe": [
+        {
+            "text": "Put the pizza crust on a large baking sheet or pizza stone."
+        },
+        {
+            "text": "Spread 1/4 cup barbecue sauce over crust."
+        },
+        {
+            "text": "In a bowl, combine the remaining barbecue sauce and chicken; tossing to coat well."
+        },
+        {
+            "text": "Spoon chicken mixture over crust."
+        },
+        {
+            "text": "Top with cheese and cilantro."
+        },
+        {
+            "text": "Bake in a 450 oven for 10 minutes or until cheese melts."
+        }
+    ]
+}

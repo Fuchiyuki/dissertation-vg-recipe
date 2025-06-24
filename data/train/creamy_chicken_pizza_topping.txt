@@ -1,0 +1,196 @@
+{
+    "title": "creamy_chicken_pizza_topping",
+    "id": "388f15de85",
+    "table": [
+        {
+            "instructions": "cook chicken_breast in oven for 30 minutes at 180c 350f or grill until cooked through .",
+            "input": "chicken_breast",
+            "action": "cook",
+            "output": "cooked_chicken_breast"
+        },
+        {
+            "instructions": "melt butter over gentle heat in a small saucepan",
+            "input": "butter",
+            "action": "melt",
+            "output": "melted_butter"
+        },
+        {
+            "instructions": "stir in flour until mixed well .",
+            "input": "(melted_butter;flour)",
+            "action": "stir",
+            "output": "butter_and_flour_mixture"
+        },
+        {
+            "instructions": "stir in milk gradually",
+            "input": "(butter_and_flour_mixture;milk)",
+            "action": "stir",
+            "output": "stirred roux"
+        },
+        {
+            "instructions": "reduce temperature to low",
+            "input": "stirred roux",
+            "action": "reduce",
+            "output": "stirred roux"
+        },
+        {
+            "instructions": "stir through cheese until it has just melted",
+            "input": "(stirred roux;cheese)",
+            "action": "stir",
+            "output": "cheese_sauce"
+        },
+        {
+            "instructions": "remove from the heat .",
+            "input": "NA",
+            "action": "remove",
+            "output": "NA"
+        },
+        {
+            "instructions": "stir through the pineapple_juice",
+            "input": "(cheese_mixture;pineapple_juice)",
+            "action": "stir",
+            "output": "cheese_and_pineapple_mixture"
+        },
+        {
+            "instructions": "stir rapidly to get it back to a thinner consistency .",
+            "input": "cheese_and_pineapple_mixture",
+            "action": "stir",
+            "output": "cheese_sauce"
+        },
+        {
+            "instructions": "coarsely cut the chicken into cubes roughly 1 cm little under 12 across",
+            "input": "chicken_breast",
+            "action": "cut",
+            "output": "cubed_chicken"
+        },
+        {
+            "instructions": "add to the cheese_sauce",
+            "input": "(cubed_chicken;cheese sauce)",
+            "action": "add",
+            "output": "chicken_mixture"
+        },
+        {
+            "instructions": "mix through .",
+            "input": "NA",
+            "action": "mix",
+            "output": "NA"
+        },
+        {
+            "instructions": "stir through pineapple , onion , garlic , parsley , chives and sage .",
+            "input": "(pineapple;onion;garlic;parsley;chives;sage)",
+            "action": "stir",
+            "output": "seasoned_pineapple_mixture"
+        },
+        {
+            "instructions": "place in the refrigerator 30 minutes",
+            "input": "NA",
+            "action": "place",
+            "output": "NA"
+        },
+        {
+            "instructions": "you prepare the oven grill or alternatively it can be done in advance .",
+            "input": "NA",
+            "action": "prepare",
+            "output": "NA"
+        },
+        {
+            "instructions": "spread the base with the tomato_paste or your favourite pizza_sauce and",
+            "input": "(pizza_sauce;base)",
+            "action": "spread",
+            "output": "sauced_base"
+        },
+        {
+            "instructions": "evenly spread the chicken mixture over the top .",
+            "input": "(sauced_base;chicken_mixture)",
+            "action": "spread",
+            "output": "chicken_topped_crust"
+        },
+        {
+            "instructions": "sprinkle the remaining 12 cup of mozzarella over the top",
+            "input": "(chicken_topped_crust;mozzarella)",
+            "action": "sprinkle",
+            "output": "chicken_hawaiian_pizza"
+        },
+        {
+            "instructions": "cook as per your preferences until the cheese is melted through etc .",
+            "input": "NA",
+            "action": "cook",
+            "output": "NA"
+        }
+    ],
+    "ingredients": [
+        {
+            "text": "250 g chicken breasts"
+        },
+        {
+            "text": "1 tablespoon butter"
+        },
+        {
+            "text": "1 tablespoon flour"
+        },
+        {
+            "text": "12 cup milk"
+        },
+        {
+            "text": "1 cup mozzarella cheese, grated and divided"
+        },
+        {
+            "text": "2 tablespoons pineapple juice (reserve juice if using tin)"
+        },
+        {
+            "text": "12 cup pineapple, coarsely diced"
+        },
+        {
+            "text": "1 small onion, finely diced"
+        },
+        {
+            "text": "2 teaspoons garlic, crushed"
+        },
+        {
+            "text": "1 teaspoon dried parsley"
+        },
+        {
+            "text": "1 teaspoon dried chives"
+        },
+        {
+            "text": "12 teaspoon dried sage"
+        },
+        {
+            "text": "150 g tomato paste"
+        }
+    ],
+    "recipe": [
+        {
+            "text": "Cook chicken breast in oven for 30 minutes at 180C / 350F or grill until cooked through."
+        },
+        {
+            "text": "You can of course use leftover chicken."
+        },
+        {
+            "text": "Melt butter over gentle heat in a small saucepan and stir in flour until mixed well."
+        },
+        {
+            "text": "Stir in milk gradually and continue to stir until it has reduced just a little, not much just a minute or two."
+        },
+        {
+            "text": "Reduce temperature to low and stir through cheese until it has just melted and remove from the heat."
+        },
+        {
+            "text": "Stir through the pineapple juice and stir rapidly to get it back to a thinner consistency."
+        },
+        {
+            "text": "Coarsely cut the chicken into cubes roughly 1cm (little under 1/2\") across and add to the cheese sauce and mix through."
+        },
+        {
+            "text": "Stir through pineapple, onion, garlic, parsley, chives and sage."
+        },
+        {
+            "text": "Place in the refrigerator 30 minutes while you prepare the oven/grill or alternatively it can be done in advance."
+        },
+        {
+            "text": "Spread the base with the tomato paste or your favourite pizza sauce and then evenly spread the chicken mixture over the top."
+        },
+        {
+            "text": "Sprinkle the remaining 1/2 cup of mozzarella over the top and cook as per your preferences until the cheese is melted through etc."
+        }
+    ]
+}

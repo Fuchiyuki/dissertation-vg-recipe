@@ -1,0 +1,109 @@
+{
+    "title": "oat_crust_fruit_pizza",
+    "id": "b0e794b746",
+    "table": [
+        {
+            "instructions": "for crust , combine butter , brown_sugar , flour and oatmeal .",
+            "input": "(butter; brown_sugar; flour; oatlmeal)",
+            "action": "combine",
+            "output": "oat_dough"
+        },
+        {
+            "instructions": "press into ungreased cookie sheet .",
+            "input": "oat_dough",
+            "action": "press",
+            "output": "uncooked_oat_crust"
+        },
+        {
+            "instructions": "bake at 375 for 15 minute .",
+            "input": "uncooked_oat_crust",
+            "action": "bake",
+            "output": "baked_oat_crust"
+        },
+        {
+            "instructions": "for filling , combine cream_cheese , whipped_topping , marshmallow_creme and powdered_sugar .",
+            "input": "(cram_cheese; whipped_topping; marshmallow_creme; powdered_sugar)",
+            "action": "combine",
+            "output": "cream_cheese_filling"
+        },
+        {
+            "instructions": "spread evenly over cooled crust .",
+            "input": "(cream_cheese_filling; cooled_baked_crust)",
+            "action": "spread",
+            "output": "cream_cheese_filling spread over cooled_baked_crust"
+        },
+        {
+            "instructions": "add assorted sliced or cut up fruits of your choice .",
+            "input": "(baked_oat_crust_with_cream_cheese_filling; assorted_sliced_fruits)",
+            "action": "add",
+            "output": "assorted_sliced_fruits added on baked_oat_crust_with_cream_cheese_filling"
+        },
+        {
+            "instructions": "refrigerate until ready to serve .",
+            "input": "oat_crust_fruit_pizza",
+            "action": "refrigerate",
+            "output": "refrigerated oat_crust_fruit_pizza"
+        }
+    ],
+    "ingredients": [
+        {
+            "text": "1 cup soft butter"
+        },
+        {
+            "text": "12 cup brown sugar"
+        },
+        {
+            "text": "2 cups flour"
+        },
+        {
+            "text": "12 cup oatmeal"
+        },
+        {
+            "text": "8 ounces cream cheese"
+        },
+        {
+            "text": "8 ounces whipped topping"
+        },
+        {
+            "text": "1 cup marshmallow creme"
+        },
+        {
+            "text": "2 tablespoons powdered sugar"
+        },
+        {
+            "text": "assorted fruit"
+        }
+    ],
+    "recipe": [
+        {
+            "text": "For crust, combine butter, brown sugar, flour and oatmeal."
+        },
+        {
+            "text": "Press into ungreased cookie sheet."
+        },
+        {
+            "text": "Bake at 375 for 15 minute."
+        },
+        {
+            "text": "Cool."
+        },
+        {
+            "text": "For filling, combine cream cheese, whipped topping, marshmallow creme and powdered sugar."
+        },
+        {
+            "text": "Spread evenly over cooled crust."
+        },
+        {
+            "text": "Add assorted sliced or cut up fruits of your choice."
+        },
+        {
+            "text": "(I like to use strawberries, blueberries, kiwi and mandarin oranges."
+        },
+        {
+            "text": ")."
+        },
+        {
+            "text": "Refrigerate until ready to serve."
+        }
+    ]
+}

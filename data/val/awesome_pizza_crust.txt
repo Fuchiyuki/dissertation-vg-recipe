@@ -1,0 +1,148 @@
+{
+    "title": "awesome_pizza_crust",
+    "id": "77260323e9",
+    "table": [
+        {
+            "instructions": "mix yeast , warm_water , honey and sugar in small bowl",
+            "input": "(yeast; warm_water; honey; sugar)",
+            "actions": "mix",
+            "output": "yeast_mixture"
+        },
+        {
+            "instructions": "set aside .",
+            "input": "yeast_mixture",
+            "actions": "set",
+            "output": "wet_ingredients"
+        },
+        {
+            "instructions": "mix both flours , salt and spices use a few shakes of whatever spices you like .",
+            "input": "(flours; salt; spices)",
+            "actions": "mix",
+            "output": "dry_ingredients"
+        },
+        {
+            "instructions": "add olive_oil to dry ingredients",
+            "input": "(olive_oil; dry_ingredients)",
+            "actions": "add",
+            "output": "olive_oil_added_to_dry_ingredients"
+        },
+        {
+            "instructions": "then add the rest of the wet ingredients",
+            "input": "(olive_oil_added_to_dry_ingredients; wet_ingredients)",
+            "actions": "add",
+            "output": "wet_ingredients_added_to dry_ingredients"
+        },
+        {
+            "instructions": "mix together .",
+            "input": "wet_ingredients_added_to dry_ingredients",
+            "actions": "mix",
+            "output": "dough"
+        },
+        {
+            "instructions": "knead for several minutes until you have a ball .",
+            "input": "dough",
+            "actions": "knead",
+            "output": "kneaded_dough"
+        },
+        {
+            "instructions": "spread a thin layer of honey over the dough",
+            "input": "(honey; dough)",
+            "actions": "spread",
+            "output": "honey_spread_over_dough"
+        },
+        {
+            "instructions": "place in a bowl to rise .",
+            "input": "honey_spread_over_dough",
+            "actions": "place",
+            "output": "honey_spread_over_dough"
+        },
+        {
+            "instructions": "roll out dough on floured surface",
+            "input": "dough",
+            "actions": "roll",
+            "output": "rolled_dough"
+        },
+        {
+            "instructions": "place on two greased pizza\u2012pan .",
+            "input": "rolled_dough",
+            "actions": "place",
+            "output": "pizza_crust"
+        },
+        {
+            "instructions": "put on your favorite toppings",
+            "input": "(pizza_crust; toppings)",
+            "actions": "put",
+            "output": "toppings_put_on_pizza_crust"
+        },
+        {
+            "instructions": "bake at 500 f for 10 15 minutes .",
+            "input": "uncooked_pizza",
+            "actions": "bake",
+            "output": "baked_pizza"
+        }
+    ],
+    "ingredients": [
+        {
+            "text": "2 tablespoons yeast"
+        },
+        {
+            "text": "1 12 cups warm water"
+        },
+        {
+            "text": "1 tablespoon honey, plus extra for rising"
+        },
+        {
+            "text": "1 tablespoon sugar"
+        },
+        {
+            "text": "1 tablespoon olive oil"
+        },
+        {
+            "text": "1 12 cups wheat flour"
+        },
+        {
+            "text": "2 12 cups white flour"
+        },
+        {
+            "text": "1 teaspoon salt"
+        },
+        {
+            "text": "italian seasoning"
+        },
+        {
+            "text": "granulated garlic"
+        },
+        {
+            "text": "spices"
+        }
+    ],
+    "recipe": [
+        {
+            "text": "Mix yeast, warm water, honey and sugar in small bowl and set aside."
+        },
+        {
+            "text": "Mix both flours, salt and spices (use a few shakes of whatever spices you like)."
+        },
+        {
+            "text": "Add olive oil to dry ingredients and then add the rest of the wet ingredients and mix together."
+        },
+        {
+            "text": "Knead for several minutes until you have a ball."
+        },
+        {
+            "text": "Spread a thin layer of honey over the dough and place in a bowl to rise."
+        },
+        {
+            "text": "Let rise for about an hour (or less if you like, but I like it better when it has longer to rise)."
+        },
+        {
+            "text": "Roll out dough on floured surface and place on two greased pizza pans."
+        },
+        {
+            "text": "Let rise again (about half hour, or until it's at your desired puffiness)."
+        },
+        {
+            "text": "Put on your favorite toppings and bake at 500 F for 10-15 minutes."
+        }
+    ]
+}

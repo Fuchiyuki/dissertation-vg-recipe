@@ -1,0 +1,157 @@
+{
+    "title": "white_pizza_with_roasted_garlic_and_green_olives",
+    "id": "e4a339ba41",
+    "table": [
+        {
+            "instructions": "preheat the oven to 350 degrees f 175 degrees c.",
+            "input": "NA",
+            "actions": "preheat",
+            "output": "NA"
+        },
+        {
+            "instructions": "slice the top off of the head of garlic ,",
+            "input": "garlic head",
+            "actions": "slice",
+            "output": "sliced garlic head"
+        },
+        {
+            "instructions": "sprinkle with a little salt .",
+            "input": "(salt; sliced garlic head)",
+            "actions": "sprinkle",
+            "output": "salt sprinkled over garlic head"
+        },
+        {
+            "instructions": "place on a square of aluminum foil ,",
+            "input": "salted garlic head",
+            "actions": "place",
+            "output": "salted garlic head"
+        },
+        {
+            "instructions": "drizzle with olive_oil .",
+            "input": "(olive oil; salted garlic head)",
+            "actions": "drizzle",
+            "output": "oil drizzled over garlic head"
+        },
+        {
+            "instructions": "wrap the foil loosely around the garlic .",
+            "input": "oiled garlic head",
+            "actions": "wrap",
+            "output": "wrapped oiled garlic head"
+        },
+        {
+            "instructions": "bake for 35 to 40 minutes in the preheated oven , until cloves are tender .",
+            "input": "wrapped oiled garlic head",
+            "actions": "bake",
+            "output": "baked garlic head"
+        },
+        {
+            "instructions": "drizzle olive_oil from the garlic , foil",
+            "input": "baked garlic head",
+            "actions": "drizzle",
+            "output": "garlic oil"
+        },
+        {
+            "instructions": "pack over the pizza_crust ,",
+            "input": "pizza_crust",
+            "actions": "pack",
+            "output": "pizza_crust"
+        },
+        {
+            "instructions": "brush to spread evenly .",
+            "input": "(garlic oil; pizza_crust)",
+            "actions": "brush",
+            "output": "pizza_crust_brushed_with_garlic_oil"
+        },
+        {
+            "instructions": "sprinkle the green_olive over the crust .",
+            "input": "(oiled_pizza_crust; green_olive)",
+            "actions": "sprinkle",
+            "output": "green_olive_sprinkled_over_pizza_crust"
+        },
+        {
+            "instructions": "top with shredded_cheese .",
+            "input": "(topped_pizza_crust; shredded_cheese)",
+            "actions": "top",
+            "output": "pizza_crust_topped_with_shredded_cheese"
+        },
+        {
+            "instructions": "squeeze the garlic_clove out of the paper skins ,",
+            "input": "baked garlic head",
+            "actions": "squeeze",
+            "output": "squeezed garlic cloves"
+        },
+        {
+            "instructions": "bake for 30 to 35 minutes in the preheated oven , or until the cheese is melted and bubbly and the edges are nicely browned .",
+            "input": "uncooked pizza",
+            "actions": "bake",
+            "output": "baked pizza_with_roasted_garlic_and_green_olives"
+        },
+        {
+            "instructions": "slice",
+            "input": "baked pizza_with_roasted_garlic_and_green_olives",
+            "actions": "slice",
+            "output": "slice_pizza_with_roasted_garlic_and_green_olives"
+        },
+        {
+            "instructions": "serve .",
+            "input": "/white_pizza_with_roasted_garlic_and_green_olives",
+            "actions": "serve",
+            "output": "served_/white_pizza_with_roasted_garlic_and_green_olives"
+        }
+    ],
+    "ingredients": [
+        {
+            "text": "1 (12 inch) pre-baked pizza crust"
+        },
+        {
+            "text": "1 bulb garlic"
+        },
+        {
+            "text": "5 tablespoons olive oil"
+        },
+        {
+            "text": "1 pinch salt"
+        },
+        {
+            "text": "1 cup sliced green olives"
+        },
+        {
+            "text": "1 (8 ounce) package shredded Italian cheese blend"
+        }
+    ],
+    "recipe": [
+        {
+            "text": "Preheat the oven to 350 degrees F (175 degrees C)."
+        },
+        {
+            "text": "Slice the top off of the head of garlic, and sprinkle with a little salt."
+        },
+        {
+            "text": "Place on a square of aluminum foil, and drizzle with olive oil."
+        },
+        {
+            "text": "Wrap the foil loosely around the garlic."
+        },
+        {
+            "text": "Bake for 35 to 40 minutes in the preheated oven, until cloves are tender."
+        },
+        {
+            "text": "Drizzle olive oil from the garlic foil pack over the pizza crust, and brush to spread evenly."
+        },
+        {
+            "text": "Sprinkle the green olives over the crust."
+        },
+        {
+            "text": "Top with shredded cheese."
+        },
+        {
+            "text": "Squeeze the garlic cloves out of the paper skins, and distribute on top of the pizza."
+        },
+        {
+            "text": "Bake for 30 to 35 minutes in the preheated oven, or until the cheese is melted and bubbly and the edges are nicely browned."
+        },
+        {
+            "text": "Allow to cool for a few minutes, then slice and serve."
+        }
+    ]
+}

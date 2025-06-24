@@ -1,0 +1,145 @@
+{
+    "title": "low_carb_individual_spicy_chicken_pizza",
+    "id": "f9ddd58ba3",
+    "table": [
+        {
+            "instructions": "microwave chicken_breast for 7 minutes .",
+            "input": "chicken_breast",
+            "action": "microwave",
+            "output": "microwaved_chicken_breast"
+        },
+        {
+            "instructions": "shred with fork .",
+            "input": "Cooked chicken breast",
+            "action": "shred",
+            "output": "Shredded chicken"
+        },
+        {
+            "instructions": "mix 2 tbsp hot_sauce into shredded chicken .",
+            "input": "(Shredded chicken; hot sauce)",
+            "action": "mix",
+            "output": "Mixed shredded chicken with hot sauce"
+        },
+        {
+            "instructions": "spray 2 cookie sheets with non_stick_spray",
+            "input": "NA",
+            "action": "spray",
+            "output": "NA"
+        },
+        {
+            "instructions": "place 3 tortillas on each .",
+            "input": "tortilla",
+            "action": "place",
+            "output": "tortilla"
+        },
+        {
+            "instructions": "use pastry brush to spread remaining 2 tbsp hot_sauce on each tortilla .",
+            "input": "(tortilla; remaining hot sauce)",
+            "action": "use",
+            "output": "remaining hot sauce brushed on tortilla"
+        },
+        {
+            "instructions": "divide",
+            "input": "(chicken , prosciutto , green_pepper , onion , mushrooms; cheese; tortilla with hot sauce)",
+            "action": "divide",
+            "output": "chicken , prosciutto , green_pepper , onion , mushrooms and cheese divided among tortillas with hot sauce"
+        },
+        {
+            "instructions": "spread , in order , chicken , prosciutto , green_pepper , onion , mushrooms and cheese among tortillas .",
+            "input": "chicken , prosciutto , green_pepper , onion , mushrooms and cheese divided among tortillas with hot sauce",
+            "action": "spread",
+            "output": "Toppings on tortillas"
+        },
+        {
+            "instructions": "bake approximately 20 minutes 375 degrees f .",
+            "input": "Toppings on tortillas",
+            "action": "bake",
+            "output": "spicy_chicken_tortilla pizza"
+        },
+        {
+            "instructions": "remove from oven",
+            "input": "spicy_chicken_tortilla pizza",
+            "action": "remove",
+            "output": "spicy_chicken_tortilla pizza"
+        },
+        {
+            "instructions": "add 6 tomato halves to each pizza .",
+            "input": "(tomato halves; spicy_chicken_tortilla pizza)",
+            "action": "add",
+            "output": "spicy_chicken_tortilla pizza with tomato halves"
+        },
+        {
+            "instructions": "serve immediately .",
+            "input": "spicy_chicken_tortilla pizza with tomato halves",
+            "action": "serve",
+            "output": "Ready-to-eat spicy_chicken_tortilla pizza with tomato halves"
+        }
+    ],
+    "ingredients": [
+        {
+            "text": "2 large chicken breasts"
+        },
+        {
+            "text": "34 cup prosciutto, diced"
+        },
+        {
+            "text": "6 low-carb flour tortillas"
+        },
+        {
+            "text": "34 green pepper, sliced"
+        },
+        {
+            "text": "12 onion, sliced"
+        },
+        {
+            "text": "12 cup mushroom, sliced"
+        },
+        {
+            "text": "4 tablespoons hot sauce, divided"
+        },
+        {
+            "text": "1 cup shredded Mexican blend cheese"
+        },
+        {
+            "text": "18 grape tomatoes, halved"
+        }
+    ],
+    "recipe": [
+        {
+            "text": "Microwave chicken breasts for 7 minutes."
+        },
+        {
+            "text": "Shred with fork."
+        },
+        {
+            "text": "Mix 2 Tbsp hot sauce into shredded chicken."
+        },
+        {
+            "text": "Spray 2 cookie sheets with non-stick spray and place 3 tortillas on each."
+        },
+        {
+            "text": "Use pastry brush to spread remaining 2 Tbsp hot sauce on each tortilla."
+        },
+        {
+            "text": "(You can always use more if you prefer it hotter!"
+        },
+        {
+            "text": ")."
+        },
+        {
+            "text": "Divide and spread, in order, chicken, prosciutto, green pepper, onion, mushrooms and cheese among tortillas."
+        },
+        {
+            "text": "Bake approximately 20 minutes@ 375 degrees F."
+        },
+        {
+            "text": "until cheese melts."
+        },
+        {
+            "text": "Remove from oven and add 6 tomato halves to each pizza."
+        },
+        {
+            "text": "Serve immediately."
+        }
+    ]
+}

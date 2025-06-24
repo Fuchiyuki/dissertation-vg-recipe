@@ -1,0 +1,100 @@
+{
+    "title": "rice_crust_for_pizza",
+    "id": "935e50ea1d",
+    "table": [
+        {
+            "instructions": "place water and rice in a medium saucepan ,",
+            "input": "(water; rice)",
+            "actions": "place",
+            "output": "rice_in water"
+        },
+        {
+            "instructions": "cover",
+            "input": "rice_in water",
+            "actions": "cover",
+            "output": "covered rice in water"
+        },
+        {
+            "instructions": "reduce heat to low ,",
+            "input": "covered rice in water",
+            "actions": "reduce",
+            "output": "cooking_rice"
+        },
+        {
+            "instructions": "simmer for 20 minutes .",
+            "input": "cooking_rice",
+            "actions": "simmer",
+            "output": "cooked_rice"
+        },
+        {
+            "instructions": "preheat oven to 400 degrees f 200 degrees c.",
+            "input": "NA",
+            "actions": "preheat",
+            "output": "NA"
+        },
+        {
+            "instructions": "in a medium size , mixing bowl , mix together cooked_rice , beaten_egg , mozzarella_cheese , and tabasco sauce .",
+            "input": "(cooking_rice; beaten_egg; mozzarella_cheese; tabasco sauce)",
+            "actions": "mix",
+            "output": "rice_mixture"
+        },
+        {
+            "instructions": "press mixture evenly into a lightly greased 12 inch , pizza\u2012pan , covering bottom and sides .",
+            "input": "rice_mixture",
+            "actions": "press",
+            "output": "pressed_rice_crust"
+        },
+        {
+            "instructions": "bake in preheated oven for 4 minutes , or until set .",
+            "input": "uncooked_rice_crust",
+            "actions": "bake",
+            "output": "baked_rice_crust"
+        },
+        {
+            "instructions": "remove crust from oven ,",
+            "input": "baked_rice_crust",
+            "actions": "remove",
+            "output": "baked_rice_crust"
+        }
+    ],
+    "ingredients": [
+        {
+            "text": "2 cups water"
+        },
+        {
+            "text": "1 cup uncooked long-grain white rice"
+        },
+        {
+            "text": "1 egg, beaten"
+        },
+        {
+            "text": "1/2 cup shredded part-skim mozzarella cheese"
+        },
+        {
+            "text": "1/8 teaspoon hot pepper sauce (optional)"
+        }
+    ],
+    "recipe": [
+        {
+            "text": "Place water and rice in a medium saucepan, and bring to a boil."
+        },
+        {
+            "text": "Cover, reduce heat to low, and simmer for 20 minutes."
+        },
+        {
+            "text": "Preheat oven to 400 degrees F (200 degrees C)."
+        },
+        {
+            "text": "In a medium size mixing bowl, mix together cooked rice, beaten egg, mozzarella cheese, and Tabasco sauce."
+        },
+        {
+            "text": "Press mixture evenly into a lightly greased 12 inch pizza pan, covering bottom and sides."
+        },
+        {
+            "text": "Bake in preheated oven for 4 minutes, or until set."
+        },
+        {
+            "text": "Remove crust from oven, and let cool slightly before layering with your favorite sauce and other goodies."
+        }
+    ]
+}

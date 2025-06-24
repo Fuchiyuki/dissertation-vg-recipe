@@ -1,0 +1,127 @@
+{
+    "title": "fresh_garden_pizza",
+    "id": "c1a1d7cc18",
+    "table": [
+        {
+            "instructions": "on a large baking sheet , toss chopped fresh vegetables with a drizzle of olive_oil and salt and pepper .",
+            "input": "(vegetables; salt; pepper)",
+            "action": "toss",
+            "output": "tossed_vegetables mixture"
+        },
+        {
+            "instructions": "roast at 425 degrees f for about 10 minutes .",
+            "input": "tossed_vegetables mixture",
+            "action": "roast",
+            "output": "roasted vegetable mixture"
+        },
+        {
+            "instructions": "prepare your favorite pizza_dough recipe",
+            "input": "pizza dough ingredients",
+            "action": "prepare",
+            "output": "prepared pizza dough"
+        },
+        {
+            "instructions": "place it on a pizza stone .",
+            "input": "prepared pizza dough",
+            "action": "place",
+            "output": "prepared pizza dough"
+        },
+        {
+            "instructions": "spread pesto on top of pizza_dough .",
+            "input": "(prepared pizza dough; pesto)",
+            "action": "spread",
+            "output": "pizza crust with pesto"
+        },
+        {
+            "instructions": "place mozzarella_cheese evenly over pesto .",
+            "input": "(pizza crust with pesto; mozzarella cheese)",
+            "action": "place",
+            "output": "pizza crust with pesto and mozzarella cheese"
+        },
+        {
+            "instructions": "top with roasted vegetables",
+            "input": "(pizza crust with pesto and mozzarella cheese; roasted vegetable mixture)",
+            "action": "top",
+            "output": "pizza crust with pesto, mozzarella cheese and roasted vegetable mixture"
+        },
+        {
+            "instructions": "then sprinkle with parmesan_cheese .",
+            "input": "(pizza crust with pesto, mozzarella cheese and roasted vegetable mixture; parmesan cheese)",
+            "action": "sprinkle",
+            "output": "pizza crust with pesto, mozzarella cheese, roasted vegetable mixture and parmesan cheese"
+        },
+        {
+            "instructions": "bake at 450 degrees f for approximately 12 minutes .",
+            "input": "uncooked roasted vegetable pizza",
+            "action": "bake",
+            "output": "baked roasted vegetable pizza"
+        },
+        {
+            "instructions": "use whatever fresh seasonal vegetables you harvest from the garden or local market .",
+            "input": "NA",
+            "action": "use",
+            "output": "NA"
+        }
+    ],
+    "ingredients": [
+        {
+            "text": "1 whole Japanese Eggplant, Sliced"
+        },
+        {
+            "text": "1 whole Bell Pepper, Any Color, Sliced"
+        },
+        {
+            "text": "1/2 cups Cherry Tomatoes, Halved"
+        },
+        {
+            "text": "1/2 cups Fresh Green Beans"
+        },
+        {
+            "text": "2 Tablespoons Olive Oil"
+        },
+        {
+            "text": "1 whole Pizza Dough Recipe (enough For One Large Crust)"
+        },
+        {
+            "text": "13 cups Fresh Basil Pesto"
+        },
+        {
+            "text": "8 ounces, weight Fresh Mozzarella"
+        },
+        {
+            "text": "1/4 cups Parmesan Cheese, Shredded"
+        }
+    ],
+    "recipe": [
+        {
+            "text": "On a large baking sheet, toss chopped fresh vegetables with a drizzle of olive oil and salt and pepper."
+        },
+        {
+            "text": "Roast at 425 degrees F for about 10 minutes."
+        },
+        {
+            "text": "When you remove them from the oven, increase the temperature of your oven to 450F so its ready for the pizza."
+        },
+        {
+            "text": "Prepare your favorite pizza dough recipe and place it on a pizza stone."
+        },
+        {
+            "text": "Spread pesto on top of pizza dough."
+        },
+        {
+            "text": "Place mozzarella cheese evenly over pesto."
+        },
+        {
+            "text": "Top with roasted vegetables and then sprinkle with parmesan cheese."
+        },
+        {
+            "text": "Bake at 450 degrees F for approximately 12 minutes."
+        },
+        {
+            "text": "Use whatever fresh seasonal vegetables you harvest from the garden (or local market)."
+        },
+        {
+            "text": "Enjoy!"
+        }
+    ]
+}

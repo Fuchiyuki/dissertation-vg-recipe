@@ -1,0 +1,136 @@
+{
+    "title": "spinach_pineapple_flatbread_pizza",
+    "id": "fbf4b94979",
+    "table": [
+        {
+            "instructions": "place flatbread on lightly sprayed foil lined cookie sheet .",
+            "input": "flatbread",
+            "action": "place",
+            "output": "flatbread"
+        },
+        {
+            "instructions": "spread on pizza_sauce",
+            "input": "pizza_sauce",
+            "action": "spread",
+            "output": "tomato_sauce_spread_on_flatbread"
+        },
+        {
+            "instructions": "place bits of spinach all over pizza_sauce",
+            "input": "(spinach; flatbread with pizza sauce)",
+            "action": "place",
+            "output": "flatbread with pizza sauce and spinach"
+        },
+        {
+            "instructions": "dice pineapple",
+            "input": "PINEAPPLE",
+            "action": "dice",
+            "output": "diced PINEAPPLE"
+        },
+        {
+            "instructions": "spread pieces all over on top of spinach .",
+            "input": "(flatbread with pizza sauce and spinach; diced PINEAPPLE)",
+            "action": "spread",
+            "output": "diced PINEAPPLE spread on flatbread with pizza sauce and spinach"
+        },
+        {
+            "instructions": "sprinkle with as much cheese as u would like .",
+            "input": "(cheese; flatbread with pizza sauce, spinach and diced pineapple)",
+            "action": "sprinkle",
+            "output": "flatbread with pizza sauce, spinach and diced pineapple topped with cheese"
+        },
+        {
+            "instructions": "slice cherry_tomato",
+            "input": "CHERRY TOMATO",
+            "action": "slice",
+            "output": "sliced cherry TOMATO"
+        },
+        {
+            "instructions": "arrange over cheese .",
+            "input": "(CHEESE; spinach_pineapple_flatbread_pizza)",
+            "action": "arrange",
+            "output": "cheese arranged over spinach_pineapple_flatbread_pizza"
+        },
+        {
+            "instructions": "sprinkle with a tad of oregano .",
+            "input": "(oregano; spinach_pineapple_flatbread_pizza)",
+            "action": "sprinkle",
+            "output": "oregano sprinkled over spinach_pineapple_flatbread_pizza"
+        },
+        {
+            "instructions": "bake at 375 for 10 minutes or until done to your liking .",
+            "input": "Uncooked spinach_pineapple_flatbread_pizza",
+            "action": "bake",
+            "output": "Baked spinach_pineapple_flatbread_pizza"
+        },
+        {
+            "instructions": "serve !",
+            "input": "Baked spinach_pineapple_flatbread_pizza",
+            "action": "serve",
+            "output": "served Baked spinach_pineapple_flatbread_pizza"
+        }
+    ],
+    "ingredients": [
+        {
+            "text": "1/4 cup canned spinach, squeezed of liquids"
+        },
+        {
+            "text": "1 pinapple ring from a can"
+        },
+        {
+            "text": "2 cherry tomatoes"
+        },
+        {
+            "text": "1 flatbread of choice"
+        },
+        {
+            "text": "3 tbsp pizza sauce"
+        },
+        {
+            "text": "1/4 cup motzarella cheese"
+        },
+        {
+            "text": "1 sprinkling of oregano"
+        }
+    ],
+    "recipe": [
+        {
+            "text": "place flatbread on lightly sprayed foil lined cookie sheet."
+        },
+        {
+            "text": "I used flatout flatbread"
+        },
+        {
+            "text": "spread on pizza sauce"
+        },
+        {
+            "text": "place bits of spinach all over pizza sauce."
+        },
+        {
+            "text": "as much as u would like."
+        },
+        {
+            "text": "dice pineapple and spread pieces all over on top of spinach."
+        },
+        {
+            "text": "sprinkle with as much cheese as u would like."
+        },
+        {
+            "text": "slice cherry tomatoes and arrange over cheese."
+        },
+        {
+            "text": "sprinkle with a tad of oregano."
+        },
+        {
+            "text": "bake at 375 for 10 minutes or until done to your liking."
+        },
+        {
+            "text": "serve!"
+        },
+        {
+            "text": "makes one flatbread pizza!"
+        },
+        {
+            "text": "enjoy!"
+        }
+    ]
+}

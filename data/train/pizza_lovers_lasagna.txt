@@ -1,0 +1,130 @@
+{
+    "title": "pizza_lovers_lasagna",
+    "id": "042ce66c7d",
+    "table": [
+        {
+            "instructions": "heat oven to 400f .",
+            "input": "NA",
+            "action": "heat",
+            "output": "NA"
+        },
+        {
+            "instructions": "heat oil in large skillet on medium heat .",
+            "input": "oil",
+            "action": "heat",
+            "output": "heated_oil"
+        },
+        {
+            "instructions": "add pepperoni and peppers ;",
+            "input": "(heated_oil; pepperoni; peppers)",
+            "action": "add",
+            "output": "peppers and pepperoni in heated oil"
+        },
+        {
+            "instructions": "cook",
+            "input": "peppers and pepperoni in heated oil",
+            "action": "cook",
+            "output": "cooking pepper and pepperoni mixture"
+        },
+        {
+            "instructions": "stir 5 min .",
+            "input": "cooking pepper and pepperoni mixture",
+            "action": "stir",
+            "output": "cooking pepper and pepperoni mixture"
+        },
+        {
+            "instructions": "stir in pasta_sauce , water , parmesan and 1 cup mozzarella .",
+            "input": "(pasta sauce; water; parmesan; mozzarella)",
+            "action": "stir",
+            "output": "pasta_sauce , water , parmesan and mozzarella stirred into cooking pepper and pepperoni mixture"
+        },
+        {
+            "instructions": "spread 14 of the pepperoni mixture onto bottom of 13x9 inch pan ;",
+            "input": "pasta_sauce , water , parmesan and mozzarella stirred into cooking pepper and pepperoni mixture",
+            "action": "spread",
+            "output": "spread pepper and pepperoni mixture in pan"
+        },
+        {
+            "instructions": "top with 3 noodles .",
+            "input": "(lasagna noodles; spread pepper and pepperoni mixture in pan)",
+            "action": "top",
+            "output": "spread pepper and pepperoni mixture in pan topped with lasagna noodles"
+        },
+        {
+            "instructions": "cover with remaining pepperoni mixture .",
+            "input": "(spread pepper and pepperoni mixture in pan topped with lasagna noodles; remaining pepperoni mixture)",
+            "action": "cover",
+            "output": "spread pepper and pepperoni mixture in pan topped with lasagna noodles and covered with remaining pepperoni and pepper mixture"
+        },
+        {
+            "instructions": "sprinkle with remaining mozzarella .",
+            "input": "(remaining mozzarella; assembled layers of noodles and pepper and pepperoni mixture)",
+            "action": "sprinkle",
+            "output": "remaining mozzarella sprinkled over assembled layers of noodles and pepper and pepperoni mixture"
+        },
+        {
+            "instructions": "bake 30 min .",
+            "input": "assembled pizza lasgna",
+            "action": "bake",
+            "output": "baked pizza lasagna"
+        }
+    ],
+    "ingredients": [
+        {
+            "text": "1 Tbsp. oil"
+        },
+        {
+            "text": "1 pkg. (3 oz.) OSCAR MAYER Pepperoni"
+        },
+        {
+            "text": "2 green peppers, chopped"
+        },
+        {
+            "text": "3 cups CLASSICO FAMILY FAVORITES Traditional Pasta Sauce"
+        },
+        {
+            "text": "1 cup water"
+        },
+        {
+            "text": "1/2 cup KRAFT Grated Parmesan Cheese"
+        },
+        {
+            "text": "1-1/2 cups KRAFT Shredded Mozzarella Cheese, divided"
+        },
+        {
+            "text": "9 oven-ready lasagna noodles"
+        }
+    ],
+    "recipe": [
+        {
+            "text": "Heat oven to 400F."
+        },
+        {
+            "text": "Heat oil in large skillet on medium heat."
+        },
+        {
+            "text": "Add pepperoni and peppers; cook and stir 5 min."
+        },
+        {
+            "text": "or until peppers are tender."
+        },
+        {
+            "text": "Stir in pasta sauce, water, Parmesan and 1 cup mozzarella."
+        },
+        {
+            "text": "Spread 1/4 of the pepperoni mixture onto bottom of 13x9-inch pan; top with 3 noodles."
+        },
+        {
+            "text": "Repeat layers twice; cover with remaining pepperoni mixture."
+        },
+        {
+            "text": "Sprinkle with remaining mozzarella."
+        },
+        {
+            "text": "Bake 30 min."
+        },
+        {
+            "text": "or until heated through."
+        }
+    ]
+}

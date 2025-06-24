@@ -1,0 +1,124 @@
+{
+    "title": "grilled_chicken_goat_cheese_roasted_red_pepper_pizza",
+    "id": "502e82f11a",
+    "table": [
+        {
+            "instructions": "preheat the oven to 450f .",
+            "input": "NA",
+            "actions": "preheat",
+            "output": "NA"
+        },
+        {
+            "instructions": "place the crust on a baking sheet large enough for it to lie flat .",
+            "input": "crust",
+            "actions": "place",
+            "output": "crust"
+        },
+        {
+            "instructions": "spread the sauce evenly over the crust to cover all but the outer 12 inch .",
+            "input": "Sauce",
+            "actions": "spread",
+            "output": "Sauce"
+        },
+        {
+            "instructions": "top the sauce evenly with the chicken , bell_pepper strips , and then the goat_cheese .",
+            "input": "Chicken bell pepper goat cheese",
+            "actions": "top",
+            "output": "Chicken bell pepper goat cheese"
+        },
+        {
+            "instructions": "bake until the cheese melts and the crust is lightly crisped , 10 to 12 minutes .",
+            "input": "Uncooked pizza",
+            "actions": "bake",
+            "output": "Pizza"
+        },
+        {
+            "instructions": "top the pizza with cilantro or basil ,",
+            "input": "Cilantro or basil",
+            "actions": "top",
+            "output": "Pizza"
+        },
+        {
+            "instructions": "slice it into 8 equal wedges",
+            "input": "Pizza",
+            "actions": "slice",
+            "output": "Sliced pizza"
+        },
+        {
+            "instructions": "serve immediately .",
+            "input": "Pizza",
+            "actions": "serve",
+            "output": "Pizza"
+        }
+    ],
+    "ingredients": [
+        {
+            "text": "1 (10-ounce) Boboli whole-wheat pizza crust"
+        },
+        {
+            "text": "1/2 cup low-fat pizza or marinara sauce (lower-sodium, if possible)"
+        },
+        {
+            "text": "8 ounces Basic Grilled Chicken (see page 219) or lean, store-bought grilled chicken, cut into 1/2-inch pieces"
+        },
+        {
+            "text": "2/3 cup drained jarred roasted red bell pepper strips"
+        },
+        {
+            "text": "2 ounces (about 1/2 cup) goat cheese crumbles"
+        },
+        {
+            "text": "Chopped fresh cilantro or basil leaves, to taste"
+        }
+    ],
+    "recipe": [
+        {
+            "text": "Preheat the oven to 450F."
+        },
+        {
+            "text": "Place the crust on a baking sheet large enough for it to lie flat."
+        },
+        {
+            "text": "Spread the sauce evenly over the crust to cover all but the outer 1/2 inch."
+        },
+        {
+            "text": "Top the sauce evenly with the chicken, bell pepper strips, and then the goat cheese."
+        },
+        {
+            "text": "Bake until the cheese melts and the crust is lightly crisped, 10 to 12 minutes."
+        },
+        {
+            "text": "Top the pizza with cilantro or basil, and then let it stand 5 minutes."
+        },
+        {
+            "text": "Slice it into 8 equal wedges and serve immediately."
+        },
+        {
+            "text": "Each (2 slice) serving has:"
+        },
+        {
+            "text": "Calories: 324"
+        },
+        {
+            "text": "Protein: 25g"
+        },
+        {
+            "text": "Carbohydrates: 40g"
+        },
+        {
+            "text": "Fat: 8g"
+        },
+        {
+            "text": "Saturated fat: 4g"
+        },
+        {
+            "text": "Cholesterol: 39mg"
+        },
+        {
+            "text": "Fiber: 6g"
+        },
+        {
+            "text": "Sodium: 700mg"
+        }
+    ]
+}

@@ -1,0 +1,79 @@
+{
+    "title": "ranch_pizza",
+    "id": "8742f8e625",
+    "table": [
+        {
+            "instructions": "preheat oven to 35",
+            "input": "NA",
+            "actions": "preheat",
+            "output": "NA"
+        },
+        {
+            "instructions": "spread english_muffin with ranch_dressing",
+            "input": "(ranch_dressing; english_muffin)",
+            "actions": "spread",
+            "output": "ranch_dressing_spread_over_english_muffin"
+        },
+        {
+            "instructions": "top with the chicken , bacon and finally the cheese .",
+            "input": "(english_muffin with ranch dressing; chicken; bacon; cheese)",
+            "actions": "top",
+            "output": "english muffin ranch pizza topped with chicken, bacon and cheese"
+        },
+        {
+            "instructions": "bake for 10 minutes , or until cheese is melted .",
+            "input": "uncooked ranch pizza",
+            "actions": "bake",
+            "output": "baked pizza"
+        },
+        {
+            "instructions": "cut into 4 wedges for appetizer servings .",
+            "input": "baked ranch pizza",
+            "actions": "cut",
+            "output": "COOKED ranch pizza"
+        },
+        {
+            "instructions": "  sometimes i add diced_tomato if i have them around",
+            "input": "(COOKED ranch pizza; diced_tomato)",
+            "actions": "add",
+            "output": "diced_tomato added to cooked ranch pizza"
+        }
+    ],
+    "ingredients": [
+        {
+            "text": "8 English muffins"
+        },
+        {
+            "text": "1 -2 cup ranch dressing"
+        },
+        {
+            "text": "8 ounces chicken breasts, cooked and cubed (can use canned chicken)"
+        },
+        {
+            "text": "8 ounces bacon, cooked and crumbled"
+        },
+        {
+            "text": "16 ounces swiss cheese, grated"
+        }
+    ],
+    "recipe": [
+        {
+            "text": "Preheat oven to 350."
+        },
+        {
+            "text": "Spread english muffins with ranch dressing."
+        },
+        {
+            "text": "Top with the chicken, bacon and finally the cheese."
+        },
+        {
+            "text": "Bake for 10 minutes, or until cheese is melted."
+        },
+        {
+            "text": "Cut into 4 wedges for appetizer servings."
+        },
+        {
+            "text": "Optional: Sometimes I add diced tomatoes if I have them around, that's good, too."
+        }
+    ]
+}

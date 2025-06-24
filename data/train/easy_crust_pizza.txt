@@ -1,0 +1,166 @@
+{
+    "title": "easy_crust_pizza",
+    "id": "2ce891319c",
+    "table": [
+        {
+            "instructions": "heat oven to 425 degrees .",
+            "input": "NA",
+            "action": "heat",
+            "output": "NA"
+        },
+        {
+            "instructions": "grease a 12 inch , pizza\u2012pan ;",
+            "input": "NA",
+            "action": "grease",
+            "output": "NA"
+        },
+        {
+            "instructions": "lightly sprinkle with cornmeal .",
+            "input": "NA",
+            "action": "sprinkle",
+            "output": "NA"
+        },
+        {
+            "instructions": "in a skillet , brown the ground_beef ;",
+            "input": "ground_beef",
+            "action": "brown",
+            "output": "browned_ground_beef"
+        },
+        {
+            "instructions": "drain off fat .",
+            "input": "cooked ground beef",
+            "action": "drain",
+            "output": "drained browned ground beef from excess fat"
+        },
+        {
+            "instructions": "in a medium bowl , combine flour , italian seasoning_salt , pepper , milk and eggs ;",
+            "input": "(flour; italian seasoning; salt, pepper; milk; eggs)",
+            "action": "combine",
+            "output": "combined pizza crust batter"
+        },
+        {
+            "instructions": "blend until smooth .",
+            "input": "combined pizza crust batter",
+            "action": "blend",
+            "output": "combined pizza crust batter"
+        },
+        {
+            "instructions": "pour batter in pizza\u2012pan , tilting to cover bottom evenly .",
+            "input": "pizza dough batter",
+            "action": "pour",
+            "output": "pizza dough batter in pizza pan"
+        },
+        {
+            "instructions": "spread beef over batter .",
+            "input": "(browned beef; pizza dough batter in pizza pan)",
+            "action": "spread",
+            "output": "pizza dough batter in pizza pan with spread browned beef"
+        },
+        {
+            "instructions": "top with mushrooms and onions .",
+            "input": "(pizza dough batter in pizza pan with spread browned beef; mushrooms; onions)",
+            "action": "top",
+            "output": "pizza dough batter in pizza pan with spread browned beef, mushrooms and onions"
+        },
+        {
+            "instructions": "bake on lowest oven rack for 20 25 minutes or until golden brown .",
+            "input": "uncooked pizza dough batter in pizza pan with spread browned beef, mushrooms and onions",
+            "action": "bake",
+            "output": "baked pizza dough batter in pizza pan with spread browned beef, mushrooms and onions"
+        },
+        {
+            "instructions": "remove from oven ;",
+            "input": "baked pizza dough batter in pizza pan with spread browned beef, mushrooms and onions",
+            "action": "remove",
+            "output": "baked pizza dough batter in pizza pan with spread browned beef, mushrooms and onions"
+        },
+        {
+            "instructions": "pour pizza_sauce evenly on top",
+            "input": "(baked pizza dough batter in pizza pan with spread browned beef, mushrooms and onions; pizza sauce)",
+            "action": "pour",
+            "output": "pizza sauce on top of baked crust with beef, onion and mushrooms"
+        },
+        {
+            "instructions": "sprinkle with cheese .",
+            "input": "(sauced baked crust with beef, onion and mushrooms; cheese)",
+            "action": "sprinkle",
+            "output": "cheese sprinkled on sauced baked crust with beef, onion and mushrooms"
+        },
+        {
+            "instructions": "return to oven for another 7 12 minutes .",
+            "input": "uncooked beef pizza",
+            "action": "return",
+            "output": "baked beef pizza"
+        }
+    ],
+    "ingredients": [
+        {
+            "text": "cornmeal"
+        },
+        {
+            "text": "1 lb ground beef"
+        },
+        {
+            "text": "1 cup flour"
+        },
+        {
+            "text": "12 teaspoon italian seasoning"
+        },
+        {
+            "text": "14 teaspoon salt"
+        },
+        {
+            "text": "18 teaspoon pepper"
+        },
+        {
+            "text": "23 cup milk"
+        },
+        {
+            "text": "2 eggs"
+        },
+        {
+            "text": "14 cup onion, finely mined"
+        },
+        {
+            "text": "1 (4 ounce) can mushrooms, drained & minced"
+        },
+        {
+            "text": "1 (8 ounce) canpremade pizza sauce"
+        },
+        {
+            "text": "4 ounces mozzarella cheese, shredded"
+        }
+    ],
+    "recipe": [
+        {
+            "text": "Heat oven to 425 degrees ."
+        },
+        {
+            "text": "Grease a 12-inch pizza pan; lightly sprinkle with cornmeal."
+        },
+        {
+            "text": "In a skillet, brown the ground beef; drain off fat."
+        },
+        {
+            "text": "In a medium bowl, combine flour, Italian seasoning, salt, pepper, milk & eggs; blend until smooth."
+        },
+        {
+            "text": "Pour batter in pizza pan, tilting to cover bottom evenly."
+        },
+        {
+            "text": "Spread beef over batter."
+        },
+        {
+            "text": "Top with mushrooms & onions."
+        },
+        {
+            "text": "Bake on lowest oven rack for 20-25 minutes or until golden brown."
+        },
+        {
+            "text": "Remove from oven; pour pizza sauce evenly on top & sprinkle with cheese."
+        },
+        {
+            "text": "Return to oven for another 7-12 minutes."
+        }
+    ]
+}

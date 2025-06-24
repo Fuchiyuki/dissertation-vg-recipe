@@ -1,0 +1,121 @@
+{
+    "title": "pizza_pie_and_dough_recipe",
+    "id": "0bed140bc7",
+    "table": [
+        {
+            "instructions": "in a small mixing bowl dissolve yeast in hot_water .",
+            "input": "(yeast; hot water)",
+            "action": "dissolve",
+            "output": "dissolved_yeast"
+        },
+        {
+            "instructions": "add in flour mix to the liquid .",
+            "input": "(flour; dissolved_yeast)",
+            "action": "add",
+            "output": "flour added to yeast mixture"
+        },
+        {
+            "instructions": "mix",
+            "input": "partially mixed dough",
+            "action": "mix",
+            "output": "dough"
+        },
+        {
+            "instructions": "knead till smooth .",
+            "input": "dough",
+            "action": "knead",
+            "output": "kneaded dough"
+        },
+        {
+            "instructions": "place back into bowl",
+            "input": "kneaded dough",
+            "action": "place",
+            "output": "kneaded dough"
+        },
+        {
+            "instructions": "cover with a cloth",
+            "input": "kneaded dough",
+            "action": "cover",
+            "output": "covered kneaded dough"
+        },
+        {
+            "instructions": "let set in a hot place for 15 min .",
+            "input": "covered kneaded dough",
+            "action": "set",
+            "output": "covered kneaded dough"
+        },
+        {
+            "instructions": "grease 2 pizza\u2012pan with crisco_shortening .",
+            "input": "NA",
+            "action": "grease",
+            "output": "NA"
+        },
+        {
+            "instructions": "divide dough in half to make two 12 inch pizzas .",
+            "input": "proofed dough",
+            "action": "divide",
+            "output": "divided dough"
+        },
+        {
+            "instructions": "smooth dough out in the pizza\u2012pan",
+            "input": "divided dough",
+            "action": "smooth",
+            "output": "shaped pizza dough"
+        },
+        {
+            "instructions": "add in the toppings in the order they are written .",
+            "input": "(toppings; shaped pizza dough)",
+            "action": "add",
+            "output": "toppings over shaped pizza dough"
+        },
+        {
+            "instructions": "bake in a warm oven at 500 degrees for about 12 15 min or possibly till crust is golden on the bottom .",
+            "input": "uncooked pizza",
+            "action": "bake",
+            "output": "baked pizza"
+        }
+    ],
+    "ingredients": [
+        {
+            "text": "2 c. all-purpose flour"
+        },
+        {
+            "text": "1/2 teaspoon sugar"
+        },
+        {
+            "text": "Dash of salt"
+        },
+        {
+            "text": "1 pkg. dry yeast"
+        },
+        {
+            "text": "2/3 c. hot water (just a tad less makes the dough less sticky)"
+        }
+    ],
+    "recipe": [
+        {
+            "text": "In a small mixing bowl dissolve yeast in hot water."
+        },
+        {
+            "text": "Add in flour mix to the liquid."
+        },
+        {
+            "text": "Mix and knead till smooth."
+        },
+        {
+            "text": "Place back into bowl and cover with a cloth and let set in a hot place for 15 min."
+        },
+        {
+            "text": "Grease 2 pizza pans with Crisco shortening."
+        },
+        {
+            "text": "Divide dough in half to make two 12 inch pizzas."
+        },
+        {
+            "text": "Smooth dough out in the pizza pans and add in the toppings in the order they are written."
+        },
+        {
+            "text": "Bake in a warm oven at 500 degrees for about 12-15 min or possibly till crust is golden on the bottom."
+        }
+    ]
+}

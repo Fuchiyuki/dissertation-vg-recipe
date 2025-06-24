@@ -1,0 +1,142 @@
+{
+    "title": "pizza_bianca_with_prosciutto_arugula_and_parmesan",
+    "id": "869980fa75",
+    "table": [
+        {
+            "instructions": "preheat oven to 500f .",
+            "input": "NA",
+            "actions": "preheat",
+            "output": "NA"
+        },
+        {
+            "instructions": "flour 2 large baking sheets .",
+            "input": "NA",
+            "actions": "flour",
+            "output": "NA"
+        },
+        {
+            "instructions": "unroll each pizza_dough on work surface .",
+            "input": "pizza_dough",
+            "actions": "unroll",
+            "output": "unrolled_pizza_dough"
+        },
+        {
+            "instructions": "cut corners off dough , forming total of two 10 inch rounds .",
+            "input": "unrolled_pizza_dough",
+            "actions": "cut",
+            "output": "cut_dough_rounds"
+        },
+        {
+            "instructions": "cut each crosswise in half to make total of four 8x5 inch rectangles .",
+            "input": "cut_dough_rounds",
+            "actions": "cut",
+            "output": "cut_dough_rectangles"
+        },
+        {
+            "instructions": "arrange on prepared sheets .",
+            "input": "cut_dough_rectangles",
+            "actions": "arrange",
+            "output": "arranged_dough_rectangles_on_sheets"
+        },
+        {
+            "instructions": "drizzle each round pizza with 1 tablespoon , olive_oil or each rectangular pizza with 12 tablespoon , olive_oil .",
+            "input": "arranged_dough_rectangles_on_sheets",
+            "actions": "drizzle",
+            "output": "drizzled_pizzas_with_olive_oil"
+        },
+        {
+            "instructions": "bake until crusts are brown , about 8 minutes .",
+            "input": "drizzled_pizzas_with_olive_oil",
+            "actions": "bake",
+            "output": "baked_pizzas"
+        },
+        {
+            "instructions": "cut round pizzas in half .",
+            "input": "baked_pizzas",
+            "actions": "cut",
+            "output": "half-cut_pizzas"
+        },
+        {
+            "instructions": "transfer pizza_crust to plates .",
+            "input": "half-cut_pizzas",
+            "actions": "transfer",
+            "output": "plate-transferred_pizza_crusts"
+        },
+        {
+            "instructions": "top each with prosciutto , arugula , and parmesan , dividing equally .",
+            "input": "(plate-transferred_pizza_crusts; prosciutto; arugula; parmesan)",
+            "actions": "top",
+            "output": "pizza crusts topped with prosciutto, arugula and parmesan"
+        },
+        {
+            "instructions": "drizzle each with 12 tablespoon , olive_oil",
+            "input": "pizza crusts topped with prosciutto, arugula and parmesan",
+            "actions": "drizzle",
+            "output": "olive_oil drizzled over pizzas"
+        },
+        {
+            "instructions": "serve immediately .",
+            "input": "cooked pizza bianca with prosciutto, arugula and parmesan",
+            "actions": "serve",
+            "output": "served pizza bianca with prosciutto, arugula and parmesan"
+        }
+    ],
+    "ingredients": [
+        {
+            "text": "2 10-ounce cans refrigerated pizza dough"
+        },
+        {
+            "text": "4 tablespoons extra-virgin olive oil"
+        },
+        {
+            "text": "16 thin slices prosciutto (about 6 ounces)"
+        },
+        {
+            "text": "2 cups (packed) arugula leaves"
+        },
+        {
+            "text": "2 cups fresh Parmesan shavings (about 4 ounces)"
+        }
+    ],
+    "recipe": [
+        {
+            "text": "Preheat oven to 500F."
+        },
+        {
+            "text": "Flour 2 large baking sheets."
+        },
+        {
+            "text": "Unroll each pizza dough on work surface."
+        },
+        {
+            "text": "Cut corners off dough, forming total of two 10-inch rounds."
+        },
+        {
+            "text": "Cut each crosswise in half to make total of four 8x5-inch rectangles."
+        },
+        {
+            "text": "Arrange on prepared sheets."
+        },
+        {
+            "text": "Drizzle each round pizza with 1 tablespoon olive oil or each rectangular pizza with 1/2 tablespoon olive oil."
+        },
+        {
+            "text": "Bake until crusts are brown, about 8 minutes."
+        },
+        {
+            "text": "Using metal spatula, loosen crusts from baking sheets."
+        },
+        {
+            "text": "Cut round pizzas in half."
+        },
+        {
+            "text": "Transfer pizza crusts to plates."
+        },
+        {
+            "text": "Top each with prosciutto, arugula, and Parmesan, dividing equally."
+        },
+        {
+            "text": "Drizzle each with 1/2 tablespoon olive oil and serve immediately."
+        }
+    ]
+}

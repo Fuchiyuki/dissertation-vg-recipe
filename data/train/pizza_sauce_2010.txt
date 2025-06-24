@@ -1,0 +1,217 @@
+{
+    "title": "pizza_sauce_2010",
+    "id": "179f512c8b",
+    "table": [
+        {
+            "instructions": "wash",
+            "input": "NA",
+            "actions": "wash",
+            "output": "NA"
+        },
+        {
+            "instructions": "remove the stems from the tomatoes .",
+            "input": "NA",
+            "actions": "remove",
+            "output": "NA"
+        },
+        {
+            "instructions": "blanch the tomatoes by putting them into the boiling_water for 30 seconds each do this a few at a time .",
+            "input": "tomatoes",
+            "actions": "blanch",
+            "output": "blanched_tomatoes"
+        },
+        {
+            "instructions": "immediately remove the tomato from the hot_water .",
+            "input": "Tomatoes",
+            "actions": "remove",
+            "output": "blanched_tomatoes"
+        },
+        {
+            "instructions": "put it into a bowl .",
+            "input": "blanched_tomatoes",
+            "actions": "put",
+            "output": "blanched_tomatoes"
+        },
+        {
+            "instructions": "when done , crush or blend the tomatoes as desired .",
+            "input": "blanched_tomatoes",
+            "actions": "crush",
+            "output": "crushed_blanched_tomatoes"
+        },
+        {
+            "instructions": "i usually blend the tomatoes using a food processor or blender .",
+            "input": "crushed_blanched_tomatoes",
+            "actions": "blend",
+            "output": "blended_blanched_tomatoes"
+        },
+        {
+            "instructions": "add all of the crushed_tomato , onions , peppers , garlic , and bay_leaf to the 5 gallon stockpot",
+            "input": "blended_blanched_tomatoes",
+            "actions": "add",
+            "output": "Uncooked_tomato_sauce"
+        },
+        {
+            "instructions": "simmer for 1 4 hours .",
+            "input": "uncooked_tomato",
+            "actions": "simmer",
+            "output": "cooked_tomato_sauce"
+        },
+        {
+            "instructions": "add all of the remaining_ingredient to the pot",
+            "input": "cooked_tomato_sauce",
+            "actions": "add",
+            "output": "Ingredients"
+        },
+        {
+            "instructions": "simmer 30 60 minutes longer .",
+            "input": "tomato_sauce",
+            "actions": "simmer",
+            "output": "tomato_sauce"
+        },
+        {
+            "instructions": "if the sauce seems too thin , you may stir together 12 cup , water and 12 cup cornstarch",
+            "input": "Tomato_sauce",
+            "actions": "stir",
+            "output": "Thickener_into_tomato_sauce"
+        },
+        {
+            "instructions": "add this to the pot ,",
+            "input": "tomato_sauce_and_thickener",
+            "actions": "add",
+            "output": "tomato_sauce_and_thickener"
+        },
+        {
+            "instructions": "boil to thicken .",
+            "input": "tomato_sauce_and_thickener",
+            "actions": "boil",
+            "output": "thicker_tomato_sauce"
+        },
+        {
+            "instructions": "pour the sauce into clean , warm , sterilized jars",
+            "input": "sauce",
+            "actions": "pour",
+            "output": "Sauce_into_jars"
+        },
+        {
+            "instructions": "seal tightly using standard canning practices .",
+            "input": "sauce_in_jar",
+            "actions": "seal",
+            "output": "Sealed_sauce_in_jar"
+        },
+        {
+            "instructions": "the lids should snap down for a successful seal .",
+            "input": "sealed_sauce_in_jar",
+            "actions": "snap",
+            "output": "jar_of_sauce"
+        },
+        {
+            "instructions": "if 1 or more do nt , just store those jars in the freezer .",
+            "input": "jar_of_sauce",
+            "actions": "store",
+            "output": "jar_of_sauce"
+        }
+    ],
+    "ingredients": [
+        {
+            "text": "4 gallons Tomatoes (4 Heaping Ice Cream Pails Of Whole Ripe Garden Tomatoes) Or 25 Pounds"
+        },
+        {
+            "text": "8 whole Large Onions, Or 10-12 Medium Onions, Or 3 Pounds, Ground Or Diced"
+        },
+        {
+            "text": "2 whole Green Peppers, Cored, Seeds Removed, Then Diced"
+        },
+        {
+            "text": "3 whole Hot Peppers, Seeds Removed And Diced, Optional"
+        },
+        {
+            "text": "1 bulb Garlic, Peeled And Minced"
+        },
+        {
+            "text": "6 whole Bay Leaves"
+        },
+        {
+            "text": "2 cups Vegetable Oil"
+        },
+        {
+            "text": "2 cups Sugar"
+        },
+        {
+            "text": "1/2 cups Pickling Salt"
+        },
+        {
+            "text": "4 cans Tomato Paste, 13 Oz. Cans"
+        },
+        {
+            "text": "2 Tablespoons Oregano"
+        },
+        {
+            "text": "2 Tablespoons Dried Basil"
+        },
+        {
+            "text": "2 Tablespoons Parsley Flakes"
+        },
+        {
+            "text": "30 jars Pint Sized Canning Jars With Lids And Rings, Sterilized"
+        }
+    ],
+    "recipe": [
+        {
+            "text": "You will need a 5 gallon stock pot if you want to make the full recipe of pizza sauce."
+        },
+        {
+            "text": "The recipe makes around 26-30 pints."
+        },
+        {
+            "text": "Halving the recipe is easy if you dont want to make this much!"
+        },
+        {
+            "text": "Begin by heating a Dutch oven full of water to boiling on the stove."
+        },
+        {
+            "text": "Wash and remove the stems from the tomatoes."
+        },
+        {
+            "text": "Blanch the tomatoes by putting them into the boiling water for 30 seconds each (do this a few at a time)."
+        },
+        {
+            "text": "Immediately remove the tomato from the hot water."
+        },
+        {
+            "text": "Strip the peel off the tomato and put it into a bowl."
+        },
+        {
+            "text": "Repeat with the remaining tomatoes."
+        },
+        {
+            "text": "When done, crush or blend the tomatoes as desired."
+        },
+        {
+            "text": "We like smooth pizza sauce so I usually blend the tomatoes using a food processor or blender."
+        },
+        {
+            "text": "Add all of the crushed tomatoes, onions, peppers, garlic, and bay leaves to the 5 gallon stockpot and simmer for 1-4 hours."
+        },
+        {
+            "text": "Sometimes the tomatoes are watery and need more cooking time to be reduced."
+        },
+        {
+            "text": "Add all of the remaining ingredients to the pot and simmer 30-60 minutes longer."
+        },
+        {
+            "text": "If the sauce seems too thin, you may stir together 1/2 cup water and 1/2 cup cornstarch, add this to the pot, and boil to thicken."
+        },
+        {
+            "text": "Pour the sauce into clean, warm, sterilized jars and seal tightly using standard canning practices."
+        },
+        {
+            "text": "The lids should snap down for a successful seal."
+        },
+        {
+            "text": "If 1 or more dont, just store those jars in the freezer."
+        },
+        {
+            "text": "The ones that seal properly can be stored in the pantry."
+        }
+    ]
+}

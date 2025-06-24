@@ -1,0 +1,100 @@
+{
+    "title": "phyllo_pizza_sonoma",
+    "id": "1ee22b0d59",
+    "table": [
+        {
+            "instructions": "preheat oven to 40",
+            "input": "NA",
+            "action": "preheat",
+            "output": "NA"
+        },
+        {
+            "instructions": "lightly brush a baking sheet with melted_butter .",
+            "input": "NA",
+            "action": "brush",
+            "output": "NA"
+        },
+        {
+            "instructions": "place one sheet of phyllo on the baking sheet .",
+            "input": "phyllo sheet",
+            "action": "place",
+            "output": "phyllo sheet on baking sheet brushed with melted butter"
+        },
+        {
+            "instructions": "lightly brush the phyllo_sheet with butter",
+            "input": "(phyllo sheet on baking sheet brushed with melted butter; melted butter)",
+            "action": "brush",
+            "output": "phyllo sheet brushed with melted butter"
+        },
+        {
+            "instructions": "sprinkle with 1 tbsp parmesean cheese ;",
+            "input": "(phyllo sheet brushed with melted butter; parmesan chese )",
+            "action": "sprinkle",
+            "output": "phyllo sheet brushed with melted butter and sprinkled parmesan cheese on the surface"
+        },
+        {
+            "instructions": "add onther sheet of phyllo",
+            "input": "(phyllo sheet brushed with melted butter and sprinkled parmesan cheese on the surface; phyllo sheet)",
+            "action": "add",
+            "output": "phyllo sheet brushed with melted butter, sprinkled parmesan cheese on the surface topped another phyllo sheet"
+        },
+        {
+            "instructions": "press down to adhere sheets together .",
+            "input": "phyllo sheet brushed with melted butter, sprinkled parmesan cheese on the surface topped another phyllo sheet",
+            "action": "press",
+            "output": "phyllo sheet layers"
+        },
+        {
+            "instructions": "fold in all sides 14 inch to make a border , crimping the corners .",
+            "input": "phyllo sheet layers",
+            "action": "fold",
+            "output": "phyllo sheet layers with folded sides and crimped corners"
+        },
+        {
+            "instructions": "spread sun_dried_tomato sauce over all",
+            "input": "(phyllo sheet layers with folded sides and crimped corners; sundried tomato sauce)",
+            "action": "spread",
+            "output": "phyllo sheet layers with folded sides and crimped corners and sun dried tomato sauce spread on it"
+        }
+    ],
+    "ingredients": [
+        {
+            "text": "10 sheets phyllo pastry"
+        },
+        {
+            "text": "6 tablespoons unsalted butter"
+        },
+        {
+            "text": "13 cup parmesan cheese"
+        },
+        {
+            "text": "13 cup sundried tomato sauce"
+        },
+        {
+            "text": "200 g feta cheese"
+        },
+        {
+            "text": "chopped fresh basil"
+        }
+    ],
+    "recipe": [
+        {
+            "text": "Preheat oven to 400."
+        },
+        {
+            "text": "Lightly brush a baking sheet with melted butter."
+        },
+        {
+            "text": "Place one sheet of phyllo on the baking sheet."
+        },
+        {
+            "text": "Lightly brush the phyllo sheet with butter and sprinkle with 1 TBSP Parmesean cheese Add onther sheet of phyllo and press down to adhere sheets together."
+        },
+        {
+            "text": "Repeat this process with remaining 8 sheets of phyllo, brushing the final top layer with butter Fold in all sides 1/4 inch to make a border, crimping the corners."
+        },
+        {
+            "text": "Spread sun dried tomato sauce over all and follow with the feta cheese and herbs Bake pizza on the middle rack of the oven until it is crisp and golden approx 12-15 minutes Remove from oven and let stand 6 minutes before serving."
+        }
+    ]
+}

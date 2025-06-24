@@ -1,0 +1,118 @@
+{
+    "title": "pizza_for_wine_tasting",
+    "id": "f903db7111",
+    "table": [
+        {
+            "instructions": "preheat the oven to 400 degrees .",
+            "input": "NA",
+            "action": "preheat",
+            "output": "NA"
+        },
+        {
+            "instructions": "slice cherries in sixths , removing the pits ,",
+            "input": "cherries",
+            "action": "slice",
+            "output": "sliced_cherries"
+        },
+        {
+            "instructions": "mix together all berry sauce ingredients .",
+            "input": "(sliced_cherries; blueberries; strawberry preserve; sugar; balsamic vinegar)",
+            "action": "mix",
+            "output": "berry_sauce"
+        },
+        {
+            "instructions": "cut brie in thin quarter inch pieces .",
+            "input": "brie",
+            "action": "cut",
+            "output": "cut_brie in pieces"
+        },
+        {
+            "instructions": "Spread mascarpone evenly across pizza crust (using your hands is easiest),\u00a0drizzle berry sauce evenly across the top ,",
+            "input": "(berry_sauce; pizza crust; mascarpone)",
+            "action": "drizzle",
+            "output": "pizza crust with spread mascarpone and drizzled berry sauce"
+        },
+        {
+            "instructions": "place brie slices across the top , evenly spaced .",
+            "input": "(cut_brie in pieces; pizza crust with spread mascarpone and drizzled berry sauce)",
+            "action": "place",
+            "output": "pizza crust with spread mascarpone, drizzled berry sauce and pieces of brie"
+        },
+        {
+            "instructions": "bake for 12 15 minutes or until crust starts to turn golden and brie is melted",
+            "input": "assembled brie_berry_pizza",
+            "action": "bake",
+            "output": "baked_brie_berry_pizza"
+        },
+        {
+            "instructions": "sprinkle caviar across the top , if desired ;",
+            "input": "(caviar; baked_brie_berry_pizza)",
+            "action": "sprinkle",
+            "output": "caviar sprinkled over baked_brie_berry_pizza"
+        },
+        {
+            "instructions": "cut in thin slivers",
+            "input": "baked_brie_berry_pizza with caviar",
+            "action": "cut",
+            "output": "cut baked_brie_berry_pizza with caviar"
+        },
+        {
+            "instructions": "serve hot .",
+            "input": "cut baked_brie_berry_pizza with caviar",
+            "action": "serve",
+            "output": "cut baked_brie_berry_pizza with caviar ready to eat"
+        }
+    ],
+    "ingredients": [
+        {
+            "text": "1 (10 inch) thin pizza crust"
+        },
+        {
+            "text": "6 ounces mascarpone cheese"
+        },
+        {
+            "text": "4 ounces brie cheese"
+        },
+        {
+            "text": "2 tablespoons caviar (optional)"
+        },
+        {
+            "text": "12 cup cherries (fresh preferred but frozen O.K.)"
+        },
+        {
+            "text": "12 cup blueberries (fresh preferred but frozen O.K.)"
+        },
+        {
+            "text": "14 cup strawberry preserves"
+        },
+        {
+            "text": "2 tablespoons sugar"
+        },
+        {
+            "text": "2 tablespoons balsamic vinegar"
+        },
+        {
+            "text": "14 teaspoon black pepper"
+        }
+    ],
+    "recipe": [
+        {
+            "text": "Preheat the oven to 400 degrees."
+        },
+        {
+            "text": "Slice cherries in sixths, removing the pits, so they're roughly the same size as the blueberries."
+        },
+        {
+            "text": "Mix together all berry sauce ingredients."
+        },
+        {
+            "text": "Cut brie in thin quarter-inch pieces."
+        },
+        {
+            "text": "Spread mascarpone evenly across pizza crust (using your hands is easiest), then drizzle berry sauce evenly across the top, then place brie slices across the top, evenly-spaced."
+        },
+        {
+            "text": "Bake for 12-15 minutes or until crust starts to turn golden and brie is melted; sprinkle caviar across the top, if desired; cut in thin slivers and serve hot."
+        }
+    ]
+}

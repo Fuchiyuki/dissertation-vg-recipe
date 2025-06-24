@@ -1,0 +1,133 @@
+{
+    "title": "corn_tortilla_pizzas",
+    "id": "be374fe2f6",
+    "table": [
+        {
+            "instructions": "in a skillet over medium high heat , heat the oil .",
+            "input": "oil",
+            "action": "heat",
+            "output": "heated oil"
+        },
+        {
+            "instructions": "add the turkey",
+            "input": "(heated_oil; turkey)",
+            "action": "add",
+            "output": "turkey added to heated oil"
+        },
+        {
+            "instructions": "saute for 3 minutes .",
+            "input": "turkey in hot oil",
+            "action": "saute",
+            "output": "sauteing turkey"
+        },
+        {
+            "instructions": "add the zucchini and red_pepper",
+            "input": "(zucchini; red_pepper; sauteing turkey)",
+            "action": "add",
+            "output": "zucchini and red_pepper added to sauteing turkey"
+        },
+        {
+            "instructions": "add the oregano and basil .",
+            "input": "(turkey and vegetables mixture; oregano; basil)",
+            "action": "add",
+            "output": "oregano and basil added to turkey and vegetables mixture"
+        },
+        {
+            "instructions": "to assemble spoon some of the sauce over each tortilla .",
+            "input": "(tortilla; sauce)",
+            "action": "spoon",
+            "output": "sauce spooned over tortilla"
+        },
+        {
+            "instructions": "add the turkey mixture .",
+            "input": "(turkey and vegetables mixture; sauce spooned over tortilla)",
+            "action": "add",
+            "output": "turkey and vegetables mixture added to toritlla with sauce"
+        },
+        {
+            "instructions": "dot with olives",
+            "input": "(olives; tortillas with sauce and turkey mixture)",
+            "action": "dot",
+            "output": "olives dotted on tortillas with sauce and turkey mixture"
+        },
+        {
+            "instructions": "sprinkle with cheese .",
+            "input": "(cheese; tortillas with sauce, olives and turkey mixture)",
+            "action": "sprinkle",
+            "output": "cheese sprinkled over tortillas with turkey mixture "
+        },
+        {
+            "instructions": "place all tortillas on a baking sheet",
+            "input": "tortilla pizzas",
+            "action": "place",
+            "output": "tortilla pizzas"
+        },
+        {
+            "instructions": "bake at 350 degrees until cheese melts and tortilla is crisp .",
+            "input": "tortilla pizzas",
+            "action": "bake",
+            "output": "baked tortilla pizzas"
+        }
+    ],
+    "ingredients": [
+        {
+            "text": "6 corn tortillas (yellow or blue or both)"
+        },
+        {
+            "text": "1 tablespoon olive oil"
+        },
+        {
+            "text": "1 cup diced red pepper"
+        },
+        {
+            "text": "2 teaspoons oregano"
+        },
+        {
+            "text": "1 tablespoon basil"
+        },
+        {
+            "text": "12 ounces ground turkey"
+        },
+        {
+            "text": "1 cup diced zucchini"
+        },
+        {
+            "text": "1 12 cups marinara sauce"
+        },
+        {
+            "text": "14 cup pitted sliced black olives"
+        },
+        {
+            "text": "12 cup shredded lowfat mozzarella cheese"
+        }
+    ],
+    "recipe": [
+        {
+            "text": "In a skillet over medium high heat, heat the oil."
+        },
+        {
+            "text": "Add the turkey and saute for 3 minutes."
+        },
+        {
+            "text": "Add the zucchini and red pepper and continue to cook until turkey is cooked throug, about 3-4 minutes more."
+        },
+        {
+            "text": "Add the oregano and basil."
+        },
+        {
+            "text": "To assemble: spoon some of the sauce over each tortilla."
+        },
+        {
+            "text": "Add the turdeymixture."
+        },
+        {
+            "text": "Dot with olives and sprinkle with cheese."
+        },
+        {
+            "text": "Place all tortillas on a baking sheet and bake at 350 degrees until cheese melts and tortilla is crisp."
+        },
+        {
+            "text": "About 5-6 minutes."
+        }
+    ]
+}

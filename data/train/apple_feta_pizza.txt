@@ -1,0 +1,130 @@
+{
+    "title": "apple_feta_pizza",
+    "id": "2368da556d",
+    "table": [
+        {
+            "instructions": "preheat oven to 37",
+            "input": "NA",
+            "action": "preheat",
+            "output": "NA"
+        },
+        {
+            "instructions": "heat one teaspoon of oil in a large skillet .",
+            "input": "oil",
+            "action": "heat",
+            "output": "heated_oil"
+        },
+        {
+            "instructions": "add onion",
+            "input": "(onion; heated_oil)",
+            "action": "add",
+            "output": "onion in heated oil"
+        },
+        {
+            "instructions": "cook til caramilized , stirring occasionally .",
+            "input": "onion in heated oil",
+            "action": "cook",
+            "output": "caramelized onion"
+        },
+        {
+            "instructions": "unroll pizza_dough",
+            "input": "pizza dough",
+            "action": "unroll",
+            "output": "unrolled pizza dough"
+        },
+        {
+            "instructions": "place on a cookie sheet .",
+            "input": "unrolled pizza dough",
+            "action": "place",
+            "output": "unrolled pizza dough"
+        },
+        {
+            "instructions": "press dough to cover pan .",
+            "input": "unrolled pizza dough",
+            "action": "press",
+            "output": "pressed pizza dough"
+        },
+        {
+            "instructions": "brush with oil",
+            "input": "(pressed pizza dough; oil)",
+            "action": "brush",
+            "output": "pizza dough brushed with oil"
+        },
+        {
+            "instructions": "then sprinkle with spices .",
+            "input": "(pizza dough brushed with oil; spices)",
+            "action": "sprinkle",
+            "output": "spices on greased pizza dough"
+        },
+        {
+            "instructions": "bake for 25 minutes until crust is golden brown .",
+            "input": "uncooked pizza",
+            "action": "bake",
+            "output": "baked pizza"
+        }
+    ],
+    "ingredients": [
+        {
+            "text": "1 teaspoon olive oil"
+        },
+        {
+            "text": "1 large onion, sliced"
+        },
+        {
+            "text": "1 macintosh apple, sliced thin"
+        },
+        {
+            "text": "1 cup sliced zucchini"
+        },
+        {
+            "text": "1 (10 ounce) can pizza crusts"
+        },
+        {
+            "text": "1 teaspoon olive oil"
+        },
+        {
+            "text": "1 teaspoon italian seasoning"
+        },
+        {
+            "text": "12 teaspoon chili flakes"
+        },
+        {
+            "text": "14 cup feta cheese"
+        },
+        {
+            "text": "2 tablespoons parmesan cheese"
+        },
+        {
+            "text": "6 asparagus spears, chopped"
+        },
+        {
+            "text": "12 cup shredded mozzarella cheese"
+        }
+    ],
+    "recipe": [
+        {
+            "text": "preheat oven to 375."
+        },
+        {
+            "text": "heat one teaspoon oil in a large skillet."
+        },
+        {
+            "text": "add onion and cook til caramilized, stirring occasionally."
+        },
+        {
+            "text": "unroll pizza dough and place on a cookie sheet."
+        },
+        {
+            "text": "press dough to cover pan."
+        },
+        {
+            "text": "brush with oil and then sprinkle with spices."
+        },
+        {
+            "text": "Layer with onion, cheeses, zucchini, apple and asaparagus."
+        },
+        {
+            "text": "bake for 25 minutes until crust is golden brown."
+        }
+    ]
+}

@@ -1,0 +1,112 @@
+{
+    "title": "roasted_vegetable_pizza",
+    "id": "b30f12805d",
+    "table": [
+        {
+            "instructions": "heat oven to 450 degrees f .",
+            "input": "NA",
+            "action": "heat",
+            "output": "NA"
+        },
+        {
+            "instructions": "toss vegetables with 14 cup dressing ;",
+            "input": "vegetables; dressing",
+            "action": "toss",
+            "output": "tossed_vegetables in dressing"
+        },
+        {
+            "instructions": "spread onto rimmed baking sheet .",
+            "input": "dressed_vegetables",
+            "action": "spread",
+            "output": "vegetables_on_baking sheet"
+        },
+        {
+            "instructions": "bake 30 min .",
+            "input": "vegetables_on_baking sheet",
+            "action": "bake",
+            "output": "roasted vegetables"
+        },
+        {
+            "instructions": "spread pizza_crust with remaining dressing ;",
+            "input": "pizza_crust; remaining dressing",
+            "action": "spread",
+            "output": "dressed_crust with remaining dressing"
+        },
+        {
+            "instructions": "top with roasted vegetables .",
+            "input": "dressed_crust with remaining dressing;  roasted vegetables",
+            "action": "top",
+            "output": "dressed_crust topped with roasted vegetables"
+        },
+        {
+            "instructions": "place crust directly on middle oven rack .",
+            "input": "dressed_crust topped with roasted vegetables",
+            "action": "place",
+            "output": "dressed_crust topped with roasted vegetables"
+        },
+        {
+            "instructions": "bake 10 min .",
+            "input": "uncooked roasted_vegetable_pizza",
+            "action": "bake",
+            "output": "baked roasted_vegetable_pizza"
+        },
+        {
+            "instructions": "top with arugula and cheese .",
+            "input": "arugula; cheese; roasted_vegetable_pizza",
+            "action": "top",
+            "output": "roasted_vegetable_pizza topped with arugula and cheese"
+        }
+    ],
+    "ingredients": [
+        {
+            "text": "1 small yellow squash, thinly sliced"
+        },
+        {
+            "text": "1 small zucchini, thinly sliced"
+        },
+        {
+            "text": "1 red pepper, coarsely chopped"
+        },
+        {
+            "text": "1 shallot, thinly sliced"
+        },
+        {
+            "text": "6 Tbsp. KRAFT Greek Vinaigrette Dressing, divided"
+        },
+        {
+            "text": "1 ready-to-use thin baked pizza crust (12 inch)"
+        },
+        {
+            "text": "1/4 cup tightly packed arugula"
+        },
+        {
+            "text": "1/2 cup ATHENOS Traditional Crumbled Feta Cheese"
+        }
+    ],
+    "recipe": [
+        {
+            "text": "Heat oven to 450 degrees F."
+        },
+        {
+            "text": "Toss vegetables with 1/4 cup dressing; spread onto rimmed baking sheet."
+        },
+        {
+            "text": "Bake 30 min., stirring after 15 min."
+        },
+        {
+            "text": "Spread pizza crust with remaining dressing; top with roasted vegetables."
+        },
+        {
+            "text": "Place crust directly on middle oven rack."
+        },
+        {
+            "text": "Bake 10 min."
+        },
+        {
+            "text": "or until edge of crust is golden brown."
+        },
+        {
+            "text": "Top with arugula and cheese."
+        }
+    ]
+}

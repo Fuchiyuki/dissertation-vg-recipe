@@ -1,0 +1,169 @@
+{
+    "title": "mexican_pizza_with_ranchero_sauce",
+    "id": "bbfd08d52e",
+    "table": [
+        {
+            "instructions": "  in a large skillet , heat oil over medium heat",
+            "input": "oil",
+            "action": "heat",
+            "output": "heated_oil"
+        },
+        {
+            "instructions": "add onion .",
+            "input": "(heated_oil; onion)",
+            "action": "add",
+            "output": "onion in heated_oil"
+        },
+        {
+            "instructions": "cook 2 minutes , stirring constantly .",
+            "input": "onion in heated_oil",
+            "action": "cook",
+            "output": "cooked onion in oil"
+        },
+        {
+            "instructions": "add garlic",
+            "input": "(garlic; cooked onion in oil)",
+            "action": "add",
+            "output": "garlic in cooked onion"
+        },
+        {
+            "instructions": "cook 2 minutes more or until onion is translucent .",
+            "input": "garlic in cooked onion",
+            "action": "cook",
+            "output": "cooked garlic and onion"
+        },
+        {
+            "instructions": "add tomatoes , chilies , sugar , salt and pepper .",
+            "input": "(cooked garlic and onion; tomatoes; chilies; sugar; salt; pepper)",
+            "action": "add",
+            "output": "seasoned tomato sauce"
+        },
+        {
+            "instructions": "simmer until slightly thickened , about 15 minutes , stirring ocassionally .",
+            "input": "seasoned tomato sauce",
+            "action": "simmer",
+            "output": "cooked seasoned tomato sauce"
+        },
+        {
+            "instructions": "stir in cilantro .",
+            "input": "(cooked seasoned tomato sauce; cilantro)",
+            "action": "stir",
+            "output": "cilantro stirred in cooked seasoned tomato sauce"
+        },
+        {
+            "instructions": "preheat oven to 50",
+            "input": "NA",
+            "action": "preheat",
+            "output": "NA"
+        },
+        {
+            "instructions": "spread 1 cup ranchero sauce evenly over pizza .",
+            "input": "(pizza crust; ranchero sauce)",
+            "action": "spread",
+            "output": "ranchero sauce spread over pizza crust"
+        },
+        {
+            "instructions": "cover with cooked sausage",
+            "input": "(ranchero sauce spread over pizza crust; cooked sausage)",
+            "action": "cover",
+            "output": "pizza crust with ranchero sauce and cooked sausage"
+        },
+        {
+            "instructions": "sprinkle cheese over top .",
+            "input": "(pizza crust with ranchero sauce and cooked sausage; cheese)",
+            "action": "sprinkle",
+            "output": "pizza crust with ranchero sauce, cooked sausage and cheese"
+        },
+        {
+            "instructions": "add onion , red_pepper strips and jalapeno peppers if using over cheese .",
+            "input": "(pizza crust with ranchero sauce, cooked sausage and cheese; onion; red_pepper_strips; jalapeno peppers)",
+            "action": "add",
+            "output": "pizza crust with ranchero sauce, cooked sausage, cheese, onion, red pepper strips and jalapeno peppers"
+        },
+        {
+            "instructions": "bake 15 20 minutes .",
+            "input": "pizza crust with ranchero sauce, cooked sausage, cheese, onion, red pepper strips and jalapeno peppers",
+            "action": "bake",
+            "output": "baked mexican_pizza_with_ranchero_sauce"
+        }
+    ],
+    "ingredients": [
+        {
+            "text": "2 tablespoons vegetable oil"
+        },
+        {
+            "text": "1 cup onion, chopped"
+        },
+        {
+            "text": "1 garlic, minced"
+        },
+        {
+            "text": "4 cups tomatoes, chopped"
+        },
+        {
+            "text": "2 anaheim chilies, seeded and chopped"
+        },
+        {
+            "text": "1 teaspoon sugar"
+        },
+        {
+            "text": "salt and pepper"
+        },
+        {
+            "text": "2 tablespoons cilantro, chopped"
+        },
+        {
+            "text": "14 inches prepared pizza crust (or 1 Boboli cooked crust)"
+        },
+        {
+            "text": "12 lb Italian sausage, cooked, drained and crumbled"
+        },
+        {
+            "text": "1 12 cups monterey jack cheese, shredded"
+        },
+        {
+            "text": "12 cup red onion, sliced"
+        },
+        {
+            "text": "1 red pepper, sliced into thin strips"
+        },
+        {
+            "text": "2 tablespoons jalapeno peppers (pickled)"
+        }
+    ],
+    "recipe": [
+        {
+            "text": "Ranchero Sauce: In a large skillet, heat oil over medium heat and add onion."
+        },
+        {
+            "text": "Cook 2 minutes, stirring constantly."
+        },
+        {
+            "text": "Add garlic and cook 2 minutes more or until onion is translucent."
+        },
+        {
+            "text": "Add tomatoes, chilies, sugar, salt and pepper."
+        },
+        {
+            "text": "Simmer until slightly thickened, about 15 minutes, stirring ocassionally."
+        },
+        {
+            "text": "Stir in cilantro."
+        },
+        {
+            "text": "Preheat oven to 500."
+        },
+        {
+            "text": "Spread 1 cup Ranchero sauce evenly over pizza."
+        },
+        {
+            "text": "Cover with cooked sausage and sprinkle cheese over top."
+        },
+        {
+            "text": "Add onion, red pepper strips and jalapeno peppers (if using) over cheese."
+        },
+        {
+            "text": "Bake 15 - 20 minutes."
+        }
+    ]
+}

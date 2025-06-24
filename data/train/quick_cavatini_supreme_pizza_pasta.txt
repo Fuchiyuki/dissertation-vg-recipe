@@ -1,0 +1,136 @@
+{
+    "title": "quick_cavatini_supreme_pizza_pasta",
+    "id": "1c93e5f0fe",
+    "table": [
+        {
+            "instructions": "cook pasta to al dente stage .",
+            "input": "pasta",
+            "actions": "cook",
+            "output": "cooked_pasta_al_dente"
+        },
+        {
+            "instructions": "drain",
+            "input": "cooked_pasta_al_dente",
+            "actions": "drain",
+            "output": "drained_cooked_pasta"
+        },
+        {
+            "instructions": "set aside .",
+            "input": "drained_cooked_pasta",
+            "actions": "set",
+            "output": "drained_cooked_pasta"
+        },
+        {
+            "instructions": "brown ground_beef and onion in large pan .",
+            "input": "(ground_beef; onion)",
+            "actions": "brown",
+            "output": "browned_ground_beef and onion"
+        },
+        {
+            "instructions": "drain beef",
+            "input": "browned_ground_beef and onion",
+            "actions": "drain",
+            "output": "drained_browned_ground_beef and onion"
+        },
+        {
+            "instructions": "return to pan .",
+            "input": "drained_ground_beef",
+            "actions": "return",
+            "output": "drained_ground_beef"
+        },
+        {
+            "instructions": "add sauce , pepperoni , mushrooms , olives , green_pepper , garlic_powder , salt and pepper .",
+            "input": "(sauce; pepperoni; mushrooms; olives; green_pepper; garlic_powder; salt; pepper; drained_ground_beef)",
+            "actions": "add",
+            "output": "sauce , pepperoni , mushrooms , olives , green_pepper , garlic_powder , salt and pepper added to drained_ground_beef"
+        },
+        {
+            "instructions": "add pasta to pan",
+            "input": "(drained_cooked_pasta; pasta sauce)",
+            "actions": "add",
+            "output": "pasta added to pasta sauce"
+        },
+        {
+            "instructions": "mix well .",
+            "input": "pasta added to pasta sauce",
+            "actions": "mix",
+            "output": "combined_pasta and pasta sauce"
+        },
+        {
+            "instructions": "spoon into casserole dish",
+            "input": "combined_pasta and pasta sauce",
+            "actions": "spoon",
+            "output": "spooned combined_pasta and pasta sauce"
+        },
+        {
+            "instructions": "top with mozzarella .",
+            "input": "(mozzarella; combined_pasta and pasta sauce)",
+            "actions": "top",
+            "output": "mozzarella_spread_on_pasta_casserole"
+        }
+    ],
+    "ingredients": [
+        {
+            "text": "2 cups dry pasta, any shape(s)"
+        },
+        {
+            "text": "1 lb ground beef"
+        },
+        {
+            "text": "2 ounces pepperoni, cut into quarters"
+        },
+        {
+            "text": "28 ounces spaghetti sauce"
+        },
+        {
+            "text": "12 cup onion, chopped"
+        },
+        {
+            "text": "12 green pepper, chopped"
+        },
+        {
+            "text": "3 ounces canned mushrooms, sliced and drained"
+        },
+        {
+            "text": "2 ounces black olives, sliced and drained"
+        },
+        {
+            "text": "1 teaspoon garlic powder"
+        },
+        {
+            "text": "salt and pepper"
+        },
+        {
+            "text": "1 cup mozzarella cheese, shredded"
+        }
+    ],
+    "recipe": [
+        {
+            "text": "Cook pasta to al dente stage."
+        },
+        {
+            "text": "Drain and set aside."
+        },
+        {
+            "text": "Brown ground beef and onion in large pan."
+        },
+        {
+            "text": "Drain beef and return to pan."
+        },
+        {
+            "text": "Add sauce, pepperoni, mushrooms, olives, green pepper, garlic powder, salt and pepper."
+        },
+        {
+            "text": "Allow to simmer 5 minutes."
+        },
+        {
+            "text": "Add pasta to pan and mix well."
+        },
+        {
+            "text": "Spoon into casserole dish and top with mozzarella."
+        },
+        {
+            "text": "Bake at 350* for 15 minutes (will need longer if previously refrigerated or frozen) until cheese is melted and bubbly."
+        }
+    ]
+}

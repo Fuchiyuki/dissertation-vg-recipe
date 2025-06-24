@@ -1,0 +1,73 @@
+{
+    "title": "creamy_parmesan_gemelli_pizza_with_crispy_kale_cremini_mushrooms",
+    "id": "750cd83017",
+    "table": [
+        {
+            "instructions": "microwave pasta as directed on package .",
+            "input": "pasta",
+            "action": "microwave",
+            "output": "microwaved_pasta"
+        },
+        {
+            "instructions": "place crusts on sheet pans .",
+            "input": "crusts",
+            "action": "place",
+            "output": "crusts"
+        },
+        {
+            "instructions": "top each with 1 pouch pasta , 12 cup mushrooms , 1 12 cups kale and 12 cup cheese .",
+            "input": "(cooked pasta; mushrooms; kale; cheese; crust)",
+            "action": "top",
+            "output": "crusts topped with microwaved pasta, mushrooms, kale and cheese"
+        },
+        {
+            "instructions": "bake in 400 degrees f standard oven 10 min .",
+            "input": "uncooked pasta, kale and mushroom pizza",
+            "action": "bake",
+            "output": "baked pasta, kale and mushroom pizza"
+        },
+        {
+            "instructions": "slice each pizza into 8 pieces .",
+            "input": "baked pasta, kale and mushroom pizza",
+            "action": "slice",
+            "output": "sliced baked pasta, kale and mushroom pizza"
+        }
+    ],
+    "ingredients": [
+        {
+            "text": "4 pouches KRAFT Simple Signatures Creamy Parmesan & Gemelli Pasta"
+        },
+        {
+            "text": "4 each ready-to-use baked pizza crusts (12 inch)"
+        },
+        {
+            "text": "2 cups cremini mushrooms, quartered, sauteed"
+        },
+        {
+            "text": "1-1/2 qt. Roasted kale leaves, roughly chopped"
+        },
+        {
+            "text": "2 cups KRAFT 100% Shredded Parmesan Cheese"
+        }
+    ],
+    "recipe": [
+        {
+            "text": "Microwave pasta as directed on package."
+        },
+        {
+            "text": "Place crusts on sheet pans."
+        },
+        {
+            "text": "Top each with 1 pouch pasta, 1/2 cup mushrooms, 1-1/2 cups kale and 1/2 cup cheese."
+        },
+        {
+            "text": "Bake in 400 degrees F standard oven 10 min."
+        },
+        {
+            "text": "or until cheese is melted and golden brown."
+        },
+        {
+            "text": "Slice each pizza into 8 pieces."
+        }
+    ]
+}

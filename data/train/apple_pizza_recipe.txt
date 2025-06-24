@@ -1,0 +1,151 @@
+{
+    "title": "apple_pizza_recipe",
+    "id": "1281b34c05",
+    "table": [
+        {
+            "instructions": "preheat the oven to 350 degrees .",
+            "input": "NA",
+            "action": "preheat",
+            "output": "NA"
+        },
+        {
+            "instructions": "on a lightly floured surface , roll out the pizza_dough to create a rectangle .",
+            "input": "pizza_dough",
+            "action": "roll",
+            "output": "rolled_pizza_dough"
+        },
+        {
+            "instructions": "place it on a 10 by 15 inch rimmed baking sheet which has been coated with nonstick cooking_spray .",
+            "input": "rolled_pizza_dough",
+            "action": "place",
+            "output": "placed_pizza_dough"
+        },
+        {
+            "instructions": "with your fingertips , gently spread the dough to cover the pan , pressing it up the edges to create a rim .",
+            "input": "placed_pizza_dough",
+            "action": "spread",
+            "output": "spread_pizza_dough"
+        },
+        {
+            "instructions": "if the dough is too sticky , lightly dust it and your hands with flour .",
+            "input": "spread_pizza_dough",
+            "action": "dust",
+            "output": "spread_pizza_dough"
+        },
+        {
+            "instructions": "spread the melted apple_jelly proportionately over the dough ,",
+            "input": "(spread_pizza_dough; apple jelly)",
+            "action": "spread",
+            "output": "spread_apple_jelly_on_spread_pizza_dough"
+        },
+        {
+            "instructions": "arrange the apple_slice in a single layer .",
+            "input": "(spread_apple_jelly_on_spread_pizza_dough; apple slices)",
+            "action": "arrange",
+            "output": "arranged_apple_slices_on_spread_apple_jelly_on_spread_pizza_dough"
+        },
+        {
+            "instructions": "in a small bowl , combine the sugar and cinnamon",
+            "input": "(sugar; cinnamon)",
+            "action": "combine",
+            "output": "sugar cinnamon mixture"
+        },
+        {
+            "instructions": "sprinkle over the apples .",
+            "input": "(arranged_apple_slices_on_spread_apple_jelly_on_spread_pizza_dough; sugar cinnamon mixture)",
+            "action": "sprinkle",
+            "output": "pizza crust with apple jelly, apple slices and sugar cinnamon mixture"
+        },
+        {
+            "instructions": "bake for 18 to 20 min , or possibly till the edges are golden brown .",
+            "input": "uncooked apple pizza",
+            "action": "bake",
+            "output": "baked uncooked apple pizza"
+        },
+        {
+            "instructions": "remove from the oven and cold slightly in the pan on a wire rack .",
+            "input": "baked uncooked apple pizza",
+            "action": "remove",
+            "output": "baked uncooked apple pizza"
+        },
+        {
+            "instructions": "slice",
+            "input": "baked uncooked apple pizza",
+            "action": "slice",
+            "output": "sliced baked uncooked apple pizza"
+        },
+        {
+            "instructions": "serve hot or possibly allow to cold before serving .",
+            "input": "sliced baked uncooked apple pizza",
+            "action": "serve",
+            "output": "sliced baked uncooked apple pizza ready to eat"
+        }
+    ],
+    "ingredients": [
+        {
+            "text": "1 lb store-bought pizza dough"
+        },
+        {
+            "text": "1/4 c. apple jelly melted"
+        },
+        {
+            "text": "4 med apples cored, peeled, and sliced"
+        },
+        {
+            "text": "1 Tbsp. sugar"
+        },
+        {
+            "text": "1 tsp grnd cinnamon"
+        }
+    ],
+    "recipe": [
+        {
+            "text": "Preheat the oven to 350 degrees."
+        },
+        {
+            "text": "On a lightly floured surface, roll out the pizza dough to create a rectangle."
+        },
+        {
+            "text": "Place it on a 10- by 15-inch rimmed baking sheet which has been coated with nonstick cooking spray."
+        },
+        {
+            "text": "With your fingertips, gently spread the dough to cover the pan, pressing it up the edges to create a rim."
+        },
+        {
+            "text": "If the dough is too sticky, lightly dust it and your hands with flour."
+        },
+        {
+            "text": "Spread the melted apple jelly proportionately over the dough, then arrange the apple slices in a single layer."
+        },
+        {
+            "text": "In a small bowl, combine the sugar and cinnamon, sprinkle over the apples."
+        },
+        {
+            "text": "Bake for 18 to 20 min, or possibly till the edges are golden brown."
+        },
+        {
+            "text": "Remove from the oven and cold slightly in the pan on a wire rack."
+        },
+        {
+            "text": "Slice and serve hot or possibly allow to cold before serving."
+        },
+        {
+            "text": "This recipe yields 24 slices."
+        },
+        {
+            "text": "Comments: For a sweeter touch, top with a glaze made of 1 c. confectioners' sugar and 2 Tbsp."
+        },
+        {
+            "text": "water."
+        },
+        {
+            "text": "Whisk till smooth then drizzle over the pizza while still hot."
+        },
+        {
+            "text": "Any seasonal fruits like peaches or possibly pears and your favorite jelly can also be used."
+        },
+        {
+            "text": "Yield: 24 slices"
+        }
+    ]
+}

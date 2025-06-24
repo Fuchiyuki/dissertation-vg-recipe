@@ -1,0 +1,112 @@
+{
+    "title": "pizza_casserole_recipe",
+    "id": "88485199f4",
+    "table": [
+        {
+            "instructions": "brown hamburger with onion , green_pepper and mushrooms .",
+            "input": "(hamburger; green_pepper; mushrooms)",
+            "action": "brown",
+            "output": "browned_hamburger mixture"
+        },
+        {
+            "instructions": "season with salt and pepper to taste .",
+            "input": "(Salt; Pepper; browned_hamburger mixture)",
+            "action": "season",
+            "output": "seasoned hamburger mixture"
+        },
+        {
+            "instructions": "cook macaroni according to package directions .",
+            "input": "Macaroni",
+            "action": "cook",
+            "output": "Cooked Macaroni"
+        },
+        {
+            "instructions": "mix hamburger , cooked macaroni and pizza_sauce .",
+            "input": "(seasoned hamburger mixture; cooked macaroni; pizza_sauce)",
+            "action": "mix",
+            "output": "pizza casserole mixture"
+        },
+        {
+            "instructions": "place in greased casserole dish .",
+            "input": "pizza casserole mixture",
+            "action": "place",
+            "output": "pizza casserole mixture"
+        },
+        {
+            "instructions": "top with cheeses and pepperoni_slice .",
+            "input": "(pizza casserole mixture; cheese; pepperoni_slice)",
+            "action": "top",
+            "output": "pizza casserole mixture topped with cheese and pepperoni"
+        },
+        {
+            "instructions": "sprinkle with parmesan_cheese .",
+            "input": "(parmesan; pizza casserole mixture topped with cheese and pepperoni)",
+            "action": "sprinkle",
+            "output": "parmesan cheese sprinkled on pizza casserole mixture topped with cheese and pepperoni"
+        },
+        {
+            "instructions": "bake at 350 degrees for 30 min .",
+            "input": "uncooked pizza_casserole",
+            "action": "bake",
+            "output": "baked pizza_casserole"
+        }
+    ],
+    "ingredients": [
+        {
+            "text": "1 pound hamburger"
+        },
+        {
+            "text": "1 med. onion, minced"
+        },
+        {
+            "text": "1 sm. jar mushrooms"
+        },
+        {
+            "text": "1 (12 ounce.) mozzarella cheese, grated"
+        },
+        {
+            "text": "1 1/2 c. (raw) macaroni"
+        },
+        {
+            "text": "1 (15 1/2 ounce.) jar Ragu pizza sauce"
+        },
+        {
+            "text": "1 sm. green pepper, minced"
+        },
+        {
+            "text": "1 pkg. pepperoni slices"
+        },
+        {
+            "text": "1 (4 ounce.) Cheddar cheese, grated"
+        }
+    ],
+    "recipe": [
+        {
+            "text": "Brown hamburger with onion, green pepper and mushrooms."
+        },
+        {
+            "text": "Season with salt and pepper to taste."
+        },
+        {
+            "text": "Cook macaroni according to package directions."
+        },
+        {
+            "text": "Mix hamburger, cooked macaroni and pizza sauce."
+        },
+        {
+            "text": "Place in greased casserole dish."
+        },
+        {
+            "text": "Top with cheeses and pepperoni slices."
+        },
+        {
+            "text": "Sprinkle with Parmesan cheese."
+        },
+        {
+            "text": "Bake at 350 degrees for 30 min."
+        },
+        {
+            "text": "Yields 1 large casserole or possibly 2 small."
+        }
+    ]
+}

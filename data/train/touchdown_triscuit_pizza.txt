@@ -1,0 +1,67 @@
+{
+    "title": "touchdown_triscuit_pizza",
+    "id": "11d28cd1ed",
+    "table": [
+        {
+            "instructions": "top crackers with sauce and cheese ;",
+            "input": "(crackers; cheese; sauce)",
+            "actions": "top",
+            "output": "crackers topped with sauce and cheese"
+        },
+        {
+            "instructions": "sprinkle with oregano .",
+            "input": "(crackers topped with sauce and cheese; oregano)",
+            "actions": "sprinkle",
+            "output": "crackers topped with sauce, cheese and oregano"
+        },
+        {
+            "instructions": "place 12 of the crackers on microwavable plate .",
+            "input": "crackers topped with sauce, cheese and oregano",
+            "actions": "place",
+            "output": "crackers topped with sauce, cheese and oregano"
+        },
+        {
+            "instructions": "microwave on high 45 to 50 seconds or until cheese is melted .",
+            "input": "crackers topped with sauce, cheese and oregano",
+            "actions": "microwave",
+            "output": "microwaved crackers"
+        },
+        {
+            "instructions": "serve warm .",
+            "input": "microwaved crackers",
+            "actions": "serve",
+            "output": "microwaved crackers"
+        }
+    ],
+    "ingredients": [
+        {
+            "text": "48 woven wheat crackers"
+        },
+        {
+            "text": "1 cup spaghetti sauce or pizza sauce"
+        },
+        {
+            "text": "1 cup KRAFT Shredded Mozzarella Cheese"
+        },
+        {
+            "text": "2 tsp. dried oregano leaves"
+        }
+    ],
+    "recipe": [
+        {
+            "text": "Top crackers with sauce and cheese; sprinkle with oregano."
+        },
+        {
+            "text": "Place 12 of the crackers on microwavable plate."
+        },
+        {
+            "text": "Microwave on HIGH 45 to 50 seconds or until cheese is melted."
+        },
+        {
+            "text": "Repeat with remaining crackers."
+        },
+        {
+            "text": "Serve warm."
+        }
+    ]
+}

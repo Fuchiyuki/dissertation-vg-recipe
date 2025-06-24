@@ -1,0 +1,139 @@
+{
+    "title": "spinach_pierogi_pizza",
+    "id": "bb6bfb5539",
+    "table": [
+        {
+            "instructions": "roll pizza_dough out to fit a 14 inch , pizza\u2012pan or a 9x13 baking pan ;",
+            "input": "pizza_dough",
+            "action": "roll",
+            "output": "rolled_pizza_dough"
+        },
+        {
+            "instructions": "press dough into greased pan making it thicker on the sides .",
+            "input": "rolled_pizza_dough",
+            "action": "press",
+            "output": "pressed pizza crust"
+        },
+        {
+            "instructions": "prick the crust all over with a fork .",
+            "input": "pressed pizza crust",
+            "action": "prick",
+            "output": "pressed and pricked pizza crust"
+        },
+        {
+            "instructions": "bake at 425 degrees f for 7 9 minutes until golden .",
+            "input": "uncooked pizza crust",
+            "action": "bake",
+            "output": "partially baked crust"
+        },
+        {
+            "instructions": "meanwhile saute onions and spinach in butter until onion is tender ;",
+            "input": "onions; spinach; butter",
+            "action": "saute",
+            "output": "onions and spinach sauteed in butter"
+        },
+        {
+            "instructions": "stir in potatoes , salt and pepper .",
+            "input": "potatoes; salt; pepper; onions and spinach sauteed in butter",
+            "action": "stir",
+            "output": "spinach and potatoes mixture"
+        },
+        {
+            "instructions": "in a small bowl , combine the butter and garlic_salt ;",
+            "input": "butter; garlic salt",
+            "action": "combine",
+            "output": "garlic butter"
+        },
+        {
+            "instructions": "brush over partially baked crust .",
+            "input": "partially baked crust; garlic butter",
+            "action": "brush",
+            "output": "garlic butter brushed on partially baked crust"
+        },
+        {
+            "instructions": "top crust with spinach mixture ;",
+            "input": "spinach and potatoes mixture; partially baked crust with garlic butter",
+            "action": "top",
+            "output": "partially baked crust with garlic butter topped with spinach and potatoes mixture"
+        },
+        {
+            "instructions": "sprinkle with cheeses",
+            "input": "mozzarella cheese; cheddar cheese; partially baked crust with garlic butter topped with spinach and potatoes mixture",
+            "action": "sprinkle",
+            "output": "cheeses sprinkled on partially baked crust with garlic butter topped with spinach and potatoes mixture"
+        },
+        {
+            "instructions": "top with onion rings .",
+            "input": "onion rings; partially baked crust with garlic butter, spinach and potatoes mixture and cheeses",
+            "action": "top",
+            "output": "partially baked crust with garlic butter, spinach and potatoes mixture and cheeses topped with onion rings"
+        },
+        {
+            "instructions": "bake at 425 degrees for 15 20 minutes more .",
+            "input": "uncooked spinach_pierogi_pizza",
+            "action": "bake",
+            "output": "baked spinach_pierogi_pizza"
+        }
+    ],
+    "ingredients": [
+        {
+            "text": "1 pizza crust (10 oz. if purchased)"
+        },
+        {
+            "text": "8 -10 ounces frozen spinach, thawed and squeezed dry"
+        },
+        {
+            "text": "12 cup onion, chopped"
+        },
+        {
+            "text": "2 tablespoons butter"
+        },
+        {
+            "text": "1 12 cups mashed potatoes"
+        },
+        {
+            "text": "34 teaspoon salt"
+        },
+        {
+            "text": "14 teaspoon white pepper"
+        },
+        {
+            "text": "2 tablespoons butter"
+        },
+        {
+            "text": "12 teaspoon garlic salt"
+        },
+        {
+            "text": "1 cup mozzarella cheese, shredded"
+        },
+        {
+            "text": "1 cup cheddar cheese, shredded"
+        },
+        {
+            "text": "1 small red onion, sliced into rings"
+        }
+    ],
+    "recipe": [
+        {
+            "text": "Roll pizza dough out to fit a 14 inch pizza pan or a 9x13 baking pan; press dough into greased pan making it thicker on the sides."
+        },
+        {
+            "text": "Prick the crust all over with a fork."
+        },
+        {
+            "text": "Bake at 425 degrees F for 7-9 minutes until golden."
+        },
+        {
+            "text": "Meanwhile saute onions and spinach in butter until onion is tender; stir in potatoes,salt and pepper."
+        },
+        {
+            "text": "In a small bowl, combine the butter and garlic salt; brush over partially baked crust."
+        },
+        {
+            "text": "Top crust with spinach mixture; sprinkle with cheeses and top with onion rings."
+        },
+        {
+            "text": "Bake at 425 degrees for 15-20 minutes more."
+        }
+    ]
+}

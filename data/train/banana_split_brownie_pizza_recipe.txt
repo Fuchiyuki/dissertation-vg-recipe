@@ -1,0 +1,145 @@
+{
+    "title": "banana_split_brownie_pizza_recipe",
+    "id": "bb9cfa6248",
+    "table": [
+        {
+            "instructions": "preheat oven to 37",
+            "input": "NA",
+            "actions": "preheat",
+            "output": "NA"
+        },
+        {
+            "instructions": "prepare brownie fold in batter bowl according to package directions .",
+            "input": "brownie batter package",
+            "actions": "prepare",
+            "output": "prepared_brownie_batter"
+        },
+        {
+            "instructions": "place parchment paper on 15 inch , baking stone .",
+            "input": "NA",
+            "actions": "place",
+            "output": "NA"
+        },
+        {
+            "instructions": "pour brownie mix on paper and spread into a 14 inch circle .",
+            "input": "prepared_brownie_batter",
+            "actions": "pour",
+            "output": "poured brownie_batter"
+        },
+        {
+            "instructions": "don't bake without parchment paper or possibly batter will run off stone while baking .",
+            "input": "na",
+            "actions": "bake",
+            "output": "na"
+        },
+        {
+            "instructions": "bake 15 20 min or possibly till set .",
+            "input": "poured brownie_batter",
+            "actions": "bake",
+            "output": "brownies"
+        },
+        {
+            "instructions": "mix cream_cheese and sugar till smooth .",
+            "input": "(cream cheese; sugar)",
+            "actions": "mix",
+            "output": "frosting"
+        },
+        {
+            "instructions": "spread over brownie crust .",
+            "input": "(frosting; brownies)",
+            "actions": "spread",
+            "output": "frosted brownies"
+        },
+        {
+            "instructions": "top with fruit and nuts .",
+            "input": "(frosted brownies; fruit; nuts)",
+            "actions": "top",
+            "output": "frosted brownies topped with fruit and nuts"
+        },
+        {
+            "instructions": "heat chocolate and butter together , stirring till smooth .",
+            "input": "(chocolate; butter)",
+            "actions": "heat",
+            "output": "hot chocolate ganache"
+        },
+        {
+            "instructions": "chill .",
+            "input": "hot chocolate ganache",
+            "actions": "chill",
+            "output": "cooled chocolate ganache"
+        },
+        {
+            "instructions": "cut into wedges with pizza cutter .",
+            "input": "uncut brownies",
+            "actions": "cut",
+            "output": "cut brownies"
+        }
+    ],
+    "ingredients": [
+        {
+            "text": "1 pkt Brownie mix"
+        },
+        {
+            "text": "16 ounce Cream cheese -- softened"
+        },
+        {
+            "text": "2/3 c. Sugar"
+        },
+        {
+            "text": "8 ounce Crushed pineapple -- Liquid removed Banana slices Strawberry slices"
+        },
+        {
+            "text": "1/2 c. Nuts -- minced"
+        },
+        {
+            "text": "1 ounce Semisweet chocolate"
+        },
+        {
+            "text": "1 Tbsp. Butter or possibly margarine"
+        }
+    ],
+    "recipe": [
+        {
+            "text": "Preheat oven to 375."
+        },
+        {
+            "text": "Prepare brownie fold in Batter Bowl according to package directions."
+        },
+        {
+            "text": "Place Parchment Paper on 15-inch Baking Stone."
+        },
+        {
+            "text": "Pour brownie mix on paper and spreadinto a 14-inch circle."
+        },
+        {
+            "text": "(Don't bake without Parchment Paper or possibly batter wil l run off Stone while baking.)"
+        },
+        {
+            "text": "Bake 15-20 min or possibly till set."
+        },
+        {
+            "text": "Cold to room temperature."
+        },
+        {
+            "text": "Mix cream cheese and sugar till smooth."
+        },
+        {
+            "text": "Spread over brownie \"crust\"."
+        },
+        {
+            "text": "Top with fruitand nuts."
+        },
+        {
+            "text": "Heat chocolate and butter together, stirring till smooth."
+        },
+        {
+            "text": "Dri zzle over pizza."
+        },
+        {
+            "text": "Chill."
+        },
+        {
+            "text": "Cut into wedges with Pizza Cutter."
+        }
+    ]
+}

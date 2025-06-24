@@ -1,0 +1,208 @@
+{
+    "title": "california_pizza_kitchen_'s_thai_chicken_pizza_recipe",
+    "id": "811ec4611b",
+    "table": [
+        {
+            "instructions": "combine sauce ingredients in a small pan over medium heat. bring sauce to a boil. ",
+            "input": "(peanut butter; hoisin sauce; honey; red wine vineagr; chopped ginger; roasted sesame oil; soy sauce; vietnamese chili sauce; oyster sauce; water)",
+            "action": "combine",
+            "output": "sauce"
+        },
+        {
+            "instructions": "boil gently for one minute .",
+            "input": "sauce",
+            "action": "boil",
+            "output": "cooked sauce"
+        },
+        {
+            "instructions": "divide into 2 portions for use on chicken and pizza ;",
+            "input": "cooked sauce",
+            "action": "divide",
+            "output": "divided_sauce"
+        },
+        {
+            "instructions": "set aside .",
+            "input": "divided_sauce",
+            "action": "set",
+            "output": "divided_sauce"
+        },
+        {
+            "instructions": "do n't overcook .",
+            "input": "NA",
+            "action": "overcook",
+            "output": "NA"
+        },
+        {
+            "instructions": "set aside in refrigerator till chilled through .",
+            "input": "divided_sauce",
+            "action": "set",
+            "output": "chilled sauce"
+        },
+        {
+            "instructions": "once chilled , coat the chicken with 14 c.",
+            "input": "(chilled sauce; chicken)",
+            "action": "coat",
+            "output": "coated chicken with chilled sauce"
+        },
+        {
+            "instructions": "set aside in refrigerator .",
+            "input": "coated chicken with chilled sauce",
+            "action": "set",
+            "output": "refrigerated chicken coated in sauce"
+        },
+        {
+            "instructions": "cover sauce with 34 c of cheese",
+            "input": "(pizza dough with sauce; cheese)",
+            "action": "cover",
+            "output": "cheese on pizza dough with sauce"
+        },
+        {
+            "instructions": "Distribute half the chicken pcs over the cheese followed by half the green onions, bean sprouts,and carrots, respectively. sprinkle an additional 14 c cheese.",
+            "input": "(cheese on pizza dough with sauce; refrigerated chicken coated in sauce; green onions; bean sprouts; carrots)",
+            "action": "sprinkle",
+            "output": "pizza crust with coated chicken pieces, green onion, bean sprouts, carrots, sauce and cheese"
+        },
+        {
+            "instructions": "top the pizza with 1 tbsp minced peanuts.",
+            "input": "(uncooked thai_chicken_pizza; minced peanuts)",
+            "action": "top",
+            "output": "uncooked thai_chicken_pizza topped with minced peantus"
+        },
+        {
+            "instructions": "transfer the pizza to oven ;",
+            "input": "uncooked thai_chicken_pizza",
+            "action": "transfer",
+            "output": "uncooked thai_chicken_pizza"
+        },
+        {
+            "instructions": "bake till crisp and golden brown and the cheese is bubbly , 9 to 10 min .",
+            "input": "uncooked thai_chicken_pizza",
+            "action": "bake",
+            "output": "baked thai_chicken_pizza"
+        },
+        {
+            "instructions": "when cooked through , remove pizza from oven .",
+            "input": "baked thai_chicken_pizza",
+            "action": "remove",
+            "output": "baked thai_chicken_pizza"
+        },
+        {
+            "instructions": "sprinkle 1 tbsp minced cilantro.",
+            "input": "(baked thai_chicken_pizza; minced cilantro)",
+            "action": "sprinkle",
+            "output": "minced cilantro sprinkled over baked thai_chicken_pizza"
+        }
+    ],
+    "ingredients": [
+        {
+            "text": "1/2 c. peanut butter"
+        },
+        {
+            "text": "1/2 c. hoisin sauce"
+        },
+        {
+            "text": "1 Tbsp. honey"
+        },
+        {
+            "text": "2 tsp red wine vinegar"
+        },
+        {
+            "text": "2 tsp chopped ginger"
+        },
+        {
+            "text": "2 Tbsp. roasted sesame oil"
+        },
+        {
+            "text": "2 tsp soy sauce"
+        },
+        {
+            "text": "1 tsp Vietnamese chili sauce (or possibly dry chili flakes)"
+        },
+        {
+            "text": "1 Tbsp. oyster sauce"
+        },
+        {
+            "text": "2 Tbsp. water"
+        },
+        {
+            "text": "1 Tbsp. extra virgin olive oil"
+        },
+        {
+            "text": "10 ounce boneless skinless chicken beast cut 3/4\" cubes Basic pizza dough for 2 pizzas (or possibly 2 prepared pizza crusts) Cornmeal or possibly flour for handling"
+        },
+        {
+            "text": "2 c. shredded mozzarella cheese"
+        },
+        {
+            "text": "4 x scallions slivered diagonally"
+        },
+        {
+            "text": "1/2 c. white bean sprouts"
+        },
+        {
+            "text": "1/4 c. shredded carrots minced roasted peanuts"
+        },
+        {
+            "text": "2 Tbsp. minced fresh cilantro"
+        }
+    ],
+    "recipe": [
+        {
+            "text": "To make spicy sauce: Combine sauce ingredients in a small pan over medium heat."
+        },
+        {
+            "text": "Bring the sauce to a boil; boil gently for one minute."
+        },
+        {
+            "text": "Divide into 2 portions for use on chicken and pizza; set aside."
+        },
+        {
+            "text": "To make Thai chicken: Cook the chicken in extra virgin olive oil over medium-high heat, stirring, till just cooked, 5 to 6 min, don't overcook."
+        },
+        {
+            "text": "Set aside in refrigerator till chilled through."
+        },
+        {
+            "text": "Once chilled, coat the chicken with 1/4 c. sauce."
+        },
+        {
+            "text": "Set aside in refrigerator."
+        },
+        {
+            "text": "To make the pizza: Use a large spoon to spread 1/4 c. sauce proportionately over pizza dough within the rim."
+        },
+        {
+            "text": "Cover sauce with 3/4 c. cheese."
+        },
+        {
+            "text": "Distribute half the chicken pcs over the cheese followed by half the green onions, bean sprouts,and carrots, respectively."
+        },
+        {
+            "text": "Sprinkle an additional 1/4 c. cheese over the toppings and top the pizza with 1 Tbsp."
+        },
+        {
+            "text": "minced peanuts."
+        },
+        {
+            "text": "Transfer the pizza to oven; bake till crisp and golden brown and the cheese is bubbly, 9 to 10 min."
+        },
+        {
+            "text": "When cooked through, remove pizza from oven."
+        },
+        {
+            "text": "Sprinkle 1 Tbsp."
+        },
+        {
+            "text": "minced cilantro over the warm cheesy surface."
+        },
+        {
+            "text": "Repeat with remaining ingredients for a second pizza."
+        },
+        {
+            "text": "This recipe yields 2 nine-inch pizzas."
+        },
+        {
+            "text": "Yield: 2 nine-inch pizzas"
+        }
+    ]
+}

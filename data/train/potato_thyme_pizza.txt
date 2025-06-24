@@ -1,0 +1,130 @@
+{
+    "title": "potato_thyme_pizza",
+    "id": "6c1a85a566",
+    "table": [
+        {
+            "instructions": "preheat oven to 450 degrees f .",
+            "input": "NA",
+            "action": "preheat",
+            "output": "NA"
+        },
+        {
+            "instructions": "heat olive_oil in a small frying pan .",
+            "input": "olive_oil",
+            "action": "heat",
+            "output": "heated_olive_oil"
+        },
+        {
+            "instructions": "add onions",
+            "input": "(onions; heated_olive_oil)",
+            "action": "add",
+            "output": "onions in heated olive oil"
+        },
+        {
+            "instructions": "saute until caramelized , about 5 minutes .",
+            "input": "onions in heated olive oil",
+            "action": "saute",
+            "output": "caramelized onions"
+        },
+        {
+            "instructions": "roll out pizza_dough",
+            "input": "pizza dough",
+            "action": "roll",
+            "output": "rolled pizza dough"
+        },
+        {
+            "instructions": "spread about 1 2 tablespoons of olive_oil on the top .",
+            "input": "(rolled pizza dough; olive oil)",
+            "action": "spread",
+            "output": "pizza dough with spread olive oil"
+        },
+        {
+            "instructions": "add garlic , potatoes , and top with cream .",
+            "input": "(potatoes; garlic; cream; oiled pizza dough)",
+            "action": "add",
+            "output": "oiled pizza crust with potatoes, garlic and cream"
+        },
+        {
+            "instructions": "season with salt and pepper .",
+            "input": "(salt; pepper)",
+            "action": "season",
+            "output": "seasoned oiled pizza crust with potatoes, garlic and cream"
+        },
+        {
+            "instructions": "bake until crust is golden brown",
+            "input": "seasoned oiled pizza crust with potatoes, garlic and cream",
+            "action": "bake",
+            "output": "baked potato pizza"
+        },
+        {
+            "instructions": "add thyme",
+            "input": "(thyme; baked potato pizza)",
+            "action": "add",
+            "output": "baked potato_thyme_pizza"
+        },
+        {
+            "instructions": "return to oven for an additional 3 5 minutes .",
+            "input": "baked potato_thyme_pizza",
+            "action": "return",
+            "output": "twice baked potato_thyme_pizza"
+        }
+    ],
+    "ingredients": [
+        {
+            "text": "Olive Oil"
+        },
+        {
+            "text": "1/4 whole Red Onion, Sliced"
+        },
+        {
+            "text": "1 whole Pizza Dough"
+        },
+        {
+            "text": "3 cloves Garlic, Sliced"
+        },
+        {
+            "text": "6 whole Small White Rose Potatoes, Sliced"
+        },
+        {
+            "text": "1/2 cups Heavy Cream"
+        },
+        {
+            "text": "1/4 teaspoons Sea Salt"
+        },
+        {
+            "text": "1/4 teaspoons Pepper"
+        },
+        {
+            "text": "5 sprigs Thyme"
+        }
+    ],
+    "recipe": [
+        {
+            "text": "Preheat oven to 450 degrees F."
+        },
+        {
+            "text": "Heat olive oil in a small frying pan."
+        },
+        {
+            "text": "Add onions and saute until caramelized, about 5 minutes."
+        },
+        {
+            "text": "Roll out pizza dough and spread about 1-2 tablespoons of olive oil on the top."
+        },
+        {
+            "text": "Add garlic, potatoes, and top with cream."
+        },
+        {
+            "text": "Season with salt and pepper."
+        },
+        {
+            "text": "Bake until crust is golden brown and potatoes have cooked all the way through, about 25 minutes."
+        },
+        {
+            "text": "Add thyme and return to oven for an additional 3-5 minutes."
+        },
+        {
+            "text": "Enjoy!"
+        }
+    ]
+}

@@ -1,0 +1,94 @@
+{
+    "title": "chicken_naan_pizza",
+    "id": "0f375f2eb2",
+    "table": [
+        {
+            "instructions": "preheat oven to 425f ;",
+            "input": "NA",
+            "action": "preheat",
+            "output": "NA"
+        },
+        {
+            "instructions": "lay 2 naans on a baking tray .",
+            "input": "naans",
+            "action": "lay",
+            "output": "naans"
+        },
+        {
+            "instructions": "spread 2 tablespoons of tzatziki dip right up to the edges of each bread .",
+            "input": "(tzatziki dip; naans)",
+            "action": "spread",
+            "output": "tzatziki dip spread over naans"
+        },
+        {
+            "instructions": "top each naan with 14 cup mozzarella_cheese , 12 of the red_pepper strips and chicken .",
+            "input": "(naan with tzatziki dip; mozzarella_cheese; red_pepper strips; chicken)",
+            "action": "top",
+            "output": "naan with tzatziki dip topped with mozzarella cheese, red pepper strips and chicken"
+        },
+        {
+            "instructions": "drizzle each pizza lightly with olive_oil , 2 more tablespoons finely shredded_mozzarella_cheese , salt and pepper .",
+            "input": "(olive oil; finely shredded_mozzarella_cheese ; salt; pepper; chicken naan pizza)",
+            "action": "drizzle",
+            "output": "olive oil, finely shredded_mozzarella_cheese, salt and pepper drizzled over chicken naan pizza"
+        },
+        {
+            "instructions": "bake 8 minutes .",
+            "input": "uncooked chicken_naan_pizza",
+            "action": "bake",
+            "output": "baked chicken_naan_pizza"
+        },
+        {
+            "instructions": "garnish with thinly sliced_green_onion .",
+            "input": "(baked chicken_naan_pizza; thinly sliced_green_onion)",
+            "action": "garnish",
+            "output": "baked chicken naan pizza garnished with thinly sliced_green_onion"
+        }
+    ],
+    "ingredients": [
+        {
+            "text": "2 naan bread"
+        },
+        {
+            "text": "4 tablespoons tzatziki, yogurt and cucumber dip"
+        },
+        {
+            "text": "12 red pepper, cut into fine strips"
+        },
+        {
+            "text": "1 cooked chicken breast, shredded"
+        },
+        {
+            "text": "12 cup mozzarella cheese, finely shredded"
+        },
+        {
+            "text": "extra virgin olive oil"
+        },
+        {
+            "text": "salt and pepper"
+        },
+        {
+            "text": "green onion, thinly sliced"
+        }
+    ],
+    "recipe": [
+        {
+            "text": "Preheat oven to 425F Lay 2 Naans on a baking tray."
+        },
+        {
+            "text": "Spread 2 tablespoons Tzatziki dip right up to the edges of each bread."
+        },
+        {
+            "text": "Top each naan with 1/4 cup Mozzarella cheese, 1/2 of the red pepper strips and chicken."
+        },
+        {
+            "text": "Drizzle each pizza lightly with olive oil, 2 more tablespoons finely shredded Mozzarella cheese, salt and pepper."
+        },
+        {
+            "text": "Bake 8 minutes."
+        },
+        {
+            "text": "Garnish with thinly sliced green onions."
+        }
+    ]
+}

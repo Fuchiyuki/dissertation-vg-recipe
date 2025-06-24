@@ -1,0 +1,130 @@
+{
+    "title": "strawberry-kiwifruit_pizza_in_a_cookie_crust",
+    "id": "0c512e570e",
+    "table": [
+        {
+            "instructions": "preheat oven to 350",
+            "input": "NA",
+            "action": "preheat",
+            "output": "NA"
+        },
+        {
+            "instructions": "place cookie dough in a large bowl ;",
+            "input": "cookie dough",
+            "action": "place",
+            "output": "cookie dough"
+        },
+        {
+            "instructions": "knead in coconut until well combined .",
+            "input": "(coconut; cookie dough)",
+            "action": "knead",
+            "output": "kneaded coconut cookie dough"
+        },
+        {
+            "instructions": "pat dough into a 12 x 8 inch rectangle on a baking sheet coated with cooking_spray .",
+            "input": "kneaded coconut cookie dough",
+            "action": "pat",
+            "output": "patted kneaded coconut cookie dough"
+        },
+        {
+            "instructions": "bake at 350 for 18 minutes or until lightly browned .",
+            "input": "uncooked patted kneaded coconut cookie dough",
+            "action": "bake",
+            "output": "baked coconut cookie crust"
+        },
+        {
+            "instructions": "cool completely on a wire rack .",
+            "input": "baked coconut cookie crust",
+            "action": "cool",
+            "output": "cooled baked coconut cookie crust"
+        },
+        {
+            "instructions": "combine cream_cheese and juice in a medium bowl ,",
+            "input": "(cream cheese; juice)",
+            "action": "combine",
+            "output": "cream cheese mixture"
+        },
+        {
+            "instructions": "beat with a mixer at medium speed until well blended .",
+            "input": "cream cheese mixture",
+            "action": "beat",
+            "output": "whipped cream cheese mixture"
+        },
+        {
+            "instructions": "spread evenly over prepared crust , leaving a 12 inch border .",
+            "input": "(whipped cream cheese mixture; cooled baked coconut cookie crust)",
+            "action": "spread",
+            "output": "whipped cream cheese mixture spread over cooled baked coconut cookie crust"
+        },
+        {
+            "instructions": "spread pineapple curd over cream_cheese mixture .",
+            "input": "(pineapple curd; cooled baked coconut cookie crust with whipped cream cheese mixture)",
+            "action": "spread",
+            "output": "cooled baked coconut cookie crust with whipped cream cheese mixture and pineapple curd"
+        },
+        {
+            "instructions": "arrange sliced strawberries and kiwifruit on top of the curd .",
+            "input": "(sliced strawberries; sliced kiwifruit; cooled baked coconut cookie crust with whipped cream cheese mixture and pineapple curd)",
+            "action": "arrange",
+            "output": "cooled baked coconut cookie crust with whipped cream cheese mixture, pineapple curd, sliced strawberries and kwi"
+        },
+        {
+            "instructions": "serve immediately .",
+            "input": "cooled baked coconut cookie crust with whipped cream cheese mixture, pineapple curd, sliced strawberries and kwi",
+            "action": "serve",
+            "output": "served strawberry-kiwifruit_pizza_in_a_cookie_crust"
+        }
+    ],
+    "ingredients": [
+        {
+            "text": "1 (18-ounce) package refrigerated sugar cookie dough"
+        },
+        {
+            "text": "1/2 cup flaked sweetened coconut, toasted"
+        },
+        {
+            "text": "Cooking spray"
+        },
+        {
+            "text": "1 (8-ounce) block fat-free cream cheese, softened"
+        },
+        {
+            "text": "1 tablespoon lemon juice"
+        },
+        {
+            "text": "3/4 cup Pineapple Curd"
+        },
+        {
+            "text": "6 large strawberries, sliced"
+        },
+        {
+            "text": "3 kiwifruit, peeled and sliced"
+        }
+    ],
+    "recipe": [
+        {
+            "text": "Preheat oven to 350.Place cookie dough in a large bowl; knead in coconut until well combined."
+        },
+        {
+            "text": "Pat dough into a 12 x 8-inch rectangle on a baking sheet coated with cooking spray."
+        },
+        {
+            "text": "Bake at 350 for 18 minutes or until lightly browned."
+        },
+        {
+            "text": "Cool completely on a wire rack.Combine cream cheese and juice in a medium bowl, and beat with a mixer at medium speed until well blended."
+        },
+        {
+            "text": "Spread evenly over prepared crust, leaving a 1/2-inch border."
+        },
+        {
+            "text": "Spread Pineapple Curd over cream cheese mixture."
+        },
+        {
+            "text": "Arrange sliced strawberries and kiwifruit on top of the curd."
+        },
+        {
+            "text": "Serve immediately."
+        }
+    ]
+}

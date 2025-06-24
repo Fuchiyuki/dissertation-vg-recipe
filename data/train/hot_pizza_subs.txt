@@ -1,0 +1,118 @@
+{
+    "title": "hot_pizza_subs",
+    "id": "1999f922b1",
+    "table": [
+        {
+            "instructions": "slice the bread horizontally in half .",
+            "input": "bread",
+            "actions": "slice",
+            "output": "sliced_bread"
+        },
+        {
+            "instructions": "spread the pizza_sauce onto the bottom half of the loaf .",
+            "input": "sliced_bread",
+            "actions": "spread",
+            "output": "sliced_bread with pizza sauce"
+        },
+        {
+            "instructions": "sprinkle with italian_seasoning .",
+            "input": "sliced_bread with pizza sauce",
+            "actions": "sprinkle",
+            "output": "sliced_bread with pizza sauce and Italian seasoning"
+        },
+        {
+            "instructions": "sprinkle with salt pepper if desired .",
+            "input": ". sliced_bread with pizza sauce and Italian seasoning",
+            "actions": "sprinkle",
+            "output": "sliced_bread with pizza sauce, Italian seasoning, salt, and pepper"
+        },
+        {
+            "instructions": "replace bread top .",
+            "input": "sliced_bread with pizza sauce, Italian seasoning, salt, and pepper",
+            "actions": "replace",
+            "output": "sandwich with pizza sauce filling"
+        },
+        {
+            "instructions": "place sandwich on a baking sheet .",
+            "input": "sandwich with pizza sauce filling",
+            "actions": "place",
+            "output": "sandwich with pizza sauce filling on a baking sheet"
+        },
+        {
+            "instructions": "bake at 425 for 12 15 minutes or until the cheese is melted .",
+            "input": "sandwich with pizza sauce filling on a baking sheet",
+            "actions": "bake",
+            "output": "baked pizza sandwich"
+        },
+        {
+            "instructions": "slice",
+            "input": "baked pizza sandwich",
+            "actions": "slice",
+            "output": "sliced baked pizza sandwich"
+        },
+        {
+            "instructions": "serve warm .",
+            "input": "sliced baked pizza sandwich",
+            "actions": "serve",
+            "output": "served warm pizza sandwich"
+        }
+    ],
+    "ingredients": [
+        {
+            "text": "1 loaf unsliced Italian bread (1 lb.)"
+        },
+        {
+            "text": "14-13 cup pizza sauce"
+        },
+        {
+            "text": "1 12 teaspoons italian seasoning"
+        },
+        {
+            "text": "1 medium green bell pepper, thinly sliced"
+        },
+        {
+            "text": "4 slices cooked ham"
+        },
+        {
+            "text": "10 slices salami"
+        },
+        {
+            "text": "30 slices pepperoni"
+        },
+        {
+            "text": "4 slices cheddar cheese"
+        },
+        {
+            "text": "4 slices mozzarella cheese"
+        },
+        {
+            "text": "4 slices American cheese"
+        }
+    ],
+    "recipe": [
+        {
+            "text": "Slice the bread horizontally in half."
+        },
+        {
+            "text": "Spread the pizza sauce onto the bottom half of the loaf."
+        },
+        {
+            "text": "Sprinkle with Italian seasoning."
+        },
+        {
+            "text": "Layer as follows: green pepper, ham, salami, pepperoni, and cheese; sprinkle with salt/pepper if desired."
+        },
+        {
+            "text": "Replace bread top."
+        },
+        {
+            "text": "Place sandwich on a baking sheet."
+        },
+        {
+            "text": "Bake at 425 for 12-15 minutes or until the cheese is melted."
+        },
+        {
+            "text": "Slice and serve warm."
+        }
+    ]
+}

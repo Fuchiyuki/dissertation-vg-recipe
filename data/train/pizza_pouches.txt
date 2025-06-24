@@ -1,0 +1,115 @@
+{
+    "title": "pizza_pouches",
+    "id": "ee0a98bb83",
+    "table": [
+        {
+            "instructions": "preheat oven to 375f .",
+            "input": "NA",
+            "actions": "preheat",
+            "output": "NA"
+        },
+        {
+            "instructions": "roll the dough out about 14 inch thick .",
+            "input": "dough",
+            "actions": "roll",
+            "output": "rolled_dough"
+        },
+        {
+            "instructions": "grease a 6 cup , muffin tin .",
+            "input": "NA",
+            "actions": "grease",
+            "output": "NA"
+        },
+        {
+            "instructions": "line each cup with a piece of dough , letting the excess hang over the sides .",
+            "input": "rolled_dough",
+            "actions": "line",
+            "output": "pizza crust cups"
+        },
+        {
+            "instructions": "fill each with 1 tablespoon of sauce and 1 meatball .",
+            "input": "(pizza crust cups; meatball; sauce)",
+            "actions": "fill",
+            "output": "pizza crust cups filled with meatball and sauce"
+        },
+        {
+            "instructions": "divide the cheeses equally among the cups .",
+            "input": "(pizza cups; cheese)",
+            "actions": "divide",
+            "output": "cheesy pizza pouches"
+        },
+        {
+            "instructions": "whisk the egg with the milk to make a wash .",
+            "input": "egg",
+            "actions": "whisk",
+            "output": "egg wash"
+        },
+        {
+            "instructions": "brush it onto each pouch .",
+            "input": "(cheesy pizza pouches; egg_wash)",
+            "actions": "brush",
+            "output": "egg wash brushed over cheesy pizza pouches"
+        },
+        {
+            "instructions": "bake until golden brown , about 15 to 20 minutes .",
+            "input": "uncooked pizza pouches",
+            "actions": "bake",
+            "output": "bakes pizza pouches"
+        }
+    ],
+    "ingredients": [
+        {
+            "text": "1 (16 ounce) bagstore-bought pizza dough"
+        },
+        {
+            "text": "6 tablespoons fresh marinara sauce or 6 tablespoons jarred marinara sauce"
+        },
+        {
+            "text": "6 store-bought turkey meatballs (try Trader Joes)"
+        },
+        {
+            "text": "6 tablespoons shredded mozzarella cheese"
+        },
+        {
+            "text": "1 tablespoon grated parmesan cheese"
+        },
+        {
+            "text": "1 egg"
+        },
+        {
+            "text": "1 teaspoon milk (any fat content)"
+        }
+    ],
+    "recipe": [
+        {
+            "text": "Preheat oven to 375F."
+        },
+        {
+            "text": "Roll the dough out about 1/4 inch thick."
+        },
+        {
+            "text": "Cut it into eighths (2 will be left over)."
+        },
+        {
+            "text": "Grease a 6-cup muffin tin."
+        },
+        {
+            "text": "Line each cup with a piece of dough, letting the excess hang over the sides."
+        },
+        {
+            "text": "Fill each with 1 tablespoon of sauce and 1 meatball."
+        },
+        {
+            "text": "Divide the cheeses equally among the cups."
+        },
+        {
+            "text": "Gather each bit of excess dough up around the filling, pinching it together at the top."
+        },
+        {
+            "text": "Whisk the egg with the milk to make a wash. Brush it onto each pouch."
+        },
+        {
+            "text": "Bake until golden brown, about 15 to 20 minutes."
+        }
+    ]
+}

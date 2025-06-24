@@ -1,0 +1,121 @@
+{
+    "title": "pizza_of_artichoke_hearts_and_arugula",
+    "id": "8ae06316b1",
+    "table": [
+        {
+            "instructions": "preheat oven to 500f or according to the directions of your pizza_dough recipe .",
+            "input": "NA",
+            "action": "preheat",
+            "output": "NA"
+        },
+        {
+            "instructions": "chop artichoke_heart into bite sized chunks .",
+            "input": "choppped artichoke_heart",
+            "action": "chop",
+            "output": "chopped artichoke_heart"
+        },
+        {
+            "instructions": "spread pesto over pizza_crust .",
+            "input": "(pizza_crust; pesto)",
+            "action": "spread",
+            "output": "pesto spread over pizza_crust"
+        },
+        {
+            "instructions": "top with chopped arugula and then chunks of artichoke_heart .",
+            "input": "(chopped artichoke_heart, chopped arugula; pizza crust with pesto)",
+            "action": "top",
+            "output": "pizza crust with pesto topped with chopped arugula and chunks of artichoke_heart"
+        },
+        {
+            "instructions": "drizzle lightly with white balsamic_vinegar , optional .",
+            "input": "optional balsamic_vinegar",
+            "action": "drizzle",
+            "output": "pizza crust with pesto topped with chopped arugula and chunks of artichoke_heart drizzled with optional balsamic_vinegar"
+        },
+        {
+            "instructions": "top with red onion , olives and pine nuts .",
+            "input": "(red onion,olives ,pine nuts; pizza crust with pesto topped with chopped arugula and chunks of artichoke_heart drizzled with optional balsamic_vinegar)",
+            "action": "top",
+            "output": "pizza crust with pesto topped with chopped arugula and chunks of artichoke_heart, red onion,olives and pine nuts drizzled with optional balsamic_vinegar"
+        },
+        {
+            "instructions": "sprinkle with cheese.",
+            "input": "(pizza crust with pesto topped with chopped arugula and chunks of artichoke_heart, red onion,olives and pine nuts drizzled with optional balsamic_vinegar; cheese)",
+            "action": "sprinkle",
+            "output": "pizza crust with pesto topped with chopped arugula and chunks of artichoke_heart, red onion,olives and pine nuts drizzled with optional balsamic_vinegar sprinkle with cheese"
+        },
+        {
+            "instructions": "drizzle lightly with olive_oil , optional .",
+            "input": "(optional olive oil; uncooked pizza_of_artichoke_hearts_and_arugula)",
+            "action": "drizzle",
+            "output": "uncooked pizza_of_artichoke_hearts_and_arugula drizzled with optional olive oil"
+        },
+        {
+            "instructions": "bake 10 12 minutes or according to the directions of your pizza_dough recipe .",
+            "input": "uncooked pizza_of_artichoke_hearts_and_arugula",
+            "action": "bake",
+            "output": "Baked pizza_of_artichoke_hearts_and_arugula"
+        }
+    ],
+    "ingredients": [
+        {
+            "text": "14 cup pesto sauce"
+        },
+        {
+            "text": "12 cup chopped arugula"
+        },
+        {
+            "text": "12-34 cup frozen artichoke hearts, thawed or 12-34 cup marinated artichoke hearts"
+        },
+        {
+            "text": "white balsamic vinegar (optional)"
+        },
+        {
+            "text": "1 -2 tablespoon chopped red onion"
+        },
+        {
+            "text": "1 tablespoon chopped Greek olive"
+        },
+        {
+            "text": "1 tablespoon pine nuts (pignoles)"
+        },
+        {
+            "text": "12-34 cup shredded gruyere (or combine several cheeses) or 12-34 cup mozzarella cheese (or combine several cheeses) or 12-34 cup your favorite white cheese (or combine several cheeses)"
+        },
+        {
+            "text": "olive oil (optional)"
+        },
+        {
+            "text": "fresh ground black pepper, to taste"
+        }
+    ],
+    "recipe": [
+        {
+            "text": "Preheat oven to 500F (or according to the directions of your pizza dough recipe)."
+        },
+        {
+            "text": "Chop artichoke hearts into bite-sized chunks."
+        },
+        {
+            "text": "Spread pesto over pizza crust."
+        },
+        {
+            "text": "Top with chopped arugula and then chunks of artichoke heart."
+        },
+        {
+            "text": "Drizzle lightly with white balsamic vinegar, optional."
+        },
+        {
+            "text": "Top with red onion, olives and pine nuts."
+        },
+        {
+            "text": "Sprinkle with cheese(s)."
+        },
+        {
+            "text": "Drizzle lightly with olive oil, optional."
+        },
+        {
+            "text": "Bake 10-12 minutes (or according to the directions of your pizza dough recipe)."
+        }
+    ]
+}

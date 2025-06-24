@@ -1,0 +1,82 @@
+{
+    "title": "mini_pizza_wrappers",
+    "id": "2b2159e32e",
+    "table": [
+        {
+            "instructions": "preheat oven to 400 degrees fahrenheit .",
+            "input": "NA",
+            "action": "preheat",
+            "output": "NA"
+        },
+        {
+            "instructions": "spray a pizza stone , cast iron skillet , or other low profile , oven proof dish lightly with cooking_spray .",
+            "input": "NA",
+            "action": "spray",
+            "output": "NA"
+        },
+        {
+            "instructions": "arrange rows of wrappers in a single layer on the oven proof dish .",
+            "input": "wrappers",
+            "action": "arrange",
+            "output": "wrappers arranged in dish"
+        },
+        {
+            "instructions": "put 1 t of pizza_sauce on the center of each wrapper ,",
+            "input": "(pizza sauce; wrappers arranged in dish)",
+            "action": "put",
+            "output": "pizza sauce in wrapper"
+        },
+        {
+            "instructions": "spread around , leaving about 14 inch of crust showing .",
+            "input": "pizza sauce in wrapper",
+            "action": "spread",
+            "output": "pizza sauce spread over wrapper"
+        },
+        {
+            "instructions": "place about 1 tsp of cheese on top of the sauce , followed by 1 tsp of whatever topping s you ' ve selected ;",
+            "input": "(cheese; toppings; pizza sauce spread over wrapper)",
+            "action": "place",
+            "output": "wrapper with spread pizza sauce, cheese and toppings"
+        },
+        {
+            "instructions": "bake in preheated oven for about 6 7 minutes , or until cheese is bubbly",
+            "input": "uncooked mini_pizza_wrappers",
+            "action": "bake",
+            "output": "baked mini_pizza_wrappers"
+        }
+    ],
+    "ingredients": [
+        {
+            "text": "42 gyoza skins or 42 wonton wrappers"
+        },
+        {
+            "text": "2 34 cups pizza sauce"
+        },
+        {
+            "text": "6 ounces grated mozzarella cheese or 6 ounces mozzarella string cheese"
+        },
+        {
+            "text": "1 cup pepperoni or 1 cup olives or 1 cup green pepper (whatever toppings!)"
+        }
+    ],
+    "recipe": [
+        {
+            "text": "Preheat oven to 400 degrees Fahrenheit."
+        },
+        {
+            "text": "Spray a pizza stone, cast iron skillet, or other low-profile, oven-proof dish lightly with cooking spray."
+        },
+        {
+            "text": "Arrange rows of wrappers in a single layer on the oven-proof dish."
+        },
+        {
+            "text": "Put 1 T of pizza sauce on the center of each wrapper, and spread around, leaving about 1/4 inch of\"crust\" showing."
+        },
+        {
+            "text": "Place about 1 tsp of cheese on top of the sauce, followed by 1 tsp of whatever topping (s) you've selected; to keep it low fat, we used part-skim mozzarella, and turkey pepperoni with great results."
+        },
+        {
+            "text": "Bake in preheated oven for about 6-7 minutes, or until cheese is bubbly and lightly browned, and the\"crust\" is golden."
+        }
+    ]
+}

@@ -1,0 +1,100 @@
+{
+    "title": "pizza_potatoes_recipe",
+    "id": "c14efda7d8",
+    "table": [
+        {
+            "instructions": "heat oven to 400 degrees .",
+            "input": "NA",
+            "action": "heat",
+            "output": "NA"
+        },
+        {
+            "instructions": "empty potato slices and packet of seasoned sauce_mix into ungreased 2 qt casserole .",
+            "input": "(potato_slices; seasoned sauce_mix)",
+            "action": "empty",
+            "output": "potato_slices and seasoned sauce_mix"
+        },
+        {
+            "instructions": "heat tomatoes , water and oregano to boiling ;",
+            "input": "(tomatoes; water; oregano)",
+            "action": "heat",
+            "output": "cooking tomato sauce"
+        },
+        {
+            "instructions": "stir into the potatoes .",
+            "input": "(potatoes slices with seasoned sauce mix; cooking tomato sauce)",
+            "action": "stir",
+            "output": "potatoes slices with seasoned sauce mix stirred in cooking tomato sauce"
+        },
+        {
+            "instructions": "arrange pepperoni on top",
+            "input": "(pepperoni; potatoes and tomato sauce mixture)",
+            "action": "arrange",
+            "output": "pepperoni arranged on potatoes and tomato sauce mixture"
+        },
+        {
+            "instructions": "sprinkle with cheese .",
+            "input": "(potato pizza casserole with pepperoni; cheese)",
+            "action": "sprinkle",
+            "output": "cheese sprinkled on potato pizza casserole with pepperoni"
+        },
+        {
+            "instructions": "bake uncovered for 30 to 35 min .",
+            "input": "uncooked potato pizza casserole",
+            "action": "bake",
+            "output": "baked potato pizza casserole"
+        }
+    ],
+    "ingredients": [
+        {
+            "text": "1 pkg. Betty Crocker scalloped potatoes"
+        },
+        {
+            "text": "1 can (16 ounce.) tomatoes"
+        },
+        {
+            "text": "1 1/2 c. water"
+        },
+        {
+            "text": "1/4 teaspoon oregano leaves"
+        },
+        {
+            "text": "1 pkg. (4 ounce.) sliced pepperoni"
+        },
+        {
+            "text": "1 pkg. (4 ounce.) Mozzarella cheese, shredded"
+        }
+    ],
+    "recipe": [
+        {
+            "text": "Heat oven to 400 degrees."
+        },
+        {
+            "text": "Empty potato slices and packet of seasoned sauce mix into ungreased 2 qt casserole."
+        },
+        {
+            "text": "Heat tomatoes, water and oregano to boiling; stir into the potatoes."
+        },
+        {
+            "text": "Arrange pepperoni on top and sprinkle with cheese."
+        },
+        {
+            "text": "Bake uncovered for 30 to 35 min."
+        },
+        {
+            "text": "4 servings."
+        },
+        {
+            "text": "HAMBURGER PIZZA POTATOES: Substitute 1/2 lb."
+        },
+        {
+            "text": "grnd beef, browned and liquid removed, for the pepperoni; stir into potato mix."
+        },
+        {
+            "text": "SAUSAGE PIZZA POTATOES: Substitute 1/2 lb."
+        },
+        {
+            "text": "bulk pork sausage, browned and liquid removed, for the pepperoni; stir into potato mix."
+        }
+    ]
+}

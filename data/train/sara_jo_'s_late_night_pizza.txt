@@ -1,0 +1,85 @@
+{
+    "title": "sara_jo_'s_late_night_pizza",
+    "id": "c2e7c7f927",
+    "table": [
+        {
+            "instructions": "spread sauce on pizza , base ,",
+            "input": "(sauce; pizza_base)",
+            "actions": "spread",
+            "output": "sauce spread on pizza_base"
+        },
+        {
+            "instructions": "scatter half of shredded_cheese over the sauce .",
+            "input": "(shredded_cheese; pizza_base_with_sauce)",
+            "actions": "scatter",
+            "output": "shredded cheese spread on pizza base with sauce"
+        },
+        {
+            "instructions": "drizzle egg over base .",
+            "input": "(cheesy pizza base; egg)",
+            "actions": "drizzle",
+            "output": "egg drizzled drizzled on cheesy pizza base"
+        },
+        {
+            "instructions": "arrange ham , tomato and olives evenly on the base .",
+            "input": "(ham; tomato; olives; egg and cheese pizza base)",
+            "actions": "arrange",
+            "output": " ham , tomato and olives aranged over  egg and cheese pizza base"
+        },
+        {
+            "instructions": "sprinkle with feta_cheese , and remaining shredded_cheese .",
+            "input": "(feta_cheese; shredded cheese; ham, egg and cheese pizza)",
+            "actions": "sprinkle",
+            "output": "feta and shredded cheese sprinkled over ham, egg pizza"
+        },
+        {
+            "instructions": "bake at 180c for 30 minutes .",
+            "input": "uncooked feta and shredded cheese sprinkled over ham, egg pizza",
+            "actions": "bake",
+            "output": "baked pizza"
+        }
+    ],
+    "ingredients": [
+        {
+            "text": "1 pizza crust"
+        },
+        {
+            "text": "2 tablespoons pizza sauce"
+        },
+        {
+            "text": "1 cup cheese, lowfat shredded"
+        },
+        {
+            "text": "2 eggs, lightly beaten"
+        },
+        {
+            "text": "5 slices ham, very thinly sliced"
+        },
+        {
+            "text": "12 medium tomatoes, sliced"
+        },
+        {
+            "text": "12 kalamata olives, pitted and halved"
+        },
+        {
+            "text": "13 cup feta cheese, crumbled"
+        }
+    ],
+    "recipe": [
+        {
+            "text": "Spread sauce on pizza base, and scatter half of shredded cheese over the sauce."
+        },
+        {
+            "text": "Drizzle egg over base."
+        },
+        {
+            "text": "Arrange ham, tomato and olives evenly on the base."
+        },
+        {
+            "text": "Sprinkle with feta cheese, and remaining shredded cheese."
+        },
+        {
+            "text": "Bake at 180C for 30 minutes."
+        }
+    ]
+}

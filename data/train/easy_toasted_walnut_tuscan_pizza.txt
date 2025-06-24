@@ -1,0 +1,172 @@
+{
+    "title": "easy_toasted_walnut_tuscan_pizza",
+    "id": "f6ae020ca5",
+    "table": [
+        {
+            "instructions": "preheat oven to 400 degrees .",
+            "input": "NA",
+            "action": "preheat",
+            "output": "NA"
+        },
+        {
+            "instructions": "spread chopped_walnut in an ungreased baking pan .",
+            "input": "chopped walnuts",
+            "action": "spread",
+            "output": "spread chopped walnuts"
+        },
+        {
+            "instructions": "place walnuts in oven",
+            "input": "spread chopped walnuts",
+            "action": "place",
+            "output": "walnuts placed"
+        },
+        {
+            "instructions": "bake for 3 7 minutes , stirring occasionally until walnuts are nice and browned .",
+            "input": "walnuts placed",
+            "action": "bake",
+            "output": "baked walnuts"
+        },
+        {
+            "instructions": "remove from oven",
+            "input": "NA",
+            "action": "remove",
+            "output": "NA"
+        },
+        {
+            "instructions": "set walnuts aside for later use .",
+            "input": "baked walnuts",
+            "action": "set",
+            "output": "baked walnuts"
+        },
+        {
+            "instructions": "lightly spray a pizza\u2012pan or cookie sheet with baking_spray .",
+            "input": "NA",
+            "action": "spray",
+            "output": "NA"
+        },
+        {
+            "instructions": "roll out fresh dough to fit pizza\u2012pan , or cookie sheet .",
+            "input": "fresh dough",
+            "action": "roll",
+            "output": "rolled out fresh dough"
+        },
+        {
+            "instructions": "place premade pizza_dough on pizza\u2012pan .",
+            "input": "NA",
+            "action": "place",
+            "output": "NA"
+        },
+        {
+            "instructions": "bake dough 8",
+            "input": "rolled out fresh dough",
+            "action": "bake",
+            "output": "baked crust"
+        },
+        {
+            "instructions": "spread pesto over the partially baked crust .",
+            "input": "(baked crust; pesto)",
+            "action": "spread",
+            "output": "baked crust spreaded with pesto"
+        },
+        {
+            "instructions": "top with spinach , tomatoes , artichoke_heart , feta_cheese , walnuts and mozzarella_cheese .",
+            "input": "(baked crust spreaded with pesto; spinach; tomatoes; artichoke; cheese; walnuts; mozzarella)",
+            "action": "top",
+            "output": "uncooked pesto spinach walnuts pizza"
+        },
+        {
+            "instructions": "bake 8 15 minutes longer until cheese has melted and crust has turned a golden brown .",
+            "input": "uncooked pesto spinach walnuts pizza",
+            "action": "bake",
+            "output": "baked pesto spinach walnuts pizza"
+        },
+        {
+            "instructions": "cut into 12 slices for pizza or 24 slices if baked on a cookie sheet .",
+            "input": "baked pesto spinach walnuts pizza",
+            "action": "cut",
+            "output": "cut baked pesto spinach walnuts pizza"
+        },
+        {
+            "instructions": "serve warm .",
+            "input": "cut baked pesto spinach walnuts pizza",
+            "action": "serve",
+            "output": "served cut baked pesto spinach walnuts pizza"
+        }
+    ],
+    "ingredients": [
+        {
+            "text": "1 whole Wheat Pizza Crust (homemade Or Store Bought)"
+        },
+        {
+            "text": "1/2 cups Chopped Walnuts"
+        },
+        {
+            "text": "23 cups Basil Pesto"
+        },
+        {
+            "text": "9 ounces, weight Frozen Or Fresh Chopped Spinach, Washed And Drained"
+        },
+        {
+            "text": "1/2 cups Sun-dried Tomatoes, Cut Into 1/4 Inch Slices"
+        },
+        {
+            "text": "1/2 cups Artichoke Hearts"
+        },
+        {
+            "text": "1 cup Feta Cheese, Crumbled"
+        },
+        {
+            "text": "1 cup Shredded Mozzarella Cheese"
+        }
+    ],
+    "recipe": [
+        {
+            "text": "Preheat oven to 400 degrees."
+        },
+        {
+            "text": "Spread chopped walnuts in an ungreased baking pan."
+        },
+        {
+            "text": "Place walnuts in oven, bake for 3-7 minutes, stirring occasionally until walnuts are nice and browned."
+        },
+        {
+            "text": "Remove from oven, set walnuts aside for later use."
+        },
+        {
+            "text": "Lightly spray a pizza pan or cookie sheet with baking spray."
+        },
+        {
+            "text": "Roll out fresh dough to fit pizza pan, or cookie sheet."
+        },
+        {
+            "text": "Place premade pizza dough on pizza pan."
+        },
+        {
+            "text": "Bake dough 8-10 minutes in oven, then remove."
+        },
+        {
+            "text": "(Read package directions on ready made pizza crust."
+        },
+        {
+            "text": "Generally this step has already been done for you and you will not need to cook the pizza crust before putting on toppings)."
+        },
+        {
+            "text": "Spread pesto over the partially baked crust."
+        },
+        {
+            "text": "I actually reduced the pesto to 1/3 cup on the pizza crust and it tasted just fine."
+        },
+        {
+            "text": "Top with spinach, tomatoes, artichoke hearts, feta cheese, walnuts and mozzarella cheese."
+        },
+        {
+            "text": "Bake 8-15 minutes longer until cheese has melted and crust has turned a golden brown."
+        },
+        {
+            "text": "Cut into 12 slices for pizza or 24 slices if baked on a cookie sheet."
+        },
+        {
+            "text": "Serve warm."
+        }
+    ]
+}

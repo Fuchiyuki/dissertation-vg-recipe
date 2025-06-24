@@ -1,0 +1,115 @@
+{
+    "title": "skillet_pizza",
+    "id": "df3ded91e6",
+    "table": [
+        {
+            "instructions": "grease a 12 inch skillet .",
+            "input": "NA",
+            "action": "grease",
+            "output": "NA"
+        },
+        {
+            "instructions": "prepare pizza_crust according to package directions .",
+            "input": "pizza_crust package",
+            "action": "prepare",
+            "output": "prepared_pizza_crust"
+        },
+        {
+            "instructions": "line bottom of skillet and 12 inch up the sides with the pizza_dough .",
+            "input": "prepared_pizza_crust",
+            "action": "line",
+            "output": "prepared_pizza_crust"
+        },
+        {
+            "instructions": "beat the eggs , milk and pepper in a medium bowl .",
+            "input": "eggs; milk; pepper",
+            "action": "beat",
+            "output": "beaten egg mixture"
+        },
+        {
+            "instructions": "slowly pour eggs mixture over crust .",
+            "input": "beaten egg mixture; prepared_pizza_crust",
+            "action": "pour",
+            "output": "beaten egg mixture poured over prepared_pizza_crust"
+        },
+        {
+            "instructions": "sprinkle bacon and cheese evenly over the eggs .",
+            "input": "bacon; cheese; beaten egg mixture poured over prepared_pizza_crust",
+            "action": "sprinkle",
+            "output": "prepared pizza crust with egg mixture, bacon and cheese"
+        },
+        {
+            "instructions": "cover",
+            "input": "prepared pizza crust with egg mixture, bacon and cheese",
+            "action": "cover",
+            "output": "covered pizza crust with egg mixture, bacon and cheese"
+        },
+        {
+            "instructions": "cook over medium heat for 15 minutes or until crust is brown on the bottom .",
+            "input": "covered pizza crust with egg mixture, bacon and cheese",
+            "action": "cook",
+            "output": "cooked breakfast pizza"
+        },
+        {
+            "instructions": "slide out onto a cutting board",
+            "input": "cooked breakfast pizza",
+            "action": "slide",
+            "output": "cooked breakfast pizza"
+        },
+        {
+            "instructions": "cut into wedges .",
+            "input": "cooked breakfast pizza",
+            "action": "cut",
+            "output": "sliced cooked breakfast pizza"
+        }
+    ],
+    "ingredients": [
+        {
+            "text": "1 (6 1/2 ounce) package prepared pizza crust"
+        },
+        {
+            "text": "5 eggs"
+        },
+        {
+            "text": "13 cup milk"
+        },
+        {
+            "text": "1 dash pepper"
+        },
+        {
+            "text": "6 slices bacon, cooked and crumbled"
+        },
+        {
+            "text": "14 cup shredded cheddar cheese"
+        },
+        {
+            "text": "12 cup shredded mozzarella cheese"
+        }
+    ],
+    "recipe": [
+        {
+            "text": "Grease a 12 inch skillet."
+        },
+        {
+            "text": "Prepare pizza crust according to package directions."
+        },
+        {
+            "text": "Line bottom of skillet and 1/2 inch up the sides with the pizza dough."
+        },
+        {
+            "text": "Beat the eggs, milk and pepper in a medium bowl."
+        },
+        {
+            "text": "Slowly pour eggs mixture over crust."
+        },
+        {
+            "text": "Sprinkle bacon and cheese evenly over the eggs."
+        },
+        {
+            "text": "Cover and cook over medium heat for 15 minutes or until crust is brown on the bottom."
+        },
+        {
+            "text": "Slide out onto a cutting board and cut into wedges."
+        }
+    ]
+}

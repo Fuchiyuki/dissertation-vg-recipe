@@ -1,0 +1,169 @@
+{
+    "title": "tomato-basil_pizza_two_ways_an_experiment",
+    "id": "b57c277950",
+    "table": [
+        {
+            "instructions": "preheat the oven to 500 degrees .",
+            "input": "NA",
+            "action": "preheat",
+            "output": "NA"
+        },
+        {
+            "instructions": "press the pizza dough onto a sheet pan.",
+            "input": "pizza dough",
+            "action": "make",
+            "output": "pressed pizza dough"
+        },
+        {
+            "instructions": "tomato basil pizza made with pesto: smear the pesto over half of the pizza_dough",
+            "input": "(pressed pizza dough; pesto)",
+            "action": "smear",
+            "output": "pressed pizza dough smeared with pesto on half"
+        },
+        {
+            "instructions": "sprinkle some kosher_salt over it .",
+            "input": "(pressed pizza dough smeared with pesto on half; kosher salt)",
+            "action": "sprinkle",
+            "output": "kosher salt sprinkled on half of pizza dough with pesto"
+        },
+        {
+            "instructions": "slice the mozzarella thin enough to cover the pizza thoroughly .",
+            "input": "(Mozzarella; half of pizza dough with pesto)",
+            "action": "slice",
+            "output": "Thinly sliced mozzarella over half of pizza dough with pesto"
+        },
+        {
+            "instructions": "next , lay thin slices of rom_tomato over the mozzarella .",
+            "input": "(half of pizza dough with pesto topped with mozzarella; sliced roma tomato)",
+            "action": "lay",
+            "output": "half of pizza dough with pesto topped with mozzarella and thin slices of roma tomato"
+        },
+        {
+            "instructions": "tomato basil pizza made with fresh_basil: drizzle olive_oil over the dough",
+            "input": "(Olive oil; other half of pizza dough)",
+            "action": "drizzle",
+            "output": "olive oil drizzled over the other half of pizza dough"
+        },
+        {
+            "instructions": "sprinkle kosher_salt over it .",
+            "input": "(oiled other half of pizza dough; kosher salt)",
+            "action": "sprinkle",
+            "output": "salted other half of pizza dough"
+        },
+        {
+            "instructions": "wash",
+            "input": "Basil leaves",
+            "action": "wash",
+            "output": "Washed basil leaves"
+        },
+        {
+            "instructions": "dry the basil leaves",
+            "input": "Washed basil leaves",
+            "action": "dry",
+            "output": "Dried basil leaves"
+        },
+        {
+            "instructions": "lay them in a single layer on top of the olive_oil .",
+            "input": "other half of pizza dough with olive oil",
+            "action": "lay",
+            "output": "Dried basil leaves on top of olive oil on top of other half of pizza dough"
+        },
+        {
+            "instructions": "top the basil with a layer of mozzarella",
+            "input": "(Mozzarella slices; other half of pizza dough with fresh basil leaves)",
+            "action": "top",
+            "output": "other half of pizza dough with fresh basil leaves and thin layer of mozzarella"
+        },
+        {
+            "instructions": "add a layer of roma_tomato .",
+            "input": "(Roma tomato slices; other half of pizza dough with fresh basil leaves and thin layer of mozzarella)",
+            "action": "add",
+            "output": "layer of roma tomato slices added to other half of pizza dough with fresh basil leaves and thin layer of mozzarella"
+        },
+        {
+            "instructions": "top with more mozzarella if there s any left .",
+            "input": "(optionally remaining mozzarella slices; other half of pizza with fresh basil, mozzarella and tomato slices)",
+            "action": "top",
+            "output": "other half of pizza with fresh basil, mozzarella and tomato slices topped with remaining mozzarella"
+        },
+        {
+            "instructions": "for both variations grate some fresh_parmesan_cheese over the entire pizza .",
+            "input": "(Parmesan cheese; entire tomato basil pizza)",
+            "action": "grate",
+            "output": "parmesan cheese grated over entire tomato basil pizza "
+        },
+        {
+            "instructions": "bake the pizza according to the crust directions .",
+            "input": "Uncooked pizza",
+            "action": "bake",
+            "output": "Baked basil, tomato and mozzarella pizza two ways"
+        }
+    ],
+    "ingredients": [
+        {
+            "text": "1 whole Recipe Of Your Favorite Pizza Dough (homemade Or Store-bought Is Just Fine, Too)"
+        },
+        {
+            "text": "1 jar Prepared Pesto"
+        },
+        {
+            "text": "Kosher Salt To Taste"
+        },
+        {
+            "text": "Fresh Mozzarella"
+        },
+        {
+            "text": "Roma Tomatoes"
+        },
+        {
+            "text": "Olive Oil"
+        },
+        {
+            "text": "Fresh Basil Leaves"
+        },
+        {
+            "text": "Fresh Parmesan Cheese"
+        }
+    ],
+    "recipe": [
+        {
+            "text": "Preheat the oven to 500 degrees."
+        },
+        {
+            "text": "Press the pizza dough into a sheet pan (you can also use a pizza stone or grill)."
+        },
+        {
+            "text": "You can conduct your own taste test as I did, by making a half and half pizza, or choose your favorite way and make the entire pizza out of that."
+        },
+        {
+            "text": "Tomato-Basil Pizza Made with Pesto: Smear the pesto over half of the pizza dough and sprinkle some kosher salt over it."
+        },
+        {
+            "text": "Slice the mozzarella thin enough to cover the pizza thoroughly."
+        },
+        {
+            "text": "Next, lay thin slices of Roma tomatoes over the mozzarella."
+        },
+        {
+            "text": "Tomato-Basil Pizza made with fresh basil: Drizzle olive oil over the dough and sprinkle kosher salt over it."
+        },
+        {
+            "text": "Wash and dry the basil leaves and lay them in a single layer on top of the olive oil."
+        },
+        {
+            "text": "Top the basil with a layer of mozzarella and add a layer of Roma tomatoes."
+        },
+        {
+            "text": "Go ahead and top with more mozzarella if theres any left."
+        },
+        {
+            "text": "For Both Variations: Grate some fresh Parmesan cheese over the entire pizza."
+        },
+        {
+            "text": "Bake the pizza according to the crust directions."
+        },
+        {
+            "text": "And eat!"
+        }
+    ]
+}

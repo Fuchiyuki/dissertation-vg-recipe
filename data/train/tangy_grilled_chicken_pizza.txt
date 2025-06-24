@@ -1,0 +1,199 @@
+{
+    "title": "tangy_grilled_chicken_pizza",
+    "id": "762624c0f4",
+    "table": [
+        {
+            "instructions": "preheat oven to 42",
+            "input": "NA",
+            "action": "preheat",
+            "output": "NA"
+        },
+        {
+            "instructions": "season chicken on both sides w salt and pepper ;",
+            "input": "(chicken; salt; pepper)",
+            "action": "season",
+            "output": "seasoned chicken with salt and pepper"
+        },
+        {
+            "instructions": "lightly spray chicken w vegetable_oil .",
+            "input": "(seasoned chicken with salt and pepper; vegetable oil)",
+            "action": "spray",
+            "output": "seasoned chicken sprayed with vegetable oil"
+        },
+        {
+            "instructions": "heat pan over m h heat",
+            "input": "NA",
+            "action": "heat",
+            "output": "NA"
+        },
+        {
+            "instructions": "add chicken",
+            "input": "seasoned chicken sprayed with vegetable oil",
+            "action": "add",
+            "output": "seasoned chicken sprayed with vegetable oil"
+        },
+        {
+            "instructions": "cook 4",
+            "input": "seasoned chicken sprayed with vegetable oil",
+            "action": "cook",
+            "output": "cooked seasoned chicken"
+        },
+        {
+            "instructions": "dice chicken ;",
+            "input": "cooked seasoned chicken",
+            "action": "dice",
+            "output": "diced seasoned chicken "
+        },
+        {
+            "instructions": "set aside .",
+            "input": "diced seasoned chicken ",
+            "action": "set",
+            "output": "diced seasoned chicken "
+        },
+        {
+            "instructions": "lightly sprinkle pizza\u2012pan w flour .",
+            "input": "NA",
+            "action": "sprinkle",
+            "output": "NA"
+        },
+        {
+            "instructions": "unroll both packages of pizza_dough",
+            "input": "pizza dough",
+            "action": "unroll",
+            "output": "unrolled pizza dough"
+        },
+        {
+            "instructions": "arrange side by side on tray , shaping into a circle .",
+            "input": "unrolled pizza dough",
+            "action": "arrange",
+            "output": "round pizza dough"
+        },
+        {
+            "instructions": "using lightly floured roller , roll dough to edge of pizza\u2012pan or baking stone , pressing seams to seal .",
+            "input": "round pizza dough",
+            "action": "roll",
+            "output": "rolled pizza dough"
+        },
+        {
+            "instructions": "spread bbq_sauce over crust to within 12 of edge .",
+            "input": "(rolled pizza dough; bbq sauce)",
+            "action": "spread",
+            "output": "rolled pizza dough spread with bbq_sauce"
+        },
+        {
+            "instructions": "slice red onion",
+            "input": "red onion",
+            "action": "slice",
+            "output": "sliced red onion"
+        },
+        {
+            "instructions": "chop olives .",
+            "input": "olives",
+            "action": "chop",
+            "output": "chopped olives"
+        },
+        {
+            "instructions": "in large bowl , toss chicken , onion , olives , parsley and 1 12 c of the colby_jack_cheese ;",
+            "input": "(diced seasoned chicken; onion; olives; parsley and colby jack cheese)",
+            "action": "toss",
+            "output": "diced seasoned chicken with onion, olives and cheese"
+        },
+        {
+            "instructions": "spread over dough to within 12 of edge .",
+            "input": "diced seasoned chicken with onion, olives and cheese, pizza dough",
+            "action": "spread",
+            "output": "diced seasoned chicken with onion, olives and cheese on pizza dough"
+        },
+        {
+            "instructions": "sprinkle w remaining colby_jack_cheese and grated parmesan .",
+            "input": "chicken pizza, colby_jack_cheese and grated parmesan",
+            "action": "sprinkle",
+            "output": "uncooked grilled chicken pizza"
+        },
+        {
+            "instructions": "bake 18 22 minutes",
+            "input": "uncooked grilled chicken pizza",
+            "action": "bake",
+            "output": "baked grilled chicken pizza"
+        },
+        {
+            "instructions": "remove from oven ;",
+            "input": "baked grilled chicken pizza",
+            "action": "remove",
+            "output": "baked grilled chicken pizza"
+        }
+    ],
+    "ingredients": [
+        {
+            "text": "2 (4 ounce) boneless skinless chicken breast halves"
+        },
+        {
+            "text": "2 (10 ounce) packagesrefrigerated prepared pizza crust"
+        },
+        {
+            "text": "12 cup barbecue sauce"
+        },
+        {
+            "text": "1 garlic clove, minced"
+        },
+        {
+            "text": "1 small red onion, cut into rings"
+        },
+        {
+            "text": "1 (3 1/4 ounce) can pitted ripe olives, chopped"
+        },
+        {
+            "text": "14 cup snipped fresh parsley"
+        },
+        {
+            "text": "2 cups shredded colby-monterey jack cheese, divided"
+        },
+        {
+            "text": "14 cup grated parmesan cheese"
+        }
+    ],
+    "recipe": [
+        {
+            "text": "Preheat oven to 425."
+        },
+        {
+            "text": "Season chicken on both sides w/ salt and pepper; lightly spray chicken w/ vegetable oil."
+        },
+        {
+            "text": "Heat pan over M/H heat, add chicken; cook 4-5 minutes on each side or until chicken is no longer pink."
+        },
+        {
+            "text": "Removes from pan; cool 10 minutes."
+        },
+        {
+            "text": "Dice chicken; set aside."
+        },
+        {
+            "text": "Lightly sprinkle pizza pan w/ flour."
+        },
+        {
+            "text": "Unroll both packages of pizza dough and arrange side by side on tray, shaping into a circle."
+        },
+        {
+            "text": "Using lightly floured roller, roll dough to edge of pizza pan or baking stone, pressing seams to seal."
+        },
+        {
+            "text": "Spread BBQ sauce over crust to within 1/2\" of edge."
+        },
+        {
+            "text": "Slice red onion, chop olives."
+        },
+        {
+            "text": "In large bowl, toss chicken, onion, olives, parsley and 1 1/2 c of the Colby-Jack cheese; spread over dough to within 1/2\" of edge."
+        },
+        {
+            "text": "Sprinkle w/ remaining Colby-Jack cheese and grated Parmesan."
+        },
+        {
+            "text": "Bake 18-22 minutes or until crust is golden brown."
+        },
+        {
+            "text": "Remove from oven; let stand 10 minutes before cutting."
+        }
+    ]
+}

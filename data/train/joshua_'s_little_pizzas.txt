@@ -1,0 +1,85 @@
+{
+    "title": "joshua_'s_little_pizzas",
+    "id": "434b5c4166",
+    "table": [
+        {
+            "instructions": "heat oven to 35",
+            "input": "NA",
+            "actions": "heat",
+            "output": "NA"
+        },
+        {
+            "instructions": "toast 2 english_muffin for each person in a toaster or toaster oven .",
+            "input": "english_muffin",
+            "actions": "toast",
+            "output": "toasted_english_muffin"
+        },
+        {
+            "instructions": "spread on tablespoon of catsup or tomato_sauce on the english_muffin .",
+            "input": "(toasted_english_muffin; tomato_sauce)",
+            "actions": "spread",
+            "output": "tomato_sauce_spread_over_toasted_english_muffin"
+        },
+        {
+            "instructions": "place desired amount of cheese on pizza .",
+            "input": "(pizza_base; cheese)",
+            "actions": "place",
+            "output": "toasted_english_muffin topped with cheese"
+        },
+        {
+            "instructions": "add desired toppings .",
+            "input": "(toppings; cheesy english muffins )",
+            "actions": "add",
+            "output": "toppings added to english muffins"
+        },
+        {
+            "instructions": "cook in oven for 5 10 minutes until cheese is melted .",
+            "input": "uncooked english muffins pizza",
+            "actions": "cook",
+            "output": "baked english muffins pizza"
+        }
+    ],
+    "ingredients": [
+        {
+            "text": "English muffin"
+        },
+        {
+            "text": "catsup or tomato sauce"
+        },
+        {
+            "text": "8 slices swiss cheese (Mia made that up!)"
+        },
+        {
+            "text": "cheddar cheese (Josh did that 1! or mozzarella cheese)"
+        },
+        {
+            "text": "meat"
+        },
+        {
+            "text": "vegetables"
+        }
+    ],
+    "recipe": [
+        {
+            "text": "Heat oven to 350F"
+        },
+        {
+            "text": "Toast 2 English muffins for each person in a toaster or toaster oven."
+        },
+        {
+            "text": "Spread on tablespoon of catsup or tomato sauce on the English muffins."
+        },
+        {
+            "text": "Place desired amount of cheese on \"pizza\"."
+        },
+        {
+            "text": "Add desired toppings."
+        },
+        {
+            "text": "Cook in oven for 5-10 minutes until cheese is melted."
+        },
+        {
+            "text": "Let cool and enjoy your creation!"
+        }
+    ]
+}

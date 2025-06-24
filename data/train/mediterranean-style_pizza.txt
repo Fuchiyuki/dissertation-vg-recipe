@@ -1,0 +1,136 @@
+{
+    "title": "mediterranean-style_pizza",
+    "id": "24414af936",
+    "table": [
+        {
+            "instructions": "roll out each ball of dough on lightly floured surface to 14 inch circle ;",
+            "input": "ball",
+            "actions": "roll",
+            "output": "rolled_ball"
+        },
+        {
+            "instructions": "place on pizza screen .",
+            "input": "pizza crust",
+            "actions": "place",
+            "output": "pizza crust"
+        },
+        {
+            "instructions": "bake in 400 degrees f convection oven 3 to 4 min .",
+            "input": "uncooked pizza crust",
+            "actions": "bake",
+            "output": "baked pizza crust"
+        },
+        {
+            "instructions": "spread 12 cup pizza_sauce onto each crust",
+            "input": "(baked pizza crust; pizza_sauce)",
+            "actions": "spread",
+            "output": "pizza base"
+        },
+        {
+            "instructions": "sprinkle with 1 cup 4 oz .",
+            "input": "(pizza base; cheese)",
+            "actions": "sprinkle",
+            "output": "cheese sprinkled over pizza base"
+        },
+        {
+            "instructions": "top evenly with artichokes , pepper strips and olives .",
+            "input": "(pizza margherita; artichokes; pepper strips; olives)",
+            "actions": "top",
+            "output": "pizza margherita topped with artichokes , pepper strips and olives"
+        },
+        {
+            "instructions": "bake 2 to 3 min .",
+            "input": "uncooked pizza",
+            "actions": "bake",
+            "output": "baked pizza"
+        },
+        {
+            "instructions": "meanwhile , mix bistro_sauce and pepper puree .",
+            "input": "(bistro_sauce; pepper_puree)",
+            "actions": "mix",
+            "output": "bistro_sauce mixture"
+        },
+        {
+            "instructions": "drizzle bistro_sauce mixture over pizzas ;",
+            "input": "(baked_pizza; bistro sauce mixture)",
+            "actions": "drizzle",
+            "output": "bistro sauce mixture drizzled over pizzas"
+        },
+        {
+            "instructions": "sprinkle with remaining cheese .",
+            "input": "(remaining cheese; bistro sauce coated pizza)",
+            "actions": "sprinkle",
+            "output": "remaining cheese sprinkled over bistro sauce coated pizza"
+        },
+        {
+            "instructions": "bake just until cheese is melted .",
+            "input": "remaining cheese sprinkled over bistro sauce coated pizza",
+            "actions": "bake",
+            "output": "baked mediterranean-style_pizza"
+        }
+    ],
+    "ingredients": [
+        {
+            "text": "4 each prepared Pizza Dough ball"
+        },
+        {
+            "text": "2 cups pizza sauce"
+        },
+        {
+            "text": "2 qt. shredded whole milk mozzarella cheese, divided"
+        },
+        {
+            "text": "1-1/3 cups canned marinated artichoke hearts, drained, thinly sliced"
+        },
+        {
+            "text": "1 cup roasted red peppers, cut into small strips"
+        },
+        {
+            "text": "2/3 cup sliced Kalamata olives"
+        },
+        {
+            "text": "1/2 cup GREY POUPON Bistro Sauce"
+        },
+        {
+            "text": "1/2 cup roasted red peppers, pureed"
+        }
+    ],
+    "recipe": [
+        {
+            "text": "Roll out each ball of dough on lightly floured surface to 14-inch circle; dock evenly with fork."
+        },
+        {
+            "text": "Place on pizza screens."
+        },
+        {
+            "text": "Bake in 400 degrees F-convection oven 3 to 4 min."
+        },
+        {
+            "text": "or until crusts are crisp and lightly browned."
+        },
+        {
+            "text": "Spread 1/2 cup pizza sauce onto each crust; sprinkle with 1 cup (4 oz.)"
+        },
+        {
+            "text": "cheese."
+        },
+        {
+            "text": "Top evenly with artichokes, pepper strips and olives."
+        },
+        {
+            "text": "Bake 2 to 3 min."
+        },
+        {
+            "text": "or until toppings are heated through and cheese is melted."
+        },
+        {
+            "text": "Meanwhile, mix bistro sauce and pepper puree."
+        },
+        {
+            "text": "Drizzle bistro sauce mixture over pizzas; sprinkle with remaining cheese."
+        },
+        {
+            "text": "Bake just until cheese is melted."
+        }
+    ]
+}

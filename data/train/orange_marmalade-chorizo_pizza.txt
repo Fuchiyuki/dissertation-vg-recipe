@@ -1,0 +1,184 @@
+{
+    "title": "orange_marmalade-chorizo_pizza",
+    "id": "03a4818cd8",
+    "table": [
+        {
+            "instructions": "heat oven to 425f ;",
+            "input": "NA",
+            "action": "heat",
+            "output": "NA"
+        },
+        {
+            "instructions": "spray 12 inch , pizza\u2012pan with no stick cooking_spray .",
+            "input": "NA",
+            "action": "spray",
+            "output": "NA"
+        },
+        {
+            "instructions": "in 12 inch nonstick skillet , cook bacon over medium heat 10 to 12 minutes , stirring occasionally , until crisp .",
+            "input": "bacon",
+            "action": "cook",
+            "output": "cooked_bacon"
+        },
+        {
+            "instructions": "remove bacon with slotted spoon ;",
+            "input": "cooked_bacon",
+            "action": "remove",
+            "output": "cooked_bacon"
+        },
+        {
+            "instructions": "drain on paper towels .",
+            "input": "cooked_bacon",
+            "action": "drain",
+            "output": "drained_bacon"
+        },
+        {
+            "instructions": "drain bacon_dripping from skillet .",
+            "input": "NA",
+            "action": "drain",
+            "output": "NA"
+        },
+        {
+            "instructions": "in same skillet , cook sausage over medium high heat 10 to 12 minutes , stirring occasionally and breaking up sausage with spoon , until no longer pink .",
+            "input": "sausage",
+            "action": "cook",
+            "output": "cooked_crumbled sausage"
+        },
+        {
+            "instructions": "remove sausage with slotted spoon ;",
+            "input": "cooked_crumbled sausage",
+            "action": "remove",
+            "output": "cooked_crumbled sausage"
+        },
+        {
+            "instructions": "drain well on paper towels .",
+            "input": "cooked_crumbled sausage",
+            "action": "drain",
+            "output": "drained_cooked sausage"
+        },
+        {
+            "instructions": "press dough to edge of pan .",
+            "input": "dough",
+            "action": "press",
+            "output": "pressed_dough"
+        },
+        {
+            "instructions": "in small bowl , mix marmalade , oil and parsley ;",
+            "input": "(marmalade; oil; parsley)",
+            "action": "mix",
+            "output": "marmalade_mixture"
+        },
+        {
+            "instructions": "spread over dough .",
+            "input": "(marmalade_mixture; pressed_dough)",
+            "action": "spread",
+            "output": "pressed dough_with_marmalade_mixture"
+        },
+        {
+            "instructions": "bake 8 to 9 minutes",
+            "input": "pressed dough_with_marmalade_mixture",
+            "action": "bake",
+            "output": "baked_pizza crust with marmalade"
+        },
+        {
+            "instructions": "sprinkle partially baked crust with sausage , bacon and dates .",
+            "input": "(baked_pizza crust with marmalade; drained_crumbled sausage; drained_bacon; dates)",
+            "action": "sprinkle",
+            "output": "baked_pizza crust with marmalade, drained_cooked sausage, drained_bacon and dates"
+        },
+        {
+            "instructions": "sprinkle with cheese .",
+            "input": "(baked_pizza crust with marmalade, drained_cooked sausage, drained_bacon and dates; cheese)",
+            "action": "sprinkle",
+            "output": "baked_pizza crust with marmalade, drained_cooked sausage, drained_bacon, dates and cheese"
+        },
+        {
+            "instructions": "sprinkle chilie over cheese ;",
+            "input": "(baked_pizza crust with marmalade, drained_cooked sausage, drained_bacon, dates and cheese; chilie)",
+            "action": "sprinkle",
+            "output": "baked_pizza crust with marmalade, drained_cooked sausage, drained_bacon, dates, cheese and chilies"
+        },
+        {
+            "instructions": "press gently into cheese .",
+            "input": "baked_pizza crust with marmalade, drained_cooked sausage, drained_bacon, dates, cheese and chilies",
+            "action": "press",
+            "output": "baked_pizza crust with marmalade, drained_cooked sausage, drained_bacon, dates, cheese and chilies"
+        },
+        {
+            "instructions": "bake 7 to 12 minutes longer or until crust is deep golden brown .",
+            "input": "baked_pizza crust with marmalade, drained_cooked sausage, drained_bacon, dates, cheese and chilies",
+            "action": "bake",
+            "output": "baked orange marmalade sausage pizza"
+        }
+    ],
+    "ingredients": [
+        {
+            "text": "12 ounces bacon, cut into 1/2-inch pieces (about 15 slices)"
+        },
+        {
+            "text": "12 ounces chorizo sausage, casings removed"
+        },
+        {
+            "text": "1 basic pizza crust"
+        },
+        {
+            "text": "14 cup orange marmalade"
+        },
+        {
+            "text": "2 tablespoons olive oil"
+        },
+        {
+            "text": "3 tablespoons chopped fresh parsley"
+        },
+        {
+            "text": "1 cup dates, coarsely chopped"
+        },
+        {
+            "text": "1 12 cups shredded monterey jack cheese (6 oz)"
+        },
+        {
+            "text": "1 large poblano chiles (2/3 cup) or 1 large anaheim chili, seeded, coarsely chopped (2/3 cup)"
+        }
+    ],
+    "recipe": [
+        {
+            "text": "Heat oven to 425F Spray 12-inch pizza pan with No-Stick Cooking Spray."
+        },
+        {
+            "text": "In 12-inch nonstick skillet, cook bacon over medium heat 10 to 12 minutes, stirring occasionally, until crisp."
+        },
+        {
+            "text": "Remove bacon with slotted spoon; drain on paper towels."
+        },
+        {
+            "text": "Drain bacon drippings from skillet."
+        },
+        {
+            "text": "In same skillet, cook sausage over medium-high heat 10 to 12 minutes, stirring occasionally and breaking up sausage with spoon, until no longer pink."
+        },
+        {
+            "text": "Remove sausage with slotted spoon; drain well on paper towels."
+        },
+        {
+            "text": "Meanwhile, unroll pizza dough (I've had good luck w Trader Joe's) on pan; press dough to edge of pan."
+        },
+        {
+            "text": "In small bowl, mix marmalade, oil and parsley; spread over dough."
+        },
+        {
+            "text": "Bake 8 to 9 minutes or until crust is golden brown."
+        },
+        {
+            "text": "Sprinkle partially baked crust with sausage, bacon and dates."
+        },
+        {
+            "text": "Sprinkle with cheese."
+        },
+        {
+            "text": "Sprinkle chilie over cheese; press gently into cheese."
+        },
+        {
+            "text": "Bake 7 to 12 minutes longer or until crust is deep golden brown."
+        }
+    ]
+}

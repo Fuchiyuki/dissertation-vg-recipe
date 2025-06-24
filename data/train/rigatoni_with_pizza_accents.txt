@@ -1,0 +1,190 @@
+{
+    "title": "rigatoni_with_pizza_accents",
+    "id": "59f5ed0488",
+    "table": [
+        {
+            "instructions": "cook rigatoni_pasta in a large pot of boiling salted water until al dente .",
+            "input": "rigatoni_pasta",
+            "actions": "cook",
+            "output": "cooked_rigatoni_pasta"
+        },
+        {
+            "instructions": "drain well .",
+            "input": "cooked_rigatoni_pasta",
+            "actions": "drain",
+            "output": "drained_rigatoni_pasta"
+        },
+        {
+            "instructions": "set aside .",
+            "input": "drained_rigatoni_pasta",
+            "actions": "set",
+            "output": "drained_rigatoni_pasta"
+        },
+        {
+            "instructions": "in a large skillet , fry sausage until cooked through but not brown .",
+            "input": "sausage",
+            "actions": "fry",
+            "output": "fried sausage"
+        },
+        {
+            "instructions": "add chopped_onion and minced_garlic .",
+            "input": "(fried sausage; chopped_onion; minced_garlic)",
+            "actions": "add",
+            "output": "fried sausage with chopped onions and minced garlic"
+        },
+        {
+            "instructions": "stir",
+            "input": "fried sausage with chopped onions and minced garlic",
+            "actions": "stir",
+            "output": "fried sausage mixture"
+        },
+        {
+            "instructions": "cook until soft .",
+            "input": "fried sausage mixture",
+            "actions": "cook",
+            "output": "cooked fried sausage mixture"
+        },
+        {
+            "instructions": "add sliced_mushroom",
+            "input": "(sliced_mushroom; cooked fried sausage mixture)",
+            "actions": "add",
+            "output": "sliced_mushroom added to cooked fried sausage mixture"
+        },
+        {
+            "instructions": "cook about 5 minutes .",
+            "input": "sliced_mushroom added to cooked fried sausage mixture",
+            "actions": "cook",
+            "output": "cooked sausage and mushrooms mixture"
+        },
+        {
+            "instructions": "add chopped green_pepper",
+            "input": "(cooked sausage and mushrooms mixture; chopped_gren_pepper)",
+            "actions": "add",
+            "output": "chopped_gren_pepper added to sausage and mushrooms mixture"
+        },
+        {
+            "instructions": "cook slowly until soft .",
+            "input": "chopped_gren_pepper added to sausage and mushrooms mixture",
+            "actions": "cook",
+            "output": "cooked sausage and vegetables mixture"
+        },
+        {
+            "instructions": "drain off any excess fat .",
+            "input": "cooked sausage and vegetables mixture",
+            "actions": "drain",
+            "output": "drained cooked sausage and vegetables mixture from fat"
+        },
+        {
+            "instructions": "stir in tomato_with_juice , tomato_paste , fresh_basil and pepperoni .",
+            "input": "(tomato_with_juice; tomato_paste; fresh_basil; pepperoni; drained cooked sausage and vegetables mixture from fat)",
+            "actions": "stir",
+            "output": "tomato_with_juice , tomato_paste , fresh_basil and pepperoni stirred in cooked sausage and vegetables"
+        },
+        {
+            "instructions": "reduce heat",
+            "input": "tomato_with_juice , tomato_paste , fresh_basil and pepperoni stirred in cooked sausage and vegetables",
+            "actions": "reduce",
+            "output": "cooking sausage and tomato sauce"
+        },
+        {
+            "instructions": "add cooked_rigatoni noodles .",
+            "input": "(cooking sausage and tomato sauce; cooked_rigatoni)",
+            "actions": "add",
+            "output": "cooked_rigatoni added to sausage and tomato sauce"
+        },
+        {
+            "instructions": "season with salt and pepper to taste .",
+            "input": "(rigatoni in sausage and tomato sauce; salt; pepper)",
+            "actions": "season",
+            "output": "salt and pepper added to rigatoni in sausage and tomato sauce"
+        },
+        {
+            "instructions": "simmer 20 minutes , stirring occasionally , until most of the liquid has been cooked off .",
+            "input": "salt and pepper added to rigatoni in sausage and tomato sauce",
+            "actions": "simmer",
+            "output": "cooked rigatoni in sausage and tomato sauce"
+        }
+    ],
+    "ingredients": [
+        {
+            "text": "1 (16 ounce) package rigatoni pasta"
+        },
+        {
+            "text": "2 pounds Italian sausage"
+        },
+        {
+            "text": "2 onions, chopped"
+        },
+        {
+            "text": "2 cloves garlic, minced"
+        },
+        {
+            "text": "1 green bell pepper, chopped"
+        },
+        {
+            "text": "1 pound fresh mushrooms, sliced"
+        },
+        {
+            "text": "2 (14.5 ounce) cans stewed tomatoes, undrained"
+        },
+        {
+            "text": "2 (6 ounce) cans tomato paste"
+        },
+        {
+            "text": "3 1/2 ounces sliced pepperoni sausage"
+        },
+        {
+            "text": "1 tablespoon chopped fresh basil"
+        },
+        {
+            "text": "1/2 pound diced pepperoni"
+        },
+        {
+            "text": "salt and ground black pepper to taste"
+        }
+    ],
+    "recipe": [
+        {
+            "text": "Cook rigatoni pasta in a large pot of boiling salted water until al dente."
+        },
+        {
+            "text": "Drain well."
+        },
+        {
+            "text": "Set aside."
+        },
+        {
+            "text": "In a large skillet, fry sausage until cooked through but not brown."
+        },
+        {
+            "text": "Add chopped onions and minced garlic."
+        },
+        {
+            "text": "Stir and cook until soft."
+        },
+        {
+            "text": "Add sliced mushrooms and cook about 5 minutes."
+        },
+        {
+            "text": "Add chopped green pepper and cook slowly until soft."
+        },
+        {
+            "text": "Drain off any excess fat."
+        },
+        {
+            "text": "Stir in tomatoes with juice, tomato paste, fresh basil and pepperoni."
+        },
+        {
+            "text": "Bring to a boil."
+        },
+        {
+            "text": "Reduce heat and add cooked rigatoni noodles."
+        },
+        {
+            "text": "Season with salt and pepper to taste."
+        },
+        {
+            "text": "Simmer 20 minutes, stirring occasionally, until most of the liquid has been cooked off."
+        }
+    ]
+}

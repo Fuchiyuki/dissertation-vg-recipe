@@ -1,0 +1,190 @@
+{
+    "title": "pizza_with_kidney_beans_and_feta",
+    "id": "ef852d19f4",
+    "table": [
+        {
+            "instructions": "preheat oven to 47",
+            "input": "NA",
+            "actions": "preheat",
+            "output": "NA"
+        },
+        {
+            "instructions": "fry the garlic in the olive_oil until it is just soft .",
+            "input": "garlic",
+            "actions": "fry",
+            "output": "fried_garlic"
+        },
+        {
+            "instructions": "add the tomato_paste",
+            "input": "(Tomato paste; fried_garlic)",
+            "actions": "add",
+            "output": "Tomato sauce added to fried_garlic"
+        },
+        {
+            "instructions": "stir 20 seconds",
+            "input": "Tomato sauce added to fried_garlic",
+            "actions": "stir",
+            "output": "Stirred tomato sauce"
+        },
+        {
+            "instructions": "add salt and pepper .",
+            "input": "(garlicky tomato sauce; salt; pepper)",
+            "actions": "add",
+            "output": "Seasoned tomato sauce"
+        },
+        {
+            "instructions": "turn heat to low",
+            "input": "Seasoned tomato sauce",
+            "actions": "turn",
+            "output": "seasoned tomato sauce"
+        },
+        {
+            "instructions": "you prepare the rest .",
+            "input": "NA",
+            "actions": "prepare",
+            "output": "NA"
+        },
+        {
+            "instructions": "stir it once in a while if you want .",
+            "input": "seasoned tomato sauce",
+            "actions": "stir",
+            "output": "Stirred seasoned tomato sauce"
+        },
+        {
+            "instructions": "follow the instructions on the pizza yeast package .",
+            "input": "pizza dough package",
+            "actions": "follow",
+            "output": "Pizza dough"
+        },
+        {
+            "instructions": "press dough into one regular pizza\u2012pan .",
+            "input": "Pizza dough",
+            "actions": "press",
+            "output": "Pressed pizza dough"
+        },
+        {
+            "instructions": "prepare vegetables",
+            "input": "Vegetables",
+            "actions": "prepare",
+            "output": "Prepared vegetables"
+        },
+        {
+            "instructions": "rinse beans .",
+            "input": "Beans",
+            "actions": "rinse",
+            "output": "Rinsed beans"
+        },
+        {
+            "instructions": "spread tomato_sauce on dough , leaving a rim around the edge for the crust .",
+            "input": "(Pressed pizza dough; tomato sauce)",
+            "actions": "spread",
+            "output": "Spreaded tomato sauce over pizza dough"
+        },
+        {
+            "instructions": "sprinkle vegetables and beans over the sauce .",
+            "input": "(pizza base; vegetables; beans)",
+            "actions": "sprinkle",
+            "output": "Sprinkled vegetables and beans over pizza base"
+        },
+        {
+            "instructions": "crumble the feta over everything last .",
+            "input": "vegetables and beans pizza",
+            "actions": "crumble",
+            "output": "Crumbled feta over vegetables and beans pizza"
+        },
+        {
+            "instructions": "bake on lowest rack for 12 15 minutes .",
+            "input": "uncooked kidney beans and feta pizza",
+            "actions": "bake",
+            "output": "Baked kidney beans and feta pizza"
+        }
+    ],
+    "ingredients": [
+        {
+            "text": "2 cups whole wheat flour (approx.)"
+        },
+        {
+            "text": "2 12 teaspoons pizza yeast"
+        },
+        {
+            "text": "water"
+        },
+        {
+            "text": "1 big carrot, shredded"
+        },
+        {
+            "text": "12 red pepper, in thin slices"
+        },
+        {
+            "text": "0.5 (19 ounce) can kidney beans"
+        },
+        {
+            "text": "2 green onions, chopped fine"
+        },
+        {
+            "text": "100 g feta"
+        },
+        {
+            "text": "1 12 tablespoons tomato paste"
+        },
+        {
+            "text": "2 garlic cloves, diced"
+        },
+        {
+            "text": "olive oil"
+        },
+        {
+            "text": "salt and pepper"
+        }
+    ],
+    "recipe": [
+        {
+            "text": "Preheat oven to 475."
+        },
+        {
+            "text": "Fry the garlic in the olive oil until it is just soft."
+        },
+        {
+            "text": "Add the tomato paste, stir 20 seconds, then add water until you have a thick sauce (it's just a smallish amount - don't worry)."
+        },
+        {
+            "text": "Add salt and pepper."
+        },
+        {
+            "text": "Turn heat to low and let \"simmer\" (or stay hot) while you prepare the rest."
+        },
+        {
+            "text": "Stir it once in a while if you want."
+        },
+        {
+            "text": "It should smell good!"
+        },
+        {
+            "text": "Follow the instructions on the pizza yeast package."
+        },
+        {
+            "text": "The bread does not need to rise, so this part shouldn't take too long."
+        },
+        {
+            "text": "Press dough into one regular pizza pan."
+        },
+        {
+            "text": "Prepare vegetables and rinse beans."
+        },
+        {
+            "text": "Spread tomato sauce on dough, leaving a rim around the edge for the \"crust\"."
+        },
+        {
+            "text": "Sprinkle vegetables and beans over the sauce."
+        },
+        {
+            "text": "Crumble the feta over everything last."
+        },
+        {
+            "text": "Bake on lowest rack for 12-15 minutes."
+        },
+        {
+            "text": "Enjoy!"
+        }
+    ]
+}

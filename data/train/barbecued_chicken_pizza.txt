@@ -1,0 +1,88 @@
+{
+    "title": "barbecued_chicken_pizza",
+    "id": "fbcc319e5a",
+    "table": [
+        {
+            "instructions": "preheat oven to 50",
+            "input": "NA",
+            "action": "preheat",
+            "output": "NA"
+        },
+        {
+            "instructions": "roll pizza_dough",
+            "input": "pizza_dough",
+            "action": "roll",
+            "output": "rolled_pizza_dough"
+        },
+        {
+            "instructions": "spread barbecue_sauce evenly over dough just to the edges .",
+            "input": "pizza dough, barbecue sauce",
+            "action": "spread",
+            "output": "barbecue sauce spread on pizza dough"
+        },
+        {
+            "instructions": "sprinkle evenly with red onion , chicken , cheese and basil .",
+            "input": "pizza dough with bbq sauce spread on it, red onion, chicken, cheese, basil",
+            "action": "sprinkle",
+            "output": "pizza dough topped with bbq sauce, chicken, red onion, cheese and basil"
+        },
+        {
+            "instructions": "bake on top shelf of oven 12 15 minutes , or until crust is golden .",
+            "input": "unbaked pizza",
+            "action": "bake",
+            "output": "baked pizza"
+        },
+        {
+            "instructions": "cut into wedges",
+            "input": "baked pizza",
+            "action": "cut",
+            "output": "pizza slices"
+        },
+        {
+            "instructions": "serve .",
+            "input": "ready to eat pizza",
+            "action": "serve",
+            "output": "chicken bbq pizza"
+        }
+    ],
+    "ingredients": [
+        {
+            "text": "1 lb prepared pizza dough"
+        },
+        {
+            "text": "1 cup barbecue sauce"
+        },
+        {
+            "text": "3 thin slices red onions"
+        },
+        {
+            "text": "2 cups chopped cooked chicken"
+        },
+        {
+            "text": "3 cups smoked gouda cheese or 3 cups mozzarella cheese, shredded"
+        },
+        {
+            "text": "3 tablespoons chopped fresh basil"
+        }
+    ],
+    "recipe": [
+        {
+            "text": "Preheat oven to 500."
+        },
+        {
+            "text": "Roll pizza dough out to fit a 12 inch pizza pan."
+        },
+        {
+            "text": "Spread barbecue sauce evenly over dough just to the edges."
+        },
+        {
+            "text": "Sprinkle evenly with red onion, chicken, cheese and basil."
+        },
+        {
+            "text": "Bake on top shelf of oven 12-15 minutes, or until crust is golden."
+        },
+        {
+            "text": "Cut into wedges and serve."
+        }
+    ]
+}

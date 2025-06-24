@@ -1,0 +1,94 @@
+{
+    "title": "bubble-up_pizza_bread",
+    "id": "2f8c2a6a42",
+    "table": [
+        {
+            "instructions": "preheat oven to 375 degrees f .",
+            "input": "NA",
+            "action": "preheat",
+            "output": "NA"
+        },
+        {
+            "instructions": "open up canned biscuits",
+            "input": "biscuits",
+            "action": "open",
+            "output": "opened_biscuits"
+        },
+        {
+            "instructions": "cut each one in half .",
+            "input": "biscuit",
+            "action": "cut",
+            "output": "biscuit_half"
+        },
+        {
+            "instructions": "lay out the biscuit pieces .",
+            "input": "biscuit_half",
+            "action": "lay",
+            "output": "biscuit_half"
+        },
+        {
+            "instructions": "top with sauce , 1 cup , mozzarella_cheese , minced_garlic , and italian_seasoning .",
+            "input": "(mozzarella_cheese; minced_garlic; italian_seasoning; biscuit_half)",
+            "action": "top",
+            "output": "biscuit_half topped with mozzarella_cheese , minced_garlic , and italian_seasoning"
+        },
+        {
+            "instructions": "top with remaining cheese",
+            "input": "(remaining mozzarella cheese; biscuit_half topped with mozzarella_cheese , minced_garlic , and italian_seasoning)",
+            "action": "top",
+            "output": "biscuit_half topped with mozzarella_cheese , minced_garlic , and italian_seasoning"
+        },
+        {
+            "instructions": "bake in the oven for 25 30 minutes .",
+            "input": "uncooked biscuit pizza",
+            "action": "bake",
+            "output": "baked biscuit pizza"
+        },
+        {
+            "instructions": "top with fresh_basil",
+            "input": "(basil; baked biscuit pizza)",
+            "action": "top",
+            "output": "baked biscuit pizza topped with garlic"
+        }
+    ],
+    "ingredients": [
+        {
+            "text": "2 cans (8 Oz. Size) Biscuits"
+        },
+        {
+            "text": "1 cup Pizza Sauce"
+        },
+        {
+            "text": "1- 1/2 cup Mozzarella Cheese, Divided"
+        },
+        {
+            "text": "2 cloves Garlic, Minced"
+        },
+        {
+            "text": "2 Tablespoons Dried Italian Seasoning"
+        },
+        {
+            "text": "Fresh Basil, For Garnish"
+        }
+    ],
+    "recipe": [
+        {
+            "text": "Preheat oven to 375 degrees F. Open up canned biscuits and cut each one in half."
+        },
+        {
+            "text": "Greased a casserole dish, and lay out the biscuit pieces."
+        },
+        {
+            "text": "Top with sauce, 1 cup mozzarella cheese, minced garlic, and Italian seasoning."
+        },
+        {
+            "text": "Give it all a good mix, ensuring each biscuit is coated."
+        },
+        {
+            "text": "Top with remaining cheese and bake in the oven for 25-30 minutes."
+        },
+        {
+            "text": "Top with fresh basil and enjoy!"
+        }
+    ]
+}

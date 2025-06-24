@@ -1,0 +1,154 @@
+{
+    "title": "low-fat_fruit_pizza",
+    "id": "2933378e6c",
+    "table": [
+        {
+            "instructions": "preheat over to 35",
+            "input": "NA",
+            "actions": "preheat",
+            "output": "NA"
+        },
+        {
+            "instructions": "mix powdered_sugar , flour and margarine in a large bowl",
+            "input": "(powdered_sugar; flour; margarine)",
+            "actions": "mix",
+            "output": "(mixed_powdered_sugar; flour; margarine)"
+        },
+        {
+            "instructions": "form into a ball .",
+            "input": "(mixed_powdered_sugar; flour; margarine)",
+            "actions": "form",
+            "output": "dough"
+        },
+        {
+            "instructions": "if mixture is sticky add more flour .",
+            "input": "NA",
+            "actions": "add",
+            "output": "NA"
+        },
+        {
+            "instructions": "refrigerate uncovered for 30 minutes .",
+            "input": "dough",
+            "actions": "refrigerate",
+            "output": "refrigerated_dough"
+        },
+        {
+            "instructions": "pat into 9x9 or 9 round shallow dish making sure that dough is reaching the edges of the pan .",
+            "input": "refrigerated_dough",
+            "actions": "pat",
+            "output": "shaped_dough"
+        },
+        {
+            "instructions": "bake for 10 15 minutes",
+            "input": "raw_dough",
+            "actions": "bake",
+            "output": "baked_crust"
+        },
+        {
+            "instructions": "mix cream_cheese , vanilla and sugar",
+            "input": "(cream_cheese; vanilla; sugar)",
+            "actions": "mix",
+            "output": "(mixed_cream_cheese; vanilla; sugar)"
+        },
+        {
+            "instructions": "beat till creamy .",
+            "input": "(mixed_cream_cheese; vanilla; sugar)",
+            "actions": "beat",
+            "output": "creamed_mixture"
+        },
+        {
+            "instructions": "spread over crust .",
+            "input": "(crust; creamed_mixture)",
+            "actions": "spread",
+            "output": "crust_with_spreaded_mixture"
+        },
+        {
+            "instructions": "arrange fruit",
+            "input": "(crust_with_spreaded_mixture; fruit)",
+            "actions": "arrange",
+            "output": "fruit_pizza"
+        },
+        {
+            "instructions": "refrigerate before serving .",
+            "input": "fruit_pizza",
+            "actions": "refrigerate",
+            "output": "chilled_fruit_pizza"
+        }
+    ],
+    "ingredients": [
+        {
+            "text": "12 cup powdered sugar"
+        },
+        {
+            "text": "34 cup white flour"
+        },
+        {
+            "text": "34 cup whole wheat flour"
+        },
+        {
+            "text": "34 cup low-fat margarine"
+        },
+        {
+            "text": "8 ounces light cream cheese, softened"
+        },
+        {
+            "text": "1 teaspoon vanilla"
+        },
+        {
+            "text": "12 cup sugar"
+        },
+        {
+            "text": "1 cup raspberries"
+        },
+        {
+            "text": "12 cup blueberries"
+        },
+        {
+            "text": "2 kiwi"
+        },
+        {
+            "text": "2 apricots"
+        }
+    ],
+    "recipe": [
+        {
+            "text": "Preheat over to 350F"
+        },
+        {
+            "text": "Mix powdered sugar, flour and margarine in a large bowl and form into a ball."
+        },
+        {
+            "text": "If mixture is sticky add more flour."
+        },
+        {
+            "text": "Refrigerate uncovered for 30 minutes."
+        },
+        {
+            "text": "(This is a good time to cut/wash your fruit."
+        },
+        {
+            "text": ")."
+        },
+        {
+            "text": "Pat into 9x9 or 9\" round shallow dish making sure that dough is reaching the edges of the pan."
+        },
+        {
+            "text": "Bake for 10-15 minutes and let cool completely."
+        },
+        {
+            "text": "Mix cream cheese, vanilla and sugar and beat till creamy."
+        },
+        {
+            "text": "Spread over crust."
+        },
+        {
+            "text": "Arrange fruit and refrigerate before serving."
+        },
+        {
+            "text": "Note: if you're using fruits that will brown you'll want to brush the fruit w/orange marmalade."
+        },
+        {
+            "text": "Should be eaten in 1-2 days."
+        }
+    ]
+}

@@ -1,0 +1,154 @@
+{
+    "title": "new_orleans_shrimp_pizza",
+    "id": "c846440afc",
+    "table": [
+        {
+            "instructions": "preheat oven to 450 degrees f . lightly spray a baking sheet with olive_oil , cooking_spray ;",
+            "input": "NA",
+            "action": "preheat",
+            "output": "NA"
+        },
+        {
+            "instructions": "set aside .",
+            "input": "NA",
+            "action": "set",
+            "output": "NA"
+        },
+        {
+            "instructions": "in a medium mixing bowl combine pizza_crust , cajun_seasoning , and hot_water until well moistened .",
+            "input": "(pizza_crust ingredients; cajun_seasoning; hot_water)",
+            "action": "combine",
+            "output": "combined cajun seasoned pizza dough"
+        },
+        {
+            "instructions": "beat 20 times to form a dough .",
+            "input": "combined cajun seasoned pizza dough",
+            "action": "beat",
+            "output": "cajun seasoned pizza dough"
+        },
+        {
+            "instructions": "let sit",
+            "input": "cajun seasoned pizza dough",
+            "action": "sit",
+            "output": "cajun seasoned pizza dough"
+        },
+        {
+            "instructions": "you make the sauce .",
+            "input": "NA",
+            "action": "make",
+            "output": "NA"
+        },
+        {
+            "instructions": "in small mixing bowl , combine tomato_sauce , hot_sauce , and garlic ;",
+            "input": "(tomato_sauce; hot_sauce; garlic)",
+            "action": "combine",
+            "output": "pizza sauce"
+        },
+        {
+            "instructions": "set aside .",
+            "input": "pizza sauce",
+            "action": "set",
+            "output": "pizza sauce"
+        },
+        {
+            "instructions": "press dough into a 12 inch circle on a baking sheet with floured fingers .",
+            "input": "cajun seasoned pizza dough",
+            "action": "press",
+            "output": "prepared cajun pizza crust"
+        },
+        {
+            "instructions": "spread sauce onto dough evenly , leaving a 1 inch border .",
+            "input": "(pizza sauce; prepared cajun pizza crust)",
+            "action": "spread",
+            "output": "sauce spread on cajun pizza crust"
+        },
+        {
+            "instructions": "top with cheese , peppers , onions , and shrimp .",
+            "input": "(cheese; peppers; onions; shrimp)",
+            "action": "top",
+            "output": "cajun pizza crust with sauce, cheese, peppers, onions and shrimps"
+        },
+        {
+            "instructions": "bake in preheated oven 12 to 17 minutes or until crust is golden brown .",
+            "input": "uncooked cajun shrimp pizza",
+            "action": "bake",
+            "output": "baked cajun shrimp pizza"
+        },
+        {
+            "instructions": "slice",
+            "input": "baked cajun shrimp pizza",
+            "action": "slice",
+            "output": "sliced cajun shrimp pizza"
+        },
+        {
+            "instructions": "serve .",
+            "input": "sliced cajun shrimp pizza",
+            "action": "serve",
+            "output": "sliced cajun shrimp pizza ready to serve"
+        }
+    ],
+    "ingredients": [
+        {
+            "text": "1 (6.5-ounce) package pizza dough mix (recommended: Betty Crocker)"
+        },
+        {
+            "text": "1 teaspoon Cajun seasoning"
+        },
+        {
+            "text": "1/2 cup hot water"
+        },
+        {
+            "text": "1 cup chunky tomato sauce"
+        },
+        {
+            "text": "1/2 teaspoon hot sauce, or more if needed"
+        },
+        {
+            "text": "1 teaspoon crushed garlic"
+        },
+        {
+            "text": "1 cup shredded mozzarella"
+        },
+        {
+            "text": "1/3 cup frozen chopped green pepper, thawed (recommended: PictSweet)"
+        },
+        {
+            "text": "1/3 cup frozen chopped onion, thawed (recommended: Ore-Ida)"
+        },
+        {
+            "text": "1/2 pound pre-peeled medium shrimp"
+        }
+    ],
+    "recipe": [
+        {
+            "text": "Preheat oven to 450 degrees F. Lightly spray a baking sheet with olive oil cooking spray; set aside."
+        },
+        {
+            "text": "In a medium mixing bowl combine pizza crust, Cajun seasoning, and hot water until well moistened."
+        },
+        {
+            "text": "Beat 20 times to form a dough."
+        },
+        {
+            "text": "Let sit while you make the sauce."
+        },
+        {
+            "text": "In small mixing bowl, combine tomato sauce, hot sauce, and garlic; set aside."
+        },
+        {
+            "text": "Press dough into a 12-inch circle on a baking sheet with floured fingers."
+        },
+        {
+            "text": "Spread sauce onto dough evenly, leaving a 1-inch border."
+        },
+        {
+            "text": "Top with cheese, peppers, onions, and shrimp."
+        },
+        {
+            "text": "Bake in preheated oven 12 to 17 minutes or until crust is golden brown."
+        },
+        {
+            "text": "Slice and serve."
+        }
+    ]
+}

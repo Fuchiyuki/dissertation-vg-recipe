@@ -1,0 +1,94 @@
+{
+    "title": "buffalo_chicken_flatbread_pizza",
+    "id": "d9a5bb56e5",
+    "table": [
+        {
+            "instructions": "cut the chicken_strip into cubes ;",
+            "input": "chicken strip",
+            "action": "cut",
+            "output": "chicken cubes"
+        },
+        {
+            "instructions": "season with ms , dash , n franks red hot",
+            "input": "(chicken cubes; ms; dash; n franks red hot)",
+            "action": "season",
+            "output": "uncooked seasoned chicken cubes"
+        },
+        {
+            "instructions": "then cook the chicken",
+            "input": "uncooked seasoned chicken cubes",
+            "action": "cook",
+            "output": "cooked seasoned chicken cubes"
+        },
+        {
+            "instructions": "place two flatbreads on a cookie sheet",
+            "input": "two flatbreads",
+            "action": "place",
+            "output": "two flatbreads"
+        },
+        {
+            "instructions": "use what every kind of pasta_sauce you like",
+            "input": "(pasta sauce; two flatbreads)",
+            "action": "use",
+            "output": "two flatbreads with pasta sauce"
+        },
+        {
+            "instructions": "place in a oven at 400f for 15 minutes",
+            "input": "(two flatbreads with pasta sauce; cooked seasoned chicken cubes)",
+            "action": "place",
+            "output": "chicken flatbread pizza"
+        }
+    ],
+    "ingredients": [
+        {
+            "text": "4 chicken strips"
+        },
+        {
+            "text": "3 tbsp Franks red hot"
+        },
+        {
+            "text": "1 cup cheese"
+        },
+        {
+            "text": "2 flat breads"
+        },
+        {
+            "text": "1 small onion chopped"
+        },
+        {
+            "text": "1/2 cup pasta sauce"
+        },
+        {
+            "text": "1/2 cup pineapple"
+        },
+        {
+            "text": "1/2 cup mushrooms"
+        }
+    ],
+    "recipe": [
+        {
+            "text": "cut the chicken strips into cubes season with Ms dash n Franks red hot"
+        },
+        {
+            "text": "n a small pan sautee the pineapple-onion-mushrooms"
+        },
+        {
+            "text": "then cook the chicken"
+        },
+        {
+            "text": "place two flatbreads on a cookie sheet"
+        },
+        {
+            "text": "use what every kind of pasta sauce you like"
+        },
+        {
+            "text": "assemble ur pizZa"
+        },
+        {
+            "text": "place in a oven at 400F for 15 minutes"
+        },
+        {
+            "text": "enjoy"
+        }
+    ]
+}

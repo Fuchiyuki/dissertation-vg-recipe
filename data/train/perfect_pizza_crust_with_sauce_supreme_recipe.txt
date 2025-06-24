@@ -1,0 +1,172 @@
+{
+    "title": "perfect_pizza_crust_with_sauce_supreme_recipe",
+    "id": "c2dc728028",
+    "table": [
+        {
+            "instructions": "dissolve yeast in hot_water in large bowl ;",
+            "input": "(yeast; hot water)",
+            "action": "dissolve",
+            "output": "(dissolved_yeast in hot water; oil)"
+        },
+        {
+            "instructions": "beat in the oil , salt and honey .",
+            "input": "(dissolved_yeast in hot water; oil; salt; honey )",
+            "action": "beat",
+            "output": "yeast mixture"
+        },
+        {
+            "instructions": "add in flour",
+            "input": "(yeast mixture; flour)",
+            "action": "add",
+            "output": "dough"
+        },
+        {
+            "instructions": "beat in sufficient additional flour about 1 c.",
+            "input": "(additional flour; dough)",
+            "action": "beat",
+            "output": "dough"
+        },
+        {
+            "instructions": "turn onto a well floured board",
+            "input": "dough",
+            "action": "turn",
+            "output": "floured dough"
+        },
+        {
+            "instructions": "knead it till smooth , about 3 min .",
+            "input": "floured dough",
+            "action": "knead",
+            "output": "kneaded dough"
+        },
+        {
+            "instructions": "put dough into a greased bowl ;",
+            "input": "kneaded dough",
+            "action": "put",
+            "output": "kneaded dough"
+        },
+        {
+            "instructions": "cover it",
+            "input": "kneaded dough",
+            "action": "cover",
+            "output": "kneaded dough"
+        },
+        {
+            "instructions": "let rise in a hot place till it doubles in size .",
+            "input": "kneaded dough",
+            "action": "rise",
+            "output": "risen dough"
+        },
+        {
+            "instructions": "punch down the dough",
+            "input": "risen dough",
+            "action": "punch",
+            "output": "punched down dough"
+        },
+        {
+            "instructions": "divide it into thirds for thin crust or possibly halves for thicker crust .",
+            "input": "punched down dough",
+            "action": "divide",
+            "output": "divided dough "
+        },
+        {
+            "instructions": "roll",
+            "input": "divided dough ",
+            "action": "roll",
+            "output": "rolled dough"
+        },
+        {
+            "instructions": "pat",
+            "input": "rolled dough",
+            "action": "pat",
+            "output": "patted dough"
+        },
+        {
+            "instructions": "stretch dough to fit pizza\u2012pan , remembering to create an edge .",
+            "input": "patted dough",
+            "action": "stretch",
+            "output": "uncooked pizza crust"
+        },
+        {
+            "instructions": "bake on the lowest rack in 500 degree oven for about 5 min for thin crust or possibly about 7 min for thick crust .",
+            "input": "uncooked pizza crust",
+            "action": "bake",
+            "output": "parbaked pizza crust"
+        },
+        {
+            "instructions": "spread the baked crust with sauce and condiments",
+            "input": "(parbaked pizza crust; sauce; condiments)",
+            "action": "spread",
+            "output": "sauce and condiments spread on parbaked pizza crust"
+        },
+        {
+            "instructions": "bake again on lowest rack of 500 degree oven for 5 to 8 min .",
+            "input": "uncooked pizza",
+            "action": "bake",
+            "output": "baked pizza"
+        },
+        {
+            "instructions": "add in tomato_sauce and seasonings .",
+            "input": "",
+            "action": "add",
+            "output": ""
+        },
+        {
+            "instructions": "simmer for 15 min , stirring often .",
+            "input": "",
+            "action": "simmer",
+            "output": ""
+        }
+    ],
+    "ingredients": [
+        {
+            "text": "1 pkg. active dry yeast"
+        },
+        {
+            "text": "1 3/4 c. hot water (110 degrees)"
+        },
+        {
+            "text": "3 tbsp. salad oil"
+        },
+        {
+            "text": "1 tbsp. honey"
+        },
+        {
+            "text": "1 teaspoon salt"
+        },
+        {
+            "text": "4 c. unsifted all-purpose flour"
+        }
+    ],
+    "recipe": [
+        {
+            "text": "Dissolve yeast in hot water in large bowl; beat in the oil, salt and honey."
+        },
+        {
+            "text": "Add in flour and beat in sufficient additional flour (about 1 c.) to create a stiff dough."
+        },
+        {
+            "text": "Turn onto a well floured board and knead it till smooth, about 3 min."
+        },
+        {
+            "text": "Put dough into a greased bowl; cover it and let rise in a hot place till it doubles in size."
+        },
+        {
+            "text": "Punch down the dough and divide it into thirds for thin crust or possibly halves for thicker crust."
+        },
+        {
+            "text": "Roll, pat and stretch dough to fit pizza pan, remembering to create an edge."
+        },
+        {
+            "text": "Bake on the lowest rack in 500 degree oven for about 5 min for thin crust or possibly about 7 min for thick crust."
+        },
+        {
+            "text": "Spread the baked crust with sauce and condiments and bake again on lowest rack of 500 degree oven for 5 to 8 min."
+        },
+        {
+            "text": "SAUCE: Saute/fry the onion and garlic in oil till onion is limp and golden brown; add in tomato sauce and seasonings."
+        },
+        {
+            "text": "Simmer for 15 min, stirring often."
+        }
+    ]
+}

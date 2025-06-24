@@ -1,0 +1,262 @@
+{
+    "title": "whole_wheat_pizza_recipe",
+    "id": "236b3793fc",
+    "table": [
+        {
+            "instructions": "combine water , oil , sugar and 12 tsp .",
+            "input": "(water; oil; sugar)",
+            "action": "combine",
+            "output": "water oil and sugar mixture"
+        },
+        {
+            "instructions": "salt in a medium mixing bowl .",
+            "input": "(water oil and sugar mixture; salt)",
+            "action": "salt",
+            "output": "liquid ingredients"
+        },
+        {
+            "instructions": "sprinkle yeast over mix , stirring till dissolved .",
+            "input": "(liquid ingredients; yeast)",
+            "action": "sprinkle",
+            "output": "yeast mixture"
+        },
+        {
+            "instructions": "gradually add in flour mixing well after each addition .",
+            "input": "(flour; yeast mixture)",
+            "action": "add",
+            "output": "dough"
+        },
+        {
+            "instructions": "turn dough out onto a lightly floured surface",
+            "input": "dough",
+            "action": "turn",
+            "output": "dough"
+        },
+        {
+            "instructions": "knead about 4 min or possibly till smooth and elastic .",
+            "input": "dough",
+            "action": "knead",
+            "output": "kneaded_dough"
+        },
+        {
+            "instructions": "shape into a ball ,",
+            "input": "kneaded_dough",
+            "action": "shape",
+            "output": "ball-shaped_dough"
+        },
+        {
+            "instructions": "place in a bowl coated with cooking_spray or possibly oil , turning to grease top .",
+            "input": "ball-shaped_dough",
+            "action": "place",
+            "output": "greased_ball-shaped_dough"
+        },
+        {
+            "instructions": "cover",
+            "input": "greased_ball-shaped_dough",
+            "action": "cover",
+            "output": "greased_ball-shaped_dough"
+        },
+        {
+            "instructions": "coat a 12 inch , pizza\u2012pan with cooking_spray or possibly oil ;",
+            "input": "NA",
+            "action": "coat",
+            "output": "NA"
+        },
+        {
+            "instructions": "set aside .",
+            "input": "N/A",
+            "action": "set",
+            "output": "N/A"
+        },
+        {
+            "instructions": "punch dough down .",
+            "input": "greased_ball-shaped_dough",
+            "action": "punch",
+            "output": "punched_dough"
+        },
+        {
+            "instructions": "lightly coat hand with oil",
+            "input": "NA",
+            "action": "coat",
+            "output": "NA"
+        },
+        {
+            "instructions": "pat dough proportionately into pizza\u2012pan .",
+            "input": "punched_dough",
+            "action": "pat",
+            "output": "uncooked_crust"
+        },
+        {
+            "instructions": "bake at 425 degrees for 5 min .",
+            "input": "uncooked_crust",
+            "action": "bake",
+            "output": "pizza_crust"
+        },
+        {
+            "instructions": "combine hamburger and salt in a skillet ;",
+            "input": "(hamburger; salt)",
+            "action": "combine",
+            "output": "uncooked_hamburger_mixture"
+        },
+        {
+            "instructions": "cook over medium heat till meat is browned , stirring to crumble .",
+            "input": "uncooked_hamburger_mixture",
+            "action": "cook",
+            "output": "cooked_hamburger"
+        },
+        {
+            "instructions": "drain beef well on paper towels .",
+            "input": "cooked_hamburger",
+            "action": "drain",
+            "output": "drained_hamburger"
+        },
+        {
+            "instructions": "spread 1 c pizza sauce proportionately over pizza crust, leaving a 1/2 inch border.",
+            "input": "(pizza sauce; baked pizza_crust)",
+            "action": "spread",
+            "output": "pizza_crust with pizza sauce"
+        },
+        {
+            "instructions": "sprinkle 34 c\u00a0Mozzarella cheese over top.",
+            "input": "(pizza_crust with pizza sauce; mozzarella cheese)",
+            "action": "sprinkle",
+            "output": "pizza_crust with pizza sauce and mozzarella cheese"
+        },
+        {
+            "instructions": "sprinkle meat over cheese on pizza_crust ;",
+            "input": "(drained_hamburger; pizza_crust with pizza sauce and mozzarella cheese)",
+            "action": "sprinkle",
+            "output": "pizza_crust with pizza sauce, mozzarella cheese and cooked hamburger"
+        },
+        {
+            "instructions": "top with mushrooms , green_onion , if you like .",
+            "input": "(pizza_crust with pizza sauce, mozzarella cheese and cooked hamburger; mushrooms; green_onion)",
+            "action": "top",
+            "output": "pizza_crust with pizza sauce, mozzarella cheese and cooked hamburger topped with mushrooms and green onion"
+        },
+        {
+            "instructions": "bake at 425 degrees for 15 min .",
+            "input": "uncooked whole wheat meat pizza",
+            "action": "bake",
+            "output": "baked whole wheat meat pizza"
+        },
+        {
+            "instructions": "sprinkle with remaining 14 c. , mozzarella_cheese and parmesan_cheese ;",
+            "input": "(remaining mozzarella cheese; parmesan cheese; baked whole wheat meat pizza)",
+            "action": "sprinkle",
+            "output": "mozzarella cheese and parmesan cheese sprinkled over baked whole wheat meat pizza"
+        },
+        {
+            "instructions": "bake 5 min .",
+            "input": "baked whole wheat meat pizza",
+            "action": "bake",
+            "output": "baked whole wheat meat pizza with fully melted cheese"
+        }
+    ],
+    "ingredients": [
+        {
+            "text": "1/2 c. hot water (105 to 115 degrees)"
+        },
+        {
+            "text": "1 tbsp. vegetable oil"
+        },
+        {
+            "text": "1 teaspoon sugar"
+        },
+        {
+            "text": "1/2 teaspoon salt"
+        },
+        {
+            "text": "1/2 pkg. (about 1 tsp.) dry yeast"
+        },
+        {
+            "text": "3/4 c. all-purpose flour"
+        },
+        {
+            "text": "3/4 c. whole wheat flour"
+        },
+        {
+            "text": "1/2 pound hamburger"
+        },
+        {
+            "text": "1/2 teaspoon salt"
+        },
+        {
+            "text": "1 c. pizza sauce"
+        },
+        {
+            "text": "1 c. grated Mozzarella cheese"
+        },
+        {
+            "text": "3/4 c. sliced mushrooms"
+        },
+        {
+            "text": "1/4 c. sliced green onions"
+        },
+        {
+            "text": "2 tbsp. grated Parmesan cheese"
+        }
+    ],
+    "recipe": [
+        {
+            "text": "Combine water, oil, sugar and 1/2 tsp."
+        },
+        {
+            "text": "salt in a medium mixing bowl."
+        },
+        {
+            "text": "Sprinkle yeast over mix, stirring till dissolved."
+        },
+        {
+            "text": "Gradually add in flour mixing well after each addition."
+        },
+        {
+            "text": "Turn dough out onto a lightly floured surface and knead about 4 min or possibly till smooth and elastic."
+        },
+        {
+            "text": "Shape into a ball, and place in a bowl coated with cooking spray or possibly oil, turning to grease top."
+        },
+        {
+            "text": "Cover and let rise in a hot place, (85 degrees), free from drafts, 1 hour or possibly till doubled in bulk."
+        },
+        {
+            "text": "Coat a 12 inch pizza pan with cooking spray or possibly oil; set aside."
+        },
+        {
+            "text": "Punch dough down."
+        },
+        {
+            "text": "Lightly coat hand with oil and pat dough proportionately into pizza pan."
+        },
+        {
+            "text": "Bake at 425 degrees for 5 min."
+        },
+        {
+            "text": "Combine hamburger and salt in a skillet; cook over medium heat till meat is browned, stirring to crumble."
+        },
+        {
+            "text": "Drain beef well on paper towels."
+        },
+        {
+            "text": "Spread 1 c. pizza sauce proportionately over pizza crust, leaving a 1/2 inch border."
+        },
+        {
+            "text": "Sprinkle 3/4 c. Mozzarella cheese over top."
+        },
+        {
+            "text": "Sprinkle meat over cheese on pizza crust; top with mushrooms, green onions, if you like."
+        },
+        {
+            "text": "Bake at 425 degrees for 15 min."
+        },
+        {
+            "text": "Sprinkle with remaining 1/4 c. Mozzarella cheese and Parmesan cheese; bake 5 min."
+        },
+        {
+            "text": "Yield: 10 slices."
+        },
+        {
+            "text": "171 calories per slice."
+        }
+    ]
+}

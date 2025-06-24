@@ -1,0 +1,175 @@
+{
+    "title": "claire_'s_pizza",
+    "id": "77569a8b05",
+    "table": [
+        {
+            "instructions": "mix in flour and remaining dough ingredients a little at a time until a soft ball of dough is formed",
+            "input": "(flour; yeast; water; oil; salt)",
+            "action": "mix",
+            "output": "soft dough"
+        },
+        {
+            "instructions": "turn out the dough onto a floured surface",
+            "input": "soft dough",
+            "action": "turn",
+            "output": "soft dough"
+        },
+        {
+            "instructions": "knead for 5 8 minutes or until consistency is even and there is good elasticity .",
+            "input": "soft dough",
+            "action": "knead",
+            "output": "dough kneaded"
+        },
+        {
+            "instructions": "return dough to oiled bowl",
+            "input": "dough kneaded",
+            "action": "return",
+            "output": "dough returned in oiled bowl"
+        },
+        {
+            "instructions": "cover with either a damp towel or seran wrap",
+            "input": "dough returned in oiled bowl",
+            "action": "cover",
+            "output": "dough covered"
+        },
+        {
+            "instructions": "preheat oven to 40",
+            "input": "NA",
+            "action": "preheat",
+            "output": "NA"
+        },
+        {
+            "instructions": "punch down dough",
+            "input": "proofed dough",
+            "action": "punch",
+            "output": "dough punched down"
+        },
+        {
+            "instructions": "roll out til it is the desired thickness about half an inch .",
+            "input": "dough punched down",
+            "action": "roll",
+            "output": "dough rolled out"
+        },
+        {
+            "instructions": "sprinkle polenta on cooking sheet",
+            "input": "NA",
+            "action": "sprinkle",
+            "output": "NA"
+        },
+        {
+            "instructions": "place the dough on it",
+            "input": "dough rolled out",
+            "action": "place",
+            "output": "dough rolled out"
+        },
+        {
+            "instructions": "spread tomato_sauce on dough .",
+            "input": "(tomato sauce; dough rolled out)",
+            "action": "spread",
+            "output": "tomato sauce spread on pizza crust"
+        },
+        {
+            "instructions": "add parmesan , basil and pine nuts .",
+            "input": "(parmesan; basil; pine nuts; tomato sauce spread on pizza crust)",
+            "action": "add",
+            "output": "pizza crust with tomato sauce, parmesan, basil and pine nuts"
+        },
+        {
+            "instructions": "place on middle rack",
+            "input": "pizza crust with tomato sauce, parmesan, basil and pine nuts",
+            "action": "place",
+            "output": "pizza crust with tomato sauce, parmesan, basil and pine nuts"
+        },
+        {
+            "instructions": "cook for about eighteen minutes .",
+            "input": "pizza crust with tomato sauce, parmesan, basil and pine nuts",
+            "action": "cook",
+            "output": "baked pizza"
+        },
+        {
+            "instructions": "add sundried tomatoes to cooking pizza",
+            "input": "(sundried tomatoes; baked pizza)",
+            "action": "add",
+            "output": "sundried tomatoes added to baked pizza"
+        },
+        {
+            "instructions": "remove pizza from oven .",
+            "input": "baked pizza",
+            "action": "remove",
+            "output": "baked pizza ready to eat"
+        }
+    ],
+    "ingredients": [
+        {
+            "text": "8 oz Shredded mozzarella"
+        },
+        {
+            "text": "1/4 cup Julienned sundried tomatoes"
+        },
+        {
+            "text": "5 Chopped basil leaves"
+        },
+        {
+            "text": "1/3 can Paul Newman Vodka Sauce"
+        },
+        {
+            "text": "1/4 cup Grated parmesan"
+        },
+        {
+            "text": "2 1/2 cup Flour"
+        },
+        {
+            "text": "1 cup Lukewarm water"
+        },
+        {
+            "text": "2 tbsp Olive oil"
+        },
+        {
+            "text": "2 tsp Active dry yeast"
+        },
+        {
+            "text": "1 tsp Salt"
+        },
+        {
+            "text": "1 Polenta for sprinkling"
+        }
+    ],
+    "recipe": [
+        {
+            "text": "Proof yeast in lukewarm water."
+        },
+        {
+            "text": "Mix in flour and remaining dough ingredients a little at a time until a soft ball of dough is formed"
+        },
+        {
+            "text": "Turn out the dough onto a floured surface and knead for 5-8 minutes or until consistency is even and there is good elasticity."
+        },
+        {
+            "text": "Return dough to oiled bowl and cover with either a damp towel or seran wrap and let rise at room temperature for about 1 hour or until doubled."
+        },
+        {
+            "text": "Preheat oven to 400."
+        },
+        {
+            "text": "Punch down dough and roll out til it is the desired thickness (about half an inch)."
+        },
+        {
+            "text": "Sprinkle polenta on cooking sheet and place the dough on it"
+        },
+        {
+            "text": "Spread tomato sauce on dough."
+        },
+        {
+            "text": "Add parmesan, basil and pine nuts."
+        },
+        {
+            "text": "Place on middle rack and cook for about eighteen minutes."
+        },
+        {
+            "text": "Add sundried tomatoes to cooking pizza and continue to cook for about 4 minutes or until crust starts to brown."
+        },
+        {
+            "text": "Remove pizza from oven."
+        }
+    ]
+}

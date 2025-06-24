@@ -1,0 +1,91 @@
+{
+    "title": "herb_parmesan_pizza_dough_bread_maker",
+    "id": "15d5b55585",
+    "table": [
+        {
+            "instructions": "place all_ingredient in bread machine in the order listed .",
+            "input": "(flour; water; oil; salt; yeast; parmesan; herbs)",
+            "action": "place",
+            "output": "herb_parmesan_pizza_dough ingredients"
+        },
+        {
+            "instructions": "press start .",
+            "input": "herb_parmesan_pizza_dough ingredients",
+            "action": "press",
+            "output": "herb_parmesan_pizza_dough ingredients"
+        },
+        {
+            "instructions": "when dough is finished remove with floured hands",
+            "input": "herb_parmesan_pizza_dough ingredients",
+            "action": "remove",
+            "output": "herb_parmesan_pizza_dough"
+        },
+        {
+            "instructions": "shape into size and thickness of desired pizza",
+            "input": "herb_parmesan_pizza_dough",
+            "action": "shape",
+            "output": "shaped_herb_parmesan_pizza_dough"
+        },
+        {
+            "instructions": "place on greased cookie sheet or pizza tray .",
+            "input": "shaped_herb_parmesan_pizza_dough",
+            "action": "place",
+            "output": "herb_parmesan_pizza_dough_on_pan"
+        },
+        {
+            "instructions": "top with favorite sauces and ingredients .",
+            "input": "(herb_parmesan_pizza_dough_on_pan; toppings)",
+            "action": "top",
+            "output": "topped_herb_parmesan_pizza_dough_on_pan"
+        }
+    ],
+    "ingredients": [
+        {
+            "text": "1 cup water"
+        },
+        {
+            "text": "2 tablespoons water"
+        },
+        {
+            "text": "2 tablespoons olive oil (vegetable oil works too)"
+        },
+        {
+            "text": "1 garlic clove, minced (optional)"
+        },
+        {
+            "text": "3 cups all-purpose flour"
+        },
+        {
+            "text": "1 teaspoon sugar"
+        },
+        {
+            "text": "1 teaspoon salt"
+        },
+        {
+            "text": "1 tablespoon mixed Italian herbs"
+        },
+        {
+            "text": "2 teaspoons parmesan cheese (grated)"
+        },
+        {
+            "text": "2 12 teaspoons regular active dry yeast"
+        }
+    ],
+    "recipe": [
+        {
+            "text": "Place all ingredients in bread machine in the order listed."
+        },
+        {
+            "text": "Select dough cycle on machine and press start."
+        },
+        {
+            "text": "When dough is finished remove with floured hands and shape into size and thickness of desired pizza and place on greased cookie sheet or pizza tray."
+        },
+        {
+            "text": "Top with favorite sauces and ingredients."
+        },
+        {
+            "text": "(Baking time is generally 18-20 minutes at 400F)."
+        }
+    ]
+}

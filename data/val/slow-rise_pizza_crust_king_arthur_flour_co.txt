@@ -1,0 +1,100 @@
+{
+    "title": "slow-rise_pizza_crust_king_arthur_flour_co",
+    "id": "75a60dd8b5",
+    "table": [
+        {
+            "instructions": "mix together all dough ingredients",
+            "input": "dough ingredients",
+            "action": "mix",
+            "output": "mixed dough"
+        },
+        {
+            "instructions": "knead on a lightly floured surface until smooth and soft .",
+            "input": "mixed_dough",
+            "action": "knead",
+            "output": "smooth_and_soft_dough"
+        },
+        {
+            "instructions": "do not over knead ;",
+            "input": "smooth_and_soft_dough",
+            "action": "knead",
+            "output": "smooth_and_soft_dough"
+        },
+        {
+            "instructions": "refrigerate dough for 4 36 hours , to allow dough to slowly rise",
+            "input": "smooth_and_soft_dough",
+            "action": "refrigerate",
+            "output": "refrigerated_dough"
+        },
+        {
+            "instructions": "shape into a 12 14 inch circle",
+            "input": "refrigerated_dough",
+            "action": "shape",
+            "output": "shaped_dough_into_circle"
+        },
+        {
+            "instructions": "brush with olive_oil if desired ,",
+            "input": "(shaped_dough_into_circle; optional olive oil)",
+            "action": "brush",
+            "output": "pizza crust brushed with optional olive oil"
+        },
+        {
+            "instructions": "bake on a pizza stone or greased pizza\u2012pan at 400 f for about 10 minutes , or until just beginning to turn golden .",
+            "input": "pizza crust brushed with optional olive oil",
+            "action": "bake",
+            "output": "par baked pizza crust"
+        },
+        {
+            "instructions": "bake as desired .",
+            "input": "par baked pizza crust",
+            "action": "bake",
+            "output": "baked pizza"
+        }
+    ],
+    "ingredients": [
+        {
+            "text": "1 34 cups all-purpose flour"
+        },
+        {
+            "text": "1 14 cups semolina (or substitute more flour)"
+        },
+        {
+            "text": "1 teaspoon instant yeast"
+        },
+        {
+            "text": "1 12 teaspoons salt"
+        },
+        {
+            "text": "2 tablespoons olive oil"
+        },
+        {
+            "text": "1 14-1 13 cups water (enough to make a smooth, soft dough)"
+        },
+        {
+            "text": "2 tablespoons dough enhancer (optional, see note above) (optional)"
+        },
+        {
+            "text": "olive oil, for brushing (optional)"
+        }
+    ],
+    "recipe": [
+        {
+            "text": "Mix together all dough ingredients and knead on a lightly-floured surface until smooth and soft."
+        },
+        {
+            "text": "Do not over-knead; dough should hold together but look rough on surface."
+        },
+        {
+            "text": "Allow to rise in a warm place, covered, for 45 minutes."
+        },
+        {
+            "text": "Refrigerate dough for 4-36 hours, to allow dough to slowly rise and develop flavor."
+        },
+        {
+            "text": "Shape into a 12-14 inch circle, brush with olive oil (if desired), and bake on a pizza stone or greased pizza pan at 400* F for about 10 minutes, or until just beginning to turn golden."
+        },
+        {
+            "text": "Top and bake as desired."
+        }
+    ]
+}

@@ -1,0 +1,163 @@
+{
+    "title": "whole_wheat_pizza_with_dijon_peppers_and_spinach",
+    "id": "31cc736cf8",
+    "table": [
+        {
+            "instructions": "mix ricotta_cheese and 1 12 cups of the mustard or 14 cup for trial recipe .",
+            "input": "(ricotta_cheese; mustard)",
+            "action": "mix",
+            "output": "ricotta_cheese and mustard mixture"
+        },
+        {
+            "instructions": "add basil , oregano and black_pepper ;",
+            "input": "ricotta_cheese and mustard mixture; basil; oregano; black pepper",
+            "action": "add",
+            "output": "ricotta_cheese and mustard mixture with seasonings and herbs"
+        },
+        {
+            "instructions": "mix well .",
+            "input": "ricotta_cheese and mustard mixture with seasonings and herbs",
+            "action": "mix",
+            "output": "ricotta_cheese and mustard mixture with seasonings and herbs"
+        },
+        {
+            "instructions": "set aside .",
+            "input": "ricotta_cheese and mustard mixture with seasonings and herbs",
+            "action": "set",
+            "output": "ricotta_cheese and mustard mixture with seasonings and herbs"
+        },
+        {
+            "instructions": "heat oil in large saute pan on medium high heat .",
+            "input": "oil",
+            "action": "heat",
+            "output": "heated oil"
+        },
+        {
+            "instructions": "add spinach , bell_pepper and garlic ;",
+            "input": "spinach; bell pepper; garlic; heated oil",
+            "action": "add",
+            "output": "spinach , bell_pepper and garlic added to heated oil"
+        },
+        {
+            "instructions": "saute until tender .",
+            "input": "spinach , bell_pepper and garlic added to heated oil",
+            "action": "saute",
+            "output": "sauteed spinach and bell pepper mixture"
+        },
+        {
+            "instructions": "stir in remaining 3 cups mustard or 12 cup for trial recipe ;",
+            "input": "sauteed spinach and bell pepper mixture; remaining mustard",
+            "action": "stir",
+            "output": "remaining mustard stirred into sauteed spinach and bell pepper mixture"
+        },
+        {
+            "instructions": "cook 1 min .",
+            "input": "cooking spinach, mustard and bell pepper mixture",
+            "action": "cook",
+            "output": "cooked spinach, mustard and bell pepper mixture"
+        },
+        {
+            "instructions": "Cover pizza crust with 2 Tbsp of the ricotta mixture and 3/4 cup of the spinach mixture;\u00a0",
+            "input": "pizza crust; ricotta_cheese and mustard mixture; sauteed spinach and bell pepper mixture mix",
+            "action": "cover",
+            "output": "pizza crust covered with ricotta_cheese and mustard mixture and sauteed spinach and bell pepper mixture mix"
+        },
+        {
+            "instructions": "sprinkle with 1/4 cup of the mozzarella cheese and 1 tsp\u00a0of the Parmesan cheese",
+            "input": "mozzarella cheese; pizza crust covered with ricotta_cheese and mustard mixture and sauteed spinach and bell pepper mixture",
+            "action": "sprinkle",
+            "output": "mozzarella cheese sprinkled over pizza crust covered with ricotta_cheese and mustard mixture and sauteed spinach and bell pepper mixture"
+        },
+        {
+            "instructions": "place on sheet pan .",
+            "input": "uncooked whole_wheat_pizza_with_dijon_peppers_and_spinach",
+            "action": "place",
+            "output": "uncooked whole_wheat_pizza_with_dijon_peppers_and_spinach"
+        },
+        {
+            "instructions": "bake in 425f convection oven for 5 min .",
+            "input": "uncooked whole_wheat_pizza_with_dijon_peppers_and_spinach",
+            "action": "bake",
+            "output": "baked whole_wheat_pizza_with_dijon_peppers_and_spinach"
+        }
+    ],
+    "ingredients": [
+        {
+            "text": "1-1/2 qt. ricotta cheese, drained"
+        },
+        {
+            "text": "4-1/2 cups GREY POUPON Classic Dijon Mustard, divided"
+        },
+        {
+            "text": "1-1/2 tsp. dried basil leaves"
+        },
+        {
+            "text": "1-1/2 tsp. dried oregano leaves"
+        },
+        {
+            "text": "1-1/2 tsp. black pepper"
+        },
+        {
+            "text": "1/2 cup olive oil"
+        },
+        {
+            "text": "6 gal. fresh spinach leaves, cleaned, stemmed"
+        },
+        {
+            "text": "2-1/4 gal. Yellow and red peppers, cut into thin strips"
+        },
+        {
+            "text": "1-1/2 cups garlic cloves, minced"
+        },
+        {
+            "text": "48 each Parbaked whole wheat pizza crusts (6 inch)"
+        },
+        {
+            "text": "3 qt. low moisture part skim milk mozzarella cheese"
+        },
+        {
+            "text": "1 cup KRAFT Grated Parmesan Cheese"
+        }
+    ],
+    "recipe": [
+        {
+            "text": "Mix ricotta cheese and 1-1/2 cups of the mustard (or 1/4 cup for trial recipe)."
+        },
+        {
+            "text": "Add basil, oregano and black pepper; mix well."
+        },
+        {
+            "text": "Set aside."
+        },
+        {
+            "text": "Heat oil in large saute pan on medium-high heat."
+        },
+        {
+            "text": "Add spinach, bell peppers and garlic; saute until tender."
+        },
+        {
+            "text": "Stir in remaining 3 cups mustard (or 1/2 cup for trial recipe); cook 1 min."
+        },
+        {
+            "text": "Keep warm."
+        },
+        {
+            "text": "For each serving: Cover pizza crust with 2 Tbsp."
+        },
+        {
+            "text": "of the ricotta mixture and 3/4 cup of the spinach mixture; sprinkle with 1/4 cup of the mozzarella cheese and 1 tsp."
+        },
+        {
+            "text": "of the Parmesan cheese."
+        },
+        {
+            "text": "Place on sheet pan."
+        },
+        {
+            "text": "Bake in 425F-convection oven for 5 min."
+        },
+        {
+            "text": "or until cheese is melted and crust is lightly browned."
+        }
+    ]
+}

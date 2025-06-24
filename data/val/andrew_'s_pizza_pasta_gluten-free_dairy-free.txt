@@ -1,0 +1,190 @@
+{
+    "title": "andrew_'s_pizza_pasta_gluten-free_dairy-free",
+    "id": "c1120c4557",
+    "table": [
+        {
+            "instructions": "preheat oven to 350 degrees .",
+            "input": "NA",
+            "action": "preheat",
+            "output": "NA"
+        },
+        {
+            "instructions": "in large saucepan , cook pasta according to directions on package .",
+            "input": "pasta",
+            "action": "cook",
+            "output": "cooked pasta"
+        },
+        {
+            "instructions": "Meanwhile, cook ground beef in large skillet on high heat, about 4 minute Add onion, garlic and all other spices and cook for about 4 more minute or until meat is thoroughly cooked .",
+            "input": "",
+            "action": "cook",
+            "output": ""
+        },
+        {
+            "instructions": "drain fat from skillet .",
+            "input": "cooked ground beef mixture with excess fat",
+            "action": "drain",
+            "output": "excess fat drained from cooked ground beef mixture"
+        },
+        {
+            "instructions": "add spaghetti sauce .",
+            "input": "(spaghetti sauce; cooked ground beef mixture)",
+            "action": "add",
+            "output": "spaghetti sauce added to cooked ground beef mixture"
+        },
+        {
+            "instructions": "when pasta is done , drain",
+            "input": "cooked pasta",
+            "action": "drain",
+            "output": "drained cooked pasta"
+        },
+        {
+            "instructions": "add to the skillet .",
+            "input": "(drained cooked pasta; ground beef spaghetti sauce)",
+            "action": "add",
+            "output": "drained cooked pasta added to ground beef spaghetti sauce"
+        },
+        {
+            "instructions": "mix everything in skillet thoroughly .",
+            "input": "drained cooked pasta added to ground beef spaghetti sauce",
+            "action": "mix",
+            "output": "ground beef pasta mixture"
+        },
+        {
+            "instructions": "place contents of skillet in a 2 quart , baking dish .",
+            "input": "ground beef pasta mixture",
+            "action": "place",
+            "output": "ground beef pasta mixture"
+        },
+        {
+            "instructions": "top with grated cheese .",
+            "input": "(grated dairy-free mozzarella cheese; ground beef pasta mixture)",
+            "action": "top",
+            "output": "ground beef pasta mixture topped with grated dairy-free mozzarella cheese"
+        },
+        {
+            "instructions": "  i put half dairy free on one half and regular mozzarella on the other half .",
+            "input": "NA",
+            "action": "put",
+            "output": "NA"
+        },
+        {
+            "instructions": "sprinkle with parsley .",
+            "input": "(parsley; cheesy ground beef pasta dish)",
+            "action": "sprinkle",
+            "output": "parsley sprinkled on cheesy ground beef pasta dish"
+        },
+        {
+            "instructions": "cover baking dish with aluminum foil",
+            "input": "cheesy ground beef pasta dish",
+            "action": "cover",
+            "output": "covered cheesy ground beef pasta dish"
+        },
+        {
+            "instructions": "bake for 20 minute .",
+            "input": "uncooked cheesy ground beef pasta dish",
+            "action": "bake",
+            "output": "baked cheesy ground beef pasta dish"
+        },
+        {
+            "instructions": "bake for 5 minute .",
+            "input": "baked cheesy ground beef pasta dish",
+            "action": "bake",
+            "output": "baked cheesy ground beef pasta dish"
+        }
+    ],
+    "ingredients": [
+        {
+            "text": "1 lb lean ground beef"
+        },
+        {
+            "text": "34 cup chopped onion"
+        },
+        {
+            "text": "2 garlic cloves"
+        },
+        {
+            "text": "8 ounces gluten free pasta (penne or ziti)"
+        },
+        {
+            "text": "1 12 cups organic spaghetti sauce"
+        },
+        {
+            "text": "1 cup chopped black olives (optional)"
+        },
+        {
+            "text": "14 teaspoon garlic powder"
+        },
+        {
+            "text": "14 teaspoon basil"
+        },
+        {
+            "text": "14 teaspoon oregano"
+        },
+        {
+            "text": "1 12 cups dairy-free mozzarella cheese"
+        }
+    ],
+    "recipe": [
+        {
+            "text": "1."
+        },
+        {
+            "text": "Preheat oven to 350 degrees."
+        },
+        {
+            "text": "2."
+        },
+        {
+            "text": "In large saucepan, cook pasta according to directions on package."
+        },
+        {
+            "text": "3."
+        },
+        {
+            "text": "Meanwhile, cook ground beef in large skillet on high heat, about 4 minute Add onion, garlic and all other spices and cook for about 4 more minute or until meat is thoroughly cooked."
+        },
+        {
+            "text": "Drain fat from skillet."
+        },
+        {
+            "text": "Add spaghetti sauce."
+        },
+        {
+            "text": "4."
+        },
+        {
+            "text": "When pasta is done, drain and add to the skillet."
+        },
+        {
+            "text": "Mix everything in skillet thoroughly."
+        },
+        {
+            "text": "5."
+        },
+        {
+            "text": "Place contents of skillet in a 2 quart baking dish."
+        },
+        {
+            "text": "Top with grated \"cheese.\""
+        },
+        {
+            "text": "(I put half dairy-free on one half and regular mozzarella on the other half)."
+        },
+        {
+            "text": "Sprinkle with parsley."
+        },
+        {
+            "text": "6."
+        },
+        {
+            "text": "Cover baking dish with aluminum foil and bake for 20 minute."
+        },
+        {
+            "text": "7."
+        },
+        {
+            "text": "Uncover and bake for 5 minute."
+        }
+    ]
+}

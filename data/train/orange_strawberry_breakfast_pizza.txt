@@ -1,0 +1,184 @@
+{
+    "title": "orange_strawberry_breakfast_pizza",
+    "id": "d89f36e82f",
+    "table": [
+        {
+            "instructions": "preheat oven to 400f .",
+            "input": "NA",
+            "action": "preheat",
+            "output": "NA"
+        },
+        {
+            "instructions": "make 5 stacks of biscuits , 2 in each stack .",
+            "input": "biscuits",
+            "action": "make",
+            "output": "stacks of biscuits"
+        },
+        {
+            "instructions": "roll out each stack into a 6 inch circle .",
+            "input": "stacks of biscuits",
+            "action": "roll",
+            "output": "rolled out stacks of biscuits"
+        },
+        {
+            "instructions": "place on an ungreased baking sheet",
+            "input": "rolled out stacks of biscuits",
+            "action": "place",
+            "output": "rolled out stacks of biscuits on baking sheet"
+        },
+        {
+            "instructions": "prick all over with a fork .",
+            "input": "rolled out stacks of biscuits on baking sheet",
+            "action": "prick",
+            "output": "pricked rolled out stacks of biscuits on baking sheet"
+        },
+        {
+            "instructions": "bake for 6 8 minutes or until lightly browned .",
+            "input": "pricked rolled out stacks of biscuits on baking sheet",
+            "action": "bake",
+            "output": "Lightly browned biscuit crust"
+        },
+        {
+            "instructions": "remove from oven",
+            "input": "Lightly browned biscuit crust",
+            "action": "remove",
+            "output": "Lightly browned biscuit crust"
+        },
+        {
+            "instructions": "leave on the pan",
+            "input": "Lightly browned biscuit crust",
+            "action": "leave",
+            "output": "Lightly browned biscuit crust"
+        },
+        {
+            "instructions": "cool while preparing topping .",
+            "input": "Lightly browned biscuit crust",
+            "action": "cool",
+            "output": "cooled baked biscuit crust"
+        },
+        {
+            "instructions": "zest the orange",
+            "input": "orange",
+            "action": "zest",
+            "output": "(orange zest; orange without zest)"
+        },
+        {
+            "instructions": "combine zest with cream_cheese and 2 teaspoons of the honey .",
+            "input": "(Orange zest; Cream_cheese; Honey)",
+            "action": "combine",
+            "output": "cream cheese, orange zest and honey mixture"
+        },
+        {
+            "instructions": "In another bowl, juice the orange;",
+            "input": "orange without zest",
+            "action": "juice",
+            "output": "orange juice"
+        },
+        {
+            "instructions": "add the berries and other 2 teaspoons of honey.",
+            "input": "(Berries; Honey; orange juice)",
+            "action": "add",
+            "output": "berries, honey and orange juice mixture"
+        },
+        {
+            "instructions": "toss to combine .",
+            "input": "berries, honey and orange juice mixture",
+            "action": "toss",
+            "output": "tossed berries, honey and orange juice mixture"
+        },
+        {
+            "instructions": "spread cream_cheese on biscuits to within 12 inch of edges .",
+            "input": "(cream cheese, orange zest and honey mixture; cooled baked biscuit crust)",
+            "action": "spread",
+            "output": "cooled baked biscuit crust with cream cheese, orange zest and honey mixture"
+        },
+        {
+            "instructions": "put back in the oven",
+            "input": "cooled baked biscuit crust with cream cheese, orange zest and honey mixture",
+            "action": "put",
+            "output": "cooking cooled baked biscuit crust with cream cheese, orange zest and honey mixture"
+        },
+        {
+            "instructions": "bake until edges of cheese are slightly browned ;",
+            "input": "cooking cooled baked biscuit crust with cream cheese, orange zest and honey mixture",
+            "action": "bake",
+            "output": "baked biscuit crust with cream cheese, orange zest and honey mixture"
+        },
+        {
+            "instructions": "drain the berries",
+            "input": "tossed berries, honey and orange juice mixture",
+            "action": "drain",
+            "output": "Drained berries "
+        },
+        {
+            "instructions": "spoon over the hot pizzas .",
+            "input": "(Drained berries; baked biscuit crust with cream cheese, orange zest and honey mixture)",
+            "action": "spoon",
+            "output": "Drained berries  spooned over orange and cream cheese pizza"
+        },
+        {
+            "instructions": "serve immediately .",
+            "input": "orange and cream cheese pizza with drained berries",
+            "action": "serve",
+            "output": "orange and cream cheese pizza with drained berries ready to serve"
+        }
+    ],
+    "ingredients": [
+        {
+            "text": "1 (10 count) can refrigerated biscuits"
+        },
+        {
+            "text": "1 orange"
+        },
+        {
+            "text": "2 (3 ounce) packages cream cheese, softened"
+        },
+        {
+            "text": "4 teaspoons honey, divided"
+        },
+        {
+            "text": "1 pint strawberry, hulled and halved"
+        }
+    ],
+    "recipe": [
+        {
+            "text": "Preheat oven to 400F."
+        },
+        {
+            "text": "Make 5 stacks of biscuits, 2 in each stack."
+        },
+        {
+            "text": "Roll out each stack into a 6-inch circle."
+        },
+        {
+            "text": "Place on an ungreased baking sheet and prick all over with a fork."
+        },
+        {
+            "text": "Bake for 6-8 minutes or until lightly browned."
+        },
+        {
+            "text": "Remove from oven, leave on the pan and cool while preparing topping."
+        },
+        {
+            "text": "Zest the orange and combine zest with cream cheese and 2 teaspoons of the honey."
+        },
+        {
+            "text": "In another bowl, juice the orange; add the berries and other 2 teaspoons of honey."
+        },
+        {
+            "text": "Toss to combine."
+        },
+        {
+            "text": "Spread cream cheese on biscuits to within 1/2 inch of edges."
+        },
+        {
+            "text": "Put back in the oven and bake until edges of cheese are slightly browned; 3-4 minutes."
+        },
+        {
+            "text": "Drain the berries and spoon over the hot pizzas."
+        },
+        {
+            "text": "Serve immediately."
+        }
+    ]
+}

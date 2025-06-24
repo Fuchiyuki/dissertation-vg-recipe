@@ -1,0 +1,106 @@
+{
+    "title": "potato_and_pear_pizza",
+    "id": "a7570009c0",
+    "table": [
+        {
+            "instructions": "heat oven to 425 degrees f .",
+            "input": "NA",
+            "actions": "heat",
+            "output": "NA"
+        },
+        {
+            "instructions": "roll perfect parmesan , pizza_dough",
+            "input": "parmesan_pizza_dough",
+            "actions": "roll",
+            "output": "rolled_parmesan_pizza_dough"
+        },
+        {
+            "instructions": "transfer to parchment covered baking sheet .",
+            "input": "rolled_parmesan_pizza_dough",
+            "actions": "transfer",
+            "output": "pizza_crust"
+        },
+        {
+            "instructions": "arrange potato slices , then pear slices in thin layer over crust ;",
+            "input": "(potato_slices; pear_slices; pizza_crust)",
+            "actions": "arrange",
+            "output": "potato_slices and pear slices arranged over pizza crust"
+        },
+        {
+            "instructions": "top with cheeses and prosciutto .",
+            "input": "(cheeses; prosciutto; crust with potato and pear slices)",
+            "actions": "top",
+            "output": " crust with potato and pear slices topped with cheeses and prosciutto"
+        },
+        {
+            "instructions": "place on bottom oven rack .",
+            "input": "uncooked potato and pear pizza",
+            "actions": "place",
+            "output": "uncooked potato and pear pizza"
+        },
+        {
+            "instructions": "bake 18 to 20 min .",
+            "input": "uncooked potato and pear pizza",
+            "actions": "bake",
+            "output": "baked potato and pear pizza"
+        },
+        {
+            "instructions": "sprinkle with rosemary .",
+            "input": "(baked potato and pear pizza; rosemary)",
+            "actions": "sprinkle",
+            "output": "baked potato and pear pizza with sprinkled rosemary"
+        }
+    ],
+    "ingredients": [
+        {
+            "text": "1/4 recipe Perfect Parmesan Pizza Dough"
+        },
+        {
+            "text": "1 Yukon gold potato (150 g), peeled, thinly sliced"
+        },
+        {
+            "text": "1 pear, thinly sliced"
+        },
+        {
+            "text": "1-1/2 cups Cracker Barrel Shredded Mozzarella Cheese"
+        },
+        {
+            "text": "2 Tbsp. Kraft 100% Parmesan Aged Grated Cheese"
+        },
+        {
+            "text": "3 slices prosciutto (45 g)"
+        },
+        {
+            "text": "1 Tbsp. chopped fresh rosemary"
+        }
+    ],
+    "recipe": [
+        {
+            "text": "Heat oven to 425 degrees F."
+        },
+        {
+            "text": "Roll Perfect Parmesan Pizza Dough into 12-inch oval on lightly floured surface."
+        },
+        {
+            "text": "Transfer to parchment-covered baking sheet."
+        },
+        {
+            "text": "Let stand 10 min."
+        },
+        {
+            "text": "Arrange potato slices, then pear slices in thin layer over crust; top with cheeses and prosciutto."
+        },
+        {
+            "text": "Place on bottom oven rack."
+        },
+        {
+            "text": "Bake 18 to 20 min."
+        },
+        {
+            "text": "or until edge of crust is golden brown."
+        },
+        {
+            "text": "Sprinkle with rosemary."
+        }
+    ]
+}

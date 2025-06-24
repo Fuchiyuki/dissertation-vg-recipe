@@ -1,0 +1,91 @@
+{
+    "title": "breakfast_mini_pizzas",
+    "id": "eedf5a594e",
+    "table": [
+        {
+            "instructions": "preheat oven or toaster , oven broiler .",
+            "input": "NA",
+            "actions": "preheat",
+            "output": "NA"
+        },
+        {
+            "instructions": "coat a small nonstick skillet with cooking_spray",
+            "input": "NA",
+            "actions": "coat",
+            "output": "NA"
+        },
+        {
+            "instructions": "heat over medium high heat .",
+            "input": "NA",
+            "actions": "heat",
+            "output": "NA"
+        },
+        {
+            "instructions": "add egg",
+            "input": "egg",
+            "actions": "add",
+            "output": "egg"
+        },
+        {
+            "instructions": "cook , stirring often , until set into soft curds , 1 to 2 minutes .",
+            "input": "egg",
+            "actions": "cook",
+            "output": "cooked scrambled egg"
+        },
+        {
+            "instructions": "spread marinara_sauce on english_muffin halves .",
+            "input": "(marinara_sauce; english_muffin halves)",
+            "actions": "spread",
+            "output": "marinara sauce spread over english_muffin halves"
+        },
+        {
+            "instructions": "top with the scrambled egg , cheese and pepperoni if using .",
+            "input": "(marinara sauce spread over english_muffin halves; scrambled egg; cheese; pepperoni)",
+            "actions": "top",
+            "output": "marinara coated english muffins topped with  scrambled egg , cheese and pepperoni"
+        },
+        {
+            "instructions": "broil until the cheese is melted , 1 to 3 minutes .",
+            "input": "uncooked breakfast mini pizzas ",
+            "actions": "broil",
+            "output": "cooked breakfast mini pizzas "
+        }
+    ],
+    "ingredients": [
+        {
+            "text": "1 large egg, beaten"
+        },
+        {
+            "text": "2 tablespoons prepared marinara sauce"
+        },
+        {
+            "text": "1 whole wheat English muffin, split and toasted"
+        },
+        {
+            "text": "2 tablespoons shredded Italian cheese blend"
+        },
+        {
+            "text": "2 slices pepperoni (optional)"
+        }
+    ],
+    "recipe": [
+        {
+            "text": "Preheat oven or toaster oven broiler."
+        },
+        {
+            "text": "Coat a small nonstick skillet with cooking spray and heat over medium-high heat."
+        },
+        {
+            "text": "Add egg and cook, stirring often, until set into soft curds, 1 to 2 minutes."
+        },
+        {
+            "text": "Spread marinara sauce on English muffin halves."
+        },
+        {
+            "text": "Top with the scrambled egg, cheese and pepperoni (if using)."
+        },
+        {
+            "text": "Broil until the cheese is melted, 1 to 3 minutes."
+        }
+    ]
+}

@@ -1,0 +1,217 @@
+{
+    "title": "pizza_pennies",
+    "id": "682f5f2ee2",
+    "table": [
+        {
+            "instructions": "combine warm_water",
+            "input": "warm_water",
+            "action": "combine",
+            "output": "warm_water"
+        },
+        {
+            "instructions": "salt , and sugar in a large mixing bowl .",
+            "input": "(salt; sugar; warm water)",
+            "action": "salt",
+            "output": "salt and sugar dissolved in warm water"
+        },
+        {
+            "instructions": "sprinkle yeast on top .",
+            "input": "(yeast; salt and sugar dissolved in warm water)",
+            "action": "sprinkle",
+            "output": "dissolved yeast mixture"
+        },
+        {
+            "instructions": "stir in flour to make a stiff dough .",
+            "input": "(flour; dissolved yeast mixture)",
+            "action": "stir",
+            "output": "stiff dough"
+        },
+        {
+            "instructions": "knead dough well , until it is completely smooth and elastic , adding more flour if necessary .",
+            "input": "stiff dough",
+            "action": "knead",
+            "output": "kneaded dough"
+        },
+        {
+            "instructions": "place dough in a bowl sprinkled with flour .",
+            "input": "kneaded dough",
+            "action": "place",
+            "output": "kneaded dough"
+        },
+        {
+            "instructions": "dust top of dough with flour .",
+            "input": "(flour; kneaded dough)",
+            "action": "dust",
+            "output": "dough dusted with flour"
+        },
+        {
+            "instructions": "cover bowl with a dish towel .",
+            "input": "dough dusted with flour",
+            "action": "cover",
+            "output": "covered dough"
+        },
+        {
+            "instructions": "punch down dough .",
+            "input": "covered dough",
+            "action": "punch",
+            "output": "punched down dough"
+        },
+        {
+            "instructions": "sprinkle baking sheets with cornmeal .",
+            "input": "NA",
+            "action": "sprinkle",
+            "output": "NA"
+        },
+        {
+            "instructions": "after bread_dough has risen once , roll it out 18 inch thick .",
+            "input": "punched down dough",
+            "action": "roll",
+            "output": "rolled dough"
+        },
+        {
+            "instructions": "using a cookie cutter , cut rounds 1 12 inches in diameter .",
+            "input": "rolled dough",
+            "action": "cut",
+            "output": "shaped dough as cookies"
+        },
+        {
+            "instructions": "place on baking sheets .",
+            "input": "circles of dough",
+            "action": "place",
+            "output": "circles of dough"
+        },
+        {
+            "instructions": "dab or brush each round lightly with olive_oil .",
+            "input": "(olive oil; circles of dough)",
+            "action": "dab",
+            "output": "circles of dough brushed with oil"
+        },
+        {
+            "instructions": "sprinkle with toppings onion , garlic , mozzarella , tomato , pepperoni .",
+            "input": "(onion; garlic; mozzarella; tomato; pepperoni)",
+            "action": "sprinkle",
+            "output": "circles of dough topped with onion , garlic , mozzarella , tomato and pepperoni "
+        },
+        {
+            "instructions": "place in a cold oven .",
+            "input": "uncooked pizza",
+            "action": "place",
+            "output": "uncooked pizza"
+        },
+        {
+            "instructions": "set temperature to 425 degrees f . ;",
+            "input": "NA",
+            "action": "set",
+            "output": "NA"
+        },
+        {
+            "instructions": "bake about 15 minutes or until pennies are puffed and golden .",
+            "input": "uncooked pizza",
+            "action": "bake",
+            "output": "baked pizza"
+        },
+        {
+            "instructions": "serve warm .",
+            "input": "baked pizza",
+            "action": "serve",
+            "output": "baked pizza ready to serve"
+        }
+    ],
+    "ingredients": [
+        {
+            "text": "2 packages (1/4 Oz. Packet) Dry Yeast"
+        },
+        {
+            "text": "1 Tablespoon Kosher Salt"
+        },
+        {
+            "text": "1 Tablespoon Sugar"
+        },
+        {
+            "text": "1- 1/4 cup Warm Water"
+        },
+        {
+            "text": "1/2 cups Corn Meal"
+        },
+        {
+            "text": "4 cups All-purpose Flour"
+        },
+        {
+            "text": "1/4 cups Extra Virgin Olive Oil"
+        },
+        {
+            "text": "1/2 Onion, Chopped"
+        },
+        {
+            "text": "3 cloves Garlic, Minced"
+        },
+        {
+            "text": "1/4 cups Shredded Mozzarella"
+        },
+        {
+            "text": "1 Medium Tomato, Chopped"
+        },
+        {
+            "text": "Pepperoni Or Salami, Thinly Sliced"
+        }
+    ],
+    "recipe": [
+        {
+            "text": "Combine warm water, salt, and sugar in a large mixing bowl."
+        },
+        {
+            "text": "Sprinkle yeast on top."
+        },
+        {
+            "text": "Let stand a few minutes until yeast begins to foam."
+        },
+        {
+            "text": "Stir in flour to make a stiff dough."
+        },
+        {
+            "text": "Knead dough well, until it is completely smooth and elastic, adding more flour if necessary."
+        },
+        {
+            "text": "Place dough in a bowl sprinkled with flour."
+        },
+        {
+            "text": "Dust top of dough with flour."
+        },
+        {
+            "text": "Cover bowl with a dish towel."
+        },
+        {
+            "text": "Let rise in a draft-free place until dough has doubled in bulk, about 40 minutes."
+        },
+        {
+            "text": "Punch down dough."
+        },
+        {
+            "text": "Sprinkle baking sheets with cornmeal."
+        },
+        {
+            "text": "After bread dough has risen once, roll it out 1/8 inch thick."
+        },
+        {
+            "text": "Using a cookie cutter, cut rounds 1 1/2 inches in diameter."
+        },
+        {
+            "text": "Place on baking sheets."
+        },
+        {
+            "text": "Dab or brush each round lightly with olive oil."
+        },
+        {
+            "text": "Sprinkle with toppings (onion, garlic, mozzarella, tomato, pepperoni)."
+        },
+        {
+            "text": "Place in a cold oven."
+        },
+        {
+            "text": "Set temperature to 425 degrees F. Bake about 15 minutes or until pennies are puffed and golden."
+        },
+        {
+            "text": "Serve warm."
+        }
+    ]
+}

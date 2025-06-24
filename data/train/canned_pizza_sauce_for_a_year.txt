@@ -1,0 +1,214 @@
+{
+    "title": "canned_pizza_sauce_for_a_year",
+    "id": "1c0c6b59e2",
+    "table": [
+        {
+            "instructions": "in large stockpot add the first 10 ingredients .",
+            "input": "ingredients",
+            "actions": "add",
+            "output": "added_ingredients"
+        },
+        {
+            "instructions": "stir",
+            "input": "added_ingredients",
+            "actions": "stir",
+            "output": "stirred_ingredients"
+        },
+        {
+            "instructions": "cook on low heat .",
+            "input": "stirred_ingredients",
+            "actions": "cook",
+            "output": "cooked_ingredients"
+        },
+        {
+            "instructions": "chop onions and celery",
+            "input": "onions, celery",
+            "actions": "chop",
+            "output": "chopped_onions, celery"
+        },
+        {
+            "instructions": "add to 3 cups of water in a separate pot .",
+            "input": "chopped_onions, celery",
+            "actions": "add",
+            "output": "added_onions, celery"
+        },
+        {
+            "instructions": "cook until tender .",
+            "input": "added_onions, celery",
+            "actions": "cook",
+            "output": "cooked_onions, celery"
+        },
+        {
+            "instructions": "put the onions and celery in the blender .",
+            "input": "cooked_onions, celery",
+            "actions": "put",
+            "output": "blended_onions, celery"
+        },
+        {
+            "instructions": "add to sauce ; ingredients .",
+            "input": "blended_onions, celery",
+            "actions": "add",
+            "output": "sauce_with_onions, celery"
+        },
+        {
+            "instructions": "add parmesan_cheese , white_pepper and sugar .",
+            "input": "sauce_with_onions, celery",
+            "actions": "add",
+            "output": "sauce_with_cheese, pepper, sugar"
+        },
+        {
+            "instructions": "stir .",
+            "input": "sauce_with_cheese, pepper, sugar",
+            "actions": "stir",
+            "output": "stirred_sauce"
+        },
+        {
+            "instructions": "heat to a boil",
+            "input": "stirred_sauce",
+            "actions": "heat",
+            "output": "boiling_sauce"
+        },
+        {
+            "instructions": "stir so that it will not scorch .",
+            "input": "boiling_sauce",
+            "actions": "stir",
+            "output": "stirred_boiling_sauce"
+        },
+        {
+            "instructions": "pour into hot sterile pint jars , leaving 12 inch , head room in each jar .",
+            "input": "stirred_boiling_sauce",
+            "actions": "pour",
+            "output": "poured_sauce"
+        },
+        {
+            "instructions": "wipe the edge and top of each jar with a hot sterile cloth , seal and band .",
+            "input": "poured_sauce",
+            "actions": "wipe",
+            "output": "wiped_sauce"
+        },
+        {
+            "instructions": "take out with tongs on towel covered counter .",
+            "input": "wiped_sauce",
+            "actions": "take",
+            "output": "taken_sauce"
+        },
+        {
+            "instructions": "add 2 tblsp .",
+            "input": "taken_sauce",
+            "actions": "add",
+            "output": "added_sauce"
+        },
+        {
+            "instructions": "stir in to heat or to spread on",
+            "input": "added_sauce",
+            "actions": "stir",
+            "output": "stirred_sauce"
+        }
+    ],
+    "ingredients": [
+        {
+            "text": "1 gallon tomato paste"
+        },
+        {
+            "text": "7 quarts tomato juice"
+        },
+        {
+            "text": "3 quarts V8 vegetable juice"
+        },
+        {
+            "text": "3 tablespoons chili powder"
+        },
+        {
+            "text": "6 tablespoons salt or 6 tablespoons salt substitute"
+        },
+        {
+            "text": "9 tablespoons dried cilantro"
+        },
+        {
+            "text": "6 tablespoons paprika"
+        },
+        {
+            "text": "6 tablespoons italian seasoning, flakes"
+        },
+        {
+            "text": "3 tablespoons garlic powder"
+        },
+        {
+            "text": "3 tablespoons dry mustard"
+        },
+        {
+            "text": "2 12 cups dry parmesan cheese"
+        },
+        {
+            "text": "10 celery ribs, including leaves"
+        },
+        {
+            "text": "9 white onions"
+        },
+        {
+            "text": "2 tablespoons white pepper"
+        },
+        {
+            "text": "3 cups white sugar"
+        }
+    ],
+    "recipe": [
+        {
+            "text": "In large stockpot add the first 10 ingredients."
+        },
+        {
+            "text": "Stir and cook on low heat."
+        },
+        {
+            "text": "Chop onions and celery, add to 3 cups of water in a separate pot."
+        },
+        {
+            "text": "Cook until tender."
+        },
+        {
+            "text": "Put the onions and celery in the blender."
+        },
+        {
+            "text": "Pulse until pureed."
+        },
+        {
+            "text": "Add to sauce ingredients.Add parmesan cheese,white pepper and sugar."
+        },
+        {
+            "text": "Stir."
+        },
+        {
+            "text": "Heat to a boil and stir so that it will not scorch."
+        },
+        {
+            "text": "Pour into hot sterile pint jars, leaving 1/2 inch head room in each jar."
+        },
+        {
+            "text": "Wipe the edge and top of each jar with a hot sterile cloth, seal and band."
+        },
+        {
+            "text": "Hot water bath for 10 minutes."
+        },
+        {
+            "text": "Take out with tongs on towel covered counter."
+        },
+        {
+            "text": "You will hear a pop when each jar is sealed."
+        },
+        {
+            "text": "The seal will be indented inches."
+        },
+        {
+            "text": "When you open jar to use, add 2 tblsp."
+        },
+        {
+            "text": "olive oil."
+        },
+        {
+            "text": "Stir in to heat or to spread on"
+        },
+        {
+            "text": "dough, chicken or pasta."
+        }
+    ]
+}

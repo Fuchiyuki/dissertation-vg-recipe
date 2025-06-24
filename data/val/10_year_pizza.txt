@@ -1,0 +1,139 @@
+{
+    "title": "10_year_pizza",
+    "id": "33ce6ea389",
+    "table": [
+        {
+            "instructions": "use butter flavored crisco to butter two round 89 , cake pans .",
+            "input": "NA",
+            "action": "use",
+            "output": "NA"
+        },
+        {
+            "instructions": "place dough in pan",
+            "input": "dough",
+            "action": "place",
+            "output": "dough"
+        },
+        {
+            "instructions": "spread out evenly",
+            "input": "dough",
+            "action": "spread",
+            "output": "flatten_dough"
+        },
+        {
+            "instructions": "poke holes with a fork in the dough .",
+            "input": "flatten_dough",
+            "action": "poke",
+            "output": "pierced pizza crust"
+        },
+        {
+            "instructions": "set aside .",
+            "input": "pierced pizza crust",
+            "action": "set",
+            "output": "pierced pizza crust"
+        },
+        {
+            "instructions": "brown ground_beef with onions , garlic_salt and pepper .",
+            "input": "(ground_beef; onions; garlic_salt; pepper)",
+            "action": "brown",
+            "output": "browned ground_beef_mixture"
+        },
+        {
+            "instructions": "Add Sauce to dough, top with 14 cheese",
+            "input": "(pizza dough; sauce; cheese)",
+            "action": "top",
+            "output": "pizza crust topped with sauce and cheese"
+        },
+        {
+            "instructions": "add ground_beef , olives",
+            "input": "(ground_beef_mixture; olives; pizza crust topped with sauce and cheese)",
+            "action": "add",
+            "output": "pizza crust topped with sauce and cheese, ground_beef_mixture and olives"
+        },
+        {
+            "instructions": "top with the final 14 cheese .",
+            "input": "(remaining cheese; pizza crust topped with sauce and cheese, ground_beef_mixture and olives)",
+            "action": "top",
+            "output": "pizza crust topped with sauce and cheese, ground_beef_mixture and olives"
+        },
+        {
+            "instructions": "bake middle oven rack , 450 degrees for 10 minutes .",
+            "input": "assembled pizza ",
+            "action": "bake",
+            "output": "baked pizza crust topped with sauce and cheese, ground_beef_mixture and olives"
+        }
+    ],
+    "ingredients": [
+        {
+            "text": "2 packages betty crocker pizza crust mix"
+        },
+        {
+            "text": "1 cup hot water (Not boiling)"
+        },
+        {
+            "text": "12 lb ground beef (93% or greater)"
+        },
+        {
+            "text": "12 tablespoon minced onion"
+        },
+        {
+            "text": "12 tablespoon garlic (diced)"
+        },
+        {
+            "text": "12 teaspoon salt"
+        },
+        {
+            "text": "12 teaspoon pepper"
+        },
+        {
+            "text": "2 tablespoons Butter Flavor Crisco"
+        },
+        {
+            "text": "34-10 12 ounce pastorelli's pizza sauce"
+        },
+        {
+            "text": "3 cups whole milk cheese"
+        },
+        {
+            "text": "10 -20 hormel pepperoni slices"
+        },
+        {
+            "text": "0.5 (2 1/4 ounce) can black olives"
+        }
+    ],
+    "recipe": [
+        {
+            "text": "2 Hours before dinner - Put Crust Mix and water in a bread maker on \"dough\" setting should take 1.5 hours."
+        },
+        {
+            "text": "If you don't have a bread maker, do as directed on back of package."
+        },
+        {
+            "text": "The bread maker really makes this crust taste amazing."
+        },
+        {
+            "text": "~Wait for dough to be done~."
+        },
+        {
+            "text": "Use Butter Flavored Crisco to butter two round 8\"-9\" cake pans."
+        },
+        {
+            "text": "1 T per pan."
+        },
+        {
+            "text": "Place dough in pan and spread out evenly and poke holes with a fork in the dough."
+        },
+        {
+            "text": "Set aside."
+        },
+        {
+            "text": "Brown Ground Beef with Onions, Garlic, Salt and Pepper."
+        },
+        {
+            "text": "Do the following to each pan: Add Sauce to dough, Top with 1/4 cheese, Add Ground Beef, Olives, Top this with 1/2 cheese, Next add Pepperoni and top with the final 1/4 cheese."
+        },
+        {
+            "text": "Bake middle oven rack, 450 degrees for 10 minutes."
+        }
+    ]
+}

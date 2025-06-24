@@ -1,0 +1,181 @@
+{
+    "title": "easy_dessert_pizza",
+    "id": "fb19a42639",
+    "table": [
+        {
+            "instructions": "heat oven to 37",
+            "input": "NA",
+            "actions": "heat",
+            "output": "NA"
+        },
+        {
+            "instructions": "separate dough into 8 triangles .",
+            "input": "dough",
+            "actions": "separate",
+            "output": "separated_dough"
+        },
+        {
+            "instructions": "place in ungreased ; 12 inch , pizza or 13x9 inch pan ;",
+            "input": "separated_dough",
+            "actions": "place",
+            "output": "separated_dough"
+        },
+        {
+            "instructions": "press over bottom and 14 inch up sides to form crust .",
+            "input": "separated_dough",
+            "actions": "press",
+            "output": "crust"
+        },
+        {
+            "instructions": "in small bowl , combine butter and almond_extract .",
+            "input": "(butter; almond_extract)",
+            "actions": "combine",
+            "output": "butter and almond_extract mixture"
+        },
+        {
+            "instructions": "brush crust with butter mixture ;",
+            "input": "(butter and almond_extract mixture; crust)",
+            "actions": "brush",
+            "output": "crust brushed with butter mixture"
+        },
+        {
+            "instructions": "sprinkle with sugar .",
+            "input": "(buttered crust; sugar)",
+            "actions": "sprinkle",
+            "output": "sugar sprinkled on buttered crust"
+        },
+        {
+            "instructions": "bake for 11 13 minutes or until golden brown .",
+            "input": "uncooked butter crust",
+            "actions": "bake",
+            "output": "baked crust"
+        },
+        {
+            "instructions": "in medium bowl , combine pudding mix and milk ;",
+            "input": "(pudding mix; milk)",
+            "actions": "combine",
+            "output": "pudding mix and milk mixture"
+        },
+        {
+            "instructions": "beat at low speed 1 minute .",
+            "input": "pudding mix and milk mixture",
+            "actions": "beat",
+            "output": "beaten pudding"
+        },
+        {
+            "instructions": "stir in orange_peel .",
+            "input": "(pudding; orange_peel)",
+            "actions": "stir",
+            "output": "orange peel stirred in pudding"
+        },
+        {
+            "instructions": "refrigerate 10 minutes or until set ;",
+            "input": "pudding",
+            "actions": "refrigerate",
+            "output": "refrigerated pudding"
+        },
+        {
+            "instructions": "fold in whipped_cream .",
+            "input": "(pudding; whipped_cream)",
+            "actions": "fold",
+            "output": "whipped_cream folded in pudding "
+        },
+        {
+            "instructions": "spoon pudding over crust",
+            "input": "(whipped_cream folded in pudding ; crust)",
+            "actions": "spoon",
+            "output": "pudding spooned on crust"
+        },
+        {
+            "instructions": "arrange fruit on top .",
+            "input": "(fruit; filled crust with pudding)",
+            "actions": "arrange",
+            "output": "fruit arranged over crust filled with pudding"
+        },
+        {
+            "instructions": "refrigerate 1 hour before serving ;",
+            "input": "dessert pizza",
+            "actions": "refrigerate",
+            "output": "refrigerated dessert pizza"
+        },
+        {
+            "instructions": "cut into wedges to serve .",
+            "input": "refrigerated dessert pizza",
+            "actions": "cut",
+            "output": "cut refrigerated dessert pizza"
+        }
+    ],
+    "ingredients": [
+        {
+            "text": "1 (8 ounce) can refrigerated crescent dinner rolls"
+        },
+        {
+            "text": "1 tablespoon butter, melted"
+        },
+        {
+            "text": "12 teaspoon almond extract"
+        },
+        {
+            "text": "4 teaspoons sugar"
+        },
+        {
+            "text": "1 (3 1/2 ounce) vanilla instant pudding mix"
+        },
+        {
+            "text": "1 12 cups milk"
+        },
+        {
+            "text": "1 teaspoon orange zest"
+        },
+        {
+            "text": "12 cup whipped cream or 12 cup non-dairy whipped topping"
+        },
+        {
+            "text": "2 -2 12 cups fresh fruit, cut as desired"
+        }
+    ],
+    "recipe": [
+        {
+            "text": "Heat oven to 375F"
+        },
+        {
+            "text": "Separate dough into 8 triangles."
+        },
+        {
+            "text": "Place in ungreased; 12-inch pizza or 13x9-inch pan; press over bottom and 1/4 inch up sides to form crust."
+        },
+        {
+            "text": "In small bowl, combine butter and almond extract."
+        },
+        {
+            "text": "Brush crust with butter mixture; sprinkle with sugar."
+        },
+        {
+            "text": "Bake for 11-13 minutes or until golden brown."
+        },
+        {
+            "text": "Cool completely."
+        },
+        {
+            "text": "In medium bowl, combine pudding mix and milk; beat at low speed 1 minute."
+        },
+        {
+            "text": "Stir in orange peel."
+        },
+        {
+            "text": "Refrigerate 10 minutes or until set; fold in whipped cream."
+        },
+        {
+            "text": "Spoon pudding over crust and arrange fruit on top."
+        },
+        {
+            "text": "(Strawberries, blueberries, oranges, raspberries, kiwifruit, etc)"
+        },
+        {
+            "text": "Refrigerate 1 hour before serving; cut into wedges to serve."
+        },
+        {
+            "text": "Refrigerate leftovers."
+        }
+    ]
+}

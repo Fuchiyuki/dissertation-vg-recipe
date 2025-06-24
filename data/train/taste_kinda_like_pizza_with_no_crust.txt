@@ -1,0 +1,157 @@
+{
+    "title": "taste_kinda_like_pizza_with_no_crust",
+    "id": "096001e20d",
+    "table": [
+        {
+            "instructions": "chop the pork and pepperoni .",
+            "input": "(pork; pepperoni)",
+            "actions": "chop",
+            "output": "chopped pork and pepperoni"
+        },
+        {
+            "instructions": "heat oil",
+            "input": "oil",
+            "actions": "heat",
+            "output": "heated oil"
+        },
+        {
+            "instructions": "add them to oil ;",
+            "input": "(chopped pork and pepperoni; heated oil)",
+            "actions": "add",
+            "output": "chopped pork and pepperoni added to heated oil"
+        },
+        {
+            "instructions": "fry crispy .",
+            "input": "chopped pork and pepperoni added to heated oil",
+            "actions": "fry",
+            "output": "fried chopped pork and pepperoni"
+        },
+        {
+            "instructions": "peel",
+            "input": "eggplant",
+            "actions": "peel",
+            "output": "peeeled eggplant"
+        },
+        {
+            "instructions": "dice eggplant .",
+            "input": "peeeled eggplant",
+            "actions": "dice",
+            "output": "diced peeeled eggplant"
+        },
+        {
+            "instructions": "add to pan ;",
+            "input": "(fried chopped pork and pepperoni; diced peeeled eggplant)",
+            "actions": "add",
+            "output": "diced peeeled eggplant added to chopped pork and pepperoni"
+        },
+        {
+            "instructions": "saute 7 minutes ,",
+            "input": "diced peeeled eggplant added to chopped pork and pepperoni",
+            "actions": "saute",
+            "output": "sauteed eggplant and meat mixture"
+        },
+        {
+            "instructions": "add olive juices",
+            "input": "(sauteed eggplant and meat mixture; olive_juices)",
+            "actions": "add",
+            "output": "olive_juices added to sauteed eggplant and meat mixture"
+        },
+        {
+            "instructions": "add salt , pepper , and garlic .",
+            "input": "(salt; pepper; garlic; sauteed eggplant and meat mixture)",
+            "actions": "add",
+            "output": "seasoned sauteed eggplant and meat mixture"
+        },
+        {
+            "instructions": "mix well add onions , olives , and then tomatoes .",
+            "input": "(onions; olives; tomatoes; seasoned sauteed eggplant and meat mixture)",
+            "actions": "mix",
+            "output": "onions, olives and tomatoes added to seasoned sauteed eggplant and meat mixture"
+        },
+        {
+            "instructions": "add cheese on top cover",
+            "input": "(cheese; eggplant, olives tomatoes and meat mixture)",
+            "actions": "add",
+            "output": "cheese covering mixture"
+        },
+        {
+            "instructions": "remove from heat .",
+            "input": "casserole pizza",
+            "actions": "remove",
+            "output": "casserole pizza"
+        },
+        {
+            "instructions": "serve",
+            "input": "casserole pizza",
+            "actions": "serve",
+            "output": "casserole pizza"
+        }
+    ],
+    "ingredients": [
+        {
+            "text": "1 medium eggplant, aubergine"
+        },
+        {
+            "text": "1/4 lb pepperoni chopped"
+        },
+        {
+            "text": "1/4 lb pork trimmings"
+        },
+        {
+            "text": "14 1/4 oz diced tomatoes"
+        },
+        {
+            "text": "1/2 cup black ripened olives"
+        },
+        {
+            "text": "1/2 cup olive juice from can"
+        },
+        {
+            "text": "1/3 cup dehydrated onions"
+        },
+        {
+            "text": "1 1/4 cup colby and monterrey jack cheese shredded"
+        },
+        {
+            "text": "2 tbsp vegetable oil"
+        },
+        {
+            "text": "1/2 tsp salt"
+        },
+        {
+            "text": "1/2 tsp granulated garlic powder"
+        }
+    ],
+    "recipe": [
+        {
+            "text": "Chop the pork and pepperoni."
+        },
+        {
+            "text": "Heat oil add them to oil fry crispy."
+        },
+        {
+            "text": "Peel and dice eggplant."
+        },
+        {
+            "text": "Add to pan saute 7 minutes, then add olive juices"
+        },
+        {
+            "text": "Add salt, pepper, and garlic."
+        },
+        {
+            "text": "Mix well add onions, olives, and then tomatoes."
+        },
+        {
+            "text": "Let simmer stirring occasionally till eggplant is done."
+        },
+        {
+            "text": "Add cheese on top cover and remove from heat."
+        },
+        {
+            "text": "Let sit covered 5 minutes."
+        },
+        {
+            "text": "Serve, hope you enjoy!"
+        }
+    ]
+}

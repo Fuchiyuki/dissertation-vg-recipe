@@ -1,0 +1,88 @@
+{
+    "title": "roasted_red_pepper_pizza_sauce",
+    "id": "2318d49e63",
+    "table": [
+        {
+            "instructions": "mix all sauce ingredients in a food processecor .",
+            "input": "ingredients",
+            "actions": "mix",
+            "output": "mixed_ingredients"
+        },
+        {
+            "instructions": "i use my tupperware , quick chef .",
+            "input": "NA",
+            "actions": "use",
+            "output": "NA"
+        },
+        {
+            "instructions": "to use",
+            "input": "NA",
+            "actions": "use",
+            "output": "NA"
+        },
+        {
+            "instructions": "spread sauce mixture over grilled pizza_dough .",
+            "input": "(sauce_mixture; grilled_pizza_dough)",
+            "actions": "spread",
+            "output": "grilled_pizza_dough_with_spread_sauce_mixture"
+        },
+        {
+            "instructions": "use toppings of choice on pizza .",
+            "input": "(toppings; pizza)",
+            "actions": "use",
+            "output": "pizza_with_toppings"
+        },
+        {
+            "instructions": "put pizza back on the grill to melt cheese , about 5 minutes in a 450 degree grill .",
+            "input": "uncooked_pizza",
+            "actions": "put",
+            "output": "cooked_pizza"
+        }
+    ],
+    "ingredients": [
+        {
+            "text": "6 ounces, weight Tomato Paste"
+        },
+        {
+            "text": "6 ounces, weight Jar Of Roasted Red Peppers"
+        },
+        {
+            "text": "1 clove Garlic"
+        },
+        {
+            "text": "1/2 whole White Onion"
+        },
+        {
+            "text": "1 teaspoon Fresh Ground Pepper"
+        },
+        {
+            "text": "1 dash Salt"
+        },
+        {
+            "text": "1 teaspoon Basil"
+        },
+        {
+            "text": "1 teaspoon Oregano"
+        }
+    ],
+    "recipe": [
+        {
+            "text": "Mix all sauce ingredients in a food processecor."
+        },
+        {
+            "text": "I use my Tupperware Quick Chef."
+        },
+        {
+            "text": "To use, spread sauce mixture over grilled pizza dough."
+        },
+        {
+            "text": "Use toppings of choice on pizza."
+        },
+        {
+            "text": "We used slices of fresh mozzerella and grilled chicken."
+        },
+        {
+            "text": "Put pizza back on the grill to melt cheese, about 5 minutes in a 450-degree grill."
+        }
+    ]
+}

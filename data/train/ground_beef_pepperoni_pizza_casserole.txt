@@ -1,0 +1,235 @@
+{
+    "title": "ground_beef_pepperoni_pizza_casserole",
+    "id": "28946b24f9",
+    "table": [
+        {
+            "instructions": "set oven to 400 degrees .",
+            "input": "NA",
+            "actions": "set",
+            "output": "NA"
+        },
+        {
+            "instructions": "grease a 13 x 9 inch , baking dish .",
+            "input": "NA",
+            "actions": "grease",
+            "output": "NA"
+        },
+        {
+            "instructions": "in a large skillet cook ground_beef with onion , garlic and green_pepper until meat is no longer pink ;",
+            "input": "(ground_beef; garlic; green_pepper; onion)",
+            "actions": "cook",
+            "output": "cooked_ground_beef_mixture"
+        },
+        {
+            "instructions": "drain fat .",
+            "input": "cooked_ground_beef_mixture",
+            "actions": "drain",
+            "output": "drained ground beef mixture"
+        },
+        {
+            "instructions": "add in 3 tablespoons or more grated_parmesan_cheese ;",
+            "input": "(grated_parmesan_cheese; drained ground beef mixture)",
+            "actions": "add",
+            "output": "grated_parmesan_cheese added to drained ground beef mixture"
+        },
+        {
+            "instructions": "stir to combine .",
+            "input": "grated_parmesan_cheese added to drained ground beef mixture",
+            "actions": "stir",
+            "output": "ground beef and cheese mixture"
+        },
+        {
+            "instructions": "add in pizza_sauce , chopped pepperoni , herb_seasoning and mushrooms ;",
+            "input": "(ground beef and cheese mixture; pizza_sauce; chopped_pepperoni; herb_seasoning; mushrooms)",
+            "actions": "add",
+            "output": "pizza_sauce , chopped pepperoni , herb_seasoning and mushrooms added to ground beef and cheese mixture"
+        },
+        {
+            "instructions": "mix to combine",
+            "input": "pizza_sauce , chopped pepperoni , herb_seasoning and mushrooms added to ground beef and cheese mixture",
+            "actions": "mix",
+            "output": "ground beef sauce"
+        },
+        {
+            "instructions": "meanwhile in another bowl combine milk , oil and eggs ;",
+            "input": "(milk; oil; eggs)",
+            "actions": "combine",
+            "output": "egg mixture"
+        },
+        {
+            "instructions": "beat for 2 minutes with an electric mixer .",
+            "input": "egg mixture",
+            "actions": "beat",
+            "output": "beaten egg mixture"
+        },
+        {
+            "instructions": "stir in flour , salt and cayenne",
+            "input": "(beaten egg mixture: flour; salt; cayenne)",
+            "actions": "stir",
+            "output": "stirred batter"
+        },
+        {
+            "instructions": "mix to combine ;",
+            "input": "stirred batter",
+            "actions": "mix",
+            "output": "batter"
+        },
+        {
+            "instructions": "set aside .",
+            "input": "batter",
+            "actions": "set",
+            "output": "batter"
+        },
+        {
+            "instructions": "spoon the ground_beef mixture into the prepared baking dish .",
+            "input": "ground_beef mixture",
+            "actions": "spoon",
+            "output": "spooned ground_beef mixture"
+        },
+        {
+            "instructions": "sprinkle grated mozzeralla , cheese on top .",
+            "input": "(spooned ground_beef mixture; grated_mozzarella)",
+            "actions": "sprinkle",
+            "output": "grated_mozzarella sprinkled on spooned ground_beef mixture"
+        },
+        {
+            "instructions": "sprinkle with chopped_bacon .",
+            "input": "(grated_mozzarella sprinkled on spooned ground_beef mixture; chopped_bacon)",
+            "actions": "sprinkle",
+            "output": "chopped_bacon sprinkled over ground_beef mixture"
+        },
+        {
+            "instructions": "pour the batter over cheese , spreading evenly to cover completely .",
+            "input": "(batter; ground_beef_and cheese_dish)",
+            "actions": "pour",
+            "output": "batter poured over ground_beef_and cheese_dish"
+        },
+        {
+            "instructions": "sprinkle with 12 cup , parmesan_cheese .",
+            "input": "(parmesan_cheese; uncooked ground beef casserole)",
+            "actions": "sprinkle",
+            "output": "parmesan cheese sprinkled over uncooked ground beef casserole"
+        },
+        {
+            "instructions": "refrigerate until ready to bake .",
+            "input": "uncooked ground_beef_pepperoni_pizza_casserole",
+            "actions": "refrigerate",
+            "output": "refrigerated ground_beef_pepperoni_pizza_casserole"
+        },
+        {
+            "instructions": "bake for 20 25 minutes , or until golden brown .",
+            "input": "ground_beef_pepperoni_pizza_casserole",
+            "actions": "bake",
+            "output": "baked ground_beef_pepperoni_pizza_casserole"
+        }
+    ],
+    "ingredients": [
+        {
+            "text": "1 lb ground beef"
+        },
+        {
+            "text": "2 tablespoons chopped garlic"
+        },
+        {
+            "text": "1 large onion, chopped"
+        },
+        {
+            "text": "1 green bell pepper, chopped"
+        },
+        {
+            "text": "3 tablespoons parmesan cheese"
+        },
+        {
+            "text": "seasoning salt (can use table salt)"
+        },
+        {
+            "text": "pepper"
+        },
+        {
+            "text": "2 cups favorite pizza sauce"
+        },
+        {
+            "text": "14 lb pepperoni, chopped (can use more)"
+        },
+        {
+            "text": "12-1 teaspoon Italian herb seasoning"
+        },
+        {
+            "text": "1 cup canned mushroom, drained"
+        },
+        {
+            "text": "1 cup milk"
+        },
+        {
+            "text": "1 tablespoon oil"
+        },
+        {
+            "text": "2 eggs"
+        },
+        {
+            "text": "1 cup flour"
+        },
+        {
+            "text": "14 teaspoon salt"
+        },
+        {
+            "text": "1 pinch cayenne pepper"
+        },
+        {
+            "text": "3 cups grated mozzarella cheese"
+        },
+        {
+            "text": "12 cup grated parmesan cheese"
+        },
+        {
+            "text": "8 slices cooked bacon, chopped"
+        }
+    ],
+    "recipe": [
+        {
+            "text": "Set oven to 400 degrees."
+        },
+        {
+            "text": "Grease a 13 x 9-inch baking dish."
+        },
+        {
+            "text": "In a large skillet cook ground beef with onion, garlic and green pepper until meat is no longer pink; drain fat."
+        },
+        {
+            "text": "Add in 3 tablespoons (or more) grated Parmesan cheese; stir to combine."
+        },
+        {
+            "text": "Add in pizza sauce, chopped pepperoni, herb seasoning and mushrooms; mix to combine and bring to a simmer for 15 minutes, stirring occasionally."
+        },
+        {
+            "text": "Meanwhile in another bowl combine milk, oil and eggs; beat for 2 minutes with an electric mixer."
+        },
+        {
+            "text": "Stir in flour, salt and cayenne; mix to combine; set aside."
+        },
+        {
+            "text": "Spoon the ground beef mixture into the prepared baking dish."
+        },
+        {
+            "text": "Sprinkle grated mozzeralla cheese on top."
+        },
+        {
+            "text": "Sprinkle with chopped bacon."
+        },
+        {
+            "text": "Pour the batter over cheese, spreading evenly to cover completely."
+        },
+        {
+            "text": "Sprinkle with 1/2 cup Parmesan cheese."
+        },
+        {
+            "text": "Up to this point you can cover and refrigerate until ready to bake."
+        },
+        {
+            "text": "Bake for 20-25 minutes, or until golden brown."
+        },
+        {
+            "text": "Delicious!"
+        }
+    ]
+}

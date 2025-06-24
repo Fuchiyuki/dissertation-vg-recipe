@@ -1,0 +1,160 @@
+{
+    "title": "3_c_'s_and_a_p_pizza",
+    "id": "a38a305a1b",
+    "table": [
+        {
+            "instructions": "preheat oven to 400 degrees .",
+            "input": "NA",
+            "action": "preheat",
+            "output": "NA"
+        },
+        {
+            "instructions": "press pizza_dough into 15x10 inch rimmed baking pan .",
+            "input": "pizza_dough",
+            "action": "press",
+            "output": "pressed_pizza_dough"
+        },
+        {
+            "instructions": "when is oven is ready , cook pizza_dough for 5 minutes .",
+            "input": "pizza dough",
+            "action": "cook",
+            "output": "pizza crust"
+        },
+        {
+            "instructions": "meanwhile , lay proscuitto on a foil lined baking sheet",
+            "input": "prosciutto",
+            "action": "lay",
+            "output": "prosciutto"
+        },
+        {
+            "instructions": "put on lower rack in 400 degree oven .",
+            "input": "prosciutto",
+            "action": "put",
+            "output": "prosciutto"
+        },
+        {
+            "instructions": "leave in oven for 5 7 minutes , until crispy .",
+            "input": "prosciutto",
+            "action": "leave",
+            "output": "baked prosciutto"
+        },
+        {
+            "instructions": "when done , remove from oven",
+            "input": "baked prosciutto",
+            "action": "remove",
+            "output": "baked prosciutto"
+        },
+        {
+            "instructions": "chop or crumble .",
+            "input": "baked prosciutto",
+            "action": "chop",
+            "output": "prosciutto crumbles"
+        },
+        {
+            "instructions": "combine alfredo and pizza_sauce",
+            "input": "(alfredo; pizza sauce)",
+            "action": "combine",
+            "output": "alfredo and pizza sauce mix"
+        },
+        {
+            "instructions": "spread evenly over pizza_crust to the edges .",
+            "input": "(alfredo and pizza sauce mix; pizza crust)",
+            "action": "spread",
+            "output": "alfredo and pizza sauce mix spread on pizza crust"
+        },
+        {
+            "instructions": "spread over sauce .",
+            "input": "(cheese; pizza crust with alfredo and pizza sauce mix)",
+            "action": "spread",
+            "output": "cheese on pizza crust with alfredo and pizza sauce mix"
+        },
+        {
+            "instructions": "spread proscuitto over pizza , then diced pepper .",
+            "input": "(prosciutto crumbles; diced pepper; pizza crust with alfredo and pizza sauce mix and cheese)",
+            "action": "spread",
+            "output": "prosciutto crumbles and diced pepper spread on pizza crust with alfredo and pizza sauce mix and cheese"
+        },
+        {
+            "instructions": "put back in oven",
+            "input": "assembled alfredo tomato prosciutto pizza",
+            "action": "put",
+            "output": "uncooked assembled alfredo tomato prosciutto pizza"
+        },
+        {
+            "instructions": "cook for 10 15 minutes until browned and bubbly .",
+            "input": "uncooked alfredo tomato prosciutto pizza",
+            "action": "cook",
+            "output": "baked alfredo tomato prosciutto pizza"
+        }
+    ],
+    "ingredients": [
+        {
+            "text": "1 (11 ounce) packagepillsbury thin-crust refrigerated pizza dough"
+        },
+        {
+            "text": "3 slices prosciutto"
+        },
+        {
+            "text": "12 large roasted red pepper, diced"
+        },
+        {
+            "text": "12 cup alfredo sauce"
+        },
+        {
+            "text": "12 cup pizza sauce"
+        },
+        {
+            "text": "14 cup fresh basil"
+        },
+        {
+            "text": "12 cup shredded mozzarella cheese"
+        },
+        {
+            "text": "12 cup shredded provolone cheese"
+        },
+        {
+            "text": "12 cup shredded gouda cheese"
+        }
+    ],
+    "recipe": [
+        {
+            "text": "Preheat oven to 400 degrees."
+        },
+        {
+            "text": "Press pizza dough into 15x10 inch rimmed baking pan."
+        },
+        {
+            "text": "When is oven is ready, cook pizza dough for 5 minutes."
+        },
+        {
+            "text": "When done, let rest for 2 minutes or so."
+        },
+        {
+            "text": "Meanwhile, lay proscuitto on a foil-lined baking sheet and put on lower rack in 400 degree oven."
+        },
+        {
+            "text": "Leave in oven for 5-7 minutes, until crispy."
+        },
+        {
+            "text": "When done, remove from oven and chop or crumble."
+        },
+        {
+            "text": "Combine alfredo and pizza sauces and spread evenly over pizza crust to the edges."
+        },
+        {
+            "text": "Chiffonade the basil and spread over sauce."
+        },
+        {
+            "text": "Spread proscuitto over pizza, then diced pepper."
+        },
+        {
+            "text": "Evenly distribute shredded cheeses over all."
+        },
+        {
+            "text": "Put back in oven and cook for 10-15 minutes until browned and bubbly."
+        },
+        {
+            "text": "Let rest for a couple of minutes before slicing into 8 slices."
+        }
+    ]
+}

@@ -1,0 +1,172 @@
+{
+    "title": "meatball_pizza",
+    "id": "dcb5f25779",
+    "table": [
+        {
+            "instructions": "preheat oven to 425 f .",
+            "input": "NA",
+            "actions": "preheat",
+            "output": "NA"
+        },
+        {
+            "instructions": "place dough onto a lightly floured surface .",
+            "input": "dough",
+            "actions": "place",
+            "output": "dough"
+        },
+        {
+            "instructions": "if using a round pizza\u2012pan or stone , roll out dough to a slightly larger diameter than your pan size .",
+            "input": "dough",
+            "actions": "roll",
+            "output": "rolled dough"
+        },
+        {
+            "instructions": "lightly coat the pan with a drizzle of oil or non_stick_spray",
+            "input": "NA",
+            "actions": "coat",
+            "output": "NA"
+        },
+        {
+            "instructions": "spread the oil over the pans surface evenly .",
+            "input": "NA",
+            "actions": "spread",
+            "output": "NA"
+        },
+        {
+            "instructions": "sprinkle the pan with the cornmeal",
+            "input": "NA",
+            "actions": "sprinkle",
+            "output": "NA"
+        },
+        {
+            "instructions": "rotate the pan around",
+            "input": "NA",
+            "actions": "rotate",
+            "output": "NA"
+        },
+        {
+            "instructions": "place",
+            "input": "NA",
+            "actions": "place",
+            "output": "NA"
+        },
+        {
+            "instructions": "stretch the dough onto your pan , pinching the crust around the edges .",
+            "input": "dough",
+            "actions": "stretch",
+            "output": "stretched dough with pinched edges"
+        },
+        {
+            "instructions": "gently poke some holes into the dough with a fork to prevent large air bubbles from forming .",
+            "input": "pizza crust",
+            "actions": "poke",
+            "output": "poked pizza crust"
+        },
+        {
+            "instructions": "top dough with sauce",
+            "input": "(poked pizza crust; sauce)",
+            "actions": "top",
+            "output": "pizza crust with sauce"
+        },
+        {
+            "instructions": "spread almost to the edges .",
+            "input": "pizza crust with sauce",
+            "actions": "spread",
+            "output": "pizza crust with spread sauce"
+        },
+        {
+            "instructions": "place thawed meatballs across the top of the pizza .",
+            "input": "(pizza crust with spread sauce; thawed meatballs)",
+            "actions": "place",
+            "output": "sauced pizza crust topped with thawed meatballs"
+        },
+        {
+            "instructions": "top with cheese and any other toppings you desire .",
+            "input": "(sauced pizza crust topped with thawed meatballs; toppings; cheese)",
+            "actions": "top",
+            "output": "sauced pizza crust topped with thawed meatballs topped with cheese and toppings"
+        },
+        {
+            "instructions": "bake at 425 f for about 15 20 minutes .",
+            "input": "unbaked meatball pizza",
+            "actions": "bake",
+            "output": "baked meatball pizza"
+        },
+        {
+            "instructions": "watch for golden brown crust and for the cheese to be thoroughly melted .",
+            "input": "baked meatball pizza",
+            "actions": "watch",
+            "output": "baked meatball pizza"
+        }
+    ],
+    "ingredients": [
+        {
+            "text": "1 package Pre-Made Pizza Dough, 16 Ounce Package"
+        },
+        {
+            "text": "1 Tablespoon Olive Oil"
+        },
+        {
+            "text": "1 Tablespoon Cornmeal"
+        },
+        {
+            "text": "13 cups Pizza Or Spaghetti Sauce"
+        },
+        {
+            "text": "14 ounces, weight Frozen Meatballs. Thawed"
+        },
+        {
+            "text": "2 cups Shredded Pizza Cheese (provolone/mozzarella)"
+        },
+        {
+            "text": "1/4 cups Grated Parmesan"
+        }
+    ],
+    "recipe": [
+        {
+            "text": "Preheat oven to 425 F."
+        },
+        {
+            "text": "Place dough onto a lightly floured surface."
+        },
+        {
+            "text": "If using a round pizza pan or stone, roll out dough to a slightly larger diameter than your pan size."
+        },
+        {
+            "text": "I used an 11 x 17 rectangle pan here for a thinner crust."
+        },
+        {
+            "text": "You can do the same."
+        },
+        {
+            "text": "Lightly coat the pan with a drizzle of oil or non-stick spray and spread the oil over the pans surface evenly."
+        },
+        {
+            "text": "Sprinkle the pan with the cornmeal and rotate the pan around so it coats the bottom."
+        },
+        {
+            "text": "Place and stretch the dough onto your pan, pinching the crust around the edges."
+        },
+        {
+            "text": "Gently poke some holes into the dough with a fork to prevent large air bubbles from forming."
+        },
+        {
+            "text": "Top dough with sauce and spread almost to the edges."
+        },
+        {
+            "text": "Place thawed meatballs across the top of the pizza."
+        },
+        {
+            "text": "Top with cheese and any other toppings you desire."
+        },
+        {
+            "text": "Bake at 425 F for about 15-20 minutes."
+        },
+        {
+            "text": "Cook time really can vary based on your oven and what you are baking the pizza on."
+        },
+        {
+            "text": "Watch for golden brown crust and for the cheese to be thoroughly melted."
+        }
+    ]
+}

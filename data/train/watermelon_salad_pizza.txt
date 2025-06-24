@@ -1,0 +1,100 @@
+{
+    "title": "watermelon_salad_pizza",
+    "id": "7f5e3e0800",
+    "table": [
+        {
+            "instructions": "for the dressing in a small saucepan , whisk together the balsamic_vinegar and sugar .",
+            "input": "(balsamic_vinegar; sugar)",
+            "action": "whisk",
+            "output": "whisked_balsamic_vinegar and sugar mixture"
+        },
+        {
+            "instructions": "cook over medium high heat until reduced by half and syrupy .",
+            "input": "whisked_balsamic_vinegar and sugar mixture",
+            "action": "cook",
+            "output": "cooked balsamic vinegar dressing"
+        },
+        {
+            "instructions": "set aside .",
+            "input": "cooked balsamic vinegar dressing",
+            "action": "set",
+            "output": "cooled balsamic vinegar dressing"
+        },
+        {
+            "instructions": "Slice a 34inch-thick disc of watermelon from the middle of the fruit",
+            "input": "Watermelon",
+            "action": "slice",
+            "output": "sliced watermelon disk"
+        },
+        {
+            "instructions": "remove the rind.",
+            "input": "sliced watermelon disk",
+            "action": "remove",
+            "output": "sliced watermelon disk without rind"
+        },
+        {
+            "instructions": "cut the disc into 6 slices wedges ,",
+            "input": "sliced watermelon disk without rind",
+            "action": "cut",
+            "output": "sliced watermelon disk without rind cut in wedges"
+        },
+        {
+            "instructions": "sprinkle the arugula , feta , red onions and cherry_tomato evenly over the watermelon wedges .",
+            "input": "(Arugula; feta; red onions; cherry_tomato; sliced watermelon disk without rind cut in wedges)",
+            "action": "sprinkle",
+            "output": "sliced watermelon disk without rind cut in wedges topped with arugula, feta, red onion, and cherry_tomato"
+        },
+        {
+            "instructions": "drizzle the dressing on top .",
+            "input": "(cooled balsamic vinegar dressing; sliced watermelon disk without rind cut in wedges topped with arugula, feta, red onion, and cherry_tomato)",
+            "action": "drizzle",
+            "output": "sliced watermelon disk without rind cut in wedges topped with arugula, feta, red onion, and cherry_tomato drizzled with the cooled balsamic vinegar dressing"
+        }
+    ],
+    "ingredients": [
+        {
+            "text": "1/4 cup balsamic vinegar"
+        },
+        {
+            "text": "1 tablespoon sugar"
+        },
+        {
+            "text": "1 large seedless watermelon"
+        },
+        {
+            "text": "1/2 cup packed arugula"
+        },
+        {
+            "text": "1/4 cup crumbled feta"
+        },
+        {
+            "text": "1/4 cup thinly sliced red onions"
+        },
+        {
+            "text": "1/4 cup cherry tomatoes, halved"
+        }
+    ],
+    "recipe": [
+        {
+            "text": "For the dressing: In a small saucepan, whisk together the balsamic vinegar and sugar."
+        },
+        {
+            "text": "Cook over medium-high heat until reduced by half and syrupy."
+        },
+        {
+            "text": "Set aside."
+        },
+        {
+            "text": "For the pizza: Slice a 3/4-inch-thick disc of watermelon from the middle of the fruit and remove the rind."
+        },
+        {
+            "text": "Cut the disc into 6 slices (wedges), and then assemble the wedges back into a circular shape."
+        },
+        {
+            "text": "Sprinkle the arugula, feta, red onions and cherry tomatoes evenly over the watermelon wedges."
+        },
+        {
+            "text": "Drizzle the dressing on top."
+        }
+    ]
+}

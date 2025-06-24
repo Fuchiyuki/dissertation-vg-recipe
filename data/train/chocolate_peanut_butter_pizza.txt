@@ -1,0 +1,124 @@
+{
+    "title": "chocolate_peanut_butter_pizza",
+    "id": "a236441006",
+    "table": [
+        {
+            "instructions": "beat together the butter , peanut_butter , sugars and vanilla until fluffy .",
+            "input": "(butter; peanut_butter; sugars; vanilla)",
+            "action": "beat",
+            "output": "peanut butter mixture"
+        },
+        {
+            "instructions": "beat in eggs , one at a time , until well combined .",
+            "input": "eggs; ",
+            "action": "beat",
+            "output": "eggs beaten in peanut butter mixture"
+        },
+        {
+            "instructions": "stir in the flour .",
+            "input": "peanut butter and eggs mixture; flour",
+            "action": "stir",
+            "output": "peanut butter dough"
+        },
+        {
+            "instructions": "press mixture into a greased 25 cm , pizza\u2012pan or roll into a 25 cm round",
+            "input": "peanut butter dough",
+            "action": "press",
+            "output": "flattened_peanut butter dough"
+        },
+        {
+            "instructions": "place on a greased flat tray .",
+            "input": "flattened_peanut butter dough",
+            "action": "place",
+            "output": "flattened_peanut butter dough"
+        },
+        {
+            "instructions": "bake at 180c for 12 minutes .",
+            "input": "flattened_peanut butter dough",
+            "action": "bake",
+            "output": "baked peanut butter crust"
+        },
+        {
+            "instructions": "sprinkle with the marshmallows and chocolate_chip .",
+            "input": "(marshmallow; chocolate_chip; baked peanut butter crust)",
+            "action": "sprinkle",
+            "output": "marshmallows and chocolate chip sprinkled on baked peanut butter crust"
+        },
+        {
+            "instructions": "return to oven for 4 6 minutes , until lightly browned .",
+            "input": "chocolate_peanut_butter_pizza",
+            "action": "return",
+            "output": "chocolate_peanut_butter_pizza"
+        },
+        {
+            "instructions": "cut into slices",
+            "input": "chocolate_peanut_butter_pizza",
+            "action": "cut",
+            "output": "sliced chocolate_peanut_butter_pizza"
+        },
+        {
+            "instructions": "serve with ice_cream .",
+            "input": "sliced chocolate_peanut_butter_pizza; ice cream",
+            "action": "serve",
+            "output": "sliced chocolate_peanut_butter_pizza served with ice cream"
+        }
+    ],
+    "ingredients": [
+        {
+            "text": "125g butter, softened"
+        },
+        {
+            "text": "1/2 cup KRAFT Smooth Peanut Butter"
+        },
+        {
+            "text": "1/2 cup firmly packed brown sugar"
+        },
+        {
+            "text": "1/2 cup caster sugar"
+        },
+        {
+            "text": "2 eggs, lightly beaten"
+        },
+        {
+            "text": "1/2 teaspoon vanilla essence"
+        },
+        {
+            "text": "1 1/2 cups plain flour"
+        },
+        {
+            "text": "2 cups pink mini marshmallows"
+        },
+        {
+            "text": "1 cup chocolate chips"
+        },
+        {
+            "text": "Vanilla ice-cream, to serve"
+        }
+    ],
+    "recipe": [
+        {
+            "text": "Beat together the butter, peanut butter, sugars and vanilla until fluffy."
+        },
+        {
+            "text": "Beat in eggs, one at a time, until well combined."
+        },
+        {
+            "text": "Stir in the flour."
+        },
+        {
+            "text": "Press mixture into a greased 25cm pizza pan or roll into a 25cm round and place on a greased flat tray."
+        },
+        {
+            "text": "Bake at 180C for 12 minutes."
+        },
+        {
+            "text": "Sprinkle with the marshmallows and chocolate chips."
+        },
+        {
+            "text": "Return to oven for 4-6 minutes, until lightly browned."
+        },
+        {
+            "text": "Cut into slices and serve with ice-cream."
+        }
+    ]
+}

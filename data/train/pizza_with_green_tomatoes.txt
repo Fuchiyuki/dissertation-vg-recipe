@@ -1,0 +1,211 @@
+{
+    "title": "pizza_with_green_tomatoes",
+    "id": "39ed58f375",
+    "table": [
+        {
+            "instructions": "roll or pat out the dough , as thinly as you like , turning occasionally and sprinkling the top with flour as necessary .",
+            "input": "dough",
+            "actions": "roll",
+            "output": "rolled_dough"
+        },
+        {
+            "instructions": "for baked pizza , preheat the oven to 500f .",
+            "input": "NA",
+            "actions": "preheat",
+            "output": "NA"
+        },
+        {
+            "instructions": "oil one or more baking sheets ,",
+            "input": "(pizza_crust_mix; hot_water)",
+            "actions": "oil",
+            "output": "combined_pizza_crust_mix, hot_water"
+        },
+        {
+            "instructions": "press each dough , ball into a flat round directly on the oiled sheet s.",
+            "input": "combined_pizza_crust_mix, hot_water",
+            "actions": "press",
+            "output": "pizza_dough"
+        },
+        {
+            "instructions": "then pat out the dough , as thinly as you like , oiling your hands if necessary .",
+            "input": "pizza_dough",
+            "actions": "pat",
+            "output": "pizza_dough"
+        },
+        {
+            "instructions": "if your oven is equipped with a baking stone , roll or pat out the dough as for grilled pizza , putting it on a peel to transfer it to the oven .",
+            "input": "pizza_dough",
+            "actions": "roll",
+            "output": "greased_pizza_dough"
+        },
+        {
+            "instructions": "meanwhile , thinly slice the tomatoes .",
+            "input": "greased_pizza_dough",
+            "actions": "slice",
+            "output": "greased_pizza_dough"
+        },
+        {
+            "instructions": "salt the slices lightly",
+            "input": "greased_pizza_dough",
+            "actions": "salt",
+            "output": "rested_pizza_dough"
+        },
+        {
+            "instructions": "drain off any accumulated liquid .",
+            "input": "rested_pizza_dough",
+            "actions": "drain",
+            "output": "pizza_base"
+        },
+        {
+            "instructions": "to grill the pizza",
+            "input": "pizza_base",
+            "actions": "grill",
+            "output": "uncooked_pizza"
+        },
+        {
+            "instructions": "slide it directly onto the grill .",
+            "input": "uncooked_pizza",
+            "actions": "slide",
+            "output": "cooked_pizza"
+        },
+        {
+            "instructions": "cook until brown grill marks appear , 3 to 5 minutes , depending on your grill heat .",
+            "input": "cooked_pizza",
+            "actions": "cook",
+            "output": "pizza"
+        },
+        {
+            "instructions": "turn with a spatula or tongs ,",
+            "input": "pizza",
+            "actions": "turn",
+            "output": "uncooked_pizza"
+        },
+        {
+            "instructions": "top with the tomato , parmigiano_reggiano , and basil .",
+            "input": "uncooked_pizza",
+            "actions": "top",
+            "output": "uncooked_pizza"
+        },
+        {
+            "instructions": "cover the grill",
+            "input": "uncooked_pizza",
+            "actions": "cover",
+            "output": "greased_pizza_dough"
+        },
+        {
+            "instructions": "cook until the bottom is crisp",
+            "input": "greased_pizza_dough",
+            "actions": "cook",
+            "output": "greased_pizza_dough"
+        },
+        {
+            "instructions": "brown and the top hot .",
+            "input": "greased_pizza_dough",
+            "actions": "brown",
+            "output": "greased_pizza_dough"
+        },
+        {
+            "instructions": "to bake the pizza",
+            "input": "greased_pizza_dough",
+            "actions": "bake",
+            "output": "greased_pizza_dough"
+        },
+        {
+            "instructions": "top with the tomato and parmigiano_reggiano",
+            "input": "greased_pizza_dough",
+            "actions": "top",
+            "output": "uncooked_pizza"
+        },
+        {
+            "instructions": "slide the baking sheet into the oven or the pizza itself onto the stone ,",
+            "input": "uncooked_pizza",
+            "actions": "slide",
+            "output": "uncooked_pizza"
+        },
+        {
+            "instructions": "bake for about 10 minutes , depending on the oven heat , or until nearly done .",
+            "input": "uncooked_pizza",
+            "actions": "bake",
+            "output": "uncooked_pizza"
+        },
+        {
+            "instructions": "sprinkle with the basil",
+            "input": "uncooked_pizza",
+            "actions": "sprinkle",
+            "output": "uncooked_pizza"
+        },
+        {
+            "instructions": "cook until the pizza is nicely browned .",
+            "input": "uncooked_pizza",
+            "actions": "cook",
+            "output": "uncooked_pizza"
+        }
+    ],
+    "ingredients": [
+        {
+            "text": "1 recipe Pizza Dough (page 253)"
+        },
+        {
+            "text": "2 large or 4 small green tomatoes"
+        },
+        {
+            "text": "Coarse salt"
+        },
+        {
+            "text": "1 cup freshly grated Parmigiano-Reggiano cheese"
+        },
+        {
+            "text": "1/2 cup coarsely chopped or torn fresh basil"
+        },
+        {
+            "text": "Olive oil as needed"
+        }
+    ],
+    "recipe": [
+        {
+            "text": "For grilled pizza, start a medium-hot charcoal or wood fire or preheat a gas grill to the maximum."
+        },
+        {
+            "text": "Roll or lightly press each dough ball into a flat round, lightly flouring the work surface and the dough as necessary (do not use more flour than you need to)."
+        },
+        {
+            "text": "Let the rounds sit for a few minutes, then roll or pat out the dough, as thinly as you like, turning occasionally and sprinkling the top with flour as necessary."
+        },
+        {
+            "text": "For baked pizza, preheat the oven to 500F."
+        },
+        {
+            "text": "Oil one or more baking sheets, then press each dough ball into a flat round directly on the oiled sheet(s)."
+        },
+        {
+            "text": "Then pat out the dough, as thinly as you like, oiling your hands if necessary."
+        },
+        {
+            "text": "If your oven is equipped with a baking stone, roll or pat out the dough as for grilled pizza, putting it on a peel to transfer it to the oven."
+        },
+        {
+            "text": "Meanwhile, thinly slice the tomatoes."
+        },
+        {
+            "text": "Salt the slices lightly and let them sit for at least 20 minutes, then drain off any accumulated liquid."
+        },
+        {
+            "text": "To grill the pizza, slide it directly onto the grill."
+        },
+        {
+            "text": "Cook until brown grill marks appear, 3 to 5 minutes, depending on your grill heat."
+        },
+        {
+            "text": "Turn with a spatula or tongs, then top with the tomato, Parmigiano-Reggiano, and basil."
+        },
+        {
+            "text": "Cover the grill and cook until the bottom is crisp and brown and the top hot."
+        },
+        {
+            "text": "To bake the pizza, top with the tomato and Parmigiano-Reggiano, slide the baking sheet into the oven (or the pizza itself onto the stone), and bake for about 10 minutes, depending on the oven heat, or until nearly done."
+        },
+        {
+            "text": "Sprinkle with the basil and cook until the pizza is nicely browned."
+        }
+    ]
+}

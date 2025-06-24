@@ -1,0 +1,130 @@
+{
+    "title": "blue_cheesy_prosciutto_appetizer_pizza",
+    "id": "698d710fc3",
+    "table": [
+        {
+            "instructions": "heat oven to 400f lightly spray large cookie sheet with cooking_spray .",
+            "input": "NA",
+            "action": "heat",
+            "output": "NA"
+        },
+        {
+            "instructions": "unroll pizza_crust , dough on cookie sheet ;",
+            "input": "pizza_crust",
+            "action": "unroll",
+            "output": "unrolled_pizza_crust"
+        },
+        {
+            "instructions": "press dough into 15x12 inch rectangle .",
+            "input": "unrolled_pizza_crust",
+            "action": "press",
+            "output": "unrolled_pizza_crust pressed into a rectangle"
+        },
+        {
+            "instructions": "bake 8 to 10 minutes or until light golden brown .",
+            "input": "unrolled_pizza_crust pressed into a rectangle",
+            "action": "bake",
+            "output": "baked pizza crust"
+        },
+        {
+            "instructions": "in small microwavable bowl , microwave cream_cheese and blue_cheese uncovered on high about 30 seconds or until melted .",
+            "input": "(cream_cheese; blue_cheese)",
+            "action": "microwave",
+            "output": "microwaved cream_cheese and blue_cheese mixture"
+        },
+        {
+            "instructions": "stir until well mixed .",
+            "input": "microwaved cream_cheese and blue_cheese mixture",
+            "action": "stir",
+            "output": "stirred cheese mixture"
+        },
+        {
+            "instructions": "spread mixture over partially baked crust .",
+            "input": "(melted cheese mixture; baked pizza crust)",
+            "action": "spread",
+            "output": "melted cheese mixture spread over crust"
+        },
+        {
+            "instructions": "sprinkle with mozzarella_cheese ;",
+            "input": "(crust with melted cheese mixture; mozzarella_cheese)",
+            "action": "sprinkle",
+            "output": "crust with melted cheese mixture sprinked with mozzarella_cheese"
+        },
+        {
+            "instructions": "top with prosciutto .",
+            "input": "(crust with melted cheese mixture and mozzarella; prosciutto)",
+            "action": "top",
+            "output": "crust with melted cheese mixture and mozzarella topped with prosciutto"
+        },
+        {
+            "instructions": "In small microwavable bowl, microwave preserves uncovered on High about 30 seconds. stir until smooth ;",
+            "input": "apricot preserves",
+            "action": "stir",
+            "output": "microwaved and stirred apricot preserves"
+        },
+        {
+            "instructions": "drizzle over pizza .",
+            "input": "(microwaved and stirred apricot preserves; assembled blue_cheesy_prosciutto pizza)",
+            "action": "drizzle",
+            "output": "microwaved and stirred apricot preserves drizzled over blue_cheesy_prosciutto pizza "
+        },
+        {
+            "instructions": "bake 8 to 12 minutes longer or until crust is golden brown",
+            "input": "unbaked blue_cheesy_prosciutto_pizza",
+            "action": "bake",
+            "output": "baked blue_cheesy_prosciutto_pizza"
+        }
+    ],
+    "ingredients": [
+        {
+            "text": "1 (13 7/8 ounce) canrefrigerated pizza crusts"
+        },
+        {
+            "text": "13 cup cream cheese (from 8-oz container or package)"
+        },
+        {
+            "text": "14 cup crumbled blue cheese (1 oz)"
+        },
+        {
+            "text": "1 cup shredded mozzarella cheese (4 oz)"
+        },
+        {
+            "text": "4 slices prosciutto, cut into thin strips (about 2 oz)"
+        },
+        {
+            "text": "13 cup apricot preserves"
+        }
+    ],
+    "recipe": [
+        {
+            "text": "Heat oven to 400F Lightly spray large cookie sheet with cooking Spray."
+        },
+        {
+            "text": "Unroll pizza crust dough on cookie sheet; press dough into 15x12-inch rectangle."
+        },
+        {
+            "text": "Bake 8 to 10 minutes or until light golden brown."
+        },
+        {
+            "text": "In small microwavable bowl, microwave cream cheese and blue cheese uncovered on High about 30 seconds or until melted."
+        },
+        {
+            "text": "Stir until well mixed."
+        },
+        {
+            "text": "Spread mixture over partially baked crust."
+        },
+        {
+            "text": "Sprinkle with mozzarella cheese; top with prosciutto."
+        },
+        {
+            "text": "In small microwavable bowl, microwave preserves uncovered on High about 30 seconds."
+        },
+        {
+            "text": "Stir until smooth; drizzle over pizza."
+        },
+        {
+            "text": "Bake 8 to 12 minutes longer or until crust is golden brown and preserves in center of pizza start to bubble."
+        }
+    ]
+}

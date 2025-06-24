@@ -1,0 +1,115 @@
+{
+    "title": "pyro_'s_bar_grill_french_bread_pizza",
+    "id": "672576daf4",
+    "table": [
+        {
+            "instructions": "preheat oven to 375f .",
+            "input": "NA",
+            "action": "preheat",
+            "output": "NA"
+        },
+        {
+            "instructions": "place on cookie sheet",
+            "input": "french_bread",
+            "action": "place",
+            "output": "french_bread"
+        },
+        {
+            "instructions": "spread pizza_sauce on all 4 half of the french_bread",
+            "input": "(pizza_sauce; french_bread)",
+            "action": "spread",
+            "output": "pizza_sauce_spread on french_bread"
+        },
+        {
+            "instructions": "put cheese on all of the french_bread with the pizza_sauce",
+            "input": "(cheese; french_bread with pizza_sauce)",
+            "action": "put",
+            "output": "french_bread with the pizza_sauce and cheese"
+        },
+        {
+            "instructions": "now add the toppings of your choice",
+            "input": "(toppings; french_bread with the pizza_sauce and cheese)",
+            "action": "add",
+            "output": "french_bread with the pizza_sauce, cheese and toppings"
+        },
+        {
+            "instructions": "after you have to put your toppings on put another small layer of cheese over all of the toppings",
+            "input": "(extra cheese; french_bread with the pizza_sauce, cheese and toppings)",
+            "action": "put",
+            "output": "french_bread with the pizza_sauce, cheese, toppings and extra cheese"
+        },
+        {
+            "instructions": "now bake in the oven for about 20 minutes or until cheese is all nice and bubbly",
+            "input": "french_bread with the pizza_sauce, cheese, toppings and extra cheese",
+            "action": "bake",
+            "output": "baked french_bread with the pizza_sauce, cheese, toppings and extra cheese"
+        },
+        {
+            "instructions": "remove from oven",
+            "input": "baked french_bread with the pizza_sauce, cheese, toppings and extra cheese",
+            "action": "remove",
+            "output": "baked french_bread with the pizza_sauce, cheese, toppings and extra cheese"
+        }
+    ],
+    "ingredients": [
+        {
+            "text": "2 loaf French bread"
+        },
+        {
+            "text": "6 cup cheese any kind will do mozzarella is the best (you might want to add more or less cheese it is up to you)"
+        },
+        {
+            "text": "20 oz pizza sauce of your choice (you can add more or less pizza sauce its up to you )"
+        },
+        {
+            "text": "1 packages pepperoni as much or as less as you want"
+        },
+        {
+            "text": "1 salami"
+        },
+        {
+            "text": "1 onion"
+        },
+        {
+            "text": "1 green red or yellow bell pepper"
+        },
+        {
+            "text": "1 Canadian bacon or ham"
+        },
+        {
+            "text": "1 can pineapple cubed"
+        },
+        {
+            "text": "1 can black olives sliced"
+        },
+        {
+            "text": "1 and just about anything else you would want to put on a pizza"
+        }
+    ],
+    "recipe": [
+        {
+            "text": "preheat oven to 375F."
+        },
+        {
+            "text": "sliced French bread in half and place on cookie sheet"
+        },
+        {
+            "text": "spread pizza sauce on all 4 half of the French bread"
+        },
+        {
+            "text": "put cheese on all of the French bread with the pizza sauce"
+        },
+        {
+            "text": "now add the toppings of your choice"
+        },
+        {
+            "text": "after you have to put your toppings on put another small layer of cheese over all of the toppings"
+        },
+        {
+            "text": "now bake in the oven for about 20 minutes or until cheese is all nice and bubbly"
+        },
+        {
+            "text": "remove from oven and let cool for a little bit before serving and enjoy"
+        }
+    ]
+}

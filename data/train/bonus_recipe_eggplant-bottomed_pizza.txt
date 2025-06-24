@@ -1,0 +1,148 @@
+{
+    "title": "bonus_recipe_eggplant-bottomed_pizza",
+    "id": "f0b70e0c42",
+    "table": [
+        {
+            "instructions": "preheat the oven to 375 degrees f .",
+            "input": "NA",
+            "actions": "preheat",
+            "output": "NA"
+        },
+        {
+            "instructions": "spray a baking sheet with nonstick_spray .",
+            "input": "NA",
+            "actions": "spray",
+            "output": "NA"
+        },
+        {
+            "instructions": "place eggplant slices on the baking sheet",
+            "input": "eggplant slices",
+            "actions": "place",
+            "output": "eggplant slices"
+        },
+        {
+            "instructions": "cook until slightly soft , about 20 minutes .",
+            "input": "eggplant slices",
+            "actions": "cook",
+            "output": "cooked eggplant slices"
+        },
+        {
+            "instructions": "meanwhile , in a small bowl , combine crushed_tomato , garlic , and italian_seasoning .",
+            "input": "(crushed_tomato; garlic; italian seasoning)",
+            "actions": "combine",
+            "output": "tomato mixture"
+        },
+        {
+            "instructions": "mix well",
+            "input": "tomato mixture",
+            "actions": "mix",
+            "output": "tomato mixture"
+        },
+        {
+            "instructions": "set aside .",
+            "input": "tomato mixture",
+            "actions": "set",
+            "output": "tomato mixture"
+        },
+        {
+            "instructions": "carefully remove the sheet from oven .",
+            "input": "cooked eggplant slices",
+            "actions": "remove",
+            "output": "cooked eggplant slices"
+        },
+        {
+            "instructions": "evenly spread the tomato mixture over the eggplant slices .",
+            "input": "(cooked eggplant slices; tomato mixture)",
+            "actions": "spread",
+            "output": "tomato mixture spread over cooked eggplant slices"
+        },
+        {
+            "instructions": "sprinkle with mozzarella_cheese",
+            "input": "(mozzarella cheese; eggplant slices with tomato mixture)",
+            "actions": "sprinkle",
+            "output": "mozzarella_cheese sprinkled over eggplant slices with tomato mixture"
+        },
+        {
+            "instructions": "evenly top with mushrooms , pepper , and onion .",
+            "input": "(mushrooms; pepper; onion; eggplant slices with cheese and tomato)",
+            "actions": "top",
+            "output": "eggplant slices with cheese and tomato topped with mumushrooms , pepper , and onion."
+        },
+        {
+            "instructions": "bake in the oven until the cheese has melted and the toppings are hot , about 10 additional minutes .",
+            "input": "uncooked eggplant pizza slices",
+            "actions": "bake",
+            "output": "baked eggplant pizza slices"
+        },
+        {
+            "instructions": "sprinkle with the parm style , topping",
+            "input": "(baked eggplant pizza slices; parm style topping)",
+            "actions": "sprinkle",
+            "output": "parm style topping sprinkled on baked eggplant pizza slices"
+        }
+    ],
+    "ingredients": [
+        {
+            "text": "2 (1/2-inch thick) eggplant slices (cut lengthwise from a long eggplant), patted dry"
+        },
+        {
+            "text": "1/4 cup canned crushed tomatoes"
+        },
+        {
+            "text": "1/2 teaspoon chopped garlic"
+        },
+        {
+            "text": "Dash Italian seasoning"
+        },
+        {
+            "text": "2 tablespoons shredded part-skim mozzarella cheese"
+        },
+        {
+            "text": "1/4 cup sliced mushrooms"
+        },
+        {
+            "text": "2 tablespoons chopped bell pepper"
+        },
+        {
+            "text": "2 tablespoons chopped onion"
+        },
+        {
+            "text": "2 teaspoons reduced-fat Parmesan-style grated topping"
+        }
+    ],
+    "recipe": [
+        {
+            "text": "Preheat the oven to 375 degrees F."
+        },
+        {
+            "text": "Spray a baking sheet with nonstick spray."
+        },
+        {
+            "text": "Place eggplant slices on the baking sheet and cook until slightly soft, about 20 minutes."
+        },
+        {
+            "text": "Meanwhile, in a small bowl, combine crushed tomatoes, garlic, and Italian seasoning."
+        },
+        {
+            "text": "Mix well and set aside."
+        },
+        {
+            "text": "Carefully remove the sheet from oven."
+        },
+        {
+            "text": "Evenly spread the tomato mixture over the eggplant slices."
+        },
+        {
+            "text": "Sprinkle with mozzarella cheese and evenly top with mushrooms, pepper, and onion."
+        },
+        {
+            "text": "Bake in the oven until the cheese has melted and the toppings are hot, about 10 additional minutes."
+        },
+        {
+            "text": "Sprinkle with the Parm-style topping and enjoy!"
+        },
+        {
+            "text": "PER SERVING (entire recipe, 2 pieces): 122 calories, 4g fat, 290mg sodium, 17g carbs, 5.5g fiber, 7g sugars, 7g protein"
+        }
+    ]
+}

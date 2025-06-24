@@ -1,0 +1,166 @@
+{
+    "title": "mama_'s_four_cheese_upside_down_pizza",
+    "id": "b309d31e22",
+    "table": [
+        {
+            "instructions": "preheat oven to 425 degrees .",
+            "input": "NA",
+            "actions": "preheat",
+            "output": "NA"
+        },
+        {
+            "instructions": "in large skillet , saute ground_chuck , onions , sausage , bell_pepper , mushrooms , and italian_seasoning until meat is browned",
+            "input": "(ground_chuck; onions; sausage; bell_pepper; mushrooms; italian_seasoning)",
+            "actions": "saute",
+            "output": "sauteed_ground_chuck mixture"
+        },
+        {
+            "instructions": "drain excess fat .",
+            "input": "sauteed_ground_chuck mixture",
+            "actions": "drain",
+            "output": "drained_meat mixture"
+        },
+        {
+            "instructions": "stir in black_olive",
+            "input": "(meat mixture; black_olive)",
+            "actions": "stir",
+            "output": "black_olive stirred in meat mixture"
+        },
+        {
+            "instructions": "spread meat mixture into a 13x9 dish that has been sprayed with cooking_spray .",
+            "input": "meat mixture",
+            "actions": "spread",
+            "output": "spread meat mixture"
+        },
+        {
+            "instructions": "on top of meat mixture , drizzle pizza_sauce evenly .",
+            "input": "(spread meat mixture; pizza_sauce)",
+            "actions": "drizzle",
+            "output": "pizza_sauce drizzled over spread meat mixture"
+        },
+        {
+            "instructions": "on top of that , sprinkle evenly mozzarella_cheese and cheddar .",
+            "input": "(mozzarella_cheese; cheddar; meat mixture and pizza_sauce_layers)",
+            "actions": "sprinkle",
+            "output": "mozzarella cheddar and meat mixture casserole"
+        },
+        {
+            "instructions": "in small bowl with whisk , combine milk , olive_oil , eggs , and flour .",
+            "input": "(milk; olive_oil; eggs; flour)",
+            "actions": "combine",
+            "output": "batter"
+        },
+        {
+            "instructions": "mix just until well moistened and no lumps .",
+            "input": "batter",
+            "actions": "mix",
+            "output": "batter"
+        },
+        {
+            "instructions": "then lightly stir in parmesan and romano .",
+            "input": "(parmesan; pecorino_romano; batter)",
+            "actions": "stir",
+            "output": "parmesan and pecorino_romano stirred in batter"
+        },
+        {
+            "instructions": "drizzle evenly over casserole .",
+            "input": "(cheesy batter; casserole)",
+            "actions": "drizzle",
+            "output": "cheesy batter drizzled over casserole"
+        },
+        {
+            "instructions": "bake in 425 oven for 30 minutes or until top is golden brown .",
+            "input": "uncooked four cheese casserole",
+            "actions": "bake",
+            "output": "baked four cheese casserole"
+        }
+    ],
+    "ingredients": [
+        {
+            "text": "1 lb ground chuck"
+        },
+        {
+            "text": "1 lb Italian sausage, removed from casings"
+        },
+        {
+            "text": "1 onion, chopped"
+        },
+        {
+            "text": "1 green bell peppers or 1 red bell pepper"
+        },
+        {
+            "text": "1 (2 ounce) cansliced black olives, drained"
+        },
+        {
+            "text": "1 (4 ounce) jar sliced mushrooms, drained"
+        },
+        {
+            "text": "2 (15 ounce) jars pizza sauce or 2 (15 ounce) jars marinara sauce"
+        },
+        {
+            "text": "1 teaspoon dried Italian seasoning, crushed"
+        },
+        {
+            "text": "1 cup shredded mozzarella cheese"
+        },
+        {
+            "text": "1 cup shredded cheddar cheese"
+        },
+        {
+            "text": "1 cup milk"
+        },
+        {
+            "text": "1 tablespoon olive oil"
+        },
+        {
+            "text": "2 eggs"
+        },
+        {
+            "text": "1 cup self rising flour"
+        },
+        {
+            "text": "14 teaspoon salt"
+        },
+        {
+            "text": "14 cup parmesan cheese, grated"
+        },
+        {
+            "text": "14 cup romano cheese, grated"
+        }
+    ],
+    "recipe": [
+        {
+            "text": "Preheat oven to 425 degrees."
+        },
+        {
+            "text": "In large skillet, saute ground chuck, onions, sausage, bell pepper, mushrooms, and Italian Seasoning until meat is browned and veggies are tender-crisp."
+        },
+        {
+            "text": "Drain excess fat."
+        },
+        {
+            "text": "Stir in black olives and spread meat mixture into a 13x9 dish that has been sprayed with cooking spray."
+        },
+        {
+            "text": "On top of meat mixture, drizzle pizza sauce evenly."
+        },
+        {
+            "text": "On top of that, sprinkle evenly mozzarella cheese and cheddar."
+        },
+        {
+            "text": "In small bowl with whisk, combine milk, olive oil, eggs, and flour."
+        },
+        {
+            "text": "Mix just until well-moistened and no lumps."
+        },
+        {
+            "text": "Then lightly stir in parmesan and romano."
+        },
+        {
+            "text": "Drizzle evenly over casserole."
+        },
+        {
+            "text": "Bake in 425 oven for 30 minutes or until top is golden brown."
+        }
+    ]
+}

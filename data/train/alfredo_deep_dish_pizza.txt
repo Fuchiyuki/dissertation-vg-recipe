@@ -1,0 +1,172 @@
+{
+    "title": "alfredo_deep_dish_pizza",
+    "id": "6a87f3e50c",
+    "table": [
+        {
+            "instructions": "in a bowl , mix the water , oil , and yeast .",
+            "input": "(water; oil; yeast)",
+            "action": "mix",
+            "output": "yeast mixture"
+        },
+        {
+            "instructions": "stir in the flour .",
+            "input": "(yeast mixture; flour)",
+            "action": "stir",
+            "output": "flour stirred in yeast mixture"
+        },
+        {
+            "instructions": "roll into a ball ,",
+            "input": "flour stirred in yeast mixture",
+            "action": "roll",
+            "output": "dough rolled into a ball"
+        },
+        {
+            "instructions": "transfer to a well oiled bowl .",
+            "input": "ball of dough",
+            "action": "transfer",
+            "output": "ball of dough"
+        },
+        {
+            "instructions": "thoroughly grease a deep dish , pizza\u2012pan .",
+            "input": "NA",
+            "action": "grease",
+            "output": "NA"
+        },
+        {
+            "instructions": "punch down dough ,",
+            "input": "ball of dough",
+            "action": "punch",
+            "output": "punched down dough"
+        },
+        {
+            "instructions": "transfer to the pan .",
+            "input": "punched down dough",
+            "action": "transfer",
+            "output": "pizza dough"
+        },
+        {
+            "instructions": "cover dough with a cloth ,",
+            "input": "pizza dough",
+            "action": "cover",
+            "output": "covered pizza crust"
+        },
+        {
+            "instructions": "preheat oven to 450 degrees f 230 degrees c.",
+            "input": "NA",
+            "action": "preheat",
+            "output": "NA"
+        },
+        {
+            "instructions": "in a saucepan over low heat , mix the cream , butter , and cream_cheese , stirring constantly , until melted",
+            "input": "(cream; butter; cream_cheese)",
+            "action": "mix",
+            "output": "melted cream cheese mixture"
+        },
+        {
+            "instructions": "mix in parmesan_cheese and garlic_powder .",
+            "input": "(melted cream cheese mixture; parmesan_cheese; garlic_powder)",
+            "action": "mix",
+            "output": "parmesan cheese and garlic powder mixed in melted cream cheese mixture"
+        },
+        {
+            "instructions": "stir 15 minutes , or until parmesan is lightly browned .",
+            "input": "parmesan cheese and garlic powder mixed in melted cream cheese mixture",
+            "action": "stir",
+            "output": "melted cheese mixture"
+        },
+        {
+            "instructions": "spread over the pizza_crust .",
+            "input": "(pizza_crust; melted cheese mixture)",
+            "action": "spread",
+            "output": "melted cheese mixture spread over pizza crust"
+        },
+        {
+            "instructions": "top with mozzarella_cheese .",
+            "input": "(pizza crust with melted cheese mixture; mozzarella cheese)",
+            "action": "top",
+            "output": "pizza crust with melted cheese mixture topped with mozzarella cheese"
+        },
+        {
+            "instructions": "bake 35 minutes in the preheated oven , until crust is lightly brown .",
+            "input": "uncooked alfredo pizza",
+            "action": "bake",
+            "output": "baked alfredo pizza"
+        }
+    ],
+    "ingredients": [
+        {
+            "text": "1 cup warm water (105 to 115 degrees)"
+        },
+        {
+            "text": "14 cup vegetable oil"
+        },
+        {
+            "text": "1 (1/4 ounce) envelope active dry yeast"
+        },
+        {
+            "text": "2 cups all-purpose flour"
+        },
+        {
+            "text": "12 pint heavy cream"
+        },
+        {
+            "text": "12 cup butter"
+        },
+        {
+            "text": "2 tablespoons cream cheese"
+        },
+        {
+            "text": "34 cup grated parmesan cheese"
+        },
+        {
+            "text": "1 teaspoon garlic powder"
+        },
+        {
+            "text": "1 12 cups mozzarella cheese"
+        }
+    ],
+    "recipe": [
+        {
+            "text": "In a bowl, mix the water, oil, and yeast."
+        },
+        {
+            "text": "Stir in the flour."
+        },
+        {
+            "text": "Roll into a ball, and transfer to a well-oiled bowl."
+        },
+        {
+            "text": "Allow to rise 1 hour in a warm location, or until doubled in size."
+        },
+        {
+            "text": "Thoroughly grease a deep dish pizza pan."
+        },
+        {
+            "text": "Punch down dough, and transfer to the pan."
+        },
+        {
+            "text": "Cover dough with a cloth, and allow crust to rise 25 minutes, until puffy."
+        },
+        {
+            "text": "Preheat oven to 450 degrees F (230 degrees C)."
+        },
+        {
+            "text": "In a saucepan over low heat, mix the cream, butter, and cream cheese, stirring constantly, until melted and well-blended."
+        },
+        {
+            "text": "Mix in Parmesan cheese and garlic powder."
+        },
+        {
+            "text": "Continue to cook and stir 15 minutes, or until Parmesan is lightly browned."
+        },
+        {
+            "text": "Spread over the pizza crust."
+        },
+        {
+            "text": "Top with mozzarella cheese."
+        },
+        {
+            "text": "Bake 35 minutes in the preheated oven, until crust is lightly brown."
+        }
+    ]
+}

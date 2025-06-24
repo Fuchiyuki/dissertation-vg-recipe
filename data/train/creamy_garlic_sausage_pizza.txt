@@ -1,0 +1,217 @@
+{
+    "title": "creamy_garlic_sausage_pizza",
+    "id": "2edb07b979",
+    "table": [
+        {
+            "instructions": "preheat oven to 400 degrees f .",
+            "input": "NA",
+            "actions": "preheat",
+            "output": "NA"
+        },
+        {
+            "instructions": "peel off outer layer of garlic",
+            "input": "garlic",
+            "actions": "peel",
+            "output": "peeled garlic"
+        },
+        {
+            "instructions": "cut off top",
+            "input": "peeled garlic",
+            "actions": "cut",
+            "output": "peeled garlic with top cut off"
+        },
+        {
+            "instructions": "wrap in aluminum foil ,",
+            "input": "peeled garlic with top cut off",
+            "actions": "wrap",
+            "output": "wrapped garlic"
+        },
+        {
+            "instructions": "place in the oven .",
+            "input": "wrapped garlic",
+            "actions": "place",
+            "output": "wrapped garlic"
+        },
+        {
+            "instructions": "bake for about 30 35 minutes .",
+            "input": "wrapped garlic",
+            "actions": "bake",
+            "output": "baked_garlic"
+        },
+        {
+            "instructions": "remove garlic_clove they should just squeeze out",
+            "input": "baked_garlic",
+            "actions": "remove",
+            "output": "roasted_garlic_cloves"
+        },
+        {
+            "instructions": "set aside ,",
+            "input": "roasted_garlic_cloves",
+            "actions": "set",
+            "output": "roasted_garlic_cloves"
+        },
+        {
+            "instructions": "meanwhile , in a small sauce pan , combine butter and flour to form a roux .",
+            "input": "(butter; flour)",
+            "actions": "combine",
+            "output": "roux"
+        },
+        {
+            "instructions": "add milk",
+            "input": "(roux; milk)",
+            "actions": "add",
+            "output": "roux_with_milk"
+        },
+        {
+            "instructions": "reduce until thick , about 5 6 minutes .",
+            "input": "roux_with_milk",
+            "actions": "reduce",
+            "output": "reduced_roux_with_milk"
+        },
+        {
+            "instructions": "add garlic and cheddar_cheese ,",
+            "input": "(reduced_roux_with_milk; roasted_garlic_cloves; cheddar_cheese)",
+            "actions": "add",
+            "output": "roux with milk, roasted garlic and cheddar_cheese"
+        },
+        {
+            "instructions": "combine .",
+            "input": "roux with milk, roasted garlic and cheddar_cheese",
+            "actions": "combine",
+            "output": "white sauce"
+        },
+        {
+            "instructions": "heat oil in a frying pan .",
+            "input": "oil",
+            "actions": "heat",
+            "output": "heated_oil"
+        },
+        {
+            "instructions": "add sausage",
+            "input": "(heated_oil; sausage)",
+            "actions": "add",
+            "output": "added_sausage to heated oil"
+        },
+        {
+            "instructions": "cook until skin is blistered , about 5 minutes per side .",
+            "input": "added_sausage to heated oil",
+            "actions": "cook",
+            "output": "cooked_sausage"
+        },
+        {
+            "instructions": "remove",
+            "input": "cooked_sausage",
+            "actions": "remove",
+            "output": "cooked_sausage"
+        },
+        {
+            "instructions": "chop into smaller pieces .",
+            "input": "cooked_sausage",
+            "actions": "chop",
+            "output": "chopped_cooked_sausage"
+        },
+        {
+            "instructions": "roll out pizza_dough",
+            "input": "pizza_dough",
+            "actions": "roll",
+            "output": "rolled_pizza_dough"
+        },
+        {
+            "instructions": "spread white sauce evenly on top .",
+            "input": "(rolled_pizza_dough; white_sauce)",
+            "actions": "spread",
+            "output": "white_sauce_spread_on_pizza_dough"
+        },
+        {
+            "instructions": "add mozzarella_cheese , sausage , artichoke_heart , and bell_pepper .",
+            "input": "(white_sauce_spread_on_pizza_dough; mozzarella_cheese; cooked_sausage; artichoke_heart; bell_pepper )",
+            "actions": "add",
+            "output": "uncooked pizza with white sauce, mozzarella_cheese , sausage , artichoke_heart , and bell_pepper"
+        },
+        {
+            "instructions": "bake until golden brown , about 15 20 minutes .",
+            "input": "uncooked creamy garlic sausage pizza",
+            "actions": "bake",
+            "output": "baked_creamy garlic sausage pizza"
+        }
+    ],
+    "ingredients": [
+        {
+            "text": "1 head Garlic"
+        },
+        {
+            "text": "1 Tablespoon Butter"
+        },
+        {
+            "text": "1 Tablespoon Flour"
+        },
+        {
+            "text": "2 cups Milk"
+        },
+        {
+            "text": "1 cup Sharp White Cheddar Cheese"
+        },
+        {
+            "text": "Olive Oil"
+        },
+        {
+            "text": "4 whole Chicken Sausages"
+        },
+        {
+            "text": "1 whole Pizza Dough"
+        },
+        {
+            "text": "1 cup Mozzarella Cheese, Grated"
+        },
+        {
+            "text": "6 whole Marinated Artichoke Hearts, Chopped"
+        },
+        {
+            "text": "4 whole Marinated Bell Peppers, Chopped"
+        }
+    ],
+    "recipe": [
+        {
+            "text": "Preheat oven to 400 degrees F."
+        },
+        {
+            "text": "Peel off outer layer of garlic, cut off top, wrap in aluminum foil, and place in the oven."
+        },
+        {
+            "text": "Bake for about 30-35 minutes."
+        },
+        {
+            "text": "Remove garlic cloves (they should just squeeze out), set aside, and increase oven temperature to 450 degrees F."
+        },
+        {
+            "text": "Meanwhile, in a small sauce pan, combine butter and flour to form a roux."
+        },
+        {
+            "text": "Add milk and reduce until thick, about 5-6 minutes."
+        },
+        {
+            "text": "Add garlic and cheddar cheese, and combine."
+        },
+        {
+            "text": "Heat oil in a frying pan."
+        },
+        {
+            "text": "Add sausage and cook until skin is blistered, about 5 minutes per side."
+        },
+        {
+            "text": "Remove and chop into smaller pieces."
+        },
+        {
+            "text": "Roll out pizza dough and spread white sauce evenly on top."
+        },
+        {
+            "text": "Add mozzarella cheese, sausage, artichoke hearts, and bell peppers."
+        },
+        {
+            "text": "Bake until golden brown, about 15-20 minutes."
+        },
+        {
+            "text": "Enjoy!"
+        }
+    ]
+}

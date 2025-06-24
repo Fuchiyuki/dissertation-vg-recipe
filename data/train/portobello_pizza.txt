@@ -1,0 +1,121 @@
+{
+    "title": "portobello_pizza",
+    "id": "7af455c105",
+    "table": [
+        {
+            "instructions": "cut chicken into bite size pieces",
+            "input": "chicken",
+            "action": "cut",
+            "output": "cut_chicken in pieces"
+        },
+        {
+            "instructions": "cook in a little olive_oil , salt and pepper until opaque .",
+            "input": "bite-sized chicken pieces; olive oil; salt; pepper",
+            "action": "cook",
+            "output": "cooked chicken pieces"
+        },
+        {
+            "instructions": "mix in rest of ingredients except for portobellos and mozzarella_cheese",
+            "input": "cooked chicken pieces; spinach; olives; inced garlic; pasta sauce; ",
+            "action": "mix",
+            "output": "chicken and sauce mixture"
+        },
+        {
+            "instructions": "simmer for 30 minutes .",
+            "input": "chicken and sauce mixture",
+            "action": "simmer",
+            "output": "simmered chicken and sauce mixture"
+        },
+        {
+            "instructions": "remove stems",
+            "input": "portobello mushrooms",
+            "action": "remove",
+            "output": "portobello mushrooms without stems"
+        },
+        {
+            "instructions": "clean out gills with a spoon .",
+            "input": "portobello mushrooms without stems",
+            "action": "clean",
+            "output": "cleaned portobello mushrooms without stems"
+        },
+        {
+            "instructions": "baste with olive_oil",
+            "input": "cleaned portobello mushrooms without stems; olive oil",
+            "action": "baste",
+            "output": "basted portobello mushrooms without stems in olive oil"
+        },
+        {
+            "instructions": "put in oven at 350f for 10 minutes .",
+            "input": "basted portobello mushrooms without stems in olive oil",
+            "action": "put",
+            "output": "portobello mushrooms without stems in oven"
+        },
+        {
+            "instructions": "remove portobellos from oven",
+            "input": "portobello mushrooms without stems in oven",
+            "action": "remove",
+            "output": "cooked portobello mushrooms"
+        },
+        {
+            "instructions": "fill with mixture",
+            "input": "chicken and sauce mixture; cooked portobello mushrooms",
+            "action": "fill",
+            "output": "portobello mushrooms filled with chicken and sauce mixture"
+        },
+        {
+            "instructions": "top with cheese .",
+            "input": "portobello mushrooms filled with chicken and sauce mixture; cheese",
+            "action": "top",
+            "output": "portobello mushrooms filled with chicken and sauce mixture and topped with cheese"
+        },
+        {
+            "instructions": "put back in oven for 15 minutes or until cheese is melted",
+            "input": "portobello mushrooms filled with chicken and sauce mixture and topped with cheese",
+            "action": "put",
+            "output": "portobello pizza"
+        }
+    ],
+    "ingredients": [
+        {
+            "text": "4 large portobello mushrooms."
+        },
+        {
+            "text": "2 cup Mozzarella cheese"
+        },
+        {
+            "text": "12 Chicken tenders"
+        },
+        {
+            "text": "1 bag baby spinach"
+        },
+        {
+            "text": "2 can sliced black olives"
+        },
+        {
+            "text": "2 tsp Minced garlic"
+        },
+        {
+            "text": "1 jar pasta sauce of choice."
+        }
+    ],
+    "recipe": [
+        {
+            "text": "Cut chicken into bite size pieces and cook in a little olive oil, salt and pepper until opaque."
+        },
+        {
+            "text": "Mix in rest of ingredients except for portobellos and mozzarella cheese and simmer for 30 minutes."
+        },
+        {
+            "text": "Remove stems and clean out gills with a spoon."
+        },
+        {
+            "text": "Baste with olive oil and put in oven at 350F for 10 minutes."
+        },
+        {
+            "text": "Remove portobellos from oven and fill with mixture and top with cheese."
+        },
+        {
+            "text": "Put back in oven for 15 minutes or until cheese is melted and slightly browned."
+        }
+    ]
+}

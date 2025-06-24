@@ -1,0 +1,133 @@
+{
+    "title": "stuffed_crust_pizza_...._fresh_from_your_oven",
+    "id": "b065912594",
+    "table": [
+        {
+            "instructions": "preheat oven to 450 degrees .",
+            "input": "NA",
+            "actions": "preheat",
+            "output": "NA"
+        },
+        {
+            "instructions": "combine baking_mix , oil and water until it forms a soft dough .",
+            "input": "(baking_mix; oil; water)",
+            "actions": "combine",
+            "output": "dough"
+        },
+        {
+            "instructions": "grease 12 inch , pizza\u2012pan .",
+            "input": "NA",
+            "actions": "grease",
+            "output": "NA"
+        },
+        {
+            "instructions": "adjust the oven rack to the very lowest bottom position .",
+            "input": "NA",
+            "actions": "adjust",
+            "output": "NA"
+        },
+        {
+            "instructions": "press dough evenly into pan making sure that dough is overlapping the side of the pan by an inch .",
+            "input": "dough",
+            "actions": "press",
+            "output": "pressed_dough"
+        },
+        {
+            "instructions": "place string_cheese on the edges of the dough",
+            "input": "(dough; string_cheese)",
+            "actions": "place",
+            "output": "string_cheese_placed_on_dough"
+        },
+        {
+            "instructions": "then fold the dough over the cheese .",
+            "input": "string_cheese_placed_on_dough",
+            "actions": "fold",
+            "output": "dough_folded_over_string_cheese"
+        },
+        {
+            "instructions": "firmly press to seal .",
+            "input": "dough_folded_over_string_cheese",
+            "actions": "press",
+            "output": "sealed_edges_over_cheese"
+        },
+        {
+            "instructions": "bake for 7 8 minutes .",
+            "input": "uncooked_pizza_crust",
+            "actions": "bake",
+            "output": "baked_pizza_crust"
+        },
+        {
+            "instructions": "top pizza with sauce , cheese and any other toppings that you like .",
+            "input": "(sauce; cheese; toppings; pizza_crust)",
+            "actions": "top",
+            "output": "pizza_crust_topped_with_sauce, cheese and toppings"
+        },
+        {
+            "instructions": "bake for 8 10 minutes or until crust is golden brown .",
+            "input": "uncooked_pizza",
+            "actions": "bake",
+            "output": "stuffed_crust_pizza"
+        }
+    ],
+    "ingredients": [
+        {
+            "text": "3 cups Bisquick baking mix (your own or bisquick)"
+        },
+        {
+            "text": "2 tablespoons cooking oil"
+        },
+        {
+            "text": "23 cup very hot water"
+        },
+        {
+            "text": "1 12 cups shredded mozzarella cheese or 1 12 cups parmesan cheese (combined)"
+        },
+        {
+            "text": "1 (8 ounce) can pizza sauce (or your own recipe)"
+        },
+        {
+            "text": "4 pieces mozzarella string cheese (cut in half lengthwise)"
+        }
+    ],
+    "recipe": [
+        {
+            "text": "Preheat oven to 450 degrees."
+        },
+        {
+            "text": "Combine baking mix,oil and water until it forms a soft dough."
+        },
+        {
+            "text": "After that give it a good 20 strokes."
+        },
+        {
+            "text": "Let stand for 10 minutes."
+        },
+        {
+            "text": "Grease 12 inch pizza pan."
+        },
+        {
+            "text": "Adjust the oven rack to the very lowest bottom position."
+        },
+        {
+            "text": "Press dough evenly into pan making sure that dough is overlapping the side of the pan by an inch."
+        },
+        {
+            "text": "Place string cheese on the edges of the dough and then fold the dough over the cheese."
+        },
+        {
+            "text": "Firmly press to seal."
+        },
+        {
+            "text": "Bake for 7-8 minutes."
+        },
+        {
+            "text": "Top pizza with sauce,cheese and any other toppings that you like."
+        },
+        {
+            "text": "Bake for 8-10 minutes or until crust is golden brown."
+        },
+        {
+            "text": "Enjoy!"
+        }
+    ]
+}

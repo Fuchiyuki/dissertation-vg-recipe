@@ -1,0 +1,109 @@
+{
+    "title": "pineapple_cream_cheese_pizza",
+    "id": "1eb12f9fb3",
+    "table": [
+        {
+            "instructions": "press dough into 2 greased 12 inch , pizza\u2012pan .",
+            "input": "dough",
+            "action": "press",
+            "output": "pressed_dough"
+        },
+        {
+            "instructions": "beat cream_cheese , sugar , flour , egg_yolk , 1 tsp , lemon_peel and 2 tsp , lemon_juice until smooth .",
+            "input": "cream cheese, sugar, flour, egg yolk, lemon peel, lemon juice",
+            "action": "beat",
+            "output": "smooth cream cheese mixture"
+        },
+        {
+            "instructions": "stir in pineapple .",
+            "input": "(smooth cream cheese mixture; pineapple)",
+            "action": "stir",
+            "output": "smooth cream cheese mixture with pineapple"
+        },
+        {
+            "instructions": "spread mixture evenly over pizzas to within 12 inch of edges .",
+            "input": "(pressed_dough; smooth cream cheese mixture with pineapple)",
+            "action": "spread",
+            "output": "pizzas with cream cheese mixture and pineapple spread on top"
+        },
+        {
+            "instructions": "bake in 400 deg .",
+            "input": "pizzas with cream cheese mixture and pineapple spread on top",
+            "action": "bake",
+            "output": "baked pineapple_cream_cheese_pizza"
+        },
+        {
+            "instructions": "spread each with jam",
+            "input": "(baked pineapple_cream_cheese_pizza; jamo)",
+            "action": "spread",
+            "output": "baked pineapple_cream_cheese_pizza with spread jam"
+        },
+        {
+            "instructions": "sprinkle with almonds .",
+            "input": "(baked pineapple_cream_cheese_pizza with spread jam; almonds)",
+            "action": "sprinkle",
+            "output": "almonds sprinkled on baked pineapple_cream_cheese_pizza with spread jam"
+        },
+        {
+            "instructions": "bake 5 minutes longer .",
+            "input": "baked pizzas with cream cheese mixture, pineapple, jam, and almonds",
+            "action": "bake",
+            "output": "doubly baked pineapple_cream_cheese_pizza with jam and almonds"
+        }
+    ],
+    "ingredients": [
+        {
+            "text": "1 lb frozen bread dough, thawed and cut in half"
+        },
+        {
+            "text": "2 (8 ounce) packages cream cheese, softened"
+        },
+        {
+            "text": "12 cup sugar"
+        },
+        {
+            "text": "6 tablespoons flour"
+        },
+        {
+            "text": "2 egg yolks"
+        },
+        {
+            "text": "1 grated peel and 2 tsp. lemon, juice of"
+        },
+        {
+            "text": "2 (8 1/4 ounce) cans crushed pineapple, drained"
+        },
+        {
+            "text": "23 cup strawberry jam"
+        },
+        {
+            "text": "2 tablespoons sliced almonds, toasted"
+        }
+    ],
+    "recipe": [
+        {
+            "text": "Press dough into 2 greased 12 inch pizza pans."
+        },
+        {
+            "text": "Beat cream cheese, sugar, flour, egg yolks, 1 tsp lemon peel and 2 tsp lemon juice until smooth."
+        },
+        {
+            "text": "Stir in pineapple."
+        },
+        {
+            "text": "Spread mixture evenly over pizzas to within 1/2 inch of edges."
+        },
+        {
+            "text": "Bake in 400 deg."
+        },
+        {
+            "text": "oven for 15 minutes or until browned."
+        },
+        {
+            "text": "Spread each with jam and sprinkle with almonds."
+        },
+        {
+            "text": "Bake 5 minutes longer."
+        }
+    ]
+}

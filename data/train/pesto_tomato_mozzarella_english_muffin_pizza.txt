@@ -1,0 +1,70 @@
+{
+    "title": "pesto_tomato_mozzarella_english_muffin_pizza",
+    "id": "cf0db3d24e",
+    "table": [
+        {
+            "instructions": "toast your english_muffin .",
+            "input": "english muffin",
+            "action": "toast",
+            "output": "toasted english muffin"
+        },
+        {
+            "instructions": "spread pesto on top .",
+            "input": "toasted english muffin",
+            "action": "spread",
+            "output": "toasted english muffin with pesto"
+        },
+        {
+            "instructions": "put a slice of tomato over pesto .",
+            "input": "(toasted english muffin with pesto; slice of tomato)",
+            "action": "put",
+            "output": "toasted english muffin with pesto and a slice of tomato"
+        },
+        {
+            "instructions": "sprinkle with mozzarella .",
+            "input": "(toasted english muffin with pesto and a slice of tomato; mozzarella)",
+            "action": "sprinkle",
+            "output": "uncooked english muffin pizza"
+        },
+        {
+            "instructions": "put in oven on 350f until cheese is melted .",
+            "input": "uncooked english muffin pizza",
+            "action": "put",
+            "output": "cooked english muffin pizza"
+        }
+    ],
+    "ingredients": [
+        {
+            "text": "1 English muffin"
+        },
+        {
+            "text": "2 tablespoons pesto sauce"
+        },
+        {
+            "text": "12 tomatoes"
+        },
+        {
+            "text": "13 cup mozzarella cheese"
+        }
+    ],
+    "recipe": [
+        {
+            "text": "Toast your english muffin."
+        },
+        {
+            "text": "Spread pesto on top."
+        },
+        {
+            "text": "Put a slice of tomato over pesto."
+        },
+        {
+            "text": "Sprinkle with mozzarella."
+        },
+        {
+            "text": "Put in oven on 350F until cheese is melted."
+        },
+        {
+            "text": "Enjoy."
+        }
+    ]
+}

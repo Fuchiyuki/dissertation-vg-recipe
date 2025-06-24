@@ -1,0 +1,148 @@
+{
+    "title": "individual_pizza_with_arugula_and_tomatoes",
+    "id": "8d310e66ea",
+    "table": [
+        {
+            "instructions": "preheat oven to 450f , with racks in upper and lower thirds .",
+            "input": "NA",
+            "action": "preheat",
+            "output": "NA"
+        },
+        {
+            "instructions": "divide dough into four equal pieces .",
+            "input": "dough",
+            "action": "divide",
+            "output": "divided_dough"
+        },
+        {
+            "instructions": "using your hands , stretch each piece into a 5 inch disk .",
+            "input": "divided_dough",
+            "action": "stretch",
+            "output": "stretched dough_disks"
+        },
+        {
+            "instructions": "brush two rimless baking sheets with oil .",
+            "input": "NA",
+            "action": "brush",
+            "output": "NA"
+        },
+        {
+            "instructions": "place disks of dough on baking sheets ;",
+            "input": "dough_disks",
+            "action": "place",
+            "output": "dough_disks"
+        },
+        {
+            "instructions": "brush dough lightly with oil .",
+            "input": "(dough_disks;oil)",
+            "action": "brush",
+            "output": "oiled_dough_disks"
+        },
+        {
+            "instructions": "using your hands , crush tomatoes in a bowl ;",
+            "input": "tomatoes",
+            "action": "crush",
+            "output": "crushed_tomatoes"
+        },
+        {
+            "instructions": "season with salt and pepper .",
+            "input": "(salt;pepper;crushed_tomatoes)",
+            "action": "season",
+            "output": "seasoned_crushed_tomatoes"
+        },
+        {
+            "instructions": "spread tomatoes on dough ;",
+            "input": "(seasoned_crushed_tomatoes;dough_disks)",
+            "action": "spread",
+            "output": "crushed tomato_spread on dough_disks"
+        },
+        {
+            "instructions": "sprinkle with red_pepper_flake .",
+            "input": "(dough_disks with crushed tomato;red_pepper_flake)",
+            "action": "sprinkle",
+            "output": "raw_tomato_pizza_disks with red pepper flakes"
+        },
+        {
+            "instructions": "bake , rotating sheets from top to bottom and front to back halfway through , until crusts are golden , 18 to 20 minutes .",
+            "input": "raw_tomato_pizza_disks with red pepper flakes",
+            "action": "bake",
+            "output": "baked tomato_pizza_disks"
+        },
+        {
+            "instructions": "toss arugula with cheese ;",
+            "input": "(arugula;cheese)",
+            "action": "toss",
+            "output": "arugula_and cheese mixture"
+        },
+        {
+            "instructions": "divide among pizzas .",
+            "input": "(arugula_and cheese mixture; baked tomato_pizza_disks)",
+            "action": "divide",
+            "output": "tomato_and_arugula_topped_pizza_disks"
+        },
+        {
+            "instructions": "drizzle with vinegar and oil .",
+            "input": "(tomato_and_arugula_topped_pizza_disks;vinegar;oil)",
+            "action": "drizzle",
+            "output": "tomato_and_arugula_mini_pizzas"
+        }
+    ],
+    "ingredients": [
+        {
+            "text": "1 pound Basic Pizza Dough (page 364) or store-bought pizza dough, fresh or frozen (thawed)"
+        },
+        {
+            "text": "Olive oil"
+        },
+        {
+            "text": "1 cup grape or cherry tomatoes"
+        },
+        {
+            "text": "Coarse salt and freshly ground pepper"
+        },
+        {
+            "text": "1/4 teaspoon crushed red-pepper flakes"
+        },
+        {
+            "text": "3 cups baby arugula (2 ounces)"
+        },
+        {
+            "text": "3 ounces Pecorino Romano cheese, shaved"
+        },
+        {
+            "text": "1 tablespoon balsamic vinegar"
+        }
+    ],
+    "recipe": [
+        {
+            "text": "Preheat oven to 450F, with racks in upper and lower thirds."
+        },
+        {
+            "text": "Divide dough into four equal pieces."
+        },
+        {
+            "text": "Using your hands, stretch each piece into a 5-inch disk."
+        },
+        {
+            "text": "Brush two rimless baking sheets with oil."
+        },
+        {
+            "text": "Place disks of dough on baking sheets; brush dough lightly with oil."
+        },
+        {
+            "text": "Using your hands, crush tomatoes in a bowl; season with salt and pepper."
+        },
+        {
+            "text": "Spread tomatoes on dough; sprinkle with red-pepper flakes."
+        },
+        {
+            "text": "Bake, rotating sheets from top to bottom and front to back halfway through, until crusts are golden, 18 to 20 minutes."
+        },
+        {
+            "text": "Toss arugula with cheese; divide among pizzas."
+        },
+        {
+            "text": "Drizzle with vinegar and oil."
+        }
+    ]
+}

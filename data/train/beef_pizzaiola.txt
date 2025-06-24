@@ -1,0 +1,103 @@
+{
+    "title": "beef_pizzaiola",
+    "id": "727d60063e",
+    "table": [
+        {
+            "instructions": "heat olive_oil in a pan .",
+            "input": "olive_oil",
+            "action": "heat",
+            "output": "heated_olive_oil"
+        },
+        {
+            "instructions": "add beef_strip",
+            "input": "(heated_olive_oil; beef strips)",
+            "action": "add",
+            "output": "beef strips in heated_olive_oil"
+        },
+        {
+            "instructions": "stir well .",
+            "input": "beef strips in heated_olive_oil",
+            "action": "stir",
+            "output": "stirred beef strips in heated_olive_oil"
+        },
+        {
+            "instructions": "top with tomatoes , garlic , oregano , basil , and pepper .",
+            "input": "(tomatoes; garlic; oregano; basil; pepper; stirred beef strips in heated_olive_oil)",
+            "action": "top",
+            "output": "stirred beef strips in heated_olive_oil topped with tomatoes , garlic , oregano , basil , and pepper "
+        },
+        {
+            "instructions": "place lid on pan",
+            "input": "stirred beef strips in heated_olive_oil topped with tomatoes , garlic , oregano , basil , and pepper ",
+            "action": "place",
+            "output": "stirred beef strips in heated_olive_oil topped with tomatoes , garlic , oregano , basil , and pepper "
+        },
+        {
+            "instructions": "cook on medium high for 10 minutes .",
+            "input": "stirred beef strips in heated_olive_oil topped with tomatoes , garlic , oregano , basil , and pepper ",
+            "action": "cook",
+            "output": "cooking beef and tomatoes mixture"
+        },
+        {
+            "instructions": "reduce heat to low",
+            "input": "cooking beef and tomatoes mixture",
+            "action": "reduce",
+            "output": "cooking beef and tomatoes mixture"
+        },
+        {
+            "instructions": "cook for 30 45 minutes , or until meat is tender .",
+            "input": "cooking beef and tomatoes mixture",
+            "action": "cook",
+            "output": "cooked beef and tomatoes mixture"
+        },
+        {
+            "instructions": "serve over rice , or egg_noodle .",
+            "input": "(cooked beef and tomatoes mixture; rice/egg noodles)",
+            "action": "serve",
+            "output": "cooked beef and tomatoes mixture served with rice or egg noodles"
+        }
+    ],
+    "ingredients": [
+        {
+            "text": "1 lb beef sirloin (cut in strips)"
+        },
+        {
+            "text": "1 (14 ounce) can stewed tomatoes"
+        },
+        {
+            "text": "2 tablespoons minced garlic"
+        },
+        {
+            "text": "1 teaspoon fresh basil"
+        },
+        {
+            "text": "1 teaspoon oregano"
+        },
+        {
+            "text": "1 teaspoon cracked pepper"
+        },
+        {
+            "text": "2 tablespoons olive oil"
+        }
+    ],
+    "recipe": [
+        {
+            "text": "Heat olive oil in a pan."
+        },
+        {
+            "text": "Add beef strips and stir well."
+        },
+        {
+            "text": "Top with tomatoes, garlic, oregano, basil, and pepper."
+        },
+        {
+            "text": "Place lid on pan and cook on medium/high for 10 minutes."
+        },
+        {
+            "text": "Reduce heat to low and cook for 30-45 minutes, or until meat is tender."
+        },
+        {
+            "text": "Serve over rice, or egg noodles."
+        }
+    ]
+}

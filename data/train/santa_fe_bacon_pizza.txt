@@ -1,0 +1,73 @@
+{
+    "title": "santa_fe_bacon_pizza",
+    "id": "b248ababca",
+    "table": [
+        {
+            "instructions": "preheat oven to 45",
+            "input": "NA",
+            "action": "preheat",
+            "output": "NA"
+        },
+        {
+            "instructions": "brush the bread with the olive_oil .",
+            "input": "bread; olive oil",
+            "action": "brush",
+            "output": "brushed_bread with olive oil"
+        },
+        {
+            "instructions": "place on oven rackand bake for 5 8 minutes , until cheese has melted .",
+            "input": "cheese; brushed_bread with olive oil",
+            "action": "place",
+            "output": "baked bread pizza with cheese"
+        },
+        {
+            "instructions": "cut into wedges",
+            "input": "baked bread pizza with cheese",
+            "action": "cut",
+            "output": "sliced baked bread pizza with cheese"
+        }
+    ],
+    "ingredients": [
+        {
+            "text": "1 (6 inch) Italian bread"
+        },
+        {
+            "text": "1 teaspoon olive oil"
+        },
+        {
+            "text": "14 cup chopped & cooked chicken breast"
+        },
+        {
+            "text": "14 cup cheddar cheese, shredded"
+        },
+        {
+            "text": "14 cup jalapeno jack cheese, shredded"
+        },
+        {
+            "text": "2 slices oscar mayer center-cut bacon, cut into 1/2 inch pieces, cooked"
+        },
+        {
+            "text": "1 small tomatoes, chopped"
+        },
+        {
+            "text": "1 green onion, chopped"
+        }
+    ],
+    "recipe": [
+        {
+            "text": "Preheat oven to 450."
+        },
+        {
+            "text": "Brush the bread with the olive oil."
+        },
+        {
+            "text": "Layer with the remaining ingredients."
+        },
+        {
+            "text": "Place on oven rack& bake for 5-8 minutes, until cheese has melted."
+        },
+        {
+            "text": "Cut into wedges and enjoy!"
+        }
+    ]
+}

@@ -1,0 +1,178 @@
+{
+    "title": "pesto_chicken_or_shrimp_pizza",
+    "id": "5c598bfc0e",
+    "table": [
+        {
+            "instructions": "preheat oven to 40",
+            "input": "NA",
+            "action": "preheat",
+            "output": "NA"
+        },
+        {
+            "instructions": "melt 1 tbs butter over med high heat until it starts to foam .",
+            "input": "butter",
+            "action": "melt",
+            "output": "melted butter"
+        },
+        {
+            "instructions": "sautee mushrooms 5 7 minutes or until softened .",
+            "input": "(mushrooms; melted butter)",
+            "action": "sautee",
+            "output": "sauteed_mushrooms in melted butter"
+        },
+        {
+            "instructions": "remove",
+            "input": "sauteed_mushrooms in melted butter",
+            "action": "remove",
+            "output": "buttery mushrooms"
+        },
+        {
+            "instructions": "set aside .",
+            "input": "buttery mushrooms",
+            "action": "set",
+            "output": "buttery mushrooms"
+        },
+        {
+            "instructions": "add reminaing 1 tbs of butter and onion to pan",
+            "input": "(butter; onion)",
+            "action": "add",
+            "output": "onion in melted butter"
+        },
+        {
+            "instructions": "stir .",
+            "input": "onion in melted butter",
+            "action": "stir",
+            "output": "onion in melted butter"
+        },
+        {
+            "instructions": "cover",
+            "input": "onion in melted butter",
+            "action": "cover",
+            "output": "onion in melted butter"
+        },
+        {
+            "instructions": "remove lid",
+            "input": "onion in melted butter",
+            "action": "remove",
+            "output": "onion in melted butter"
+        },
+        {
+            "instructions": "pour balsamic_vinegar",
+            "input": "(onion in melted butter; balsamic vinegar)",
+            "action": "pour",
+            "output": "balsamic vinegar in cooked onions with butter"
+        },
+        {
+            "instructions": "sprinkle sugar over onions",
+            "input": "(balsamic vinegar in cooked onions with butter; sugar)",
+            "action": "sprinkle",
+            "output": "sweet and sour cooked onions"
+        },
+        {
+            "instructions": "stir to combine .",
+            "input": "sweet and sour cooked onions",
+            "action": "stir",
+            "output": "sweet and sour cooked onions"
+        },
+        {
+            "instructions": "meanwhile , spread roasted_garlic over crust .",
+            "input": "(roasted_garlic; crust)",
+            "action": "spread",
+            "output": "Spread roasted_garlic over crust"
+        },
+        {
+            "instructions": "spread pesto over crust .",
+            "input": "(pesto; crust with roasted garlic)",
+            "action": "spread",
+            "output": "crust with roasted garlic and pesto"
+        },
+        {
+            "instructions": "top with chicken or shrimp , onions , mushrooms , tomato and cheeses .",
+            "input": "(chicken; cooked sweet and sour onions; cooked buttery mushrooms; tomato; cheese; crust with roasted garlic and pesto)",
+            "action": "top",
+            "output": "crust with roasted garlic, pesto, chicken or shrimp, cooked sweet and sour onion, cooked buttery mushrooms, tomato and cheeses"
+        },
+        {
+            "instructions": "bake 10 12 minutes or until crust is brown and cheese is melted and bubbly",
+            "input": "uncooked pesto chicken pizza",
+            "action": "bake",
+            "output": "baked pesto chicken pizza"
+        }
+    ],
+    "ingredients": [
+        {
+            "text": "1 thin pizza crust"
+        },
+        {
+            "text": "1 cooked chicken breasts, shredded or 12-34 cup raw shrimp, peeled and deveined"
+        },
+        {
+            "text": "6 garlic cloves, roasted and mashed"
+        },
+        {
+            "text": "12 cup pesto sauce"
+        },
+        {
+            "text": "1 small onion, halved and sliced"
+        },
+        {
+            "text": "2 tablespoons butter"
+        },
+        {
+            "text": "1 teaspoon balsamic vinegar"
+        },
+        {
+            "text": "12 cup sliced mushrooms (optional)"
+        },
+        {
+            "text": "12 tablespoon sugar substitute or 12 tablespoon sugar"
+        },
+        {
+            "text": "1 small tomatoes, seeded, halved and sliced"
+        },
+        {
+            "text": "1 cup mozzarella cheese, shredded"
+        },
+        {
+            "text": "12 cup parmesan cheese, shredded (or grated)"
+        }
+    ],
+    "recipe": [
+        {
+            "text": "Preheat oven to 400."
+        },
+        {
+            "text": "Melt 1 tbs butter over med-high heat until it starts to foam."
+        },
+        {
+            "text": "Sautee mushrooms 5-7 minutes or until softened."
+        },
+        {
+            "text": "Remove and set aside."
+        },
+        {
+            "text": "Add reminaing 1 tbs of butter and onion to pan and stir."
+        },
+        {
+            "text": "Cover and let cook about 5 minutes until onions soften."
+        },
+        {
+            "text": "Remove lid and let cook 15-20 minutes or until nicely browned and caramelized, stirring midway."
+        },
+        {
+            "text": "Pour balsamic vinegar and sprinkle sugar over onions and stir to combine."
+        },
+        {
+            "text": "Meanwhile, spread roasted garlic over crust."
+        },
+        {
+            "text": "Spread pesto over crust."
+        },
+        {
+            "text": "Top with chicken or shrimp, onions, mushrooms, tomato and cheeses."
+        },
+        {
+            "text": "Bake 10-12 minutes or until crust is brown and cheese is melted and bubbly and slightly browned."
+        }
+    ]
+}

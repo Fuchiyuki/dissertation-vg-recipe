@@ -1,0 +1,121 @@
+{
+    "title": "pull_apart_pizza_muffins",
+    "id": "d5f7086051",
+    "table": [
+        {
+            "instructions": "preheat oven 375 degrees .",
+            "input": "NA",
+            "actions": "preheat",
+            "output": "NA"
+        },
+        {
+            "instructions": "prepare six standard muffin cups with nonstick cooking_spray",
+            "input": "NA",
+            "actions": "prepare",
+            "output": "NA"
+        },
+        {
+            "instructions": "set aside .",
+            "input": "NA",
+            "actions": "set",
+            "output": "NA"
+        },
+        {
+            "instructions": "in a large bowl , combine green_pepper , olives , parmesan and pepperoni .",
+            "input": "(green_pepper; olives; parmesan; pepperoni)",
+            "actions": "combine",
+            "output": "cheese mixture"
+        },
+        {
+            "instructions": "set aside .",
+            "input": "cheese mixture",
+            "actions": "set",
+            "output": "olive and cheese mixture"
+        },
+        {
+            "instructions": "pour pizza_sauce into a separate bowl .",
+            "input": "pizza sauce",
+            "actions": "pour",
+            "output": "pizza sauce"
+        },
+        {
+            "instructions": "dip each piece of pizza_dough into sauce ,",
+            "input": "(pizza_dough; pizza_sauce)",
+            "actions": "dip",
+            "output": "pizza_dough_dipped_into_pizza_sauce"
+        },
+        {
+            "instructions": "roll in olive and cheese mixture .",
+            "input": "(olive and cheese mixture; pizza_dough_dipped_into_pizza_sauce)",
+            "actions": "roll",
+            "output": "coated pizza_dough in olive_cheese and mixture"
+        },
+        {
+            "instructions": "place five pieces of coated pizza_dough into each muffin cup .",
+            "input": "coated pizza_dough in olive_cheese and mixture",
+            "actions": "place",
+            "output": "uncooked pull apart pizza muffins"
+        },
+        {
+            "instructions": ", then bake for 35 40 minutes .",
+            "input": "uncooked pull apart pizza muffins",
+            "actions": "bake",
+            "output": "baked pull apart pizza muffins"
+        },
+        {
+            "instructions": "transfer to a wire rack to cool for 5 minutes before removing from pan .",
+            "input": "baked pull apart pizza muffins",
+            "actions": "transfer",
+            "output": "baked pull apart pizza muffins"
+        }
+    ],
+    "ingredients": [
+        {
+            "text": "1 cup diced green pepper (1/4-inch)"
+        },
+        {
+            "text": "1 cup ripe olives, wedged"
+        },
+        {
+            "text": "1 cup shredded parmesan cheese"
+        },
+        {
+            "text": "2 ounces chopped pepperoni"
+        },
+        {
+            "text": "34 cup prepared pizza sauce"
+        },
+        {
+            "text": "1 lb prepared pizza dough, cut into 30 pieces (for ease use kitchen shears)"
+        }
+    ],
+    "recipe": [
+        {
+            "text": "Preheat oven 375 degrees."
+        },
+        {
+            "text": "Prepare six standard muffin cups with nonstick cooking spray and set aside."
+        },
+        {
+            "text": "In a large bowl, combine green peppers, olives, parmesan and pepperoni."
+        },
+        {
+            "text": "Set aside."
+        },
+        {
+            "text": "Pour pizza sauce into a separate bowl."
+        },
+        {
+            "text": "Dip each piece of pizza dough into sauce, then roll in olive and cheese mixture."
+        },
+        {
+            "text": "Place five pieces of coated pizza dough into each muffin cup."
+        },
+        {
+            "text": "Allow to rest in a warm place for 30-45 min., then bake for 35-40 minutes."
+        },
+        {
+            "text": "Transfer to a wire rack to cool for 5 minutes before removing from pan."
+        }
+    ]
+}

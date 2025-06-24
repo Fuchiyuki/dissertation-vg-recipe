@@ -1,0 +1,127 @@
+{
+    "title": "flax_meal_pizza_crust",
+    "id": "737fcc2b4f",
+    "table": [
+        {
+            "instructions": "preheat oven to 375 degrees .",
+            "input": "NA",
+            "action": "preheat",
+            "output": "NA"
+        },
+        {
+            "instructions": "mix dry ingredients ,",
+            "input": "(flax seed meal; baking powder; salt; Splenda sugar substitute; italian seasoning)",
+            "action": "mix",
+            "output": "dry ingredients"
+        },
+        {
+            "instructions": "add egg , water , and oil .",
+            "input": "(Egg, Water Oil; dry ingredients)",
+            "action": "add",
+            "output": "egg, water and oil added to dry ingredients"
+        },
+        {
+            "instructions": "spread batter on a silicone baking mat on a cookie sheet .",
+            "input": "egg, water and oil added to dry ingredients",
+            "action": "spread",
+            "output": "spread batter"
+        },
+        {
+            "instructions": "bake 8 minutes",
+            "input": "batter",
+            "action": "bake",
+            "output": "baked pizza crust"
+        },
+        {
+            "instructions": "bake an additional 5 minutes or so .",
+            "input": "baked pizza crust",
+            "action": "bake",
+            "output": "doubly baked pizza crust"
+        },
+        {
+            "instructions": "transfer to cookie sheet minus silicone mat .",
+            "input": "doubly baked pizza crust",
+            "action": "transfer",
+            "output": "doubly baked pizza crust"
+        },
+        {
+            "instructions": "top crust with sauce , cheese , and favorite toppings .",
+            "input": "doubly baked pizza crust, sauce, cheese, toppings",
+            "action": "top",
+            "output": "Pizza crust topped with sauce, cheese, and toppings"
+        },
+        {
+            "instructions": "bake until cheese is melted .",
+            "input": "Pizza crust topped with sauce, cheese, and toppings",
+            "action": "bake",
+            "output": "baked flax meal pizza with melted cheese"
+        },
+        {
+            "instructions": "broil to brown cheese and crisp pepperoni .",
+            "input": "baked flax meal pizza with melted cheese",
+            "action": "broil",
+            "output": "broiled flax meal pizza with borwned cheese and crispy pepperoni"
+        }
+    ],
+    "ingredients": [
+        {
+            "text": "14 cup flax seed meal (\"golden\" flaxmeal recommended)"
+        },
+        {
+            "text": "14 teaspoon baking powder"
+        },
+        {
+            "text": "14 teaspoon Nu-salt"
+        },
+        {
+            "text": "1 tablespoon italian seasoning"
+        },
+        {
+            "text": "18 teaspoon Splenda sugar substitute"
+        },
+        {
+            "text": "1 tablespoon parmesan cheese (grated)"
+        },
+        {
+            "text": "1 egg"
+        },
+        {
+            "text": "2 teaspoons water"
+        },
+        {
+            "text": "2 teaspoons olive oil"
+        }
+    ],
+    "recipe": [
+        {
+            "text": "Preheat oven to 375 degrees."
+        },
+        {
+            "text": "Mix dry ingredients, then add egg, water, and oil."
+        },
+        {
+            "text": "Spread batter on a silicone baking mat on a cookie sheet."
+        },
+        {
+            "text": "Bake 8 minutes or until top is dry and bottom is crispy."
+        },
+        {
+            "text": "Flip crust over and bake an additional 5 minutes or so."
+        },
+        {
+            "text": "Crust can be made even more crispy by heating in a pan on the stovetop after baking."
+        },
+        {
+            "text": "Transfer to cookie sheet (minus silicone mat)."
+        },
+        {
+            "text": "Top crust with sauce, cheese, and favorite toppings."
+        },
+        {
+            "text": "Bake until cheese is melted."
+        },
+        {
+            "text": "Broil to brown cheese and crisp pepperoni."
+        }
+    ]
+}

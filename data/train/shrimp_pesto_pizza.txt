@@ -1,0 +1,166 @@
+{
+    "title": "shrimp_pesto_pizza",
+    "id": "852dfc1fa2",
+    "table": [
+        {
+            "instructions": "spray counter lightly with non stick cooking_spray .",
+            "input": "NA",
+            "actions": "spray",
+            "output": "NA"
+        },
+        {
+            "instructions": "combine rolls into a ball .",
+            "input": "rolls",
+            "actions": "combine",
+            "output": "combined_rolls"
+        },
+        {
+            "instructions": "roll into a 16 inch circle .",
+            "input": "combined_rolls",
+            "actions": "roll",
+            "output": "pizza_crust"
+        },
+        {
+            "instructions": "place on a 15 inch sprayed pizza pan .",
+            "input": "pizza_crust",
+            "actions": "place",
+            "output": "pizza_crust"
+        },
+        {
+            "instructions": "poke several times with a fork to prevent bubbles from forming .",
+            "input": "pizza_crust",
+            "actions": "poke",
+            "output": "poked_pizza_crust"
+        },
+        {
+            "instructions": "bake at 400f 10 minutes .",
+            "input": "pizza_crust",
+            "actions": "bake",
+            "output": "baked_pizza_crust"
+        },
+        {
+            "instructions": "remove from oven .",
+            "input": "baked_pizza_crust",
+            "actions": "remove",
+            "output": "baked_pizza_crust"
+        },
+        {
+            "instructions": "spread with pesto .",
+            "input": "(baked_pizza_crust; pesto)",
+            "actions": "spread",
+            "output": "pesto_spread_over_baked_pizza_crust"
+        },
+        {
+            "instructions": "sprinkle with 1 cup , cheese .",
+            "input": "(pest covered_pizza_crust; cheese)",
+            "actions": "sprinkle",
+            "output": "cheese_sprinkled over pesto pizza"
+        },
+        {
+            "instructions": "top with shrimp and tomatoes .",
+            "input": "(cheese_sprinkled over pesto pizza; shrimp; tomatoes)",
+            "actions": "top",
+            "output": "cheesy pesto pizza topped with shrimp and tomatoes"
+        },
+        {
+            "instructions": "sprinkle with remaining cheese , onion , and pepper_flake .",
+            "input": "(uncooked pesto shrimp pizza; cheese; onion; pepper_flake)",
+            "actions": "sprinkle",
+            "output": "cheese , onion , and pepper_flake sprinkled over uncooked pesto shrimp pizza"
+        },
+        {
+            "instructions": "bake at 400f 10 15 minutes .",
+            "input": "uncooked shrimp pesto pizza",
+            "actions": "bake",
+            "output": "baked shrimp pesto pizza"
+        }
+    ],
+    "ingredients": [
+        {
+            "text": "8 rhodes frozen texas rolls or 12 rhodes frozen dinner rolls, thawed and risen"
+        },
+        {
+            "text": "13 cup pesto sauce (recipe below)"
+        },
+        {
+            "text": "2 cups grated mozzarella cheese"
+        },
+        {
+            "text": "8 ounces shrimp, cooked and peeled"
+        },
+        {
+            "text": "12 cup chopped sun-dried tomato, softened"
+        },
+        {
+            "text": "14 cup minced green onion"
+        },
+        {
+            "text": "14 teaspoon crushed red pepper flakes"
+        }
+    ],
+    "recipe": [
+        {
+            "text": "Spray counter lightly with non-stick cooking spray."
+        },
+        {
+            "text": "Combine rolls into a ball."
+        },
+        {
+            "text": "Roll into a 16 inch circle."
+        },
+        {
+            "text": "Place on a 15 inch sprayed pizza pan."
+        },
+        {
+            "text": "Poke several times with a fork to prevent bubbles from forming."
+        },
+        {
+            "text": "Bake at 400F 10 minutes."
+        },
+        {
+            "text": "Remove from oven."
+        },
+        {
+            "text": "Spread with pesto."
+        },
+        {
+            "text": "Sprinkle with 1-cup cheese."
+        },
+        {
+            "text": "Top with shrimp and tomatoes."
+        },
+        {
+            "text": "Sprinkle with remaining cheese, onion, and pepper flakes."
+        },
+        {
+            "text": "Bake at 400F 10-15 minutes."
+        },
+        {
+            "text": "PESTO:."
+        },
+        {
+            "text": "2 cups lightly packed fresh basil leaves."
+        },
+        {
+            "text": "1/2 cup olive oil."
+        },
+        {
+            "text": "1 cup Parmesan cheese."
+        },
+        {
+            "text": "1 clove garlic, minced."
+        },
+        {
+            "text": "Place all ingredients in blender."
+        },
+        {
+            "text": "Blend until smooth, adding more oil if needed."
+        },
+        {
+            "text": "(If made ahead, cover and chill up to 5 days, or freeze.)"
+        },
+        {
+            "text": "Makes 1 1/2 cups."
+        }
+    ]
+}

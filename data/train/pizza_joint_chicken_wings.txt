@@ -1,0 +1,181 @@
+{
+    "title": "pizza_joint_chicken_wings",
+    "id": "3dfcd9256b",
+    "table": [
+        {
+            "instructions": "use a sharp knife to cut in between the joint of the tip and the wing ;",
+            "input": "chicken wings",
+            "actions": "use",
+            "output": "cut chicken wings "
+        },
+        {
+            "instructions": "discard the tip .",
+            "input": "cut chicken wings ",
+            "actions": "discard",
+            "output": "chicken wings without tip"
+        },
+        {
+            "instructions": "cut in between the joint of the drumette and the wing",
+            "input": "chicken wings without tip",
+            "actions": "cut",
+            "output": "cut chicken wings without tip"
+        },
+        {
+            "instructions": "separate them .",
+            "input": "cut chicken wings without tip",
+            "actions": "separate",
+            "output": "prepared chicken wings"
+        },
+        {
+            "instructions": "generously season the chicken with salt and pepper .",
+            "input": "(prepared chicken wings; salt; pepper)",
+            "actions": "season",
+            "output": "seasoned prepared chicken wings"
+        },
+        {
+            "instructions": "put the seasoned chicken into a gallon sized resealable zipper bag .",
+            "input": "seasoned prepared chicken wings",
+            "actions": "put",
+            "output": "bagged seasoned prepared chicken wings"
+        },
+        {
+            "instructions": "add the remaining_ingredient to the bag .",
+            "input": "(bagged seasoned prepared chicken wings; remaining ingredients)",
+            "actions": "add",
+            "output": "remaining ingredients added to bagged seasoned prepared chicken wings"
+        },
+        {
+            "instructions": "squeeze the air out",
+            "input": "remaining ingredients added to bagged seasoned prepared chicken wings",
+            "actions": "squeeze",
+            "output": "airless bagged chicken wings "
+        },
+        {
+            "instructions": "zip the bag",
+            "input": "airless bagged chicken wings ",
+            "actions": "zip",
+            "output": "sealed bagged chicken wings"
+        },
+        {
+            "instructions": "marinate the chicken in the refrigerator for 1 to 2 hours , turning the bag over half way through .",
+            "input": "sealed bagged chicken wings",
+            "actions": "marinate",
+            "output": "marinated chicken wings"
+        },
+        {
+            "instructions": "do not marinate the chicken for more than 2 hours , or the acid from the wine will cause the chicken to break down .",
+            "input": "NA",
+            "actions": "marinate",
+            "output": "NA"
+        },
+        {
+            "instructions": "preheat oven to 450 f .",
+            "input": "NA",
+            "actions": "preheat",
+            "output": "NA"
+        },
+        {
+            "instructions": "lay the chicken in a single layer on a half sheet pan ,",
+            "input": "marinated chicken wings",
+            "actions": "lay",
+            "output": "arranged chicken wings"
+        },
+        {
+            "instructions": "pour the marinade from the bag over the chicken .",
+            "input": "(marinade; arranged chicken wings)",
+            "actions": "pour",
+            "output": "marinade poured over arranged chicken wings"
+        },
+        {
+            "instructions": "put the chicken into the hot oven",
+            "input": "uncooked chicken wings",
+            "actions": "put",
+            "output": "uncooked chicken wings"
+        },
+        {
+            "instructions": "roast for 30 minutes , turning half way through or until the chicken is cooked through , and the skin is crispy and golden brown .",
+            "input": "uncooked chicken wings",
+            "actions": "roast",
+            "output": "roasted chicken wings"
+        }
+    ],
+    "ingredients": [
+        {
+            "text": "1- 1/2 pound Chicken Wings"
+        },
+        {
+            "text": "Salt And Pepper"
+        },
+        {
+            "text": "1/2 whole Medium Onion, Sliced 1/4 Inch Thick"
+        },
+        {
+            "text": "6 cloves Garlic, Smashed"
+        },
+        {
+            "text": "12 sprigs Fresh Thyme, Or 5 Sprigs Of Fresh Rosemary"
+        },
+        {
+            "text": "1 cup Dry White Wine"
+        },
+        {
+            "text": "1/4 cups Extra Virgin Olive Oil"
+        }
+    ],
+    "recipe": [
+        {
+            "text": "1."
+        },
+        {
+            "text": "Use a sharp knife to cut in between the joint of the tip and the wing; discard the tip."
+        },
+        {
+            "text": "Cut in between the joint of the drumette and the wing and separate them."
+        },
+        {
+            "text": "2."
+        },
+        {
+            "text": "Generously season the chicken with salt and pepper."
+        },
+        {
+            "text": "3."
+        },
+        {
+            "text": "Put the seasoned chicken into a gallon sized resealable zipper bag."
+        },
+        {
+            "text": "4."
+        },
+        {
+            "text": "Add the remaining ingredients to the bag."
+        },
+        {
+            "text": "Squeeze the air out, zip the bag and mush everything around distributing the ingredients evenly."
+        },
+        {
+            "text": "5."
+        },
+        {
+            "text": "Marinate the chicken in the refrigerator for 1 to 2 hours, turning the bag over half way through."
+        },
+        {
+            "text": "Do not marinate the chicken for more than 2 hours, or the acid from the wine will cause the chicken to break down."
+        },
+        {
+            "text": "6."
+        },
+        {
+            "text": "Preheat oven to 450 F. 7."
+        },
+        {
+            "text": "Lay the chicken in a single layer on a half sheet pan, and pour the marinade from the bag over the chicken."
+        },
+        {
+            "text": "8."
+        },
+        {
+            "text": "Put the chicken into the hot oven and roast for 30 minutes, turning half way through or until the chicken is cooked through, and the skin is crispy and golden brown."
+        }
+    ]
+}

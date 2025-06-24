@@ -1,0 +1,100 @@
+{
+    "title": "easy_pita_bread_pizzas",
+    "id": "7f869dbac7",
+    "table": [
+        {
+            "instructions": "heat the oven to 425 degrees f .",
+            "input": "NA",
+            "actions": "heat",
+            "output": "NA"
+        },
+        {
+            "instructions": "lay out 4 pita_bread onto a cookie sheet .",
+            "input": "pita_bread",
+            "actions": "lay",
+            "output": "pita_bread"
+        },
+        {
+            "instructions": "drizzle",
+            "input": "(pita_bread; olive_oil)",
+            "actions": "drizzle",
+            "output": "olive_oil_drizzled_over_pita_bread"
+        },
+        {
+            "instructions": "spread evenly the olive_oil on top of the pita_bread .",
+            "input": "oiled_pita_bread",
+            "actions": "spread",
+            "output": "olive_oil_spread_over_pita bread"
+        },
+        {
+            "instructions": "spread the spicy black bean_dip onto the pita_bread .",
+            "input": "(black bean_dip; pita bread)",
+            "actions": "spread",
+            "output": "black bean_dip spread over pita bread"
+        },
+        {
+            "instructions": "sprinkle the cheese , bell_pepper , and jalapenos on top of the pitas .",
+            "input": "(cheese; bell_pepper; jalapenos; pitas)",
+            "actions": "sprinkle",
+            "output": "cheese, bell_pepper and and jalapenos sprinkled over pitas"
+        },
+        {
+            "instructions": "bake for 15 20 minutes until cheese is melted and edges of the pita_bread are browned .",
+            "input": "uncooked pita_bread_pizzas",
+            "actions": "bake",
+            "output": "baked pita_bread_pizzas"
+        },
+        {
+            "instructions": "top each pizza with a bunch of arugula .",
+            "input": "(pita_bread_pizzas; arugula)",
+            "actions": "top",
+            "output": "pita_bread_pizzas_topped_with arugula"
+        }
+    ],
+    "ingredients": [
+        {
+            "text": "4 whole Pita Breads"
+        },
+        {
+            "text": "2 Tablespoons Olive Oil"
+        },
+        {
+            "text": "1 jar (12 Oz. Size) Fat-free Spicy Black Bean Spread"
+        },
+        {
+            "text": "1- 1/2 cup Grated White Cheddar Cheese"
+        },
+        {
+            "text": "1- 1/2 Bell Pepper, Diced"
+        },
+        {
+            "text": "1/4 cups Jalapenos"
+        },
+        {
+            "text": "1 bunch Arugula"
+        }
+    ],
+    "recipe": [
+        {
+            "text": "Heat the oven to 425 degrees F."
+        },
+        {
+            "text": "Lay out 4 pita breads onto a cookie sheet."
+        },
+        {
+            "text": "Drizzle and spread evenly the olive oil on top of the pita breads."
+        },
+        {
+            "text": "Spread the spicy black bean dip onto the pita breads."
+        },
+        {
+            "text": "Sprinkle the cheese, bell peppers, and jalapenos on top of the pitas."
+        },
+        {
+            "text": "Bake for 15 -20 minutes until cheese is melted and edges of the pita bread are browned."
+        },
+        {
+            "text": "Top each pizza with a bunch of arugula."
+        }
+    ]
+}

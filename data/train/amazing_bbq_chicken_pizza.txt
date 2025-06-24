@@ -1,0 +1,118 @@
+{
+    "title": "amazing_bbq_chicken_pizza",
+    "id": "2186cdf273",
+    "table": [
+        {
+            "instructions": "bake chicken_breast for one hour at 350 degrees fahrenheit .",
+            "input": "chicken_breast",
+            "actions": "bake",
+            "output": "baked_chicken_breast"
+        },
+        {
+            "instructions": "after one hour take the chicken out of the oven",
+            "input": "_after_take_chicken_",
+            "actions": "take",
+            "output": "after_take_chicken_"
+        },
+        {
+            "instructions": "let stand for as long you want .",
+            "input": "chicken_breast",
+            "actions": "stand",
+            "output": "chicken_breast"
+        },
+        {
+            "instructions": "use a fork to shred the chicken until compeletly shredded .",
+            "input": "fork_shred_chicken",
+            "actions": "use",
+            "output": "fork_shred_chicken"
+        },
+        {
+            "instructions": "add barbecue_sauce onto unbaked crust",
+            "input": "barbecue_sauce_crust",
+            "actions": "add",
+            "output": "barbecue_sauce_crust"
+        },
+        {
+            "instructions": "add the chicken .",
+            "input": "un cooked_chicken",
+            "actions": "add",
+            "output": "un cooked_chicken"
+        },
+        {
+            "instructions": "brush chicken with additional sauce .",
+            "input": "cooked_chicken",
+            "actions": "brush",
+            "output": "cooked_chicken"
+        },
+        {
+            "instructions": "sprinkle the cheese onto the pizza .",
+            "input": "pizza_dough",
+            "actions": "sprinkle",
+            "output": "pizza_dough"
+        },
+        {
+            "instructions": "bake pizza according to package directions until cheese melts .",
+            "input": "pizza_greased",
+            "actions": "bake",
+            "output": "pizza_greased"
+        },
+        {
+            "instructions": "use a pizza , wheel to cut into slices .",
+            "input": "baked_pizza",
+            "actions": "use",
+            "output": "baked_pizza"
+        }
+    ],
+    "ingredients": [
+        {
+            "text": "1 (13 7/8 ounce) canrefrigerated pizza dough"
+        },
+        {
+            "text": "1 cup barbecue sauce"
+        },
+        {
+            "text": "2 14 cups low-fat cheddar cheese"
+        },
+        {
+            "text": "3 chicken breasts, baked seasoned and shredded"
+        }
+    ],
+    "recipe": [
+        {
+            "text": "Bake chicken breasts for one hour at 350 degrees Fahrenheit."
+        },
+        {
+            "text": "After one hour take the chicken out of the oven and let stand for as long you want."
+        },
+        {
+            "text": "Use a fork to shred the chicken until compeletly shredded."
+        },
+        {
+            "text": "Unbake crust according to package directions."
+        },
+        {
+            "text": "Add barbecue sauce onto unbaked crust then add the chicken."
+        },
+        {
+            "text": "Brush chicken with additional sauce."
+        },
+        {
+            "text": "Sprinkle the cheese onto the pizza."
+        },
+        {
+            "text": "Bake pizza according to package directions until cheese melts."
+        },
+        {
+            "text": "Let pizza stand in cookie sheet for 5 minutes before serving."
+        },
+        {
+            "text": "Use a pizza wheel to cut into slices."
+        },
+        {
+            "text": "Enjoy and share with someone you love!"
+        },
+        {
+            "text": "Refreigerate leftovers."
+        }
+    ]
+}

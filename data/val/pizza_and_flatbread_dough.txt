@@ -1,0 +1,169 @@
+{
+    "title": "pizza_and_flatbread_dough",
+    "id": "d7035bd6c2",
+    "table": [
+        {
+            "instructions": "put the yeast in another bowl .",
+            "input": "yeast",
+            "actions": "put",
+            "output": "yeast"
+        },
+        {
+            "instructions": "whisk in 14 cup warm_water , then 2 tablespoons of the oil .",
+            "input": "(yeast; warm_water; oil)",
+            "actions": "whisk",
+            "output": "yeast_mixture"
+        },
+        {
+            "instructions": "pour this mixture into the center of the flour .",
+            "input": "(flour; yeast_mixture)",
+            "actions": "pour",
+            "output": "flour_with_yeast_solution"
+        },
+        {
+            "instructions": "mix the flour and yeast solution until incorporated .",
+            "input": "flour_with_yeast_solution",
+            "actions": "mix",
+            "output": "dough"
+        },
+        {
+            "instructions": "add 34 cup warm_water to the flour",
+            "input": "(dough; warm_water)",
+            "actions": "add",
+            "output": "dough"
+        },
+        {
+            "instructions": "mix again until the dough pulls together in a single , unified mass .",
+            "input": "dough",
+            "actions": "mix",
+            "output": "dough"
+        },
+        {
+            "instructions": "turn the mass out onto a lightly floured surface",
+            "input": "dough",
+            "actions": "turn",
+            "output": "dough_on_floured_surface"
+        },
+        {
+            "instructions": "push outward",
+            "input": "dough_on_floured_surface",
+            "actions": "push",
+            "output": "dough_on_floured_surface"
+        },
+        {
+            "instructions": "pull the inside edge over the top .",
+            "input": "kneaded_dough",
+            "actions": "pull",
+            "output": "kneaded_dough"
+        },
+        {
+            "instructions": "this should take 6 to 8 minutes .",
+            "input": "NA",
+            "actions": "take",
+            "output": "NA"
+        },
+        {
+            "instructions": "brush a clean , stainless steel bowl with the remaining tablespoon , oil",
+            "input": "NA",
+            "actions": "brush",
+            "output": "NA"
+        },
+        {
+            "instructions": "put the ball of dough in the bowl .",
+            "input": "dough",
+            "actions": "put",
+            "output": "dough"
+        },
+        {
+            "instructions": "cover with a clean cloth",
+            "input": "dough",
+            "actions": "cover",
+            "output": "covered_dough_with_clean_cloth"
+        },
+        {
+            "instructions": "when the dough has risen , divide it in half , or thirds for thinner pizzas ,",
+            "input": "covered_dough_with_clean_cloth",
+            "actions": "divide",
+            "output": "divided_risen_dough"
+        },
+        {
+            "instructions": "shape the pieces into balls that will later be patted into the traditional pizza shape .",
+            "input": "balls_of_dough",
+            "actions": "shape",
+            "output": "shaped_balls_of_dough"
+        }
+    ],
+    "ingredients": [
+        {
+            "text": "3 cups unbleached flour, plus more for dusting a work surface"
+        },
+        {
+            "text": "Fine sea salt"
+        },
+        {
+            "text": "1 envelope (1/4 ounce) active dry yeast"
+        },
+        {
+            "text": "3 tablespoons olive oil"
+        }
+    ],
+    "recipe": [
+        {
+            "text": "1."
+        },
+        {
+            "text": "Process the flour and 2 teaspoons salt in the bowl of a standing mixer fitted with the dough hook until thoroughly incorporated, 1 minute."
+        },
+        {
+            "text": "2."
+        },
+        {
+            "text": "Put the yeast in another bowl."
+        },
+        {
+            "text": "Whisk in 1/4 cup warm water, then 2 tablespoons of the oil."
+        },
+        {
+            "text": "Let rest until the liquid begins to foam, about 10 minutes, then pour this mixture into the center of the flour."
+        },
+        {
+            "text": "Mix the flour and yeast solution until incorporated."
+        },
+        {
+            "text": "Add 3/4 cup warm water to the flour and mix again until the dough pulls together in a single, unified mass."
+        },
+        {
+            "text": "3."
+        },
+        {
+            "text": "Turn the mass out onto a lightly floured surface and begin to knead the dough by working it with the heel of your hand."
+        },
+        {
+            "text": "Push outward and pull the inside edge over the top."
+        },
+        {
+            "text": "Repeat the process over and over to create a smooth ball of dough free of stickiness."
+        },
+        {
+            "text": "This should take 6 to 8 minutes."
+        },
+        {
+            "text": "4."
+        },
+        {
+            "text": "Brush a clean, stainless-steel bowl with the remaining tablespoon oil and put the ball of dough in the bowl."
+        },
+        {
+            "text": "Cover with a clean cloth and let rise at room temperature until it has doubled in size, 1 1/2 to 2 hours."
+        },
+        {
+            "text": "5."
+        },
+        {
+            "text": "When the dough has risen, divide it in half, or thirds for thinner pizzas, and shape the pieces into balls that will later be patted into the traditional pizza shape."
+        },
+        {
+            "text": "The balls of dough can be individually wrapped in plastic and frozen for up to 2 months."
+        }
+    ]
+}

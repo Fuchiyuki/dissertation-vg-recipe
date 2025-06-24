@@ -1,0 +1,151 @@
+{
+    "title": "quick-_-in-a-hurry_pizza_dough",
+    "id": "156fccf38a",
+    "table": [
+        {
+            "instructions": "preheat oven 42",
+            "input": "NA",
+            "action": "preheat",
+            "output": "NA"
+        },
+        {
+            "instructions": "mix all dry ingredients with the exception of the yeast .",
+            "input": "(all purpose flour; sugar; garlic salt; italian spices)",
+            "action": "mix",
+            "output": "mixed dry ingredients"
+        },
+        {
+            "instructions": "make a small well in the dry ingredients",
+            "input": "mixed dry ingredients",
+            "action": "make",
+            "output": "mixed dry ingredients"
+        },
+        {
+            "instructions": "place the yeast inside .",
+            "input": "(mixed dry ingredients; yeast)",
+            "action": "place",
+            "output": "yeast in mixed dry ingredients"
+        },
+        {
+            "instructions": "pour the very warm_water over the yeast",
+            "input": "(warm water; dry ingredients and yeast)",
+            "action": "pour",
+            "output": "warm water poured into dryn ingredients with yeast"
+        },
+        {
+            "instructions": "knead until ingredients are fully incorporated , and the dough is no longer sticky .",
+            "input": "dough",
+            "action": "knead",
+            "output": "kneaded dough"
+        },
+        {
+            "instructions": "immediately form or roll out your dough",
+            "input": "kneaded dough",
+            "action": "form",
+            "output": "rolled dough"
+        },
+        {
+            "instructions": "place on greased pizza or cookie sheet .",
+            "input": "rolled dough",
+            "action": "place",
+            "output": "rolled dough"
+        },
+        {
+            "instructions": "brush the dough with olive_oil .",
+            "input": "(olive oil; rolled dough)",
+            "action": "brush",
+            "output": "rolled dough brushed with olive oil"
+        },
+        {
+            "instructions": "bake for eight minutes .",
+            "input": "oiled raw pizza crust",
+            "action": "bake",
+            "output": "baked crust"
+        },
+        {
+            "instructions": "remove",
+            "input": "baked crust",
+            "action": "remove",
+            "output": "baked crust"
+        },
+        {
+            "instructions": "brush edges with egg gives color .",
+            "input": "(egg; baked crust)",
+            "action": "brush",
+            "output": "baked crust edges brushed with egg"
+        },
+        {
+            "instructions": "fill the pizza with desired ingredients",
+            "input": "(pizza toppings; baked crust with edges brushed with egg)",
+            "action": "fill",
+            "output": "baked crust with edges brushed with egg filled with deisred toppings"
+        },
+        {
+            "instructions": "bake about another 8 10 minutes .",
+            "input": "uncooked pizza",
+            "action": "bake",
+            "output": "baked pizza"
+        }
+    ],
+    "ingredients": [
+        {
+            "text": "3 12 cups all-purpose flour"
+        },
+        {
+            "text": "1 tablespoon sugar"
+        },
+        {
+            "text": "1 tablespoon garlic salt"
+        },
+        {
+            "text": "1 tablespoon Italian spices (optional)"
+        },
+        {
+            "text": "2 tablespoons parmesan cheese (optional)"
+        },
+        {
+            "text": "1 (1 tablespoon) packet yeast"
+        },
+        {
+            "text": "1 12 cups very warm water"
+        },
+        {
+            "text": "2 tablespoons olive oil"
+        },
+        {
+            "text": "1 slightly beaten egg"
+        }
+    ],
+    "recipe": [
+        {
+            "text": "Preheat oven 425."
+        },
+        {
+            "text": "Mix all dry ingredients with the exception of the yeast."
+        },
+        {
+            "text": "Make a small well in the dry ingredients and place the yeast inside."
+        },
+        {
+            "text": "Pour the very warm water over the yeast and incorporate the mixture until you begin to form a dough."
+        },
+        {
+            "text": "Knead until ingredients are fully incorporated, and the dough is no longer sticky."
+        },
+        {
+            "text": "Immediately form (or roll out) your dough and place on greased pizza or cookie sheet."
+        },
+        {
+            "text": "Brush the dough with olive oil."
+        },
+        {
+            "text": "Bake for eight minutes."
+        },
+        {
+            "text": "Remove and brush edges with egg (gives color)."
+        },
+        {
+            "text": "Fill the pizza with desired ingredients and bake about another 8-10 minutes."
+        }
+    ]
+}

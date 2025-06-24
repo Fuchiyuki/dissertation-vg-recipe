@@ -1,0 +1,154 @@
+{
+    "title": "pizza_style_quesadillas",
+    "id": "b9530a4e5f",
+    "table": [
+        {
+            "instructions": "preheat oven to 40",
+            "input": "NA",
+            "action": "preheat",
+            "output": "NA"
+        },
+        {
+            "instructions": "lay 4 tortillas on the counter",
+            "input": "tortillas",
+            "action": "lay",
+            "output": "tortillas"
+        },
+        {
+            "instructions": "spread about 13 cup , mozzarella_cheese over each .",
+            "input": "(mozzarella_cheese; tortilla)",
+            "action": "spread",
+            "output": "mozzarella_cheese_spread_on_tortilla"
+        },
+        {
+            "instructions": "sprinkle a few black_olive , 2 tablespoons onion , and 2 tablespoons green_bell_pepper over cheese .",
+            "input": "(black_olive; onion; green_bell_pepper)",
+            "action": "sprinkle",
+            "output": "tortilla_sprinkled_with_black_olive,_onion,_green_bell_pepper"
+        },
+        {
+            "instructions": "lay pepperoni on top , covering entire surface .",
+            "input": "(pepperoni; tortilla_sprinkled_with_black_olive,_onion,_green_bell_pepper)",
+            "action": "lay",
+            "output": "tortilla_sprinkled_with_black_olive,_onion,_green_bell_pepper_layed_with_pepperoni"
+        },
+        {
+            "instructions": "sprinkle another 13 celsius cheese over top .",
+            "input": "(cheese; tortilla with black olive, onion, green bell pepper, pepperoni and cheese)",
+            "action": "sprinkle",
+            "output": "more cheese sprinkled on tortilla with black olive, onion, green bell pepper, pepperoni and cheese"
+        },
+        {
+            "instructions": "cover each with one of the remaining tortillas .",
+            "input": "(remaining tortilla; tortilla with toppings)",
+            "action": "cover",
+            "output": "remaining tortilla_covering_topped tortillas"
+        },
+        {
+            "instructions": "brush a little water on top of each tortilla .",
+            "input": "(water; remaining tortilla_covering_topped tortillas)",
+            "action": "brush",
+            "output": "water_brushed_remaining tortilla_covering_topped tortillas"
+        },
+        {
+            "instructions": "spread 14 cup , parmesan_cheese in a thin layer over top",
+            "input": "(parmesan_cheese; water_brushed_remaining tortilla_covering_topped tortillas)",
+            "action": "spread",
+            "output": "water_brushed_remaining tortilla_covering_topped tortillas_spread_with_parmesan_cheese"
+        },
+        {
+            "instructions": "press down with a wide spatula , making sure cheese is pressed into tortilla .",
+            "input": "water_brushed_remaining tortilla_covering_topped tortillas",
+            "action": "press",
+            "output": "pressed_quesadilla"
+        },
+        {
+            "instructions": "place quesadillas , parmesan crust side up , onto a wire rack standing on a baking sheet .",
+            "input": "pressed_quesadilla",
+            "action": "place",
+            "output": "pressed_quesadilla"
+        },
+        {
+            "instructions": "bake 10 12 minutes , checking frequently so as not to burn .",
+            "input": "pressed_quesadilla",
+            "action": "bake",
+            "output": "baked_pressed_quesadilla"
+        },
+        {
+            "instructions": "cut into wedges",
+            "input": "baked quesadilla",
+            "action": "cut",
+            "output": "wedges of baked quesadilla"
+        },
+        {
+            "instructions": "serve immediately .",
+            "input": "wedges of baked quesadilla",
+            "action": "serve",
+            "output": "ready to serve wedges of baked quesadilla"
+        }
+    ],
+    "ingredients": [
+        {
+            "text": "8 (10 inch) flour tortillas (white, wheat, garlic)"
+        },
+        {
+            "text": "6 ounces mozzarella cheese, grated"
+        },
+        {
+            "text": "1 (6 ounce) cansliced black olives, drained"
+        },
+        {
+            "text": "12 cup diced onion"
+        },
+        {
+            "text": "12 cup diced green bell pepper"
+        },
+        {
+            "text": "1 (8 ounce) package pepperoni"
+        },
+        {
+            "text": "4 ounces parmesan cheese, grated"
+        }
+    ],
+    "recipe": [
+        {
+            "text": "Preheat oven to 400."
+        },
+        {
+            "text": "Lay 4 tortillas on the counter and spread about 1/3 cup mozzarella cheese over each."
+        },
+        {
+            "text": "Sprinkle a few black olives, 2 tablespoons onion, and 2 tablespoons green bell pepper over cheese."
+        },
+        {
+            "text": "Lay pepperoni on top, covering entire surface."
+        },
+        {
+            "text": "Sprinkle another 1/3 Celsius cheese over top."
+        },
+        {
+            "text": "Cover each with one of the remaining tortillas."
+        },
+        {
+            "text": "Brush a little water on top of each tortilla."
+        },
+        {
+            "text": "Spread 1/4 cup parmesan cheese in a thin layer over top and press down with a wide spatula, making sure cheese is pressed into tortilla."
+        },
+        {
+            "text": "Repeat with each quesadilla."
+        },
+        {
+            "text": "Place quesadillas, Parmesan-crust side up, onto a wire rack standing on a baking sheet."
+        },
+        {
+            "text": "Bake 10-12 minutes, checking frequently so as not to burn."
+        },
+        {
+            "text": "Cut into wedges and serve immediately."
+        },
+        {
+            "text": "May serve with warm marinara, for dipping."
+        }
+    ]
+}

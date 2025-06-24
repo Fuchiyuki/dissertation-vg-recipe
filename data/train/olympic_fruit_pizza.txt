@@ -1,0 +1,133 @@
+{
+    "title": "olympic_fruit_pizza",
+    "id": "a307d03947",
+    "table": [
+        {
+            "instructions": "preheat oven to 375 degrees f .",
+            "input": "NA",
+            "action": "preheat",
+            "output": "NA"
+        },
+        {
+            "instructions": "in a small bowl , combine flour , baking_powder and baking_soda .",
+            "input": "(flour; baking_powder; baking_soda)",
+            "action": "combine",
+            "output": "flour mixture"
+        },
+        {
+            "instructions": "in a large bowl , beat butter and white_sugar .",
+            "input": "(butter; white sugar)",
+            "action": "beat",
+            "output": "creamed butter and sugar"
+        },
+        {
+            "instructions": "add egg and vanilla .",
+            "input": "(egg; vanilla; creamed butter and sugar)",
+            "action": "add",
+            "output": "butter, white sugar with egg and vanilla mixture"
+        },
+        {
+            "instructions": "stir until combined .",
+            "input": "(butter, white sugar with egg and vanilla mixture; flour mixture)",
+            "action": "stir",
+            "output": "cookie dough"
+        },
+        {
+            "instructions": "press cookie dough into a greased 9 x 13 in .",
+            "input": "cookie dough",
+            "action": "press",
+            "output": "cookie dough in greased pan"
+        },
+        {
+            "instructions": "make sure it is evenly distributed throughout the entire pan",
+            "input": "cookie dough in greased pan",
+            "action": "make",
+            "output": "cookie dough in greased pan"
+        },
+        {
+            "instructions": "bake in oven about 12 15 minutes , or until edges are just golden .",
+            "input": "cookie dough in greased pan",
+            "action": "bake",
+            "output": "baked cookie crust"
+        },
+        {
+            "instructions": "then add fruit as shown in the picture .",
+            "input": "(fruit; baked cookie crust)",
+            "action": "add",
+            "output": "baked cookie crust topped with fruit"
+        }
+    ],
+    "ingredients": [
+        {
+            "text": "1/4 cups Plus 2 Tablespoons, All-purpose Flour"
+        },
+        {
+            "text": "1/2 teaspoons Baking Powder"
+        },
+        {
+            "text": "1/2 teaspoons Baking Soda"
+        },
+        {
+            "text": "1/2 cups Butter"
+        },
+        {
+            "text": "3/4 cups Sugar"
+        },
+        {
+            "text": "1 Small Egg, Or Half Of A Large One"
+        },
+        {
+            "text": "1/2 teaspoons Vanilla Extract"
+        },
+        {
+            "text": "8 ounces, weight Cream Cheese"
+        },
+        {
+            "text": "13 ounces, weight Marshmallow Creme"
+        },
+        {
+            "text": "Blueberries, Peaches, Blackberries, Kiwi And Strawberries, To Decorate The Pizza"
+        }
+    ],
+    "recipe": [
+        {
+            "text": "Preheat oven to 375 degrees F. In a small bowl, combine flour, baking powder and baking soda."
+        },
+        {
+            "text": "In a large bowl, beat butter and white sugar."
+        },
+        {
+            "text": "Add egg and vanilla."
+        },
+        {
+            "text": "Slowly incorporate flour mixture into butter mixture, and stir until combined."
+        },
+        {
+            "text": "Press cookie dough into a greased 9 x 13 in."
+        },
+        {
+            "text": "pan."
+        },
+        {
+            "text": "Make sure it is evenly distributed throughout the entire pan so it cooks evenly."
+        },
+        {
+            "text": "Bake in oven about 12-15 minutes, or until edges are just golden."
+        },
+        {
+            "text": "To make frosting, simply beat together cream cheese and marshmallow creme."
+        },
+        {
+            "text": "Once cookie base is completely cool, frost and then add fruit as shown in the picture."
+        },
+        {
+            "text": "Enjoy this dessert while watching the Olympics."
+        },
+        {
+            "text": "Frosting adapted from Pioneer Woman."
+        },
+        {
+            "text": "Cookie base adapted from All Recipes."
+        }
+    ]
+}

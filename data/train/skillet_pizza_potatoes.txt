@@ -1,0 +1,112 @@
+{
+    "title": "skillet_pizza_potatoes",
+    "id": "999c2122f5",
+    "table": [
+        {
+            "instructions": "cook sausage over medium high heat .",
+            "input": "sausage",
+            "actions": "cook",
+            "output": "cooked sausage"
+        },
+        {
+            "instructions": "stir in pepperoni",
+            "input": "(cooked sausage; pepperoni)",
+            "actions": "stir",
+            "output": "pepperoni stirred into cooked sausage"
+        },
+        {
+            "instructions": "cook 2 more minutes .",
+            "input": "pepperoni stirred into cooked sausage",
+            "actions": "cook",
+            "output": "cooked meat mixture"
+        },
+        {
+            "instructions": "drain .",
+            "input": "cooked meat mixture",
+            "actions": "drain",
+            "output": "cooked and drained meat mixture"
+        },
+        {
+            "instructions": "stir in pizza_sauce and water .",
+            "input": "(pizza_sauce; water; cooked and drained meat mixture)",
+            "actions": "stir",
+            "output": "pizza_sauce and water stirred in cooked meat mixture"
+        },
+        {
+            "instructions": "add hashbrowns .",
+            "input": "(hashbrowns; sausage pizza sauce)",
+            "actions": "add",
+            "output": "hasbrowns added to sausage pizza sauce"
+        },
+        {
+            "instructions": "cook covered 10 15 minutes over medium heat , stirring occassionally .",
+            "input": "hashbrown and sausage pizza sauce mixture",
+            "actions": "cook",
+            "output": "cooked hashbrown and sausage pizza sauce mixture"
+        },
+        {
+            "instructions": "sprinkle with cheese",
+            "input": "(cheese; hashbrown and sausage pizza sauce mixture)",
+            "actions": "sprinkle",
+            "output": "cheese sprinkled on hashbrown and sausage pizza sauce mixture"
+        },
+        {
+            "instructions": "remove from heat .",
+            "input": "cooked hashbrown, cheese and sausage pizza sauce mixture",
+            "actions": "remove",
+            "output": "cooked hashbrown, cheese and sausage pizza sauce mixture"
+        },
+        {
+            "instructions": "cover",
+            "input": "cooked hashbrown, cheese and sausage pizza sauce mixture",
+            "actions": "cover",
+            "output": "covered hashbrown, cheese and sausage pizza sauce mixture"
+        }
+    ],
+    "ingredients": [
+        {
+            "text": "1 lb Italian pork sausage"
+        },
+        {
+            "text": "12 cup pepperoni slice"
+        },
+        {
+            "text": "1 (14 ounce) jar pizza sauce"
+        },
+        {
+            "text": "12 cup water"
+        },
+        {
+            "text": "1 (16 ounce) bag southern style hash browns"
+        },
+        {
+            "text": "1 cup shredded Italian cheese blend"
+        }
+    ],
+    "recipe": [
+        {
+            "text": "Cook sausage over medium high heat."
+        },
+        {
+            "text": "Stir in pepperoni, cook 2 more minutes."
+        },
+        {
+            "text": "Drain."
+        },
+        {
+            "text": "Stir in pizza sauce and water."
+        },
+        {
+            "text": "Add hashbrowns."
+        },
+        {
+            "text": "Cook covered 10-15 minutes over medium heat, stirring occassionally."
+        },
+        {
+            "text": "Sprinkle with cheese and remove from heat."
+        },
+        {
+            "text": "Cover and let stand 5 minutes."
+        }
+    ]
+}

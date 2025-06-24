@@ -1,0 +1,91 @@
+{
+    "title": "pizza_dolce",
+    "id": "bfbf51256b",
+    "table": [
+        {
+            "instructions": "preheat oven to 350 degrees .",
+            "input": "NA",
+            "actions": "preheat",
+            "output": "NA"
+        },
+        {
+            "instructions": "mix all_ingredient together .",
+            "input": "all_ingredient",
+            "actions": "mix",
+            "output": "mixed_all_ingredient"
+        },
+        {
+            "instructions": "spray bottom of 9 x 13 glass dish with cooking_spray .",
+            "input": "NA",
+            "actions": "spray",
+            "output": "NA"
+        },
+        {
+            "instructions": "bake for 35 to 40 minutes or until set",
+            "input": "mixed_all_ingredient",
+            "actions": "bake",
+            "output": "baked_all_ingredient"
+        },
+        {
+            "instructions": "chill for 8 hours .",
+            "input": "baked_all_ingredient",
+            "actions": "chill",
+            "output": "chilled_all_ingredient"
+        },
+        {
+            "instructions": "cut into 2 x 2 pieces .",
+            "input": "chilled_all_ingredient",
+            "actions": "cut",
+            "output": "cut_all_ingredient"
+        }
+    ],
+    "ingredients": [
+        {
+            "text": "1 12 lbs ricotta cheese"
+        },
+        {
+            "text": "6 eggs"
+        },
+        {
+            "text": "14 cup sugar"
+        },
+        {
+            "text": "12 tablespoon orange rind or 14 teaspoon orange extract"
+        },
+        {
+            "text": "12 tablespoon lemon rind or 14 teaspoon lemon extract"
+        },
+        {
+            "text": "12 cup miniature semisweet chocolate chips"
+        },
+        {
+            "text": "12 teaspoon vanilla"
+        },
+        {
+            "text": "14 cup liqueur (like Galliano)"
+        }
+    ],
+    "recipe": [
+        {
+            "text": "Preheat oven to 350 degrees."
+        },
+        {
+            "text": "Mix all ingredients together."
+        },
+        {
+            "text": "Spray bottom of 9\" X 13\" glass dish with cooking spray."
+        },
+        {
+            "text": "Bake for 35 to 40 minutes or until set and golden brown."
+        },
+        {
+            "text": "Chill for 8 hours."
+        },
+        {
+            "text": "Cut into 2\" X 2\" pieces."
+        },
+        {
+            "text": "Makes about 24."
+        }
+    ]
+}

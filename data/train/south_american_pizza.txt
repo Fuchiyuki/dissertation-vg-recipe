@@ -1,0 +1,109 @@
+{
+    "title": "south_american_pizza",
+    "id": "412cff509c",
+    "table": [
+        {
+            "instructions": "saute beef and onion .",
+            "input": "(beef; onion)",
+            "action": "saute",
+            "output": "sauteed beef and onion"
+        },
+        {
+            "instructions": "add chili_sauce , chili_powder , taco_seasoning and salt and pepper to taste .",
+            "input": "(chili_sauce; chili_powder; taco_seasoning; salt; pepper; sauteed beef and onion)",
+            "action": "add",
+            "output": "chili_sauce , chili_powder , taco_seasoning and salt and pepper added to sauteed beef and onion"
+        },
+        {
+            "instructions": "add refried_bean or bean_dip .",
+            "input": "(cooked beef mixture; refried_bean)",
+            "action": "add",
+            "output": "refried_bean added to cooked beef mixture"
+        },
+        {
+            "instructions": "open crescent_roll",
+            "input": "crescent_roll",
+            "action": "open",
+            "output": "opened crescent_roll"
+        },
+        {
+            "instructions": "lay flat on shallow baking pan or cookie sheet with one inch side ;",
+            "input": "opened crescent_roll",
+            "action": "lay",
+            "output": "pizza shell"
+        },
+        {
+            "instructions": "spread cooked beef onto pizza_shell .",
+            "input": "(pizza_shell; cooked beaf mixture)",
+            "action": "spread",
+            "output": "cooked beaf mixture spread over pizza shell"
+        },
+        {
+            "instructions": "top with cheeses .",
+            "input": "(cheese; pizza shell topped with beef mixture)",
+            "action": "top",
+            "output": "beef mixture pizza topped with cheese"
+        },
+        {
+            "instructions": "bake at 350 for 12 hour or until pizza_crust is golden brown .",
+            "input": "uncooked beef pizza ",
+            "action": "bake",
+            "output": "baked beef pizza"
+        }
+    ],
+    "ingredients": [
+        {
+            "text": "2 (8 ounce) packages Pillsbury Refrigerated Crescent Dinner Rolls"
+        },
+        {
+            "text": "1 lb ground beef"
+        },
+        {
+            "text": "1 onion, diced"
+        },
+        {
+            "text": "1 (1 1/2 ounce) package taco seasoning"
+        },
+        {
+            "text": "1 teaspoon chili powder"
+        },
+        {
+            "text": "14 cup chili sauce"
+        },
+        {
+            "text": "salt and pepper"
+        },
+        {
+            "text": "8 ounces refried beans, my preference is bean dip"
+        },
+        {
+            "text": "4 ounces mozzarella cheese, shredded"
+        },
+        {
+            "text": "4 ounces parmesan cheese, grated"
+        }
+    ],
+    "recipe": [
+        {
+            "text": "Saute beef and onion."
+        },
+        {
+            "text": "Add chili sauce, chili powder, taco seasoning and salt and pepper to taste."
+        },
+        {
+            "text": "Add refried beans or bean dip."
+        },
+        {
+            "text": "Open crescent rolls and lay flat on shallow baking pan or cookie sheet with one-inch side; forming a pizza shell."
+        },
+        {
+            "text": "Spread cooked beef onto pizza shell."
+        },
+        {
+            "text": "Top with cheeses."
+        },
+        {
+            "text": "Bake at 350 for 1/2 hour or until pizza crust is golden brown."
+        }
+    ]
+}

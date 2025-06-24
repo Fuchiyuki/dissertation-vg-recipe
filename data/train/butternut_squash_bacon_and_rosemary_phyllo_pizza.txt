@@ -1,0 +1,214 @@
+{
+    "title": "butternut_squash_bacon_and_rosemary_phyllo_pizza",
+    "id": "a492c576af",
+    "table": [
+        {
+            "instructions": "quarter squash lengthwise",
+            "input": "squash",
+            "action": "quarter",
+            "output": "quartered_squash"
+        },
+        {
+            "instructions": "discard seeds .",
+            "input": "quartered_squash",
+            "action": "discard",
+            "output": "quartered_squash without seeds"
+        },
+        {
+            "instructions": "peel squash carefully",
+            "input": "quartered_squash without seeds",
+            "action": "peel",
+            "output": "peeled squash"
+        },
+        {
+            "instructions": "cut into 34 inch pieces .",
+            "input": "peeled squash",
+            "action": "cut",
+            "output": "squash pieces"
+        },
+        {
+            "instructions": "in a large heavy skillet cook squash in oil over moderate heat , stirring occasionally , 2 minutes .",
+            "input": "(squash pieces; oil)",
+            "action": "cook",
+            "output": "cooking squash in oil stirring occasionally"
+        },
+        {
+            "instructions": "add water and salt to taste",
+            "input": "(cooking squash in oil stirring occasionally; water; salt)",
+            "action": "add",
+            "output": "water and salt added to cooking squash in oil stirring occasionally"
+        },
+        {
+            "instructions": "simmer , covered , until squash is just tender , about 10 minutes .",
+            "input": "water and salt added to cooking squash in oil stirring occasionally",
+            "action": "simmer",
+            "output": "cooked pieces of squash"
+        },
+        {
+            "instructions": "simmer squash , uncovered , until almost all water is evaporated , about 5 minutes .",
+            "input": "cooked pieces of squash",
+            "action": "simmer",
+            "output": "cooked pieces of squash"
+        },
+        {
+            "instructions": "in a food processor puree squash with salt and pepper to taste .",
+            "input": "cooked pieces of squash",
+            "action": "puree",
+            "output": "pureed cooked squash"
+        },
+        {
+            "instructions": "preheat oven to 400f .",
+            "input": "NA",
+            "action": "preheat",
+            "output": "NA"
+        },
+        {
+            "instructions": "lightly brush a large baking sheet with some butter",
+            "input": "NA",
+            "action": "brush",
+            "output": "NA"
+        },
+        {
+            "instructions": "put 1 sheet , phyllo on butter .",
+            "input": "phyllo sheet",
+            "action": "put",
+            "output": "phyllo sheet"
+        },
+        {
+            "instructions": "lightly brush phyllo with some remaining butter",
+            "input": "(remaining butter; phyllo sheet)",
+            "action": "brush",
+            "output": "remaing butter brushed on phyllo sheet"
+        },
+        {
+            "instructions": "sprinkle with 1 tablespoon parmesan .",
+            "input": "(parmesan; remaing butter brushed on phyllo sheet)",
+            "action": "sprinkle",
+            "output": "buttered phyllo sheet with sprinkled parmesan"
+        },
+        {
+            "instructions": "put another sheet of phyllo over cheese , pressing it firmly so that it adheres to bottom layer .",
+            "input": "(phyllo sheet; buttered phyllo sheet with sprinkled parmesan)",
+            "action": "put",
+            "output": "buttered phyllo sheet with sprinkled parmesan topped with another phyllo sheet"
+        },
+        {
+            "instructions": "sprinkle with cheese ,",
+            "input": "(cheese; buttered phyllo sheet with sprinkled parmesan topped with another phyllo sheet)",
+            "action": "sprinkle",
+            "output": "cheese sprinkled on layered phyllo sheets with parmesan"
+        },
+        {
+            "instructions": "lightly brush top sheet with remaining butter .",
+            "input": "(remaining butter; cheese sprinkled on layered phyllo sheets with parmesan)",
+            "action": "brush",
+            "output": "layered and buttered phyllo sheets with parmesan"
+        },
+        {
+            "instructions": "fold in all sides 14 inch , pressing to top sheet ,",
+            "input": "layered and buttered phyllo sheets with parmesan",
+            "action": "fold",
+            "output": "layered and buttered phyllo sheets with parmesan and all sides foldered"
+        },
+        {
+            "instructions": "fold up a 14 inch border , crimping corners .",
+            "input": "layered and buttered phyllo sheets with parmesan and all sides foldered",
+            "action": "fold",
+            "output": "layered and buttered phyllo sheets with parmesan and all sides foldered and crimped corners"
+        },
+        {
+            "instructions": "spread squash puree evenly on phyllo , crust and top with bacon , rosemary , scallion_green , and onion .",
+            "input": "(pureed cooked squash; bacon; rosemary; scallion green; onions; layered and buttered phyllo sheets with parmesan and all sides foldered and crimped corners )",
+            "action": "spread",
+            "output": "layered and buttered phyllo sheets with parmesan and all sides foldered and crimped corners"
+        },
+        {
+            "instructions": "bake pizza in middle of oven until crust is golden , about 15 minutes .",
+            "input": "uncooked pizza",
+            "action": "bake",
+            "output": "baked pizza"
+        }
+    ],
+    "ingredients": [
+        {
+            "text": "a 1 1/2-pound butternut squash"
+        },
+        {
+            "text": "1 tablespoon vegetable oil"
+        },
+        {
+            "text": "1/2 cup water"
+        },
+        {
+            "text": "3/4 stick (6 tablespoons) unsalted butter, melted and kept warm"
+        },
+        {
+            "text": "10 sheets phyllo, stacked between 2 sheets wax paper and covered with a kitchen towel"
+        },
+        {
+            "text": "9 tablespoons freshly grated Parmesan cheese (about 2 ounces)"
+        },
+        {
+            "text": "6 slices bacon, cut into 1/2-inch pieces, cooked until crisp, and drained"
+        },
+        {
+            "text": "1 tablespoon fresh rosemary leaves, minced"
+        },
+        {
+            "text": "6 scallion greens, chopped"
+        },
+        {
+            "text": "1 small red onion, sliced thin and separated into pieces"
+        }
+    ],
+    "recipe": [
+        {
+            "text": "Quarter squash lengthwise and discard seeds."
+        },
+        {
+            "text": "Peel squash carefully and cut into 3/4-inch pieces."
+        },
+        {
+            "text": "In a large heavy skillet cook squash in oil over moderate heat, stirring occasionally, 2 minutes."
+        },
+        {
+            "text": "Add water and salt to taste and simmer, covered, until squash is just tender, about 10 minutes."
+        },
+        {
+            "text": "Simmer squash, uncovered, until almost all water is evaporated, about 5 minutes."
+        },
+        {
+            "text": "In a food processor puree squash with salt and pepper to taste."
+        },
+        {
+            "text": "Squash puree may be made 1 day ahead and chilled, covered."
+        },
+        {
+            "text": "Preheat oven to 400F."
+        },
+        {
+            "text": "Lightly brush a large baking sheet with some butter and put 1 sheet phyllo on butter."
+        },
+        {
+            "text": "Lightly brush phyllo with some remaining butter and sprinkle with 1 tablespoon Parmesan."
+        },
+        {
+            "text": "Put another sheet of phyllo over cheese, pressing it firmly so that it adheres to bottom layer."
+        },
+        {
+            "text": "Butter, sprinkle with cheese, and layer remaining phyllo in the same manner, ending with a sheet of phyllo."
+        },
+        {
+            "text": "Lightly brush top sheet with remaining butter."
+        },
+        {
+            "text": "Fold in all sides 1/4 inch, pressing to top sheet, and fold up a 1/4-inch border, crimping corners."
+        },
+        {
+            "text": "Spread squash puree evenly on phyllo crust and top with bacon, rosemary, scallion greens, and onion."
+        },
+        {
+            "text": "Bake pizza in middle of oven until crust is golden, about 15 minutes."
+        }
+    ]
+}

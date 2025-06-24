@@ -1,0 +1,148 @@
+{
+    "title": "chef_john_'s_cauliflower_pizza_crust",
+    "id": "30803f94e8",
+    "table": [
+        {
+            "instructions": "preheat oven to 400 degrees f 200 degrees c.",
+            "input": "NA",
+            "actions": "preheat",
+            "output": "NA"
+        },
+        {
+            "instructions": "line a baking sheet with parchment paper .",
+            "input": "NA",
+            "actions": "line",
+            "output": "NA"
+        },
+        {
+            "instructions": "puree cauliflower in a food processor until finely ground .",
+            "input": "cauliflower",
+            "actions": "puree",
+            "output": "pureed_cauliflower"
+        },
+        {
+            "instructions": "cook ground cauliflower , water , and salt together in a skillet over medium high heat until fragrant",
+            "input": "pureed_cauliflower",
+            "actions": "cook",
+            "output": "cooked pureed_cauliflower mixture"
+        },
+        {
+            "instructions": "transfer cauliflower to the center of a clean dish towel .",
+            "input": "cooked_cauliflower",
+            "actions": "transfer",
+            "output": "cooked_cauliflower_in_dish"
+        },
+        {
+            "instructions": "wrap",
+            "input": "cauliflower_in_dish",
+            "actions": "wrap",
+            "output": "wrapped_cauliflower_in_dish"
+        },
+        {
+            "instructions": "squeeze tightly to remove all excess moisture .",
+            "input": "wrapped_cauliflower_in_dish",
+            "actions": "squeeze",
+            "output": "squeezed_cauliflower"
+        },
+        {
+            "instructions": "stir cauliflower , goat_cheese , parmigiano_reggiano_cheese , egg , and cayenne_pepper together in a bowl to form a soft dough .",
+            "input": "(cauliflower; goat_cheese; parmigiano_reggiano_cheese; egg; cayenne_pepper)",
+            "actions": "stir",
+            "output": "soft_cauliflower_dough"
+        },
+        {
+            "instructions": "place in the center of the prepared baking sheet .",
+            "input": "soft_cauliflower_dough",
+            "actions": "place",
+            "output": "soft_cauliflower_dough"
+        },
+        {
+            "instructions": "press dough into circle about 14 inch thick .",
+            "input": "soft_cauliflower_dough",
+            "actions": "press",
+            "output": "pressed_soft_cauliflower_dough"
+        },
+        {
+            "instructions": "bake in the preheated oven until golden brown",
+            "input": "pressed_soft_cauliflower_dough",
+            "actions": "bake",
+            "output": "baked_cauliflower_dough"
+        },
+        {
+            "instructions": "set , about 40 minutes .",
+            "input": "baked_cauliflower_dough",
+            "actions": "set",
+            "output": "baked_cauliflower_dough"
+        },
+        {
+            "instructions": "turn crust over before topping .",
+            "input": "(baked_cauliflower_dough; topping)",
+            "actions": "turn",
+            "output": "flipped_cauliflower_crust"
+        }
+    ],
+    "ingredients": [
+        {
+            "text": "1 head cauliflower, cored and separated into florets"
+        },
+        {
+            "text": "1/2 cup water"
+        },
+        {
+            "text": "1/2 teaspoon salt"
+        },
+        {
+            "text": "2 ounces fresh goat cheese"
+        },
+        {
+            "text": "1/2 ounce finely grated Parmigiano-Reggiano cheese"
+        },
+        {
+            "text": "1 large egg"
+        },
+        {
+            "text": "1 pinch cayenne pepper, or to taste"
+        }
+    ],
+    "recipe": [
+        {
+            "text": "Preheat oven to 400 degrees F (200 degrees C)."
+        },
+        {
+            "text": "Line a baking sheet with parchment paper."
+        },
+        {
+            "text": "Puree cauliflower in a food processor until finely ground."
+        },
+        {
+            "text": "Cook ground cauliflower, water, and salt together in a skillet over medium-high heat until fragrant and most of the water evaporates, 5 to 6 minutes."
+        },
+        {
+            "text": "Cool completely."
+        },
+        {
+            "text": "Transfer cauliflower to the center of a clean dish towel."
+        },
+        {
+            "text": "Wrap and squeeze tightly to remove all excess moisture."
+        },
+        {
+            "text": "You should have about 1 1/2 cups cauliflower pulp."
+        },
+        {
+            "text": "Stir cauliflower, goat cheese, Parmigiano-Reggiano cheese, egg, and cayenne pepper together in a bowl to form a soft dough."
+        },
+        {
+            "text": "Gather dough into a ball and place in the center of the prepared baking sheet."
+        },
+        {
+            "text": "Press dough into circle about 1/4-inch thick."
+        },
+        {
+            "text": "Bake in the preheated oven until golden brown and set, about 40 minutes."
+        },
+        {
+            "text": "Cool and turn crust over before topping."
+        }
+    ]
+}

@@ -1,0 +1,121 @@
+{
+    "title": "crab-artichoke_pizza",
+    "id": "46b339eb5c",
+    "table": [
+        {
+            "instructions": "preheat oven to 350 degrees f 175 degrees c.",
+            "input": "NA",
+            "action": "preheat",
+            "output": "NA"
+        },
+        {
+            "instructions": "lightly grease a pizza\u2012pan .",
+            "input": "NA",
+            "action": "grease",
+            "output": "NA"
+        },
+        {
+            "instructions": "roll out pizza_dough on a floured surface to a 14 or 16 inch circle ;",
+            "input": "pizza_dough",
+            "action": "roll",
+            "output": "rolled_pizza_dough"
+        },
+        {
+            "instructions": "place onto a pizza\u2012pan .",
+            "input": "rolled_out_dough",
+            "action": "place",
+            "output": "rolled_out_dough"
+        },
+        {
+            "instructions": "sprinkle dough with red_pepper_flake ,",
+            "input": "(rolled_out_dough; red_pepper_flake)",
+            "action": "sprinkle",
+            "output": "dough sprinkled with red_pepper_flake"
+        },
+        {
+            "instructions": "top evenly with crab and artichokes .",
+            "input": "(dough sprinkled with red_pepper_flake; crab; artichokes)",
+            "action": "top",
+            "output": "red_pepper_flake dough topped with crab and artichokes"
+        },
+        {
+            "instructions": "drizzle with olive_oil ,",
+            "input": "(red_pepper_flake dough topped with crab and artichokes; olive_oil)",
+            "action": "drizzle",
+            "output": "red_pepper_flake dough topped with crab and artichokes drizzled with olive_oil"
+        },
+        {
+            "instructions": "sprinkle with garlic , parmesan_cheese , and mozzarella_cheese .",
+            "input": "(dough; garlic; parmesan_cheese, and mazzarella_cheese)",
+            "action": "sprinkle",
+            "output": "assembled crab-artichoke_pizza"
+        },
+        {
+            "instructions": "bake in preheated oven until the cheese has melted and the crust is no longer doughy , about 20 minutes .",
+            "input": "uncooked crab-artichoke_pizza",
+            "action": "bake",
+            "output": "baked crab-artichoke_pizza"
+        },
+        {
+            "instructions": "set oven to broil ,",
+            "input": "NA",
+            "action": "set",
+            "output": "NA"
+        },
+        {
+            "instructions": "cook pizza for 5 minutes more until the cheese has begun to brown .",
+            "input": "baked crab-artichoke_pizza",
+            "action": "cook",
+            "output": "broiled baked crab-artichoke_pizza"
+        }
+    ],
+    "ingredients": [
+        {
+            "text": "1 pound fresh pizza dough"
+        },
+        {
+            "text": "1/4 teaspoon red pepper flakes"
+        },
+        {
+            "text": "1 (6 ounce) can crabmeat - drained and cartilage removed"
+        },
+        {
+            "text": "1 (6 ounce) jar quartered artichoke hearts in water, drained"
+        },
+        {
+            "text": "2 tablespoons olive oil"
+        },
+        {
+            "text": "1 1/2 tablespoons minced garlic"
+        },
+        {
+            "text": "1/2 cup shredded Parmesan cheese"
+        },
+        {
+            "text": "1 cup shredded mozzarella cheese"
+        }
+    ],
+    "recipe": [
+        {
+            "text": "Preheat oven to 350 degrees F (175 degrees C)."
+        },
+        {
+            "text": "Lightly grease a pizza pan."
+        },
+        {
+            "text": "Roll out pizza dough on a floured surface to a 14 or 16 inch circle; place onto a pizza pan."
+        },
+        {
+            "text": "Sprinkle dough with red pepper flakes, then top evenly with crab and artichokes."
+        },
+        {
+            "text": "Drizzle with olive oil, then sprinkle with garlic, Parmesan cheese, and mozzarella cheese."
+        },
+        {
+            "text": "Bake in preheated oven until the cheese has melted and the crust is no longer doughy, about 20 minutes."
+        },
+        {
+            "text": "Set oven to broil, and cook pizza for 5 minutes more until the cheese has begun to brown."
+        }
+    ]
+}

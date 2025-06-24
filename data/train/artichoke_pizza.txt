@@ -1,0 +1,73 @@
+{
+    "title": "artichoke_pizza",
+    "id": "cc634e9a79",
+    "table": [
+        {
+            "instructions": "heat up your oven as hot as it gets .",
+            "input": "NA",
+            "action": "heat",
+            "output": "NA"
+        },
+        {
+            "instructions": "spread tomato_sauce evenly to the both pizzas .",
+            "input": "tomato_sauce; pizza dough",
+            "action": "spread",
+            "output": "tomato_sauce spread on pizza dough"
+        },
+        {
+            "instructions": "spread the mushrooms , artichokes and olives on the pizza .",
+            "input": "mushrooms; artichokes; olives; pizza dough with tomato sauce",
+            "action": "spread",
+            "output": "mushrooms , artichokes and olives spread on pizza dough with tomato sauce"
+        },
+        {
+            "instructions": "bake in the oven for about 10 minutes or longer , depending on how hot your oven is .",
+            "input": "uncooked artichoke_pizza",
+            "action": "bake",
+            "output": "baked artichoke_pizza"
+        }
+    ],
+    "ingredients": [
+        {
+            "text": "10 black olives"
+        },
+        {
+            "text": "4 marinated artichokes, separated"
+        },
+        {
+            "text": "6 chestnut mushrooms, sliced"
+        },
+        {
+            "text": "200 g mozzarella cheese, grated"
+        },
+        {
+            "text": "1 cup tomato sauce (I like my Tomato Fondue #160495)"
+        },
+        {
+            "text": "2 prepared pizza crust"
+        }
+    ],
+    "recipe": [
+        {
+            "text": "Heat up your oven as hot as it gets."
+        },
+        {
+            "text": "Prepare pizza crusts - you can use ready made or use your favourite dough recipe."
+        },
+        {
+            "text": "Spread tomato sauce evenly to the both pizzas."
+        },
+        {
+            "text": "Add the grated cheese - yes, the cheese goes under the toppings."
+        },
+        {
+            "text": "Spread the mushrooms, artichokes and olives on the pizza."
+        },
+        {
+            "text": "Bake in the oven for about 10 minutes or longer, depending on how hot your oven is."
+        },
+        {
+            "text": "Pizza is done when the crust is golden."
+        }
+    ]
+}

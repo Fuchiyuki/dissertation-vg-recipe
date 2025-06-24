@@ -1,0 +1,115 @@
+{
+    "title": "headly_fredly_pizza_recipe",
+    "id": "ed9017805d",
+    "table": [
+        {
+            "instructions": "preheat oven to 425 degrees .",
+            "input": "NA",
+            "actions": "preheat",
+            "output": "NA"
+        },
+        {
+            "instructions": "mix pizza_dough according to directions .",
+            "input": "pizza_dough",
+            "actions": "mix",
+            "output": "mixed_pizza_dough"
+        },
+        {
+            "instructions": "fry sausage , garlic powder , and half the onions",
+            "input": "(sausage; garlic powder; onions)",
+            "actions": "fry",
+            "output": "cooked_sausage with garlic powder and onions"
+        },
+        {
+            "instructions": "simmer .",
+            "input": "cooked_sausage with garlic powder and onions",
+            "actions": "simmer",
+            "output": "cooked sausage mixture"
+        },
+        {
+            "instructions": "after dough rises , spread on pizza\u2012pan , greased with shortening .",
+            "input": "(cooked sausage mixture; risen pizza_dough; shortening)",
+            "actions": "spread",
+            "output": "cooked sausage mixture spread pizza crust greased with shortening"
+        },
+        {
+            "instructions": "place in oven 10 min till lightly browned .",
+            "input": "uncooked sausage pizza",
+            "actions": "place",
+            "output": "browned sausage pizza"
+        },
+        {
+            "instructions": "remove from oven",
+            "input": "browned sausage pizza",
+            "actions": "remove",
+            "output": "browned sausage pizza"
+        },
+        {
+            "instructions": "spread , in order , over baked dough ; sauce",
+            "input": "(sauce; pizza)",
+            "actions": "spread",
+            "output": "sauce_spread_on_pizza"
+        },
+        {
+            "instructions": "top with mozzarella_cheese .",
+            "input": "(mozzarella_cheese; pizza)",
+            "actions": "top",
+            "output": "mozarella_cheese_spread_on_pizza"
+        },
+        {
+            "instructions": "bake for 13 min .",
+            "input": "pizza",
+            "actions": "bake",
+            "output": "baked_pizza"
+        }
+    ],
+    "ingredients": [
+        {
+            "text": "1 Chef Boy-Ar-Dee pizza mix"
+        },
+        {
+            "text": "1/2 c. minced onions"
+        },
+        {
+            "text": "1/2 c. minced olives"
+        },
+        {
+            "text": "1 pound Bob Evans sausage roll"
+        },
+        {
+            "text": "1 teaspoon garlic pwdr"
+        },
+        {
+            "text": "Sm. pkg. shredded Mozzarella cheese"
+        },
+        {
+            "text": "1 (5 ounce.) can sliced mushrooms"
+        }
+    ],
+    "recipe": [
+        {
+            "text": "Preheat oven to 425 degrees."
+        },
+        {
+            "text": "Mix pizza dough according to directions."
+        },
+        {
+            "text": "Fry sausage, garlic pwdr, and half the onions and simmer."
+        },
+        {
+            "text": "After dough rises, spread on pizza pan, greased with shortening."
+        },
+        {
+            "text": "Place in oven 10 min till lightly browned."
+        },
+        {
+            "text": "Remove from oven and spread, in order, over baked dough; sauce, liquid removed sausage, onion, mushrooms, olives, Parmesan cheese and top with Mozzarella cheese."
+        },
+        {
+            "text": "Bake for 13 min."
+        },
+        {
+            "text": "(When cheese is melted and bubbly, pizza is ready.)"
+        }
+    ]
+}

@@ -1,0 +1,67 @@
+{
+    "title": "cocktail_rye_pizza_appetizers",
+    "id": "bee107dba2",
+    "table": [
+        {
+            "instructions": "spread each rye square with cheese .",
+            "input": "(cheese; rye square)",
+            "action": "spread",
+            "output": "cheese spread on rye square"
+        },
+        {
+            "instructions": "next , top each one with a slice of pepperoni .",
+            "input": "(pepperoni slice; rye square with cheese )",
+            "action": "top",
+            "output": "rye square with cheese and pepperoni slice"
+        },
+        {
+            "instructions": "place on a baking sheet .",
+            "input": "uncooked rye square pepperoni pizza",
+            "action": "place",
+            "output": "uncooked rye square pepperoni pizza"
+        },
+        {
+            "instructions": "  i use release foil on the baking sheet in case the cheese drips on the pan .",
+            "input": "NA",
+            "action": "use",
+            "output": "NA"
+        },
+        {
+            "instructions": "place under broiler until cheese is bubbly and bread is crispy .",
+            "input": "uncooked rye square pepperoni pizza",
+            "action": "place",
+            "output": "broiled rye square pepperoni pizza"
+        }
+    ],
+    "ingredients": [
+        {
+            "text": "24 slices rye cocktail bread"
+        },
+        {
+            "text": "24 slices pepperoni"
+        },
+        {
+            "text": "1 (16 ounce) jar cheese spread (Cheese Whiz, etc)"
+        }
+    ],
+    "recipe": [
+        {
+            "text": "Spread each rye square with cheese."
+        },
+        {
+            "text": "Next, top each one with a slice of pepperoni."
+        },
+        {
+            "text": "Place on a baking sheet."
+        },
+        {
+            "text": "(I use \"Release\" foil on the baking sheet in case the cheese drips on the pan."
+        },
+        {
+            "text": ")."
+        },
+        {
+            "text": "Place under broiler until cheese is bubbly and bread is crispy."
+        }
+    ]
+}

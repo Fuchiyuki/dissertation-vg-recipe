@@ -1,0 +1,157 @@
+{
+    "title": "tomato_mozzarella_pizza",
+    "id": "cde2f8d49b",
+    "table": [
+        {
+            "instructions": "set a pizza stone or heavy baking sheet in the bottom third of the oven .",
+            "input": "NA",
+            "action": "set",
+            "output": "NA"
+        },
+        {
+            "instructions": "preheat the oven to 550 , allowing at least 30 minutes for the stone to heat .",
+            "input": "NA",
+            "action": "preheat",
+            "output": "NA"
+        },
+        {
+            "instructions": "on a lightly floured work surface , roll 1 ball of dough into a 6 inch round .",
+            "input": "dough ball",
+            "action": "roll",
+            "output": "rolled_dough"
+        },
+        {
+            "instructions": "turn the edges of the dough up slightly to form a lip ,",
+            "input": "rolled_dough",
+            "action": "turn",
+            "output": "rolled_dough with edges turned  slightly"
+        },
+        {
+            "instructions": "stretch the dough out to a 10 inch round .",
+            "input": "rolled_dough with edges turned  slightly",
+            "action": "stretch",
+            "output": "streched dough"
+        },
+        {
+            "instructions": "transfer the dough to a lightly floured pizza peel or upside down baking sheet .",
+            "input": "streched dough",
+            "action": "transfer",
+            "output": "pizza dough transfered  to upside baking sheet"
+        },
+        {
+            "instructions": "season with salt and pepper .",
+            "input": "(salt; pepper)",
+            "action": "season",
+            "output": "pizza dough seasoned with salt and pepper"
+        },
+        {
+            "instructions": "spread half of the tomato_sauce on the pizza_dough",
+            "input": "(tomato sauce; pizza dough seasoned with salt and pepper)",
+            "action": "spread",
+            "output": "tomato sauce spread on seasoned pizza dough"
+        },
+        {
+            "instructions": "slide the pizza onto the hot stone",
+            "input": "raw pizza dough with sauce",
+            "action": "slide",
+            "output": "raw pizza dough with sauce slided on hot stone"
+        },
+        {
+            "instructions": "bake for 5 minutes , or until the sauce is slightly dry and the crust is lightly golden .",
+            "input": "raw pizza dough with sauce slided on hot stone",
+            "action": "bake",
+            "output": "baked pizza crust with sauce"
+        },
+        {
+            "instructions": "remove the pizza from the oven",
+            "input": "baked pizza crust with sauce",
+            "action": "remove",
+            "output": "baked pizza crust with sauce"
+        },
+        {
+            "instructions": "scatter half of the mozzarella over the top",
+            "input": "(half of mozzarella; baked pizza crust with sauce)",
+            "action": "scatter",
+            "output": "baked pizza crust with sauce with mozzarella"
+        },
+        {
+            "instructions": "return to the oven .",
+            "input": "baked pizza crust with sauce with mozzarella",
+            "action": "return",
+            "output": "baked pizza crust with sauce with mozzarella"
+        },
+        {
+            "instructions": "bake for 4 minutes longer , or until the cheese is bubbling and the crust is golden and crisp .",
+            "input": "baked pizza crust with sauce with mozzarella",
+            "action": "bake",
+            "output": "baked tomato mozzarella pizza"
+        }
+    ],
+    "ingredients": [
+        {
+            "text": "Flour, for dusting and rolling"
+        },
+        {
+            "text": "One 14-ounce can peeled Italian plum tomatoes, drained"
+        },
+        {
+            "text": "2 tablespoons chopped basil"
+        },
+        {
+            "text": "1 large garlic clove, minced"
+        },
+        {
+            "text": "1 tablespoon extra-virgin olive oil"
+        },
+        {
+            "text": "Salt and freshly ground pepper"
+        },
+        {
+            "text": "1 1/2 cups coarsely shredded mozzarella (6 ounces)"
+        },
+        {
+            "text": "Two 1/2-pound balls of Pizza Dough or thawed frozen pizza or bread dough"
+        }
+    ],
+    "recipe": [
+        {
+            "text": "Set a pizza stone or heavy baking sheet in the bottom third of the oven."
+        },
+        {
+            "text": "Preheat the oven to 550, allowing at least 30 minutes for the stone to heat."
+        },
+        {
+            "text": "On a lightly floured work surface, roll 1 ball of dough into a 6-inch round."
+        },
+        {
+            "text": "Turn the edges of the dough up slightly to form a lip, then stretch the dough out to a 10-inch round."
+        },
+        {
+            "text": "Transfer the dough to a lightly floured pizza peel or upside-down baking sheet."
+        },
+        {
+            "text": "In a food processor, pulse the tomatoes with the basil, garlic and olive oil until finely chopped."
+        },
+        {
+            "text": "Season with salt and pepper."
+        },
+        {
+            "text": "Spread half of the tomato sauce on the pizza dough to within 1/2 inch of the rim."
+        },
+        {
+            "text": "Slide the pizza onto the hot stone and bake for 5 minutes, or until the sauce is slightly dry and the crust is lightly golden."
+        },
+        {
+            "text": "Remove the pizza from the oven, scatter half of the mozzarella over the top and return to the oven."
+        },
+        {
+            "text": "Bake for 4 minutes longer, or until the cheese is bubbling and the crust is golden and crisp."
+        },
+        {
+            "text": "Let the pizza rest for 5 minutes before cutting into wedges or squares."
+        },
+        {
+            "text": "Repeat with the remaining dough, sauce and cheese to make the second pizza."
+        }
+    ]
+}

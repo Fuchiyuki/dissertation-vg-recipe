@@ -1,0 +1,211 @@
+{
+    "title": "basil_pesto_oven-dried_cherry_tomato_and_mozzarella_taco_pizzas",
+    "id": "db73cbb85e",
+    "table": [
+        {
+            "instructions": "preheat the oven to 250 degrees f .",
+            "input": "NA",
+            "action": "preheat",
+            "output": "NA"
+        },
+        {
+            "instructions": "place the halved cherry_tomato onto a large baking sheet .",
+            "input": "halved_cherry_tomato",
+            "action": "place",
+            "output": "halved_cherry_tomato"
+        },
+        {
+            "instructions": "drizzle with olive_oil",
+            "input": "(halved_cherry_tomato; olive_oil)",
+            "action": "drizzle",
+            "output": "olive oil drizzled over halved_cherry_tomato"
+        },
+        {
+            "instructions": "sprinkle with minced_garlic if desired .",
+            "input": "(minced garlic; halved_cherry_tomato with olive oil)",
+            "action": "sprinkle",
+            "output": "cherry tomato sprinkled with minced_garlic"
+        },
+        {
+            "instructions": "season with salt and black_pepper to taste .",
+            "input": "(cherry tomato sprinkled with minced_garlic; salt; pepper)",
+            "action": "season",
+            "output": "seasoned cherry tomatoes"
+        },
+        {
+            "instructions": "roast in the oven for about 2 hours until the cherry_tomato are shrivelled",
+            "input": "seasoned cherry tomatoes",
+            "action": "roast",
+            "output": "roasted cherry tomatoes"
+        },
+        {
+            "instructions": "remove from the oven",
+            "input": "roasted cherry tomatoes",
+            "action": "remove",
+            "output": "roasted cherry tomatoes"
+        },
+        {
+            "instructions": "set aside .",
+            "input": "roasted cherry tomatoes",
+            "action": "set",
+            "output": "roasted cherry tomatoes"
+        },
+        {
+            "instructions": "seal them in a zip lock bag ,",
+            "input": "roasted cherry tomatoes",
+            "action": "seal",
+            "output": "sealed roasted cherry tomatoes"
+        },
+        {
+            "instructions": "preheat the oven to 350f 180c .",
+            "input": "NA",
+            "action": "preheat",
+            "output": "NA"
+        },
+        {
+            "instructions": "spoon about 1 tablespoon , basil , pesto evenly over each tortilla .",
+            "input": "(basil; pesto; tortilla)",
+            "action": "spoon",
+            "output": "Pesto and basil spooned on tortilla"
+        },
+        {
+            "instructions": "place the oven dried cherry_tomato equally over the pesto .",
+            "input": "(roasted cherry tomatoes; tortilla with basil and pesto)",
+            "action": "place",
+            "output": "roasted Cherry Tomatoes placed on tortilla with basil and pesto"
+        },
+        {
+            "instructions": "place some olives and or roasted_bell_pepper if desired .",
+            "input": "(olives; roasted_bell_pepper; tortilla)",
+            "action": "place",
+            "output": "Olives and roasted bell peppers placed on tortilla with roasted cherry tomatoes, basil and pesto"
+        },
+        {
+            "instructions": "top each with equal amount of mozzarella_cheese .",
+            "input": "(mozzarella_cheese; tortilla with roasted cherry tomatoes, basil, pesto, olives and roasted bell pepper)",
+            "action": "top",
+            "output": "tortilla with roasted cherry tomatoes, basil, pesto, olives and roasted bell pepper topped with Mozzarella_cheese"
+        },
+        {
+            "instructions": "bake for about 15 minutes until the cheese melts",
+            "input": "uncooked basil_pesto_oven-dried_cherry_tomato_and_mozzarella_taco_pizzas",
+            "action": "bake",
+            "output": "Baked basil_pesto_oven-dried_cherry_tomato_and_mozzarella_taco_pizzas"
+        },
+        {
+            "instructions": "remove from the oven ,",
+            "input": "Baked basil_pesto_oven-dried_cherry_tomato_and_mozzarella_taco_pizzas",
+            "action": "remove",
+            "output": "Baked basil_pesto_oven-dried_cherry_tomato_and_mozzarella_taco_pizzas"
+        },
+        {
+            "instructions": "place onto the serving plates",
+            "input": "Baked basil_pesto_oven-dried_cherry_tomato_and_mozzarella_taco_pizzas",
+            "action": "place",
+            "output": "Baked basil_pesto_oven-dried_cherry_tomato_and_mozzarella_taco_pizzas"
+        },
+        {
+            "instructions": "top with a few fresh_basil leaves .",
+            "input": "(fresh_basil; Baked basil_pesto_oven-dried_cherry_tomato_and_mozzarella_taco_pizzas)",
+            "action": "top",
+            "output": "Baked basil_pesto_oven-dried_cherry_tomato_and_mozzarella_taco_pizzas topped with basil leaves"
+        },
+        {
+            "instructions": "serve",
+            "input": "Baked basil_pesto_oven-dried_cherry_tomato_and_mozzarella_taco_pizzas",
+            "action": "serve",
+            "output": "Served Baked basil_pesto_oven-dried_cherry_tomato_and_mozzarella_taco_pizzas"
+        }
+    ],
+    "ingredients": [
+        {
+            "text": "2 cups cherry tomatoes halved"
+        },
+        {
+            "text": "1 tablespoon olive oil"
+        },
+        {
+            "text": "2 cloves garlic minced, optional"
+        },
+        {
+            "text": "1 x salt and black pepper to taste"
+        },
+        {
+            "text": "8 each corn tortillas (6-inch) or flour tortillas"
+        },
+        {
+            "text": "1/2 cup basil pesto basil, homemade or store-bought"
+        },
+        {
+            "text": "8 each olives black or green, sliced, optional"
+        },
+        {
+            "text": "1/4 cup sweet red bell peppers, roasted slice into strips, optional"
+        },
+        {
+            "text": "1 cup mozzarella cheese shredded"
+        },
+        {
+            "text": "1 x basil leaves, fresh, for serving"
+        }
+    ],
+    "recipe": [
+        {
+            "text": "Preheat the oven to 250 degrees F."
+        },
+        {
+            "text": "Place the halved cherry tomatoes onto a large baking sheet."
+        },
+        {
+            "text": "Drizzle with olive oil and sprinkle with minced garlic if desired."
+        },
+        {
+            "text": "Season with salt and black pepper to taste."
+        },
+        {
+            "text": "Roast in the oven for about 2 hours until the cherry tomatoes are shrivelled and flavors are concentrated."
+        },
+        {
+            "text": "(They will look dry outside but juicy-tender inside their small bodies)"
+        },
+        {
+            "text": "Remove from the oven and set aside."
+        },
+        {
+            "text": "(It can be made one or two days in advance, seal them in a zip-lock bag, and keep them refrigerated)"
+        },
+        {
+            "text": "Just before you prepare to make the pizzas:"
+        },
+        {
+            "text": "Preheat the oven to 350F (180C)."
+        },
+        {
+            "text": "Lay the tortillas onto a large baking sheet, we layed 6 tortillas on our baking sheet."
+        },
+        {
+            "text": "Spoon about 1 tablespoon basil pesto evenly over each tortilla."
+        },
+        {
+            "text": "Place the oven-dried cherry tomatoes equally over the pesto."
+        },
+        {
+            "text": "Place some olives and/or roasted bell peppers if desired."
+        },
+        {
+            "text": "Top each with equal amount of mozzarella cheese."
+        },
+        {
+            "text": "Bake for about 15 minutes until the cheese melts and tortillas becomes crispy and slightly golden at the edges."
+        },
+        {
+            "text": "Remove from the oven, and let cool for a few minutes."
+        },
+        {
+            "text": "Place onto the serving plates and top with a few fresh basil leaves."
+        },
+        {
+            "text": "Serve and enjoy!"
+        }
+    ]
+}

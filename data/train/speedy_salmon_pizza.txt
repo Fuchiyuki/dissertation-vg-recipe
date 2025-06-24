@@ -1,0 +1,115 @@
+{
+    "title": "speedy_salmon_pizza",
+    "id": "91a313577c",
+    "table": [
+        {
+            "instructions": "pre heat oven .",
+            "input": "NA",
+            "action": "heat",
+            "output": "NA"
+        },
+        {
+            "instructions": "drain the salmon",
+            "input": "salmon",
+            "action": "drain",
+            "output": "drained_salmon"
+        },
+        {
+            "instructions": "break the fish into large pieces .",
+            "input": "drained_salmon",
+            "action": "break",
+            "output": "breaked salmon in pieces"
+        },
+        {
+            "instructions": "set aside .",
+            "input": "breaked salmon in pieces",
+            "action": "set",
+            "output": "breaked salmon in pieces"
+        },
+        {
+            "instructions": "place the pizza bases on two silicone paper lined baking trays .",
+            "input": "pizza bases",
+            "action": "place",
+            "output": "pizza bases"
+        },
+        {
+            "instructions": "spread equal amounts of the drained tomatoes over the pizza bases",
+            "input": "(drained_tomatoes;pizza_bases)",
+            "action": "spread",
+            "output": "tomato_on_pizza_bases"
+        },
+        {
+            "instructions": "arrange the salmon on top .",
+            "input": "(tomato_on_pizza_bases;chunks of salmon)",
+            "action": "arrange",
+            "output": "salmon_topped_tomato_pizzas"
+        },
+        {
+            "instructions": "decorate with the mushrooms and olives",
+            "input": "(salmon_topped_tomato_pizzas;mushrooms;olives)",
+            "action": "decorate",
+            "output": "salmon_and_vegetable_pizza"
+        },
+        {
+            "instructions": "cover with the cheese .",
+            "input": "(salmon_and_vegetable_pizza;cheese)",
+            "action": "cover",
+            "output": "uncooked salmon_and_veggie_pizza"
+        },
+        {
+            "instructions": "bake for 15 to 20 minutes or until the cheese is melted and golden .",
+            "input": "uncooked salmon_and_veggie_pizza",
+            "action": "bake",
+            "output": "baked salmon_and_veggie_pizza"
+        },
+        {
+            "instructions": "serve with salad .",
+            "input": "(salmon_and_veggie_pizza;salad)",
+            "action": "serve",
+            "output": "salmon_and_veggie_pizza_with_salad"
+        }
+    ],
+    "ingredients": [
+        {
+            "text": "2 cups salmon"
+        },
+        {
+            "text": "2 cups tomatoes"
+        },
+        {
+            "text": "1/2 cup mushrooms, button"
+        },
+        {
+            "text": "1/2 cup pimento stuffed green olives"
+        },
+        {
+            "text": "1 cup parmesan, parmigiano-reggiano cheese, grated grated"
+        }
+    ],
+    "recipe": [
+        {
+            "text": "Pre-heat oven."
+        },
+        {
+            "text": "Drain the salmon and break the fish into large pieces."
+        },
+        {
+            "text": "Set aside."
+        },
+        {
+            "text": "Place the pizza bases on two silicone paper lined baking trays."
+        },
+        {
+            "text": "Spread equal amounts of the drained tomatoes over the pizza bases and arrange the salmon on top."
+        },
+        {
+            "text": "Decorate with the mushrooms and olives then cover with the cheese."
+        },
+        {
+            "text": "Bake for 15 to 20 minutes or until the cheese is melted and golden."
+        },
+        {
+            "text": "Serve with salad."
+        }
+    ]
+}

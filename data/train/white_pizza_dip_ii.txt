@@ -1,0 +1,76 @@
+{
+    "title": "white_pizza_dip_ii",
+    "id": "1805bcce2f",
+    "table": [
+        {
+            "instructions": "preheat an oven to 350 degrees f 175 degrees c.",
+            "input": "NA",
+            "action": "preheat",
+            "output": "NA"
+        },
+        {
+            "instructions": "stir the sour_cream , ricotta_cheese , 34 cup shredded_mozzarella_cheese , pepperoni , and herb and garlic soup_mix together in a 1 quart , casserole dish .",
+            "input": "(sour_cream; ricotta_cheese; shredded_mozzarella_cheese; pepperoni; garlic; soup_mix; herb)",
+            "action": "stir",
+            "output": "cheese and soup mixture"
+        },
+        {
+            "instructions": "sprinkle 14 cup shredded_mozzarella_cheese over the top of the mixture .",
+            "input": "(shredded mozzarella chese; cheese and soup mixture)",
+            "action": "sprinkle",
+            "output": "shredded mozzarella cheese sprinkled over cheese and soup mixture"
+        },
+        {
+            "instructions": "bake in preheated oven until bubbly , about 30 minutes .",
+            "input": "shredded mozzarella cheese sprinkled over cheese and soup mixture",
+            "action": "bake",
+            "output": "baked cheese and soup dip"
+        },
+        {
+            "instructions": "serve with the italian_bread .",
+            "input": "(baked cheese and soup dip; italian bread)",
+            "action": "serve",
+            "output": "baked cheese and soup dip served with italian bread"
+        }
+    ],
+    "ingredients": [
+        {
+            "text": "1 (8 ounce) container sour cream"
+        },
+        {
+            "text": "1 (8 ounce) container ricotta cheese"
+        },
+        {
+            "text": "3/4 cup shredded mozzarella cheese"
+        },
+        {
+            "text": "1/4 cup chopped pepperoni"
+        },
+        {
+            "text": "1 (1 ounce) envelope herb and garlic soup mix (such as Lipton)"
+        },
+        {
+            "text": "1/4 cup shredded mozzarella cheese"
+        },
+        {
+            "text": "1 loaf Italian bread, sliced"
+        }
+    ],
+    "recipe": [
+        {
+            "text": "Preheat an oven to 350 degrees F (175 degrees C)."
+        },
+        {
+            "text": "Stir the sour cream, ricotta cheese, 3/4 cup shredded mozzarella cheese, pepperoni, and herb and garlic soup mix together in a 1-quart casserole dish."
+        },
+        {
+            "text": "Sprinkle 1/4 cup shredded mozzarella cheese over the top of the mixture."
+        },
+        {
+            "text": "Bake in preheated oven until bubbly, about 30 minutes."
+        },
+        {
+            "text": "Serve with the Italian bread."
+        }
+    ]
+}

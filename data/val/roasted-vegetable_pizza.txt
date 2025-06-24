@@ -1,0 +1,157 @@
+{
+    "title": "roasted-vegetable_pizza",
+    "id": "a54d533406",
+    "table": [
+        {
+            "instructions": "preheat oven to 425",
+            "input": "NA",
+            "actions": "preheat",
+            "output": "NA"
+        },
+        {
+            "instructions": "unroll pizza_dough onto a large baking sheet coated with cooking_spray ;",
+            "input": "pizza_dough",
+            "actions": "unroll",
+            "output": "unrolled_pizza_dough"
+        },
+        {
+            "instructions": "fold under edges of dough to form an 11 inch circle .",
+            "input": "unrolled_pizza_dough",
+            "actions": "fold",
+            "output": "pizza_crust"
+        },
+        {
+            "instructions": "bake at 425 for 7 minutes",
+            "input": "uncooked pizza_crust",
+            "actions": "bake",
+            "output": "baked pizza_crust"
+        },
+        {
+            "instructions": "set aside",
+            "input": "baked pizza_crust",
+            "actions": "set",
+            "output": "baked pizza_crust"
+        },
+        {
+            "instructions": "preheat oven to 500",
+            "input": "NA",
+            "actions": "preheat",
+            "output": "NA"
+        },
+        {
+            "instructions": "combine thyme and next 8 ingredients thyme through onion in a bowl ;",
+            "input": "(thyme; other_ingredients)",
+            "actions": "combine",
+            "output": "vegetable_mixture"
+        },
+        {
+            "instructions": "toss well .",
+            "input": "vegetable_mixture",
+            "actions": "toss",
+            "output": "tossed_vegetable_mixture"
+        },
+        {
+            "instructions": "place vegetable mixture in a 13 x 9 inch , baking dish .",
+            "input": "tossed_vegetable_mixture",
+            "actions": "place",
+            "output": "tossed_vegetable_mixture"
+        },
+        {
+            "instructions": "bake at 500 for 15 minutes , stirring halfway through cooking time .",
+            "input": "tossed_vegetable_mixture",
+            "actions": "bake",
+            "output": "roasted_vegetables"
+        },
+        {
+            "instructions": "reduce oven temperature to 42",
+            "input": "NA",
+            "actions": "reduce",
+            "output": "NA"
+        },
+        {
+            "instructions": "sprinkle half of cheese over prepared_pizza_crust .",
+            "input": "(cheese; baked_pizza_crust)",
+            "actions": "sprinkle",
+            "output": "cheese_sprinkled on baked pizza crust"
+        },
+        {
+            "instructions": "arrange roasted vegetables over cheese ,",
+            "input": "(cheese_sprinkled on baked pizza crust; roasted_vegetables)",
+            "actions": "arrange",
+            "output": "roasted vegetable arranged on_pizza with cheese"
+        },
+        {
+            "instructions": "top with remaining half of cheese .",
+            "input": "(remaining cheese; roasted vegetable_pizza)",
+            "actions": "top",
+            "output": "roasted vegetable_pizza topped with remaining cheese"
+        },
+        {
+            "instructions": "bake at 425 for 12 minutes or until crust is lightly browned .",
+            "input": "uncooked roasted vegetable pizza",
+            "actions": "bake",
+            "output": "baked roasted vegetable pizza"
+        }
+    ],
+    "ingredients": [
+        {
+            "text": "1 (10-ounce) can refrigerated pizza crust dough"
+        },
+        {
+            "text": "Vegetable cooking spray"
+        },
+        {
+            "text": "1 tablespoon fresh or 1 teaspoon dried thyme leaves"
+        },
+        {
+            "text": "2 tablespoons balsamic vinegar"
+        },
+        {
+            "text": "1 teaspoon olive oil"
+        },
+        {
+            "text": "1/4 teaspoon salt"
+        },
+        {
+            "text": "4 small red potatoes, each cut into 8 wedges"
+        },
+        {
+            "text": "4 garlic cloves, thinly sliced"
+        },
+        {
+            "text": "1 small yellow squash, cut into 1/4-inch slices"
+        },
+        {
+            "text": "1 small red bell pepper, cut into 2-inch pieces"
+        },
+        {
+            "text": "1 small sweet onion, cut into 12 wedges"
+        },
+        {
+            "text": "1 1/4 cups (5 ounces) shredded sharp provolone cheese"
+        }
+    ],
+    "recipe": [
+        {
+            "text": "Preheat oven to 425.Unroll pizza dough onto a large baking sheet coated with cooking spray; fold under edges of dough to form an 11-inch circle."
+        },
+        {
+            "text": "Bake at 425 for 7 minutes; set aside.Preheat oven to 500.Combine thyme and next 8 ingredients (thyme through onion) in a bowl; toss well."
+        },
+        {
+            "text": "Place vegetable mixture in a 13 x 9-inch baking dish."
+        },
+        {
+            "text": "Bake at 500 for 15 minutes, stirring halfway through cooking time.Reduce oven temperature to 425."
+        },
+        {
+            "text": "Sprinkle half of cheese over prepared pizza crust."
+        },
+        {
+            "text": "Arrange roasted vegetables over cheese, and top with remaining half of cheese."
+        },
+        {
+            "text": "Bake at 425 for 12 minutes or until crust is lightly browned."
+        }
+    ]
+}

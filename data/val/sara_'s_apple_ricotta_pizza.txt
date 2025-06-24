@@ -1,0 +1,184 @@
+{
+    "title": "sara_'s_apple_ricotta_pizza",
+    "id": "aa8e2358c8",
+    "table": [
+        {
+            "instructions": "in a bowl , combine 2 cups , flour , yeast , sugar and salt .",
+            "input": "(flour; yeast; sugar; salt)",
+            "action": "combine",
+            "output": "dry ingredients"
+        },
+        {
+            "instructions": "add water and oil ,",
+            "input": "(dry ingredients; water; oil)",
+            "action": "add",
+            "output": "soft_dough"
+        },
+        {
+            "instructions": "beat until smooth .",
+            "input": "soft_dough",
+            "action": "beat",
+            "output": "smooth_soft_dough"
+        },
+        {
+            "instructions": "add enough remaining flour to form a soft dough .",
+            "input": "(smooth_soft_dough; remaining_flour)",
+            "action": "add",
+            "output": "dough"
+        },
+        {
+            "instructions": "turn onto a floured surface",
+            "input": "dough",
+            "action": "turn",
+            "output": "floured_dough"
+        },
+        {
+            "instructions": "knead until you have a smooth dough .",
+            "input": "flored_dough",
+            "action": "knead",
+            "output": "kneaded_dough"
+        },
+        {
+            "instructions": "cover",
+            "input": "kneaded_dough",
+            "action": "cover",
+            "output": "covered_dough"
+        },
+        {
+            "instructions": "press the dough into a deep pizza\u2012pan .",
+            "input": "covered_dough",
+            "action": "press",
+            "output": "pressed_dough_in_pizza_pan"
+        },
+        {
+            "instructions": "prick with a fork",
+            "input": "pressed_dough_in_pizza_pan",
+            "action": "prick",
+            "output": "pricked_dough"
+        },
+        {
+            "instructions": "bake at 200c for 10 minutes .",
+            "input": "pricked_dough",
+            "action": "bake",
+            "output": "baked_crust"
+        },
+        {
+            "instructions": "spread apple sauce over base .",
+            "input": "(baked_crust; apple sauce)",
+            "action": "spread",
+            "output": "baked pizza crust with apple sauce"
+        },
+        {
+            "instructions": "beat ricotta_cheese ,",
+            "input": "ricotta cheese",
+            "action": "beat",
+            "output": "beaten_ricotta_cheese"
+        },
+        {
+            "instructions": "stir in sultanas .",
+            "input": "(beaten_ricotta_cheese; sultanas)",
+            "action": "stir",
+            "output": "beaten_ricotta_cheese_with_sultanas"
+        },
+        {
+            "instructions": "spread this mixture over the sauce .",
+            "input": "(beaten_ricotta_cheese_with_sultanas; baked pizza crust with apple sauce)",
+            "action": "spread",
+            "output": "baked pizza crust with apple sauce and beaten_ricotta_cheese_with_sultanas"
+        },
+        {
+            "instructions": "arrange apples over the cheese mixture ,",
+            "input": "(sliced apples; baked pizza crust with apple sauce and beaten_ricotta_cheese_with_sultanas)",
+            "action": "arrange",
+            "output": "baked pizza crust with apple sauce, beaten_ricotta_cheese_with_sultanas and sliced apples"
+        },
+        {
+            "instructions": "sprinkle with brown_sugar and cinnamon .",
+            "input": "(baked pizza crust with apple sauce, beaten_ricotta_cheese_with_sultanas and sliced apples; brown sugar; cinnamon)",
+            "action": "sprinkle",
+            "output": "baked pizza crust with apple sauce, beaten_ricotta_cheese_with_sultanas, sliced apples, brown sugar and cinnamon"
+        },
+        {
+            "instructions": "bake at 180c for 20 minutes .",
+            "input": "uncooked apple ricotta pizza",
+            "action": "bake",
+            "output": "baked apple ricotta pizza"
+        }
+    ],
+    "ingredients": [
+        {
+            "text": "3 cups flour"
+        },
+        {
+            "text": "1 (1/4 ounce) package active dry yeast"
+        },
+        {
+            "text": "14 teaspoon salt"
+        },
+        {
+            "text": "1 teaspoon sugar"
+        },
+        {
+            "text": "1 cup warm water"
+        },
+        {
+            "text": "1 tablespoon light olive oil"
+        },
+        {
+            "text": "1 cup applesauce"
+        },
+        {
+            "text": "1 (440 g) can pie apples"
+        },
+        {
+            "text": "250 g ricotta cheese"
+        },
+        {
+            "text": "12 cup sultana"
+        },
+        {
+            "text": "2 tablespoons brown sugar"
+        },
+        {
+            "text": "1 teaspoon cinnamon"
+        }
+    ],
+    "recipe": [
+        {
+            "text": "In a bowl, combine 2 cups flour, yeast, sugar and salt."
+        },
+        {
+            "text": "Add water and oil, and beat until smooth."
+        },
+        {
+            "text": "Add enough remaining flour to form a soft dough."
+        },
+        {
+            "text": "Turn onto a floured surface and knead until you have a smooth dough."
+        },
+        {
+            "text": "Cover and let stand for 10 minutes."
+        },
+        {
+            "text": "Press the dough into a deep pizza pan."
+        },
+        {
+            "text": "Prick with a fork and bake at 200C for 10 minutes."
+        },
+        {
+            "text": "Spread apple sauce over base."
+        },
+        {
+            "text": "Beat ricotta cheese, and stir in sultanas."
+        },
+        {
+            "text": "Spread this mixture over the sauce."
+        },
+        {
+            "text": "Arrange apples over the cheese mixture, and sprinkle with brown sugar and cinnamon."
+        },
+        {
+            "text": "Bake at 180C for 20 minutes."
+        }
+    ]
+}

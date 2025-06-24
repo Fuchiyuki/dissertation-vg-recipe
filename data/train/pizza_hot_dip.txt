@@ -1,0 +1,79 @@
+{
+    "title": "pizza_hot_dip",
+    "id": "1512881505",
+    "table": [
+        {
+            "instructions": "mix together all_ingredient except pepperoni .",
+            "input": "(shredded mozzarella cheese; shredded cheddar cheese; chopped green pepper; black olives; sliced green olives; mushrooms; mayonnaise)",
+            "action": "mix",
+            "output": "dip mixture"
+        },
+        {
+            "instructions": "pour into square baking dish .",
+            "input": "dip mixture",
+            "action": "pour",
+            "output": "dip mixture"
+        },
+        {
+            "instructions": "top with rows of pepperoni_slice .",
+            "input": "(dip mixture; pepperoni_slice)",
+            "action": "top",
+            "output": "uncooked_dip mixture_topped_with pepperoni"
+        },
+        {
+            "instructions": "bake at 350f for 30 minutes .",
+            "input": "uncooked_dip mixture_topped_with pepperoni",
+            "action": "bake",
+            "output": "baked dip"
+        },
+        {
+            "instructions": "serve with tortilla_chip .",
+            "input": "(baked dip; tortilla_chip)",
+            "action": "serve",
+            "output": "baked dip served with tortilla_chip"
+        }
+    ],
+    "ingredients": [
+        {
+            "text": "4 ounces shredded mozzarella cheese"
+        },
+        {
+            "text": "4 ounces shredded cheddar cheese"
+        },
+        {
+            "text": "1 green pepper, finely chopped"
+        },
+        {
+            "text": "1 (2 1/4 ounce) can black olives"
+        },
+        {
+            "text": "5 ounces sliced green olives"
+        },
+        {
+            "text": "1 (4 ounce) can mushrooms, drained"
+        },
+        {
+            "text": "1 cup Miracle Whip or 1 cup mayonnaise"
+        },
+        {
+            "text": "pepperoni slice"
+        }
+    ],
+    "recipe": [
+        {
+            "text": "Mix together all ingredients except pepperoni."
+        },
+        {
+            "text": "Pour into square baking dish."
+        },
+        {
+            "text": "Top with rows of pepperoni slices."
+        },
+        {
+            "text": "Bake at 350F for 30 minutes."
+        },
+        {
+            "text": "Serve with tortilla chips."
+        }
+    ]
+}

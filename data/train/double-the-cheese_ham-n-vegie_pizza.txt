@@ -1,0 +1,169 @@
+{
+    "title": "double-the-cheese_ham-n-vegie_pizza",
+    "id": "8b0c9f3c76",
+    "table": [
+        {
+            "instructions": "preheat oven to 450f .",
+            "input": "NA",
+            "action": "preheat",
+            "output": "NA"
+        },
+        {
+            "instructions": "in large bowl , stir bisquick mix , water and oil until soft dough forms ;",
+            "input": "(bisquick mix; water; oil; dough)",
+            "action": "stir",
+            "output": "soft dough"
+        },
+        {
+            "instructions": "beat vigorously 20 strokes .",
+            "input": "soft dough",
+            "action": "beat",
+            "output": "soft dough"
+        },
+        {
+            "instructions": "move oven rack to lowest position .",
+            "input": "NA",
+            "action": "move",
+            "output": "NA"
+        },
+        {
+            "instructions": "grease 12 inch pizza\u2012pan with shortening or cooking_spray .",
+            "input": "NA",
+            "action": "grease",
+            "output": "NA"
+        },
+        {
+            "instructions": "press dough on bottom and 1 inch over side of pizza\u2012pan .",
+            "input": "soft dough",
+            "action": "press",
+            "output": "pressed dough"
+        },
+        {
+            "instructions": "place string_cheese along edge of dough .",
+            "input": "(string cheese; pressed dough)",
+            "action": "place",
+            "output": "pressed dough with string cheese along edges"
+        },
+        {
+            "instructions": "fold 1 inch edge of dough over and around cheese ;",
+            "input": "pressed dough with string cheese along edges",
+            "action": "fold",
+            "output": "pressed dough with folded edges stuffed with string cheese"
+        },
+        {
+            "instructions": "press to seal .",
+            "input": "pressed dough with folded edges stuffed with string cheese",
+            "action": "press",
+            "output": "pressed dough with folded and sealed edges stuffed with string cheese"
+        },
+        {
+            "instructions": "bake 7 minutes .",
+            "input": "uncooked pizza crust with stuffed edges",
+            "action": "bake",
+            "output": "baked pizza crust with stuffed edges"
+        },
+        {
+            "instructions": "spread tomato_paste over crust .",
+            "input": "(tomato paste; baked pizza crust with stuffed edges)",
+            "action": "spread",
+            "output": "tomato paste spread on baked pizza crust with stuffed edges"
+        },
+        {
+            "instructions": "top with onion , green_pepper , roasted_red_pepper , ham and olives .",
+            "input": "(baked pizza crust with stuffed edges and tomato paste; onion; green pepper; roasted red pepper; ham; olives)",
+            "action": "top",
+            "output": "baked pizza crust with stuffed edges and tomato paste topped with onion , green_pepper , roasted_red_pepper , ham and olives"
+        },
+        {
+            "instructions": "sprinkle with mozzarella_cheese .",
+            "input": "(mozzarella cheese; baked pizza crust with stuffed edges and tomato paste topped with onion , green_pepper , roasted_red_pepper , ham and olives)",
+            "action": "sprinkle",
+            "output": "baked pizza crust with stuffed edges and tomato paste topped with onion , green_pepper , roasted_red_pepper , ham, olives and mozzarella cheese"
+        },
+        {
+            "instructions": "bake 8 to 10 minutes",
+            "input": "uncooked ham and vegetable pizza with stuffed edges",
+            "action": "bake",
+            "output": "baked ham and vegetable pizza with stuffed edges"
+        }
+    ],
+    "ingredients": [
+        {
+            "text": "3 cups baking mix (Bisquick)"
+        },
+        {
+            "text": "23 cup very hot water"
+        },
+        {
+            "text": "2 tablespoons vegetable oil"
+        },
+        {
+            "text": "4 pieces mozzarella string cheese, cut lengthwise in half (from 4- or 8-oz package)"
+        },
+        {
+            "text": "14 cup Italian-style tomato paste"
+        },
+        {
+            "text": "1 small onion, cut lengthwise in half, then cut crosswise into thin slices"
+        },
+        {
+            "text": "12 medium green bell pepper, thinly sliced"
+        },
+        {
+            "text": "12 cup chopped roasted red pepper"
+        },
+        {
+            "text": "12 cup chopped deli ham"
+        },
+        {
+            "text": "1 (2 1/4 ounce) can sliced ripe olives, drained"
+        },
+        {
+            "text": "2 cups shredded mozzarella cheese (8 oz)"
+        }
+    ],
+    "recipe": [
+        {
+            "text": "Preheat oven to 450F."
+        },
+        {
+            "text": "In large bowl, stir Bisquick mix, water and oil until soft dough forms; beat vigorously 20 strokes."
+        },
+        {
+            "text": "Let stand 8 minutes."
+        },
+        {
+            "text": "Move oven rack to lowest position."
+        },
+        {
+            "text": "."
+        },
+        {
+            "text": "Grease 12-inch pizza pan with shortening or cooking spray."
+        },
+        {
+            "text": "Press dough on bottom and 1 inch over side of pizza pan."
+        },
+        {
+            "text": "Place string cheese along edge of dough."
+        },
+        {
+            "text": "Fold 1 inch edge of dough over and around cheese; press to seal."
+        },
+        {
+            "text": "Bake 7 minutes."
+        },
+        {
+            "text": "Spread tomato paste over crust."
+        },
+        {
+            "text": "Top with onion, green pepper, roasted red pepper, ham and olives."
+        },
+        {
+            "text": "Sprinkle with mozzarella cheese."
+        },
+        {
+            "text": "Bake 8 to 10 minutes or until crust is golden brown and cheese is melted."
+        }
+    ]
+}

@@ -1,0 +1,70 @@
+{
+    "title": "pauper_'s_pizza",
+    "id": "58b8814526",
+    "table": [
+        {
+            "instructions": "preheat oven to 400f .",
+            "input": "NA",
+            "action": "preheat",
+            "output": "NA"
+        },
+        {
+            "instructions": "combine soup , ketchup , mustard , onion and sliced franks .",
+            "input": "(soup; ketchup; mustard; onion; franks)",
+            "action": "combine",
+            "output": "topping mixture"
+        },
+        {
+            "instructions": "spread topping over crust , to the edges and top with cheese .",
+            "input": "topping mixture, cheese, crust",
+            "action": "spread",
+            "output": "topping mixture and cheese spread on crust"
+        },
+        {
+            "instructions": "bake on bottom rack of oven for 20 25 minutes or until hot and melty .",
+            "input": "uncooked pizza",
+            "action": "bake",
+            "output": "Baked pizza"
+        }
+    ],
+    "ingredients": [
+        {
+            "text": "12 inches prepared pizza crust"
+        },
+        {
+            "text": "1 (10 1/2 ounce) can condensed bean with bacon soup"
+        },
+        {
+            "text": "14 cup ketchup"
+        },
+        {
+            "text": "2 -3 tablespoons prepared mustard"
+        },
+        {
+            "text": "3 -4 teaspoons dried onion flakes"
+        },
+        {
+            "text": "12 ounces frankfurters, cut in 1/2-inch slices (low fat is fine)"
+        },
+        {
+            "text": "4 -8 ounces cheddar cheese, shredded"
+        }
+    ],
+    "recipe": [
+        {
+            "text": "Preheat oven to 400F."
+        },
+        {
+            "text": "Combine soup, ketchup, mustard, onion & sliced franks."
+        },
+        {
+            "text": "Spread topping over crust, to the edges and top with cheese."
+        },
+        {
+            "text": "Bake on bottom rack of oven for 20-25 minutes or until hot and melty."
+        },
+        {
+            "text": "Allow to cool for 10 minutes before cutting (squares are easier to eat than wedges for this pizza)."
+        }
+    ]
+}

@@ -1,0 +1,133 @@
+{
+    "title": "toast_pizza_breakfast",
+    "id": "4a887a3b20",
+    "table": [
+        {
+            "instructions": "preheat oven 180 c",
+            "input": "NA",
+            "action": "preheat",
+            "output": "NA"
+        },
+        {
+            "instructions": "cut hotdogs and bell_pepper into thin bits",
+            "input": "(bell_pepper; hotdogs)",
+            "action": "cut",
+            "output": "chopped bell pepper and hotdogs"
+        },
+        {
+            "instructions": "cook together with butter and some salt n pepper n herbs",
+            "input": "(chopped bell pepper and hotdogs; butter; salt; pepper; herbs)",
+            "action": "cook",
+            "output": "cooked and seasoned hotdog mixture"
+        },
+        {
+            "instructions": "grease pie pan or pizza\u2012pan with oil n flour",
+            "input": "NA",
+            "action": "grease",
+            "output": "NA"
+        },
+        {
+            "instructions": "use a roller or your hands to flatten the toast",
+            "input": "toast",
+            "action": "use",
+            "output": "flattened toast"
+        },
+        {
+            "instructions": "place them evenly in the pan",
+            "input": "flattened toast",
+            "action": "place",
+            "output": "flattened toast placed in pan"
+        },
+        {
+            "instructions": "sprinkle some salt n pepper and herbs and half of the cheese",
+            "input": "(salt; pepper; herbs; half of cheese)",
+            "action": "sprinkle",
+            "output": "salt, pepper, herbs, and cheese sprinkled over flattened toast"
+        },
+        {
+            "instructions": "thinly slice tomatoes",
+            "input": "tomatoes",
+            "action": "slice",
+            "output": "sliced tomatoes"
+        },
+        {
+            "instructions": "place them on top of the cheese layer",
+            "input": "(sliced tomatoes; flattened toast with cheese and seasonings)",
+            "action": "place",
+            "output": "sliced tomatoes placed on flattened toast with cheese and seasonings"
+        },
+        {
+            "instructions": "add hotdog mixture then the beaten_egg add salt n pepper n herbs or spices to the eggs and some milk",
+            "input": "(flattened toast with cheese, seasoning and sliced tomatoes; cooked and seasoned hotdog mixture; beaten egg; salt; pepper; herbs; milk)",
+            "action": "add",
+            "output": "cooked and seasoned hotdog mixture, beaten egg, salt, pepper, herbs and milk added to flattened toast with cheese, seasoning and sliced tomatoes"
+        },
+        {
+            "instructions": "top it off with the remaining cheese",
+            "input": "(remaining cheese; flattened toast with cheese, seasoning, sliced tomatoes, cooked hotdog mixture, beaten egg and milk)",
+            "action": "top",
+            "output": "flattened toast with cheese, seasoning, sliced tomatoes, cooked hotdog mixture, beaten egg and milk topped with remaining cheese"
+        },
+        {
+            "instructions": "bake for about 30 minutes or until the cheese melts",
+            "input": "assembled toast_pizza_breakfast",
+            "action": "bake",
+            "output": "baked toast_pizza_breakfast"
+        }
+    ],
+    "ingredients": [
+        {
+            "text": "2 cup shredded or cubed cheese"
+        },
+        {
+            "text": "1 large tomato"
+        },
+        {
+            "text": "6 eggs"
+        },
+        {
+            "text": "1 dash salt n pepper and any herb"
+        },
+        {
+            "text": "1 tbsp butter"
+        },
+        {
+            "text": "2 large hotdogs or sausages"
+        },
+        {
+            "text": "7 toast or more depending on the size of the pan"
+        },
+        {
+            "text": "1 medium red bell pepper, the red ones have a sweeter and matching flavour with hotdogs"
+        },
+        {
+            "text": "1 some milk"
+        }
+    ],
+    "recipe": [
+        {
+            "text": "preheat oven 180 c"
+        },
+        {
+            "text": "for this recipe you can use whatever fillings and flavours and amount of ingredients that suit your taste."
+        },
+        {
+            "text": "This is how I made mine"
+        },
+        {
+            "text": "cut hotdogs and bell pepper into thin bits, cook together with butter and some salt n pepper n herbs"
+        },
+        {
+            "text": "grease pie pan or pizza pan with oil n flour"
+        },
+        {
+            "text": "use a roller or your hands to flatten the toast and place them evenly in the pan, sprinkle some salt n pepper and herbs and half of the cheese"
+        },
+        {
+            "text": "thinly slice tomatoes and place them on top of the cheese layer"
+        },
+        {
+            "text": "add hotdog mixture then the beaten eggs (add salt n pepper n herbs or spices to the eggs and some milk) then top it off with the remaining cheese and bake for about 30 minutes or until the cheese melts"
+        }
+    ]
+}

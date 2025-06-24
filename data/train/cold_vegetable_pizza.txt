@@ -1,0 +1,115 @@
+{
+    "title": "cold_vegetable_pizza",
+    "id": "8b1bc72886",
+    "table": [
+        {
+            "instructions": "spread the 2 packages of crescent_roll on the jelly roll pan",
+            "input": "crescent_roll package",
+            "action": "spread",
+            "output": "spread_crescent_roll dough"
+        },
+        {
+            "instructions": "bake as directed on the packages .",
+            "input": "spread_crescent_roll dough",
+            "action": "bake",
+            "output": "baked crust"
+        },
+        {
+            "instructions": "whip together the cream_cheese , miracle whip , and dressing until smooth",
+            "input": "cream cheese; miracle whip; dressing",
+            "action": "whip",
+            "output": "cream cheese and dressing mixture"
+        },
+        {
+            "instructions": "spread onto cooled crust .",
+            "input": "cooled baked crust; cream cheese and dressing mixture",
+            "action": "spread",
+            "output": "cream cheese and dressing mixture spread on baked crust"
+        },
+        {
+            "instructions": "cut into small portions all the vegetables you like",
+            "input": "vegetables",
+            "action": "cut",
+            "output": "chopped vegetables"
+        },
+        {
+            "instructions": "sprinkle over the entire pan .",
+            "input": "chopped vegetables; baked crust with cream cheese and dressing mixture",
+            "action": "sprinkle",
+            "output": "baked crust with cream cheese and dressing mixture and chopped vegetables"
+        },
+        {
+            "instructions": "use the vegetables you really like",
+            "input": "NA",
+            "action": "use",
+            "output": "NA"
+        },
+        {
+            "instructions": "use only as much as you want .",
+            "input": "NA",
+            "action": "use",
+            "output": "NA"
+        },
+        {
+            "instructions": "top with sprinkling the cheese over all .",
+            "input": "cheese; baked crust with cream cheese and dressing mixture and chopped vegetables",
+            "action": "top",
+            "output": "assembled cold_vegetable_pizza"
+        }
+    ],
+    "ingredients": [
+        {
+            "text": "2 packages crescent rolls"
+        },
+        {
+            "text": "2 8 oz (224 grm). packages cream cheese"
+        },
+        {
+            "text": "1/2 cup (125 ml) Miracle Whip or other mayonnaise-type salad dressing"
+        },
+        {
+            "text": "1 package Hidden Valley Ranch Dressing Mix (dry mix)"
+        },
+        {
+            "text": "carrots"
+        },
+        {
+            "text": "broccoli"
+        },
+        {
+            "text": "cauliflower"
+        },
+        {
+            "text": "green peppers"
+        },
+        {
+            "text": "onion"
+        },
+        {
+            "text": "tomatoes"
+        },
+        {
+            "text": "2 cups (475 ml) shredded cheddar cheese"
+        }
+    ],
+    "recipe": [
+        {
+            "text": "Spread the 2 packages of crescent rolls on the jelly roll pan and bake as directed on the packages."
+        },
+        {
+            "text": "Cool."
+        },
+        {
+            "text": "Whip together the cream cheese, miracle whip, and dressing until smooth and spread onto cooled crust."
+        },
+        {
+            "text": "Cut into small portions all the vegetables you like and sprinkle over the entire pan."
+        },
+        {
+            "text": "Use the vegetables you really like and use only as much as you want."
+        },
+        {
+            "text": "Top with sprinkling the cheese over all."
+        }
+    ]
+}

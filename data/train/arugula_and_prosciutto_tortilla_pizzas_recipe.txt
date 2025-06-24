@@ -1,0 +1,85 @@
+{
+    "title": "arugula_and_prosciutto_tortilla_pizzas_recipe",
+    "id": "f1cd0a471f",
+    "table": [
+        {
+            "instructions": "preheat oven to 400f .",
+            "input": "NA",
+            "actions": "preheat",
+            "output": "NA"
+        },
+        {
+            "instructions": "in a medium heavy skillet cook prosciutto and onion in oil over moderate heat , stirring , till onion is softened .",
+            "input": "(prosciutto; onion)",
+            "actions": "cook",
+            "output": "(cooked_prosciutto; onion)"
+        },
+        {
+            "instructions": "remove skillet from heat",
+            "input": "(cooked_prosciutto; onion)",
+            "actions": "remove",
+            "output": "(cooked_prosciutto; onion)"
+        },
+        {
+            "instructions": "stir in arugula and salt and pepper to taste .",
+            "input": "(cooked_prosciutto; onion; arugula; salt; pepper)",
+            "actions": "stir",
+            "output": "seasoned_prosciutto_and_arugula_mixture"
+        },
+        {
+            "instructions": "arrange flour_tortilla on 2 baking sheets",
+            "input": "flour_tortilla",
+            "actions": "arrange",
+            "output": "flour_tortilla"
+        },
+        {
+            "instructions": "top with arugula mix and parmesan .",
+            "input": "(flour_tortilla; arugula_mix; parmesan)",
+            "actions": "top",
+            "output": "uncooked_arugula_and_prosciutto_tortilla_pizzas"
+        },
+        {
+            "instructions": "bake pizzas on upper and lower racks of oven , switching positions of baking sheets halfway through baking , till edges are golden brown , about 10 min .",
+            "input": "uncooked_arugula_and_prosciutto_tortilla_pizzas",
+            "actions": "bake",
+            "output": "cooked_arugula_and_prosciutto_tortilla_pizzas"
+        }
+    ],
+    "ingredients": [
+        {
+            "text": "A, (1/4-lb.) piece of prosciutto, cut into 1/4-inch dice (about 2/3 c.)"
+        },
+        {
+            "text": "1 med Red onion, minced fine (about 1 c.)"
+        },
+        {
+            "text": "1/4 c. Extra virgin olive oil"
+        },
+        {
+            "text": "2 bn , arugula, coarse stems discarded and the rest washed well, spun dry, and minced (about 2 c.) Four, (8 1/2-inch) flour tortillas"
+        },
+        {
+            "text": "2/3 c. Freshly grated Parmesan cheese, (about 3 ounces)"
+        }
+    ],
+    "recipe": [
+        {
+            "text": "Preheat oven to 400F."
+        },
+        {
+            "text": "In a medium heavy skillet cook prosciutto and onion in oil over moderate heat, stirring, till onion is softened."
+        },
+        {
+            "text": "Remove skillet from heat and stir in arugula and salt and pepper to taste."
+        },
+        {
+            "text": "Arrange flour tortillas on 2 baking sheets and top with arugula mix and Parmesan."
+        },
+        {
+            "text": "Bake pizzas on upper and lower racks of oven, switching positions of baking sheets halfway through baking, till edges are golden brown, about 10 min."
+        },
+        {
+            "text": "Serves 4 as an entree or possibly 8 to 10 as an hors d'oeuvre."
+        }
+    ]
+}

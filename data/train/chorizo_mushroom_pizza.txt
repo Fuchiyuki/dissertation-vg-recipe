@@ -1,0 +1,202 @@
+{
+    "title": "chorizo_mushroom_pizza",
+    "id": "49e3404696",
+    "table": [
+        {
+            "instructions": "preheat oven to 180 200 degree c",
+            "input": "NA",
+            "action": "preheat",
+            "output": "NA"
+        },
+        {
+            "instructions": "place pizza base on pizza stone or baking sheet .",
+            "input": "pizza base",
+            "action": "place",
+            "output": "pizza base"
+        },
+        {
+            "instructions": "spread tomato_paste evenly over pizza base .",
+            "input": "tomato_paste, pizza base",
+            "action": "spread",
+            "output": "pizza base spread with tomato_paste"
+        },
+        {
+            "instructions": "sprinkle dried chili_flake over tomato_paste .",
+            "input": "chili_flake, pizza base with tomato paste",
+            "action": "sprinkle",
+            "output": "pizza base with tomato paste and sprinkled chili_flake"
+        },
+        {
+            "instructions": "heat olive_oil in fry pan .",
+            "input": "olive_oil",
+            "action": "heat",
+            "output": "heated olive oil"
+        },
+        {
+            "instructions": "cut chorizo into slices",
+            "input": "chorizo",
+            "action": "cut",
+            "output": "chorizo slices"
+        },
+        {
+            "instructions": "cook in fry pan until slightly charred and crispy .",
+            "input": "(chorizo slices; heated olive oil)",
+            "action": "cook",
+            "output": "cooked chorizo slices"
+        },
+        {
+            "instructions": "cut onions into slices",
+            "input": "onions",
+            "action": "cut",
+            "output": "onion slices"
+        },
+        {
+            "instructions": "cook in fry pan with chorizo until lightly golden .",
+            "input": "cooked chorizo slices, onion slices",
+            "action": "cook",
+            "output": "lightly golden onion slices with chorizo slices"
+        },
+        {
+            "instructions": "cut button_mushroom into slices",
+            "input": "button_mushrooms",
+            "action": "cut",
+            "output": "sliced button_mushrooms"
+        },
+        {
+            "instructions": "add to frypan",
+            "input": "(sliced button_mushrooms; chorizo and onion slices)",
+            "action": "add",
+            "output": "sliced button_mushrooms added to chorizo and onion slices"
+        },
+        {
+            "instructions": "stir to coat with oil .",
+            "input": "mushrooms, onion and chorizo slices",
+            "action": "stir",
+            "output": "cooking mushrooms, onion and chorizo slices"
+        },
+        {
+            "instructions": "cook for 5 minutes until mushrooms are just cooked .",
+            "input": "cooking mushrooms, onion and chorizo slices",
+            "action": "cook",
+            "output": "cooked mushrooms, onion and chorizo slices"
+        },
+        {
+            "instructions": "take chorizo mixture off heat",
+            "input": "cooked mushrooms, onion and chorizo slices",
+            "action": "take",
+            "output": "cooked mushrooms, onion and chorizo slices"
+        },
+        {
+            "instructions": "stir through chopped_parsley .",
+            "input": "(chopped_parsley; cooked mushrooms, onion and chorizo slices)",
+            "action": "stir",
+            "output": "parsley stirred into cooked mushrooms, onion and chorizo slices"
+        },
+        {
+            "instructions": "spread chorizo mixture evenly over pizza base",
+            "input": "chorizo mixture, pizza base with tomato paste with sprinkled chili_flake",
+            "action": "spread",
+            "output": "pizza base with tomato paste and sprinkled chili_flake with evenly spread chorizo mixture"
+        },
+        {
+            "instructions": "place in hot oven .",
+            "input": "uncooked chorizo_mushroom_pizza",
+            "action": "place",
+            "output": "uncooked chorizo_mushroom_pizza"
+        },
+        {
+            "instructions": "cook for 10 minutes or until base is crispy .",
+            "input": "uncooked chorizo_mushroom_pizza",
+            "action": "cook",
+            "output": "baked chorizo_mushroom_pizza"
+        },
+        {
+            "instructions": "squeeze lemon over hot pizza .",
+            "input": "lemon, baked chorizo_mushroom_pizza",
+            "action": "squeeze",
+            "output": "lemon squeezed over baked chorizo_mushroom_pizza"
+        },
+        {
+            "instructions": "cut into 8 slices",
+            "input": "baked chorizo_mushroom_pizza",
+            "action": "cut",
+            "output": "cut baked chorizo_mushroom_pizza"
+        },
+        {
+            "instructions": "serve .",
+            "input": "cut baked chorizo_mushroom_pizza",
+            "action": "serve",
+            "output": "cut baked chorizo_mushroom_pizza ready to serve"
+        }
+    ],
+    "ingredients": [
+        {
+            "text": "1 whole Pizza Base/Crust (store Bought Is OK)"
+        },
+        {
+            "text": "1 bag Tomato Paste"
+        },
+        {
+            "text": "1 dash Olive Oil"
+        },
+        {
+            "text": "2 whole Chorizo Sausages"
+        },
+        {
+            "text": "2 whole Onions, Sliced"
+        },
+        {
+            "text": "1 pinch Dried Chili Flakes (optional)"
+        },
+        {
+            "text": "1 bunch Parsley, Chopped"
+        },
+        {
+            "text": "1 whole Lemon"
+        }
+    ],
+    "recipe": [
+        {
+            "text": "Preheat oven to 180 200 degree C"
+        },
+        {
+            "text": "Place pizza base on pizza stone or baking sheet."
+        },
+        {
+            "text": "Spread tomato paste evenly over pizza base."
+        },
+        {
+            "text": "Sprinkle dried chili flakes over tomato paste."
+        },
+        {
+            "text": "Heat olive oil in fry pan."
+        },
+        {
+            "text": "Cut Chorizo into slices and cook in fry pan until slightly charred and crispy."
+        },
+        {
+            "text": "Cut onions into slices and cook in fry pan with Chorizo until lightly golden."
+        },
+        {
+            "text": "Cut button mushrooms into slices and add to frypan and stir to coat with oil."
+        },
+        {
+            "text": "Cook for 5 minutes until mushrooms are just cooked."
+        },
+        {
+            "text": "Take Chorizo mixture off heat and stir through chopped parsley."
+        },
+        {
+            "text": "Spread Chorizo mixture evenly over pizza base and place in hot oven."
+        },
+        {
+            "text": "Cook for 10 minutes or until base is crispy."
+        },
+        {
+            "text": "Squeeze lemon over hot pizza."
+        },
+        {
+            "text": "Cut into 8 slices and serve."
+        }
+    ]
+}

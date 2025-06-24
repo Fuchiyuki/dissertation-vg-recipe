@@ -1,0 +1,232 @@
+{
+    "title": "california_pizza_kitchen_'s_tuscan_hummus_recipe",
+    "id": "5fcbdc20cb",
+    "table": [
+        {
+            "instructions": "add in the beans",
+            "input": "beans",
+            "actions": "add",
+            "output": "added_beans"
+        },
+        {
+            "instructions": "then , with the machine running , puree them",
+            "input": "beans",
+            "actions": "puree",
+            "output": "pureed beans"
+        },
+        {
+            "instructions": "you slowly pour the sesame_paste through the feed tube .",
+            "input": "(sesame_paste; pureed beans)",
+            "actions": "pour",
+            "output": "sesame_paste_poured in pureed_beans"
+        },
+        {
+            "instructions": "still with the motor running , pour the extra virgin_olive_oil , lemon_juice , and soy_sauce through the feed tube , stopping the processor occasionally to scrape down the sides of the bowl .",
+            "input": "(extra virgin_olive_oil; lemon_juice; soy_sauce; pureed beans and sesame paste mix)",
+            "actions": "pour",
+            "output": "puree"
+        },
+        {
+            "instructions": "open the lid ,",
+            "input": "puree",
+            "actions": "open",
+            "output": "puree"
+        },
+        {
+            "instructions": "add in the salt , cumin , coriander , and cayenne .",
+            "input": "(puree; salt; cumin; coriander; cayenne)",
+            "actions": "add",
+            "output": "salt, cumin, coriander, and cayenne added to puree"
+        },
+        {
+            "instructions": "add cool water .",
+            "input": "(cool water; seasoned_puree)",
+            "actions": "add",
+            "output": "cool water added to seasoned_puree"
+        },
+        {
+            "instructions": "transfer the puree to a bowl",
+            "input": "thinned_seasoned_puree",
+            "actions": "transfer",
+            "output": "thinned_seasoned_puree"
+        },
+        {
+            "instructions": "cover with plastic wrap ,",
+            "input": "thinned_seasoned_puree",
+            "actions": "cover",
+            "output": "covered_hummus"
+        },
+        {
+            "instructions": "chill to refrigerate well before serving .",
+            "input": "covered_hummus",
+            "actions": "chill",
+            "output": "chilled_hummus"
+        },
+        {
+            "instructions": "preheat the oven to 250 degrees .",
+            "input": "NA",
+            "actions": "preheat",
+            "output": "NA"
+        },
+        {
+            "instructions": "put the pita_bread in the oven",
+            "input": "pita_bread",
+            "actions": "put",
+            "output": "pita_bread"
+        },
+        {
+            "instructions": "heat till thoroughly warmed , 6 to 8 min .",
+            "input": "pita_bread",
+            "actions": "heat",
+            "output": "thoroughly warmed pita bread"
+        },
+        {
+            "instructions": "carefully remove",
+            "input": "thoroughly warmed pita bread",
+            "actions": "remove",
+            "output": "thoroughly warmed pita bread"
+        },
+        {
+            "instructions": "cut into wedges .",
+            "input": "pita bread",
+            "actions": "cut",
+            "output": "pita bread cut into wedges"
+        },
+        {
+            "instructions": "place the chilled hummus in a serving plate or possibly bowl",
+            "input": "chilled hummus",
+            "actions": "place",
+            "output": "chilled hummus"
+        },
+        {
+            "instructions": "arrange the tomato checca on top .",
+            "input": "(tomato checca; chilled hummus)",
+            "actions": "arrange",
+            "output": "hummus topped with tomato checca"
+        },
+        {
+            "instructions": "garnish with the minced parsley",
+            "input": "(minced parsley; chilled hummus with tomato checca)",
+            "actions": "garnish",
+            "output": "hummus topped with minced parsley and tomato"
+        },
+        {
+            "instructions": "surround with the pita triangles .",
+            "input": "(pita triangles; hummus with tomato and parsley)",
+            "actions": "surround",
+            "output": "hummus bowl surrounded by pita wedges"
+        },
+        {
+            "instructions": "serve immediately .",
+            "input": "hummus bowl surrounded by pita wedges",
+            "actions": "serve",
+            "output": "hummus bowl surrounded by pita wedges"
+        }
+    ],
+    "ingredients": [
+        {
+            "text": "10 med garlic cloves"
+        },
+        {
+            "text": "3 c. liquid removed canned cannellini beans abt two 15 ounce cans (or possibly great northern beans)"
+        },
+        {
+            "text": "1/2 c. sesame paste (tahini)"
+        },
+        {
+            "text": "1/4 c. freshly-squeezed lemon juice"
+        },
+        {
+            "text": "1 Tbsp. soy sauce plus"
+        },
+        {
+            "text": "1/2 tsp soy sauce"
+        },
+        {
+            "text": "1 1/2 tsp salt"
+        },
+        {
+            "text": "1 1/2 tsp grnd cumin"
+        },
+        {
+            "text": "1/8 tsp grnd coriander"
+        },
+        {
+            "text": "1/2 tsp cayenne pepper"
+        },
+        {
+            "text": "1/4 c. cool water - (to 1/2) if needed"
+        },
+        {
+            "text": "2 Tbsp. chopped fresh Italian parsley for garnish"
+        },
+        {
+            "text": "2 lb Roma tomatoes cut 1/2\" dice"
+        },
+        {
+            "text": "1 Tbsp. chopped garlic"
+        },
+        {
+            "text": "1 Tbsp. chopped fresh basil"
+        },
+        {
+            "text": "2 tsp salt"
+        },
+        {
+            "text": "1/2 c. extra-virgin extra virgin olive oil"
+        }
+    ],
+    "recipe": [
+        {
+            "text": "Fit a food processor with the steel blade."
+        },
+        {
+            "text": "Process the garlic cloves till finely chopped, stopping the processor occasionally to scrape down the sides of the work bowl."
+        },
+        {
+            "text": "Add in the beans and pulse the machine a few times to chop them coarsely."
+        },
+        {
+            "text": "Then, with the machine running, puree them while you slowly pour the sesame paste through the feed tube."
+        },
+        {
+            "text": "Still with the motor running, pour the extra virgin olive oil, lemon juice, and soy sauce through the feed tube, stopping the processor occasionally to scrape down the sides of the bowl."
+        },
+        {
+            "text": "Stop the processor, open the lid, and add in the salt, cumin, coriander, and cayenne."
+        },
+        {
+            "text": "Process till thoroughly blended."
+        },
+        {
+            "text": "If the puree seems too thick for dipping or possibly spreading, pulse in the 1/4 to 1/2 c. cool water."
+        },
+        {
+            "text": "Transfer the puree to a bowl, cover with plastic wrap, and chill to refrigeratewell before serving."
+        },
+        {
+            "text": "Preheat the oven to 250 degrees."
+        },
+        {
+            "text": "Put the pita breads in the oven and heat till thoroughly warmed, 6 to 8 min."
+        },
+        {
+            "text": "Carefully remove and cut into wedges."
+        },
+        {
+            "text": "Place the chilled hummus in a serving plate or possibly bowl and arrange the tomato Checca on top."
+        },
+        {
+            "text": "Garnish with the minced parsley and surround with the pita triangles."
+        },
+        {
+            "text": "Serve immediately."
+        },
+        {
+            "text": "For the Checca: In a mixing bowl, toss together the Checca ingredients, mixing them thoroughly."
+        },
+        {
+            "text": "Cover with plastic wrap and chill till serving time."
+        }
+    ]
+}

@@ -1,0 +1,187 @@
+{
+    "title": "s'kat_'s_easy_pizza_dough",
+    "id": "624471b5bd",
+    "table": [
+        {
+            "instructions": "stir together the water , yeast and the sugar .",
+            "input": "(water; yeast; sugar)",
+            "action": "stir",
+            "output": "yeast mixture"
+        },
+        {
+            "instructions": "place 2 12 cups of the flour , salt and cornmeal in a mixing bowl",
+            "input": "(flour; salt; cornmeal)",
+            "action": "place",
+            "output": "flour,_salt and_cornmeal mix"
+        },
+        {
+            "instructions": "combine .",
+            "input": "flour,_salt and_cornmeal mix",
+            "action": "combine",
+            "output": "dry_ingredient"
+        },
+        {
+            "instructions": "add the yeast mixture and olive_oil",
+            "input": "(yeast_mixture; olive_oil; dry_ingredient)",
+            "action": "add",
+            "output": "dough ingredients"
+        },
+        {
+            "instructions": "stir together to form a sticky dough .",
+            "input": "dough ingredients",
+            "action": "stir",
+            "output": "sticky_dough"
+        },
+        {
+            "instructions": "remove from bowl",
+            "input": "sticky_dough",
+            "action": "remove",
+            "output": "sticky_dough"
+        },
+        {
+            "instructions": "knead , adding the remaining flour a little at a time until the dough becomes smooth and elastic , about 5 minutes .",
+            "input": "sticky_dough",
+            "action": "knead",
+            "output": "kneaded dough"
+        },
+        {
+            "instructions": "turn the dough into a lightly oiled bowl .",
+            "input": "kneaded dough",
+            "action": "turn",
+            "output": "dough_in oiled_bowl"
+        },
+        {
+            "instructions": "cover with a dry towel",
+            "input": "dough_in oiled_bowl",
+            "action": "cover",
+            "output": "covered dough"
+        },
+        {
+            "instructions": "place in a warm , draft free area .",
+            "input": "covered dough",
+            "action": "place",
+            "output": "covered dough"
+        },
+        {
+            "instructions": "  i usually stick it in the oven .",
+            "input": "NA",
+            "action": "stick",
+            "output": "NA"
+        },
+        {
+            "instructions": "let rise for at least one hour .",
+            "input": "covered dough",
+            "action": "rise",
+            "output": "risen_dough"
+        },
+        {
+            "instructions": "when dough has doubled in bulk , punch back down .",
+            "input": "risen_dough",
+            "action": "punch",
+            "output": "punched down_dough"
+        },
+        {
+            "instructions": "at this point , add any of the optional ingredients at end of recipe , or as desired .",
+            "input": "(optional ingredients; punched down_dough)",
+            "action": "add",
+            "output": "optional ingredients added to dough"
+        },
+        {
+            "instructions": "add toppings .",
+            "input": "(toppings; pizza dough)",
+            "action": "add",
+            "output": "toppings_added to pizza crust"
+        },
+        {
+            "instructions": "bake at 500f for about 8 minutes .",
+            "input": "uncooked pizza",
+            "action": "bake",
+            "output": "baked pizza"
+        },
+        {
+            "instructions": "optional , but worthwhile fresh_herb i use basil , oregano and thyme , chopped minced_garlic , parmiagiano reggiano and extra cornmeal for texture .",
+            "input": "NA",
+            "action": "use",
+            "output": "NA"
+        }
+    ],
+    "ingredients": [
+        {
+            "text": "1 12 cups water (test on inside of wrist, like for a baby bottle- that's the right temp!)"
+        },
+        {
+            "text": "1 (1/4 ounce) packet dry yeast"
+        },
+        {
+            "text": "1 teaspoon sugar"
+        },
+        {
+            "text": "3 -4 cups bread flour"
+        },
+        {
+            "text": "1 tablespoon cornmeal"
+        },
+        {
+            "text": "1 teaspoon salt"
+        },
+        {
+            "text": "3 tablespoons olive oil, plus additional as needed"
+        }
+    ],
+    "recipe": [
+        {
+            "text": "Stir together the water, yeast and the sugar."
+        },
+        {
+            "text": "Let rest until the yeast foams, about 3 minutes."
+        },
+        {
+            "text": "Place 2 1/2-cups of the flour, salt and cornmeal in a mixing bowl and combine."
+        },
+        {
+            "text": "Add the yeast mixture and olive oil and stir together to form a sticky dough."
+        },
+        {
+            "text": "Remove from bowl and knead, adding the remaining flour a little at a time until the dough becomes smooth and elastic, about 5 minutes."
+        },
+        {
+            "text": "The longer you knead, the more texture your dough will have."
+        },
+        {
+            "text": "Turn the dough into a lightly oiled bowl."
+        },
+        {
+            "text": "Cover with a dry towel and place in a warm, draft free area."
+        },
+        {
+            "text": "(I usually stick it in the oven."
+        },
+        {
+            "text": "If your oven is cold, very briefly- about 1 minute- turn to highest temp, then off again, well before placing bowl in oven."
+        },
+        {
+            "text": "Let's not melt any bowls, eh?)"
+        },
+        {
+            "text": "Let rise for at least one hour."
+        },
+        {
+            "text": "When dough has doubled in bulk, punch back down."
+        },
+        {
+            "text": "At this point, add any of the optional ingredients at end of recipe, or as desired."
+        },
+        {
+            "text": "Let the dough rise again, until almost doubled, about 30 minutes."
+        },
+        {
+            "text": "Or, if there were no extra additions, shape and add toppings."
+        },
+        {
+            "text": "Bake at 500F for about 8 minutes."
+        },
+        {
+            "text": "Optional, but worthwhile: fresh herbs (I use basil, oregano and thyme), chopped minced garlic, parmiagiano-reggiano and extra cornmeal for texture."
+        }
+    ]
+}

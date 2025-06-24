@@ -1,0 +1,175 @@
+{
+    "title": "tortilla_pizzas_with_feta_cheese_tomatoes_and_olives",
+    "id": "4e8f673cd7",
+    "table": [
+        {
+            "instructions": "preheat the oven to 375 degrees .",
+            "input": "NA",
+            "actions": "preheat",
+            "output": "NA"
+        },
+        {
+            "instructions": "using 2 baking sheets , place 2 tortillas side by side on each sheet .",
+            "input": "tortillas",
+            "actions": "place",
+            "output": "tortillas"
+        },
+        {
+            "instructions": "with a pastry brush , lightly brush each tortilla with some of the olive_oil .",
+            "input": "(tortillas; olive_oil)",
+            "actions": "brush",
+            "output": "tortillas brushed with olive oil"
+        },
+        {
+            "instructions": "brush again .",
+            "input": "(tortillas with brushed olive oil; olive_oil)",
+            "actions": "brush",
+            "output": "tortillas with brushed olive oil"
+        },
+        {
+            "instructions": "bake 8 to 10 minutes , flipping over the tortillas and alternating the placement of the baking sheets halfway through the cooking time .",
+            "input": "tortillas with brushed olive oil",
+            "actions": "bake",
+            "output": "baked tortillas"
+        },
+        {
+            "instructions": "also, during the first few minutes , use a knife point to pop any air bubbles that might develop .",
+            "input": "baked tortillas",
+            "actions": "use",
+            "output": "baked tortillas with popped air bubbles"
+        },
+        {
+            "instructions": "seal in a plastic bag ,",
+            "input": "baked tortillas with popped air bubbles",
+            "actions": "seal",
+            "output": "sealed baked tortillas"
+        },
+        {
+            "instructions": "refrigerate until ready to use .",
+            "input": "sealed baked tortillas",
+            "actions": "refrigerate",
+            "output": "refrigerated tortillas"
+        },
+        {
+            "instructions": "in a large bowl , combine the tomatoes , olives , zucchini , onion slivers , oregano , pepper , and olive_oil",
+            "input": "(tomatoes; olives; zucchini; onion slivers; oregano; pepper; olive_oil)",
+            "actions": "combine",
+            "output": "combined vegetable mixture"
+        },
+        {
+            "instructions": "toss well .",
+            "input": "combined vegetable mixture",
+            "actions": "toss",
+            "output": "well-tossed vegetable mixture"
+        },
+        {
+            "instructions": "gently fold in the feta_cheese .",
+            "input": "(well-tossed vegetable mixture; feta_cheese)",
+            "actions": "fold",
+            "output": "vegetable mixture with folded feta cheese"
+        },
+        {
+            "instructions": "scatter all over the 4 tortillas .",
+            "input": "(vegetable and feta_cheese mixture; baked tortillas)",
+            "actions": "scatter",
+            "output": "vegetable and feta_cheese mixture scattered on tortillas"
+        },
+        {
+            "instructions": "bake 12 minutes , or until the feta is sizzling and the zucchini softened .",
+            "input": "tortillas with vegetable and feta_cheese mixture",
+            "actions": "bake",
+            "output": "baked tortillas pizza with feta_cheese and vegetables"
+        },
+        {
+            "instructions": "cut",
+            "input": "baked tortillas pizza with feta_cheese and vegetables",
+            "actions": "cut",
+            "output": "cut baked tortillas pizza with feta_cheese and vegetables"
+        },
+        {
+            "instructions": "serve immediately",
+            "input": "cut baked tortillas pizza with feta_cheese and vegetables",
+            "actions": "serve",
+            "output": "cut baked tortillas pizza with feta_cheese and vegetables"
+        }
+    ],
+    "ingredients": [
+        {
+            "text": "4 (8inch) flour (wheat) tortillas"
+        },
+        {
+            "text": "1 1/2 tablespoons olive oil"
+        },
+        {
+            "text": "4 plum tomatoes, finely diced"
+        },
+        {
+            "text": "12 black olives (such as Kalamata or oilcured olives) pitted and halved"
+        },
+        {
+            "text": "1 medium zucchini, halved lengthwise and sliced paper thin"
+        },
+        {
+            "text": "1/2 cup thin slivers red onion"
+        },
+        {
+            "text": "4 teaspoons finely chopped oregano, or 2 teaspoons dried oregano"
+        },
+        {
+            "text": "Generous seasoning freshly ground black pepper"
+        },
+        {
+            "text": "3 tablespoons fruity olive oil"
+        },
+        {
+            "text": "8 ounces (1 1/2 cups) finely crumbled feta cheese"
+        }
+    ],
+    "recipe": [
+        {
+            "text": "Preheat the oven to 375 degrees."
+        },
+        {
+            "text": "Using 2 baking sheets, place 2 tortillas side by side on each sheet."
+        },
+        {
+            "text": "With a pastry brush, lightly brush each tortilla with some of the olive oil."
+        },
+        {
+            "text": "Flip the tortillas and brush again."
+        },
+        {
+            "text": "Bake 8 to 10 minutes, flipping over the tortillas and alternating the placement of the baking sheets halfway through the cooking time."
+        },
+        {
+            "text": "Also, during the first few minutes, use a knife point to pop any air bubbles that might develop."
+        },
+        {
+            "text": "The tortillas should be golden and crisp when done."
+        },
+        {
+            "text": "(The tortillas may be prepared to this point up to 3 days in advance."
+        },
+        {
+            "text": "Cool completely, seal in a plastic bag, and refrigerate until ready to use.)"
+        },
+        {
+            "text": "In a large bowl, combine the tomatoes, olives, zucchini, onion slivers, oregano, pepper, and olive oil and toss well."
+        },
+        {
+            "text": "Gently fold in the feta cheese."
+        },
+        {
+            "text": "Scatter all over the 4 tortillas."
+        },
+        {
+            "text": "Bake 12 minutes, or until the feta is sizzling and the zucchini softened."
+        },
+        {
+            "text": "Alternate the placement of the baking sheets halfway during the cooking time."
+        },
+        {
+            "text": "Cut and serve immediately"
+        }
+    ]
+}

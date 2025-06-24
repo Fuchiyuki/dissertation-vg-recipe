@@ -1,0 +1,106 @@
+{
+    "title": "pizza_jaffle",
+    "id": "c5f065ffd5",
+    "table": [
+        {
+            "instructions": "in a medium size mixing bowl combine all_ingredient except tomato_paste and bread .",
+            "input": "all_ingredient",
+            "actions": "combine",
+            "output": "combined_all_ingredient"
+        },
+        {
+            "instructions": "spread butter onto one side of the bread and tomato_paste onto the other .",
+            "input": "(bread_slice; butter; tomato_paste)",
+            "actions": "spread",
+            "output": "bread_slice_with_butter_on one side and tomato_paste on the other"
+        },
+        {
+            "instructions": "place 2 of these bread_slice into the jaffle maker , butter side down .",
+            "input": "bread_slice",
+            "actions": "place",
+            "output": "bread_slice"
+        },
+        {
+            "instructions": "top with pizza , filling .",
+            "input": "bread_slice_topped_with_pizza_filling",
+            "actions": "top",
+            "output": "bread_slice_topped_with_pizza_filling"
+        },
+        {
+            "instructions": "place remaining slices of bread on top",
+            "input": "(remaining_bread_slices; bread_slices_with_toppings)",
+            "actions": "place",
+            "output": "bread_slices_with_toppings_topped_with_remaining_bread_slices"
+        },
+        {
+            "instructions": "paste side facing into the pizza , filling",
+            "input": "NA",
+            "actions": "paste",
+            "output": "NA"
+        },
+        {
+            "instructions": "cook until browned to your liking .",
+            "input": "uncooked_pizza_waffles",
+            "actions": "cook",
+            "output": "pizza_waffles"
+        }
+    ],
+    "ingredients": [
+        {
+            "text": "30 g ham, diced"
+        },
+        {
+            "text": "12 cup tasty cheese, grated"
+        },
+        {
+            "text": "13 cup capsicum, diced"
+        },
+        {
+            "text": "14 cup fresh tomato, diced"
+        },
+        {
+            "text": "12 cup mushroom, sliced"
+        },
+        {
+            "text": "14 cup onion, finely diced"
+        },
+        {
+            "text": "14 teaspoon dried basil"
+        },
+        {
+            "text": "12 teaspoon garlic, crushed"
+        },
+        {
+            "text": "2 teaspoons tomato paste"
+        },
+        {
+            "text": "4 slices bread"
+        },
+        {
+            "text": "margarine or butter, to coat"
+        }
+    ],
+    "recipe": [
+        {
+            "text": "Plug in the sandwich maker to heat up."
+        },
+        {
+            "text": "In a medium size mixing bowl combine all ingredients except tomato paste and bread."
+        },
+        {
+            "text": "Spread butter onto one side of the bread and tomato paste onto the other."
+        },
+        {
+            "text": "Place 2 of these bread slices into the jaffle maker, butter side down."
+        },
+        {
+            "text": "Top with pizza filling."
+        },
+        {
+            "text": "Place remaining slices of bread on top, paste side facing into the pizza filling."
+        },
+        {
+            "text": "Cook until browned to your liking."
+        }
+    ]
+}

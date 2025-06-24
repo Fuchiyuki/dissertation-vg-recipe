@@ -1,0 +1,118 @@
+{
+    "title": "easy_pizza_pouches",
+    "id": "2856157ca2",
+    "table": [
+        {
+            "instructions": "heat oven to 425 degrees f .",
+            "input": "NA",
+            "action": "heat",
+            "output": "NA"
+        },
+        {
+            "instructions": "unroll pizza_crust ;",
+            "input": "pizza_crust",
+            "action": "unroll",
+            "output": "unrolled_pizza_crust"
+        },
+        {
+            "instructions": "cut into 6 squares .",
+            "input": "unrolled_pizza_crust",
+            "action": "cut",
+            "output": "unrolled_pizza_crust cut into squares"
+        },
+        {
+            "instructions": "place on baking sheet sprayed with cooking_spray .",
+            "input": "unrolled_pizza_crust cut into squares",
+            "action": "place",
+            "output": "unrolled_pizza_crust cut into squares"
+        },
+        {
+            "instructions": "top each square with 3 pepperoni_slice , 1 tbsp\u00a0sauce and about 3 Tbsp. velveets",
+            "input": "pepperoni; velveeta; pizza sauce; unrolled_pizza_crust cut into squares",
+            "action": "top",
+            "output": "unrolled_pizza_crust cut into squares topped with pizza sauce, pepperoni and velveeta cheese"
+        },
+        {
+            "instructions": "Gather 4 corners of each square at top to partially enclose filling; pinch edges of dough together to secure.",
+            "input": "squares of dough with pizza sauce, pepperoni and velveeta cheese",
+            "action": "pinch",
+            "output": "sealed squares of dough with pizza sauce, pepperoni and velveeta cheese"
+        },
+        {
+            "instructions": "bake 10 to 12 min .",
+            "input": "uncooked pizza pockets",
+            "action": "bake",
+            "output": "baked pizza pockets"
+        },
+        {
+            "instructions": "Microwave remaining pizza sauce in microwaveable bowl on HIGH 30 sec.",
+            "input": "remaining pizza sauce",
+            "action": "microwave",
+            "output": "warmed remaining pizza sauce"
+        },
+        {
+            "instructions": "stir .",
+            "input": "warmed remaining pizza sauce",
+            "action": "stir",
+            "output": "stirred and warmed remaining pizza sauce"
+        },
+        {
+            "instructions": "serve with pizza pouches .",
+            "input": "warmed remaining pizza sauce; baked pizza pockets",
+            "action": "serve",
+            "output": "baked pizza pockets served with warmed pizza sauce"
+        }
+    ],
+    "ingredients": [
+        {
+            "text": "1 can (391 g) refrigerated pizza crust"
+        },
+        {
+            "text": "18 pepperoni slices"
+        },
+        {
+            "text": "1 cup pizza sauce, divided"
+        },
+        {
+            "text": "1 cup Cracker Barrel Shredded 3 Cheese Pizza Cheese"
+        }
+    ],
+    "recipe": [
+        {
+            "text": "Heat oven to 425 degrees F."
+        },
+        {
+            "text": "Unroll pizza crust; cut into 6 squares."
+        },
+        {
+            "text": "Place on baking sheet sprayed with cooking spray."
+        },
+        {
+            "text": "Top each square with 3 pepperoni slices, 1 Tbsp."
+        },
+        {
+            "text": "sauce and about 3 Tbsp."
+        },
+        {
+            "text": "cheese."
+        },
+        {
+            "text": "Gather 4 corners of each square at top to partially enclose filling; pinch edges of dough together to secure."
+        },
+        {
+            "text": "Bake 10 to 12 min."
+        },
+        {
+            "text": "or until crusts are lightly browned."
+        },
+        {
+            "text": "Microwave remaining pizza sauce in microwaveable bowl on HIGH 30 sec."
+        },
+        {
+            "text": "or just until warmed; stir."
+        },
+        {
+            "text": "Serve with pizza pouches."
+        }
+    ]
+}

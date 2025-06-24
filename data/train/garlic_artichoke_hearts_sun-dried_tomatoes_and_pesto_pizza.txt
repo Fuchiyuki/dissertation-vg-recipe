@@ -1,0 +1,202 @@
+{
+    "title": "garlic_artichoke_hearts_sun-dried_tomatoes_and_pesto_pizza",
+    "id": "f342bf813d",
+    "table": [
+        {
+            "instructions": "preheat oven to 425 f . ;",
+            "input": "NA",
+            "action": "preheat",
+            "output": "NA"
+        },
+        {
+            "instructions": "stretch dough over a 12 inch greased pizza\u2012pan .",
+            "input": "dough",
+            "action": "stretch",
+            "output": "stretched_dough"
+        },
+        {
+            "instructions": "brush with olive_oil",
+            "input": "(dough; olive oil)",
+            "action": "brush",
+            "output": "oiled_crust"
+        },
+        {
+            "instructions": "scatter garlic slices evenly over crust .",
+            "input": "(crust; garlic slices)",
+            "action": "scatter",
+            "output": "garlicked_crust"
+        },
+        {
+            "instructions": "place in oven",
+            "input": "garlicked_crust",
+            "action": "place",
+            "output": "garlicked_crust"
+        },
+        {
+            "instructions": "bake for about 10 minutes or until just starting to turn golden brown .",
+            "input": "garlicked_crust",
+            "action": "bake",
+            "output": "pre-baked crust"
+        },
+        {
+            "instructions": "meanwhile , place sun_dried_tomato in a heat resistant , non reactive bowl such as pyrex .",
+            "input": "sun_dried_tomatoes",
+            "action": "place",
+            "output": "sun_dried_tomatoes"
+        },
+        {
+            "instructions": "pour enough simmering water over to completely cover tomatoes .",
+            "input": "(sun_dried_tomatoes; boiling water)",
+            "action": "pour",
+            "output": "soaking_tomatoes in boiling water"
+        },
+        {
+            "instructions": "drain liquid",
+            "input": "soaking_tomatoes in boiling water",
+            "action": "drain",
+            "output": "drained_sun dried tomatoes"
+        },
+        {
+            "instructions": "slice into strips .",
+            "input": "drained_sun dried tomatoes",
+            "action": "slice",
+            "output": "sliced_sun dried tomatoes"
+        },
+        {
+            "instructions": "top with about 1 12 cups , mozzarella , or to taste .",
+            "input": "(pre-baked_crust; mozzarella)",
+            "action": "top",
+            "output": "pre-baked crust topped with mozzarella"
+        },
+        {
+            "instructions": "scatter strips of sun_dried_tomato evenly over cheese .",
+            "input": "(pre-baked crust topped with mozzarella; sliced_sun dried tomatoes)",
+            "action": "scatter",
+            "output": "sliced_sun dried tomatoes scattered on pre-baked crust with mozzarella"
+        },
+        {
+            "instructions": "place artichoke_heart quarters evenly across pizza ,",
+            "input": "(artichoke heart quarters; pre-baked crust with mozzarella and sun dried tomatoes)",
+            "action": "place",
+            "output": "pre-baked crust with mozzarella, sun dried tomatoes and artichoke heart quarters"
+        },
+        {
+            "instructions": "top with remaining mozzarella and the parmesan , if using .",
+            "input": "(pre-baked crust with mozzarella, sun dried tomatoes and artichoke heart quarters; mozzarella; parmesan)",
+            "action": "top",
+            "output": "assembled garlic_artichoke_hearts_sun-dried_tomatoes pizza"
+        },
+        {
+            "instructions": "return to oven",
+            "input": "assembled garlic_artichoke_hearts_sun-dried_tomatoes pizza",
+            "action": "return",
+            "output": "assembled garlic_artichoke_hearts_sun-dried_tomatoes pizza"
+        },
+        {
+            "instructions": "bake at 425 f for about 8 10 minutes , or until cheese is melted , bubbly , and turning golden brown in spots .",
+            "input": "assembled garlic_artichoke_hearts_sun-dried_tomatoes pizza",
+            "action": "bake",
+            "output": "baked garlic_artichoke_hearts_sun-dried_tomatoes pizza"
+        },
+        {
+            "instructions": "remove from oven",
+            "input": "baked garlic_artichoke_hearts_sun-dried_tomatoes pizza",
+            "action": "remove",
+            "output": "baked garlic_artichoke_hearts_sun-dried_tomatoes pizza"
+        },
+        {
+            "instructions": "cut into slices .",
+            "input": "baked garlic_artichoke_hearts_sun-dried_tomatoes pizza",
+            "action": "cut",
+            "output": "sliced baked garlic_artichoke_hearts_sun-dried_tomatoes pizza"
+        },
+        {
+            "instructions": "top pizza slices with dollops of pesto",
+            "input": "(sliced baked garlic_artichoke_hearts_sun-dried_tomatoes pizza; pesto)",
+            "action": "top",
+            "output": "pizza slices topped with pesto"
+        },
+        {
+            "instructions": "serve .",
+            "input": "garlic_artichoke_hearts_sun-dried_tomatoes_and_pesto_pizza slices",
+            "action": "serve",
+            "output": "served garlic_artichoke_hearts_sun-dried_tomatoes_and_pesto_pizza slices"
+        }
+    ],
+    "ingredients": [
+        {
+            "text": "1 (12 inch) pizza crusts, unbaked (I buy or make dough)"
+        },
+        {
+            "text": "2 -4 tablespoons olive oil"
+        },
+        {
+            "text": "6 large garlic cloves, very thinly sliced (a garlic mandolin works well for this)"
+        },
+        {
+            "text": "14 cup sun-dried tomato"
+        },
+        {
+            "text": "simmering water"
+        },
+        {
+            "text": "1 cup pizza sauce (more or less according to taste)"
+        },
+        {
+            "text": "2 12 cups shredded part-skim mozzarella cheese, divided (or according to taste, I like it cheesy)"
+        },
+        {
+            "text": "1 (14 ounce) canquartered water-packed artichoke hearts, drained"
+        },
+        {
+            "text": "14 cup shredded parmesan cheese (or Romano or Asiago) (optional)"
+        },
+        {
+            "text": "1 (7 ounce) containerfresh basil pesto"
+        }
+    ],
+    "recipe": [
+        {
+            "text": "Preheat oven to 425* F. Stretch dough over a 12-inch greased pizza pan."
+        },
+        {
+            "text": "Brush with olive oil and scatter garlic slices evenly over crust."
+        },
+        {
+            "text": "Place in oven and bake for about 10 minutes or until just starting to turn golden brown."
+        },
+        {
+            "text": "Meanwhile, place sun-dried tomatoes in a heat-resistant, non-reactive bowl (such as Pyrex)."
+        },
+        {
+            "text": "Pour enough simmering water over to completely cover tomatoes."
+        },
+        {
+            "text": "Let soak about 5-10 minutes or until tender; drain liquid and slice into strips."
+        },
+        {
+            "text": "When crust is ready, spread sauce over garlic slices (try not to shift them around any more than can be helped)."
+        },
+        {
+            "text": "Top with about 1 1/2 cups mozzarella, or to taste."
+        },
+        {
+            "text": "Scatter strips of sun-dried tomatoes evenly over cheese."
+        },
+        {
+            "text": "Place artichoke heart quarters evenly across pizza, then top with remaining mozzarella and the parmesan, if using."
+        },
+        {
+            "text": "Return to oven and bake at 425* F for about 8-10 minutes, or until cheese is melted, bubbly, and turning golden brown in spots."
+        },
+        {
+            "text": "Remove from oven and allow to rest 3-4 minutes to set up."
+        },
+        {
+            "text": "Cut into slices."
+        },
+        {
+            "text": "Top pizza slices with dollops of pesto and serve."
+        }
+    ]
+}

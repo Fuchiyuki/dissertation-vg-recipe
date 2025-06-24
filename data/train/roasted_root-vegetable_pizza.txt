@@ -1,0 +1,112 @@
+{
+    "title": "roasted_root-vegetable_pizza",
+    "id": "82e0832bb8",
+    "table": [
+        {
+            "instructions": "preheat oven to 475f , with racks in upper and lower thirds .",
+            "input": "NA",
+            "action": "preheat",
+            "output": "NA"
+        },
+        {
+            "instructions": "brush a large rimless baking sheet with oil .",
+            "input": "NA",
+            "action": "brush",
+            "output": "NA"
+        },
+        {
+            "instructions": "gently stretch dough into a 12 by16 inch oval or as large as will fit on baking sheet ;",
+            "input": "dough",
+            "action": "stretch",
+            "output": "stretched_dough"
+        },
+        {
+            "instructions": "transfer to prepared sheet .",
+            "input": "stretched_dough",
+            "action": "transfer",
+            "output": "stretched_dough"
+        },
+        {
+            "instructions": "sprinkle dough evenly with half the mozzarella .",
+            "input": "(stretched_dough; mozzarella)",
+            "action": "sprinkle",
+            "output": "mozzarella sprinkled over stretched_dough"
+        },
+        {
+            "instructions": "scatter vegetables on top ,",
+            "input": "(roasted_root-vegetables; pizza crust with mozzarella)",
+            "action": "scatter",
+            "output": "roasted_root-vegetables scatter on pizza crust with mozzarella"
+        },
+        {
+            "instructions": "sprinkle with remaining mozzarella and the rosemary , if desired .",
+            "input": "(remaining mozzarella; rosemary; pizza crust with mozzarella and roasted_root-vegetables)",
+            "action": "sprinkle",
+            "output": "remaining mozzarella and rosemary on top of pizza crust with mozzarella and roasted_root-vegetables"
+        },
+        {
+            "instructions": "drizzle with oil ;",
+            "input": "(oil; pizza crust with mozzarella, roasted_root-vegetables and rosemary)",
+            "action": "drizzle",
+            "output": "pizza crust with mozzarella, roasted_root-vegetables and rosemary drizzled over olive oil"
+        },
+        {
+            "instructions": "season with salt and pepper .",
+            "input": "(salt; pepper; uncooked roasted_root-vegetable_pizza)",
+            "action": "season",
+            "output": "seasoned uncooked roasted_root-vegetable_pizza"
+        },
+        {
+            "instructions": "bake , rotating sheet from top to bottom and front to back halfway through , until crust is golden , 20 to 25 minutes .",
+            "input": "uncooked roasted_root-vegetable_pizza",
+            "action": "bake",
+            "output": "baked roasted_root-vegetable_pizza"
+        }
+    ],
+    "ingredients": [
+        {
+            "text": "Olive oil"
+        },
+        {
+            "text": "1 pound Basic Pizza Dough (page 364) or store-bought pizza dough, fresh or frozen (thawed)"
+        },
+        {
+            "text": "8 ounces mozzarella cheese, shredded (2 cups)"
+        },
+        {
+            "text": "6 cups (about 1/2 recipe) Roasted Root Vegetables, coarsely chopped (page 291)"
+        },
+        {
+            "text": "1 cup ricotta cheese (8 ounces)"
+        },
+        {
+            "text": "1 tablespoon fresh rosemary (optional)"
+        },
+        {
+            "text": "Coarse salt and freshly ground pepper"
+        }
+    ],
+    "recipe": [
+        {
+            "text": "Preheat oven to 475F, with racks in upper and lower thirds."
+        },
+        {
+            "text": "Brush a large rimless baking sheet with oil."
+        },
+        {
+            "text": "Gently stretch dough into a 12-by-16-inch oval (or as large as will fit on baking sheet); transfer to prepared sheet."
+        },
+        {
+            "text": "Sprinkle dough evenly with half the mozzarella."
+        },
+        {
+            "text": "Scatter vegetables on top, then dollop with ricotta; sprinkle with remaining mozzarella and the rosemary, if desired."
+        },
+        {
+            "text": "Drizzle with oil; season with salt and pepper."
+        },
+        {
+            "text": "Bake, rotating sheet from top to bottom and front to back halfway through, until crust is golden, 20 to 25 minutes."
+        }
+    ]
+}

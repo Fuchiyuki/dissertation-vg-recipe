@@ -1,0 +1,103 @@
+{
+    "title": "crock_pot_pizza",
+    "id": "f326f95a3e",
+    "table": [
+        {
+            "instructions": "spray crockpot with pam .",
+            "input": "NA",
+            "action": "spray",
+            "output": "NA"
+        },
+        {
+            "instructions": "cook the noodles .",
+            "input": "noodles",
+            "action": "cook",
+            "output": "cooked_noodles"
+        },
+        {
+            "instructions": "in large frying pan cook onion , garlic and groud beef",
+            "input": "(onion; garlic; ground beef)",
+            "action": "cook",
+            "output": "cooked_onion_garlic-ground_beef_mix"
+        },
+        {
+            "instructions": "drain .",
+            "input": "cooked_onion_garlic-ground_beef_mix",
+            "action": "drain",
+            "output": "cooked_onion_garlic-ground_beef_mix without excess fat"
+        },
+        {
+            "instructions": "stir in spaghetti sauce , mushrooms , italian_seasoning .",
+            "input": "(cooked_onion_garlic-ground_beef_mix without excess fat; spaghetti_sauce; mushrooms; italian_seasoning)",
+            "action": "stir",
+            "output": "ground beef and tomato sauce mixture"
+        },
+        {
+            "instructions": "cover",
+            "input": "ground beef and tomato sauce mixture",
+            "action": "cover",
+            "output": "covered_ground beef and tomato sauce mixture"
+        },
+        {
+            "instructions": "cook on low 3 4 hours .",
+            "input": "covered_ground beef and tomato sauce mixture",
+            "action": "cook",
+            "output": "cooked_ground beef and tomato sauce mixture"
+        }
+    ],
+    "ingredients": [
+        {
+            "text": "1 (12 ounce) package wide egg noodles"
+        },
+        {
+            "text": "14 cup onion, chopped"
+        },
+        {
+            "text": "1 (4 1/2 ounce) can mushrooms, sliced"
+        },
+        {
+            "text": "1 (3 1/2 ounce) package pepperoni, sliced and halved"
+        },
+        {
+            "text": "3 cups mozzarella cheese, shredded"
+        },
+        {
+            "text": "1 12 lbs ground beef"
+        },
+        {
+            "text": "1 (28 ounce) jar spaghetti sauce"
+        },
+        {
+            "text": "1 12 teaspoons italian seasoning"
+        },
+        {
+            "text": "3 cups cheddar cheese, shredded"
+        },
+        {
+            "text": "1 garlic clove, minced"
+        }
+    ],
+    "recipe": [
+        {
+            "text": "Spray crockpot with pam."
+        },
+        {
+            "text": "Cook the noodles."
+        },
+        {
+            "text": "In large frying pan Cook onion, garlic and groud beef, drain."
+        },
+        {
+            "text": "Stir in spaghetti sauce, mushrooms, italian seasoning."
+        },
+        {
+            "text": "Layer in crockpot, 1/3 meat, then noodles, then pepperoni, then cheese."
+        },
+        {
+            "text": "Repeat layers twice."
+        },
+        {
+            "text": "Cover and cook on low 3-4 hours."
+        }
+    ]
+}

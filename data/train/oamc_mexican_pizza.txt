@@ -1,0 +1,187 @@
+{
+    "title": "oamc_mexican_pizza",
+    "id": "6a46c908b1",
+    "table": [
+        {
+            "instructions": "preheat oven to 375 .",
+            "input": "NA",
+            "action": "preheat",
+            "output": "NA"
+        },
+        {
+            "instructions": "in a medium bowl , combine 1 12 cups , cheddar with the monterey_jack",
+            "input": "(cheddar; monterey_jack)",
+            "action": "combine",
+            "output": "cheese mixture"
+        },
+        {
+            "instructions": "set aside .",
+            "input": "cheese mixture",
+            "action": "set",
+            "output": "cheese mixture"
+        },
+        {
+            "instructions": "brush a rimmed baking sheet with 1 tablespoons , olive_oil .",
+            "input": "NA",
+            "action": "brush",
+            "output": "NA"
+        },
+        {
+            "instructions": "arrange 6 tortillas on the sheet so that the surface is covered , overlapping as needed .",
+            "input": "tortillas",
+            "action": "arrange",
+            "output": "arranged tortillas"
+        },
+        {
+            "instructions": "sprinkle the remaining 1 12 cups , cheddar_cheese evenly over the tortillas , leaving a 12 inch border on all sides ;",
+            "input": "(arranged tortillas; remaining cheddar cheese)",
+            "action": "sprinkle",
+            "output": "remaining_cheddar_cheese sprinkled over arranged tortillas"
+        },
+        {
+            "instructions": "cover with the remaining 6 tortillas , overlapping as needed .",
+            "input": "(remaining tortillas; tortillas sprinkled with cheddar cheese)",
+            "action": "cover",
+            "output": "layered tortillas with cheddar cheese"
+        },
+        {
+            "instructions": "prick the top layer with a fork",
+            "input": "layered tortillas with cheddar cheese",
+            "action": "prick",
+            "output": "pricked layered tortillas with cheddar cheese"
+        },
+        {
+            "instructions": "bake until the tortillas begin to brown , about 10 minutes .",
+            "input": "pricked layered tortillas with cheddar cheese",
+            "action": "bake",
+            "output": "baked layered cheesy tortillas"
+        },
+        {
+            "instructions": "in a large skillet , heat the remaining 2 tablespoons , olive_oil over medium heat .",
+            "input": "olive oil ",
+            "action": "heat",
+            "output": "heated olive oil"
+        },
+        {
+            "instructions": "add the onion",
+            "input": "(heated olive oil; onion)",
+            "action": "add",
+            "output": "onion added to heated olive oil"
+        },
+        {
+            "instructions": "cook until golden brown , about 10 minutes .",
+            "input": "onion added to heated olive oil",
+            "action": "cook",
+            "output": "cooked onion in olive oil"
+        },
+        {
+            "instructions": "add the beans and 14 cup water",
+            "input": "(cooked onion in olive oil; beans; water)",
+            "action": "add",
+            "output": "beans and water added to cooked onion in olive oil"
+        },
+        {
+            "instructions": "mash until the beans are soft and the liquid is absorbed , about 5 minutes .",
+            "input": "beans and water added to cooked onion in olive oil",
+            "action": "mash",
+            "output": "mashed beans and onion mixture"
+        },
+        {
+            "instructions": "season with salt and pepper .",
+            "input": "(salt; pepper; mashed beans and onion mixture)",
+            "action": "season",
+            "output": "seasoned mashed beans and onion mixture"
+        },
+        {
+            "instructions": "spread the bean mixture over the tortillas , leaving a 12 inch border .",
+            "input": "(cooked bean mixture; baked layered cheesy tortillas)",
+            "action": "spread",
+            "output": "cooked bean mixture spread on baked layered cheesy tortillas"
+        },
+        {
+            "instructions": "top with the taco_sauce , chilies , chorizo and reserved cheese mixture .",
+            "input": "(layered baked tortilla with cheese and bean mixture; taco_sauce; chilies: chorizo; cheese mixture)",
+            "action": "top",
+            "output": "layered baked tortilla with cheese and bean mixture topped with taco_sauce, chilies, chorizo and cheese mixture"
+        },
+        {
+            "instructions": "bake until the cheese is melted , 25 to 30 minutes .",
+            "input": "layered baked tortilla with cheese and bean mixture topped with taco_sauce, chilies, chorizo and cheese mixture",
+            "action": "bake",
+            "output": "baked mexican inspired pizza"
+        }
+    ],
+    "ingredients": [
+        {
+            "text": "12 ounces cheddar cheese, shredded (about 3 cups)"
+        },
+        {
+            "text": "4 ounces monterey jack cheese, shredded (about 1 cup)"
+        },
+        {
+            "text": "3 tablespoons extra virgin olive oil"
+        },
+        {
+            "text": "12 small flour tortillas"
+        },
+        {
+            "text": "34 cup finely chopped onion"
+        },
+        {
+            "text": "2 (15 1/2 ounce) cans red kidney beans, rinsed"
+        },
+        {
+            "text": "salt and pepper"
+        },
+        {
+            "text": "1 (8 ounce) jar taco sauce"
+        },
+        {
+            "text": "1 (4 1/2 ounce) canchopped green chilies"
+        },
+        {
+            "text": "1 (3 1/2 ounce) packagecooked chorizo sausage, thinly sliced"
+        }
+    ],
+    "recipe": [
+        {
+            "text": "Preheat oven to 375*."
+        },
+        {
+            "text": "In a medium bowl, combine 1 1/2 cups cheddar with the monterey jack and set aside."
+        },
+        {
+            "text": "Brush a rimmed baking sheet with 1 tablespoons olive oil."
+        },
+        {
+            "text": "Arrange 6 tortillas on the sheet so that the surface is covered, overlapping as needed."
+        },
+        {
+            "text": "Sprinkle the remaining 1 1/2 cups cheddar cheese evenly over the tortillas, leaving a 1/2-inch border on all sides; cover with the remaining 6 tortillas, overlapping as needed."
+        },
+        {
+            "text": "Prick the top layer with a fork and bake until the tortillas begin to brown, about 10 minutes."
+        },
+        {
+            "text": "In a large skillet, heat the remaining 2 tablespoons olive oil over medium heat."
+        },
+        {
+            "text": "Add the onion and cook until golden-brown, about 10 minutes."
+        },
+        {
+            "text": "Add the beans and 1/4 cup water and mash until the beans are soft and the liquid is absorbed, about 5 minutes."
+        },
+        {
+            "text": "Season with salt and pepper."
+        },
+        {
+            "text": "Spread the bean mixture over the tortillas, leaving a 1/2-inch border."
+        },
+        {
+            "text": "Top with the taco sauce, chilies, chorizo and reserved cheese mixture."
+        },
+        {
+            "text": "Bake until the cheese is melted, 25 to 30 minutes."
+        }
+    ]
+}

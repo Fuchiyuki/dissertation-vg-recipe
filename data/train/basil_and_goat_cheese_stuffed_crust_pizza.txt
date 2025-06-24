@@ -1,0 +1,202 @@
+{
+    "title": "basil_and_goat_cheese_stuffed_crust_pizza",
+    "id": "9dcf9be395",
+    "table": [
+        {
+            "instructions": "in a small bowl , mix chopped basil with goat_cheese",
+            "input": "(chopped basil; goat_cheese)",
+            "action": "mix",
+            "output": "goat cheese and basil mixture"
+        },
+        {
+            "instructions": "set aside .",
+            "input": "goat cheese and basil mixture",
+            "action": "set",
+            "output": "goat cheese and basil mixture"
+        },
+        {
+            "instructions": "combine flour and yeast in a large bowl .",
+            "input": "(flour; yeast)",
+            "action": "combine",
+            "output": "combined_flour_and_yeast"
+        },
+        {
+            "instructions": "add water , honey and oil , mixing with a spoon to form into a ball .",
+            "input": "(combined_flour_and_yeast; water; honey; oil)",
+            "action": "add",
+            "output": "partially mixed dough"
+        },
+        {
+            "instructions": "just before mixture comes together , add in salt .",
+            "input": "(partially mixed dough; salt)",
+            "action": "add",
+            "output": "salted_partially mixed dough"
+        },
+        {
+            "instructions": "if needed , add more water 1 tablespoon at a time .",
+            "input": "(salted_dough; optional water)",
+            "action": "add",
+            "output": "dough"
+        },
+        {
+            "instructions": "knead for about 60 seconds .",
+            "input": "dough",
+            "action": "knead",
+            "output": "kneaded_dough"
+        },
+        {
+            "instructions": "lightly oil the bowl",
+            "input": "NA",
+            "action": "oil",
+            "output": "NA"
+        },
+        {
+            "instructions": "add dough back in .",
+            "input": "kneaded_dough",
+            "action": "add",
+            "output": "dough_in_oiled_bowl"
+        },
+        {
+            "instructions": "cover",
+            "input": "dough_in_oiled_bowl",
+            "action": "cover",
+            "output": "covered_dough"
+        },
+        {
+            "instructions": "let rise for 23 hours .",
+            "input": "covered_dough",
+            "action": "rise",
+            "output": "risen_dough"
+        },
+        {
+            "instructions": "after 23 hours , remove from the bowl",
+            "input": "risen_dough",
+            "action": "remove",
+            "output": "risen_dough"
+        },
+        {
+            "instructions": "punch down .",
+            "input": "risen_dough",
+            "action": "punch",
+            "output": "punched_down_dough"
+        },
+        {
+            "instructions": "roll back into a ball",
+            "input": "punched_down_dough",
+            "action": "roll",
+            "output": "dough_ball"
+        },
+        {
+            "instructions": "lay on a lightly floured surface",
+            "input": "dough_ball",
+            "action": "lay",
+            "output": "dough_ball_on_floured_surface"
+        },
+        {
+            "instructions": "roll very thin .",
+            "input": "dough_ball_on_floured_surface",
+            "action": "roll",
+            "output": "rolled_dough"
+        },
+        {
+            "instructions": "along the outer edge about 1 12 inches from the outside place goat_cheese around the entire outside .",
+            "input": "(rolled_dough; goat cheese and basil mixture)",
+            "action": "place",
+            "output": "rolled_dough with goat cheese and basil mixture"
+        },
+        {
+            "instructions": "fold dough over the top",
+            "input": "rolled_dough with goat cheese and basil mixture",
+            "action": "fold",
+            "output": "folded rolled_dough with goat cheese and basil mixture"
+        },
+        {
+            "instructions": "press down to seal the top to the bottom .",
+            "input": "folded rolled_dough with goat cheese and basil mixture",
+            "action": "press",
+            "output": "folded and sealed rolled_dough with goat cheese and basil mixture"
+        },
+        {
+            "instructions": "top with desired toppings",
+            "input": "(folded and sealed rolled_dough with goat cheese and basil mixture; desired toppings)",
+            "action": "top",
+            "output": "basil_and_goat_cheese_stuffed_crust_pizza with toppings"
+        },
+        {
+            "instructions": "bake at 375 degrees f for 2530 minutes .",
+            "input": "uncooked basil_and_goat_cheese_stuffed_crust_pizza with toppings",
+            "action": "bake",
+            "output": "baked basil_and_goat_cheese_stuffed_crust_pizza with toppings"
+        }
+    ],
+    "ingredients": [
+        {
+            "text": "13 cups Freshly Chopped Basil"
+        },
+        {
+            "text": "8 ounces, weight Goat Cheese"
+        },
+        {
+            "text": "1- 1/2 cup All-purpose Or Whole Wheat Pastry Flour (I've Used Both With Success Multiple Times)"
+        },
+        {
+            "text": "1 teaspoon Active Dry Yeast"
+        },
+        {
+            "text": "1/2 cups Lukewarm Water"
+        },
+        {
+            "text": "1 Tablespoon Honey"
+        },
+        {
+            "text": "1 Tablespoon Olive Oil"
+        },
+        {
+            "text": "1/4 teaspoons Salt"
+        }
+    ],
+    "recipe": [
+        {
+            "text": "In a small bowl, mix chopped basil with goat cheese and set aside."
+        },
+        {
+            "text": "Combine flour and yeast in a large bowl."
+        },
+        {
+            "text": "Add water, honey and oil, mixing with a spoon to form into a ball."
+        },
+        {
+            "text": "Just before mixture comes together, add in salt."
+        },
+        {
+            "text": "If needed, add more water 1 tablespoon at a time."
+        },
+        {
+            "text": "Continue mixing with your hands and knead for about 60 seconds."
+        },
+        {
+            "text": "Lightly oil the bowl and add dough back in."
+        },
+        {
+            "text": "Cover and let rise for 23 hours."
+        },
+        {
+            "text": "After 23 hours, remove from the bowl and punch down."
+        },
+        {
+            "text": "Roll back into a ball and let sit for 30 minutes."
+        },
+        {
+            "text": "Lay on a lightly floured surface and roll very thin."
+        },
+        {
+            "text": "Along the outer edge (about 1 1/2 inches from the outside) place goat cheese around the entire outside."
+        },
+        {
+            "text": "Fold dough over the top and press down to seal the top to the bottom."
+        },
+        {
+            "text": "Top with desired toppings and bake at 375 degrees F for 2530 minutes."
+        }
+    ]
+}

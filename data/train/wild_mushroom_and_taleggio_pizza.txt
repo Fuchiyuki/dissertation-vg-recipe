@@ -1,0 +1,157 @@
+{
+    "title": "wild_mushroom_and_taleggio_pizza",
+    "id": "c2e92f3563",
+    "table": [
+        {
+            "instructions": "heat oven to 500 degrees f . ;",
+            "input": "NA",
+            "action": "heat",
+            "output": "NA"
+        },
+        {
+            "instructions": "sprinkle cornmeal over pizza peel or 2 baking pans .",
+            "input": "NA",
+            "action": "sprinkle",
+            "output": "NA"
+        },
+        {
+            "instructions": "roughly chop mushrooms into 34",
+            "input": "mushrooms",
+            "action": "chop",
+            "output": "chopped mushrooms"
+        },
+        {
+            "instructions": "melt the butter in a medium skillet over medium high heat .",
+            "input": "butter",
+            "action": "melt",
+            "output": "melted butter"
+        },
+        {
+            "instructions": "add mushrooms",
+            "input": "(melted butter; chopped mushrooms)",
+            "action": "add",
+            "output": "chopped mushrooms added to melted butter"
+        },
+        {
+            "instructions": "cook , stirring occasionally , for 3 minutes .",
+            "input": "chopped mushrooms added to melted butter",
+            "action": "cook",
+            "output": "cooking chopped mushrooms in melted butter"
+        },
+        {
+            "instructions": "add the salt and pepper ,",
+            "input": "(salt; pepper; cooking chopped mushrooms in melted butter)",
+            "action": "add",
+            "output": "cooking chopped mushrooms with salt and pepper"
+        },
+        {
+            "instructions": "cook for 1 more minute .",
+            "input": "cooking chopped mushrooms with salt and pepper",
+            "action": "cook",
+            "output": "cooked chopped mushrooms"
+        },
+        {
+            "instructions": "divide dough in half ;",
+            "input": "dough",
+            "action": "divide",
+            "output": "halved dough"
+        },
+        {
+            "instructions": "shape into 2 balls .",
+            "input": "halved dough",
+            "action": "shape",
+            "output": "shaped halved dough"
+        },
+        {
+            "instructions": "roll dough on a floured surface using a floured rolling pin to 12",
+            "input": "shaped halved dough",
+            "action": "roll",
+            "output": "rolled dough"
+        },
+        {
+            "instructions": "add mushrooms",
+            "input": "(cooked chopped mushrooms; rolled dough)",
+            "action": "add",
+            "output": "cooked chopped mushrooms added to rolled pizza crust"
+        },
+        {
+            "instructions": "bake until crust is golden brown , about 15 minutes .",
+            "input": "uncooked pizza crust with mushrooms",
+            "action": "bake",
+            "output": "baked pizza crust with mushrooms"
+        },
+        {
+            "instructions": "add the cheese",
+            "input": "(baked pizza crust with mushrooms; cheese)",
+            "action": "add",
+            "output": "cheese added to baked pizza crust with mushrooms"
+        },
+        {
+            "instructions": "return to the oven for 1 more minute .",
+            "input": "partially baked mushrooms and cheese pizza",
+            "action": "return",
+            "output": "partially baked baked mushrooms and cheese pizza"
+        },
+        {
+            "instructions": "serve hot .",
+            "input": "partially baked baked mushrooms and cheese pizza",
+            "action": "serve",
+            "output": "served baked baked mushrooms and cheese pizza"
+        }
+    ],
+    "ingredients": [
+        {
+            "text": "2 tbsp. cornmeal"
+        },
+        {
+            "text": "3/4 lb. mixed wild mushrooms"
+        },
+        {
+            "text": "2 tbsp. butter"
+        },
+        {
+            "text": "1/4 tsp. Sea salt"
+        },
+        {
+            "text": ".13 tsp. ground black pepper"
+        },
+        {
+            "text": "1/2 recipe Thin Crust Pizza Dough"
+        },
+        {
+            "text": "8 oz. Taleggio cheese"
+        }
+    ],
+    "recipe": [
+        {
+            "text": "Heat oven to 500 degrees F. Sprinkle cornmeal over pizza peel or 2 baking pans."
+        },
+        {
+            "text": "Roughly chop mushrooms into 3/4-inch pieces."
+        },
+        {
+            "text": "Melt the butter in a medium skillet over medium-high heat."
+        },
+        {
+            "text": "Add mushrooms and cook, stirring occasionally, for 3 minutes."
+        },
+        {
+            "text": "Add the salt and pepper, and cook for 1 more minute."
+        },
+        {
+            "text": "Divide dough in half; shape into 2 balls."
+        },
+        {
+            "text": "Roll dough on a floured surface using a floured rolling pin to 12-inch rounds and transfer to the prepared pans."
+        },
+        {
+            "text": "Add mushrooms and bake until crust is golden brown, about 15 minutes."
+        },
+        {
+            "text": "Add the cheese and return to the oven for 1 more minute."
+        },
+        {
+            "text": "Serve hot."
+        }
+    ]
+}

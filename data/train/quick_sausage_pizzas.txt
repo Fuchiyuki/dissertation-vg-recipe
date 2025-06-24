@@ -1,0 +1,163 @@
+{
+    "title": "quick_sausage_pizzas",
+    "id": "b485fb1c45",
+    "table": [
+        {
+            "instructions": "heat oil in heavy large skillet over medium low heat .",
+            "input": "oil",
+            "actions": "heat",
+            "output": "heated_oil"
+        },
+        {
+            "instructions": "add zucchini , sausage and mushrooms",
+            "input": "(heated_oil; zucchini; sausage; mushrooms)",
+            "actions": "add",
+            "output": "zucchini , sausage and mushrooms added to heated oil"
+        },
+        {
+            "instructions": "saute until vegetables are almost tender , about 5 minutes .",
+            "input": "uncooked vegetables and sausage",
+            "actions": "saute",
+            "output": "sauteed vegeables and sausage"
+        },
+        {
+            "instructions": "add sun_dried_tomato",
+            "input": "(sauteed vegeables and sausage; sun_dried_tomato)",
+            "actions": "add",
+            "output": "sun_dried_tomato added to sauteed vegeables and sausage"
+        },
+        {
+            "instructions": "saute until vegetables are tender , about 3 minutes longer .",
+            "input": "sun_dried_tomato added to sauteed vegeables and sausage",
+            "actions": "saute",
+            "output": "sauteed vegeables and sausage"
+        },
+        {
+            "instructions": "remove skillet from heat ;",
+            "input": "sauteed vegeables and sausage",
+            "actions": "remove",
+            "output": "sauteed vegeables and sausage"
+        },
+        {
+            "instructions": "stir in basil and oregano .",
+            "input": "(sauteed vegeables and sausage; basil; oregano)",
+            "actions": "stir",
+            "output": "basil and oregano added to sauteed mixture"
+        },
+        {
+            "instructions": "preheat oven to 450f .",
+            "input": "NA",
+            "actions": "preheat",
+            "output": "NA"
+        },
+        {
+            "instructions": "arrange pizza_shell on small cookie sheet .",
+            "input": "pizza_shell",
+            "actions": "arrange",
+            "output": "pizza_shell"
+        },
+        {
+            "instructions": "spread half of pizza_sauce over each .",
+            "input": "pizza_sauce: pizza_shell",
+            "actions": "spread",
+            "output": "pizza_sauce spread over pizza shell"
+        },
+        {
+            "instructions": "sprinkle each with half of parmesan .",
+            "input": "(parmesan; pizza_shell with pizza_sauce)",
+            "actions": "sprinkle",
+            "output": "parmesan sprinkled over pizza_shell with pizza_sauce"
+        },
+        {
+            "instructions": "divide vegetable mixture between pizzas .",
+            "input": "(sauteed vegetables and sausage; pizza)",
+            "actions": "divide",
+            "output": "pizza topped with sauteed vegetables and sausage mixture"
+        },
+        {
+            "instructions": "top each with half of mozzarella and half of goat_cheese .",
+            "input": "(pizza with vegetables and sausage mixture; mozzarella; goat_cheese)",
+            "actions": "top",
+            "output": "pizza with vegetables and sausage mixture topped with mozzarella and goat cheese"
+        },
+        {
+            "instructions": "bake until mozzarella melts and pizzas are heated through , about 9 minutes .",
+            "input": "uncooked sausage and vegetable pizzas",
+            "actions": "bake",
+            "output": "baked sausage and vegetable pizzas"
+        }
+    ],
+    "ingredients": [
+        {
+            "text": "2 tablespoons olive oil"
+        },
+        {
+            "text": "1 small zucchini, dried"
+        },
+        {
+            "text": "3/4 cup diced kielbasa sausage (about 4 ounces)"
+        },
+        {
+            "text": "4 mushrooms, sliced"
+        },
+        {
+            "text": "1/4 cup chopped drained oil-packed sun-dried tomatoes"
+        },
+        {
+            "text": "1 tablespoon chopped fresh basil or 1 teaspoon dried, crumbled"
+        },
+        {
+            "text": "1 tablespoon chopped fresh oregano or 1 teaspoon dried, crumbled"
+        },
+        {
+            "text": "2 small Boboli pizza shells (1 8-ounce package)"
+        },
+        {
+            "text": "1/4 cup purchased pizza sauce"
+        },
+        {
+            "text": "1/4 cup grated Parmesan"
+        },
+        {
+            "text": "1/4 cup grated mozzarella"
+        },
+        {
+            "text": "2 ounces goat cheese, crumbled"
+        }
+    ],
+    "recipe": [
+        {
+            "text": "Heat oil in heavy large skillet over medium-low heat."
+        },
+        {
+            "text": "Add zucchini, sausage and mushrooms and saute until vegetables are almost tender, about 5 minutes."
+        },
+        {
+            "text": "Add sun-dried tomatoes and saute until vegetables are tender, about 3 minutes longer."
+        },
+        {
+            "text": "Remove skillet from heat; stir in basil and oregano."
+        },
+        {
+            "text": "Preheat oven to 450F."
+        },
+        {
+            "text": "Arrange pizza shells on small cookie sheet."
+        },
+        {
+            "text": "Spread half of pizza sauce over each."
+        },
+        {
+            "text": "Sprinkle each with half of Parmesan."
+        },
+        {
+            "text": "Divide vegetable mixture between pizzas."
+        },
+        {
+            "text": "Top each with half of mozzarella and half of goat cheese."
+        },
+        {
+            "text": "Bake until mozzarella melts and pizzas are heated through, about 9 minutes."
+        }
+    ]
+}

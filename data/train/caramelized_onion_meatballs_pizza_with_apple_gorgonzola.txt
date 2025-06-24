@@ -1,0 +1,190 @@
+{
+    "title": "caramelized_onion_meatballs_pizza_with_apple_gorgonzola",
+    "id": "b8604bf6f7",
+    "table": [
+        {
+            "instructions": "In a large skillet coated with olive oil, cover and sweat onions over medium-high heat.",
+            "input": "(onions; olive oil)",
+            "action": "cover",
+            "output": "stirred onions in olive oil"
+        },
+        {
+            "instructions": "stir periodically so that the onions do not stick",
+            "input": "stirred onions in olive oil",
+            "action": "stir",
+            "output": "stirred onions in olive oil"
+        },
+        {
+            "instructions": "burn on the bottom of the pan .",
+            "input": "stirred onions in olive oil",
+            "action": "burn",
+            "output": "stirred onions in olive oil"
+        },
+        {
+            "instructions": "after 15 minutes , remove cover",
+            "input": "stirred onions in olive oil",
+            "action": "remove",
+            "output": "stirred onions in olive oil"
+        },
+        {
+            "instructions": "add the fresh_thyme and white_wine .",
+            "input": "(stirred onions in olive oil; thyme; white wine)",
+            "action": "add",
+            "output": "cooked onions in olive oil with fresh_thyme and white_wine"
+        },
+        {
+            "instructions": "onions should cook down by about 12 in volume .",
+            "input": "cooked onions in olive oil with fresh_thyme and white_wine",
+            "action": "cook",
+            "output": "cooked onions in olive oil with fresh_thyme and white_wine"
+        },
+        {
+            "instructions": "preheat oven to 400 degrees f .",
+            "input": "NA",
+            "action": "preheat",
+            "output": "NA"
+        },
+        {
+            "instructions": "use an 18x12 inch , baking sheet , lightly coat with pan spray ,",
+            "input": "NA",
+            "action": "use",
+            "output": "NA"
+        },
+        {
+            "instructions": "rub with a paper towel to remove any excess .",
+            "input": "NA",
+            "action": "rub",
+            "output": "NA"
+        },
+        {
+            "instructions": "stretch",
+            "input": "Pizza dough",
+            "action": "stretch",
+            "output": "stretched pizza dough"
+        },
+        {
+            "instructions": "press the pizza_dough to fully cover the sheet pan .",
+            "input": "stretched pizza dough",
+            "action": "press",
+            "output": "Stretched and pressed pizza dough"
+        },
+        {
+            "instructions": "cover the crust entirely with the onions .",
+            "input": "(pizza dough pressed onto baking sheet; cooked onions in olive oil with fresh_thyme and white_wine)",
+            "action": "cover",
+            "output": "raw pizza crust covered with onion mixture"
+        },
+        {
+            "instructions": "top with apple_slice",
+            "input": "(raw pizza crust covered with onion mixture; apple slices)",
+            "action": "top",
+            "output": "raw pizza crust covered with onion mixture and apple slices"
+        },
+        {
+            "instructions": "sprinkle with the gorgonzola .",
+            "input": "(raw pizza crust covered with onion mixture and apple slices; gorgonzola)",
+            "action": "sprinkle",
+            "output": "gorgonzola sprinkled over raw pizza crust covered with onion mixture and apple slices"
+        },
+        {
+            "instructions": "place the al fresco caramelized onion chicken meatballs flat side down",
+            "input": "(raw pizza crust covered with onion mixture, apple slices and gorgonzola; caramelized onion chicken meatballs)",
+            "action": "place",
+            "output": "raw pizza crust covered with onion mixture, apple slices, gorgonzola andcaramelized onion chicken meatballs"
+        },
+        {
+            "instructions": "sprinkle with the mozzarella .",
+            "input": "(mozzarella; raw pizza crust covered with onion mixture, apple slices, gorgonzola andcaramelized onion chicken meatballs)",
+            "action": "sprinkle",
+            "output": "raw pizza crust covered with onion mixture, apple slices, gorgonzola, mozzarella andcaramelized onion chicken meatballs"
+        },
+        {
+            "instructions": "bake for 8 to 10 minutes or until cheese is bubbly and browning .",
+            "input": "raw pizza crust covered with onion mixture, apple slices, gorgonzola, mozzarella andcaramelized onion chicken meatballs",
+            "action": "bake",
+            "output": "baked caramelized_onion_meatballs_pizza_with_apple_gorgonzola"
+        },
+        {
+            "instructions": "serve immediately with your favorite side , salad .",
+            "input": "baked caramelized_onion_meatballs_pizza_with_apple_gorgonzola",
+            "action": "serve",
+            "output": "baked caramelized_onion_meatballs_pizza_with_apple_gorgonzola ready to serve"
+        }
+    ],
+    "ingredients": [
+        {
+            "text": "1 (18 ounce) package al fresco Caramelized Onion Chicken Meatballs, cut in half"
+        },
+        {
+            "text": "1 (13.8 ounce) package refrigerated whole grain pizza dough"
+        },
+        {
+            "text": "1 sweet red apple, thinly sliced (Fuji, Pink Lady or Gala)"
+        },
+        {
+            "text": "1/4 cup Gorgonzola cheese crumbles"
+        },
+        {
+            "text": "1 cup low-sodium mozzarella cheese, shredded"
+        },
+        {
+            "text": "2 pounds Vidalia onions, thinly sliced"
+        },
+        {
+            "text": "1/4 cup dry white wine"
+        },
+        {
+            "text": "1 tablespoon extra-virgin olive oil"
+        },
+        {
+            "text": "1 tablespoon fresh thyme leaves, chopped"
+        },
+        {
+            "text": "Extra virgin olive oil cooking spray"
+        }
+    ],
+    "recipe": [
+        {
+            "text": "In a large skillet coated with olive oil, cover and sweat onions over medium-high heat."
+        },
+        {
+            "text": "Stir periodically so that the onions do not stick and burn on the bottom of the pan."
+        },
+        {
+            "text": "After 15 minutes, remove cover and add the fresh thyme and white wine."
+        },
+        {
+            "text": "Continue to cook for an additional 5 minutes until the onions are well caramelized."
+        },
+        {
+            "text": "Onions should cook down by about 1/2 in volume."
+        },
+        {
+            "text": "Preheat oven to 400 degrees F."
+        },
+        {
+            "text": "Use an 18x12-inch baking sheet, lightly coat with pan spray, and rub with a paper towel to remove any excess."
+        },
+        {
+            "text": "Stretch and press the pizza dough to fully cover the sheet pan."
+        },
+        {
+            "text": "Prebake for 5 to 6 minutes to lightly brown."
+        },
+        {
+            "text": "To layer the pizza, cover the crust entirely with the onions."
+        },
+        {
+            "text": "Top with apple slices and sprinkle with the gorgonzola."
+        },
+        {
+            "text": "Place the al fresco Caramelized Onion Chicken Meatballs flat-side down and sprinkle with the mozzarella."
+        },
+        {
+            "text": "Bake for 8 to 10 minutes or until cheese is bubbly and browning."
+        },
+        {
+            "text": "Serve immediately with your favorite side salad."
+        }
+    ]
+}

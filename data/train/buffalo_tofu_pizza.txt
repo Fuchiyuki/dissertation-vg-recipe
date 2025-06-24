@@ -1,0 +1,190 @@
+{
+    "title": "buffalo_tofu_pizza",
+    "id": "65bfa2fbed",
+    "table": [
+        {
+            "instructions": "press the tofu in between 2 plates or cutting boards lined with paper towels to absorb the water for 20 30 minutes .",
+            "input": "tofu",
+            "action": "press",
+            "output": "pressed_tofu"
+        },
+        {
+            "instructions": "preheat oven to 400f .",
+            "input": "NA",
+            "action": "preheat",
+            "output": "NA"
+        },
+        {
+            "instructions": "after the water has been pressed out of the tofu , cut it into 12 34 cubes .",
+            "input": "pressed tofu",
+            "action": "cut",
+            "output": "cubed pressed tofu"
+        },
+        {
+            "instructions": "line a baking sheet with foil",
+            "input": "NA",
+            "action": "line",
+            "output": "NA"
+        },
+        {
+            "instructions": "coat lightly with olive_oil .",
+            "input": "NA",
+            "action": "coat",
+            "output": "NA"
+        },
+        {
+            "instructions": "place the cubed tofu on the baking sheet",
+            "input": "cubed pressed tofu",
+            "action": "place",
+            "output": "cubed pressed tofu"
+        },
+        {
+            "instructions": "sprinkle the chili_powder , garlic_salt , cumin , and onion_powder over the tofu .",
+            "input": "(cubed pressed tofu; chili powder; garlic salt; cumin; onion powder)",
+            "action": "sprinkle",
+            "output": "seasoned cubed tofu"
+        },
+        {
+            "instructions": "with your hands , roll the tofu around to coat all sides with the spices .",
+            "input": "seasoned cubed tofu",
+            "action": "roll",
+            "output": "well coated cubed tofu"
+        },
+        {
+            "instructions": "add more oil and spice as needed or to taste .",
+            "input": "(oil; spices; well coated cubed tofu)",
+            "action": "add",
+            "output": "oil and spices added to well coated cubed tofu"
+        },
+        {
+            "instructions": "make sure the tofu is spread out around the baking sheet and not touching other pieces .",
+            "input": "well coated cubed tofu",
+            "action": "make",
+            "output": "well spread seasoned cubed tofu"
+        },
+        {
+            "instructions": "bake the tofu for 20 40 minutes until crunchy .",
+            "input": "well spread seasoned cubed tofu",
+            "action": "bake",
+            "output": "baked seasoned cubes of tofu"
+        },
+        {
+            "instructions": "with the prepared pizza_dough rolled and ready , spread the buffalo_sauce over the dough .",
+            "input": "(pizza dough; buffalo sauce)",
+            "action": "spread",
+            "output": "buffalo sauce spread over pizza crust "
+        },
+        {
+            "instructions": "spread with a layer of cheese .",
+            "input": "(cheese; pizza crust with buffalo sauce)",
+            "action": "spread",
+            "output": "pizza crust with buffalo sauce and cheese"
+        },
+        {
+            "instructions": "spread the celery , onions and baked tofu over the pizza .",
+            "input": "(celery; onions; baked tofu; pizza crust with buffalo sauce and cheese)",
+            "action": "spread",
+            "output": "pizza crust with buffalo sauce, cheese, celery , onions and baked tofu"
+        },
+        {
+            "instructions": "bake the pizza for 17 20 minutes or as directed by the pizza_dough directions .",
+            "input": "uncooked buffalo_tofu_pizza",
+            "action": "bake",
+            "output": "baked buffalo_tofu_pizza"
+        },
+        {
+            "instructions": "slice",
+            "input": "baked buffalo_tofu_pizza",
+            "action": "slice",
+            "output": "sliced baked buffalo_tofu_pizza"
+        },
+        {
+            "instructions": "serve hot !",
+            "input": "sliced baked buffalo_tofu_pizza",
+            "action": "serve",
+            "output": "sliced baked buffalo_tofu_pizza ready to eat"
+        }
+    ],
+    "ingredients": [
+        {
+            "text": "1 1/2 box extra firm tofu"
+        },
+        {
+            "text": "1 tbsp olive oil"
+        },
+        {
+            "text": "1 tbsp chili powder"
+        },
+        {
+            "text": "1 tbsp garlic salt"
+        },
+        {
+            "text": "1 tbsp ground cumin"
+        },
+        {
+            "text": "1 tsp onion powder (optional)"
+        },
+        {
+            "text": "1 pizza dough"
+        },
+        {
+            "text": "4 tbsp buffalo sauce"
+        },
+        {
+            "text": "1 cup mozzarella cheese, grated"
+        },
+        {
+            "text": "2 stalk of celery, chopped"
+        },
+        {
+            "text": "1 1/2 onion, chopped"
+        }
+    ],
+    "recipe": [
+        {
+            "text": "Press the tofu in between 2 plates or cutting boards lined with paper towels to absorb the water for 20-30 minutes."
+        },
+        {
+            "text": "Change the paper towels halfway through."
+        },
+        {
+            "text": "Preheat oven to 400F."
+        },
+        {
+            "text": "After the water has been pressed out of the tofu, cut it into 1/2\" - 3/4\" cubes."
+        },
+        {
+            "text": "Line a baking sheet with foil and coat lightly with olive oil."
+        },
+        {
+            "text": "Place the cubed tofu on the baking sheet and sprinkle the chili powder, garlic salt, cumin, and onion powder over the tofu."
+        },
+        {
+            "text": "With your hands, roll the tofu around to coat all sides with the spices."
+        },
+        {
+            "text": "Add more oil and spice as needed or to taste."
+        },
+        {
+            "text": "Make sure the tofu is spread out around the baking sheet and not touching other pieces."
+        },
+        {
+            "text": "Bake the tofu for 20-40 minutes until crunchy."
+        },
+        {
+            "text": "With the prepared pizza dough rolled and ready, spread the buffalo sauce over the dough."
+        },
+        {
+            "text": "Spread with a layer of cheese."
+        },
+        {
+            "text": "Spread the celery, onions and baked tofu over the pizza."
+        },
+        {
+            "text": "Bake the pizza for 17-20 minutes or as directed by the pizza dough directions."
+        },
+        {
+            "text": "Slice and serve hot!"
+        }
+    ]
+}

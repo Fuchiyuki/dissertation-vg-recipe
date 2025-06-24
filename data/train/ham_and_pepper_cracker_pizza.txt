@@ -1,0 +1,85 @@
+{
+    "title": "ham_and_pepper_cracker_pizza",
+    "id": "c1853d7aa9",
+    "table": [
+        {
+            "instructions": "dice mix pepper",
+            "input": "pepper",
+            "actions": "dice",
+            "output": "diced_pepper"
+        },
+        {
+            "instructions": "mix up with cheese",
+            "input": "(diced_pepper; cheese)",
+            "actions": "mix",
+            "output": "cheesy pepper"
+        },
+        {
+            "instructions": "put cheesy pepper and ham strip on biscuit",
+            "input": "(cheesy pepper; ham strip; biscuit)",
+            "actions": "put",
+            "output": "cheesy_pepper and ham put on biscuit"
+        },
+        {
+            "instructions": "broil for 10 minute till cheese melted",
+            "input": "cheesy_pepper and ham put on biscuit",
+            "actions": "broil",
+            "output": "broiled pepper and cheese biscuit"
+        },
+        {
+            "instructions": "melt butter on pan",
+            "input": "butter",
+            "actions": "melt",
+            "output": "melted_butter"
+        },
+        {
+            "instructions": "add fine chili_powder",
+            "input": "(melted_butter; fine_chili powder)",
+            "actions": "add",
+            "output": "fine_chili_powder in melted butter"
+        },
+        {
+            "instructions": "mix well off heat",
+            "input": "melted_butter_chili_powder",
+            "actions": "mix",
+            "output": "mixed_butter_chili_powder"
+        }
+    ],
+    "ingredients": [
+        {
+            "text": "4 slice cream cracker biscuit or any biscuit"
+        },
+        {
+            "text": "1 cup mix cheese ( mozarella, chedder and parmesan cheese )"
+        },
+        {
+            "text": "2 strip thinly cured ham"
+        },
+        {
+            "text": "1/2 cup dice mix pepper"
+        },
+        {
+            "text": "2 tbsp butter"
+        },
+        {
+            "text": "1 tsp fine chili powder"
+        }
+    ],
+    "recipe": [
+        {
+            "text": "BISCUIT PIZZA"
+        },
+        {
+            "text": "dice mix pepper and mix up with cheese"
+        },
+        {
+            "text": "put cheesy pepper and ham strip on biscuit and broil for 10 minute till cheese melted"
+        },
+        {
+            "text": "SPICY BUTTERY DRESSING"
+        },
+        {
+            "text": "melt butter on pan then add fine chili powder and mix well off heat"
+        }
+    ]
+}

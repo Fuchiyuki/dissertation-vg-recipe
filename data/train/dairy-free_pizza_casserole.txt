@@ -1,0 +1,205 @@
+{
+    "title": "dairy-free_pizza_casserole",
+    "id": "9347e9cdbf",
+    "table": [
+        {
+            "instructions": "spray slow\u2012cooker crock with cooking_spray .",
+            "input": "NA",
+            "actions": "spray",
+            "output": "NA"
+        },
+        {
+            "instructions": "in a large bowl , toss together the veggie shreds , pepperoni , tomatoes , and bread .",
+            "input": "(veggie shreds; pepperoni; tomatoes; bread)",
+            "actions": "toss",
+            "output": "tossed_bread, veggies and pepperoni mixture"
+        },
+        {
+            "instructions": "pour into slow\u2012cooker crock .",
+            "input": "tossed_bread, veggies and pepperoni mixture",
+            "actions": "pour",
+            "output": "poured_bread, veggies and pepperoni mixture"
+        },
+        {
+            "instructions": "using same mixing bowl , beat the eggs with a whisk .",
+            "input": "eggs",
+            "actions": "beat",
+            "output": "beaten eggs"
+        },
+        {
+            "instructions": "add italian_seasoning and garlic .",
+            "input": "(beaten eggs; italian_seasoning; garlic)",
+            "actions": "add",
+            "output": "seasoned eggs_mixture"
+        },
+        {
+            "instructions": "in small mixing bowl , stir the silken_tofu with a spoon until it resembles ricotta_cheese .",
+            "input": "silken_tofu",
+            "actions": "stir",
+            "output": "stirred silken_tofu"
+        },
+        {
+            "instructions": "add tofu to egg mixture",
+            "input": "(stirred silken_tofu; seasoned eggs_mixture)",
+            "actions": "add",
+            "output": "silken_tofu and egg mixture"
+        },
+        {
+            "instructions": "beat well .",
+            "input": "silken_tofu and egg mixture",
+            "actions": "beat",
+            "output": "beaten silken_tofu and egg mixture"
+        },
+        {
+            "instructions": "pour over bread mixture",
+            "input": "(bread, veggies and pepperoni mixture; tofu and egg mixture)",
+            "actions": "pour",
+            "output": "tofu and egg mixture poured on bread mixture"
+        },
+        {
+            "instructions": "toss to combine .",
+            "input": "tofu and egg mixture poured on bread mixture",
+            "actions": "toss",
+            "output": "combined bread and egg mixtures"
+        },
+        {
+            "instructions": "cover the slow\u2012cooker crock with foil",
+            "input": "combined bread and egg mixture",
+            "actions": "cover",
+            "output": "covered bread and egg mixture"
+        },
+        {
+            "instructions": "refrigerate at least three hours , or overnight .",
+            "input": "covered bread and egg mixture",
+            "actions": "refrigerate",
+            "output": "refrigerated bread and egg mixture"
+        },
+        {
+            "instructions": "remove from refrigerator",
+            "input": "refrigerated bread and egg mixture",
+            "actions": "remove",
+            "output": "refrigerated bread and egg mixture"
+        },
+        {
+            "instructions": "remove foil",
+            "input": "refrigerated bread and egg mixture",
+            "actions": "remove",
+            "output": "refrigerated bread and egg mixture"
+        },
+        {
+            "instructions": "place crock into slow\u2012cooker ,",
+            "input": "NA",
+            "actions": "place",
+            "output": "NA"
+        },
+        {
+            "instructions": "cover .",
+            "input": "NA",
+            "actions": "cover",
+            "output": "NA"
+        },
+        {
+            "instructions": "cook on high for 1 hour , then low",
+            "input": "uncooked dairy free bread and egg casserole",
+            "actions": "cook",
+            "output": "cooked dairy free bread and egg casserole"
+        },
+        {
+            "instructions": "to cook in oven instead of slow\u2012cooker",
+            "input": "NA",
+            "actions": "cook",
+            "output": "NA"
+        },
+        {
+            "instructions": "use a 9x13 inch pan .",
+            "input": "NA",
+            "actions": "use",
+            "output": "NA"
+        },
+        {
+            "instructions": "preheat oven to 350 degrees f .",
+            "input": "NA",
+            "actions": "preheat",
+            "output": "NA"
+        },
+        {
+            "instructions": "bake for 35 to 45 minutes , or until golden brown and crisp on top .",
+            "input": "uncooked dairy free bread and egg casserole",
+            "actions": "bake",
+            "output": "cooked dairy free bread and egg casserole"
+        }
+    ],
+    "ingredients": [
+        {
+            "text": "7 ounces Veggie Shreds cheese, in mozzarella flavor"
+        },
+        {
+            "text": "14 lb pepperoni, chopped"
+        },
+        {
+            "text": "2 (14 1/2 ounce) cans crushed tomatoes"
+        },
+        {
+            "text": "6 cups torn Italian bread (about 1 medium-sized loaf)"
+        },
+        {
+            "text": "5 eggs"
+        },
+        {
+            "text": "1 (455 g) packagelite silken tofu"
+        },
+        {
+            "text": "2 teaspoons italian seasoning"
+        },
+        {
+            "text": "2 chopped garlic cloves"
+        }
+    ],
+    "recipe": [
+        {
+            "text": "Spray slow cooker crock with cooking spray."
+        },
+        {
+            "text": "In a large bowl, toss together the Veggie Shreds, pepperoni, tomatoes, and bread."
+        },
+        {
+            "text": "Pour into slow cooker crock."
+        },
+        {
+            "text": "Using same mixing bowl, beat the eggs with a whisk."
+        },
+        {
+            "text": "Add Italian seasoning and garlic."
+        },
+        {
+            "text": "In small mixing bowl, stir the silken tofu with a spoon until it resembles ricotta cheese."
+        },
+        {
+            "text": "Add tofu to egg mixture and beat well."
+        },
+        {
+            "text": "Pour over bread mixture and toss to combine."
+        },
+        {
+            "text": "Cover the slow cooker crock with foil and refrigerate at least three hours, or overnight."
+        },
+        {
+            "text": "Remove from refrigerator and let stand at room temperature for about 20 minutes."
+        },
+        {
+            "text": "Remove foil, place crock into slow cooker, and cover."
+        },
+        {
+            "text": "Cook on high for 1 hour, then low for 3 to 4 hours, or until thermometer reads 160 degrees F."
+        },
+        {
+            "text": "Note: You can use any kind of pizza-friendly meats and vegetables in this recipe."
+        },
+        {
+            "text": "To cook in oven instead of slow cooker, use a 9X13 inch pan."
+        },
+        {
+            "text": "Preheat oven to 350 degrees F. Uncover casserole and bake for 35 to 45 minutes, or until golden brown and crisp on top."
+        }
+    ]
+}

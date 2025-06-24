@@ -1,0 +1,133 @@
+{
+    "title": "meat_lovers_supreme_pizza",
+    "id": "67b17f7c8d",
+    "table": [
+        {
+            "instructions": "place large cookie sheet in oven .",
+            "input": "NA",
+            "actions": "place",
+            "output": "NA"
+        },
+        {
+            "instructions": "preheat oven to 475 degrees f .",
+            "input": "NA",
+            "actions": "preheat",
+            "output": "NA"
+        },
+        {
+            "instructions": "stretch dough round into small circle .",
+            "input": "dough",
+            "actions": "stretch",
+            "output": "pizza crust"
+        },
+        {
+            "instructions": "place on large sheet , parchment paper , stretching and pressing to form 14 inch circle with slight rim .",
+            "input": "NA",
+            "actions": "place",
+            "output": "NA"
+        },
+        {
+            "instructions": "spread sauce on dough ;",
+            "input": "(sauce; pizza_crust)",
+            "actions": "spread",
+            "output": "sauce spread on pizza crust"
+        },
+        {
+            "instructions": "top with mozzarella in single layer .",
+            "input": "(mozzarella; pizza crust with sauce)",
+            "actions": "top",
+            "output": "pizza crust with sauce topped with mozzarella"
+        },
+        {
+            "instructions": "transfer , with parchment , to hot cookie sheet .",
+            "input": "unccoked pizza",
+            "actions": "transfer",
+            "output": "uncooked pizza"
+        },
+        {
+            "instructions": "microwave , in medium microwave safe bowl , 4 ounces sweet_italian_sausage meat , casing removed , on high 2 minutes or until no longer pink .",
+            "input": "sweet_italian_sausage meat without casings",
+            "actions": "microwave",
+            "output": "cooked sweet_italian_sausage meat"
+        },
+        {
+            "instructions": "top pizza with mushrooms , green_pepper , pepperoni , and crumbled cooked_bacon optional .",
+            "input": "(uncooked pizza; mushrooms; green_pepper; pepperoni; optional crumbled cooked bacon)",
+            "actions": "top",
+            "output": "uncooked pizza topped with mushrooms , green_pepper, pepperoni and optional crumbled cooked_bacon"
+        },
+        {
+            "instructions": "crumble sausage on top .",
+            "input": "(uncooked pizza with mushrooms , green_pepper, pepperoni and optional crumbled cooked_bacon; cooked sweet_italian_sausage meat)",
+            "actions": "crumble",
+            "output": "cooked sweet_italian_sausage meat crombled over uncooked pizza"
+        },
+        {
+            "instructions": "bake 20 to 22 minutes or until vegetables are tender and sausage is cooked .",
+            "input": "uncooked meaty pizza",
+            "actions": "bake",
+            "output": "baked meaty pizza"
+        }
+    ],
+    "ingredients": [
+        {
+            "text": "1 1/4 lb. pizza dough"
+        },
+        {
+            "text": "3/4 c. marinara sauce"
+        },
+        {
+            "text": "6 oz. fresh mozzarella cheese"
+        },
+        {
+            "text": "4 oz. sweet Italian sausage meat"
+        },
+        {
+            "text": "1 c. sliced mushrooms"
+        },
+        {
+            "text": "1 small green pepper"
+        },
+        {
+            "text": "3 oz. pepperoni"
+        },
+        {
+            "text": "3 strip crumbled cooked bacon"
+        }
+    ],
+    "recipe": [
+        {
+            "text": "Place large cookie sheet in oven."
+        },
+        {
+            "text": "Preheat oven to 475 degrees F."
+        },
+        {
+            "text": "Stretch dough round into small circle."
+        },
+        {
+            "text": "Place on large sheet parchment paper, stretching and pressing to form 14-inch circle with slight rim."
+        },
+        {
+            "text": "Spread sauce on dough; top with mozzarella in single layer."
+        },
+        {
+            "text": "Transfer, with parchment, to hot cookie sheet."
+        },
+        {
+            "text": "Microwave, in medium microwave-safe bowl, 4 ounces sweet Italian sausage meat, casing removed, on high 2 minutes or until no longer pink."
+        },
+        {
+            "text": "Cool."
+        },
+        {
+            "text": "Top pizza with mushrooms, green pepper, pepperoni, and crumbled cooked bacon (optional)."
+        },
+        {
+            "text": "Crumble sausage on top."
+        },
+        {
+            "text": "Bake 20 to 22 minutes or until vegetables are tender and sausage is cooked."
+        }
+    ]
+}

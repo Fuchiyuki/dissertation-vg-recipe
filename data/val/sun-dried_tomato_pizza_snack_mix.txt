@@ -1,0 +1,175 @@
+{
+    "title": "sun-dried_tomato_pizza_snack_mix",
+    "id": "0d833cbc35",
+    "table": [
+        {
+            "instructions": "preheat oven to 250 degrees f .",
+            "input": "NA",
+            "action": "preheat",
+            "output": "NA"
+        },
+        {
+            "instructions": "spray 9x13 inch , baking pan with nonstick cooking_spray .",
+            "input": "NA",
+            "action": "spray",
+            "output": "NA"
+        },
+        {
+            "instructions": "combine cereals , crackers , and sunflower_seed in a large bowl",
+            "input": "(cereals; crackers; sunflower_seed)",
+            "action": "combine",
+            "output": "cereal mixture"
+        },
+        {
+            "instructions": "set aside .",
+            "input": "cereal_mixture",
+            "action": "set",
+            "output": "cereal_mixture"
+        },
+        {
+            "instructions": "combine cheese , butter, oil , italian_seasoning and garlic_powder in medium bowl .",
+            "input": "(cheese; butter; oil; italian_seasoning; garlic_powder)",
+            "action": "combine",
+            "output": "cheese_mixture"
+        },
+        {
+            "instructions": "microwave on high 1 to 12 minutes until foamy",
+            "input": "cheese_mixture",
+            "action": "microwave",
+            "output": "foamy_cheese_mixture"
+        },
+        {
+            "instructions": "stir in tomato_sauce , vinegar , sugar and salt .",
+            "input": "(foamy_cheese_mixture; tomato_sauce; vinegar; sugar; salt)",
+            "action": "stir",
+            "output": "cheese_and tomato sauce mixture"
+        },
+        {
+            "instructions": "pour over cereal mixture",
+            "input": "cereal_mixture, cheese_and tomato sauce mixture",
+            "action": "pour",
+            "output": "cereal_mixture_with_cheese_and tomato sauce mixture"
+        },
+        {
+            "instructions": "stir well to coat .",
+            "input": "cereal_mixture_with_cheese_and tomato sauce mixture",
+            "action": "stir",
+            "output": "well mixed cereal and tomato and cheese mixture"
+        },
+        {
+            "instructions": "spread evenly in prepared pan .",
+            "input": "cereal_mixture_coated_with_tomato and cheese_sauce",
+            "action": "spread",
+            "output": "cereal_mixture_coated_with_tomato cheese_sauce_spread_in_pan"
+        },
+        {
+            "instructions": "bake 45 minutes , stirring every 15 minutes .",
+            "input": "cereal_mixture_coated_with_tomato cheese_sauce_spread_in_pan",
+            "action": "bake",
+            "output": "baked_cereal_mixture_coated_with_tomato cheese_sauce"
+        },
+        {
+            "instructions": "stir in sun_dried_tomato",
+            "input": "(baked_cereal_mixture_coated_with_tomato cheese_sauce; sun dried tomato)",
+            "action": "stir",
+            "output": "sundried tomato stirred into baked_cereal_mixture_coated_with_tomato cheese_sauce"
+        },
+        {
+            "instructions": "bake another 15 minutes .",
+            "input": "baked_cereal_mixture_coated_with_tomato cheese_sauce and sun dried tomato",
+            "action": "bake",
+            "output": "baked cereal_snack_mix"
+        },
+        {
+            "instructions": "store in airtight container or resealable plastic storage bag .",
+            "input": "baked cereal_snack_mix",
+            "action": "store",
+            "output": "baked cereal_snack_mix"
+        }
+    ],
+    "ingredients": [
+        {
+            "text": "2 cups bite size shredded whole wheat cereal (like tiny shredded wheat squares)"
+        },
+        {
+            "text": "2 cups unsweetened puffed corn cereal (Kix)"
+        },
+        {
+            "text": "2 cups puffed rice cereal"
+        },
+        {
+            "text": "2 cups mini cheese crackers"
+        },
+        {
+            "text": "1 cup roasted sunflower seeds"
+        },
+        {
+            "text": "3 tablespoons grated parmesan cheese"
+        },
+        {
+            "text": "3 tablespoons butter"
+        },
+        {
+            "text": "2 tablespoons olive oil"
+        },
+        {
+            "text": "2 teaspoons dried Italian seasoning"
+        },
+        {
+            "text": "1 12 teaspoons garlic powder"
+        },
+        {
+            "text": "14 cup tomato sauce"
+        },
+        {
+            "text": "1 teaspoon balsamic vinegar"
+        },
+        {
+            "text": "38 teaspoon sugar"
+        },
+        {
+            "text": "18 teaspoon salt"
+        },
+        {
+            "text": "8 -9 sun-dried tomatoes packed in oil, diced"
+        }
+    ],
+    "recipe": [
+        {
+            "text": "Preheat oven to 250 degrees F."
+        },
+        {
+            "text": "Spray 9x13 inch baking pan with nonstick cooking spray."
+        },
+        {
+            "text": "Combine cereals, crackers, and sunflower seeds in a large bowl and set aside."
+        },
+        {
+            "text": "Combine cheese, butter, oil, Italian seasoning and garlic powder in medium bowl."
+        },
+        {
+            "text": "Microwave on HIGH 1 to 1/2 minutes until foamy and herbs release their aromas."
+        },
+        {
+            "text": "Stir in tomato sauce, vinegar, sugar and salt."
+        },
+        {
+            "text": "Pour over cereal mixture and stir well to coat."
+        },
+        {
+            "text": "Spread evenly in prepared pan."
+        },
+        {
+            "text": "Bake 45 minutes, stirring every 15 minutes."
+        },
+        {
+            "text": "Stir in sun-dried tomatoes and bake another 15 minutes."
+        },
+        {
+            "text": "Let cool in pan set on wire rack about 2 hours, leaving uncovered until mixture is crisp and tomato pieces have lost their moisture."
+        },
+        {
+            "text": "Store in airtight container or resealable plastic storage bag."
+        }
+    ]
+}

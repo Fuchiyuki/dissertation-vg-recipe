@@ -1,0 +1,217 @@
+{
+    "title": "prosciutto_and_pear_pizza",
+    "id": "06e52743d1",
+    "table": [
+        {
+            "instructions": "in a small bowl add warm_water",
+            "input": "warm_water",
+            "action": "add",
+            "output": "warm_water"
+        },
+        {
+            "instructions": "sprinkle the yeast over the top .",
+            "input": "(yeast; warm_water)",
+            "action": "sprinkle",
+            "output": "yeast mixture"
+        },
+        {
+            "instructions": "while the yeast is blooming , combine the flour , salt , rosemary and garlic in the bowl of your stand mixer fitted with a hook attachment .",
+            "input": "(flour; salt; rosemary; galic)",
+            "action": "combine",
+            "output": "dry ingredients"
+        },
+        {
+            "instructions": "with the mixer on low , pour in the oil until combined .",
+            "input": "(dry ingredients; oil)",
+            "action": "pour",
+            "output": "oil in dry ingredients"
+        },
+        {
+            "instructions": "next , slowly pour in the yeast water until the dough starts to come together .",
+            "input": "(blooming yeast mixture; oil in dry ingredients)",
+            "action": "pour",
+            "output": "partially mixed dough"
+        },
+        {
+            "instructions": "turn the mixer onto medium once the dough starts to form",
+            "input": "partially mixed dough",
+            "action": "turn",
+            "output": "partially mixed dough"
+        },
+        {
+            "instructions": "knead until smooth .",
+            "input": "partially mixed dough",
+            "action": "knead",
+            "output": "Smooth dough"
+        },
+        {
+            "instructions": "cover the bowl with plastic wrap",
+            "input": "Smooth dough",
+            "action": "cover",
+            "output": "Covered Dough"
+        },
+        {
+            "instructions": "place in a warm , dark place to rise for 1 1 12 hours .",
+            "input": "Covered Dough",
+            "action": "place",
+            "output": "Covered Dough"
+        },
+        {
+            "instructions": "preheat oven to 450 f .",
+            "input": "NA",
+            "action": "preheat",
+            "output": "NA"
+        },
+        {
+            "instructions": "on a piece of parchment , sprinkle heavily with cornmeal .",
+            "input": "NA",
+            "action": "sprinkle",
+            "output": "NA"
+        },
+        {
+            "instructions": "using your hands , press dough out onto the parchment until very thin and even .",
+            "input": "proofed dough",
+            "action": "press",
+            "output": "Pressed Dough"
+        },
+        {
+            "instructions": "in a small dish , whisk together the dijon and honey until smooth",
+            "input": "(Dijon; Honey)",
+            "action": "whisk",
+            "output": "Honey Dijon mixture"
+        },
+        {
+            "instructions": "spread it evenly over dough as a sauce .",
+            "input": "(Honey Dijon mixture; pressed pizza dough)",
+            "action": "spread",
+            "output": "Honey Dijon Topped pressed pizza dough"
+        },
+        {
+            "instructions": "top with remaining_ingredient mozzarella_cheese , thinly sliced_pear , caramelized onion , prosciutto , and gorgonzola cheese .",
+            "input": "(Honey Dijon Topped pressed pizza dough;  mozzarella_cheese; thinly sliced_pear; caramelized onion; prosciutto; gorgonzola cheese)",
+            "action": "top",
+            "output": "Honey Dijon Topped pressed pizza crust with mozzarella_cheese , thinly sliced_pear , caramelized onion , prosciutto , and gorgonzola cheese"
+        },
+        {
+            "instructions": "pull the parchment paper and pizza onto a baking sheet",
+            "input": "Honey Dijon Topped pressed pizza crust with mozzarella_cheese , thinly sliced_pear , caramelized onion , prosciutto , and gorgonzola cheese",
+            "action": "pull",
+            "output": "Honey Dijon Topped pressed pizza crust with mozzarella_cheese , thinly sliced_pear , caramelized onion , prosciutto , and gorgonzola cheese"
+        },
+        {
+            "instructions": "bake for 11 12 minutes or until the crust is golden brown and cheese is bubbly and browning .",
+            "input": "uncooked prosciutto_and_pear_pizza",
+            "action": "bake",
+            "output": "baked prosciutto_and_pear_pizza"
+        },
+        {
+            "instructions": "remove from oven",
+            "input": "baked prosciutto_and_pear_pizza",
+            "action": "remove",
+            "output": "baked prosciutto_and_pear_pizza"
+        },
+        {
+            "instructions": "set pan on a rack",
+            "input": "baked prosciutto_and_pear_pizza",
+            "action": "set",
+            "output": "baked prosciutto_and_pear_pizza"
+        },
+        {
+            "instructions": "serve immediately .",
+            "input": "baked prosciutto_and_pear_pizza",
+            "action": "serve",
+            "output": "baked prosciutto_and_pear_pizza ready to serve"
+        }
+    ],
+    "ingredients": [
+        {
+            "text": "3/4 cups Water, Between 100-105 Degrees F"
+        },
+        {
+            "text": "1 teaspoon Yeast"
+        },
+        {
+            "text": "2- 1/2 cups Flour"
+        },
+        {
+            "text": "1/2 teaspoons Salt"
+        },
+        {
+            "text": "1 teaspoon Rosemary (Dried Or Fresh)"
+        },
+        {
+            "text": "1 clove Garlic, Minced"
+        },
+        {
+            "text": "3 Tablespoons Olive Oil (I Used Rosemary Infused Oil)"
+        },
+        {
+            "text": "Cornmeal, For Rolling Dough"
+        },
+        {
+            "text": "2 Tablespoons Dijon Mustard"
+        },
+        {
+            "text": "2 Tablespoons Honey"
+        },
+        {
+            "text": "6 slices Mozzarella Cheese, Thinly Sliced, Or More As Desired"
+        },
+        {
+            "text": "1 whole Pear, Cored And Thinly Sliced"
+        },
+        {
+            "text": "1/4 cups Caramelized Onion"
+        },
+        {
+            "text": "2 ounces, weight Prosciutto, Thinly Sliced And Fried"
+        },
+        {
+            "text": "1/2 cups Gorgonzola, Crumbled"
+        }
+    ],
+    "recipe": [
+        {
+            "text": "In a small bowl add warm water and sprinkle the yeast over the top."
+        },
+        {
+            "text": "Let the yeast bloom for 5-10 minutes until it becomes foamy."
+        },
+        {
+            "text": "While the yeast is blooming, combine the flour, salt, rosemary and garlic in the bowl of your stand mixer fitted with a hook attachment."
+        },
+        {
+            "text": "With the mixer on low, pour in the oil until combined."
+        },
+        {
+            "text": "Next, slowly pour in the yeast/water until the dough starts to come together."
+        },
+        {
+            "text": "Turn the mixer onto medium once the dough starts to form then knead until smooth."
+        },
+        {
+            "text": "Cover the bowl with plastic wrap and place in a warm, dark place to rise for 1- 1 1/2 hours."
+        },
+        {
+            "text": "Preheat oven to 450 F. On a piece of parchment, sprinkle heavily with cornmeal."
+        },
+        {
+            "text": "Using your hands, press dough out onto the parchment until very thin and even."
+        },
+        {
+            "text": "In a small dish, whisk together the Dijon and honey until smooth then spread it evenly over dough as a sauce."
+        },
+        {
+            "text": "Top with remaining ingredients: mozzarella cheese, thinly sliced pear, caramelized onion, prosciutto, and Gorgonzola cheese."
+        },
+        {
+            "text": "Pull the parchment paper and pizza onto a baking sheet and bake for 11-12 minutes or until the crust is golden brown and cheese is bubbly and browning."
+        },
+        {
+            "text": "Remove from oven, set pan on a rack and let pizza rest 2-3 minutes before slicing."
+        },
+        {
+            "text": "Serve immediately."
+        }
+    ]
+}

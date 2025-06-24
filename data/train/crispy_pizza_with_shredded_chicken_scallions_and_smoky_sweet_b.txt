@@ -1,0 +1,109 @@
+{
+    "title": "crispy_pizza_with_shredded_chicken_scallions_and_smoky_sweet_b",
+    "id": "d089239163",
+    "table": [
+        {
+            "instructions": "combine all_ingredient for barbecue in a small saucepan",
+            "input": "all_ingredient",
+            "action": "combine",
+            "output": "combined_all_ingredient"
+        },
+        {
+            "instructions": "simmer frequently until reduced , about 15 20 minutes .",
+            "input": "sauce mixture",
+            "action": "simmer",
+            "output": "cooked sauce mixture"
+        },
+        {
+            "instructions": "preheat over to 450 degrees .",
+            "input": "NA",
+            "action": "preheat",
+            "output": "NA"
+        },
+        {
+            "instructions": "brush dough very lightly with olive_oil .",
+            "input": "(olive_ oil; dough)",
+            "action": "brush",
+            "output": "brush dough with olive_oil"
+        },
+        {
+            "instructions": "bake untopped dough for about 5 minutes until it is dry but not browning .",
+            "input": "raw pizza dough",
+            "action": "bake",
+            "output": "baked crust"
+        },
+        {
+            "instructions": "remove from oven",
+            "input": "baked crust",
+            "action": "remove",
+            "output": "baked crust"
+        },
+        {
+            "instructions": "spread evenly with barbecue_sauce",
+            "input": "(barbecue_sauce; baked crust)",
+            "action": "spread",
+            "output": "baked crust with spread barbecue sauce"
+        },
+        {
+            "instructions": "sprinkle with chicken and scallions .",
+            "input": "(chicken; scallions; baked crust with spread barbecue sauce)",
+            "action": "sprinkle",
+            "output": "baked crust with spread barbecue sauce, chicken and scallions"
+        },
+        {
+            "instructions": "bake for another 5 7 minutes or until edges are crispy",
+            "input": "uncooked chicken, scallion and barbecue sauce",
+            "action": "bake",
+            "output": "baked chicken, scallion and barbecue sauce"
+        }
+    ],
+    "ingredients": [
+        {
+            "text": "2 prepared pizza dough"
+        },
+        {
+            "text": "23 cup smoky sweet barbecue sauce"
+        },
+        {
+            "text": "1 cup cooked shredded skinless chicken breast"
+        },
+        {
+            "text": "14 cup finely chopped scallion"
+        },
+        {
+            "text": "12 -14 ounces ketchup"
+        },
+        {
+            "text": "12 cup white vinegar"
+        },
+        {
+            "text": "14 cup honey"
+        },
+        {
+            "text": "12 teaspoon ground pepper"
+        }
+    ],
+    "recipe": [
+        {
+            "text": "Combine all ingredients for barbecue in a small saucepan and simmer frequently until reduced, about 15-20 minutes."
+        },
+        {
+            "text": "Makes about 1 1/2 cups sauce."
+        },
+        {
+            "text": "Preheat over to 450 degrees."
+        },
+        {
+            "text": "Brush dough very lightly with olive oil."
+        },
+        {
+            "text": "Bake untopped dough for about 5 minutes until it is dry but not browning."
+        },
+        {
+            "text": "Remove from oven, spread evenly with barbecue sauce and sprinkle with chicken and scallions."
+        },
+        {
+            "text": "Bake for another 5-7 minutes or until edges are crispy and lightly browned."
+        }
+    ]
+}

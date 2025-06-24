@@ -1,0 +1,235 @@
+{
+    "title": "mixed_pepper_pizza_with_basil_and_pine_nuts",
+    "id": "67f92416ed",
+    "table": [
+        {
+            "instructions": "preheat oven to 50",
+            "input": "NA",
+            "actions": "preheat",
+            "output": "NA"
+        },
+        {
+            "instructions": "roll prepared pizza_dough into a 12 inch circle on a floured surface .",
+            "input": "pizza_dough",
+            "actions": "roll",
+            "output": "rolled_pizza_dough"
+        },
+        {
+            "instructions": "place dough on a 12 inch , pizza\u2012pan or baking sheet coated with cooking_spray",
+            "input": "dough",
+            "actions": "place",
+            "output": "dough"
+        },
+        {
+            "instructions": "crimp edges of dough with fingers to form a rim .",
+            "input": "pizza_dough",
+            "actions": "crimp",
+            "output": "pizza_dough_with_crimped_edges"
+        },
+        {
+            "instructions": "heat olive_oil in a large skillet over medium high heat .",
+            "input": "olive_oil",
+            "actions": "heat",
+            "output": "heated_olive_oil"
+        },
+        {
+            "instructions": "add onion_salt , and black_pepper ;",
+            "input": "(heated_olive_oil; onion_salt; black_pepper)",
+            "actions": "add",
+            "output": "seasoned_oil"
+        },
+        {
+            "instructions": "saute 3 minutes or until tender .",
+            "input": "seasoned_mixture",
+            "actions": "saute",
+            "output": "sauted_mixture"
+        },
+        {
+            "instructions": "add garlic ;",
+            "input": "(garlic; sauted_mixture)",
+            "actions": "add",
+            "output": "mixture_with_garlic"
+        },
+        {
+            "instructions": "cook 1 minute .",
+            "input": "uncooked_mixture",
+            "actions": "cook",
+            "output": "cooking_mixture"
+        },
+        {
+            "instructions": "reduce heat to low .",
+            "input": "cooking_mixture",
+            "actions": "reduce",
+            "output": "cooking_mixture"
+        },
+        {
+            "instructions": "add bell_pepper ;",
+            "input": "(bell_pepper; cooking_mixture)",
+            "actions": "add",
+            "output": "cooking_mixture_with_bell_pepper"
+        },
+        {
+            "instructions": "cook 10 minutes , stirring occasionally .",
+            "input": "cooking_mixture_with_bell_pepper",
+            "actions": "cook",
+            "output": "cooked_mixture_with_bell_pepper"
+        },
+        {
+            "instructions": "stir in water ;",
+            "input": "(water; cooked_mixture_with_bell_pepper9",
+            "actions": "stir",
+            "output": "cooking_bell_peppers"
+        },
+        {
+            "instructions": "cook 10 minutes or until peppers are soft and water has almost evaporated .",
+            "input": "cooked_bell_peppers",
+            "actions": "cook",
+            "output": "cooked_bell_peppers"
+        },
+        {
+            "instructions": "remove from heat ;",
+            "input": "cooked_bell_peppers",
+            "actions": "remove",
+            "output": "cooked_bell_peppers"
+        },
+        {
+            "instructions": "stir in capers .",
+            "input": "(capers; cooked_bell_peppers)",
+            "actions": "stir",
+            "output": "pepper_mixture"
+        },
+        {
+            "instructions": "spread the pepper mixture evenly over pizza_crust ;",
+            "input": "(pizza_crust; pepper_mixture)",
+            "actions": "spread",
+            "output": "pizza_crust_topped_with_pepper_mixture"
+        },
+        {
+            "instructions": "sprinkle with feta .",
+            "input": "(feta; topped_pizza_crust)",
+            "actions": "sprinkle",
+            "output": "pizza_crust_topped_with_pepper_mixture_and_feta"
+        },
+        {
+            "instructions": "bake at 500 for 15 minutes or until crust is golden .",
+            "input": "uncooked_pizza",
+            "actions": "bake",
+            "output": "baked_pizza"
+        },
+        {
+            "instructions": "remove pizza from oven",
+            "input": "baked_pizza",
+            "actions": "remove",
+            "output": "baked_pizza"
+        },
+        {
+            "instructions": "sprinkle with basil and pine nuts ;",
+            "input": "(basil; pine_nuts; cooked_pizza)",
+            "actions": "sprinkle",
+            "output": "cooked_pizza_topped_with_basil_and_pine_nuts"
+        },
+        {
+            "instructions": "top with parmesan .",
+            "input": "(parmesan; topped_pizza)",
+            "actions": "top",
+            "output": "pizza_topped_with_parmesan"
+        },
+        {
+            "instructions": "bake an additional 3 minutes or until parmesan melts .",
+            "input": "pizza_with_unmelted_parmesan",
+            "actions": "bake",
+            "output": "mixed_pepper_pizza_with_melted_parmesan"
+        }
+    ],
+    "ingredients": [
+        {
+            "text": "1 Pizza Dough"
+        },
+        {
+            "text": "Cooking spray"
+        },
+        {
+            "text": "1 tablespoon cornmeal"
+        },
+        {
+            "text": "2 teaspoons olive oil"
+        },
+        {
+            "text": "2 cups vertically sliced Vidalia or other sweet onion"
+        },
+        {
+            "text": "1/2 teaspoon salt"
+        },
+        {
+            "text": "1/4 teaspoon black pepper"
+        },
+        {
+            "text": "1 tablespoon minced garlic (about 3 cloves)"
+        },
+        {
+            "text": "1 yellow bell pepper, cut into 1/4-inch strips"
+        },
+        {
+            "text": "1 red bell pepper, cut into 1/4-inch strips"
+        },
+        {
+            "text": "1/4 cup water"
+        },
+        {
+            "text": "1 tablespoon capers, drained"
+        },
+        {
+            "text": "3/4 cup (3 ounces) crumbled reduced-fat feta cheese"
+        },
+        {
+            "text": "1/2 cup chopped fresh basil"
+        },
+        {
+            "text": "2 tablespoons pine nuts, toasted"
+        },
+        {
+            "text": "1/4 cup (1 ounce) grated fresh Parmesan cheese"
+        }
+    ],
+    "recipe": [
+        {
+            "text": "Preheat oven to 500."
+        },
+        {
+            "text": "Roll prepared pizza dough into a 12-inch circle on a floured surface."
+        },
+        {
+            "text": "Place dough on a 12-inch pizza pan or baking sheet coated with cooking spray and sprinkled with 1 tablespoon cornmeal."
+        },
+        {
+            "text": "Crimp edges of dough with fingers to form a rim.Heat olive oil in a large skillet over medium-high heat."
+        },
+        {
+            "text": "Add onion, salt, and black pepper; saute 3 minutes or until tender."
+        },
+        {
+            "text": "Add garlic; cook 1 minute."
+        },
+        {
+            "text": "Reduce heat to low."
+        },
+        {
+            "text": "Add bell peppers; cook 10 minutes, stirring occasionally."
+        },
+        {
+            "text": "Stir in water; cook 10 minutes or until peppers are soft and water has almost evaporated."
+        },
+        {
+            "text": "Remove from heat; stir in capers.Spread the pepper mixture evenly over pizza crust; sprinkle with feta."
+        },
+        {
+            "text": "Bake at 500 for 15 minutes or until crust is golden."
+        },
+        {
+            "text": "Remove pizza from oven; sprinkle with basil and pine nuts; top with Parmesan."
+        },
+        {
+            "text": "Bake an additional 3 minutes or until Parmesan melts."
+        }
+    ]
+}

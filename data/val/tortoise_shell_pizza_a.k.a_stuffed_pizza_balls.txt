@@ -1,0 +1,214 @@
+{
+    "title": "tortoise_shell_pizza_a.k.a_stuffed_pizza_balls",
+    "id": "198735283f",
+    "table": [
+        {
+            "instructions": "dissolve the yeast in the warm milk .",
+            "input": "yeast",
+            "actions": "dissolve",
+            "output": "yeast mixture"
+        },
+        {
+            "instructions": "mix flour , oil , sugar , egg and yeast mixture .",
+            "input": "(flour; oil; sugar; egg; yeast mixture)",
+            "actions": "mix",
+            "output": "dough"
+        },
+        {
+            "instructions": "knead by hand or use a machine until the dough comes together .",
+            "input": "dough",
+            "actions": "knead",
+            "output": "kneaded_dough"
+        },
+        {
+            "instructions": "add the salt now",
+            "input": "(salt; dough)",
+            "actions": "add",
+            "output": "salted_dough"
+        },
+        {
+            "instructions": "knead further .",
+            "input": "salted_dough",
+            "actions": "knead",
+            "output": "kneaded_dough"
+        },
+        {
+            "instructions": "roll into a ball",
+            "input": "kneaded_dough",
+            "actions": "roll",
+            "output": "rolled_dough"
+        },
+        {
+            "instructions": "chop the tomatoes and mozzarella into little pieces",
+            "input": "(tomatoes; mozzarella)",
+            "actions": "chop",
+            "output": "chopped_tomatoes and mozzarella"
+        },
+        {
+            "instructions": "mix together .",
+            "input": "chopped_tomatoes and mozzarella",
+            "actions": "mix",
+            "output": "mixed_tomatoes and mozzarella"
+        },
+        {
+            "instructions": "add thorn pieces of basil , a drizzle of olive_oil",
+            "input": "(basil; olive_oil; mixed_tomatoes and mozzarella)",
+            "actions": "add",
+            "output": "tomato and mozzarella salad"
+        },
+        {
+            "instructions": "season .",
+            "input": "(tomato and mozzarella salad; seasoning)",
+            "actions": "season",
+            "output": "seasoned_tomato_fillinh"
+        },
+        {
+            "instructions": "chop the mortadella and emmental",
+            "input": "(mortadella; emmental)",
+            "actions": "chop",
+            "output": "chopped_mortadella_and_emmental"
+        },
+        {
+            "instructions": "heat oven to 200 degrees c or 400 degreec f .",
+            "input": "NA",
+            "actions": "heat",
+            "output": "NA"
+        },
+        {
+            "instructions": "cut the dough into 24 pieces",
+            "input": "dough",
+            "actions": "cut",
+            "output": "cut_dough"
+        },
+        {
+            "instructions": "flatten with the palm of your hand or a rolling pin to form a circle about 6 inches across .",
+            "input": "cut_dough",
+            "actions": "flatten",
+            "output": "flattened_dough"
+        },
+        {
+            "instructions": "fill half of with tomato , filling and half with mortadella , filling .",
+            "input": "flattened_dough",
+            "actions": "fill",
+            "output": "dough_filled_with_tomato_filling_and_mortadella_filling"
+        },
+        {
+            "instructions": "pinch the dough to close in the filling .",
+            "input": "dough_filled_with_tomato_filling_and_mortadella_filling",
+            "actions": "pinch",
+            "output": "pinched_dough_to_close"
+        },
+        {
+            "instructions": "place seam side down in two buttered 23 cm circular tins or use aluminium ones if you are going to freeze them for future use .",
+            "input": "stuffed_pizza_balls",
+            "actions": "place",
+            "output": "stuffed_pizza_balls"
+        },
+        {
+            "instructions": "use the last egg_yolk to glaze the balls .",
+            "input": "(egg_yolk; stuffed_pizza_balls)",
+            "actions": "use",
+            "output": "glazed_stuffed_pizza_balls_with_egg_yolk"
+        },
+        {
+            "instructions": "bake for about 20 minutes until golden .",
+            "input": "uncooked_stuffed_pizza_balls",
+            "actions": "bake",
+            "output": "stuffed_pizza_balls"
+        }
+    ],
+    "ingredients": [
+        {
+            "text": "550 g plain flour"
+        },
+        {
+            "text": "250 ml milk (heated to body temperature)"
+        },
+        {
+            "text": "3 tablespoons olive oil"
+        },
+        {
+            "text": "1 tablespoon sugar"
+        },
+        {
+            "text": "2 teaspoons salt"
+        },
+        {
+            "text": "11 g yeast"
+        },
+        {
+            "text": "1 egg"
+        },
+        {
+            "text": "1 egg yolk (for glaze)"
+        },
+        {
+            "text": "200 g mozzarella cheese"
+        },
+        {
+            "text": "2 tomatoes"
+        },
+        {
+            "text": "fresh basil leaf"
+        },
+        {
+            "text": "200 g mortadella"
+        },
+        {
+            "text": "200 g emmenthaler cheese"
+        },
+        {
+            "text": "2 sage leaves"
+        }
+    ],
+    "recipe": [
+        {
+            "text": "Dissolve the yeast in the warm milk."
+        },
+        {
+            "text": "Mix flour,oil, sugar,egg and yeast mixture."
+        },
+        {
+            "text": "Knead by hand or use a machine until the dough comes together."
+        },
+        {
+            "text": "Add the salt now and knead further."
+        },
+        {
+            "text": "Roll into a ball and let it rise in a warm area of the kitchen."
+        },
+        {
+            "text": "Chop the tomatoes and mozzarella into little pieces and mix together."
+        },
+        {
+            "text": "Add thorn pieces of basil, a drizzle of olive oil and season."
+        },
+        {
+            "text": "Chop the mortadella and emmental and process slightly to make a semi solid paste."
+        },
+        {
+            "text": "Heat oven to 200 degrees c or 400 degreec f."
+        },
+        {
+            "text": "Cut the dough into 24 pieces and flatten with the palm of your hand or a rolling pin to form a circle about 6 inches across."
+        },
+        {
+            "text": "Fill half of with tomato filling and half with mortadella filling."
+        },
+        {
+            "text": "Hold in the palm of your hand and pinch the dough to close in the filling."
+        },
+        {
+            "text": "Place seam side down in two buttered 23cm circular tins or use aluminium ones if you are going to freeze them for future use."
+        },
+        {
+            "text": "Do not place the balls too close to each other -- they will end up touching as they rise."
+        },
+        {
+            "text": "Let the balls rise and use the last egg yolk to glaze the balls."
+        },
+        {
+            "text": "Bake for about 20 minutes until golden."
+        }
+    ]
+}

@@ -1,0 +1,103 @@
+{
+    "title": "pizza_casserole",
+    "id": "fb63ed2ac9",
+    "table": [
+        {
+            "instructions": "Bring a large pot of salted water to a boil. add pasta",
+            "input": "water",
+            "action": "bring",
+            "output": "boiling water"
+        },
+        {
+            "instructions": "add pasta",
+            "input": "pasta; boiliing water",
+            "action": "add",
+            "output": "pasta added to boiling water"
+        },
+        {
+            "instructions": "cook for 5 to 8 minutes or about 3 minutes before cooked ;",
+            "input": "pasta added to boiling water",
+            "action": "cook",
+            "output": "cooked pasta"
+        },
+        {
+            "instructions": "drain",
+            "input": "cooked pasta",
+            "action": "drain",
+            "output": "drained cooked pasta"
+        },
+        {
+            "instructions": "place noodles in a 9x13 inch baking dish .",
+            "input": "drained cooked pasta",
+            "action": "place",
+            "output": "drained cooked pasta in baking dish"
+        },
+        {
+            "instructions": "preheat oven to 400 degrees f 200 degrees c.",
+            "input": "NA",
+            "action": "preheat",
+            "output": "NA"
+        },
+        {
+            "instructions": "stir in pizza_sauce , powdered cheese packets from macaroni and cheese mix , 12 the mozzarella_cheese , 12 the parmesan_cheese , pepperoni and any other pizza_topping that you want to add .",
+            "input": "drained cooked pasta in baking dish; pizza sauce; powdered cheese packets from macaroni and cheese mix; mozzarella cheese; parmesan cheese; pepperoni; toppings",
+            "action": "stir",
+            "output": "pizza casserole mixture"
+        },
+        {
+            "instructions": "top with the remaining cheeses .",
+            "input": "pizza casserole mixture; remaining cheese",
+            "action": "top",
+            "output": "pizza casserole mixture topped with remaining cheese"
+        },
+        {
+            "instructions": "bake in preheated oven for 45 minutes or until cheese is bubbly ;",
+            "input": "uncooked pizza casserole",
+            "action": "bake",
+            "output": "baked pizza casserole"
+        },
+        {
+            "instructions": "serve .",
+            "input": "baked pizza casserole",
+            "action": "serve",
+            "output": "baked pizza casserole reasy to serve "
+        }
+    ],
+    "ingredients": [
+        {
+            "text": "2 (7.25 ounce) packages uncooked macaroni and cheese"
+        },
+        {
+            "text": "1 (14 ounce) can pizza sauce"
+        },
+        {
+            "text": "1 (8 ounce) package mozzarella cheese, shredded and divided"
+        },
+        {
+            "text": "1/4 cup grated Parmesan cheese, divided"
+        },
+        {
+            "text": "6 ounces pepperoni sausage, sliced"
+        }
+    ],
+    "recipe": [
+        {
+            "text": "Bring a large pot of lightly salted water to a boil."
+        },
+        {
+            "text": "Add pasta and cook for 5 to 8 minutes or about 3 minutes before cooked; drain and place noodles in a 9x13 inch baking dish."
+        },
+        {
+            "text": "Preheat oven to 400 degrees F (200 degrees C)."
+        },
+        {
+            "text": "Stir in pizza sauce, powdered cheese packets from macaroni and cheese mix, 1/2 the mozzarella cheese, 1/2 the Parmesan cheese, pepperoni and any other pizza toppings that you want to add."
+        },
+        {
+            "text": "Top with the remaining cheeses."
+        },
+        {
+            "text": "Bake in preheated oven for 45 minutes or until cheese is bubbly; serve."
+        }
+    ]
+}

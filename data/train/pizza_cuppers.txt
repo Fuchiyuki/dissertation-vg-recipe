@@ -1,0 +1,148 @@
+{
+    "title": "pizza_cuppers",
+    "id": "859d1dda42",
+    "table": [
+        {
+            "instructions": "spray muffin tin with cooking_spray .",
+            "input": "NA",
+            "actions": "spray",
+            "output": "NA"
+        },
+        {
+            "instructions": "preheat oven to 400 degrees .",
+            "input": "NA",
+            "actions": "preheat",
+            "output": "NA"
+        },
+        {
+            "instructions": "roll out pizza_dough on lightly floured surface .",
+            "input": "pizza_dough",
+            "actions": "roll",
+            "output": "rolled_pizza_dough"
+        },
+        {
+            "instructions": "cut dough into 12 even sized pieces .",
+            "input": "rolled_pizza_dough",
+            "actions": "cut",
+            "output": "cut_pizza_dough"
+        },
+        {
+            "instructions": "place one piece in each hole in the muffin tin",
+            "input": "cut_pizza_dough",
+            "actions": "place",
+            "output": "cut_pizza_dough"
+        },
+        {
+            "instructions": "press dough to bottom and sides to make a little cup .",
+            "input": "cut_pizza_dough",
+            "actions": "press",
+            "output": "pressed_pizza_dough"
+        },
+        {
+            "instructions": "place 1 to 2 tsps , sauce in each dough cup , spreading on bottom and on sides .",
+            "input": "(pizza_dough; sauce)",
+            "actions": "place",
+            "output": "sauce_place_in_pizza_dough"
+        },
+        {
+            "instructions": "  do not use more sauce or they will be soggy .",
+            "input": "NA",
+            "actions": "use",
+            "output": "NA"
+        },
+        {
+            "instructions": "add toppings of your choice cut up pepperoni , small pieces of italian_sausage , vegetables , etc .",
+            "input": "(toppings; pizza_base)",
+            "actions": "add",
+            "output": "toppings added to pizza base"
+        },
+        {
+            "instructions": "divide cheese evenly over all 12 cups , sprinkling on top .",
+            "input": "(cheese; toppings added to pizza base)",
+            "actions": "divide",
+            "output": "cheese_divided_among_pizza_bases"
+        },
+        {
+            "instructions": "bake in preheated 400 degree oven use time listed on pizza_dough to check for doneness .",
+            "input": "uncooked pizza cuppers",
+            "actions": "bake",
+            "output": "baked pizza cuppers"
+        },
+        {
+            "instructions": "add time as needed .",
+            "input": "NA",
+            "actions": "add",
+            "output": "NA"
+        },
+        {
+            "instructions": "serve with extra sauce if desired .",
+            "input": "(extra sauce; baked pizza cuppers)",
+            "actions": "serve",
+            "output": "baked pizza cuppers served with extra sauce"
+        }
+    ],
+    "ingredients": [
+        {
+            "text": "1 pillsbury all ready pizza dough"
+        },
+        {
+            "text": "1 (8 ounce) can prepared pizza sauce"
+        },
+        {
+            "text": "2 cups mozzarella cheese, shredded"
+        },
+        {
+            "text": "pepperoni or Italian sausage, for topping or vegetables, of your choice for topping"
+        }
+    ],
+    "recipe": [
+        {
+            "text": "Spray muffin tin with cooking spray."
+        },
+        {
+            "text": "preheat oven to 400 degrees."
+        },
+        {
+            "text": "Roll out pizza dough on lightly floured surface."
+        },
+        {
+            "text": "cut dough into 12 even sized pieces."
+        },
+        {
+            "text": "place one piece in each hole in the muffin tin and press dough to bottom and sides to make a little cup."
+        },
+        {
+            "text": "Place 1 to 2 tsps sauce in each dough cup, spreading on bottom and on sides."
+        },
+        {
+            "text": "(Do not use more sauce or they will be soggy.)"
+        },
+        {
+            "text": "You will have sauce left over!"
+        },
+        {
+            "text": "Add toppings of your choice: cut up pepperoni, small pieces of italian sausage, vegetables, etc."
+        },
+        {
+            "text": "Divide cheese evenly over all 12 cups, sprinkling on top."
+        },
+        {
+            "text": "Bake in preheated 400 degree oven - use time listed on pizza dough to check for doneness."
+        },
+        {
+            "text": "Add time as needed."
+        },
+        {
+            "text": "Sides of dough cups should be lightly browned and cheese and sauce should be bubbly hot."
+        },
+        {
+            "text": "Allow to cool a bit before removing from pan (just a few minutes)."
+        },
+        {
+            "text": "Serve with extra sauce if desired."
+        },
+        {
+            "text": "Enjoy!"
+        }
+    ]
+}

@@ -1,0 +1,169 @@
+{
+    "title": "brownie_pizza",
+    "id": "f47f4bbcf8",
+    "table": [
+        {
+            "instructions": "coat a 12 inch , pizza\u2012pan with nonstick cooking_spray ;",
+            "input": "NA",
+            "action": "coat",
+            "output": "NA"
+        },
+        {
+            "instructions": "set aside .",
+            "input": "NA",
+            "action": "set",
+            "output": "NA"
+        },
+        {
+            "instructions": "in a small bowl , combine chocolate_chip , coconut and nuts ;",
+            "input": "(chocolate_chip; coconut; nuts)",
+            "action": "combine",
+            "output": "combined_chocolate_chip, coconut and nuts"
+        },
+        {
+            "instructions": "set aside .",
+            "input": "combined_chocolate_chip, coconut and nuts",
+            "action": "set",
+            "output": "combined_chocolate_chip, coconut and nuts"
+        },
+        {
+            "instructions": "in a saucepan , melt the chocolate_chip in the margarine over medium low to low heat ;",
+            "input": "combined_chocolate_chip, coconut and nuts; margarine",
+            "action": "melt",
+            "output": "melted chocolate_chip mixture"
+        },
+        {
+            "instructions": "cool slightly .",
+            "input": "melted chocolate_chip mixture",
+            "action": "cool",
+            "output": "slightly cooled melted chocolate_chip mixture"
+        },
+        {
+            "instructions": "meanwhile , in a large bowl , combine the milk , baking_mix , egg_substitute and 1 teaspoon of the vanilla_extract .",
+            "input": "milk; baking_mix; egg_substitute; vanilla_extract",
+            "action": "combine",
+            "output": "batter"
+        },
+        {
+            "instructions": "fold in the chocolate mixture ;",
+            "input": "slightly cooled melted chocolate_chip mixture; batter",
+            "action": "fold",
+            "output": "melted chocolate_chip mixture folded in batter"
+        },
+        {
+            "instructions": "blend until smooth .",
+            "input": "melted chocolate_chip mixture folded in batter",
+            "action": "blend",
+            "output": "chocolate batter"
+        },
+        {
+            "instructions": "spread mixture onto prepared pan .",
+            "input": "chocolate batter",
+            "action": "spread",
+            "output": "chocolate batter"
+        },
+        {
+            "instructions": "bake at 375 for 20 25 minutes until center is set .",
+            "input": "chocolate batter",
+            "action": "bake",
+            "output": "baked brownie"
+        },
+        {
+            "instructions": "in a small bowl , beat sugar , peanut_butter , remaining vanilla_extract and milk ;",
+            "input": "beat sugar; peanut_butter; remaining vanilla_extract; milk",
+            "action": "beat",
+            "output": "peanut butter icing"
+        },
+        {
+            "instructions": "spread over cooled brownie crust .",
+            "input": "cooled brownie crust; peanut butter icing",
+            "action": "spread",
+            "output": "peanut butter icing spread on chocolate brownie crust"
+        },
+        {
+            "instructions": "top with chocolate_chip , coconut and pecans .",
+            "input": "chocolate brownie crust with peanut butter icing; chocolate chip; coconut; pecans",
+            "action": "top",
+            "output": "chocolate brownie crust with peanut butter icing topped with chocolate_chip , coconut and pecans"
+        },
+        {
+            "instructions": "slice into wedges .",
+            "input": "brownie_pizza",
+            "action": "slice",
+            "output": "ready to serve brownie_pizza"
+        }
+    ],
+    "ingredients": [
+        {
+            "text": "12 cup mini chocolate chip"
+        },
+        {
+            "text": "12 cup flaked coconut"
+        },
+        {
+            "text": "12 cup pecans, chopped"
+        },
+        {
+            "text": "1 cup semi-sweet chocolate chips"
+        },
+        {
+            "text": "14 cup reduced fat margarine"
+        },
+        {
+            "text": "1 (14 ounce) can fat-free sweetened condensed milk"
+        },
+        {
+            "text": "1 12 cups baking mix"
+        },
+        {
+            "text": "12 cup egg substitute"
+        },
+        {
+            "text": "2 12 teaspoons vanilla extract, divided"
+        },
+        {
+            "text": "1 cup confectioners' sugar"
+        },
+        {
+            "text": "13 cup creamy peanut butter"
+        },
+        {
+            "text": "3 tablespoons nonfat milk"
+        }
+    ],
+    "recipe": [
+        {
+            "text": "Coat a 12-inch pizza pan with nonstick cooking spray; set aside."
+        },
+        {
+            "text": "In a small bowl, combine chocolate chips, coconut and nuts; set aside."
+        },
+        {
+            "text": "In a saucepan, melt the chocolate chips in the margarine over medium-low to low heat; cool slightly."
+        },
+        {
+            "text": "Meanwhile, in a large bowl, combine the milk, baking mix, egg substitute and 1 teaspoon of the vanilla extract."
+        },
+        {
+            "text": "Fold in the chocolate mixture; blend until smooth."
+        },
+        {
+            "text": "Spread mixture onto prepared pan."
+        },
+        {
+            "text": "Bake at 375 for 20-25 minutes until center is set."
+        },
+        {
+            "text": "Allow to cool completely on wire rack."
+        },
+        {
+            "text": "In a small bowl, beat sugar, peanut butter, remaining vanilla extract and milk; spread over cooled brownie crust."
+        },
+        {
+            "text": "Top with chocolate chips, coconut and pecans."
+        },
+        {
+            "text": "Slice into wedges."
+        }
+    ]
+}

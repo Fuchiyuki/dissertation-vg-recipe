@@ -1,0 +1,226 @@
+{
+    "title": "loaded_baked_potato_pizza",
+    "id": "bb218c8c5d",
+    "table": [
+        {
+            "instructions": "heat oven to 375 degrees .",
+            "input": "NA",
+            "actions": "heat",
+            "output": "NA"
+        },
+        {
+            "instructions": "spray a large cookie sheet with pam .",
+            "input": "NA",
+            "actions": "spray",
+            "output": "NA"
+        },
+        {
+            "instructions": "unroll pizza_crust onto cookie sheet",
+            "input": "pizza_crust",
+            "actions": "unroll",
+            "output": "unrolled_pizza_crust"
+        },
+        {
+            "instructions": "roll into a 13x9 rectangle .",
+            "input": "pizza crust",
+            "actions": "roll",
+            "output": "shaped pizza crust"
+        },
+        {
+            "instructions": "bake 10 13 minutes or until light golden brown .",
+            "input": "pizza pizza crust",
+            "actions": "bake",
+            "output": "baked pizza crust"
+        },
+        {
+            "instructions": "set aside .",
+            "input": "baked pizza crust",
+            "actions": "set",
+            "output": "baked pizza crust"
+        },
+        {
+            "instructions": "pierce potato with fork",
+            "input": "potato",
+            "actions": "pierce",
+            "output": "pierced potato"
+        },
+        {
+            "instructions": "microwave 4 5 minutes , or until tender .",
+            "input": "pierced potato",
+            "actions": "microwave",
+            "output": "microwaved potato"
+        },
+        {
+            "instructions": "cover",
+            "input": "microwaved potato",
+            "actions": "cover",
+            "output": "covered microwaved potato"
+        },
+        {
+            "instructions": "cut into 14 cubes .",
+            "input": "microwaved potato",
+            "actions": "cut",
+            "output": "potato cubes"
+        },
+        {
+            "instructions": "in small bowl mix potato , oil , salt and pepper",
+            "input": "(potato cube; salt; oil; pepper)",
+            "actions": "mix",
+            "output": "potato mixture"
+        },
+        {
+            "instructions": "set aside .",
+            "input": "potato mixture",
+            "actions": "set",
+            "output": "potato mixture"
+        },
+        {
+            "instructions": "cook broccoli in microwave as directed on box .",
+            "input": "broccoli",
+            "actions": "cook",
+            "output": "cooked broccoli"
+        },
+        {
+            "instructions": "place in small bowl to cool slightly .",
+            "input": "cooked broccoli",
+            "actions": "place",
+            "output": "cooked broccoli"
+        },
+        {
+            "instructions": "mix sour_cream and ranch_dressing in small bowl .",
+            "input": "(sour cream; ranch dressing)",
+            "actions": "mix",
+            "output": "sour cream mixture"
+        },
+        {
+            "instructions": "spread on pizza_crust",
+            "input": "(sour cream mixture; baked pizza crust)",
+            "actions": "spread",
+            "output": "sour cream mixture spread on pizza crust"
+        },
+        {
+            "instructions": "sprinkle 12 cup of cheese over top .",
+            "input": "(cheese; pizza crust with sour cream mixture)",
+            "actions": "sprinkle",
+            "output": "cheese sprinkled over pizza crust with sour cream mixture"
+        },
+        {
+            "instructions": "sprinkle with bacon .",
+            "input": "(bacon; pizza crust with cheese and sour cream mixture)",
+            "actions": "sprinkle",
+            "output": "sprinkling bacon on pizza crust with cheese and sour cream mixture"
+        },
+        {
+            "instructions": "spread broccoli and potatoes over bacon .",
+            "input": "(cooked potato; cooked broccoli; uncooked bacon pizza)",
+            "actions": "spread",
+            "output": "potato and broccoli spread over uncooked bacon pizza"
+        },
+        {
+            "instructions": "top with tomatoes , onions , and remanining cheese .",
+            "input": "(tomatoes; onion; remaining cheese; uncooked pizza with bacon, potato and broccoli)",
+            "actions": "top",
+            "output": "uncooked pizza topped with tomato, onion and remaining cheese"
+        },
+        {
+            "instructions": "bake 15 20 min or until crust is brown and cheese is melted .",
+            "input": "uncooked loaded baked potato pizza",
+            "actions": "bake",
+            "output": "baked loaded baked potato pizza"
+        }
+    ],
+    "ingredients": [
+        {
+            "text": "1 (13 7/8 ounce) canpillsbury refridgerated prepared pizza crust"
+        },
+        {
+            "text": "1 medium white potato"
+        },
+        {
+            "text": "1 tablespoon olive oil"
+        },
+        {
+            "text": "14 teaspoon salt"
+        },
+        {
+            "text": "14 teaspoon pepper"
+        },
+        {
+            "text": "1 (10 ounce) boxfrozen frozen cut broccoli in cheese sauce"
+        },
+        {
+            "text": "23 cup sour cream"
+        },
+        {
+            "text": "1 tablespoon ranch dressing"
+        },
+        {
+            "text": "1 cup colby-monterey jack cheese, shredded"
+        },
+        {
+            "text": "5 slices cooked bacon, crumbled"
+        },
+        {
+            "text": "1 small tomatoes, seeded and chopped"
+        },
+        {
+            "text": "2 green onions, chopped"
+        }
+    ],
+    "recipe": [
+        {
+            "text": "Heat oven to 375 degrees ."
+        },
+        {
+            "text": "Spray a large cookie sheet with Pam."
+        },
+        {
+            "text": "Unroll pizza crust onto cookie sheet and roll into a 13x9 rectangle."
+        },
+        {
+            "text": "Bake 10-13 minutes or until light golden brown."
+        },
+        {
+            "text": "Set aside."
+        },
+        {
+            "text": "Pierce potato with fork and microwave 4-5 minutes, or until tender."
+        },
+        {
+            "text": "Cover, let stand 5 minutes."
+        },
+        {
+            "text": "When cool enough to handle, peel and cut into 1/4\" cubes."
+        },
+        {
+            "text": "In small bowl mix potato, oil, salt & pepper and set aside."
+        },
+        {
+            "text": "Cook broccoli in microwave as directed on box."
+        },
+        {
+            "text": "Place in small bowl to cool slightly."
+        },
+        {
+            "text": "MIx sour cream and ranch dressing in small bowl."
+        },
+        {
+            "text": "Spread on pizza crust to within 1\" of edge."
+        },
+        {
+            "text": "Sprinkle 1/2 cup of cheese over top."
+        },
+        {
+            "text": "Sprinkle with bacon."
+        },
+        {
+            "text": "Spread broccoli and potatoes over bacon."
+        },
+        {
+            "text": "Top with tomatoes, onions, and remanining cheese."
+        },
+        {
+            "text": "Bake 15-20 min or until crust is brown and cheese is melted."
+        }
+    ]
+}

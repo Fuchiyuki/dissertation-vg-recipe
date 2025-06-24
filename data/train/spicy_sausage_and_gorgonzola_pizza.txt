@@ -1,0 +1,127 @@
+{
+    "title": "spicy_sausage_and_gorgonzola_pizza",
+    "id": "73802237e4",
+    "table": [
+        {
+            "instructions": "position rack in center of oven",
+            "input": "NA",
+            "actions": "position",
+            "output": "NA"
+        },
+        {
+            "instructions": "preheat to 425f .",
+            "input": "NA",
+            "actions": "preheat",
+            "output": "NA"
+        },
+        {
+            "instructions": "saute sausage in large skillet over medium high heat until just cooked through , breaking into 12 inch pieces with back of spoon , about 10 minutes .",
+            "input": "sausage",
+            "actions": "saute",
+            "output": "sauteed_broken_sausage"
+        },
+        {
+            "instructions": "drain off fat ;",
+            "input": "sauteed_broken_sausage",
+            "actions": "drain",
+            "output": "drained_cooked_sausage"
+        },
+        {
+            "instructions": "set sausage aside .",
+            "input": "drained_cooked_sausage",
+            "actions": "set",
+            "output": "drained_cooked_sausage"
+        },
+        {
+            "instructions": "place pizza_crust on rimless baking sheet .",
+            "input": "pizza_crust",
+            "actions": "place",
+            "output": "pizza_crust"
+        },
+        {
+            "instructions": "leaving 34 inch plain border , spread 1 cup , sauce over crust .",
+            "input": "(pizza_crust; pizza_sauce)",
+            "actions": "spread",
+            "output": "pizza_sauce_spread_over_pizza_crust"
+        },
+        {
+            "instructions": "top with 34 cup , mozzarella , 34 of basil , sausage , 12 cup gorgonzola , olives , 12 cup mozzarella , bell_pepper and 12 cup gorgonzola .",
+            "input": "(mozzarella; basil; sausage; gorgonzola; olives; pizza_crust_with_sauce)",
+            "actions": "top",
+            "output": "(pizza_crust_with_topped_withmozzarella; basil; sausage; gorgonzola and olives_)"
+        },
+        {
+            "instructions": "drizzle remaining 14 cup , sauce over .",
+            "input": "(pizza; remaining_sauce)",
+            "actions": "drizzle",
+            "output": "remaining_sauce_drizzled_over_pizza"
+        },
+        {
+            "instructions": "bake pizza until crust is crisp and topping is heated through , about 13 minutes .",
+            "input": "uncooked_pizza",
+            "actions": "bake",
+            "output": "spicy_sausage_and_gorgonzola_pizza"
+        },
+        {
+            "instructions": "sprinkle with remaining basil .",
+            "input": "(spicy_sausage_and_gorgonzola_pizza; basil)",
+            "actions": "sprinkle",
+            "output": "basil_sprinkled_over_spicy_sausage_and_gorgonzola_pizza"
+        }
+    ],
+    "ingredients": [
+        {
+            "text": "3 Italian hot sausages (about 12 ounces), casings removed"
+        },
+        {
+            "text": "1 10-ounce purchased fully baked thin pizza crust"
+        },
+        {
+            "text": "1 1/4 cups purchased refrigerated marinara sauce"
+        },
+        {
+            "text": "1 1/4 cups grated mozzarella cheese (about 5 ounces)"
+        },
+        {
+            "text": "1/2 cup thinly sliced fresh basil leaves"
+        },
+        {
+            "text": "1 cup crumbled Gorgonzola cheese (about 4 ounces)"
+        },
+        {
+            "text": "1/4 cup pitted Kalamata olives or other brine-cured black olives, halved"
+        },
+        {
+            "text": "4 thin rounds green bell pepper, halved"
+        }
+    ],
+    "recipe": [
+        {
+            "text": "Position rack in center of oven and preheat to 425F."
+        },
+        {
+            "text": "Saute sausage in large skillet over medium-high heat until just cooked through, breaking into 1/2-inch pieces with back of spoon, about 10 minutes."
+        },
+        {
+            "text": "Drain off fat; set sausage aside."
+        },
+        {
+            "text": "Place pizza crust on rimless baking sheet."
+        },
+        {
+            "text": "Leaving 3/4-inch plain border, spread 1 cup sauce over crust."
+        },
+        {
+            "text": "Top with 3/4 cup mozzarella, 3/4 of basil, sausage, 1/2 cup Gorgonzola, olives, 1/2 cup mozzarella, bell pepper and 1/2 cup Gorgonzola."
+        },
+        {
+            "text": "Drizzle remaining 1/4 cup sauce over."
+        },
+        {
+            "text": "Bake pizza until crust is crisp and topping is heated through, about 13 minutes."
+        },
+        {
+            "text": "Sprinkle with remaining basil."
+        }
+    ]
+}

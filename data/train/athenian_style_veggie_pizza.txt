@@ -1,0 +1,142 @@
+{
+    "title": "athenian_style_veggie_pizza",
+    "id": "1afa380dd4",
+    "table": [
+        {
+            "instructions": "cut risen dough into four or six individual balls",
+            "input": "risen dough",
+            "action": "cut",
+            "output": "cut risen dough"
+        },
+        {
+            "instructions": "roll out to 6 8 circle .",
+            "input": "pieces of risen dough",
+            "action": "roll",
+            "output": "rolled dough"
+        },
+        {
+            "instructions": "make a ridge with fingers .",
+            "input": "rolled dough",
+            "action": "make",
+            "output": "rolled pizza crusts"
+        },
+        {
+            "instructions": "lay 1 2 mozzarella slices on top of dough .",
+            "input": "(mozzarella; rolled pizza crust)",
+            "action": "lay",
+            "output": "mozzarella on uncooked pizza crust"
+        },
+        {
+            "instructions": "add the following in this order .",
+            "input": "NA",
+            "action": "add",
+            "output": "NA"
+        },
+        {
+            "instructions": "sprinkle with oregano , salt and crushed red_pepper_flake to taste .",
+            "input": "(oregano; salt; crushed red pepper flake; pizza crust with mozzarella)",
+            "action": "sprinkle",
+            "output": "oregano, salt and crushed red_pepper_flake sprinkled on pizza crust with mozzarella"
+        },
+        {
+            "instructions": "drizzle evenly with olive_oil .",
+            "input": "(seasoned uncooked pizza; olive oil)",
+            "action": "drizzle",
+            "output": "seasoned uncooked pizza drizzled with olive oil"
+        },
+        {
+            "instructions": "place on a pizza stone that has been sprinkled with a little corn , meal .",
+            "input": "uncooked pizza",
+            "action": "place",
+            "output": "uncooked pizza"
+        },
+        {
+            "instructions": "bake in a 450f preheated oven",
+            "input": "uncooked pizza",
+            "action": "bake",
+            "output": "baking pizza"
+        },
+        {
+            "instructions": "bake for 12 15 minutes .",
+            "input": "baking pizza",
+            "action": "bake",
+            "output": "baked pizza"
+        },
+        {
+            "instructions": "serve hot .",
+            "input": "baked pizza",
+            "action": "serve",
+            "output": "baked pizza"
+        }
+    ],
+    "ingredients": [
+        {
+            "text": "1 lb pizza dough"
+        },
+        {
+            "text": "10 ounces spinach, chopped and squeezed dry (frozen okay)"
+        },
+        {
+            "text": "4 ounces mushrooms, fresh and sliced thin"
+        },
+        {
+            "text": "6 ounces feta cheese, crumbled"
+        },
+        {
+            "text": "12 lb mozzarella cheese, thinly sliced"
+        },
+        {
+            "text": "1 large tomatoes, thinly sliced"
+        },
+        {
+            "text": "1 medium red onion, thinly sliced"
+        },
+        {
+            "text": "1 teaspoon oregano, dried"
+        },
+        {
+            "text": "2 tablespoons cornmeal, finely ground"
+        },
+        {
+            "text": "1 pinch salt"
+        },
+        {
+            "text": "1 pinch crushed red pepper flakes"
+        },
+        {
+            "text": "olive oil, for drizzling"
+        }
+    ],
+    "recipe": [
+        {
+            "text": "Cut risen dough into four or six individual balls and roll out to 6-8\" circle."
+        },
+        {
+            "text": "Make a ridge with fingers."
+        },
+        {
+            "text": "Lay 1-2 mozzarella slices on top of dough."
+        },
+        {
+            "text": "Add the following in this order:."
+        },
+        {
+            "text": "Crumbled Feta cheese, spinach, sliced mushrooms, sliced red onion, sliced fresh tomato."
+        },
+        {
+            "text": "Sprinkle with oregano, salt and crushed red pepper flakes to taste."
+        },
+        {
+            "text": "Drizzle evenly with olive oil."
+        },
+        {
+            "text": "Place on a pizza stone that has been sprinkled with a little corn meal."
+        },
+        {
+            "text": "Bake in a 450F preheated oven and bake for 12-15 minutes."
+        },
+        {
+            "text": "Serve hot."
+        }
+    ]
+}

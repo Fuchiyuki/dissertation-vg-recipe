@@ -1,0 +1,118 @@
+{
+    "title": "easy_garlic_bread_pizzas",
+    "id": "719dc9c670",
+    "table": [
+        {
+            "instructions": "heat oven to 400 degrees , lightly grease pizza\u2012pan or stone with cooking_spray .",
+            "input": "NA",
+            "action": "heat",
+            "output": "NA"
+        },
+        {
+            "instructions": "unroll dough on pan .",
+            "input": "dough",
+            "action": "unroll",
+            "output": "unrolled_dough"
+        },
+        {
+            "instructions": "starting at center , press out dough to edge of pan .",
+            "input": "unrolled_dough",
+            "action": "press",
+            "output": "pressed pizza dough"
+        },
+        {
+            "instructions": "lightly spray dough with olive_oil , cooking_spray .",
+            "input": "(oil; pressed pizza dough)",
+            "action": "spray",
+            "output": "oiled pressed pizza dough"
+        },
+        {
+            "instructions": "sprinkle asiago , cheese on garlic_salt over dough .",
+            "input": "(asiago; cheese; garlic salt; oiled pressed pizza dough)",
+            "action": "sprinkle",
+            "output": "oiled pizza crust with asiago , cheese on garlic_salt"
+        },
+        {
+            "instructions": "bake 8 10 minutes or until ightly browned .",
+            "input": "oiled pizza crust with asiago , cheese on garlic_salt",
+            "action": "bake",
+            "output": "baked cheese pizza"
+        },
+        {
+            "instructions": "spread ranch_dressing",
+            "input": "(ranch dressing; baked cheese pizza)",
+            "action": "spread",
+            "output": "baked cheese pizza with ranch dressing"
+        },
+        {
+            "instructions": "top with chicken , bell_pepper , onion , and spinach .",
+            "input": "(baked cheese pizza with ranch dressing; chicken; bell pepper; onion; spinach)",
+            "action": "top",
+            "output": "baked cheese pizza with ranch dressing, chicken , bell_pepper , onion , and spinach"
+        },
+        {
+            "instructions": "sprinkle italian_cheese_blend and pizza_seasoning over top .",
+            "input": "(italian_cheese_blend; pizza seasoning; baked cheese pizza with ranch dressing, chicken , bell_pepper , onion , and spinach)",
+            "action": "sprinkle",
+            "output": "baked cheese pizza with ranch dressing, chicken , bell_pepper , onion , spinach, italian cheese blend and pizza seasoning"
+        },
+        {
+            "instructions": "bake 9 12 minutes longer or until cheese is melted and pizza is hot .",
+            "input": "baked cheese pizza with ranch dressing, chicken , bell_pepper , onion , spinach, italian cheese blend and pizza seasoning",
+            "action": "bake",
+            "output": "baked garlic bread pizza"
+        },
+        {
+            "instructions": "cut into wedges .",
+            "input": "baked garlic bread pizza",
+            "action": "cut",
+            "output": "sliced baked garlic bread pizza"
+        }
+    ],
+    "ingredients": [
+        {
+            "text": "1 (11 1/4 ounce) packagefrozen garlic bread"
+        },
+        {
+            "text": "12 cup pizza sauce (Papa John's Pizza Sauce)"
+        },
+        {
+            "text": "1 (6 ounce) package turkey pepperoni"
+        },
+        {
+            "text": "2 cups mozzarella cheese, finely shredded"
+        }
+    ],
+    "recipe": [
+        {
+            "text": "1) Preheat oven to 425 degrees F. Line cookie sheet with non-stick foil."
+        },
+        {
+            "text": "2) Cook garlic bread for 7 to 8 minutes, then flip garlic bread and cook an additioinal 2 to 3 minutes."
+        },
+        {
+            "text": "(just depends on package directions)."
+        },
+        {
+            "text": "3) Once cooked, pull out of oven."
+        },
+        {
+            "text": "Turn oven to Broil."
+        },
+        {
+            "text": "Top with pizza sauce, pepperoni, and cheese."
+        },
+        {
+            "text": "4) Broil pizzas for 2 minutes until cheese is melted."
+        },
+        {
+            "text": "If it goes for longer will burn them."
+        },
+        {
+            "text": "5) Once done, let cool off for a few minues."
+        },
+        {
+            "text": "Then enjoy!"
+        }
+    ]
+}

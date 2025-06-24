@@ -1,0 +1,115 @@
+{
+    "title": "dyck_family_pizza_dough",
+    "id": "4a02e694ce",
+    "table": [
+        {
+            "instructions": "combine sugar with yeast and warm_water",
+            "input": "(sugar; warm_water; yeast)",
+            "action": "combine",
+            "output": "yeast mixture"
+        },
+        {
+            "instructions": "combine dry ingredients .",
+            "input": "(whole wheat flour; white flour; salt)",
+            "action": "combine",
+            "output": "dry_ingredients"
+        },
+        {
+            "instructions": "mix in the oil , beer , and yeast mixture .",
+            "input": "(oil; beer; yeast_mixture; dry ingredients)",
+            "action": "mix",
+            "output": "dough"
+        },
+        {
+            "instructions": "knead the dough well , adding flour as needed until the dough is no longer sticky",
+            "input": "dough",
+            "action": "knead",
+            "output": "kneaded_dough"
+        },
+        {
+            "instructions": "i usually stick it into a slightly warmed oven no more than 100f covered with a clean tea towel .",
+            "input": "knead_dough",
+            "action": "stick",
+            "output": "risen_dough"
+        },
+        {
+            "instructions": "grate cheese for the pizza .",
+            "input": "(cheese; pizza dough)",
+            "action": "grate",
+            "output": "grated_cheese on pizza dough"
+        },
+        {
+            "instructions": "bake in a hot oven 375 400f for about 10 minutes or until the cheese in golden brown and the underneath of the crust is golden brown .",
+            "input": "uncooked pizza",
+            "action": "bake",
+            "output": "baked pizza"
+        },
+        {
+            "instructions": "slice",
+            "input": "baked pizza",
+            "action": "slice",
+            "output": "pizza_slice"
+        }
+    ],
+    "ingredients": [
+        {
+            "text": "1 12 cups beer"
+        },
+        {
+            "text": "34 cup warm water"
+        },
+        {
+            "text": "14 cup oil"
+        },
+        {
+            "text": "3 cups whole wheat flour"
+        },
+        {
+            "text": "2 12 cups white flour"
+        },
+        {
+            "text": "2 tablespoons yeast"
+        },
+        {
+            "text": "1 tablespoon salt"
+        },
+        {
+            "text": "1 tablespoon sugar"
+        }
+    ],
+    "recipe": [
+        {
+            "text": "Combine sugar with yeast and warm water, allow to sit until frothy, about 5-7 minutes."
+        },
+        {
+            "text": "Combine dry ingredients."
+        },
+        {
+            "text": "Mix in the oil, beer, and yeast mixture."
+        },
+        {
+            "text": "Knead the dough well, adding flour as needed until the dough is no longer sticky but is still soft and pliable."
+        },
+        {
+            "text": "Allow the dough to rise in a warm place."
+        },
+        {
+            "text": "I usually stick it into a slightly warmed oven (no more than 100F) covered with a clean tea towel."
+        },
+        {
+            "text": "Allow to rise for whatever amount of time you have, I usually let it rise just as long as it takes me to cut toppings and grate cheese for the pizza."
+        },
+        {
+            "text": "Role the dough for your pizza pans, your dough should be about 1/2cm (1/4\") thick."
+        },
+        {
+            "text": "Allow to rise on the pans for about 10-20 minutes before topping your pizzas."
+        },
+        {
+            "text": "Bake in a hot oven (375-400F) for about 10 minutes or until the cheese in golden brown and the underneath of the crust is golden brown."
+        },
+        {
+            "text": "Slice and enjoy."
+        }
+    ]
+}

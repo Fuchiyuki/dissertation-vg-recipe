@@ -1,0 +1,169 @@
+{
+    "title": "slow-cooker_deep-dish_pizza",
+    "id": "722c43afa1",
+    "table": [
+        {
+            "instructions": "preheat the slow\u2012cooker on high for 20 minutes .",
+            "input": "NA",
+            "actions": "preheat",
+            "output": "NA"
+        },
+        {
+            "instructions": "spray the insert with nonstick cooking_spray .",
+            "input": "NA",
+            "actions": "spray",
+            "output": "NA"
+        },
+        {
+            "instructions": "on a clean surface , stretch the dough",
+            "input": "dough",
+            "actions": "stretch",
+            "output": "stretched dough"
+        },
+        {
+            "instructions": "roll",
+            "input": "stretched dough",
+            "actions": "roll",
+            "output": "rolled dough"
+        },
+        {
+            "instructions": "form the dough into roughly the same shape as the slow\u2012cooker insert .",
+            "input": "rolled dough",
+            "actions": "form",
+            "output": "formed_pizza crust"
+        },
+        {
+            "instructions": "place in the cooker",
+            "input": "formed_pizza crust",
+            "actions": "place",
+            "output": "formed_pizza crust"
+        },
+        {
+            "instructions": "spread out if necessary .",
+            "input": "formed_pizza crust",
+            "actions": "spread",
+            "output": "spread_pizza crust"
+        },
+        {
+            "instructions": "cook on high , uncovered , for 1 hour without toppings .",
+            "input": "spread_pizza crust",
+            "actions": "cook",
+            "output": "baked pizza crust"
+        },
+        {
+            "instructions": "place 1 more slice to cover the empty spot in the middle , if necessary .",
+            "input": "baked pizza crust",
+            "actions": "place",
+            "output": "baked pizza crust"
+        },
+        {
+            "instructions": "follow with a small layer of the pizza_sauce .",
+            "input": "(baked pizza crust; pizza_sauce)",
+            "actions": "follow",
+            "output": "layer of pizza sauce on pizza crust"
+        },
+        {
+            "instructions": "sprinkle with the parmesan .",
+            "input": "(pizza crust with pizza sauce; parmesan)",
+            "actions": "sprinkle",
+            "output": "parmesan sprinkled on pizza crust with pizza sauce"
+        },
+        {
+            "instructions": "cook on high until the cheesy crust is dark and caramelized and the bottom is firm",
+            "input": "uncooked pizza",
+            "actions": "cook",
+            "output": "cooked pizza"
+        },
+        {
+            "instructions": "brown , another hour .",
+            "input": "cooked pizza",
+            "actions": "brown",
+            "output": "browned cooked pizza"
+        },
+        {
+            "instructions": "carefully take out of the slow\u2012cooker using a spatula .",
+            "input": "browned cooked pizza",
+            "actions": "take",
+            "output": "browned cooked pizza"
+        },
+        {
+            "instructions": "garnish with the basil and crushed_red_pepper .",
+            "input": "(cooked deep dish pizza; basil; crushed_red_pepper)",
+            "actions": "garnish",
+            "output": "ked deep dish pizza garnished with basil and crushed red pepper"
+        }
+    ],
+    "ingredients": [
+        {
+            "text": "Nonstick cooking spray, for spraying the slow cooker insert"
+        },
+        {
+            "text": "8 ounces prepared pizza dough (if refrigerated, let it rise in an oiled bowl for 2 hours)"
+        },
+        {
+            "text": "8 ounces sliced (not grated) mozzarella cheese"
+        },
+        {
+            "text": "8 ounces thinly sliced pepperoni, preferably sandwich size"
+        },
+        {
+            "text": "1/2 cup store-bought pizza sauce"
+        },
+        {
+            "text": "1 tablespoon grated Parmesan"
+        },
+        {
+            "text": "6 fresh basil leaves, cut into chiffonade"
+        },
+        {
+            "text": "Pinch crushed red pepper"
+        }
+    ],
+    "recipe": [
+        {
+            "text": "Preheat the slow cooker on high for 20 minutes."
+        },
+        {
+            "text": "Spray the insert with nonstick cooking spray."
+        },
+        {
+            "text": "On a clean surface, stretch, roll and form the dough into roughly the same shape as the slow cooker insert."
+        },
+        {
+            "text": "The goal is a nice, thin crust."
+        },
+        {
+            "text": "Place in the cooker and spread out if necessary."
+        },
+        {
+            "text": "Cook on high, UNCOVERED, for 1 hour without toppings."
+        },
+        {
+            "text": "Shingle the mozzarella slices over the dough and up the sides about 1 inch above the crust."
+        },
+        {
+            "text": "Overlap each slice, moving in a clockwise circle until the perimeter is covered."
+        },
+        {
+            "text": "Place 1 more slice to cover the empty spot in the middle, if necessary."
+        },
+        {
+            "text": "Shingle a layer of pepperoni the same way you did the cheese."
+        },
+        {
+            "text": "Follow with a small layer of the pizza sauce."
+        },
+        {
+            "text": "Sprinkle with the Parmesan."
+        },
+        {
+            "text": "Cook on high until the cheesy crust is dark and caramelized and the bottom is firm and brown, another hour."
+        },
+        {
+            "text": "Carefully take out of the slow cooker using a spatula."
+        },
+        {
+            "text": "Garnish with the basil and crushed red pepper."
+        }
+    ]
+}

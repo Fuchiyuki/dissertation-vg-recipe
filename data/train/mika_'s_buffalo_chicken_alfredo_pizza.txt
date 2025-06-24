@@ -1,0 +1,88 @@
+{
+    "title": "mika_'s_buffalo_chicken_alfredo_pizza",
+    "id": "05d0812ec5",
+    "table": [
+        {
+            "instructions": "in a small bowl mix chicken cubes with buffalo_sauce",
+            "input": "(buffalo_sauce; chicken cubes)",
+            "actions": "mix",
+            "output": "mixed_buffalo_sauce and chicken cubes"
+        },
+        {
+            "instructions": "set aside .",
+            "input": "mixed_buffalo_sauce and chicken cubes",
+            "actions": "set",
+            "output": "mixed_buffalo_sauce and chicken cubes"
+        },
+        {
+            "instructions": "spread alfredo_sauce on prepared_pizza_crust",
+            "input": "(alfredo_sauce; prepared_pizza_crust)",
+            "actions": "spread",
+            "output": "alfredo_sauce on prepared_pizza_crust"
+        },
+        {
+            "instructions": "top with 12 the mozzarella_cheese .",
+            "input": "(mozzarella_cheese; prepared_pizza_crust with alfredo sauce)",
+            "actions": "top",
+            "output": "prepared_pizza_crust with alfredo_sauce topped with mozzarella_cheese"
+        },
+        {
+            "instructions": "top with chicken cubes sprinkle on any sauce remaining in the bowl , onions , mushrooms , black_olive and cilantro .",
+            "input": "(mixed_buffalo_sauce and chicken cubes; onions; mushrooms; black_olive; cilantro)",
+            "actions": "top",
+            "output": "prepared_pizza_crust topped with mixed_buffalo_sauce and chicken cubes, onions, mushrooms, black_olive and cilantro"
+        },
+        {
+            "instructions": "bake at 425 for about 15 minutes or until crust is brown .",
+            "input": "uncooked buffalo chicken alfredo pizza",
+            "actions": "bake",
+            "output": "Baked pizza buffalo chicken alfredo pizza"
+        }
+    ],
+    "ingredients": [
+        {
+            "text": "1 mama mary's prepared pizza crust"
+        },
+        {
+            "text": "6 tablespoons ragu light alfredo sauce with parmesan cheese (or eyeball it till it looks like enough to cover crust)"
+        },
+        {
+            "text": "8 ounces mozzarella cheese, grated"
+        },
+        {
+            "text": "1 (6 ounce) packagetyson oven roasted diced chicken breasts"
+        },
+        {
+            "text": "6 tablespoons franks redhot buffalo wing sauce"
+        },
+        {
+            "text": "1 (4 ounce) can mushrooms"
+        },
+        {
+            "text": "1 (2 1/4 ounce) can black olives, sliced"
+        },
+        {
+            "text": "12 sweet onion, minced"
+        },
+        {
+            "text": "4 tablespoons cilantro, chopped"
+        }
+    ],
+    "recipe": [
+        {
+            "text": "In a small bowl mix chicken cubes with Buffalo sauce and set aside."
+        },
+        {
+            "text": "Spread Alfredo sauce on prepared pizza crust and top with 1/2 the mozzarella cheese."
+        },
+        {
+            "text": "Top with chicken cubes (sprinkle on any sauce remaining in the bowl), onions, mushrooms, black olives and cilantro."
+        },
+        {
+            "text": "Finish with the rest of the cheese."
+        },
+        {
+            "text": "Bake at 425 for about 15 minutes or until crust is brown."
+        }
+    ]
+}

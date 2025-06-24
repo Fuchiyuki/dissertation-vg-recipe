@@ -1,0 +1,139 @@
+{
+    "title": "pizza_squares",
+    "id": "868dc9aaad",
+    "table": [
+        {
+            "instructions": "preheat oven to 200 degrees celcius .",
+            "input": "NA",
+            "actions": "preheat",
+            "output": "NA"
+        },
+        {
+            "instructions": "take out the metal oven rack ,",
+            "input": "NA",
+            "actions": "take",
+            "output": "NA"
+        },
+        {
+            "instructions": "line with baking paper .",
+            "input": "NA",
+            "actions": "line",
+            "output": "NA"
+        },
+        {
+            "instructions": "slightly thaw the puff_pastry , cut into 16 squares .",
+            "input": "puff_pastry",
+            "actions": "thaw",
+            "output": "thawed_and_cut_puff_pastry"
+        },
+        {
+            "instructions": "place puff_pastry squares onto the oven rack .",
+            "input": "thawed_and_cut_puff_pastry",
+            "actions": "place",
+            "output": "prepared_squares_of_thawed_puff_pastry"
+        },
+        {
+            "instructions": "spread tomato_paste with a butter knife onto the squares .",
+            "input": "(tomato_paste; prepared_squares_of_thawed_puff_pastry)",
+            "actions": "spread",
+            "output": "tomato_paste_spread_on_puff_pastry_squares"
+        },
+        {
+            "instructions": "place one of the salami quarters onto every square .",
+            "input": "(salami_quartes; puff_pastry_squares with tomato paste)",
+            "actions": "place",
+            "output": "salami_arranged_on_puff_pastry"
+        },
+        {
+            "instructions": "add three olive thirds onto every square .",
+            "input": "(olives; puff_pastry_squares with salami and tomato paste)",
+            "actions": "add",
+            "output": "olives_arranged_on_puff_pastry_with_tomato_paste and salami"
+        },
+        {
+            "instructions": "sprinkle grated cheese onto squares .",
+            "input": "(grated_cheese; puff_pastry_with_tomato_paste, salami and olives)",
+            "actions": "sprinkle",
+            "output": "grated_cheese_spread_on_puff_pastry_pizza"
+        },
+        {
+            "instructions": "  optional also sprinkle dried herbs .",
+            "input": "dried_herbs",
+            "actions": "sprinkle",
+            "output": "dried_herbs_optionally_spread_on_puff_pastry_pizzas"
+        },
+        {
+            "instructions": "place oven rack back into the oven",
+            "input": "dried_herbs_optionally_spread_on_puff_pastry_pizzas",
+            "actions": "place",
+            "output": "dried_herbs_optionally_spread_on_puff_pastry_pizzas"
+        },
+        {
+            "instructions": "bake for 20 minutes , or until the puff_pastry in cooked .",
+            "input": "dried_herbs_optionally_spread_on_puff_pastry_pizzas",
+            "actions": "bake",
+            "output": "cooked_puff_pastry_pizza_squares"
+        },
+        {
+            "instructions": "cool for 10 minutes before serving .",
+            "input": "cooked_puff_pastry_pizza_squares",
+            "actions": "cool",
+            "output": "cooled_cooked_puff_pastry_pizza_squares"
+        }
+    ],
+    "ingredients": [
+        {
+            "text": "1 sheet puff pastry"
+        },
+        {
+            "text": "2 tablespoons tomato paste"
+        },
+        {
+            "text": "12 cup cheese, grated"
+        },
+        {
+            "text": "4 slices mild salami, cut into quarters"
+        },
+        {
+            "text": "16 stuffed green olives, cut into thirds"
+        },
+        {
+            "text": "dried herbs (optional)"
+        }
+    ],
+    "recipe": [
+        {
+            "text": "Preheat oven to 200 degrees Celcius."
+        },
+        {
+            "text": "Take out the metal oven rack, and line with baking paper."
+        },
+        {
+            "text": "Slightly thaw the puff pastry, cut into 16 squares."
+        },
+        {
+            "text": "Place puff pastry squares onto the oven rack."
+        },
+        {
+            "text": "Spread tomato paste with a butter knife onto the squares."
+        },
+        {
+            "text": "Place one of the salami quarters onto every square."
+        },
+        {
+            "text": "Add three olive thirds onto every square."
+        },
+        {
+            "text": "Sprinkle grated cheese onto squares."
+        },
+        {
+            "text": "(optional) Also sprinkle dried herbs."
+        },
+        {
+            "text": "Place oven rack back into the oven, bake for 20 minutes, or until the puff pastry in cooked."
+        },
+        {
+            "text": "Cool for 10 minutes before serving."
+        }
+    ]
+}

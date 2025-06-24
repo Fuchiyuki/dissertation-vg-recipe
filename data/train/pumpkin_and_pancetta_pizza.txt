@@ -1,0 +1,112 @@
+{
+    "title": "pumpkin_and_pancetta_pizza",
+    "id": "dd6331e03c",
+    "table": [
+        {
+            "instructions": "place the pumpkin on a paper lined baking tray",
+            "input": "pumpkin",
+            "actions": "place",
+            "output": "pumpkin"
+        },
+        {
+            "instructions": "spray with oil .",
+            "input": "pumpkin",
+            "actions": "spray",
+            "output": "pumpkin_with_oil"
+        },
+        {
+            "instructions": "bake in a hot oven 200c for 2530 minutes or until just cooked through .",
+            "input": "pumpkin_with_oil",
+            "actions": "bake",
+            "output": "baked_pumpkin"
+        },
+        {
+            "instructions": "roll out the pizza_dough on a floured surface to form a 24 cm x 24 cm square pizza , base .",
+            "input": "pizza_dough",
+            "actions": "roll",
+            "output": "rolled_pizza_dough_base"
+        },
+        {
+            "instructions": "spread the tomato_paste evenly over the base .",
+            "input": "rolled_pizza_dough_base",
+            "actions": "spread",
+            "output": "tomato_paste_spread_on_base"
+        },
+        {
+            "instructions": "top with pumpkin , pancetta , philly , pine nuts and thyme .",
+            "input": "tomato_paste_spread_on_base",
+            "actions": "top",
+            "output": "toppings_added"
+        },
+        {
+            "instructions": "spray lightly with oil .",
+            "input": "top_toppings_added",
+            "actions": "spray",
+            "output": "lightly sprayed_with_oil"
+        },
+        {
+            "instructions": "bake the pizza in a hot oven 200c for 1015 minutes or until cooked through .",
+            "input": "sprayed_with_oil",
+            "actions": "bake",
+            "output": "baked_pizza"
+        },
+        {
+            "instructions": "serve immediately .",
+            "input": "baked_pizza",
+            "actions": "serve",
+            "output": "served_immediately"
+        }
+    ],
+    "ingredients": [
+        {
+            "text": "300 g jap or butternut pumpkin, cut into 1cm thick slices"
+        },
+        {
+            "text": "olive oil spray"
+        },
+        {
+            "text": "1 quantity Pizza Dough"
+        },
+        {
+            "text": "2 tablespoons tomato paste"
+        },
+        {
+            "text": "6-8 slices pancetta"
+        },
+        {
+            "text": "125 g PHILADELPHIA Light Cream Cheese, broken into pieces"
+        },
+        {
+            "text": "2 tablespoons pine nuts"
+        },
+        {
+            "text": "1 tablespoon thyme leaves"
+        }
+    ],
+    "recipe": [
+        {
+            "text": "PLACE the pumpkin on a paper lined baking tray and spray with oil."
+        },
+        {
+            "text": "Bake in a hot oven 200C for 2530 minutes or until just cooked through."
+        },
+        {
+            "text": "ROLL out the pizza dough on a floured surface to form a 24cm x 24cm square pizza base."
+        },
+        {
+            "text": "SPREAD the tomato paste evenly over the base."
+        },
+        {
+            "text": "Top with pumpkin, pancetta, PHILLY, pine nuts and thyme."
+        },
+        {
+            "text": "Spray lightly with oil."
+        },
+        {
+            "text": "Bake the pizza in a hot oven 200C for 1015 minutes or until cooked through."
+        },
+        {
+            "text": "Serve immediately."
+        }
+    ]
+}

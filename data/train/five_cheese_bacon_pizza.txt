@@ -1,0 +1,118 @@
+{
+    "title": "five_cheese_bacon_pizza",
+    "id": "9d0b11438e",
+    "table": [
+        {
+            "instructions": "heat oven to 400 degrees f .",
+            "input": "NA",
+            "action": "heat",
+            "output": "NA"
+        },
+        {
+            "instructions": "unroll pizza_dough on baking sheet sprayed with cooking_spray ;",
+            "input": "pizza_dough",
+            "action": "unroll",
+            "output": "unrolled_pizza_dough"
+        },
+        {
+            "instructions": "press into 15x10 inch rectangle .",
+            "input": "unrolled_pizza_dough",
+            "action": "press",
+            "output": "pizza crust"
+        },
+        {
+            "instructions": "bake 10 min .",
+            "input": "pizza crust",
+            "action": "bake",
+            "output": "par-baked pizza crust"
+        },
+        {
+            "instructions": "mix mayo and 13 cup dressing until blended ;",
+            "input": "(mayonnaise; dressing)",
+            "action": "mix",
+            "output": "mayonnaise and dressing mixture"
+        },
+        {
+            "instructions": "spread onto crust .",
+            "input": "(par-baked pizza crust; mayonnaise and dressing mixture)",
+            "action": "spread",
+            "output": "mayonnaise and dressing mixture spread on par-baked pizza crust"
+        },
+        {
+            "instructions": "top with half the cheese , chicken , remaining cheese and bacon .",
+            "input": "(cheese; chicken; bacon)",
+            "action": "top",
+            "output": "pizza crust with mayonnaise and dressing mixture topped with cheese, chicken and bacon"
+        },
+        {
+            "instructions": "bake 5 min .",
+            "input": "uncooked cheese bacon pizza",
+            "action": "bake",
+            "output": "baked cheese bacon pizza"
+        },
+        {
+            "instructions": "top with lettuce and tomatoes ;",
+            "input": "(lettuce; tomatoes; baked cheese bacon pizza)",
+            "action": "top",
+            "output": "baked cheese bacon pizza topped with lettuce and tomatoes"
+        },
+        {
+            "instructions": "drizzle with remaining dressing .",
+            "input": "(remaining dressing; baked cheese bacon pizza topped with lettuce and tomatoes)",
+            "action": "drizzle",
+            "output": "remaining dressing drizzled on baked cheese bacon pizza topped with lettuce and tomatoes"
+        }
+    ],
+    "ingredients": [
+        {
+            "text": "1 can (13.8 oz.) refrigerated pizza crust"
+        },
+        {
+            "text": "1/4 cup KRAFT Mayo with Olive Oil Reduced Fat Mayonnaise"
+        },
+        {
+            "text": "1/2 cup KRAFT Three Cheese Ranch Dressing, divided"
+        },
+        {
+            "text": "1-1/2 cups KRAFT Shredded Cheddar & Monterey Jack Cheeses"
+        },
+        {
+            "text": "1-1/2 cups finely chopped cooked chicken Whole Foods 1 lb For $3.99 thru 02/09"
+        },
+        {
+            "text": "8 slices OSCAR MAYER Bacon, cooked, crumbled Rite Aid 2 For $7.00 thru 02/06"
+        },
+        {
+            "text": "1-1/2 cups finely shredded lettuce"
+        },
+        {
+            "text": "1 tomato, finely chopped King Sooper's 1 lb For $0.99 thru 02/09"
+        }
+    ],
+    "recipe": [
+        {
+            "text": "Heat oven to 400 degrees F."
+        },
+        {
+            "text": "Unroll pizza dough on baking sheet sprayed with cooking spray; press into 15x10-inch rectangle."
+        },
+        {
+            "text": "Bake 10 min."
+        },
+        {
+            "text": "Mix mayo and 1/3 cup dressing until blended; spread onto crust."
+        },
+        {
+            "text": "Top with half the cheese, chicken, remaining cheese and bacon."
+        },
+        {
+            "text": "Bake 5 min."
+        },
+        {
+            "text": "or until crust is golden brown and cheese is melted."
+        },
+        {
+            "text": "Top with lettuce and tomatoes; drizzle with remaining dressing."
+        }
+    ]
+}

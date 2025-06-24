@@ -1,0 +1,94 @@
+{
+    "title": "meat_loaf_pizza_recipe",
+    "id": "f2751f86b7",
+    "table": [
+        {
+            "instructions": "season meat with salt and garlic .",
+            "input": "(meat; salt; garlic)",
+            "action": "season",
+            "output": "seasoned meat with salt and garlic"
+        },
+        {
+            "instructions": "pat gently into a 10 inch pie plate , including rim .",
+            "input": "seasoned meat with salt and garlic",
+            "action": "pat",
+            "output": "patted meat mixture in pie plate"
+        },
+        {
+            "instructions": "bake at 425 degrees for 15 min .",
+            "input": "uncooked patted meat mixture in pie plate",
+            "action": "bake",
+            "output": "baked meat crust"
+        },
+        {
+            "instructions": "then drain .",
+            "input": "baked meat crust",
+            "action": "drain",
+            "output": "baked meat crust without excess fat"
+        },
+        {
+            "instructions": "spread on sauce , cheese and oregano .",
+            "input": "(sauce; cheese; oregano; baked meat crust without excess fat)",
+            "action": "spread",
+            "output": "baked meat crustwith sauce, cheese, and oregano topping"
+        },
+        {
+            "instructions": "bake 10 min more .",
+            "input": "(green pepper; mushrooms; onion flake; baked meat crustwith sauce, cheese, and oregano topping)",
+            "action": "bake",
+            "output": "twice-baked meatloaf pizza "
+        },
+        {
+            "instructions": "add in green_pepper , mushrooms , onion_flake before baking .",
+            "input": "twice-baked meatloaf pizza ",
+            "action": "add",
+            "output": "twice-baked meatloaf pizza "
+        }
+    ],
+    "ingredients": [
+        {
+            "text": "1 1/2 pound grnd beef or possibly veal"
+        },
+        {
+            "text": "1/2 teaspoon garlic pwdr"
+        },
+        {
+            "text": "1 c. tomato sauce"
+        },
+        {
+            "text": "1 teaspoon oregano"
+        },
+        {
+            "text": "1 teaspoon salt to taste"
+        },
+        {
+            "text": "1 teaspoon pepper to taste"
+        },
+        {
+            "text": "3 ounce. Mozzarella"
+        }
+    ],
+    "recipe": [
+        {
+            "text": "Season meat with salt and garlic."
+        },
+        {
+            "text": "Pat gently into a 10-inch pie plate, including rim."
+        },
+        {
+            "text": "Bake at 425 degrees for 15 min."
+        },
+        {
+            "text": "Then drain."
+        },
+        {
+            "text": "Spread on sauce, cheese and oregano."
+        },
+        {
+            "text": "Bake 10 min more."
+        },
+        {
+            "text": "NOTE: If you want, add in green pepper, mushrooms, onion flakes before baking."
+        }
+    ]
+}

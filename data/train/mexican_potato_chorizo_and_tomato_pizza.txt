@@ -1,0 +1,106 @@
+{
+    "title": "mexican_potato_chorizo_and_tomato_pizza",
+    "id": "a323efbf51",
+    "table": [
+        {
+            "instructions": "lay a tortilla down on an oiled baking sheet .",
+            "input": "tortilla",
+            "action": "lay",
+            "output": "tortilla"
+        },
+        {
+            "instructions": "evenly sprinkle 14 cup of the cheese over the tortilla .",
+            "input": "(tortilla; cheese)",
+            "action": "sprinkle",
+            "output": "cheese sprinkled on tortilla"
+        },
+        {
+            "instructions": "top with another tortilla",
+            "input": "(tortilla with cheese; tortilla)",
+            "action": "top",
+            "output": "tortilla with cheese topped with another tortilla"
+        },
+        {
+            "instructions": "evenly sprinkle 14 cup of the cheese over this tortilla .",
+            "input": "(tortilla with cheese topped with another tortilla; cheese )",
+            "action": "sprinkle",
+            "output": "more cheese sprinkled on tortilla with cheese topped with another tortilla"
+        },
+        {
+            "instructions": "next , arrange chiles , sausage , potatoes and tomatoes on top of the tortilla .",
+            "input": "(chiles; sausage; potatoes; tomatoes; cheesy tortilla sandwich)",
+            "action": "arrange",
+            "output": "chiles , sausage , potatoes and tomatoes on top of cheesy tortilla sandwich"
+        },
+        {
+            "instructions": "drizzle with a little olive_oil",
+            "input": "(olive oil; uncooked mexican inspired potato and tomato tortilla pizza)",
+            "action": "drizzle",
+            "output": "uncooked mexican inspired potato and tomato tortilla pizza drizzled with olive oil"
+        },
+        {
+            "instructions": "season lightly with salt .",
+            "input": "(salt; uncooked mexican inspired potato and tomato tortilla pizza)",
+            "action": "season",
+            "output": "seasoned uncooked mexican inspired potato and tomato tortilla pizza"
+        },
+        {
+            "instructions": "bake in 400 degree , f oven until potatoes start to brown",
+            "input": "uncooked mexican inspired potato and tomato tortilla pizza",
+            "action": "bake",
+            "output": "baked mexican inspired potato and tomato tortilla pizza"
+        }
+    ],
+    "ingredients": [
+        {
+            "text": "8 flour tortillas, soft, taco size"
+        },
+        {
+            "text": "2 teaspoons olive oil"
+        },
+        {
+            "text": "2 cups monterey jack cheese, grated"
+        },
+        {
+            "text": "8 red potatoes, small, cooked, diced"
+        },
+        {
+            "text": "1 cup chorizo sausage, cooked, diced 1/4 inch (may substitute Italian)"
+        },
+        {
+            "text": "1 tomatoes, diced 1/4 inch"
+        },
+        {
+            "text": "2 ounces green chilies, canned and chopped"
+        },
+        {
+            "text": "12 teaspoon salt (or to taste)"
+        }
+    ],
+    "recipe": [
+        {
+            "text": "Lay a tortilla down on an oiled baking sheet."
+        },
+        {
+            "text": "Evenly sprinkle 1/4 cup of the cheese over the tortilla."
+        },
+        {
+            "text": "Top with another tortilla and evenly sprinkle 1/4 cup of the cheese over this tortilla."
+        },
+        {
+            "text": "Next, arrange chiles, sausage, potatoes and tomatoes on top of the tortilla."
+        },
+        {
+            "text": "Drizzle with a little olive oil and season lightly with salt."
+        },
+        {
+            "text": "Repeat this process with the remaining ingredients."
+        },
+        {
+            "text": "Bake in 400 degree F oven until potatoes start to brown and tortillas are crispy, about 10 to 12 minutes."
+        },
+        {
+            "text": "Enjoy this delicious potato chorizo pizza Mexican recipe!"
+        }
+    ]
+}

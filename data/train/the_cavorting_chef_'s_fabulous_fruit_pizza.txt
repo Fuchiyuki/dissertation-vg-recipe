@@ -1,0 +1,181 @@
+{
+    "title": "the_cavorting_chef_'s_fabulous_fruit_pizza",
+    "id": "0074003424",
+    "table": [
+        {
+            "instructions": "preheat oven to 35",
+            "input": "NA",
+            "action": "preheat",
+            "output": "NA"
+        },
+        {
+            "instructions": "heat jam in the microwave or a small kettle on stove until slightly melted and drizzling consistency .",
+            "input": "jam",
+            "action": "heat",
+            "output": "heated_jam"
+        },
+        {
+            "instructions": "set aside",
+            "input": "Heated jam",
+            "action": "set",
+            "output": "Heated jam"
+        },
+        {
+            "instructions": "lightly coat a 12 , pizza\u2012pan with non stick cooking_spray .",
+            "input": "NA",
+            "action": "coat",
+            "output": "NA"
+        },
+        {
+            "instructions": "press cookie dough",
+            "input": "Cookie dough",
+            "action": "press",
+            "output": "Cookie dough pressed into the pan"
+        },
+        {
+            "instructions": "pour orange_juice into a small bowl",
+            "input": "orange juice",
+            "action": "pour",
+            "output": "Orange juice poured into a small bowl"
+        },
+        {
+            "instructions": "slice banana into orange_juice to keep from browning .",
+            "input": "(Banana; Orange juice poured into a small bowl)",
+            "action": "slice",
+            "output": "Banana slices soaked in orange juice"
+        },
+        {
+            "instructions": "set aside .",
+            "input": "Banana slices in orange juice",
+            "action": "set",
+            "output": "Banana slices in orange juice"
+        },
+        {
+            "instructions": "in a medium sized bowl , mix together cream_cheese and marshmallow cream .",
+            "input": "Cream cheese, Marshmallow cream",
+            "action": "mix",
+            "output": "Cream cheese and marshmallow cream mixed in a bowl"
+        },
+        {
+            "instructions": "spread cream_cheese mixture over cooled crust to within 12 of edge .",
+            "input": "Pressed cookie dough",
+            "action": "spread",
+            "output": "Cookie crust topped with cream cheese mixture"
+        },
+        {
+            "instructions": "drain banana slices well ,",
+            "input": "Banana slices in orange juice",
+            "action": "drain",
+            "output": "Well-drained banana slices"
+        },
+        {
+            "instructions": "arrange all fruits as desired on top of pizza .",
+            "input": "Well-drained banana slices",
+            "action": "arrange",
+            "output": "Fruits arranged on top of the Cookie crust topped with cream cheese mixture"
+        },
+        {
+            "instructions": "drizzle warm jam over fruit to glaze pizza .",
+            "input": "(Heated jam; Cookie crust topped with cream cheese mixture and banana slices)",
+            "action": "drizzle",
+            "output": "fruit pizza glazed with warm jam"
+        },
+        {
+            "instructions": "sprinkle with toasted_pecan .",
+            "input": "(toasted_pecan; fruit pizza glazed with warm jam)",
+            "action": "sprinkle",
+            "output": "fruit pizza glazed with warm jam sprinkled with toasted pecans"
+        },
+        {
+            "instructions": "sprinkle with toasted_coconut if desired .",
+            "input": "(optional toasted_coconut; fruit pizza glazed with warm jam sprinkled with toasted pecans)",
+            "action": "sprinkle",
+            "output": "fruit pizza glazed with warm jam sprinkled with toasted pecans sprinkled with optional toasted coconut"
+        }
+    ],
+    "ingredients": [
+        {
+            "text": "1 (18 ounce) package refrigerated sugar cookie dough (Like Pillsbury)"
+        },
+        {
+            "text": "1 (8 ounce) package cream cheese, softened"
+        },
+        {
+            "text": "7 ounces marshmallow creme (or marshmallow fluff)"
+        },
+        {
+            "text": "14 cup peach jam (or strawberry, or raspberry)"
+        },
+        {
+            "text": "12 cup green grape, sliced"
+        },
+        {
+            "text": "12 cup mango, diced"
+        },
+        {
+            "text": "12 cup blueberries"
+        },
+        {
+            "text": "1 large banana, sliced (sliced into 1/8 inch slices)"
+        },
+        {
+            "text": "12 cup orange juice (or lemon juice, this will be used to keep banana from browning)"
+        },
+        {
+            "text": "1 cup strawberry, sliced"
+        },
+        {
+            "text": "14 cup pecans, chopped, toasted"
+        },
+        {
+            "text": "14 cup coconut, toasted (optional)"
+        }
+    ],
+    "recipe": [
+        {
+            "text": "Preheat oven to 350."
+        },
+        {
+            "text": "Heat jam in the microwave or a small kettle on stove until slightly melted and \"drizzling\" consistency."
+        },
+        {
+            "text": "Set aside and keep warm."
+        },
+        {
+            "text": "Lightly coat a 12\" pizza pan with non-stick cooking spray."
+        },
+        {
+            "text": "Press cookie dough evenly into bottom of pan and bake for 15-20 minutes (Until very lightly browned), cool completely."
+        },
+        {
+            "text": "Pour orange juice into a small bowl and slice banana into orange juice to keep from browning."
+        },
+        {
+            "text": "Set aside."
+        },
+        {
+            "text": "In a medium sized bowl, mix together cream cheese and marshmallow cream."
+        },
+        {
+            "text": "Spread cream cheese mixture over cooled crust to within 1/2 of edge."
+        },
+        {
+            "text": "Drain Banana slices well, and arrange all fruits as desired on top of pizza."
+        },
+        {
+            "text": "Drizzle warm jam over fruit to glaze pizza."
+        },
+        {
+            "text": "Sprinkle with toasted pecans."
+        },
+        {
+            "text": "Sprinkle with toasted coconut if desired."
+        },
+        {
+            "text": "While delectably delicious as written, if you find a fruit listed is unavailable, feel free to substitute an equal amount of one of your favorites."
+        },
+        {
+            "text": "Meet the \"Cavorting Chefs\", Saturn- Our Team Captain, Brenda, Dreamgoddess, Galley Wench, katie in the UP, mama's kitchen, PanNan, Sugared Almond, & Susie Qusie."
+        }
+    ]
+}

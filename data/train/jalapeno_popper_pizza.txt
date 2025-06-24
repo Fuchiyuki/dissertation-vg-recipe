@@ -1,0 +1,160 @@
+{
+    "title": "jalapeno_popper_pizza",
+    "id": "fccbb64f40",
+    "table": [
+        {
+            "instructions": "heat skillet over medium high heat with olive_oil .",
+            "input": "olive olive_oil",
+            "action": "heat",
+            "output": "heated olive_oil"
+        },
+        {
+            "instructions": "saute onions and jalapeno for 5 10 minutes .",
+            "input": "(onions; jalapeno; heated olive_oil)",
+            "action": "saute",
+            "output": "sauteed onions and jalapeno"
+        },
+        {
+            "instructions": "take off the heat",
+            "input": "sauteed onions and jalapeno",
+            "action": "take",
+            "output": "sauteed onions and jalapeno"
+        },
+        {
+            "instructions": "set aside .",
+            "input": "sauteed onions and jalapeno",
+            "action": "set",
+            "output": "sauteed onions and jalapeno"
+        },
+        {
+            "instructions": "preheat oven to 450 degrees .",
+            "input": "NA",
+            "action": "preheat",
+            "output": "NA"
+        },
+        {
+            "instructions": "spread pizza_dough out to fit a 14 inch , pizza\u2012pan .",
+            "input": "pizza dough",
+            "action": "spread",
+            "output": "pizza crust"
+        },
+        {
+            "instructions": "spread alfredo_sauce over dough .",
+            "input": "Alfredo sauce; pizza crust",
+            "action": "spread",
+            "output": "Alfredo sauce on pizza crust"
+        },
+        {
+            "instructions": "set aside .",
+            "input": "pizza crust with alfredo sauce",
+            "action": "set",
+            "output": "pizza crust with alfredo sauce"
+        },
+        {
+            "instructions": "top pizza with sauteed onions and jalapenos , bacon and breaded chicken .",
+            "input": "sauteed onions and jalapeno; bacon; breaded chicken; pizza crust with alfredo sauce",
+            "action": "top",
+            "output": "pizza crust with alfredo sauce, sauteed onions and jalapeno, bacon and breaded chicken"
+        },
+        {
+            "instructions": "bake 15 20 minutes until cheese is bubbly and crust is golden brown .",
+            "input": "Uncooked pizza crust with alfredo sauce, sauteed onions and jalapeno, bacon and breaded chicken",
+            "action": "bake",
+            "output": "Baked jalapeno_chicken_pizza"
+        },
+        {
+            "instructions": "cool 5 minutes before slicing .",
+            "input": "Baked jalapeno_chicken_pizza",
+            "action": "cool",
+            "output": "slightly cooled and sliced Baked jalapeno_chicken_pizza"
+        }
+    ],
+    "ingredients": [
+        {
+            "text": "1 pound Prepared Pizza Dough"
+        },
+        {
+            "text": "1 cup Jarred Alfredo Sauce"
+        },
+        {
+            "text": "1 Tablespoon Olive Oil"
+        },
+        {
+            "text": "1 cup Thinly Sliced Onion"
+        },
+        {
+            "text": "1 whole Jalapeno Pepper"
+        },
+        {
+            "text": "1- 1/2 cup Cooked Breaded Chicken, Cubed"
+        },
+        {
+            "text": "4 slices Bacon, Cooked And Crumbled"
+        },
+        {
+            "text": "4 ounces, weight Cream Cheese"
+        },
+        {
+            "text": "1/2 pounds Grated Mozzarella Cheese"
+        },
+        {
+            "text": "1/4 pounds Grated Cheddar Cheese"
+        }
+    ],
+    "recipe": [
+        {
+            "text": "1."
+        },
+        {
+            "text": "Heat skillet over medium high heat with olive oil."
+        },
+        {
+            "text": "Saute onions and jalapeno for 5-10 minutes."
+        },
+        {
+            "text": "The longer you cook the jalapenos, the less heat they will have."
+        },
+        {
+            "text": "Take off the heat and set aside."
+        },
+        {
+            "text": "Preheat oven to 450 degrees."
+        },
+        {
+            "text": "2."
+        },
+        {
+            "text": "Spread pizza dough out to fit a 14 inch pizza pan."
+        },
+        {
+            "text": "Spread alfredo sauce over dough."
+        },
+        {
+            "text": "Set aside."
+        },
+        {
+            "text": "3."
+        },
+        {
+            "text": "Top pizza with sauteed onions and jalapenos, bacon and breaded chicken."
+        },
+        {
+            "text": "4."
+        },
+        {
+            "text": "Continue topping the pizza with dollops of cream cheese, grated mozzarella and cheddar cheeses."
+        },
+        {
+            "text": "5."
+        },
+        {
+            "text": "Bake 15-20 minutes until cheese is bubbly and crust is golden brown."
+        },
+        {
+            "text": "6."
+        },
+        {
+            "text": "Cool 5 minutes before slicing."
+        }
+    ]
+}

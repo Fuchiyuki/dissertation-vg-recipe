@@ -1,0 +1,118 @@
+{
+    "title": "accidental_veggie_tortilla_pizza",
+    "id": "a1fadf4450",
+    "table": [
+        {
+            "instructions": "preheat oven to 375f degrees",
+            "input": "NA",
+            "action": "preheat",
+            "output": "NA"
+        },
+        {
+            "instructions": "prepare a cookie sheet covered with tinfoil for easy cleanup .",
+            "input": "NA",
+            "action": "prepare",
+            "output": "NA"
+        },
+        {
+            "instructions": "place two tortilla on cookie sheet",
+            "input": "tortilla",
+            "action": "place",
+            "output": "tortilla"
+        },
+        {
+            "instructions": "split 14 cup mozzarella_cheese",
+            "input": "(mozzarella_cheese; tortilla)",
+            "action": "split",
+            "output": "tortilla with mozzarella_cheese"
+        },
+        {
+            "instructions": "place a second tortilla on top of the cheese sprinkled ones .",
+            "input": "(tortilla; tortilla with mozzarella_cheese)",
+            "action": "place",
+            "output": "tortilla with mozzarella_cheese topped with second tortilla"
+        },
+        {
+            "instructions": "spread half of the pizza_sauce on each tortilla , crust",
+            "input": "(pizza sauce; tortilla with mozzarella_cheese topped with second tortilla)",
+            "action": "spread",
+            "output": "pizza sauce spread on tortilla with mozzarella_cheese topped with second tortilla"
+        },
+        {
+            "instructions": "sprinkle half of the cut spinach over the sauce , then half",
+            "input": "(cut spinach; tortilla with mozzarella_cheese topped with second tortilla)",
+            "action": "sprinkle",
+            "output": "spinach sprinkled on tortilla with mozzarella_cheese topped with second tortilla"
+        },
+        {
+            "instructions": "combine the remaining mozzarella and cheddar",
+            "input": "(remaining mozzarella; cheddar)",
+            "action": "combine",
+            "output": "cheese mixture"
+        },
+        {
+            "instructions": "sprinkle half on each tortilla .",
+            "input": "(cheese mixture; tortilla with pizza sauce, spinach and mozzarella)",
+            "action": "sprinkle",
+            "output": "cheese mixture sprinkled on tortilla with pizza sauce, spinach and mozzarella"
+        },
+        {
+            "instructions": "place cookie sheet on the middle rack of preheated oven",
+            "input": "NA",
+            "action": "place",
+            "output": "NA"
+        },
+        {
+            "instructions": "bake for approximately 15 minutes or until the cheese is melted and bubbling and crust edges are brown .",
+            "input": "uncooked veggie tortilla pizza",
+            "action": "bake",
+            "output": "baked veggie tortilla pizza"
+        }
+    ],
+    "ingredients": [
+        {
+            "text": "4 (28 g) whole wheat tortillas (9 inch tortillas)"
+        },
+        {
+            "text": "12 cup part-skim mozzarella cheese, grated, divided"
+        },
+        {
+            "text": "1 (7 1/2 ounce) can pizza sauce, we like hot & spicy"
+        },
+        {
+            "text": "5 ounces fresh spinach, rolled and sliced into half inch strips"
+        },
+        {
+            "text": "12 cup sweet red pepper, diced (or your choice of colour)"
+        },
+        {
+            "text": "12 cup carrot, rough grated"
+        },
+        {
+            "text": "1 medium fresh tomato, diced"
+        },
+        {
+            "text": "12 cup cheddar cheese, grated (we like old sharp cheddar)"
+        }
+    ],
+    "recipe": [
+        {
+            "text": "Preheat oven to 375f degrees and prepare a cookie sheet covered with tinfoil for easy cleanup."
+        },
+        {
+            "text": "Place two tortilla on cookie sheet, split 1/4 cup mozzarella cheese in half and sprinkle on each tortilla, place a second tortilla on top of the cheese sprinkled ones."
+        },
+        {
+            "text": "(I found that one tortilla is a little too \"bendy\"; sprinkling the cheese between keeps them together and gives more firmess to the tortilla crust)."
+        },
+        {
+            "text": "Spread half of the pizza sauce on each tortilla crust, sprinkle half of the cut spinach over the sauce, then half of the pepper, diced tomato and grated carrot over each."
+        },
+        {
+            "text": "Combine the remaining mozzarella and cheddar and sprinkle half on each tortilla."
+        },
+        {
+            "text": "Place cookie sheet on the middle rack of preheated oven and bake for approximately 15 minutes or until the cheese is melted and bubbling and crust edges are brown."
+        }
+    ]
+}

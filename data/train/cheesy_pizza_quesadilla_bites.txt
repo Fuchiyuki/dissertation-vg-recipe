@@ -1,0 +1,103 @@
+{
+    "title": "cheesy_pizza_quesadilla_bites",
+    "id": "43423ab831",
+    "table": [
+        {
+            "instructions": "top 3 tortillas equally with pepperoni , tomatoes and cheese .",
+            "input": "(tortillas; tomatoes; cheese)",
+            "action": "top",
+            "output": "tortillas topped with tomatoes and cheese"
+        },
+        {
+            "instructions": "top with remaining tortillas .",
+            "input": "(tortillas topped with tomatoes and cheese; remaining tortillas)",
+            "action": "top",
+            "output": "uncooked quesadillas"
+        },
+        {
+            "instructions": "in 12 inch nonstick skillet , melt 1 tablespoon of the butter over medium heat ;",
+            "input": "butter",
+            "action": "melt",
+            "output": "melted butter"
+        },
+        {
+            "instructions": "rotate skillet so butter coats bottom of skillet .",
+            "input": "NA",
+            "action": "rotate",
+            "output": "NA"
+        },
+        {
+            "instructions": "cook 1 quesadilla in butter 6 to 8 minutes , turning once , until lightly browned .",
+            "input": "(uncooked quesadilla; melted butter)",
+            "action": "cook",
+            "output": "cooked quesadilla in melted butter"
+        },
+        {
+            "instructions": "remove from skillet ;",
+            "input": "cooked quesadilla in melted butter",
+            "action": "remove",
+            "output": "cooked quesadilla in melted butter"
+        },
+        {
+            "instructions": "place on cutting board .",
+            "input": "cooked quesadilla in melted butter",
+            "action": "place",
+            "output": "cooked quesadilla in melted butter"
+        },
+        {
+            "instructions": "cut each quesadilla into 16 square pieces .",
+            "input": "cooked quesadilla",
+            "action": "cut",
+            "output": "cut quesadilla bites"
+        },
+        {
+            "instructions": "serve with warmed pizza_sauce .",
+            "input": "(quesadilla bites; warmed pizza sauce)",
+            "action": "serve",
+            "output": "quesadilla bites served with warmed pizza sauce"
+        }
+    ],
+    "ingredients": [
+        {
+            "text": "6 burrito-size flour tortillas"
+        },
+        {
+            "text": "1 (3 1/2 ounce) packagesliced pepperoni"
+        },
+        {
+            "text": "1 cup shredded pizza cheese, blend"
+        },
+        {
+            "text": "3 tablespoons butter or 3 tablespoons margarine"
+        },
+        {
+            "text": "1 (8 ounce) can pizza sauce, warmed"
+        }
+    ],
+    "recipe": [
+        {
+            "text": "Top 3 tortillas equally with pepperoni, tomatoes and cheese."
+        },
+        {
+            "text": "Top with remaining tortillas."
+        },
+        {
+            "text": "In 12-inch nonstick skillet, melt 1 tablespoon of the butter over medium heat; rotate skillet so butter coats bottom of skillet."
+        },
+        {
+            "text": "Cook 1 quesadilla in butter 6 to 8 minutes, turning once, until lightly browned."
+        },
+        {
+            "text": "Remove from skillet; place on cutting board."
+        },
+        {
+            "text": "Repeat with remaining butter and quesadillas."
+        },
+        {
+            "text": "Cut each quesadilla into 16 square pieces."
+        },
+        {
+            "text": "Serve with warmed pizza sauce."
+        }
+    ]
+}

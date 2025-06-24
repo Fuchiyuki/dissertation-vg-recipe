@@ -1,0 +1,133 @@
+{
+    "title": "mock_mole_chicken_pizza",
+    "id": "ce08d2a65f",
+    "table": [
+        {
+            "instructions": "preheat oven to 42",
+            "input": "NA",
+            "actions": "preheat",
+            "output": "NA"
+        },
+        {
+            "instructions": "for sauce combine first six ingriedients in a saucepan",
+            "input": "NA",
+            "actions": "combine",
+            "output": "NA"
+        },
+        {
+            "instructions": "combine chicken , pepper , onion and olives",
+            "input": "(chicken; pepper; onion; olives)",
+            "actions": "combine",
+            "output": "(combined_chicken; pepper; onion; olives)"
+        },
+        {
+            "instructions": "mix .",
+            "input": "NA",
+            "actions": "mix",
+            "output": "NA"
+        },
+        {
+            "instructions": "spread mole_sauce over crust .",
+            "input": "mole_sauce",
+            "actions": "spread",
+            "output": "spread_mole_sauce"
+        },
+        {
+            "instructions": "spoon chicken mixture over sauce .",
+            "input": "chicken mixture",
+            "actions": "spoon",
+            "output": "chicken mixture over sauce"
+        },
+        {
+            "instructions": "arrange tomato slices over",
+            "input": "tomato slice",
+            "actions": "arrange",
+            "output": "uncooked pizza"
+        },
+        {
+            "instructions": "add cheese on top .",
+            "input": "cheese",
+            "actions": "add",
+            "output": "uncooked pizza"
+        },
+        {
+            "instructions": "bake 16 18 minutes .",
+            "input": "uncooked pizza",
+            "actions": "bake",
+            "output": "cooked pizza"
+        }
+    ],
+    "ingredients": [
+        {
+            "text": "14 cup barbecue sauce"
+        },
+        {
+            "text": "2 tablespoons semi- sweet chocolate chips"
+        },
+        {
+            "text": "2 teaspoons peanut butter"
+        },
+        {
+            "text": "14 teaspoon chili powder"
+        },
+        {
+            "text": "1 teaspoon lime juice"
+        },
+        {
+            "text": "1 small garlic clove, pressed"
+        },
+        {
+            "text": "1 plum tomato, sliced"
+        },
+        {
+            "text": "2 cups diced cooked chicken"
+        },
+        {
+            "text": "1 poblano pepper, diced"
+        },
+        {
+            "text": "14 chopped onion"
+        },
+        {
+            "text": "14 cup kalamata olive"
+        },
+        {
+            "text": "1 prebaked pizza crust"
+        },
+        {
+            "text": "1 cup shredded colby-monterey jack cheese"
+        },
+        {
+            "text": "1 tablespoon fresh cilantro"
+        }
+    ],
+    "recipe": [
+        {
+            "text": "preheat oven to 425."
+        },
+        {
+            "text": "For sauce combine first six ingriedients In a saucepan and bring to a boil."
+        },
+        {
+            "text": "stirring constantly."
+        },
+        {
+            "text": "Combine chicken, pepper,onion and olives and mix."
+        },
+        {
+            "text": "Spread Mole sauce over crust."
+        },
+        {
+            "text": "Spoon chicken mixture over sauce."
+        },
+        {
+            "text": "Arrange tomato slices over"
+        },
+        {
+            "text": "Add cheese on top."
+        },
+        {
+            "text": "Bake 16-18 minutes."
+        }
+    ]
+}

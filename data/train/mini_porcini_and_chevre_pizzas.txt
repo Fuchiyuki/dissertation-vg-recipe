@@ -1,0 +1,160 @@
+{
+    "title": "mini_porcini_and_chevre_pizzas",
+    "id": "61143006f2",
+    "table": [
+        {
+            "instructions": "combine mushrooms and 1 cup , boiling_water in small bowl ,",
+            "input": "(mushrooms; boiling_water)",
+            "action": "combine",
+            "output": "mushrooms in boiling water"
+        },
+        {
+            "instructions": "soak 30 minutes .",
+            "input": "mushrooms in boiling water",
+            "action": "soak",
+            "output": "Soaked mushrooms"
+        },
+        {
+            "instructions": "remove mushrooms with slotted spoon ,",
+            "input": "Soaked mushrooms",
+            "action": "remove",
+            "output": "(drained soaked mushrooms; soaking liquid)"
+        },
+        {
+            "instructions": "finely chop .",
+            "input": "drained soaked mushrooms",
+            "action": "chop",
+            "output": "Finely chopped soaked mushrooms"
+        },
+        {
+            "instructions": "strain liquid through sieve into saucepan .",
+            "input": "soaking mushrooms liquid",
+            "action": "strain",
+            "output": "soaking mushrooms liquid"
+        },
+        {
+            "instructions": "add chopped mushrooms and garlic to mushroom liquid ,",
+            "input": "(Finely chopped soaked mushrooms; soaking mushrooms liquid)",
+            "action": "add",
+            "output": "Finely chopped soaked mushrooms added to soaking mushrooms liquid"
+        },
+        {
+            "instructions": "reduce heat to medium ,",
+            "input": "Finely chopped soaked mushrooms added to soaking mushrooms liquid",
+            "action": "reduce",
+            "output": "cooking chopped mushrooms in mushroom liquid"
+        },
+        {
+            "instructions": "simmer 5 minutes , or until liquid is almost evaporated .",
+            "input": "cooking chopped mushrooms in mushroom liquid",
+            "action": "simmer",
+            "output": "simmered chopped mushrooms mixture"
+        },
+        {
+            "instructions": "lightly toast english_muffin .",
+            "input": "english muffin",
+            "action": "toast",
+            "output": "Lightly toasted English_muffin"
+        },
+        {
+            "instructions": "spread each muffin half with tomato_paste ,",
+            "input": "(Lightly toasted English_muffin; tomato paste)",
+            "action": "spread",
+            "output": "Lightly toasted English_muffin with tomato paste spread"
+        },
+        {
+            "instructions": "top with mushroom mixture .",
+            "input": "(Lightly toasted English_muffin with tomato paste spread; simmered chopped mushrooms mixture )",
+            "action": "top",
+            "output": "Muffin halves with tomato_paste and simmered chopped mushrooms mixture"
+        },
+        {
+            "instructions": "preheat broiler .",
+            "input": "NA",
+            "action": "preheat",
+            "output": "NA"
+        },
+        {
+            "instructions": "divide goat_cheese into 8 equal portions ,",
+            "input": "Goat_cheese",
+            "action": "divide",
+            "output": "divided goat_cheese in portions"
+        },
+        {
+            "instructions": "place one in center of each muffin half .",
+            "input": "(Muffin halves with tomato_paste and simmered chopped mushrooms mixture; divided goat_cheese in portions)",
+            "action": "place",
+            "output": "Muffin halves with tomato_paste, simmered chopped mushrooms mixture and goat cheese"
+        },
+        {
+            "instructions": "place muffins on baking sheet ,",
+            "input": "Muffin halves with tomato_paste, simmered chopped mushrooms mixture and goat cheese",
+            "action": "place",
+            "output": "Muffin halves with tomato_paste, simmered chopped mushrooms mixture and goat cheese"
+        },
+        {
+            "instructions": "broil 1 to 2 minutes , or until heated through .",
+            "input": "Muffin halves with tomato_paste, simmered chopped mushrooms mixture and goat cheese",
+            "action": "broil",
+            "output": "broiled mushrooms and goat cheese muffins"
+        },
+        {
+            "instructions": "serve immediately .",
+            "input": "broiled mushrooms and goat cheese muffins",
+            "action": "serve",
+            "output": "broiled mushrooms and goat cheese muffins ready to serve"
+        }
+    ],
+    "ingredients": [
+        {
+            "text": "1 0.5-oz. pkg. dried porcini mushrooms"
+        },
+        {
+            "text": "4 cloves garlic, minced (about 4 tsp.)"
+        },
+        {
+            "text": "4 whole-wheat English muffins, split"
+        },
+        {
+            "text": "3 Tbs. sun-dried tomato paste"
+        },
+        {
+            "text": "1 5.5-oz. pkg. fresh herb goat cheese"
+        }
+    ],
+    "recipe": [
+        {
+            "text": "Combine mushrooms and 1 cup boiling water in small bowl, and soak 30 minutes."
+        },
+        {
+            "text": "Remove mushrooms with slotted spoon, and finely chop."
+        },
+        {
+            "text": "Strain liquid through sieve into saucepan."
+        },
+        {
+            "text": "Add chopped mushrooms and garlic to mushroom liquid, and bring mixture to a boil."
+        },
+        {
+            "text": "Reduce heat to medium, and simmer 5 minutes, or until liquid is almost evaporated."
+        },
+        {
+            "text": "Lightly toast English muffins."
+        },
+        {
+            "text": "Spread each muffin half with tomato paste, and top with mushroom mixture."
+        },
+        {
+            "text": "Preheat broiler."
+        },
+        {
+            "text": "Divide goat cheese into 8 equal portions, and place one in center of each muffin half."
+        },
+        {
+            "text": "Place muffins on baking sheet, and broil 1 to 2 minutes, or until heated through."
+        },
+        {
+            "text": "Serve immediately."
+        }
+    ]
+}

@@ -1,0 +1,97 @@
+{
+    "title": "low_fat_pepperoni_pizza_on_a_flat_out",
+    "id": "1ae177e7f9",
+    "table": [
+        {
+            "instructions": "lightly spray the tortilla with pam .",
+            "input": "tortilla",
+            "actions": "spray",
+            "output": "sprayed_tortilla"
+        },
+        {
+            "instructions": "toast the tortilla in a 400 degre oven for 5 7 minutes .",
+            "input": "Sprayed tortilla",
+            "actions": "toast",
+            "output": "Toasted tortilla"
+        },
+        {
+            "instructions": "remove the flatout and top in order with pizza_sauce , fat free cheese , pepperoni_slice , onions , mushrooms and green_pepper .",
+            "input": "Toasted tortilla",
+            "actions": "remove",
+            "output": "Toasted tortilla"
+        },
+        {
+            "instructions": "sprinkle with 2 tbl low fat mozarella .",
+            "input": "Toasted tortilla",
+            "actions": "sprinkle",
+            "output": "Topped tortilla with mozzarella"
+        },
+        {
+            "instructions": "bake for 7 10 minutes .",
+            "input": "Topped tortilla with mozzarella",
+            "actions": "bake",
+            "output": "Baked tortilla with mozzarella"
+        },
+        {
+            "instructions": "sprinkle with parmesan",
+            "input": "Baked tortilla with mozzarella",
+            "actions": "sprinkle",
+            "output": "Baked tortilla with mozzarella and Parmesan cheese"
+        },
+        {
+            "instructions": "serve !",
+            "input": "Baked tortilla with mozzarella and Parmesan cheese",
+            "actions": "serve",
+            "output": "Served tortilla with mozzarella and Parmesan cheese"
+        }
+    ],
+    "ingredients": [
+        {
+            "text": "1 low-fat low-carb whole wheat tortilla (I use a brand called Flat Out)"
+        },
+        {
+            "text": "14 cup fat free mozzarella cheese"
+        },
+        {
+            "text": "8 -12 slices turkey pepperoni"
+        },
+        {
+            "text": "13 cup pizza sauce"
+        },
+        {
+            "text": "2 tablespoons chopped green peppers"
+        },
+        {
+            "text": "2 sliced mushrooms"
+        },
+        {
+            "text": "13 of a small onion, thinly sliced"
+        },
+        {
+            "text": "2 tablespoons low fat mozzarella"
+        },
+        {
+            "text": "2 teaspoons parmesan cheese"
+        }
+    ],
+    "recipe": [
+        {
+            "text": "Lightly spray the tortilla with Pam."
+        },
+        {
+            "text": "Toast the tortilla in a 400 degre oven for 5-7 minutes."
+        },
+        {
+            "text": "Remove the flatout and top (in order) with pizza sauce, fat free cheese, pepperoni slices, onions, mushrooms and green pepper."
+        },
+        {
+            "text": "Sprinkle with 2 Tbl low-fat mozarella."
+        },
+        {
+            "text": "Bake for 7-10 minutes."
+        },
+        {
+            "text": "Sprinkle with parmesan cheese, slice and serve!"
+        }
+    ]
+}

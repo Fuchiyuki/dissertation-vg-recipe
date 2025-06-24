@@ -1,0 +1,148 @@
+{
+    "title": "easy_philly_cheese_steak_pizza",
+    "id": "22a6c1c884",
+    "table": [
+        {
+            "instructions": "preheat oven to 400 degrees f 200 degrees c.",
+            "input": "NA",
+            "action": "preheat",
+            "output": "NA"
+        },
+        {
+            "instructions": "spray a skillet with cooking_spray .",
+            "input": "NA",
+            "action": "spray",
+            "output": "NA"
+        },
+        {
+            "instructions": "cook",
+            "input": "NA",
+            "action": "cook",
+            "output": "NA"
+        },
+        {
+            "instructions": "stir beef_sirloin in the prepared skillet over medium heat until browned on the outside and slightly pink in the middle , 3 to 4 minutes .",
+            "input": "beef_sirloin",
+            "action": "stir",
+            "output": "browned_beef_sirloin"
+        },
+        {
+            "instructions": "transfer sirloin to a plate .",
+            "input": "cooked sirloin",
+            "action": "transfer",
+            "output": "cooked sirloin on plate"
+        },
+        {
+            "instructions": "spray the skillet with butter flavored cooking_spray .",
+            "input": "butter flavored cooking spray",
+            "action": "spray",
+            "output": "butter flavored cooking spray"
+        },
+        {
+            "instructions": "add mushrooms , onion , and green_bell_pepper ;",
+            "input": "(mushrooms, onion, green bell pepper; butter flavored cooking spray)",
+            "action": "add",
+            "output": "mushrooms , onion , and green_bell_pepper added to butter flavored cooking spray"
+        },
+        {
+            "instructions": "cook",
+            "input": "cooking mushrooms, onion, green bell pepper",
+            "action": "cook",
+            "output": "cooking mushrooms, onion, green bell pepper"
+        },
+        {
+            "instructions": "stir until just turning tender , about 5 minutes .",
+            "input": "cooking mushrooms, onion, green bell pepper",
+            "action": "stir",
+            "output": "cooked mushrooms, onion, green bell pepper"
+        },
+        {
+            "instructions": "roll pizza_dough onto a baking sheet",
+            "input": "pizza dough",
+            "action": "roll",
+            "output": "rolled pizza dough"
+        },
+        {
+            "instructions": "top with american_cheese .",
+            "input": "pizza dough, american cheese",
+            "action": "top",
+            "output": "pizza dough topped with american cheese"
+        },
+        {
+            "instructions": "spoon mushroom mixture and sirloin over american_cheese layer",
+            "input": "(pizza dough topped with american cheese; cooked sirloin; cooked mushrooms, onion, green bell pepper)",
+            "action": "spoon",
+            "output": "mushroom mixture and sirloin spooned over pizza dough topped with american cheese"
+        },
+        {
+            "instructions": "top with mexican_cheese_blend .",
+            "input": "(mexican cheese blend; uncooked cheese steak pizza)",
+            "action": "top",
+            "output": "uncooked cheese steak pizza topped with mexican_cheese_blend "
+        },
+        {
+            "instructions": "bake in the preheated oven until cheese is golden brown , 15 to 20 minutes .",
+            "input": "raw cheese_steak_pizza",
+            "action": "bake",
+            "output": "baked cheese_steak_pizza"
+        }
+    ],
+    "ingredients": [
+        {
+            "text": "cooking spray"
+        },
+        {
+            "text": "8 ounces beef sirloin, thinly sliced"
+        },
+        {
+            "text": "butter-flavored cooking spray"
+        },
+        {
+            "text": "1 (8 ounce) package sliced fresh mushrooms"
+        },
+        {
+            "text": "1 onion, thinly sliced"
+        },
+        {
+            "text": "1 green bell pepper, thinly sliced"
+        },
+        {
+            "text": "1 (10 ounce) container refrigerated pizza dough"
+        },
+        {
+            "text": "12 slices white American cheese"
+        },
+        {
+            "text": "2 cups shredded Mexican cheese blend"
+        }
+    ],
+    "recipe": [
+        {
+            "text": "Preheat oven to 400 degrees F (200 degrees C)."
+        },
+        {
+            "text": "Spray a skillet with cooking spray."
+        },
+        {
+            "text": "Cook and stir beef sirloin in the prepared skillet over medium heat until browned on the outside and slightly pink in the middle, 3 to 4 minutes."
+        },
+        {
+            "text": "Transfer sirloin to a plate."
+        },
+        {
+            "text": "Spray the skillet with butter-flavored cooking spray."
+        },
+        {
+            "text": "Add mushrooms, onion, and green bell pepper; cook and stir until just turning tender, about 5 minutes."
+        },
+        {
+            "text": "Roll pizza dough onto a baking sheet and top with American cheese."
+        },
+        {
+            "text": "Spoon mushroom mixture and sirloin over American cheese layer and top with Mexican cheese blend."
+        },
+        {
+            "text": "Bake in the preheated oven until cheese is golden brown, 15 to 20 minutes."
+        }
+    ]
+}

@@ -1,0 +1,73 @@
+{
+    "title": "english_muffin_chicken_pizza",
+    "id": "575c0acdb5",
+    "table": [
+        {
+            "instructions": "preheat oven to 35",
+            "input": "NA",
+            "action": "preheat",
+            "output": "NA"
+        },
+        {
+            "instructions": "Halve the english muffins and spread each with 1 tablespoon pizza_sauce .",
+            "input": "(english muffin; pizza sauce)",
+            "action": "spread",
+            "output": "pizza sauce spread on english muffin halves"
+        },
+        {
+            "instructions": "add one slice of chicken",
+            "input": "(chicken slice; english muffin halves with pizza sauce)",
+            "action": "add",
+            "output": "english muffin halves with pizza sauce and chicken slice"
+        },
+        {
+            "instructions": "top with one slice of cheese .",
+            "input": "(english muffin halves with pizza sauce and chicken slice; slice of cheese;)",
+            "action": "top",
+            "output": "english muffin halves with pizza sauce, chicken slice and cheese slice"
+        },
+        {
+            "instructions": "place on baking sheet",
+            "input": "english muffin halves with pizza sauce, chicken slice and cheese slice",
+            "action": "place",
+            "output": "assembled english_muffin_chicken_pizza"
+        },
+        {
+            "instructions": "bake for 10 minutes or until cheese is melted .",
+            "input": "uncooked english_muffin_chicken_pizza",
+            "action": "bake",
+            "output": "baked english_muffin_chicken_pizza"
+        }
+    ],
+    "ingredients": [
+        {
+            "text": "6 English muffins"
+        },
+        {
+            "text": "34 cup pizza sauce"
+        },
+        {
+            "text": "12 slices deli chicken breasts"
+        },
+        {
+            "text": "12 slices mozzarella cheese"
+        }
+    ],
+    "recipe": [
+        {
+            "text": "Preheat oven to 350."
+        },
+        {
+            "text": "Halve the english muffins and spread each with 1 tablespoon pizza sauce."
+        },
+        {
+            "text": "Add one slice of chicken and top with one slice of cheese."
+        },
+        {
+            "text": "Place on baking sheet and bake for 10 minutes or until cheese is melted."
+        },
+        {
+            "text": "We have also toasted the muffins and cooked these in the microwave."
+        }
+    ]
+}

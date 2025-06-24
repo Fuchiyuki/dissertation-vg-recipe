@@ -1,0 +1,100 @@
+{
+    "title": "hoisin_prawn_mini_pizzas",
+    "id": "e9a23d50b8",
+    "table": [
+        {
+            "instructions": "make pizza_dough .",
+            "input": "pizza_dough",
+            "action": "make",
+            "output": "made_pizza_dough"
+        },
+        {
+            "instructions": "roll dough out until 5 mm thick .",
+            "input": "dough",
+            "action": "roll",
+            "output": "rolled dough"
+        },
+        {
+            "instructions": "place bases on a greased baking tray .",
+            "input": "rolled dough",
+            "action": "place",
+            "output": "rolled dough"
+        },
+        {
+            "instructions": "preheat oven to 240c220c fan forced .",
+            "input": "NA",
+            "action": "preheat",
+            "output": "NA"
+        },
+        {
+            "instructions": "spread hoisin_sauce over rounds .",
+            "input": "(hoisin sauce; rolled dough)",
+            "action": "spread",
+            "output": "pizza crust with spread hoisin sauce on it"
+        },
+        {
+            "instructions": "top with snow_pea , prawns and cheese .",
+            "input": "(pizza crust with spread hoisin sauce on it; snow peas; prawns; cheese)",
+            "action": "top",
+            "output": "pizza crust with hoisin sauce, snow peas, prawns and cheese"
+        },
+        {
+            "instructions": "bake for 15 minutes or until prawns are cooked and cheese has melted .",
+            "input": "pizza crust with hoisin sauce, snow peas, prawns and cheese",
+            "action": "bake",
+            "output": "baked hoisin prawn pizza"
+        },
+        {
+            "instructions": "serve .",
+            "input": "baked hoisin prawn pizza",
+            "action": "serve",
+            "output": "baked hoisin prawn pizza ready to serve"
+        }
+    ],
+    "ingredients": [
+        {
+            "text": "1 lb basic pizza dough (see related recipe)"
+        },
+        {
+            "text": "2 tablespoons hoisin sauce"
+        },
+        {
+            "text": "80 g snow peas, trimmed, thinly sliced"
+        },
+        {
+            "text": "1 kg medium green prawns, peeled, deveined (24 prawns)"
+        },
+        {
+            "text": "23 cup grated reduced-fat mozzarella cheese"
+        }
+    ],
+    "recipe": [
+        {
+            "text": "Make pizza dough."
+        },
+        {
+            "text": "Roll dough out until 5mm thick."
+        },
+        {
+            "text": "Using a 10cm cutter, cut 12 rounds from dough (you may need to re-roll dough)."
+        },
+        {
+            "text": "Place bases on a greased baking tray."
+        },
+        {
+            "text": "Preheat oven to 240C/220C fan-forced."
+        },
+        {
+            "text": "Spread hoisin sauce over rounds."
+        },
+        {
+            "text": "Top with snow peas, prawns and cheese."
+        },
+        {
+            "text": "Bake for 15 minutes or until prawns are cooked and cheese has melted."
+        },
+        {
+            "text": "Serve."
+        }
+    ]
+}

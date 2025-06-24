@@ -1,0 +1,91 @@
+{
+    "title": "ww_5_points_greek_pizza",
+    "id": "0181ad97da",
+    "table": [
+        {
+            "instructions": "preheat oven to 450f .",
+            "input": "NA",
+            "action": "preheat",
+            "output": "NA"
+        },
+        {
+            "instructions": "sprinkle counter lightly with flour ,",
+            "input": "NA",
+            "action": "sprinkle",
+            "output": "NA"
+        },
+        {
+            "instructions": "turn dough in flour to coat .",
+            "input": "(dough; flour)",
+            "action": "turn",
+            "output": "floured dough"
+        },
+        {
+            "instructions": "stretch or roll dough to 10",
+            "input": "floured dough",
+            "action": "stretch",
+            "output": "stretched pizza dough"
+        },
+        {
+            "instructions": "or 12 inch circle , then transfer to nonstick pizza\u2012pan .",
+            "input": "stretched pizza dough",
+            "action": "transfer",
+            "output": "stretched pizza dough"
+        },
+        {
+            "instructions": "top dough with tomato , bell_pepper , onion , feta , olives , oergano , and pepper .",
+            "input": "(tomato, bell_pepper, onion, feta, olives, oregano, pepper; stretched pizza dough)",
+            "action": "top",
+            "output": "Pizza crust topped with tomato, bell pepper, onion, feta, olives, oregano and pepper"
+        },
+        {
+            "instructions": "bake until crust is browned , and crisp , 15 20 minute .",
+            "input": "Uncooked greek pizza",
+            "action": "bake",
+            "output": "Baked greek pizza"
+        }
+    ],
+    "ingredients": [
+        {
+            "text": "12 lb pizza dough"
+        },
+        {
+            "text": "1 tomatoes, sliced"
+        },
+        {
+            "text": "12 green bell pepper, seeded and sliced"
+        },
+        {
+            "text": "12 red onion, thinly sliced"
+        },
+        {
+            "text": "34 cup crumbled feta cheese (3 oz)"
+        },
+        {
+            "text": "6 large kalamata olives, pitted and quartered"
+        },
+        {
+            "text": "1 teaspoon dried oregano"
+        },
+        {
+            "text": "14 teaspoon fresh ground pepper"
+        }
+    ],
+    "recipe": [
+        {
+            "text": "Preheat oven to 450*F."
+        },
+        {
+            "text": "Sprinkle counter lightly with flour, then turn dough in flour to coat."
+        },
+        {
+            "text": "Stretch or roll dough to 10 or 12-inch circle, then transfer to nonstick pizza pan."
+        },
+        {
+            "text": "Top dough with tomato, bell pepper, onion, feta, olives, oergano, and pepper."
+        },
+        {
+            "text": "Bake until crust is browned, and crisp, 15-20 minute."
+        }
+    ]
+}

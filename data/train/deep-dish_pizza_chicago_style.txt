@@ -1,0 +1,301 @@
+{
+    "title": "deep-dish_pizza_chicago_style",
+    "id": "1f61b06300",
+    "table": [
+        {
+            "instructions": "preheat the oven to 400f .",
+            "input": "NA",
+            "action": "preheat",
+            "output": "NA"
+        },
+        {
+            "instructions": "lightly coat a 9 x 13 inch , casserole dish with cooking_spray .",
+            "input": "NA",
+            "action": "coat",
+            "output": "NA"
+        },
+        {
+            "instructions": "heat 2 teaspoons of the olive_oil in a large nonstick skillet ;",
+            "input": "olive_oil",
+            "action": "heat",
+            "output": "heated_olive_oil"
+        },
+        {
+            "instructions": "set over medium high heat .",
+            "input": "heated_olive_oil",
+            "action": "set",
+            "output": "heated_olive_oil"
+        },
+        {
+            "instructions": "add the sausage , onion , bell_pepper , and red_pepper_flake to the pan",
+            "input": "(heated_olive_oil; sausage; onion; bell pepper; red pepper flake)",
+            "action": "add",
+            "output": "sausage , onion , bell_pepper , and red_pepper_flake into heated olive oil"
+        },
+        {
+            "instructions": "cook , breaking up any lumps with the back of a spoon , until the sausage is browned , about 8 minutes .",
+            "input": "sausage , onion , bell_pepper , and red_pepper_flake into heated olive oil",
+            "action": "cook",
+            "output": "cooked sausage and vegetable mixture"
+        },
+        {
+            "instructions": "drain the sausage mixture ,",
+            "input": "cooked sausage and vegetable mixture",
+            "action": "drain",
+            "output": "cooked sausage and vegetable mixture without excess fat"
+        },
+        {
+            "instructions": "set aside .",
+            "input": "cooked sausage and vegetable mixture without excess fat",
+            "action": "set",
+            "output": "cooked sausage and vegetable mixture without excess fat"
+        },
+        {
+            "instructions": "return the pan to medium high heat .",
+            "input": "cooked sausage and vegetable mixture without excess fat",
+            "action": "return",
+            "output": "cooked sausage and vegetable mixture without excess fat"
+        },
+        {
+            "instructions": "add the mushrooms",
+            "input": "mushrooms",
+            "action": "add",
+            "output": "mushrooms in pan"
+        },
+        {
+            "instructions": "cook , stirring frequently , until the moisture evaporates , about 5 minutes .",
+            "input": "mushrooms in pan",
+            "action": "cook",
+            "output": "cooked mushrooms"
+        },
+        {
+            "instructions": "transfer the mushrooms to a small bowl",
+            "input": "cooked mushrooms",
+            "action": "transfer",
+            "output": "cooked mushrooms"
+        },
+        {
+            "instructions": "set aside .",
+            "input": "cooked mushrooms",
+            "action": "set",
+            "output": "cooked mushrooms"
+        },
+        {
+            "instructions": "wipe the pan clean .",
+            "input": "NA",
+            "action": "wipe",
+            "output": "NA"
+        },
+        {
+            "instructions": "return the pan to medium heat",
+            "input": "NA",
+            "action": "return",
+            "output": "NA"
+        },
+        {
+            "instructions": "add the remaining teaspoon of olive_oil .",
+            "input": "remaining olive oil",
+            "action": "add",
+            "output": "heated_remaining olive oil"
+        },
+        {
+            "instructions": "add the garlic",
+            "input": "(heated_remaining olive oil; garlic)",
+            "action": "add",
+            "output": "garlic in heated_remaining olive oil"
+        },
+        {
+            "instructions": "cook , stirring constantly until lightly browned .",
+            "input": "garlic in heated_remaining olive oil",
+            "action": "cook",
+            "output": "cooked garlic"
+        },
+        {
+            "instructions": "add the tomato_paste",
+            "input": "(tomato paste; garlic in heated_remaining olive oil)",
+            "action": "add",
+            "output": "tomato paste added to garlic in heated_remaining olive oil"
+        },
+        {
+            "instructions": "cook , stirring frequently for 1 minute .",
+            "input": "tomato paste added to garlic in heated_remaining olive oil",
+            "action": "cook",
+            "output": "cooked tomato paste and garlic"
+        },
+        {
+            "instructions": "stir in the tomato_sauce , oregano , and fennel .",
+            "input": "(cooked tomato paste and garlic; tomato sauce; oregano; fennel)",
+            "action": "stir",
+            "output": "cooked tomato paste and garlic stirred with tomato sauce, oregano and fennel"
+        },
+        {
+            "instructions": "reduce the heat to low",
+            "input": "cooked tomato paste and garlic stirred with tomato sauce, oregano and fennel",
+            "action": "reduce",
+            "output": "cooking pizza sauce"
+        },
+        {
+            "instructions": "simmer for 5 minutes or until the sauce is slightly thickened .",
+            "input": "cooking pizza sauce",
+            "action": "simmer",
+            "output": "cooked pizza sauce"
+        },
+        {
+            "instructions": "unroll the pizza_crust dough",
+            "input": "pizza crust dough",
+            "action": "unroll",
+            "output": "unrolled pizza crust dough"
+        },
+        {
+            "instructions": "press it into the bottom and halfway up the sides of the prepared casserole dish .",
+            "input": "unrolled pizza crust dough",
+            "action": "press",
+            "output": "deep dish pizza crust"
+        },
+        {
+            "instructions": "place a single layer of the mozzarella slices in the bottom of the pan to cover the dough about 6 slices .",
+            "input": "(deep dish pizza crust; mozzarella slices)",
+            "action": "place",
+            "output": "mozzarella slices on deep dish pizza crust"
+        },
+        {
+            "instructions": "spoon the sausage mixture evenly over the cheese ,",
+            "input": "(cooked sausage and vegetable mixture; deep dish pizza crust with mozzarella slices)",
+            "action": "spoon",
+            "output": "deep dish pizza crust with mozzarella slices and cooked sausage and vegetable mixture"
+        },
+        {
+            "instructions": "spoon the mushrooms over the sausage .",
+            "input": "(deep dish pizza crust with mozzarella slices and cooked sausage and vegetable mixture; cooked mushrooms)",
+            "action": "spoon",
+            "output": "deep dish pizza crust with mozzarella slices, cooked sausage and vegetable mixture and cooked mushrooms"
+        },
+        {
+            "instructions": "pour the sauce over the casserole",
+            "input": "(pizza sauce; deep dish pizza crust with mozzarella slices, cooked sausage and vegetable mixture and cooked mushrooms)",
+            "action": "pour",
+            "output": "pizza sauce poured on deep dish pizza crust with mozzarella slices, cooked sausage and vegetable mixture and cooked mushrooms"
+        },
+        {
+            "instructions": "top with the shredded mozzarella and grated_parmesan_cheese .",
+            "input": "(shredded mozzarella; grated parmesan cheese; dish pizza crust with mozzarella slices, cooked sausage and vegetable mixture, cooked mushrooms and pizza sauce)",
+            "action": "top",
+            "output": "dish pizza crust with mozzarella slices, cooked sausage and vegetable mixture, cooked mushrooms, pizza sauce, shredded mozzarella and grated parmesan"
+        },
+        {
+            "instructions": "bake for 20 to 25 minutes or until the crust is browned and the cheeses bubble .",
+            "input": "Uncooked deep dish pizza",
+            "action": "bake",
+            "output": "baked deep dish pizza"
+        }
+    ],
+    "ingredients": [
+        {
+            "text": "Cooking spray"
+        },
+        {
+            "text": "3 teaspoons olive oil"
+        },
+        {
+            "text": "1 pound hot Italian pork sausage, casings removed"
+        },
+        {
+            "text": "1 cup finely chopped onion"
+        },
+        {
+            "text": "1/2 cup chopped green bell pepper"
+        },
+        {
+            "text": "1 teaspoon red pepper flakes"
+        },
+        {
+            "text": "1 (8-ounce) package sliced button mushrooms"
+        },
+        {
+            "text": "3 garlic cloves, minced"
+        },
+        {
+            "text": "1 tablespoon tomato paste"
+        },
+        {
+            "text": "2 (8-ounce) cans tomato sauce"
+        },
+        {
+            "text": "1 teaspoon dried oregano"
+        },
+        {
+            "text": "1/2 teaspoon fennel seeds, crushed"
+        },
+        {
+            "text": "1 (10-ounce) can refrigerated pizza crust dough, or Homemade Pizza Dough (page 194)"
+        },
+        {
+            "text": "8 ounces fresh mozzarella cheese, sliced (about 6 slices)"
+        },
+        {
+            "text": "4 ounces mozzarella cheese, shredded (1 cup)"
+        },
+        {
+            "text": "1 cup grated Parmesan cheese"
+        }
+    ],
+    "recipe": [
+        {
+            "text": "Preheat the oven to 400F."
+        },
+        {
+            "text": "Lightly coat a 9 x 13-inch casserole dish with cooking spray."
+        },
+        {
+            "text": "Heat 2 teaspoons of the olive oil in a large nonstick skillet set over medium-high heat."
+        },
+        {
+            "text": "Add the sausage, onion, bell pepper, and red pepper flakes to the pan and cook, breaking up any lumps with the back of a spoon, until the sausage is browned, about 8 minutes."
+        },
+        {
+            "text": "Drain the sausage mixture, and set aside."
+        },
+        {
+            "text": "Return the pan to medium-high heat."
+        },
+        {
+            "text": "Add the mushrooms and cook, stirring frequently, until the moisture evaporates, about 5 minutes."
+        },
+        {
+            "text": "Transfer the mushrooms to a small bowl and set aside."
+        },
+        {
+            "text": "Wipe the pan clean."
+        },
+        {
+            "text": "Return the pan to medium heat and add the remaining teaspoon of olive oil."
+        },
+        {
+            "text": "Add the garlic and cook, stirring constantly until lightly browned."
+        },
+        {
+            "text": "Add the tomato paste and cook, stirring frequently for 1 minute."
+        },
+        {
+            "text": "Stir in the tomato sauce, oregano, and fennel."
+        },
+        {
+            "text": "Reduce the heat to low and simmer for 5 minutes or until the sauce is slightly thickened."
+        },
+        {
+            "text": "Unroll the pizza crust dough and press it into the bottom and halfway up the sides of the prepared casserole dish."
+        },
+        {
+            "text": "Place a single layer of the mozzarella slices in the bottom of the pan to cover the dough (about 6 slices)."
+        },
+        {
+            "text": "Spoon the sausage mixture evenly over the cheese, then spoon the mushrooms over the sausage."
+        },
+        {
+            "text": "Pour the sauce over the casserole and top with the shredded mozzarella and grated Parmesan cheeses."
+        },
+        {
+            "text": "Bake for 20 to 25 minutes or until the crust is browned and the cheeses bubble."
+        }
+    ]
+}

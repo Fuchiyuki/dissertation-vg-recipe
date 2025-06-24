@@ -1,0 +1,73 @@
+{
+    "title": "baked_pizza_dip",
+    "id": "f3cd2dd0cd",
+    "table": [
+        {
+            "instructions": "mix cream_cheese_spread and italian_seasoning until well blended .",
+            "input": "(cream_cheese_spread; italian_seasoning)",
+            "actions": "mix",
+            "output": "cream_cheese_spread_mixture"
+        },
+        {
+            "instructions": "spread onto bottom of 9 inch , pie plate .",
+            "input": "cream_cheese_spread_mixture",
+            "actions": "spread",
+            "output": "cream_cheese_spread_mixture"
+        },
+        {
+            "instructions": "top with layers of 1 cup of the mozzarella_cheese and pizza_sauce ;",
+            "input": "(mozzarella_cheese; pizza_sauce; cream_cheese_spread_mixture)",
+            "actions": "top",
+            "output": "cream_cheese_spread_mixture topped with mozzarella cheese and pizza sauce"
+        },
+        {
+            "instructions": "sprinkle with remaining mozzarella_cheese .",
+            "input": "(uncooked pizza dip; remaining mozzarella cheese)",
+            "actions": "sprinkle",
+            "output": " remaining mozzarella cheese sprinkled over uncooked pizza dip"
+        },
+        {
+            "instructions": "bake at 350f for 15 to 20 minutes or until dip is heated through and cheese is melted .",
+            "input": "uncooked pizza dip",
+            "actions": "bake",
+            "output": "baked pizza dip"
+        },
+        {
+            "instructions": "serve with crackers .",
+            "input": "(crackers; baked pizza dip)",
+            "actions": "serve",
+            "output": "served baked pizza dip with crackers"
+        }
+    ],
+    "ingredients": [
+        {
+            "text": "1 tub (8 oz.) PHILADELPHIA Cream Cheese Spread"
+        },
+        {
+            "text": "1 tsp. Italian seasoning"
+        },
+        {
+            "text": "1 pkg. (8 oz.) KRAFT Shredded Mozzarella Cheese, divided"
+        },
+        {
+            "text": "1 cup CLASSICO Traditional Pizza Sauce"
+        }
+    ],
+    "recipe": [
+        {
+            "text": "Mix cream cheese spread and Italian seasoning until well blended."
+        },
+        {
+            "text": "Spread onto bottom of 9-inch pie plate."
+        },
+        {
+            "text": "Top with layers of 1 cup of the mozzarella cheese and pizza sauce; sprinkle with remaining mozzarella cheese."
+        },
+        {
+            "text": "Bake at 350F for 15 to 20 minutes or until dip is heated through and cheese is melted."
+        },
+        {
+            "text": "Serve with crackers."
+        }
+    ]
+}

@@ -1,0 +1,79 @@
+{
+    "title": "bacon_and_cheese_breakfast_pizza_recipe",
+    "id": "8d3347d585",
+    "table": [
+        {
+            "instructions": "roll pastry to fit into a 12 inch , pizza\u2012pan .",
+            "input": "pastry",
+            "actions": "roll",
+            "output": "rolled_pastry"
+        },
+        {
+            "instructions": "bake at 425 for 5 min .",
+            "input": "rolled_pastry",
+            "actions": "bake",
+            "output": "baked_crust"
+        },
+        {
+            "instructions": "sprinkle bacon and cheese proportionately over crust .",
+            "input": "(bacon; cheese; crust)",
+            "actions": "sprinkle",
+            "output": "bacon and cheese_sprinkled_on crust"
+        },
+        {
+            "instructions": "in a bowl , beat large_egg , lowfat sour_cream and parsley till smooth ;",
+            "input": "(large_egg; sour_cream; parsley)",
+            "actions": "beat",
+            "output": "egg and sour cream mixture"
+        },
+        {
+            "instructions": "pour over pizza .",
+            "input": "(pizza; egg and sour cream mixture)",
+            "actions": "pour",
+            "output": "egg and sour cream mixture_poured_over_pizza"
+        },
+        {
+            "instructions": "bake for 20 25 min or possibly till pizza is puffy",
+            "input": "uncooked pizza",
+            "actions": "bake",
+            "output": "bacon_and_cheese_breakfast_pizza"
+        }
+    ],
+    "ingredients": [
+        {
+            "text": "1/2 lb Bacon, cooked and crumbled"
+        },
+        {
+            "text": "8 ounce Shredded swiss cheese"
+        },
+        {
+            "text": "4 x Large eggs"
+        },
+        {
+            "text": "12 ounce Lowfat sour cream"
+        },
+        {
+            "text": "2 Tbsp. Minced fresh parsley"
+        }
+    ],
+    "recipe": [
+        {
+            "text": "Roll pastry to fit into a 12-inch pizza pan."
+        },
+        {
+            "text": "Bake at 425 for 5 min."
+        },
+        {
+            "text": "Sprinkle bacon and cheese proportionately over crust."
+        },
+        {
+            "text": "In a bowl, beat Large eggs, lowfat sour cream and parsley till smooth; pour over pizza."
+        },
+        {
+            "text": "Bake for 20-25 min or possibly till pizza is puffy and lightly browned."
+        },
+        {
+            "text": "/Large eggs"
+        }
+    ]
+}

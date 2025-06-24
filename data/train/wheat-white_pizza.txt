@@ -1,0 +1,169 @@
+{
+    "title": "wheat-white_pizza",
+    "id": "6b866d19a5",
+    "table": [
+        {
+            "instructions": "mix the water and honey in a medium sized bowl .",
+            "input": "(water; honey; yeast)",
+            "actions": "mix",
+            "output": "yeast mixture"
+        },
+        {
+            "instructions": "set aside for 15 20 minutes until bubbles form on surface .",
+            "input": "yeast mixture",
+            "actions": "set",
+            "output": "bubbly yeast mixture"
+        },
+        {
+            "instructions": "put the flour and salt in a mixing bowl .",
+            "input": "(flour; salt)",
+            "actions": "put",
+            "output": "flour and salt"
+        },
+        {
+            "instructions": "slowly add the yeast mixture",
+            "input": "(flour and salt; yeast mixture)",
+            "actions": "add",
+            "output": "yeast mixture in flour"
+        },
+        {
+            "instructions": "mix with a dough hook until a dough ball forms .",
+            "input": "yeast mixture in flour",
+            "actions": "mix",
+            "output": "dough"
+        },
+        {
+            "instructions": "knead slightly until dry ingredients are mixed well .",
+            "input": "dough",
+            "actions": "knead",
+            "output": "kneaded dough"
+        },
+        {
+            "instructions": "rub surface of a large bowl with olive_oil .",
+            "input": "(olive_oil; kneaded dough)",
+            "actions": "rub",
+            "output": "kneaded dough rubbed with olive_oil"
+        },
+        {
+            "instructions": "transfer the dough , ball and roll in oil to coat .",
+            "input": "oiled dough",
+            "actions": "transfer",
+            "output": "oiled dough"
+        },
+        {
+            "instructions": "cover with towl",
+            "input": "oiled dough",
+            "actions": "cover",
+            "output": "covered dough"
+        },
+        {
+            "instructions": "preheat oven to 400 degrees .",
+            "input": "NA",
+            "actions": "preheat",
+            "output": "NA"
+        },
+        {
+            "instructions": "roll dough thinly on a lightly floured surface .",
+            "input": "covered dough",
+            "actions": "roll",
+            "output": "pizza crust"
+        },
+        {
+            "instructions": "add sauce and spices .",
+            "input": "(pizza crust; sauce; spices)",
+            "actions": "add",
+            "output": "sauce and spices added to pizza crust"
+        },
+        {
+            "instructions": "cover with cheese",
+            "input": "(cheese; pizza crust with sauce and spices)",
+            "actions": "cover",
+            "output": "pizza crust with sauce and spices covered with cheese"
+        },
+        {
+            "instructions": "bake for 15 18 minutes .",
+            "input": "uncooked pizza",
+            "actions": "bake",
+            "output": "baked pizza"
+        }
+    ],
+    "ingredients": [
+        {
+            "text": "34 cup lukewarm water"
+        },
+        {
+            "text": "1 teaspoon honey"
+        },
+        {
+            "text": "1 tablespoon active dry yeast"
+        },
+        {
+            "text": "1 12 cups all-purpose flour"
+        },
+        {
+            "text": "12 cup wheat flour"
+        },
+        {
+            "text": "12 teaspoon salt"
+        },
+        {
+            "text": "1 teaspoon olive oil"
+        },
+        {
+            "text": "1 cup tomato sauce"
+        },
+        {
+            "text": "1 teaspoon oregano"
+        },
+        {
+            "text": "1 teaspoon basil"
+        },
+        {
+            "text": "1 cup shredded mozzarella cheese"
+        },
+        {
+            "text": "1 cup shredded cheddar cheese"
+        }
+    ],
+    "recipe": [
+        {
+            "text": "Mix the water and honey in a medium sized bowl."
+        },
+        {
+            "text": "Spring the yeast on top and set aside for 15-20 minutes until bubbles form on surface."
+        },
+        {
+            "text": "Put the flour and salt in a mixing bowl."
+        },
+        {
+            "text": "Slowly add the yeast mixture and mix with a dough hook until a dough ball forms."
+        },
+        {
+            "text": "Knead slightly until dry ingredients are mixed well."
+        },
+        {
+            "text": "Rub surface of a large bowl with olive oil."
+        },
+        {
+            "text": "Transfer the dough ball and roll in oil to coat."
+        },
+        {
+            "text": "Cover with towl and set aside for one hour in a warm place (dough should double in size."
+        },
+        {
+            "text": ")."
+        },
+        {
+            "text": "Preheat oven to 400 degrees."
+        },
+        {
+            "text": "Roll dough thinly on a lightly floured surface."
+        },
+        {
+            "text": "Add sauce and spices."
+        },
+        {
+            "text": "Cover with cheese and bake for 15-18 minutes."
+        }
+    ]
+}

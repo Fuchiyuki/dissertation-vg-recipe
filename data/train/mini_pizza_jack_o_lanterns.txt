@@ -1,0 +1,106 @@
+{
+    "title": "mini_pizza_jack_o_lanterns",
+    "id": "ea766cee45",
+    "table": [
+        {
+            "instructions": "preheat broiler .",
+            "input": "NA",
+            "action": "preheat",
+            "output": "NA"
+        },
+        {
+            "instructions": "arrange muffin halves , cut side up , in a single layer on a large baking sheet .",
+            "input": "muffin halves",
+            "action": "arrange",
+            "output": "muffin halves"
+        },
+        {
+            "instructions": "combine cheddar , mayonnaise and onions in a medium bowl ;",
+            "input": "(cheddar; mayonnaise; onions)",
+            "action": "combine",
+            "output": "cheddar, mayonnaise and onion mixture"
+        },
+        {
+            "instructions": "mix well .",
+            "input": "cheddar, mayonnaise and onion mixture",
+            "action": "mix",
+            "output": "cheddar, mayonnaise and onion mixture"
+        },
+        {
+            "instructions": "spread equal amounts on each muffin half .",
+            "input": "(cheddar, mayonnaise and onion mixture; muffin halves)",
+            "action": "spread",
+            "output": "cheddar, mayonnaise and onion mixture spread over muffin halves"
+        },
+        {
+            "instructions": "broil 4 inches from heat source 2 minutes , or until bubbly .",
+            "input": "muffin halves with cheddar, mayonnaise and onion mixture",
+            "action": "broil",
+            "output": "broiled muffin with cheddar, mayonnaise and onion mixture"
+        },
+        {
+            "instructions": "remove from oven .",
+            "input": "broiled muffin with cheddar, mayonnaise and onion mixture",
+            "action": "remove",
+            "output": "broiled muffin with cheddar, mayonnaise and onion mixture"
+        },
+        {
+            "instructions": "cut olives into shapes for eyes , nose and mouth",
+            "input": "olives",
+            "action": "cut",
+            "output": "olives cut into shapes for eyes, nose and mouth"
+        },
+        {
+            "instructions": "arrange on each muffin half .",
+            "input": "(broiled muffin with cheddar, mayonnaise and onion mixture; olives cut into shapes for eyes, nose and mouth)",
+            "action": "arrange",
+            "output": "olives cut into shapes for eyes, nose and mouth arranged onto each broiled muffin with cheddar, mayonnaise and onion mixture"
+        }
+    ],
+    "ingredients": [
+        {
+            "text": "6 English muffins, split"
+        },
+        {
+            "text": "3 cups shredded cheddar cheese"
+        },
+        {
+            "text": "12 cup light mayonnaise"
+        },
+        {
+            "text": "2 green onions, minced (white and green parts)"
+        },
+        {
+            "text": "1 (15 ounce) can pitted ripe olives, drained"
+        }
+    ],
+    "recipe": [
+        {
+            "text": "Preheat broiler."
+        },
+        {
+            "text": "Arrange muffin halves, cut side up, in a single layer on a large baking sheet."
+        },
+        {
+            "text": "Combine Cheddar, mayonnaise and onions in a medium bowl; mix well."
+        },
+        {
+            "text": "Spread equal amounts on each muffin half."
+        },
+        {
+            "text": "Broil 4 inches from heat source 2 minutes, or until bubbly."
+        },
+        {
+            "text": "Remove from oven."
+        },
+        {
+            "text": "Cut olives into shapes for eyes, nose and mouth and arrange on each muffin half."
+        },
+        {
+            "text": "(Youll have olives left over."
+        },
+        {
+            "text": ")."
+        }
+    ]
+}

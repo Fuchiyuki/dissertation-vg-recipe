@@ -1,0 +1,94 @@
+{
+    "title": "egg_pizza_for_breakfast_children_recipe",
+    "id": "e069c660be",
+    "table": [
+        {
+            "instructions": "heat oven to 425 degrees .",
+            "input": "NA",
+            "action": "heat",
+            "output": "NA"
+        },
+        {
+            "instructions": "place crust in 10 inch pizza\u2012pan",
+            "input": "crust",
+            "action": "place",
+            "output": "crust"
+        },
+        {
+            "instructions": "cook for 5 min till lightly brown .",
+            "input": "Uncooked pizza crust",
+            "action": "cook",
+            "output": "Cooked pizza crust"
+        },
+        {
+            "instructions": "while crust is baking , scramble large_egg till moist , not dry .",
+            "input": "Large_egg",
+            "action": "scramble",
+            "output": "Scrambled large_egg"
+        },
+        {
+            "instructions": "spread large_egg over crust .",
+            "input": "(Scrambled large_egg; cooked pizza crust)",
+            "action": "spread",
+            "output": "Pizza crust with scrambled egg"
+        },
+        {
+            "instructions": "top with cut up sausage , tomato and cheese .",
+            "input": "(cut sausage; tomato; cheese; Pizza crust with scrambled egg)",
+            "action": "top",
+            "output": "Pizza crust with scrambled egg, cut sausage, tomato and cheese"
+        },
+        {
+            "instructions": "bake 5 min till cheese is melted .",
+            "input": "Uncooked breakfast pizza",
+            "action": "bake",
+            "output": "baked breakfast pizza"
+        },
+        {
+            "instructions": "cut into slices .",
+            "input": "baked breakfast pizza",
+            "action": "cut",
+            "output": "breakfast pizza slices"
+        }
+    ],
+    "ingredients": [
+        {
+            "text": "10 ounce. can refrigerated pizza crust"
+        },
+        {
+            "text": "8 Large eggs"
+        },
+        {
+            "text": "4 ounce. fully cooked turkey sausage links"
+        },
+        {
+            "text": "1 tomato, thinly sliced and cored"
+        },
+        {
+            "text": "1 c. shredded low-fat Mozzarella"
+        }
+    ],
+    "recipe": [
+        {
+            "text": "Heat oven to 425 degrees."
+        },
+        {
+            "text": "Place crust in 10 inch pizza pan and cook for 5 min till lightly brown."
+        },
+        {
+            "text": "While crust is baking, scramble Large eggs till moist, not dry."
+        },
+        {
+            "text": "Spread Large eggs over crust."
+        },
+        {
+            "text": "Top with cut-up sausage, tomato and cheese."
+        },
+        {
+            "text": "Bake 5 min till cheese is melted."
+        },
+        {
+            "text": "Cut into slices."
+        }
+    ]
+}

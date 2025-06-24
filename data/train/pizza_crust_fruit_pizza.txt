@@ -1,0 +1,124 @@
+{
+    "title": "pizza_crust_fruit_pizza",
+    "id": "f85f1d37f9",
+    "table": [
+        {
+            "instructions": "preheat oven to 350f .",
+            "input": "NA",
+            "actions": "preheat",
+            "output": "NA"
+        },
+        {
+            "instructions": "spray 12 inch , pizza\u2012pan with cooking_spray .",
+            "input": "NA",
+            "actions": "spray",
+            "output": "NA"
+        },
+        {
+            "instructions": "place crust on pan",
+            "input": "crust",
+            "actions": "place",
+            "output": "crust"
+        },
+        {
+            "instructions": "bake for 8 10 minutes .",
+            "input": "uncooked crust",
+            "actions": "bake",
+            "output": "cooked crust"
+        },
+        {
+            "instructions": "in a bowl , blend cream_cheese , sugar , and vanilla .",
+            "input": "(cream_cheese; sugar; vanilla)",
+            "actions": "blend",
+            "output": "blended cream cheese mixture"
+        },
+        {
+            "instructions": "spread mixture over crust .",
+            "input": "(cream cheese mixture; baked crust)",
+            "actions": "spread",
+            "output": "cream cheese mixture spread on baked crust"
+        },
+        {
+            "instructions": "arrange bananaslices in a layer over cream_cheese mixture",
+            "input": "(banana slices; baked crust filled with cream cheese mixture)",
+            "actions": "arrange",
+            "output": "banana slices arranged on baked crust filled with cream cheese mixture"
+        },
+        {
+            "instructions": "arrange remaining fruit slices in circles over bananas , varying colors and shapes .",
+            "input": "(remaining fruit slices; crust filled with cream cheese mixture and banana slices)",
+            "actions": "arrange",
+            "output": "remaining fruit slice arranged on crust filled with cream cheese mixture and banana slices"
+        },
+        {
+            "instructions": "sprinkle with raisins and nuts .",
+            "input": "(raisings; nuts; pizza_crust_fruit_pizza)",
+            "actions": "sprinkle",
+            "output": "raisins and nuts sprinkled on pizza_crust_fruit_pizza"
+        },
+        {
+            "instructions": "cut into 10 wedges .",
+            "input": "pizza_crust_fruit_pizza",
+            "actions": "cut",
+            "output": "cut pizza_crust_fruit_pizza"
+        }
+    ],
+    "ingredients": [
+        {
+            "text": "nonstick cooking spray"
+        },
+        {
+            "text": "1 prepared thin-crust pizza crust"
+        },
+        {
+            "text": "8 ounces light cream cheese, softened"
+        },
+        {
+            "text": "13 cup sugar"
+        },
+        {
+            "text": "12 teaspoon vanilla extract"
+        },
+        {
+            "text": "1 banana, peeled and sliced"
+        },
+        {
+            "text": "4 cups fresh fruit (grapes, mango, pineapple, strawberries)"
+        },
+        {
+            "text": "14 cup raisins"
+        },
+        {
+            "text": "14 cup pecans or 14 cup pistachios, chopped"
+        }
+    ],
+    "recipe": [
+        {
+            "text": "Preheat oven to 350*F."
+        },
+        {
+            "text": "Spray 12 inch pizza pan with cooking spray."
+        },
+        {
+            "text": "Place crust on pan and bake for 8-10 minutes."
+        },
+        {
+            "text": "In a bowl, blend cream cheese, sugar, and vanilla."
+        },
+        {
+            "text": "Spread mixture over crust."
+        },
+        {
+            "text": "Arrange bananaslices in a layer over cream cheese mixture."
+        },
+        {
+            "text": "Arrange remaining fruit slices in circles over bananas, varying colors and shapes."
+        },
+        {
+            "text": "Sprinkle with raisins and nuts."
+        },
+        {
+            "text": "Cut into 10 wedges."
+        }
+    ]
+}

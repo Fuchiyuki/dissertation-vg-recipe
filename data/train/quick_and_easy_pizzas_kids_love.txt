@@ -1,0 +1,127 @@
+{
+    "title": "quick_and_easy_pizzas_kids_love",
+    "id": "fb994ca1e0",
+    "table": [
+        {
+            "instructions": "preheat oven to 300 degrees .",
+            "input": "NA",
+            "action": "preheat",
+            "output": "NA"
+        },
+        {
+            "instructions": "using a rolling pin , gently roll out each biscuit to about 4 5 across on a lightly floured flat surface .",
+            "input": "biscuit",
+            "action": "roll",
+            "output": "rolled_biscuit"
+        },
+        {
+            "instructions": "line muffin tin with each biscuit",
+            "input": "Biscuit",
+            "action": "line",
+            "output": "Biscuits lined in muffin tin"
+        },
+        {
+            "instructions": "gently press into mold .",
+            "input": "Biscuit",
+            "action": "press",
+            "output": "Biscuits pressed into mold"
+        },
+        {
+            "instructions": "insert 2 tbsp of pizza_sauce into each mold .",
+            "input": "(Pizza Sauce; raw biscuits pressed into mold)",
+            "action": "insert",
+            "output": "Pizza sauce inserted in raw biscuits pressed into mold"
+        },
+        {
+            "instructions": "sprinkle 3 tbsp of sausage into each mold .",
+            "input": "(Sausage; raw biscuits pressed into mold with pizza sauce)",
+            "action": "sprinkle",
+            "output": "Sausage sprinkled aw biscuits pressed into mold with pizza sauce"
+        },
+        {
+            "instructions": "sprinkle 3 tbsp shredded_cheese into each mold .",
+            "input": "(Shredded Cheese; raw biscuits pressed into mold with pizza sauce and sausage)",
+            "action": "sprinkle",
+            "output": "Shredded cheese sprinkled in raw biscuits pressed into mold with pizza sauce and sausage"
+        },
+        {
+            "instructions": "insert 1 tbsp each of the onion and green_pepper .",
+            "input": "(Onion, Green Pepper; raw biscuits pressed into mold with pizza sauce, sausage and shredded cheese)",
+            "action": "insert",
+            "output": "Onion and Green pepper mini raw biscuit sausage pizza "
+        },
+        {
+            "instructions": "gently fold over excess biscuit_dough onto the top of each pizza .",
+            "input": "uncooked mini biscuit sausage pizza ",
+            "action": "fold",
+            "output": "uncooked mini biscuit sausage pizza with excess bicuit dough folded"
+        },
+        {
+            "instructions": "bake 300 degrees for about 30 40 minutes or until biscuit is golden brown .",
+            "input": "Uncooked mini biscuit sausage pizza",
+            "action": "bake",
+            "output": "Baked mini biscuit sausage pizza"
+        }
+    ],
+    "ingredients": [
+        {
+            "text": "1 (8 ounce) cangeneric refrigerated biscuits (8 count roll, do not use butter flavor, makes them too greasy)"
+        },
+        {
+            "text": "1 (10 ounce) jar pizza sauce (pick your favorite)"
+        },
+        {
+            "text": "1 cup shredded cheese"
+        },
+        {
+            "text": "1 diced onion"
+        },
+        {
+            "text": "1 green pepper, diced"
+        },
+        {
+            "text": "12 cup mushroom, pieced"
+        },
+        {
+            "text": "8 black olives, chopped"
+        },
+        {
+            "text": "1 12 cups browned sausage, drained and patted dry"
+        },
+        {
+            "text": "14 cup flour"
+        }
+    ],
+    "recipe": [
+        {
+            "text": "Preheat oven to 300 degrees."
+        },
+        {
+            "text": "Using a rolling pin, gently roll out each biscuit to about 4-5\" across on a lightly floured flat surface."
+        },
+        {
+            "text": "Line muffin tin with each biscuit and gently press into mold."
+        },
+        {
+            "text": "Insert 2 TBSP of pizza sauce into each mold."
+        },
+        {
+            "text": "Sprinkle 3 TBSP of sausage into each mold."
+        },
+        {
+            "text": "Sprinkle 3 TBSP shredded cheese into each mold."
+        },
+        {
+            "text": "Insert 1 TBSP each of the onion and green pepper."
+        },
+        {
+            "text": "Place the equivalent of one olive into the mold, about 3/4 of a teaspoons Insert another 2 TBSP of pizza sauce into each mold on the top."
+        },
+        {
+            "text": "Gently fold over excess biscuit dough onto the top of each pizza."
+        },
+        {
+            "text": "Bake 300 degrees for about 30-40 minutes or until biscuit is golden brown."
+        }
+    ]
+}

@@ -1,0 +1,106 @@
+{
+    "title": "low_carb_aburaage_pizza_appetizer",
+    "id": "60ddc3ca81",
+    "table": [
+        {
+            "instructions": "drain the oil from the canned_tuna .",
+            "input": "canned_tuna",
+            "actions": "drain",
+            "output": "drained_canned_tuna"
+        },
+        {
+            "instructions": "slice the green_pepper into rings ,",
+            "input": "green_pepper",
+            "actions": "slice",
+            "output": "sliced_green_pepper"
+        },
+        {
+            "instructions": "slice open 3 aburaage .",
+            "input": "aburaage",
+            "actions": "slice",
+            "output": "sliced_aburaage"
+        },
+        {
+            "instructions": "open them like this .",
+            "input": "sliced_aburaage",
+            "actions": "open",
+            "output": "sliced_aburaage"
+        },
+        {
+            "instructions": "spread on the ketchup ,",
+            "input": "(ketchup; sliced_aburaage)",
+            "actions": "spread",
+            "output": "ketchup_spread_on_aburaage"
+        },
+        {
+            "instructions": "top with the tuna , mayonnaise , cheese , and green_pepper .",
+            "input": "(tuna; mayonnaise; cheese; sliced_green_pepper)",
+            "actions": "top",
+            "output": "(tuna; mayonnaise; cheese; green_pepper_topped_on_aburaage)"
+        },
+        {
+            "instructions": "grill the pizza in a toaster oven 4 minutes at 1200 w.",
+            "input": "pizza",
+            "actions": "grill",
+            "output": "grilled_pizza"
+        }
+    ],
+    "ingredients": [
+        {
+            "text": "1 Aburaage"
+        },
+        {
+            "text": "1/2 can Canned tuna"
+        },
+        {
+            "text": "1 Green pepper"
+        },
+        {
+            "text": "20 grams Pizza cheese"
+        },
+        {
+            "text": "1 tbsp Ketchup"
+        },
+        {
+            "text": "1 tsp Mayonnaise"
+        }
+    ],
+    "recipe": [
+        {
+            "text": "Drain the oil from the canned tuna."
+        },
+        {
+            "text": "Slice the green pepper into rings, and slice open 3 aburaage."
+        },
+        {
+            "text": "Open them like this."
+        },
+        {
+            "text": "Spread on the ketchup, and top with the tuna, mayonnaise, cheese, and green pepper."
+        },
+        {
+            "text": "Grill the pizza in a toaster oven (4 minutes at 1200 W)."
+        },
+        {
+            "text": "It burns easily, so keep an eye on it while it's cooking."
+        },
+        {
+            "text": "And it's done!"
+        },
+        {
+            "text": "If you grill it for too long, it will look like this."
+        },
+        {
+            "text": "I used this ketchup in the recipe."
+        },
+        {
+            "text": "I bought it at the drugstore!"
+        },
+        {
+            "text": "It contains half the carbohydrate and salt content of regular ketchup."
+        },
+        {
+            "text": "The salami version is also delicious--just substitute the tuna with salami."
+        }
+    ]
+}

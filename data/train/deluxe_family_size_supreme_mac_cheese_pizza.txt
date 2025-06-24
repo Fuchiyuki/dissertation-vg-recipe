@@ -1,0 +1,97 @@
+{
+    "title": "deluxe_family_size_supreme_mac_cheese_pizza",
+    "id": "41d244f0bc",
+    "table": [
+        {
+            "instructions": "heat oven to 400 degrees f .",
+            "input": "NA",
+            "actions": "heat",
+            "output": "NA"
+        },
+        {
+            "instructions": "prepare dinner as directed on package .",
+            "input": "dinner",
+            "actions": "prepare",
+            "output": "prepared dinner"
+        },
+        {
+            "instructions": "meanwhile , unroll pizza_dough ;",
+            "input": "pizza_dough",
+            "actions": "unroll",
+            "output": "unrolled_pizza_dough"
+        },
+        {
+            "instructions": "pat into 14 inch thick rectangles on 2 greased baking sheets .",
+            "input": "Unrolled_pizza_dough",
+            "actions": "pat",
+            "output": "Patted_pizza_dough"
+        },
+        {
+            "instructions": "bake 8 min .",
+            "input": "uncooked pizza crust",
+            "actions": "bake",
+            "output": "baked pizza crust"
+        },
+        {
+            "instructions": "spread dinner onto crusts ;",
+            "input": "(Baked_pizza_crust; prepared dinner)",
+            "actions": "spread",
+            "output": "prepared dinner spread on _pizza_crust"
+        },
+        {
+            "instructions": "top with remaining_ingredient .",
+            "input": "(prepared dinner spread on _pizza_crust; remaining_ingredient)",
+            "actions": "top",
+            "output": "pizza_base topped with remaining ingredient"
+        },
+        {
+            "instructions": "bake 10 to 12 min .",
+            "input": "uncooked pizza",
+            "actions": "bake",
+            "output": "Cooked pizza"
+        }
+    ],
+    "ingredients": [
+        {
+            "text": "1 pkg. (24 oz.) KRAFT Deluxe Macaroni & Cheese Dinner"
+        },
+        {
+            "text": "2 cans (13.8 oz. each) refrigerated pizza dough"
+        },
+        {
+            "text": "1 lb. Italian sausage, cooked, drained"
+        },
+        {
+            "text": "1 cup chopped green peppers"
+        },
+        {
+            "text": "1 pkg. (8 oz.) KRAFT Shredded Low-Moisture Part-Skim Mozzarella Cheese"
+        },
+        {
+            "text": "1/2 cup KRAFT Grated Parmesan Cheese"
+        }
+    ],
+    "recipe": [
+        {
+            "text": "Heat oven to 400 degrees F."
+        },
+        {
+            "text": "Prepare Dinner as directed on package."
+        },
+        {
+            "text": "Meanwhile, unroll pizza dough; pat into 1/4-inch-thick rectangles on 2 greased baking sheets."
+        },
+        {
+            "text": "Bake 8 min."
+        },
+        {
+            "text": "Spread Dinner onto crusts; top with remaining ingredients."
+        },
+        {
+            "text": "Bake 10 to 12 min."
+        },
+        {
+            "text": "or until edges of crusts are golden brown."
+        }
+    ]
+}

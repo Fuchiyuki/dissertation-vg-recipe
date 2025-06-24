@@ -1,0 +1,115 @@
+{
+    "title": "meaty_french_bread_pizza",
+    "id": "4917e7baa1",
+    "table": [
+        {
+            "instructions": "preheat your oven to 375",
+            "input": "NA",
+            "action": "preheat",
+            "output": "NA"
+        },
+        {
+            "instructions": "line a baking sheet with tin foil .",
+            "input": "NA",
+            "action": "line",
+            "output": "NA"
+        },
+        {
+            "instructions": "spread pizza_sauce on the 4 pieces of bread .",
+            "input": "(pizza_sauce; pieces of bread)",
+            "action": "spread",
+            "output": "spread_pizza_sauce on pieces of bread"
+        },
+        {
+            "instructions": "top each piece with shredded mozzarella , and half the parmesan_cheese .",
+            "input": "(shredded mozzarella; parmesan cheese; pieces of bread with pizza sauce)",
+            "action": "top",
+            "output": "pieces of bread with pizza sauce topped with shredded mozzarella and parmesan cheese"
+        },
+        {
+            "instructions": "top with slices of meatballs , sausage , and pepperoni .",
+            "input": "(sliced meatballs; sausage; pepperoni; pieces of bread with pizza sauce, shredded mozzarella and parmesan cheese )",
+            "action": "top",
+            "output": "pieces of bread with pizza sauce, shredded mozzarella and parmesan cheese topped with slices of meatballs , sausage , and pepperoni"
+        },
+        {
+            "instructions": "add thinly sliced onion .",
+            "input": "(sliced onion; pieces of bread with pizza sauce, shredded mozzarella, parmesan cheese, slices of meatballs , sausage , and pepperoni)",
+            "action": "add",
+            "output": "pieces of bread with pizza sauce, shredded mozzarella, parmesan cheese, slices of meatballs , sausage , pepperoni and sliced onion"
+        },
+        {
+            "instructions": "sprinkle with remaining parm , cheese and",
+            "input": "(remaining parmesan cheese; pieces of bread with pizza sauce, shredded mozzarella, parmesan cheese, slices of meatballs , sausage , pepperoni and sliced onion )",
+            "action": "sprinkle",
+            "output": "parmesan cheese sprinkled on meaty_french_bread_pizza"
+        },
+        {
+            "instructions": "add the 4 pizzas to the pan .",
+            "input": "uncooked meaty_french_bread_pizza",
+            "action": "add",
+            "output": "uncooked meaty_french_bread_pizza"
+        },
+        {
+            "instructions": "bake for 10 12 minutes until pizza is bubbly and browning .",
+            "input": "uncooked meaty_french_bread_pizza",
+            "action": "bake",
+            "output": "baked meaty_french_bread_pizza"
+        }
+    ],
+    "ingredients": [
+        {
+            "text": "1 Italian bread, slice horizontally, and cut in half (for 4 servings)"
+        },
+        {
+            "text": "12-34 cup pizza sauce"
+        },
+        {
+            "text": "1 -2 cup mozzarella cheese"
+        },
+        {
+            "text": "34 cup grated parmesan cheese"
+        },
+        {
+            "text": "1 onion, thinly sliced"
+        },
+        {
+            "text": "8 cooked meatballs, sliced"
+        },
+        {
+            "text": "2 Italian sausages, cooked and sliced"
+        },
+        {
+            "text": "3 ounces pepperoni, sliced"
+        },
+        {
+            "text": "sliced mushrooms (optional) or bell peppers (optional) or olives (optional) or red pepper flakes (optional)"
+        }
+    ],
+    "recipe": [
+        {
+            "text": "preheat your oven to 375 and line a baking sheet with tin foil."
+        },
+        {
+            "text": "spread pizza sauce on the 4 pieces of bread."
+        },
+        {
+            "text": "top each piece with shredded mozzarella, and half the parmesan cheese."
+        },
+        {
+            "text": "top with slices of meatballs, sausage, and pepperoni."
+        },
+        {
+            "text": "add thinly sliced onion."
+        },
+        {
+            "text": "sprinkle with remaining parm cheese and"
+        },
+        {
+            "text": "add the 4 pizzas to the pan."
+        },
+        {
+            "text": "bake for 10-12 minutes until pizza is bubbly and browning."
+        }
+    ]
+}

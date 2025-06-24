@@ -1,0 +1,94 @@
+{
+    "title": "ham_and_swiss_pizza",
+    "id": "4cde95f65f",
+    "table": [
+        {
+            "instructions": "heat oven to 400 degrees f .",
+            "input": "NA",
+            "actions": "heat",
+            "output": "NA"
+        },
+        {
+            "instructions": "cook peppers and onions in medium skillet in small amount of boiling_water 2 to 3 min .",
+            "input": "(peppers; onions; boiling_water)",
+            "actions": "cook",
+            "output": "cooked_peppers and onions in boiling_water"
+        },
+        {
+            "instructions": "drain .",
+            "input": "cooked_peppers and onions in boiling_water",
+            "actions": "drain",
+            "output": "drained cooked_peppers and onions in boiling_water"
+        },
+        {
+            "instructions": "stir in mustard and basil .",
+            "input": "(cooked peppers and onions; mustard; basil)",
+            "actions": "stir",
+            "output": "pepper mixture"
+        },
+        {
+            "instructions": "place crust on lightly greased baking sheet ;",
+            "input": "pizza crust",
+            "actions": "place",
+            "output": "pizza crust"
+        },
+        {
+            "instructions": "top with pepper mixture , ham and swis_cheese .",
+            "input": "(pizza_crust; pepper mixture; ham; swiss_cheese)",
+            "actions": "top",
+            "output": "pizza_crust topped with pepper mixture; ham and swiss cheese"
+        },
+        {
+            "instructions": "bake 8 to 10 min .",
+            "input": "uncooked ham_and_swiss_pizza",
+            "actions": "bake",
+            "output": "baked ham_and_swiss_pizza"
+        }
+    ],
+    "ingredients": [
+        {
+            "text": "3/4 cup red pepper strips"
+        },
+        {
+            "text": "1 small onion, sliced, separated into rings"
+        },
+        {
+            "text": "2 Tbsp. GREY POUPON Country Dijon Mustard"
+        },
+        {
+            "text": "1/2 tsp. dried basil leaves"
+        },
+        {
+            "text": "1 ready-to-use baked pizza crust (12 inch)"
+        },
+        {
+            "text": "1 cup chopped lean ham"
+        },
+        {
+            "text": "1 cup KRAFT Shredded Swiss Cheese"
+        }
+    ],
+    "recipe": [
+        {
+            "text": "Heat oven to 400 degrees F."
+        },
+        {
+            "text": "Cook peppers and onions in medium skillet in small amount of boiling water 2 to 3 min."
+        },
+        {
+            "text": "or until tender; drain."
+        },
+        {
+            "text": "Stir in mustard and basil."
+        },
+        {
+            "text": "Place crust on lightly greased baking sheet; top with pepper mixture, ham and Swiss cheese."
+        },
+        {
+            "text": "Bake 8 to 10 min."
+        },
+        {
+            "text": "or until cheese is melted and pizza is heated through."
+        }
+    ]
+}

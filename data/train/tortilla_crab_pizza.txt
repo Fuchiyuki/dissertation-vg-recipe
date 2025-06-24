@@ -1,0 +1,163 @@
+{
+    "title": "tortilla_crab_pizza",
+    "id": "165f725485",
+    "table": [
+        {
+            "instructions": "preheat oven to 425f for pyrex , or 450f for a metal , pizza\u2012pan .",
+            "input": "NA",
+            "action": "preheat",
+            "output": "NA"
+        },
+        {
+            "instructions": "place flour_tortilla onto pizza\u2012pan",
+            "input": "flour_tortilla",
+            "action": "place",
+            "output": "Flour tortilla on pizza\u2012pan"
+        },
+        {
+            "instructions": "spread on cream_cheese .",
+            "input": "(Flour tortilla on pizza\u2012pan; cream cheese)",
+            "action": "spread",
+            "output": "Flour tortilla with spread cream cheese"
+        },
+        {
+            "instructions": "top with imitation_crab_meat and onion .",
+            "input": "(Flour tortilla with spread cream cheese; imitation crab meat; onion)",
+            "action": "top",
+            "output": "Flour tortilla topped with cream cheese, imitation crab meat and onion."
+        },
+        {
+            "instructions": "lightly sprinkle with garlic_powder , salt , black_pepper , and cayenne .",
+            "input": "(Flour tortilla topped with cream cheese, imitation crab meat and onion; garlic powder; salt; black pepper; cayenne)",
+            "action": "sprinkle",
+            "output": "seasoned flour tortilla with cream cheese, imitation crab meat, onion, and spices"
+        },
+        {
+            "instructions": "top with swiss and cheddar_cheese .",
+            "input": "(seasoned flour tortilla with cream cheese, imitation crab meat, onion, and spices; swiss cheese; cheddar cheese)",
+            "action": "top",
+            "output": "seasoned flour tortilla with cream cheese, imitation crab meat, onion, spices, swiss and cheddar cheese"
+        },
+        {
+            "instructions": "top cheeses with the snipped basil .",
+            "input": "(seasoned flour tortilla with cream cheese, imitation crab meat, onion, spices, swiss and cheddar cheese; snipped basil)",
+            "action": "top",
+            "output": "seasoned flour tortilla with cream cheese, imitation crab meat, onion, spices, swiss and cheddar cheese, and snipped basil"
+        },
+        {
+            "instructions": "bake at 425f pyrex or at 450f metal for 15 minutes .",
+            "input": "seasoned flour tortilla with cream cheese, imitation crab meat, onion, spices, swiss and cheddar cheese, and snipped basil",
+            "action": "bake",
+            "output": "baked tortilla crab pizza"
+        },
+        {
+            "instructions": "remove from oven",
+            "input": "baked tortilla crab pizza",
+            "action": "remove",
+            "output": "baked tortilla crab pizza"
+        },
+        {
+            "instructions": "immediately slide pizza onto a wire rack so the crust does n't sweat !",
+            "input": "baked tortilla crab pizza",
+            "action": "slide",
+            "output": "baked tortilla crab pizza"
+        },
+        {
+            "instructions": "cool for 10 15 minutes",
+            "input": "baked tortilla crab pizza",
+            "action": "cool",
+            "output": "cooled baked tortilla crab pizza"
+        },
+        {
+            "instructions": "slide the pizza back onto the pizza\u2012pan",
+            "input": "cooled baked tortilla crab pizza",
+            "action": "slide",
+            "output": "cooled baked tortilla crab pizza"
+        },
+        {
+            "instructions": "cut into 8 pieces , with a pizza cutter .",
+            "input": "cooled baked tortilla crab pizza",
+            "action": "cut",
+            "output": "sliced cooled baked tortilla crab pizza"
+        }
+    ],
+    "ingredients": [
+        {
+            "text": "1 tablespoon olive oil"
+        },
+        {
+            "text": "1 flour tortilla (one 10-inch tortilla)"
+        },
+        {
+            "text": "3 tablespoons neufchatel low-fat cream cheese"
+        },
+        {
+            "text": "8 ounces imitation crabmeat (as chunky as you like!)"
+        },
+        {
+            "text": "3 -4 tablespoons onions (chopped)"
+        },
+        {
+            "text": "garlic powder (just a sprinkling over the entire surface)"
+        },
+        {
+            "text": "salt (to taste)"
+        },
+        {
+            "text": "black pepper (to taste)"
+        },
+        {
+            "text": "cayenne pepper (to taste)"
+        },
+        {
+            "text": "4 ounces swiss cheese (minced or shredded)"
+        },
+        {
+            "text": "12 cup extra-sharp cheddar cheese (shredded)"
+        },
+        {
+            "text": "6 -8 fresh basil leaves (snipped)"
+        }
+    ],
+    "recipe": [
+        {
+            "text": "Preheat oven to 425F for Pyrex, or 450F for a metal pizza pan."
+        },
+        {
+            "text": "Spread olive oil on pizza pan (I use Pyrex!)"
+        },
+        {
+            "text": "to prevent the tortilla from sticking to the pan."
+        },
+        {
+            "text": "Place flour tortilla onto pizza pan and spread on cream cheese."
+        },
+        {
+            "text": "Top with imitation crab meat and onion."
+        },
+        {
+            "text": "Lightly sprinkle with garlic powder, salt, black pepper, and cayenne."
+        },
+        {
+            "text": "Top with swiss and cheddar cheeses."
+        },
+        {
+            "text": "Top cheeses with the snipped basil."
+        },
+        {
+            "text": "Bake at 425F (Pyrex) or at 450F (metal) for 15 minutes."
+        },
+        {
+            "text": "Remove from oven and immediately slide pizza onto a wire rack so the crust doesn't sweat!"
+        },
+        {
+            "text": "Cool for 10-15 minutes, slide the pizza back onto the pizza pan and cut into 8 pieces, with a pizza cutter."
+        },
+        {
+            "text": "Three-four pieces with a green salad is plenty for two-three persons, or as an appetizer for a few folks!"
+        },
+        {
+            "text": "NOTE: Use whatever cheese mixture you like ~ my photo with the blue background is made with swiss and mozzarella, with the basil underneath where it can't be seen!"
+        }
+    ]
+}

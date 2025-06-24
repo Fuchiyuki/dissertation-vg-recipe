@@ -1,0 +1,109 @@
+{
+    "title": "cheesy_pita_pizzas",
+    "id": "1d7fceb732",
+    "table": [
+        {
+            "instructions": "heat oven to 375 degrees f .",
+            "input": "NA",
+            "action": "heat",
+            "output": "NA"
+        },
+        {
+            "instructions": "place pitas on baking sheet ;",
+            "input": "pitas",
+            "action": "place",
+            "output": "pitas"
+        },
+        {
+            "instructions": "brush each with 2 tbsp of olive oil",
+            "input": "(olive oil; pitas)",
+            "action": "brush",
+            "output": "pitas brushed with olive oil"
+        },
+        {
+            "instructions": "bake 8 to 10 min .",
+            "input": "oiled pitas",
+            "action": "bake",
+            "output": "baked oiled pitas"
+        },
+        {
+            "instructions": "cut 2 singles cheese slices in half ;",
+            "input": "cheese slices",
+            "action": "cut",
+            "output": "cut cheese slices"
+        },
+        {
+            "instructions": "place 1 12 singles on each pita .",
+            "input": "(cut cheese slices; baked oiled pitas)",
+            "action": "place",
+            "output": "cut cheese slices on baked oiled pitas"
+        },
+        {
+            "instructions": "top with vegetables ;",
+            "input": "(vegetables; baked pitas with cheese)",
+            "action": "top",
+            "output": "baked pitas with cheese topped with vegetables"
+        },
+        {
+            "instructions": "drizzle with remaining dressing .",
+            "input": "(dressing; baked pitas with cheese topped with vegetables)",
+            "action": "drizzle",
+            "output": "dressing drizzled on  baked pitas with cheese topped with vegetables"
+        },
+        {
+            "instructions": "bake 1 to 2 min .",
+            "input": "uncooked vegetable pita pizza",
+            "action": "bake",
+            "output": "baked vegetable pita pizza"
+        }
+    ],
+    "ingredients": [
+        {
+            "text": "4 pita breads"
+        },
+        {
+            "text": "1/2 cup KRAFT Italian Dressing, divided"
+        },
+        {
+            "text": "6 KRAFT Singles"
+        },
+        {
+            "text": "1/2 each red and green pepper, chopped"
+        },
+        {
+            "text": "1/2 cup sliced fresh mushrooms"
+        },
+        {
+            "text": "4 red onion slices"
+        }
+    ],
+    "recipe": [
+        {
+            "text": "Heat oven to 375 degrees F."
+        },
+        {
+            "text": "Place pitas on baking sheet; brush each with 2 Tbsp."
+        },
+        {
+            "text": "dressing."
+        },
+        {
+            "text": "Bake 8 to 10 min."
+        },
+        {
+            "text": "or until lightly browned."
+        },
+        {
+            "text": "Cut 2 Singles in half; place 1-1/2 Singles on each pita."
+        },
+        {
+            "text": "Top with vegetables; drizzle with remaining dressing."
+        },
+        {
+            "text": "Bake 1 to 2 min."
+        },
+        {
+            "text": "or until Singles begin to melt."
+        }
+    ]
+}

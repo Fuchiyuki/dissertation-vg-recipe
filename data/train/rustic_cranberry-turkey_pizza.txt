@@ -1,0 +1,103 @@
+{
+    "title": "rustic_cranberry-turkey_pizza",
+    "id": "8b77381332",
+    "table": [
+        {
+            "instructions": "stir Instant smoked deli turkey meat.",
+            "input": "(liquid smoke; deli turkey meat)",
+            "action": "stir",
+            "output": "instant smoked deli turkey strips"
+        },
+        {
+            "instructions": "preheat oven to 350 degrees .",
+            "input": "NA",
+            "action": "preheat",
+            "output": "NA"
+        },
+        {
+            "instructions": "place pizza_crust on a pizza stone or large baking sheet",
+            "input": "pizza_crust",
+            "action": "place",
+            "output": "pizza_crust"
+        },
+        {
+            "instructions": "spread evenly with cranberry_sauce .",
+            "input": "(cranberry sauce; pizza crust)",
+            "action": "spread",
+            "output": "pizza crust with spread cranberry sauce"
+        },
+        {
+            "instructions": "top with turkey strips ;",
+            "input": "(pizza crust with spread cranberry sauce; instant smoked deli turkey strips)",
+            "action": "top",
+            "output": "pizza crust with spread cranberry sauce and instant smoked deli turkey strips"
+        },
+        {
+            "instructions": "sprinkle with green_onion and cheese .",
+            "input": "(pizza crust with spread cranberry sauce and instant smoked deli turkey strips; green onion; cheese)",
+            "action": "sprinkle",
+            "output": "pizza crust with spread cranberry sauce, instant smoked deli turkey strips, green onion and cheese"
+        },
+        {
+            "instructions": "bake for 10 minutes until cheese is melted and pizza is heated through .",
+            "input": "uncooked cranberry turkey pizza",
+            "action": "bake",
+            "output": "baked cranberry turkey pizza"
+        },
+        {
+            "instructions": "garnish with fresh_sage , if desired .",
+            "input": "(optional sage; baked cranberry turkey pizza)",
+            "action": "garnish",
+            "output": "baked cranberry turkey pizza garnished with optional sage"
+        }
+    ],
+    "ingredients": [
+        {
+            "text": "1 thin pizza crust, baked (we like a light whole wheat thin crust-homemade)"
+        },
+        {
+            "text": "2 cups whole-berry cranberry sauce, to room temperature (see Basic Cranberry Sauce or use your leftover cranberry sauce from Thanksgiving)"
+        },
+        {
+            "text": "34 cup sliced green onion, using both white and green parts"
+        },
+        {
+            "text": "8 ounces shredded monterey jack cheese (I chose a medium sharp white cheddar)"
+        },
+        {
+            "text": "14 lb turkey, cut into thin strips (original recipe specifies deli smoked turkey)"
+        },
+        {
+            "text": "fresh sage, cut into ribbons (optional and my addition)"
+        }
+    ],
+    "recipe": [
+        {
+            "text": "(I added 1/2 teaspoon Wright's Liquid Smoke to the turkey."
+        },
+        {
+            "text": "Stir."
+        },
+        {
+            "text": "Instant smoked deli turkey meat."
+        },
+        {
+            "text": ")."
+        },
+        {
+            "text": "Preheat oven to 350 degrees."
+        },
+        {
+            "text": "Place pizza crust on a pizza stone or large baking sheet and spread evenly with cranberry sauce."
+        },
+        {
+            "text": "Top with turkey strips; sprinkle with green onions and cheese."
+        },
+        {
+            "text": "Bake for 10 minutes until cheese is melted and pizza is heated through."
+        },
+        {
+            "text": "Garnish with fresh sage, if desired."
+        }
+    ]
+}

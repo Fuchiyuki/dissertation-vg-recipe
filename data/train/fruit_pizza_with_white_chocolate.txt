@@ -1,0 +1,208 @@
+{
+    "title": "fruit_pizza_with_white_chocolate",
+    "id": "a27614d707",
+    "table": [
+        {
+            "instructions": "preheat oven to 400 degrees f 200 degrees c.",
+            "input": "NA",
+            "action": "preheat",
+            "output": "NA"
+        },
+        {
+            "instructions": "lightly grease a cookie sheet .",
+            "input": "NA",
+            "action": "grease",
+            "output": "NA"
+        },
+        {
+            "instructions": "for the crust cream together butter , shortening and 1 12 cups sugar with electric mixer .",
+            "input": "(butter; shortening; sugar)",
+            "action": "cream",
+            "output": "creamed butter and shortening mixture"
+        },
+        {
+            "instructions": "beat in eggs .",
+            "input": "(creamed butter and shortening mixture; eggs)",
+            "action": "beat",
+            "output": "eggs beaten in creamed butter and shortening mixture"
+        },
+        {
+            "instructions": "in a separate bowl , stir together flour , cream_of_tartar , baking_soda and salt .",
+            "input": "(flour; cream_of_tartar; baking soda; salt)",
+            "action": "stir",
+            "output": "flour mixture"
+        },
+        {
+            "instructions": "beat flour mixture into butter mixture to form a stiff dough .",
+            "input": "(flour mixture; creamed butter and shortening mixture)",
+            "action": "beat",
+            "output": "stiff dough"
+        },
+        {
+            "instructions": "press dough into a rectangle as large as the baking sheet .",
+            "input": "stiff dough",
+            "action": "press",
+            "output": "pressed dough"
+        },
+        {
+            "instructions": "bake for 10 minutes in the preheated oven , or until light brown .",
+            "input": "pressed dough",
+            "action": "bake",
+            "output": "baked cookie crust"
+        },
+        {
+            "instructions": "for the filling in medium microwave safe bowl , microwave vanilla_chip and cream on high 60 to 90 seconds , or until chips are melted and smooth after stirring .",
+            "input": "(vanilla_chip; cream)",
+            "action": "microwave",
+            "output": "microwaved vanilla cream mixture"
+        },
+        {
+            "instructions": "beat in cream_cheese with electric mixer until creamy .",
+            "input": "(cream cheese; microwaved vanilla cream mixture)",
+            "action": "beat",
+            "output": "cream cheese and vanilla filling"
+        },
+        {
+            "instructions": "spread on cooled cookie crust .",
+            "input": "(cream cheese and vanilla filling; cooled baked cookie crust)",
+            "action": "spread",
+            "output": "cream cheese and vanilla filling spread on cooled cookie crust"
+        },
+        {
+            "instructions": "for the topping arrange sliced fruit decoratively over filling .",
+            "input": "(sliced fruit; cookie crust with cream cheese and vanilla filling)",
+            "action": "arrange",
+            "output": "sliced fruits arranged over cookie crust with cream cheese and vanilla filling"
+        },
+        {
+            "instructions": "in a medium saucepan over medium heat , combine 12 cup sugar , cornstarch , pineapple and lemon_juice .",
+            "input": "(sugar; cornstarch; pineapple juice; lemon juice)",
+            "action": "combine",
+            "output": "pineapple and lemon juice mixture"
+        },
+        {
+            "instructions": "stir",
+            "input": "pineapple and lemon juice mixture",
+            "action": "stir",
+            "output": "stirred pineapple and lemon juice mixture"
+        },
+        {
+            "instructions": "cook until sugar dissolves and mixture thickens .",
+            "input": "stirred pineapple and lemon juice mixture",
+            "action": "cook",
+            "output": "cooked pineapple and lemon juice glaze"
+        },
+        {
+            "instructions": "pour over fruit .",
+            "input": "(cooked pineapple and lemon juice glaze; cookie crust with cream cheese and vanilla filling and sliced fruits)",
+            "action": "pour",
+            "output": "pineapple and lemon juice glaze poured over fruit pizza"
+        },
+        {
+            "instructions": "refrigerate until serving .",
+            "input": "fruit_pizza",
+            "action": "refrigerate",
+            "output": "refrigerated fruit_pizza"
+        }
+    ],
+    "ingredients": [
+        {
+            "text": "1/2 cup butter"
+        },
+        {
+            "text": "1/2 cup shortening"
+        },
+        {
+            "text": "1 1/2 cups white sugar"
+        },
+        {
+            "text": "2 eggs"
+        },
+        {
+            "text": "2 3/4 cups all-purpose flour"
+        },
+        {
+            "text": "2 teaspoons cream of tartar"
+        },
+        {
+            "text": "1 teaspoon baking soda"
+        },
+        {
+            "text": "1/4 teaspoon salt"
+        },
+        {
+            "text": "2 cups vanilla baking chips"
+        },
+        {
+            "text": "1/4 cup heavy cream"
+        },
+        {
+            "text": "1 (8 ounce) package cream cheese"
+        },
+        {
+            "text": "1 pint fresh strawberries, sliced"
+        },
+        {
+            "text": "1/2 cup white sugar"
+        },
+        {
+            "text": "2 tablespoons cornstarch"
+        },
+        {
+            "text": "1 cup pineapple juice"
+        },
+        {
+            "text": "1 teaspoon lemon juice"
+        }
+    ],
+    "recipe": [
+        {
+            "text": "Preheat oven to 400 degrees F (200 degrees C)."
+        },
+        {
+            "text": "Lightly grease a cookie sheet."
+        },
+        {
+            "text": "For the crust: Cream together butter, shortening and 1 1/2 cups sugar with electric mixer."
+        },
+        {
+            "text": "Beat in eggs."
+        },
+        {
+            "text": "In a separate bowl, stir together flour, cream of tartar, baking soda and salt."
+        },
+        {
+            "text": "Beat flour mixture into butter mixture to form a stiff dough."
+        },
+        {
+            "text": "Press dough into a rectangle as large as the baking sheet."
+        },
+        {
+            "text": "Bake for 10 minutes in the preheated oven, or until light brown."
+        },
+        {
+            "text": "For the filling: In medium microwave safe bowl, microwave vanilla chips and cream on high 60 to 90 seconds, or until chips are melted and smooth after stirring."
+        },
+        {
+            "text": "Beat in cream cheese with electric mixer until creamy."
+        },
+        {
+            "text": "Spread on cooled cookie crust."
+        },
+        {
+            "text": "For the topping: Arrange sliced fruit decoratively over filling."
+        },
+        {
+            "text": "In a medium saucepan over medium heat, combine 1/2 cup sugar, cornstarch, pineapple and lemon juices."
+        },
+        {
+            "text": "Stir and cook until sugar dissolves and mixture thickens."
+        },
+        {
+            "text": "Pour over fruit."
+        },
+        {
+            "text": "Refrigerate until serving."
+        }
+    ]
+}

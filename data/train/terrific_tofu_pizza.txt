@@ -1,0 +1,142 @@
+{
+    "title": "terrific_tofu_pizza",
+    "id": "494240ef37",
+    "table": [
+        {
+            "instructions": "place oven rack in top third of oven .",
+            "input": "NA",
+            "action": "place",
+            "output": "NA"
+        },
+        {
+            "instructions": "preheat to 500f 260c .",
+            "input": "NA",
+            "action": "preheat",
+            "output": "NA"
+        },
+        {
+            "instructions": "line a rimmed baking sheet with foil .",
+            "input": "NA",
+            "action": "line",
+            "output": "NA"
+        },
+        {
+            "instructions": "slice flock of tofu in half horizontally to form 2 thinner slices .",
+            "input": "flock_of_tofu",
+            "action": "slice",
+            "output": "tofu_slices"
+        },
+        {
+            "instructions": "then cut each piece in half .",
+            "input": "tofu_slices",
+            "action": "cut",
+            "output": "tofu_slice_halved"
+        },
+        {
+            "instructions": "pat dry with paper towels .",
+            "input": "tofu_slice_halved",
+            "action": "pat",
+            "output": "tofu_slice_halved patted dry"
+        },
+        {
+            "instructions": "place tofu on foil lined pan .",
+            "input": "tofu_slice_halved patted dry",
+            "action": "place",
+            "output": "tofu_slice_halved patted dry"
+        },
+        {
+            "instructions": "in a bowl stir salsa with olives ,",
+            "input": "(salsa; olives)",
+            "action": "stir",
+            "output": "salsa_mix"
+        },
+        {
+            "instructions": "spoon over tofu",
+            "input": "(salsa_mix; tofu_slice_halved patted dry)",
+            "action": "spoon",
+            "output": "salsa_topped_tofu"
+        },
+        {
+            "instructions": "spread to edges .",
+            "input": "salsa_topped_tofu",
+            "action": "spread",
+            "output": "salsa_covered_tofu"
+        },
+        {
+            "instructions": "sprinkle with half of cheddar , then feta",
+            "input": "(salsa_covered_tofu; cheddar; feta)",
+            "action": "sprinkle",
+            "output": "cheddar_and feta_topped_tofu with salsa mix"
+        },
+        {
+            "instructions": "place in oven ;",
+            "input": "tofu slices with cheddar, feta and salsa",
+            "action": "place",
+            "output": "tofu slices with cheddar, feta and salsa"
+        },
+        {
+            "instructions": "turn oven to broil to cook until cheese melts , 6 8 minute sprinkle with green_onion .",
+            "input": "tofu slices with cheddar, feta and salsa",
+            "action": "turn",
+            "output": "broiled tofu slices with cheddar, feta and salsa"
+        }
+    ],
+    "ingredients": [
+        {
+            "text": "1 (350 g) package extra firm tofu"
+        },
+        {
+            "text": "12 cup chunky salsa"
+        },
+        {
+            "text": "14 cup black olives, pitted and coarsely chopped"
+        },
+        {
+            "text": "12 cup grated cheddar cheese, preferably orange-coloured"
+        },
+        {
+            "text": "14 cup crumbled feta"
+        },
+        {
+            "text": "1 pinch dried oregano"
+        },
+        {
+            "text": "1 green onion, thinly sliced"
+        }
+    ],
+    "recipe": [
+        {
+            "text": "Place oven rack in top third of oven."
+        },
+        {
+            "text": "Preheat to 500F (260C)."
+        },
+        {
+            "text": "Line a rimmed baking sheet with foil."
+        },
+        {
+            "text": "Slice flock of tofu in half horizontally to form 2 thinner slices."
+        },
+        {
+            "text": "Then cut each piece in half."
+        },
+        {
+            "text": "Pat dry with paper towels."
+        },
+        {
+            "text": "Place tofu on foil-lined pan."
+        },
+        {
+            "text": "In a bowl stir salsa with olives, then spoon over tofu and spread to edges."
+        },
+        {
+            "text": "Sprinkle with half of cheddar, then feta."
+        },
+        {
+            "text": "Finish with remaining cheddar and oregano."
+        },
+        {
+            "text": "Place in oven Turn oven to broil to cook until cheese melts, 6-8 minute Sprinkle with green onion."
+        }
+    ]
+}

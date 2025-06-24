@@ -1,0 +1,115 @@
+{
+    "title": "ham_brussels_sprouts_naan_pizza",
+    "id": "9c4f3dbcda",
+    "table": [
+        {
+            "instructions": "preheat oven to 400 degrees f .",
+            "input": "NA",
+            "action": "preheat",
+            "output": "NA"
+        },
+        {
+            "instructions": "line a large baking sheet with parchment paper .",
+            "input": "NA",
+            "action": "line",
+            "output": "NA"
+        },
+        {
+            "instructions": "place breads on the baking sheet .",
+            "input": "breads",
+            "action": "place",
+            "output": "breads"
+        },
+        {
+            "instructions": "divide the mozzarella between each one , then top with ham .",
+            "input": "(mozzarella; ham; breads)",
+            "action": "divide",
+            "output": "Bread topped with mozzarella and ham"
+        },
+        {
+            "instructions": "in a small bowl , toss the brussel_sprout with olive_oil and balsamic_vinegar .",
+            "input": "(brussels sprouts; olive oil; balsamic vinegar)",
+            "action": "toss",
+            "output": "brussels sprouts tossed with olive oil and balsamic vinegar"
+        },
+        {
+            "instructions": "divide brussel_sprout evenly over each pizza .",
+            "input": "(Bread topped with mozzarella and ham; brussels sprouts tossed with olive oil and balsamic vinegar)",
+            "action": "divide",
+            "output": "Bread topped with mozzarella, ham, and brussels sprouts tossed with olive oil and balsamic vinegar"
+        },
+        {
+            "instructions": "bake pizzas for 15 minutes , until cheese is bubbly .",
+            "input": "uncooked brussels sprout bread pizzas",
+            "action": "bake",
+            "output": "baked brussels sprout bread pizzas"
+        },
+        {
+            "instructions": "to serve",
+            "input": "NA",
+            "action": "serve",
+            "output": "NA"
+        },
+        {
+            "instructions": "drizzle with balsamic_vinegar",
+            "input": "(baked brussels sprout bread pizzas; balsamic vinegar)",
+            "action": "drizzle",
+            "output": "baked brussels sprout bread pizzas drizzled with balsamic vinegar"
+        },
+        {
+            "instructions": "sprinkle parmesan on top .",
+            "input": "(baked brussels sprout bread pizzas drizzled with balsamic vinegar; parmesan)",
+            "action": "sprinkle",
+            "output": "baked brussels sprout bread pizzas with balsamic vinegar and parmesan cheese"
+        }
+    ],
+    "ingredients": [
+        {
+            "text": "4 whole Naan Breads"
+        },
+        {
+            "text": "1 cup Shredded Mozzarella"
+        },
+        {
+            "text": "1/4 pounds Ham, Diced"
+        },
+        {
+            "text": "1 cup Shredded Brussels Sprouts"
+        },
+        {
+            "text": "1 teaspoon Olive Oil"
+        },
+        {
+            "text": "1 teaspoon Balsamic Vinegar Plus More For Drizzling"
+        },
+        {
+            "text": "1/4 cups Grated Parmesan, For Serving"
+        }
+    ],
+    "recipe": [
+        {
+            "text": "Preheat oven to 400 degrees F."
+        },
+        {
+            "text": "Line a large baking sheet with parchment paper."
+        },
+        {
+            "text": "Place breads on the baking sheet."
+        },
+        {
+            "text": "Divide the mozzarella between each one, then top with ham."
+        },
+        {
+            "text": "In a small bowl, toss the Brussels sprouts with olive oil and balsamic vinegar."
+        },
+        {
+            "text": "Divide Brussels sprouts evenly over each pizza."
+        },
+        {
+            "text": "Bake pizzas for 15 minutes, until cheese is bubbly."
+        },
+        {
+            "text": "To serve, drizzle with balsamic vinegar and sprinkle Parmesan on top."
+        }
+    ]
+}

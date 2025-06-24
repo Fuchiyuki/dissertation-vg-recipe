@@ -1,0 +1,94 @@
+{
+    "title": "egg_and_feta_brunch_pizzas",
+    "id": "435d0b5393",
+    "table": [
+        {
+            "instructions": "heat oven to 375 degrees f .",
+            "input": "NA",
+            "action": "heat",
+            "output": "NA"
+        },
+        {
+            "instructions": "unroll pizza_dough onto baking sheet sprayed with cooking_spray ;",
+            "input": "pizza_dough",
+            "action": "unroll",
+            "output": "unrolled_pizza_dough"
+        },
+        {
+            "instructions": "roll or press into 15x11 inch rectangle .",
+            "input": "pizza_dough",
+            "action": "roll",
+            "output": "pizza crust"
+        },
+        {
+            "instructions": "spread with salsa to within 12 inch of edges ;",
+            "input": "(salsa; pizza crust)",
+            "action": "spread",
+            "output": "salsa spread on pizza crust"
+        },
+        {
+            "instructions": "top with next 3 ingredients .",
+            "input": "(poblano chile; chopped red onion; Crumbled Feta Cheese; pizza crust with salsa)",
+            "action": "top",
+            "output": "pizza crust with salsa topped with poblano chile, chopped red onion, crumbled feta cheese"
+        },
+        {
+            "instructions": "use your fingers to make 6 2 inch wide wells in dough ;",
+            "input": "pizza crust with salsa topped with poblano chile, chopped red onion, crumbled feta cheese",
+            "action": "use",
+            "output": "wells made into pizza crust with salsa topped with poblano chile, chopped red onion, crumbled feta cheese"
+        },
+        {
+            "instructions": "slip 1 cracked egg into each well .",
+            "input": "(egg; pizza crust with salsa topped with poblano chile, chopped red onion, crumbled feta cheese with wells )",
+            "action": "slip",
+            "output": "egg slipped into wells of pizza crust with salsa topped with poblano chile, chopped red onion, crumbled feta cheese"
+        },
+        {
+            "instructions": "bake 15 to 18 min .",
+            "input": "uncooked egg_and_feta_brunch_pizzas",
+            "action": "bake",
+            "output": "baked egg_and_feta_brunch_pizzas"
+        }
+    ],
+    "ingredients": [
+        {
+            "text": "1 can (391 g) refrigerated pizza crust"
+        },
+        {
+            "text": "1/2 cup tomatillo salsa"
+        },
+        {
+            "text": "1 poblano chile, chopped"
+        },
+        {
+            "text": "3 Tbsp. chopped red onions"
+        },
+        {
+            "text": "1 cup Cracker Barrel Crumbled Feta Cheese with Oregano, Sun Dried Tomatoes and Black Pepper"
+        },
+        {
+            "text": "6 eggs"
+        }
+    ],
+    "recipe": [
+        {
+            "text": "Heat oven to 375 degrees F."
+        },
+        {
+            "text": "Unroll pizza dough onto baking sheet sprayed with cooking spray; roll or press into 15x11-inch rectangle."
+        },
+        {
+            "text": "Spread with salsa to within 1/2 inch of edges; top with next 3 ingredients."
+        },
+        {
+            "text": "Use your fingers to make 6 (2-inch-wide) wells in dough; slip 1 cracked egg into each well."
+        },
+        {
+            "text": "Bake 15 to 18 min."
+        },
+        {
+            "text": "or until edges of crust are golden brown, egg whites are set and yolks are cooked to desired doneness."
+        }
+    ]
+}

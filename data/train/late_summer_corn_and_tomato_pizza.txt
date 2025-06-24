@@ -1,0 +1,193 @@
+{
+    "title": "late_summer_corn_and_tomato_pizza",
+    "id": "09763ace23",
+    "table": [
+        {
+            "instructions": "preheat oven to 400 degrees f .",
+            "input": "NA",
+            "action": "preheat",
+            "output": "NA"
+        },
+        {
+            "instructions": "add the sliced onion and jalapeno pepper ;",
+            "input": "(sliced onion; jalapeno pepper)",
+            "action": "add",
+            "output": "sliced onion and jalapeno pepper"
+        },
+        {
+            "instructions": "saute 5 minutes , or until onions start to soften .",
+            "input": "sliced onion and jalapeno pepper",
+            "action": "saute",
+            "output": "sauted sliced onion and jalapeno pepper"
+        },
+        {
+            "instructions": "add the garlic",
+            "input": "(garlic; sauted sliced onion and jalapeno pepper)",
+            "action": "add",
+            "output": "sauted sliced onion and jalapeno pepper with garlic"
+        },
+        {
+            "instructions": "add the corn",
+            "input": "(corn; sauted sliced onion and jalapeno pepper with garlic)",
+            "action": "add",
+            "output": "sauted sliced onion and jalapeno pepper with garlic and corn"
+        },
+        {
+            "instructions": "saute an additional 5 minutes .",
+            "input": "sauted sliced onion and jalapeno pepper with garlic and corn",
+            "action": "saute",
+            "output": "sauted sliced onion and jalapeno pepper with garlic and corn"
+        },
+        {
+            "instructions": "add half the cilantro and all of the lime_juice .",
+            "input": "(cilantro; lime_juice; sauted sliced onion and jalapeno pepper with garlic and corn)",
+            "action": "add",
+            "output": "sauted sliced onion and jalapeno pepper with garlic, corn, cilantro and lime juice"
+        },
+        {
+            "instructions": "stir in the tomatoes",
+            "input": "(tomatoes; sauted sliced onion and jalapeno pepper with garlic, corn, cilantro and lime juice)",
+            "action": "stir",
+            "output": "sauted sliced onion and jalapeno pepper with garlic, corn, cilantro and lime juice stirred in tomatoes"
+        },
+        {
+            "instructions": "saute about 5 more minutes .",
+            "input": "sauted sliced onion and jalapeno pepper with garlic, corn, cilantro and lime juice stirred in tomatoes",
+            "action": "saute",
+            "output": "sauted sliced onion and jalapeno pepper with garlic, corn, cilantro and lime juice stirred in tomatoes"
+        },
+        {
+            "instructions": "season with a pinch of salt and pepper .",
+            "input": "(salt; pepper; sauted sliced onion and jalapeno pepper with garlic, corn, cilantro and lime juice stirred in tomatoes)",
+            "action": "season",
+            "output": "sauted sliced onion and jalapeno pepper with garlic, corn, cilantro and lime juice stirred in tomatoes, seasoned with salt and pepper"
+        },
+        {
+            "instructions": "taste it .",
+            "input": "NA",
+            "action": "taste",
+            "output": "NA"
+        },
+        {
+            "instructions": "brush both naan breads with the remaining oil .",
+            "input": "(oil; breads)",
+            "action": "brush",
+            "output": "oil brushed breads"
+        },
+        {
+            "instructions": "lightly sprinkle some cheese over the bread , followed by the corn saute .",
+            "input": "(oil brushed breads; cheese; sauted sliced onion and jalapeno pepper with garlic, corn, cilantro and lime juice stirred in tomatoes, seasoned with salt and pepper)",
+            "action": "sprinkle",
+            "output": "uncooked pizza"
+        },
+        {
+            "instructions": "slide pizzas into the oven",
+            "input": "uncooked corn and tomato pizza",
+            "action": "slide",
+            "output": "uncooked corn and tomato pizza in the oven"
+        },
+        {
+            "instructions": "bake about 12 minutes , or until the cheese is melted and starting to brown",
+            "input": "uncooked corn and tomato pizza in the oven",
+            "action": "bake",
+            "output": "baked corn and tomato pizza"
+        },
+        {
+            "instructions": "slice",
+            "input": "baked corn and tomato pizza",
+            "action": "slice",
+            "output": "sliced baked corn and tomato pizza"
+        },
+        {
+            "instructions": "serve",
+            "input": "sliced baked corn and tomato pizza",
+            "action": "serve",
+            "output": "served sliced baked corn and tomato pizza"
+        }
+    ],
+    "ingredients": [
+        {
+            "text": "3 Tablespoons Extra Virgin Olive Oil, Divided"
+        },
+        {
+            "text": "1/2 whole Red Onion, Thinly Sliced"
+        },
+        {
+            "text": "1 whole Small Jalapeno Pepper, Minced"
+        },
+        {
+            "text": "2 cloves Garlic, Minced"
+        },
+        {
+            "text": "3 ears Corn, Shucked"
+        },
+        {
+            "text": "1/2 cups Freshly Chopped Cilantro, Divided"
+        },
+        {
+            "text": "1/2 whole Lime, Juiced"
+        },
+        {
+            "text": "1 cup Halved Cherry Tomatoes"
+        },
+        {
+            "text": "1 pinch Coarse Salt And Freshly Ground Pepper"
+        },
+        {
+            "text": "2 whole Garlic Naan Breads"
+        },
+        {
+            "text": "1 cup Shredded Mozzarella (or More!)"
+        },
+        {
+            "text": "Freshly Grated Parmesan Cheese For Garnish"
+        }
+    ],
+    "recipe": [
+        {
+            "text": "Preheat oven to 400 degrees F."
+        },
+        {
+            "text": "Bring 2 tablespoons oil to a medium-high heat in a large skillet."
+        },
+        {
+            "text": "Add the sliced onion and jalapeno pepper; saute 5 minutes, or until onions start to soften."
+        },
+        {
+            "text": "Add the garlic and bloom 30 seconds."
+        },
+        {
+            "text": "Add the corn and saute an additional 5 minutes."
+        },
+        {
+            "text": "Add half the cilantro and all of the lime juice."
+        },
+        {
+            "text": "Stir in the tomatoes and saute about 5 more minutes."
+        },
+        {
+            "text": "Season with a pinch of salt and pepper."
+        },
+        {
+            "text": "Taste it."
+        },
+        {
+            "text": "Mmm, yeah."
+        },
+        {
+            "text": "Brush both naan breads with the remaining oil."
+        },
+        {
+            "text": "Lightly sprinkle some cheese over the bread, followed by the corn saute."
+        },
+        {
+            "text": "Finish with more cheese."
+        },
+        {
+            "text": "Slide pizzas into the oven and bake about 12 minutes, or until the cheese is melted and starting to brown and bubble."
+        },
+        {
+            "text": "Slice and serve, garnished with the rest of the cilantro and freshly grated Parmesan cheese!"
+        }
+    ]
+}

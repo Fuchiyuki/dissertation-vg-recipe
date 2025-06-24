@@ -1,0 +1,172 @@
+{
+    "title": "mexican_pizza_appetizers",
+    "id": "a0b67e6a10",
+    "table": [
+        {
+            "instructions": "unroll crescent_roll , dough",
+            "input": "(crescent_roll; dough)",
+            "actions": "unroll",
+            "output": "(unrolled_crescent_roll; dough)"
+        },
+        {
+            "instructions": "place in an ungreased 15 x 10 x 1 inch , baking pan .",
+            "input": "unrolled_crescent_roll_dough",
+            "actions": "place",
+            "output": "unrolled_crescent_roll_doug"
+        },
+        {
+            "instructions": "flatten dough to fit the pan , sealing seams and perforations .",
+            "input": "unrolled_crescent_roll_doug",
+            "actions": "flatten",
+            "output": "flattened_dough"
+        },
+        {
+            "instructions": "bake at 375 degree f for 8 10 minutes or until light golden brown ;",
+            "input": "flattened_dough",
+            "actions": "bake",
+            "output": "baked_crust"
+        },
+        {
+            "instructions": "in a small bowl , blend cream_cheese and sour_cream with a wire whisk ;",
+            "input": "(cream_cheese; sour_cream)",
+            "actions": "blend",
+            "output": "(blended_ cream_cheese; sour_cream)"
+        },
+        {
+            "instructions": "spread over crust .",
+            "input": "blended_mixture",
+            "actions": "spread",
+            "output": "crust_topped_with_cheese_mixture"
+        },
+        {
+            "instructions": "chill 30 minutes .",
+            "input": "crust_topped_with_cheese_mixture",
+            "actions": "chill",
+            "output": "chilled_crust_topped_with_cheese_mixture"
+        },
+        {
+            "instructions": "meanwhile , in a large skillet , cook beef over medium heat until no longer pink ;",
+            "input": "beef",
+            "actions": "cook",
+            "output": "cooked_beef"
+        },
+        {
+            "instructions": "drain .",
+            "input": "undrained_cooked_beed",
+            "actions": "drain",
+            "output": "drained_cooked_beef"
+        },
+        {
+            "instructions": "stir in taco_seasoning .",
+            "input": "(taco_seasoning; drained_cooked_beef)",
+            "actions": "stir",
+            "output": "seasoned_cooked_beef"
+        },
+        {
+            "instructions": "add water according to package directions",
+            "input": "(water; seasoned_cooking_beef)",
+            "actions": "add",
+            "output": "water_in_cooking_beef"
+        },
+        {
+            "instructions": "simmer for 5 minutes , stirring occasionally .",
+            "input": "simmering_beef",
+            "actions": "simmer",
+            "output": "cooked_beef"
+        },
+        {
+            "instructions": "spread over cream_cheese layer",
+            "input": "cooked_beef",
+            "actions": "spread",
+            "output": "crust_topped_with_cheese_mixture_and_cooked_beef"
+        },
+        {
+            "instructions": "top with lettuce , olives , tomatoes and cheeses .",
+            "input": "(crust_with_toppings; lettuce; olives; tomatoes; cheeses)",
+            "actions": "top",
+            "output": "pizza_with_toppings"
+        },
+        {
+            "instructions": "cut into serving , size pieces .",
+            "input": "mexican_pizza_appetisers",
+            "actions": "cut",
+            "output": "cut_mexican_pizza_appetisers"
+        },
+        {
+            "instructions": "serve immediately or refrigerate .",
+            "input": "cut_mexican_pizza_appetisers",
+            "actions": "serve",
+            "output": "cut_mexican_pizza_appetisers"
+        }
+    ],
+    "ingredients": [
+        {
+            "text": "2 (8 ounce) tubes refrigerated crescent dinner rolls"
+        },
+        {
+            "text": "1 (8 ounce) package cream cheese, softened"
+        },
+        {
+            "text": "1 cup sour cream"
+        },
+        {
+            "text": "1 lb ground beef"
+        },
+        {
+            "text": "1 (1 ounce) envelope taco seasoning"
+        },
+        {
+            "text": "1 (2 1/4 ounce) cansliced black olives, drained"
+        },
+        {
+            "text": "1 medium tomatoes, chopped"
+        },
+        {
+            "text": "34 cup shredded cheddar cheese"
+        },
+        {
+            "text": "34 cup shredded mozzarella cheese"
+        },
+        {
+            "text": "1 cup shredded lettuce"
+        }
+    ],
+    "recipe": [
+        {
+            "text": "Unroll crescent roll dough and place in an ungreased 15 x 10 x 1-inch baking pan."
+        },
+        {
+            "text": "Flatten dough to fit the pan, sealing seams and perforations."
+        },
+        {
+            "text": "Bake at 375 degree F for 8-10 minutes or until light golden brown; cool."
+        },
+        {
+            "text": "In a small bowl, blend cream cheese and sour cream with a wire whisk; spread over crust."
+        },
+        {
+            "text": "Chill 30 minutes."
+        },
+        {
+            "text": "Meanwhile, in a large skillet, cook beef over medium heat until no longer pink; drain."
+        },
+        {
+            "text": "Stir in taco seasoning."
+        },
+        {
+            "text": "Add water according to package directions and simmer for 5 minutes, stirring occasionally."
+        },
+        {
+            "text": "Spread over cream cheese layer."
+        },
+        {
+            "text": "Top with lettuce, olives, tomatoes and cheeses."
+        },
+        {
+            "text": "Cut into serving size pieces."
+        },
+        {
+            "text": "Serve immediately or refrigerate."
+        }
+    ]
+}

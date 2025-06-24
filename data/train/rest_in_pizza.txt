@@ -1,0 +1,79 @@
+{
+    "title": "rest_in_pizza",
+    "id": "e9aba4affb",
+    "table": [
+        {
+            "instructions": "preheat oven to 400f .",
+            "input": "NA",
+            "action": "preheat",
+            "output": "NA"
+        },
+        {
+            "instructions": "arrange pepperoni pieces on pizza to resemble bats and mushroom slices on pizza to resemble pumpkins .",
+            "input": "(pepperoni slices; mushrooms lices; pizza crust)",
+            "action": "arrange",
+            "output": "pepperoni slices and mushrooms slices arranged on pizza crust "
+        },
+        {
+            "instructions": "bake pizza as directed on package .",
+            "input": "pepperoni slices and mushrooms slices arranged on pizza crust ",
+            "action": "bake",
+            "output": "baked crust with pepperoni and mushrooms"
+        },
+        {
+            "instructions": "meanwhile , use pumpkin bat or witch 's hat shaped cookie cutters to cut shapes from singles .",
+            "input": "cheese slices",
+            "action": "use",
+            "output": "cheese slices cutouts"
+        },
+        {
+            "instructions": "remove pizza from oven .",
+            "input": "baked crust with pepperoni and mushrooms",
+            "action": "remove",
+            "output": "baked crust with pepperoni and mushrooms"
+        },
+        {
+            "instructions": "immediately top with singles cutouts .",
+            "input": "(baked crust with pepperoni and mushrooms; cheese slices cutouts)",
+            "action": "top",
+            "output": "baked crust with pepperoni and mushrooms topped with cheese slices cutouts"
+        }
+    ],
+    "ingredients": [
+        {
+            "text": "4 slices OSCAR MAYER Pepperoni, cut in half"
+        },
+        {
+            "text": "1 frozen rising-crust four-cheese pizza (12 inch)"
+        },
+        {
+            "text": "1 small mushroom, sliced"
+        },
+        {
+            "text": "2 KRAFT Singles Target 2 For $5.00 thru 02/06"
+        }
+    ],
+    "recipe": [
+        {
+            "text": "Preheat oven to 400F."
+        },
+        {
+            "text": "Arrange pepperoni pieces on pizza to resemble bats and mushroom slices on pizza to resemble pumpkins."
+        },
+        {
+            "text": "Bake pizza as directed on package."
+        },
+        {
+            "text": "Meanwhile, use pumpkin-, bat- or witch's hat-shaped cookie cutters to cut shapes from Singles."
+        },
+        {
+            "text": "Remove pizza from oven."
+        },
+        {
+            "text": "Immediately top with Singles cutouts."
+        },
+        {
+            "text": "Let stand 5 minutes to allow Singles to melt."
+        }
+    ]
+}

@@ -1,0 +1,79 @@
+{
+    "title": "pizza_cookie",
+    "id": "53a2f51614",
+    "table": [
+        {
+            "instructions": "preheat oven to 375 degrees f .",
+            "input": "NA",
+            "action": "preheat",
+            "output": "NA"
+        },
+        {
+            "instructions": "roll cookie dough into a ball .",
+            "input": "cookie dough",
+            "action": "roll",
+            "output": "rolled_cookie dough"
+        },
+        {
+            "instructions": "roll ball out on a lightly floured surface into a 12 to 14 inch circle .",
+            "input": "rolled_cookie_dough_ball",
+            "action": "roll",
+            "output": "rolled_out_cookie_dough_circle"
+        },
+        {
+            "instructions": "transfer circle to a baking sheet",
+            "input": "rolled_out_cookie_dough_circle",
+            "action": "transfer",
+            "output": "transferred_cookie_dough_circle_to_baking_sheet"
+        },
+        {
+            "instructions": "bake 10 to 12 minutes , until golden brown .",
+            "input": "transferred_cookie_dough_circle_to_baking_sheet",
+            "action": "bake",
+            "output": "baked_cookie_dough_circle"
+        },
+        {
+            "instructions": "remove from oven",
+            "input": "baked_cookie_dough_circle",
+            "action": "remove",
+            "output": "baked_cookie_dough_circle"
+        },
+        {
+            "instructions": "top with preserves , strawberry pepperoni and white_chocolate .",
+            "input": "(preserves; strawberries; white chocolate)",
+            "action": "top",
+            "output": "topped_cookie_with_preserves_strawberries and_white_chocolate"
+        }
+    ],
+    "ingredients": [
+        {
+            "text": "11 -ounce package refrigerated sugar cookie dough"
+        },
+        {
+            "text": "1/2 cup strawberry preserves"
+        },
+        {
+            "text": "Strawberry fruit jerky, cut into 1-inch diameter \"pepperoni\" rounds"
+        },
+        {
+            "text": "1/2 cup shredded white chocolate"
+        }
+    ],
+    "recipe": [
+        {
+            "text": "Preheat oven to 375 degrees F."
+        },
+        {
+            "text": "Roll cookie dough into a ball."
+        },
+        {
+            "text": "Roll ball out on a lightly floured surface into a 12 to 14-inch circle."
+        },
+        {
+            "text": "Transfer circle to a baking sheet and bake 10 to 12 minutes, until golden brown."
+        },
+        {
+            "text": "Remove from oven and top with preserves, strawberry \"pepperoni\" and white chocolate."
+        }
+    ]
+}

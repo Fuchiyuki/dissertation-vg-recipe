@@ -1,0 +1,88 @@
+{
+    "title": "french_flamme_bacon-_cheese_pizza_pie",
+    "id": "796842a3fe",
+    "table": [
+        {
+            "instructions": "preheat oven 200c .",
+            "input": "NA",
+            "action": "preheat",
+            "output": "NA"
+        },
+        {
+            "instructions": "Put the puff pastry sheet on wax paper, on a cookie sheet or pizza pan.",
+            "input": "puff pastry sheet",
+            "action": "put",
+            "output": "puff pastry sheet"
+        },
+        {
+            "instructions": "spread le fromage_blanc do n't use too much",
+            "input": "(fromage_blanc; puff pastry sheet)",
+            "action": "spread",
+            "output": "puff pastry sheet with fromage blanc spread"
+        },
+        {
+            "instructions": "bake the lardons or canadian bacon_slice , with the onions , in a skillet , until crispy_bacon and tender onion .",
+            "input": "(lardons/canadian bacon; onions)",
+            "action": "bake",
+            "output": "cooked onion and bacon mixture"
+        },
+        {
+            "instructions": "spread the onion mixture over fromage_blanc ,",
+            "input": "(cooked onion and bacon mixture; puff pastry sheet with fromage blanc spread)",
+            "action": "spread",
+            "output": "puff pastry sheet with fromage blanc and  cooked onion and bacon mixture"
+        },
+        {
+            "instructions": "add some pepper .",
+            "input": "(pepper; puff pastry sheet with fromage blanc and  cooked onion and bacon mixture)",
+            "action": "add",
+            "output": "puff pastry sheet with fromage blanc, cooked onion and bacon mixture and pepper"
+        },
+        {
+            "instructions": "bake for 10 or 15 minutes , until dough is golden .",
+            "input": "uncooked flamme bacon cheese pizza",
+            "action": "bake",
+            "output": "baked flamme bacon cheese pizza"
+        }
+    ],
+    "ingredients": [
+        {
+            "text": "230 g puff pastry"
+        },
+        {
+            "text": "6 tablespoons fromage blanc"
+        },
+        {
+            "text": "200 g lardons or 200 g Canadian bacon, slices"
+        },
+        {
+            "text": "4 onions"
+        },
+        {
+            "text": "pepper"
+        }
+    ],
+    "recipe": [
+        {
+            "text": "Preheat oven 200C."
+        },
+        {
+            "text": "Put the puff pastry sheet on wax paper, on a cookie sheet or pizza pan (i don't know how to say that in english, sorry)."
+        },
+        {
+            "text": "Spread le fromage blanc (don't use too much, you don't want it to overflow, so maybe you'll need less than 6 tablespoons)."
+        },
+        {
+            "text": "Bake the lardons or canadian bacon slices, with the onions, in a skillet, until crispy (bacon) and tender (onion)."
+        },
+        {
+            "text": "Spread the onion mixture over fromage blanc, and add some pepper."
+        },
+        {
+            "text": "Bake for 10 or 15 minutes, until dough is golden."
+        },
+        {
+            "text": "Enjoy it with some salad :)."
+        }
+    ]
+}

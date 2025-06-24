@@ -1,0 +1,151 @@
+{
+    "title": "turkey_mushroom_pizza",
+    "id": "505e232c61",
+    "table": [
+        {
+            "instructions": "first preheat your oven to 450f .",
+            "input": "NA",
+            "actions": "preheat",
+            "output": "NA"
+        },
+        {
+            "instructions": "then , heat your olive_oil in a small skillet ,",
+            "input": "olive_oil",
+            "actions": "heat",
+            "output": "heated_olive_oil"
+        },
+        {
+            "instructions": "then add your mushrooms , cooking for 2 minutes on medium high heat , shaking your skillet frequently ;",
+            "input": "(mushrooms; heated_olive_oil)",
+            "actions": "add",
+            "output": "cooked mushrooms"
+        },
+        {
+            "instructions": "set aside .",
+            "input": "cooked mushrooms",
+            "actions": "set",
+            "output": "cooked mushrooms"
+        },
+        {
+            "instructions": "take your pizza_shell",
+            "input": "pizza_shell",
+            "actions": "take",
+            "output": "pizza_shell"
+        },
+        {
+            "instructions": "place the turkey slices over the shell .",
+            "input": "(pizza_shell; turkey slices)",
+            "actions": "place",
+            "output": "pizza shell topped wtth turkey slices"
+        },
+        {
+            "instructions": "then , put your cooked mushrooms on top of the turkey slices and",
+            "input": "(pizza shell topped wtth turkey slices; cooked mushrooms)",
+            "actions": "put",
+            "output": "pizza shell topped wtth turkey slices and mushrooms"
+        },
+        {
+            "instructions": "randomly place the tomato over the mushrooms .",
+            "input": "(pizza shell topped wtth turkey slice and mushrooms; tomato)",
+            "actions": "place",
+            "output": "pizza shell topped wtth turkey slices, mushrooms and tomato"
+        },
+        {
+            "instructions": "shake desired amount of freshly_ground_pepper over the vegetables ,",
+            "input": "(pizza shell topped wtth turkey slices, mushrooms and tomato; freshly_ground_pepper)",
+            "actions": "shake",
+            "output": "pizza shell topped with turkey slices, mushrooms , tomato and freshly_ground_pepper"
+        },
+        {
+            "instructions": "then top with your basil and 12 of your parsley .",
+            "input": "(pizza shell topped with turkey slices, mushrooms , tomato; freshly_ground_pepper; basil; parsley)",
+            "actions": "top",
+            "output": "pizza shell topped with turkey slices, mushrooms , tomato, desired amount of freshly_ground_pepper, basil and parsley"
+        },
+        {
+            "instructions": "place your cheese_slice on top .",
+            "input": "(pizza shell topped with turkey slices, mushrooms , tomato, desired amount of freshly_ground_pepper, basil and parsley; cheese_slice)",
+            "actions": "place",
+            "output": "pizza shell topped with turkey slices, mushrooms , tomato, desired amount of freshly_ground_pepper, basil and parsley and cheese_slice"
+        },
+        {
+            "instructions": "bake in your preheated oven for 10 minutes until cheese is bubbly",
+            "input": "unbaked turkey mushrooms pizza",
+            "actions": "bake",
+            "output": "baked turkey mushrooms pizza"
+        },
+        {
+            "instructions": "sprinkle the rest of your parsley on top",
+            "input": "(baked turkey mushrooms pizza; parsley)",
+            "actions": "sprinkle",
+            "output": "baked turkey mushrooms pizza with parsley"
+        },
+        {
+            "instructions": "serve !",
+            "input": "baked turkey mushrooms pizza",
+            "actions": "serve",
+            "output": "baked turkey mushrooms pizza"
+        }
+    ],
+    "ingredients": [
+        {
+            "text": "4 ounces white mushrooms, stems trimmed, then sliced"
+        },
+        {
+            "text": "1 tablespoon extra virgin olive oil"
+        },
+        {
+            "text": "1 pizza dough, shell measuring 6 inches around"
+        },
+        {
+            "text": "3 slices turkey, thinly sliced"
+        },
+        {
+            "text": "1 tomatoes, medium in size, thinly sliced"
+        },
+        {
+            "text": "fresh coarse ground black pepper, to taste"
+        },
+        {
+            "text": "1 teaspoon chopped basil"
+        },
+        {
+            "text": "1 teaspoon chopped parsley"
+        },
+        {
+            "text": "3 slices jarlsberg cheese, thinly sliced (you can also use swiss or Gruyere)"
+        }
+    ],
+    "recipe": [
+        {
+            "text": "First preheat your oven to 450F."
+        },
+        {
+            "text": "Then, heat your olive oil in a small skillet, and then add your mushrooms, cooking for 2 minutes on medium-high heat, shaking your skillet frequently; set aside."
+        },
+        {
+            "text": "Take your pizza shell and place the turkey slices over the shell."
+        },
+        {
+            "text": "Then, put your cooked mushrooms on top of the turkey slices and then randomly place the tomato over the mushrooms."
+        },
+        {
+            "text": "Shake desired amount of freshly ground pepper over the vegetables, and then top with your basil and 1/2 of your parsley."
+        },
+        {
+            "text": "Place your cheese slices on top."
+        },
+        {
+            "text": "Bake in your preheated oven for 10 minutes until cheese is bubbly and is a nice golden color."
+        },
+        {
+            "text": "Sprinkle the rest of your parsley on top and serve!"
+        },
+        {
+            "text": "This will feed 2 small eaters or 1 big eater."
+        },
+        {
+            "text": "ENJOY!"
+        }
+    ]
+}

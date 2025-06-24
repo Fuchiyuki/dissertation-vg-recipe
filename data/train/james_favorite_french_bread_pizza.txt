@@ -1,0 +1,97 @@
+{
+    "title": "james_favorite_french_bread_pizza",
+    "id": "0ece551bc5",
+    "table": [
+        {
+            "instructions": "mix all the sauce ingredients together",
+            "input": "(diced tomatoes; tomato sauce; miced garlic; olive oil; basil; dried oregano)",
+            "action": "mix",
+            "output": "pizza sauce"
+        },
+        {
+            "instructions": "slice the bread in half lengthwise .",
+            "input": "bread",
+            "action": "slice",
+            "output": "sliced bread"
+        },
+        {
+            "instructions": "top each half with a generous amount of the sauce .",
+            "input": "(sliced bread; pizza sauce)",
+            "action": "top",
+            "output": "topped bread with pizza sauce"
+        },
+        {
+            "instructions": "dot the top of the pizza with a bit more sauce .",
+            "input": "(topped bread with sauce; pizza sauce)",
+            "action": "dot",
+            "output": "dotted bread with extra sauce"
+        },
+        {
+            "instructions": "bake at 400 degrees for about 10 minutes or until the cheese is melted and the bread is crisp .",
+            "input": "dotted bread with sauce",
+            "action": "bake",
+            "output": "baked bread pizza"
+        }
+    ],
+    "ingredients": [
+        {
+            "text": "1 loaf French bread"
+        },
+        {
+            "text": "24 slices pepperoni"
+        },
+        {
+            "text": "12 red onion, sliced thin"
+        },
+        {
+            "text": "12 yellow bell pepper, sliced thin"
+        },
+        {
+            "text": "8 ounces fresh mozzarella cheese, sliced"
+        },
+        {
+            "text": "1 (15 ounce) can diced tomatoes"
+        },
+        {
+            "text": "1 (6 ounce) can tomato sauce"
+        },
+        {
+            "text": "3 garlic cloves, minced"
+        },
+        {
+            "text": "1 teaspoon olive oil"
+        },
+        {
+            "text": "2 tablespoons fresh basil"
+        },
+        {
+            "text": "1 teaspoon dried oregano"
+        },
+        {
+            "text": "2 tablespoons parmesan cheese"
+        }
+    ],
+    "recipe": [
+        {
+            "text": "Mix all the sauce ingredients together, allow to sit for 10 minutes and up to over night."
+        },
+        {
+            "text": "I like it chunky, but you can choose to blend it for a smoother sauce."
+        },
+        {
+            "text": "Slice the bread in half lengthwise."
+        },
+        {
+            "text": "Top each half with a generous amount of the sauce."
+        },
+        {
+            "text": "Layer on the toppings; start with pepperoni, then the mozzarella, and finally the vegetables; add other veggies if desired (I enjoy mushrooms)."
+        },
+        {
+            "text": "Dot the top of the pizza with a bit more sauce."
+        },
+        {
+            "text": "Bake at 400 degrees for about 10 minutes or until the cheese is melted and the bread is crisp."
+        }
+    ]
+}

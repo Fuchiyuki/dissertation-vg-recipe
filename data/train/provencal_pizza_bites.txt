@@ -1,0 +1,127 @@
+{
+    "title": "provencal_pizza_bites",
+    "id": "4d6bd30ed8",
+    "table": [
+        {
+            "instructions": "unroll pizza_dough ,",
+            "input": "pizza_dough",
+            "actions": "unroll",
+            "output": "unrolled_pizza_dough"
+        },
+        {
+            "instructions": "press into the bottom of a greased 9x13 pan .",
+            "input": "pizza crust",
+            "actions": "press",
+            "output": "pizza crust"
+        },
+        {
+            "instructions": "set aside .",
+            "input": "pizza crust",
+            "actions": "set",
+            "output": "pizza crust"
+        },
+        {
+            "instructions": "position knife blade in food processor bowl ;",
+            "input": "NA",
+            "actions": "position",
+            "output": "NA"
+        },
+        {
+            "instructions": "add basil , 12 cup , parmesan_cheese , 13 cup toasted_walnut , and garlic .",
+            "input": "(basil; parmesan_cheese; toasted_walnut; garlic)",
+            "actions": "add",
+            "output": "combined basil, parmesan_cheese, toasted walnut and garlic"
+        },
+        {
+            "instructions": "with processor running , pour olive_oil through food chute in a slow steady stream until combined .",
+            "input": "(olive_oil; combined basil, parmesan_cheese, toasted walnut and garlic)",
+            "actions": "pour",
+            "output": "olive_oil poured in basil mixture"
+        },
+        {
+            "instructions": "spread basil mixture over pizza_dough , leaving 12 inch border on all sides .",
+            "input": "(basil_mixture; pizza crust)",
+            "actions": "spread",
+            "output": "basil_mixture spread over pizza crust"
+        },
+        {
+            "instructions": "sprinkle with mozzarella_cheese , turkey , red_pepper , artichokes , remaining 14 cup parmesan , and remaining 13 cup walnuts .",
+            "input": "(pizza_crust with basil_mixture; mozzarella_cheese; turkey; red_pepper; artichokes; parmesan; walnuts)",
+            "actions": "sprinkle",
+            "output": " mozzarella_cheese , turkey , red_pepper , artichokes, parmesan and walnuts sprinkled over pizza_crust with basil_mixture"
+        },
+        {
+            "instructions": "bake , uncovered , at 425 for 30 minutes or until crust is golden and mozzareella cheese melts .",
+            "input": "uncooked provencal pizza",
+            "actions": "bake",
+            "output": "baked provencal pizza"
+        },
+        {
+            "instructions": "cut into rectangles .",
+            "input": "baked provencal pizza",
+            "actions": "cut",
+            "output": "cut baked provencal pizza in rectangles"
+        }
+    ],
+    "ingredients": [
+        {
+            "text": "1 (10 ounce) can pizza dough, refrigerated"
+        },
+        {
+            "text": "1 12 cups basil leaves, fresh and firmly packed into measuring cup"
+        },
+        {
+            "text": "34 cup parmesan cheese, freshly grated and divided"
+        },
+        {
+            "text": "23 cup walnuts, chopped, toasted, and divided"
+        },
+        {
+            "text": "2 garlic cloves, cut in half"
+        },
+        {
+            "text": "13 cup olive oil"
+        },
+        {
+            "text": "1 12 cups mozzarella cheese, shredded"
+        },
+        {
+            "text": "8 ounces smoked turkey, cubed"
+        },
+        {
+            "text": "1 cup sweet red pepper, diced"
+        },
+        {
+            "text": "1 (6 ounce) jar marinated artichoke hearts, drained and chopped"
+        }
+    ],
+    "recipe": [
+        {
+            "text": "Unroll pizza dough, and press into the bottom of a greased 9x13 pan."
+        },
+        {
+            "text": "Set aside."
+        },
+        {
+            "text": "Position knife blade in food processor bowl; add basil, 1/2 cup Parmesan cheese, 1/3 cup toasted walnuts, and garlic."
+        },
+        {
+            "text": "Process 1 minute or until smooth, stopping once to scrape down sides."
+        },
+        {
+            "text": "With processor running, pour olive oil through food chute in a slow steady stream until combined."
+        },
+        {
+            "text": "Spread basil mixture over pizza dough, leaving 1/2 inch border on all sides."
+        },
+        {
+            "text": "Sprinkle with mozzarella cheese, turkey, red pepper, artichokes, remaining 1/4 cup Parmesan, and remaining 1/3 cup walnuts."
+        },
+        {
+            "text": "Bake, uncovered, at 425^ for 30 minutes or until crust is golden and mozzareella cheese melts."
+        },
+        {
+            "text": "Cut into rectangles."
+        }
+    ]
+}

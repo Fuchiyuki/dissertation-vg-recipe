@@ -1,0 +1,100 @@
+{
+    "title": "bats_bones_brownie_pizza",
+    "id": "c6632f0a96",
+    "table": [
+        {
+            "instructions": "heat oven to 350 degrees f .",
+            "input": "NA",
+            "action": "heat",
+            "output": "NA"
+        },
+        {
+            "instructions": "prepare brownie batter as directed on package ;",
+            "input": "brownie mix package",
+            "action": "prepare",
+            "output": "brownie batter"
+        },
+        {
+            "instructions": "spread onto bottom of 12 inch pizza\u2012pan sprayed with cooking_spray .",
+            "input": "brownie batter",
+            "action": "spread",
+            "output": "brownie batter spread onto the pizza pan"
+        },
+        {
+            "instructions": "bake 15 min .",
+            "input": "brownie batter spread onto the pizza pan",
+            "action": "bake",
+            "output": "baked brownie"
+        },
+        {
+            "instructions": "add food_colouring to cool_whip ;",
+            "input": "(food colouring; cool whipped cream)",
+            "action": "add",
+            "output": "food colouring and cool whipped cream"
+        },
+        {
+            "instructions": "stir gently until blended .",
+            "input": "food colouring and cool whipped cream",
+            "action": "stir",
+            "output": "coulored whipped cream"
+        },
+        {
+            "instructions": "spread over brownie ;",
+            "input": "(baked brownie; coulored whipped cream)",
+            "action": "spread",
+            "output": "baked brownie spreaded with coulored whipped cream"
+        },
+        {
+            "instructions": "top with remaining_ingredient .",
+            "input": "(baked brownie spreaded with coulored whipped cream; miniature chocolate bars; Halloween sprinkles)",
+            "action": "top",
+            "output": "brownie pizza with whipped cream miniature chocolate bars and Halloween sprinkles"
+        }
+    ],
+    "ingredients": [
+        {
+            "text": "1 pkg. (450 g) brownie mix"
+        },
+        {
+            "text": "yellow and red food colourings (15 drops yellow, 3 drops red)"
+        },
+        {
+            "text": "2 cups thawed Cool Whip Whipped Topping"
+        },
+        {
+            "text": "12 miniature chocolate bars, chopped (about 1 cup)"
+        },
+        {
+            "text": "2 Tbsp. Halloween sprinkles"
+        }
+    ],
+    "recipe": [
+        {
+            "text": "Heat oven to 350 degrees F."
+        },
+        {
+            "text": "Prepare brownie batter as directed on package; spread onto bottom of 12-inch pizza pan sprayed with cooking spray."
+        },
+        {
+            "text": "Bake 15 min."
+        },
+        {
+            "text": "or until toothpick inserted in centre comes out with fudgy crumbs."
+        },
+        {
+            "text": "(Do not overbake.)"
+        },
+        {
+            "text": "Cool 30 min."
+        },
+        {
+            "text": "Add food colourings to Cool Whip; stir gently until blended."
+        },
+        {
+            "text": "Spread over brownie;"
+        },
+        {
+            "text": "Top with remaining ingredients."
+        }
+    ]
+}

@@ -1,0 +1,112 @@
+{
+    "title": "pizza_in_a_bread_bowl_recipe",
+    "id": "07c11da081",
+    "table": [
+        {
+            "instructions": "preheat the oven to 350 degrees f .",
+            "input": "NA",
+            "action": "preheat",
+            "output": "NA"
+        },
+        {
+            "instructions": "slice the top off of each roll",
+            "input": "bread roll",
+            "action": "slice",
+            "output": "bread roll without tops"
+        },
+        {
+            "instructions": "remove the bread inside , leaving just the crusty shell .",
+            "input": "bread roll without tops",
+            "action": "remove",
+            "output": "hollowed bread roll without tops"
+        },
+        {
+            "instructions": "in a medium size bowl , whisk the eggs , milk , herbs , salt , and pepper until the eggs are fluffy .",
+            "input": "(eggs; milk; herbs; salt; pepper)",
+            "action": "whisk",
+            "output": "egg_mixture"
+        },
+        {
+            "instructions": "stir in the pepperoni and tomatoes .",
+            "input": "(egg_mixture; pepperoni; tomatoes)",
+            "action": "stir",
+            "output": "pepperoni and tomatoes stirred into egg mixture"
+        },
+        {
+            "instructions": "place the rolls on a baking sheet ,\u00a0and evenly distribute the egg mixture between each roll",
+            "input": "(hollowed bread roll without tops; egg mixture)",
+            "action": "place",
+            "output": "hollowed bread roll with egg mixture"
+        },
+        {
+            "instructions": "sprinkle each bread bowl with cheese .",
+            "input": "(cheese; hollowed bread roll with egg mixture)",
+            "action": "sprinkle",
+            "output": "hollowed bread roll with egg mixture sprinkled with cheese"
+        },
+        {
+            "instructions": "bake for 20 22 minutes , or until the eggs are set and the bread is toasted .",
+            "input": "uncooked_hollowed bread roll with egg mixture",
+            "action": "bake",
+            "output": "cooked pizza bread bowl"
+        }
+    ],
+    "ingredients": [
+        {
+            "text": "5 crusty dinner rolls"
+        },
+        {
+            "text": "1/2 cup pepperoni, diced"
+        },
+        {
+            "text": "5 large Egglands Best eggs, beaten"
+        },
+        {
+            "text": "2 tomatoes, diced"
+        },
+        {
+            "text": "3/4 cup milk"
+        },
+        {
+            "text": "dash of salt"
+        },
+        {
+            "text": "dash of pepper"
+        },
+        {
+            "text": "1/8 teaspoon dried oregano"
+        },
+        {
+            "text": "1/8 teaspoon dried basil"
+        },
+        {
+            "text": "18-ounce package shredded mozzarella cheese"
+        }
+    ],
+    "recipe": [
+        {
+            "text": "Preheat the oven to 350 degrees F."
+        },
+        {
+            "text": "Slice the top off of each roll and remove the bread inside, leaving just the crusty shell."
+        },
+        {
+            "text": "Be sure to leave enough bread at the bottom of the roll so the mixture does not leak out."
+        },
+        {
+            "text": "In a medium-size bowl, whisk the eggs, milk, herbs, salt, and pepper until the eggs are fluffy."
+        },
+        {
+            "text": "Stir in the pepperoni and tomatoes."
+        },
+        {
+            "text": "Place the rolls on a baking sheet, and evenly distribute the egg mixture between each roll."
+        },
+        {
+            "text": "Sprinkle each bread bowl with cheese."
+        },
+        {
+            "text": "Bake for 20-22 minutes, or until the eggs are set and the bread is toasted."
+        }
+    ]
+}

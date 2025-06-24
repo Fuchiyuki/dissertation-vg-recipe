@@ -1,0 +1,91 @@
+{
+    "title": "pizza_croissants_quick_and_easy",
+    "id": "347e2236bd",
+    "table": [
+        {
+            "instructions": "preheat oven to 350f .",
+            "input": "NA",
+            "action": "preheat",
+            "output": "NA"
+        },
+        {
+            "instructions": "unroll the croissant_dough",
+            "input": "croissant_dough",
+            "action": "unroll",
+            "output": "unrolled_croissant_dough"
+        },
+        {
+            "instructions": "place the individual doughs on a greased cookie sheet .",
+            "input": "unrolled_croissant_dough",
+            "action": "place",
+            "output": "unrolled_croissant_dough"
+        },
+        {
+            "instructions": "spread a tablespoon of pizza_sauce on each one of them .",
+            "input": "(pizza sauce; unrolled_croissant_dough)",
+            "action": "spread",
+            "output": "pizza sauce spread on unrolled_croissant_dough"
+        },
+        {
+            "instructions": "place a sausage and half a string_cheese at the long top part .",
+            "input": "(sausage; half string cheese; unrolled_croissant_dough with pizza sauce)",
+            "action": "place",
+            "output": "unrolled_croissant_dough with pizza sauce topped with sausage and half a string_cheese"
+        },
+        {
+            "instructions": "cut off the excess cheese that will hang out the sides .",
+            "input": "unrolled_croissant_dough with pizza sauce topped with sausage and half a string_cheese",
+            "action": "cut",
+            "output": "unrolled_croissant_dough with pizza sauce topped with sausage and trimmed excess string_cheese"
+        },
+        {
+            "instructions": "roll them up",
+            "input": "unrolled_croissant_dough with pizza sauce topped with sausage and trimmed excess string_cheese",
+            "action": "roll",
+            "output": "rolled pizza croissants"
+        },
+        {
+            "instructions": "bake for 15 minutes or until heated the whole way through .",
+            "input": "uncooked rolled pizza croissants",
+            "action": "bake",
+            "output": "baked pizza croissants"
+        }
+    ],
+    "ingredients": [
+        {
+            "text": "1 (8 ounce) can Pillsbury Refrigerated Crescent Dinner Rolls"
+        },
+        {
+            "text": "34 cup pizza sauce or 34 cup pasta sauce"
+        },
+        {
+            "text": "8 small breakfast sausage links"
+        },
+        {
+            "text": "4 pieces mozzarella string cheese, cut in half"
+        }
+    ],
+    "recipe": [
+        {
+            "text": "Preheat oven to 350F."
+        },
+        {
+            "text": "Unroll the croissant dough and place the individual doughs on a greased cookie sheet."
+        },
+        {
+            "text": "Spread a tablespoon of pizza sauce on each one of them."
+        },
+        {
+            "text": "Place a sausage and half a string cheese at the long top part."
+        },
+        {
+            "text": "Cut off the excess cheese that will hang out the sides."
+        },
+        {
+            "text": "Roll them up and bake for 15 minutes or until heated the whole way through."
+        },
+        {
+            "text": "Don't let the cheese melt to much though or it will go everywhere."
+        }
+    ]
+}

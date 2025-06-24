@@ -1,0 +1,97 @@
+{
+    "title": "cheesy_pizza_soup",
+    "id": "a65cac83ad",
+    "table": [
+        {
+            "instructions": "in a large saucepan , saute mushrooms , onion and italian_sausage for 2 to 3 minutes or until sausage is browned .",
+            "input": "(mushrooms; onion; italian_sausage)",
+            "action": "saute",
+            "output": "sauteed mushrooms and italian_sausage mixture "
+        },
+        {
+            "instructions": "add water , pizza_sauce , pepperoni , red gold petite diced_tomato mexican fiesta and italian_seasoning .",
+            "input": "sauteed mushrooms and italian_sausage mixture; water; pizza sauce; pepperoni; diced tomato; italian seasoning ",
+            "action": "add",
+            "output": "seasoned meat, mushroom and tomato mixture"
+        },
+        {
+            "instructions": "reduce heat",
+            "input": "seasoned meat, mushroom and tomato mixture",
+            "action": "reduce",
+            "output": "seasoned meat, mushroom and tomato mixture"
+        },
+        {
+            "instructions": "cover",
+            "input": "seasoned meat, mushroom and tomato mixture",
+            "action": "cover",
+            "output": "Covered meat, mushroom and tomato mixture"
+        },
+        {
+            "instructions": "simmer for 20 minutes , stirring occasionally .",
+            "input": "Covered meat, mushroom and tomato mixture",
+            "action": "simmer",
+            "output": "cooked meat, mushroom and tomato mixture"
+        },
+        {
+            "instructions": "before serving , stir in parmesan_cheese",
+            "input": "cooked meat, mushroom and tomato mixture; parmesan cheese",
+            "action": "stir",
+            "output": "parmesan cheese stirred in cooked meat, mushroom and tomato mixture"
+        },
+        {
+            "instructions": "garnish with mozzarella_cheese .",
+            "input": "mozzarella cheese; cooked meat, mushroom and tomato mixture with parmesan cheese",
+            "action": "garnish",
+            "output": "cooked meat, mushroom and tomato mixture with parmesan cheese and mozzarella cheese"
+        }
+    ],
+    "ingredients": [
+        {
+            "text": "1 14 cups fresh mushrooms, diced"
+        },
+        {
+            "text": "1 onion, finely chopped"
+        },
+        {
+            "text": "12 lb Italian sausage"
+        },
+        {
+            "text": "2 cups water"
+        },
+        {
+            "text": "1 (15 ounce) can pizza sauce"
+        },
+        {
+            "text": "1 cup pepperoni, sliced and chopped"
+        },
+        {
+            "text": "1 (14 1/2 ounce) canred gold petite Mexican-style tomatoes"
+        },
+        {
+            "text": "14 teaspoon italian seasoning"
+        },
+        {
+            "text": "14 cup parmesan cheese, grated"
+        },
+        {
+            "text": "mozzarella cheese, grated for topping"
+        }
+    ],
+    "recipe": [
+        {
+            "text": "In a large saucepan, saute mushrooms, onion and Italian sausage for 2 to 3 minutes or until sausage is browned."
+        },
+        {
+            "text": "Add water, pizza sauce, pepperoni, RED GOLD Petite Diced Tomatoes Mexican Fiesta and Italian seasoning."
+        },
+        {
+            "text": "Bring to a boil."
+        },
+        {
+            "text": "Reduce heat, cover and simmer for 20 minutes, stirring occasionally."
+        },
+        {
+            "text": "Before serving, stir in Parmesan cheese and garnish with mozzarella cheese."
+        }
+    ]
+}

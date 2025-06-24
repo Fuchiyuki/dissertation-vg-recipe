@@ -1,0 +1,94 @@
+{
+    "title": "rocky_road_dessert_pizza",
+    "id": "2770279cb7",
+    "table": [
+        {
+            "instructions": "place 2 flat pie_crust on parchment covered full sheet pan .",
+            "input": "pie_crust",
+            "actions": "place",
+            "output": "pie_crust"
+        },
+        {
+            "instructions": "bake in 425f conventional oven for 10 to 12 minutes or until golden brown .",
+            "input": "uncooked pie crust",
+            "actions": "bake",
+            "output": "baked pie crust"
+        },
+        {
+            "instructions": "set aside to cool .",
+            "input": "baked pie crust",
+            "actions": "set",
+            "output": "cooled pie crust"
+        },
+        {
+            "instructions": "spread 14 cup of the melted chocolate onto each pie_crust ;",
+            "input": "(baked pie crust; melted chocolate)",
+            "actions": "spread",
+            "output": "melted chocolate spread over baked pie crust"
+        },
+        {
+            "instructions": "top with 1 12 cups of the oreo pieces and 12 cup each of the marshmallows and walnuts .",
+            "input": "(chocolate filled pie; oreo pieces; marshmallows; walnuts)",
+            "actions": "top",
+            "output": "chocolate pie topped with oreo pieces, marshmallows and walnuts"
+        },
+        {
+            "instructions": "drizzle each pizza with additional 14 cup chocolate .",
+            "input": "(chocolate; chocolate pizza)",
+            "actions": "drizzle",
+            "output": "chocolate pizza drizzled with chocolate"
+        },
+        {
+            "instructions": "cool 30 minutes or until chocolate is set .",
+            "input": "rocky_road_dessert_pizza",
+            "actions": "cool",
+            "output": "cooled rocky_road_dessert_pizza"
+        },
+        {
+            "instructions": "cut each pizza into 8 wedges to serve .",
+            "input": "cooled rocky_road_dessert_pizza",
+            "actions": "cut",
+            "output": "cut rocky_road_dessert_pizza"
+        }
+    ],
+    "ingredients": [
+        {
+            "text": "6 each Ready-to-use pie crusts (9 inch)"
+        },
+        {
+            "text": "3 cups BAKER'S Semi-Sweet Chocolate, melted, divided"
+        },
+        {
+            "text": "2-1/4 qt. OREO Pieces-Small"
+        },
+        {
+            "text": "3 cups JET-PUFFED Miniature Marshmallows"
+        },
+        {
+            "text": "3 cups Chopped toasted walnuts"
+        }
+    ],
+    "recipe": [
+        {
+            "text": "Place 2 flat pie crusts on parchment-covered full sheet pan."
+        },
+        {
+            "text": "Bake in 425F-conventional oven for 10 to 12 minutes or until golden brown."
+        },
+        {
+            "text": "Set aside to cool."
+        },
+        {
+            "text": "Spread 1/4 cup of the melted chocolate onto each pie crust; top with 1-1/2 cups of the OREO Pieces and 1/2 cup each of the marshmallows and walnuts."
+        },
+        {
+            "text": "Drizzle each pizza with additional 1/4 cup chocolate."
+        },
+        {
+            "text": "Cool 30 minutes or until chocolate is set."
+        },
+        {
+            "text": "Cut each pizza into 8 wedges to serve."
+        }
+    ]
+}

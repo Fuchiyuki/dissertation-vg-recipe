@@ -1,0 +1,145 @@
+{
+    "title": "two_cheese_shaved_asparagus_and_mushroom_pizza",
+    "id": "71b39d805d",
+    "table": [
+        {
+            "instructions": "preheat oven to 475 f .",
+            "input": "NA",
+            "action": "preheat",
+            "output": "NA"
+        },
+        {
+            "instructions": "stretch your pizza_dough",
+            "input": "pizza_dough",
+            "action": "stretch",
+            "output": "stretched_pizza_dough"
+        },
+        {
+            "instructions": "brush dough with olive_oil .",
+            "input": "(dough; olive oil)",
+            "action": "brush",
+            "output": "oiled dough"
+        },
+        {
+            "instructions": "sprinkle with parmesan_cheese .",
+            "input": "(parmesan cheese; oiled dough)",
+            "action": "sprinkle",
+            "output": "oiled dough topped with parmesan cheese"
+        },
+        {
+            "instructions": "place mushrooms and half of the mozzarella_cheese over parmesan in a single layer .",
+            "input": "(mushrooms; half of mozzarella cheese; oiled dough topped with parmesan cheese)",
+            "action": "place",
+            "output": "mozzarella cheese and mushrooms on oiled pizza crust with parmesan cheese"
+        },
+        {
+            "instructions": "shave asparagus into ribbons with a vegetable peeler .",
+            "input": "asparagus",
+            "action": "shave",
+            "output": "shaved asparagus"
+        },
+        {
+            "instructions": "place shaved asparagus over the cheese and mushrooms .",
+            "input": "(shaved asparagus; oiled pizza crust with parmesan cheese, mozzarella cheese and mushrooms)",
+            "action": "place",
+            "output": "oiled pizza crust with parmesan cheese, mozzarella cheese, mushrooms and shaved asparagus"
+        },
+        {
+            "instructions": "place remaining mozzarella_cheese on top .",
+            "input": "(remaining mozzarella cheese; oiled pizza crust with parmesan cheese, mozzarella cheese, mushrooms and shaved asparagus)",
+            "action": "place",
+            "output": "oiled pizza crust with parmesan cheese, mozzarella cheese, mushrooms, shaved asparagus and remaining mozzarella cheese"
+        },
+        {
+            "instructions": "freshly grind some black_pepper over the top .",
+            "input": "(black pepper; oiled pizza crust with parmesan cheese, mozzarella cheese, mushrooms, shaved asparagus and remaining mozzarella cheese)",
+            "action": "grind",
+            "output": "black pepper grinded over oiled pizza crust with parmesan cheese, mozzarella cheese, mushrooms, shaved asparagus and remaining mozzarella cheese"
+        },
+        {
+            "instructions": "bake for 12 to 15 minutes or until crust turns into golden brown and cheese melts",
+            "input": "uncooked two_cheese_shaved_asparagus_and_mushroom_pizza",
+            "action": "bake",
+            "output": "baked two_cheese_shaved_asparagus_and_mushroom_pizza"
+        },
+        {
+            "instructions": "slice",
+            "input": "baked two_cheese_shaved_asparagus_and_mushroom_pizza",
+            "action": "slice",
+            "output": "sliced baked two_cheese_shaved_asparagus_and_mushroom_pizza"
+        },
+        {
+            "instructions": "serve warm .",
+            "input": "sliced baked two_cheese_shaved_asparagus_and_mushroom_pizza",
+            "action": "serve",
+            "output": "sliced baked two_cheese_shaved_asparagus_and_mushroom_pizza ready to serve"
+        }
+    ],
+    "ingredients": [
+        {
+            "text": "1 each pizza dough about 16-inch, prefer whole wheat"
+        },
+        {
+            "text": "2 tablespoons olive oil, extra-virgin for brushing"
+        },
+        {
+            "text": "1 cup parmesan, parmigiano-reggiano cheese, grated"
+        },
+        {
+            "text": "1 cup mushrooms cremini or white button, sliced"
+        },
+        {
+            "text": "8 ounces mozzarella cheese tear into small pieces, divided"
+        },
+        {
+            "text": "1 bunch asparagus ends trimmed and well washed and dry"
+        },
+        {
+            "text": "1 x black pepper freshly ground"
+        },
+        {
+            "text": "1 x red pepper flakes to taste"
+        },
+        {
+            "text": "1 x lemon juice fresh, to taste"
+        }
+    ],
+    "recipe": [
+        {
+            "text": "Preheat oven to 475 F."
+        },
+        {
+            "text": "Stretch your pizza dough into a large circle 16 inches in diameter and arrange on your pizza pan or stone."
+        },
+        {
+            "text": "Brush dough with olive oil."
+        },
+        {
+            "text": "Sprinkle with parmesan cheese."
+        },
+        {
+            "text": "Place mushrooms and half of the mozzarella cheese over parmesan in a single layer."
+        },
+        {
+            "text": "Shave asparagus into ribbons with a vegetable peeler."
+        },
+        {
+            "text": "Place shaved asparagus over the cheese and mushrooms."
+        },
+        {
+            "text": "Place remaining mozzarella cheese on top."
+        },
+        {
+            "text": "Freshly grind some black pepper over the top."
+        },
+        {
+            "text": "Bake for 12 to 15 minutes or until crust turns into golden brown and cheese melts and start to brown in spots."
+        },
+        {
+            "text": "Let cool for a few minutes."
+        },
+        {
+            "text": "Slice and serve warm."
+        }
+    ]
+}

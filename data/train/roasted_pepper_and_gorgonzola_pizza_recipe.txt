@@ -1,0 +1,91 @@
+{
+    "title": "roasted_pepper_and_gorgonzola_pizza_recipe",
+    "id": "7ca8fabd6a",
+    "table": [
+        {
+            "instructions": "prepare roasted pepper by placing whole pepper under oven broiler and turning often until all skin is blistered .",
+            "input": "whole pepper",
+            "action": "prepare",
+            "output": "roasted pepper"
+        },
+        {
+            "instructions": "put in ziploc bag for 15 minutes to steam .",
+            "input": "roasted pepper",
+            "action": "put",
+            "output": "sealed roasted pepper in bag"
+        },
+        {
+            "instructions": "remove skin and core seeds",
+            "input": "sealed roasted pepper in bag",
+            "action": "remove",
+            "output": "roasted pepper without skin and core seeds"
+        },
+        {
+            "instructions": "cut in strips .",
+            "input": "deseeded roasted pepper",
+            "action": "cut",
+            "output": "roasted pepper cut in strips"
+        },
+        {
+            "instructions": "top dough crust with oil , sauce , mozzarella_cheese , gorgonzola cheese , and roasted pepper .",
+            "input": "(pizza crust; oil; sauce; mozzarella_cheese; gorgonzola cheese; roasted pepper cut in strips)",
+            "action": "top",
+            "output": "pizza crust topped with oil , sauce , mozzarella_cheese , gorgonzola cheese , and roasted pepper strips"
+        },
+        {
+            "instructions": "bake in preheated 500 f oven on pizza stone for 8 10 minutes or until crust is golden brown and cheese is bubbly .",
+            "input": "uncooked roasted_pepper_and_gorgonzola_pizza",
+            "action": "bake",
+            "output": "baked roasted_pepper_and_gorgonzola_pizza"
+        },
+        {
+            "instructions": "remove from oven",
+            "input": "baked roasted_pepper_and_gorgonzola_pizza",
+            "action": "remove",
+            "output": "baked roasted_pepper_and_gorgonzola_pizza"
+        },
+        {
+            "instructions": "cool on a wire rack for 2 3 minutes before cutting into wedges and serving .",
+            "input": "baked roasted_pepper_and_gorgonzola_pizza",
+            "action": "cool",
+            "output": "cooled baked roasted_pepper_and_gorgonzola_pizza"
+        }
+    ],
+    "ingredients": [
+        {
+            "text": "1 (13 inch) uncooked prepared pizza crust"
+        },
+        {
+            "text": "12 garlic oil, sauce"
+        },
+        {
+            "text": "4 ounces shredded mozzarella cheese"
+        },
+        {
+            "text": "3 ounces gorgonzola, crumbled"
+        },
+        {
+            "text": "1 large red bell pepper, roasted and sliced in strips"
+        }
+    ],
+    "recipe": [
+        {
+            "text": "Prepare roasted pepper by placing whole pepper under oven broiler and turning often until all skin is blistered."
+        },
+        {
+            "text": "Put in ziploc bag for 15 minutes to steam."
+        },
+        {
+            "text": "Remove skin and core/seeds and cut in strips."
+        },
+        {
+            "text": "Top dough crust with oil sauce, mozzarella cheese, gorgonzola cheese, and roasted pepper."
+        },
+        {
+            "text": "Bake in preheated 500 F oven on pizza stone for 8-10 minutes or until crust is golden brown and cheese is bubbly."
+        },
+        {
+            "text": "Remove from oven and cool on a wire rack for 2-3 minutes before cutting into wedges and serving."
+        }
+    ]
+}

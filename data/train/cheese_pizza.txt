@@ -1,0 +1,154 @@
+{
+    "title": "cheese_pizza",
+    "id": "cb8974cb31",
+    "table": [
+        {
+            "instructions": "position one oven rack in the middle setting .",
+            "input": "NA",
+            "action": "position",
+            "output": "NA"
+        },
+        {
+            "instructions": "position another rack in the lowest setting ,",
+            "input": "NA",
+            "action": "position",
+            "output": "NA"
+        },
+        {
+            "instructions": "place a rimless baking sheet on the bottom rack .",
+            "input": "NA",
+            "action": "place",
+            "output": "NA"
+        },
+        {
+            "instructions": "preheat oven to 500",
+            "input": "NA",
+            "action": "preheat",
+            "output": "NA"
+        },
+        {
+            "instructions": "remove plastic wrap from basic pizza_dough ;",
+            "input": "Basic pizza dough with plastic wrap",
+            "action": "remove",
+            "output": "Basic pizza dough"
+        },
+        {
+            "instructions": "discard plastic .",
+            "input": "Basic pizza dough",
+            "action": "discard",
+            "output": "Basic pizza dough"
+        },
+        {
+            "instructions": "brush olive_oil over dough .",
+            "input": "(Basic pizza dough; olive oil)",
+            "action": "brush",
+            "output": "Basic pizza dough with olive oil"
+        },
+        {
+            "instructions": "remove preheated baking sheet from oven ,",
+            "input": "NA",
+            "action": "remove",
+            "output": "NA"
+        },
+        {
+            "instructions": "close oven door .",
+            "input": "NA",
+            "action": "close",
+            "output": "NA"
+        },
+        {
+            "instructions": "slide dough onto preheated baking sheet , using a spatula as a guide .",
+            "input": "Basic pizza dough with olive oil",
+            "action": "slide",
+            "output": "Dough on preheated baking sheet"
+        },
+        {
+            "instructions": "bake on lowest oven rack at 500 for 8 minutes .",
+            "input": "Dough on preheated baking sheet",
+            "action": "bake",
+            "output": "Baked crust"
+        },
+        {
+            "instructions": "remove from oven .",
+            "input": "Baked crust",
+            "action": "remove",
+            "output": "Baked crust"
+        },
+        {
+            "instructions": "spread sauce in an even layer over crust , leaving a 14 inch border .",
+            "input": "(Baked crust; sauce)",
+            "action": "spread",
+            "output": "Crust with sauce spread in an even layer"
+        },
+        {
+            "instructions": "top with mozzarella and parmesan_cheese .",
+            "input": "(Crust with sauce spread in an even layer; mozzarella cheese; parmesan cheese)",
+            "action": "top",
+            "output": "Crust topped with mozzarella and Parmesan cheese"
+        },
+        {
+            "instructions": "bake on middle rack an additional 10 minutes",
+            "input": "Crust topped with mozzarella and Parmesan cheese",
+            "action": "bake",
+            "output": "Baked cheese pizza"
+        },
+        {
+            "instructions": "cut into 12 wedges .",
+            "input": "Baked cheese pizza",
+            "action": "cut",
+            "output": "cut Baked cheese pizza"
+        }
+    ],
+    "ingredients": [
+        {
+            "text": "Basic Pizza Dough"
+        },
+        {
+            "text": "2 teaspoons olive oil"
+        },
+        {
+            "text": "1 cup fat-free bottled pizza sauce"
+        },
+        {
+            "text": "2 cups (8 ounces) shredded part-skim mozzarella cheese"
+        },
+        {
+            "text": "1/2 cup (2 ounces) grated fresh Parmesan cheese"
+        }
+    ],
+    "recipe": [
+        {
+            "text": "Position one oven rack in the middle setting."
+        },
+        {
+            "text": "Position another rack in the lowest setting, and place a rimless baking sheet on the bottom rack."
+        },
+        {
+            "text": "Preheat oven to 500.Remove plastic wrap from Basic Pizza Dough; discard plastic."
+        },
+        {
+            "text": "Brush olive oil over dough."
+        },
+        {
+            "text": "Remove preheated baking sheet from oven, and close oven door."
+        },
+        {
+            "text": "Slide dough onto preheated baking sheet, using a spatula as a guide."
+        },
+        {
+            "text": "Bake on lowest oven rack at 500 for 8 minutes."
+        },
+        {
+            "text": "Remove from oven.Spread sauce in an even layer over crust, leaving a 1/4-inch border."
+        },
+        {
+            "text": "Top with mozzarella and Parmesan cheeses."
+        },
+        {
+            "text": "Bake on middle rack an additional 10 minutes or until crust is golden brown and cheese melts."
+        },
+        {
+            "text": "Cut into 12 wedges."
+        }
+    ]
+}

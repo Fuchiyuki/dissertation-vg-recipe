@@ -1,0 +1,208 @@
+{
+    "title": "grilled_chicken_margherita_tostada_pizzas",
+    "id": "90c5210c63",
+    "table": [
+        {
+            "instructions": "heat up grill .",
+            "input": "NA",
+            "actions": "heat",
+            "output": "NA"
+        },
+        {
+            "instructions": "in a small bowl , mix oil and garlic together .",
+            "input": "(oil; garlic)",
+            "actions": "mix",
+            "output": "garlic oil mixture"
+        },
+        {
+            "instructions": "brush the chicken_breast with 1 teaspoon of the oil mixture",
+            "input": "(garlic oil mixture; chicken_breast)",
+            "actions": "brush",
+            "output": "chicken_breast brushed with garlic oil mixture"
+        },
+        {
+            "instructions": "sprinkle with seasoned salt .",
+            "input": "(salt; chicken_breast brushed with garlic oil mixture)",
+            "actions": "sprinkle",
+            "output": "salted chicken breast"
+        },
+        {
+            "instructions": "place on grill over medium high heat",
+            "input": "salted chicken breast",
+            "actions": "place",
+            "output": "salted chicken breast"
+        },
+        {
+            "instructions": "cover grill .",
+            "input": "salted chicken breast",
+            "actions": "cover",
+            "output": "covered salted chicken breast"
+        },
+        {
+            "instructions": "cook for 12 18 minutes , turning once , until juices are gone from chicken .",
+            "input": "covered salted chicken breast",
+            "actions": "cook",
+            "output": "cooked chicken breast"
+        },
+        {
+            "instructions": "reduce heat to medium low .",
+            "input": "NA",
+            "actions": "reduce",
+            "output": "NA"
+        },
+        {
+            "instructions": "place tortillas on ungreased cookie sheets .",
+            "input": "tortillas",
+            "actions": "place",
+            "output": "tortillas"
+        },
+        {
+            "instructions": "brush the remaining oil mixture on tortillas .",
+            "input": "(tortillas; garlic oil mixture)",
+            "actions": "brush",
+            "output": "tortillas brushed with garlic oil mixture"
+        },
+        {
+            "instructions": "sprinkle each tortilla with 14 cup of the mozzarella_cheese .",
+            "input": "(mozzarella_cheese; tortillas brushed with garlic oil mixture)",
+            "actions": "sprinkle",
+            "output": "mozzarella cheese sprinkled over tortillas brushed with garlic oil mixture"
+        },
+        {
+            "instructions": "cut the chicken into strips",
+            "input": "cooked chicken breast",
+            "actions": "cut",
+            "output": "chicken breast strips"
+        },
+        {
+            "instructions": "arrange on top of the cheese .",
+            "input": "(tortillas with cheese; chicken breast strips)",
+            "actions": "arrange",
+            "output": "chicken breast strips arranged over tortillas with cheese"
+        },
+        {
+            "instructions": "add the tomato slices",
+            "input": "(chicken and cheese tortillas; tomato slices)",
+            "actions": "add",
+            "output": "tomato slices added to chicken and cheese tortillas"
+        },
+        {
+            "instructions": "sprinkle the remaining cheese",
+            "input": "(remaining cheese; chicken tomato tortilla pizza)",
+            "actions": "sprinkle",
+            "output": "remaining cheese sprinkled over chicken tomato tortilla pizza"
+        },
+        {
+            "instructions": "add the basil .",
+            "input": "(basil; chicken tomato tortilla pizza)",
+            "actions": "add",
+            "output": "basil added to chicken tomato tortilla pizza"
+        },
+        {
+            "instructions": "with a spatula , carefully slide the pizzas onto the grill over medium low heat .",
+            "input": "chicken tomato tortilla pizza",
+            "actions": "slide",
+            "output": "chicken tomato tortilla pizza"
+        },
+        {
+            "instructions": "cover the grill",
+            "input": "chicken tomato tortilla pizza",
+            "actions": "cover",
+            "output": "chicken tomato tortilla pizza"
+        },
+        {
+            "instructions": "  rotate the pizzas around to avoid hot spots .",
+            "input": "chicken tomato tortilla pizza",
+            "actions": "rotate",
+            "output": "chicken tomato tortilla pizza"
+        },
+        {
+            "instructions": "once cheese is melted , remove the pizzas off the grill",
+            "input": "chicken tomato tortilla pizza",
+            "actions": "remove",
+            "output": "cooked chicken tomato tortilla pizza"
+        },
+        {
+            "instructions": "serve .",
+            "input": "grilled_chicken_margherita_tostada_pizzas",
+            "actions": "serve",
+            "output": "grilled_chicken_margherita_tostada_pizzas"
+        }
+    ],
+    "ingredients": [
+        {
+            "text": "1 tablespoon olive oil"
+        },
+        {
+            "text": "1 garlic clove, Finely Chopped"
+        },
+        {
+            "text": "2 boneless skinless chicken breasts"
+        },
+        {
+            "text": "12 teaspoon seasoning salt"
+        },
+        {
+            "text": "4 flour tortillas (about 8 inches)"
+        },
+        {
+            "text": "1 12 cups finely shredded mozzarella cheese"
+        },
+        {
+            "text": "2 plum roma tomatoes, thinly sliced"
+        },
+        {
+            "text": "14 cup sliced fresh basil leaf"
+        }
+    ],
+    "recipe": [
+        {
+            "text": "Heat up grill."
+        },
+        {
+            "text": "In a small bowl, mix oil and garlic together."
+        },
+        {
+            "text": "Brush the chicken breasts with 1 teaspoon of the oil mixture and sprinkle with seasoned salt."
+        },
+        {
+            "text": "Place on grill over medium-high heat and cover grill."
+        },
+        {
+            "text": "Cook for 12-18 minutes,turning once, until juices are gone from chicken."
+        },
+        {
+            "text": "Reduce heat to medium-low."
+        },
+        {
+            "text": "Place tortillas on ungreased cookie sheets."
+        },
+        {
+            "text": "Brush the remaining oil mixture on tortillas."
+        },
+        {
+            "text": "Sprinkle each tortilla with 1/4 cup of the mozzarella cheese."
+        },
+        {
+            "text": "Cut the chicken into strips and arrange on top of the cheese."
+        },
+        {
+            "text": "Add the tomato slices, sprinkle the remaining cheese and add the basil."
+        },
+        {
+            "text": "With a spatula, carefully slide the pizzas onto the grill over medium-low heat."
+        },
+        {
+            "text": "Cover the grill and let cook 3-5 minutes."
+        },
+        {
+            "text": "(rotate the pizzas around to avoid hot spots)."
+        },
+        {
+            "text": "Once cheese is melted, remove the pizzas off the grill and serve."
+        },
+        {
+            "text": "Enjoy!"
+        }
+    ]
+}

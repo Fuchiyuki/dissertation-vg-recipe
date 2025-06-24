@@ -1,0 +1,145 @@
+{
+    "title": "freezable_breakfast_pizzas",
+    "id": "a5c62dfee9",
+    "table": [
+        {
+            "instructions": "split english_muffin",
+            "input": "english_muffin",
+            "action": "split",
+            "output": "split_english_muffin"
+        },
+        {
+            "instructions": ", place on baking sheet .",
+            "input": "split_english_muffin",
+            "action": "place",
+            "output": "english_muffin halves"
+        },
+        {
+            "instructions": "cook",
+            "input": "hamburger",
+            "action": "cook",
+            "output": "cooked hamburger"
+        },
+        {
+            "instructions": "drain hamburg ,",
+            "input": "cooked hamburger",
+            "action": "drain",
+            "output": "cooked hamburger without excess fat"
+        },
+        {
+            "instructions": "heat oven to 35",
+            "input": "NA",
+            "action": "heat",
+            "output": "NA"
+        },
+        {
+            "instructions": "mix cheese whiz and margarine ,",
+            "input": "(cheeze whiz; margarine)",
+            "action": "mix",
+            "output": "cheese whiz mixture"
+        },
+        {
+            "instructions": "add to hamburg .",
+            "input": "(cheese whiz mixture; cooked hamburger without excess fat)",
+            "action": "add",
+            "output": "cooked hamburger without excess fat added to cheese whiz mixture"
+        },
+        {
+            "instructions": "spread evenly on english_muffin halves .",
+            "input": "(english_muffin halves; cooked hamburger and cheese whiz mixture)",
+            "action": "spread",
+            "output": "cooked hamburger and cheese whiz mixture spread on english_muffin halves"
+        },
+        {
+            "instructions": "bake about 10 minutes .",
+            "input": "uncooked english muffin halves with hamburger mixture",
+            "action": "bake",
+            "output": "baked english muffin halves with hamburger mixture"
+        },
+        {
+            "instructions": "to freeze",
+            "input": "NA",
+            "action": "freeze",
+            "output": "NA"
+        },
+        {
+            "instructions": "wrap individually in saran wrap ,",
+            "input": "baked english muffin halves with hamburger mixture",
+            "action": "wrap",
+            "output": "wrapped baked english muffin halves with hamburger mixture"
+        },
+        {
+            "instructions": "combine in zip type bag .",
+            "input": "wrapped baked english muffin halves with hamburger mixture",
+            "action": "combine",
+            "output": "sealed wrapped baked english muffin halves with hamburger mixture"
+        },
+        {
+            "instructions": "to reheat from frozen",
+            "input": "NA",
+            "action": "reheat",
+            "output": "NA"
+        },
+        {
+            "instructions": "remove saran wrap",
+            "input": "wrapped baked english muffin halves with hamburger mixture",
+            "action": "remove",
+            "output": "unwrapped baked english muffin halves with hamburger mixture"
+        },
+        {
+            "instructions": "wrap loosely in paper towel",
+            "input": "unwrapped baked english muffin halves with hamburger mixture",
+            "action": "wrap",
+            "output": "unwrapped baked english muffin halves with hamburger mixture"
+        }
+    ],
+    "ingredients": [
+        {
+            "text": "6 English muffins"
+        },
+        {
+            "text": "1 lb ground beef or 1 lb chorizo sausage"
+        },
+        {
+            "text": "1 cup Cheese Whiz"
+        },
+        {
+            "text": "14 cup margarine"
+        }
+    ],
+    "recipe": [
+        {
+            "text": "Split English muffins, place on baking sheet."
+        },
+        {
+            "text": "Cook and drain hamburg, then let cool."
+        },
+        {
+            "text": "Heat oven to 350."
+        },
+        {
+            "text": "Mix cheese whiz and margarine, then add to hamburg."
+        },
+        {
+            "text": "Spread evenly on English muffin halves."
+        },
+        {
+            "text": "Bake about 10 minutes."
+        },
+        {
+            "text": "Can be served immediately, or frozen."
+        },
+        {
+            "text": "To freeze, wrap individually in saran wrap, then combine in zip-type bag."
+        },
+        {
+            "text": "To reheat from frozen, remove saran wrap, wrap loosely in paper towel and zap in microwave on high about 2 minutes."
+        },
+        {
+            "text": "Note -- instead of the cheese whiz and margarine, sometimes I use a 30g envelope of cheese sauce mix, prepared as directed."
+        },
+        {
+            "text": "Nacho cheese sauce mix is particularly good !"
+        }
+    ]
+}

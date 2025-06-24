@@ -1,0 +1,103 @@
+{
+    "title": "caramel-chocolate_chip_pizza",
+    "id": "08dc45e89c",
+    "table": [
+        {
+            "instructions": "with floured hands , spread cookie dough on pizza\u2012pan .",
+            "input": "cookie dough",
+            "action": "spread",
+            "output": "spread_cookie dough"
+        },
+        {
+            "instructions": "bake 12 15 minutes until golden .",
+            "input": "spread_cookie dough",
+            "action": "bake",
+            "output": "large_baked_cookie"
+        },
+        {
+            "instructions": "remove from oven",
+            "input": "large_baked_cookie",
+            "action": "remove",
+            "output": "large_baked_cookie"
+        },
+        {
+            "instructions": "immediately sprinkle 12 of the chocolate_chip",
+            "input": "(large_baked_cookie; chocolate_chip)",
+            "action": "sprinkle",
+            "output": "Chocolate_chip_ sprinkled on baked cookie"
+        },
+        {
+            "instructions": "spread with spatula .",
+            "input": "Chocolate_chip_ sprinkled on baked cookie",
+            "action": "spread",
+            "output": "melted Chocolate chip spread on cookie"
+        },
+        {
+            "instructions": "add 12 of the nuts on top .",
+            "input": "(Chocolate_chip_cookie; nuts)",
+            "action": "add",
+            "output": "nuts on Chocolate_chip_cookie"
+        },
+        {
+            "instructions": "heat caramel_topping under warm_water",
+            "input": "(caramel topping; warm water)",
+            "action": "heat",
+            "output": "heated caramel_topping"
+        },
+        {
+            "instructions": "spread the caramel_topping over this layer ,",
+            "input": "caramel_topping, chocolate chip and_nuts_cookie",
+            "action": "spread",
+            "output": "caramel, chocolate chip and_nuts_cookie"
+        },
+        {
+            "instructions": "sprinkle the remaining chocolate_chip , nuts and carmel over that .",
+            "input": "(remaining chocolate chip; caramel, chocolate chip and_nuts_cookie)",
+            "action": "sprinkle",
+            "output": "caramel, chocolate chip and_nuts_cookie"
+        },
+        {
+            "instructions": "cut with pizza cutter .",
+            "input": "assembled chocolate_chip_pizza",
+            "action": "cut",
+            "output": "sliced_ chocolate_chip_pizza"
+        }
+    ],
+    "ingredients": [
+        {
+            "text": "2 (10 7/8 ounce) packages sugar-free chocolate chip cookie dough (ready to bake squares)"
+        },
+        {
+            "text": "12 ounces chocolate chips"
+        },
+        {
+            "text": "1 cup walnuts, chopped"
+        },
+        {
+            "text": "1 (11 3/4 ounce) jar sugar-free caramel topping"
+        }
+    ],
+    "recipe": [
+        {
+            "text": "With floured hands, spread cookie dough on pizza pan."
+        },
+        {
+            "text": "Bake 12-15 minutes until golden."
+        },
+        {
+            "text": "Remove from oven and immediately sprinkle 1/2 of the chocolate chips, let stand for a minute then spread with spatula."
+        },
+        {
+            "text": "Add 1/2 of the nuts on top."
+        },
+        {
+            "text": "Heat Caramel topping under warm water and spread the caramel topping over this layer, then sprinkle the remaining chocolate chips, nuts and carmel over that."
+        },
+        {
+            "text": "Cut with pizza cutter."
+        },
+        {
+            "text": "Yummy!"
+        }
+    ]
+}

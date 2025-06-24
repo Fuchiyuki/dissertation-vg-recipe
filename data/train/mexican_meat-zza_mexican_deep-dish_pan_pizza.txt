@@ -1,0 +1,214 @@
+{
+    "title": "mexican_meat-zza_mexican_deep-dish_pan_pizza",
+    "id": "069d81c8db",
+    "table": [
+        {
+            "instructions": "preheat oven to 400 degrees f .",
+            "input": "NA",
+            "action": "preheat",
+            "output": "NA"
+        },
+        {
+            "instructions": "mix together 2 packages muffin_mix with 2 eggs , 4 tablespoons melted_butter melt in microwave 30 seconds , 1 12 cups milk and frozen_corn_kernel .",
+            "input": "(muffin mix package; eggs; melted butter; mill; frozen corn kernel)",
+            "action": "mix",
+            "output": "cornbread batter"
+        },
+        {
+            "instructions": "wipe a nonstick skillet with a little extra or vegetable_oil",
+            "input": "NA",
+            "action": "wipe",
+            "output": "NA"
+        },
+        {
+            "instructions": "pour in the muffin_mix .",
+            "input": "cornbread batter",
+            "action": "pour",
+            "output": "cornbread batter"
+        },
+        {
+            "instructions": "use a large skillet , 10 to 12 inch .",
+            "input": "NA",
+            "action": "use",
+            "output": "NA"
+        },
+        {
+            "instructions": "place pan in oven",
+            "input": "cornbread batter",
+            "action": "place",
+            "output": "cornbread batter"
+        },
+        {
+            "instructions": "bake 12 to 15 minutes in center of the oven until light golden in color .",
+            "input": "cornbread batter",
+            "action": "bake",
+            "output": "cornbread crust"
+        },
+        {
+            "instructions": "brown the meat over medium high heat in a second skillet in extra or vegetable_oil , 2 turns of the pan .",
+            "input": "(meat; vegetable_oil)",
+            "action": "brown",
+            "output": "browned_meat"
+        },
+        {
+            "instructions": "add onions and spices",
+            "input": "(onion; spices; browned meat)",
+            "action": "add",
+            "output": "onion and spices added to browned meat"
+        },
+        {
+            "instructions": "cook meat 5 minutes more .",
+            "input": "onion and spices added to browned meat",
+            "action": "cook",
+            "output": "cooked meat mixture"
+        },
+        {
+            "instructions": "remove cornbread from oven",
+            "input": "cornbread crust",
+            "action": "remove",
+            "output": "cornbread crust"
+        },
+        {
+            "instructions": "top with meat , cheese , and veggies .",
+            "input": "(cooked meat mixture; cheese; veggies; cornbread crust)",
+            "action": "top",
+            "output": "cornbread crust topped with cooked meat mixture, cheese and vegetables"
+        },
+        {
+            "instructions": "add pan back to oven",
+            "input": "cornbread crust topped with cooked meat mixture, cheese and vegetables",
+            "action": "add",
+            "output": "cornbread crust topped with cooked meat mixture, cheese and vegetables"
+        },
+        {
+            "instructions": "cook 5 minutes more to melt cheese .",
+            "input": "cornbread crust topped with cooked meat mixture, cheese and vegetables",
+            "action": "cook",
+            "output": "doubly baked cornbread crust topped with cooked meat mixture, cheese and vegetables"
+        },
+        {
+            "instructions": "garnish with cilantro , optional .",
+            "input": "(optional cilantro; baked mexican cornbread pizza)",
+            "action": "garnish",
+            "output": "baked mexican cornbread pizza garnished with cilantro"
+        },
+        {
+            "instructions": "cut into 8 wedges",
+            "input": "mexican cornbread pizza",
+            "action": "cut",
+            "output": "cut_baked mexican cornbread pizza"
+        },
+        {
+            "instructions": "serve the deep dish , pan , pizza from the skillet .",
+            "input": "cut_baked mexican cornbread pizza",
+            "action": "serve",
+            "output": "cut_baked mexican cornbread pizza ready to serve"
+        }
+    ],
+    "ingredients": [
+        {
+            "text": "2 boxes corn muffin mix, 8 1/2 ounces each (recommended: Jiffy)"
+        },
+        {
+            "text": "2 eggs"
+        },
+        {
+            "text": "4 tablespoons melted butter"
+        },
+        {
+            "text": "1 1/2 cups milk"
+        },
+        {
+            "text": "1 cup frozen corn kernels"
+        },
+        {
+            "text": "Extra-virgin olive oil or, vegetable oil, for drizzling"
+        },
+        {
+            "text": "2 tablespoons extra-virgin or vegetable oil, 2 turns of the pan"
+        },
+        {
+            "text": "1 pound ground beef"
+        },
+        {
+            "text": "1 small onion, finely chopped"
+        },
+        {
+            "text": "1 tablespoon chili powder"
+        },
+        {
+            "text": "2 teaspoons ground cumin"
+        },
+        {
+            "text": "2 teaspoons cayenne sauce"
+        },
+        {
+            "text": "Salt"
+        },
+        {
+            "text": "2 1/2 cups (10-ounce sack from dairy aisle) shredded Cheddar or jack cheese"
+        },
+        {
+            "text": "1/2 red bell pepper, chopped"
+        },
+        {
+            "text": "1 small can, 2 1/4 ounces sliced chillies or jalapenos, drained"
+        },
+        {
+            "text": "2 scallions, chopped"
+        },
+        {
+            "text": "2 small vine ripe tomatoes, seeded and diced"
+        },
+        {
+            "text": "2 tablespoons drained sliced green olives (salad olives)"
+        },
+        {
+            "text": "1 to 2 tablespoons chopped cilantro leaves, optional garnish"
+        },
+        {
+            "text": "Mild to medium taco sauce to pass at table, 1 cup"
+        }
+    ],
+    "recipe": [
+        {
+            "text": "Preheat oven to 400 degrees F."
+        },
+        {
+            "text": "Mix together 2 packages muffin mix with 2 eggs, 4 tablespoons melted butter (melt in microwave 30 seconds), 1 1/2 cups milk and frozen corn kernels."
+        },
+        {
+            "text": "Wipe a nonstick skillet with a little extra or vegetable oil and pour in the muffin mix."
+        },
+        {
+            "text": "Use a large skillet, 10 to 12 inch."
+        },
+        {
+            "text": "Choose a pan with oven safe handle or, double-wrap handle with foil to protect it in the oven."
+        },
+        {
+            "text": "Place pan in oven and bake 12 to 15 minutes in center of the oven until light golden in color."
+        },
+        {
+            "text": "Brown the meat over medium high heat in a second skillet in extra or vegetable oil, 2 turns of the pan."
+        },
+        {
+            "text": "Add onions and spices and cook meat 5 minutes more."
+        },
+        {
+            "text": "Remove cornbread from oven and top with meat, cheese, and veggies."
+        },
+        {
+            "text": "Add pan back to oven and cook 5 minutes more to melt cheese."
+        },
+        {
+            "text": "Garnish with cilantro, optional."
+        },
+        {
+            "text": "Cut into 8 wedges and serve the deep dish pan pizza from the skillet."
+        },
+        {
+            "text": "Pass taco sauce at the table to sprinkle on top."
+        }
+    ]
+}

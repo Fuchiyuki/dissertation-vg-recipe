@@ -1,0 +1,190 @@
+{
+    "title": "popover_pizza",
+    "id": "b855d28926",
+    "table": [
+        {
+            "instructions": "brown the ground_beef , italian_sausage , onion and garlic in a large skillet over medium heat , stirring until meat crumbles .",
+            "input": "(ground_beef; italian_sausage; onion; garlic)",
+            "action": "brown",
+            "output": "browned_ground_beef and italian_sausage mix"
+        },
+        {
+            "instructions": "add the pepperoni",
+            "input": "pepperoni; browned_ground_beef and italian_sausage mix",
+            "action": "add",
+            "output": "pepperoni added to browned_ground_beef and italian_sausage mix"
+        },
+        {
+            "instructions": "cook an additional 3 minutes , stirring occasionally .",
+            "input": "meat mixture",
+            "action": "cook",
+            "output": "cooked meat mixture"
+        },
+        {
+            "instructions": "drain the meat mixture , discarding the drippings .",
+            "input": "cooked meat mixture with drippings",
+            "action": "drain",
+            "output": "drained cooked meat mixture"
+        },
+        {
+            "instructions": "return the meat mixture to the skillet .",
+            "input": "cooked meat mixture",
+            "action": "return",
+            "output": "cooked meat mixture in skillet"
+        },
+        {
+            "instructions": "add the spaghetti sauce and wine ;",
+            "input": "spaghetti sauce; wine; meat mixture in skillet",
+            "action": "add",
+            "output": "spaghetti sauce and wine added to meat mixture"
+        },
+        {
+            "instructions": "cook , uncovered , over low heat for 8 minutes , stirring occasionally .",
+            "input": "spaghetti sauce and wine added to meat mixture",
+            "action": "cook",
+            "output": "cooked meat mixture sauce"
+        },
+        {
+            "instructions": "spoon into a lightly greased 13x9x2 inch , baking dish .",
+            "input": "cooked meat mixture sauce",
+            "action": "spoon",
+            "output": "cooked meat mixture sauce spooned in dish"
+        },
+        {
+            "instructions": "sprinkle with mozzarella_cheese",
+            "input": "mozzarella cheese; cooked meat mixture sauce",
+            "action": "sprinkle",
+            "output": "mozzarella cheese sprinkled over cooked meat mixture sauce"
+        },
+        {
+            "instructions": "set aside .",
+            "input": "meat mixture casserole",
+            "action": "set",
+            "output": "meat mixture casserole"
+        },
+        {
+            "instructions": "combine the milk , eggs , and oil in a medium bowl , beating with a wire whisk until blended .",
+            "input": "milk; eggs; oil",
+            "action": "combine",
+            "output": "liquid mixture"
+        },
+        {
+            "instructions": "gradually add the flour , beating until smooth .",
+            "input": "liquid mixture; flour",
+            "action": "add",
+            "output": "batter"
+        },
+        {
+            "instructions": "pour the batter over the meat mixture in the baking dish ;",
+            "input": "batter; meat mixture casseole",
+            "action": "pour",
+            "output": "batter poured on meat mixture casserole"
+        },
+        {
+            "instructions": "sprinkle with the parmesan_cheese .",
+            "input": "parmesan cheese; meat mixture casserole with batter",
+            "action": "sprinkle",
+            "output": "parmesan cheese sprinkled over meat mixture casserole with batter"
+        },
+        {
+            "instructions": "bake , uncovered , at 400 degrees for 30 minutes or until puffed and golden .",
+            "input": "uncooked popover pizza",
+            "action": "bake",
+            "output": "baked popover pizza"
+        },
+        {
+            "instructions": "cut into squares",
+            "input": "baked popover pizza",
+            "action": "cut",
+            "output": "baked popover pizza cut into squares"
+        },
+        {
+            "instructions": "serve immediately .",
+            "input": "baked popover pizza cut into squares",
+            "action": "serve",
+            "output": "served squares of popover pizza"
+        }
+    ],
+    "ingredients": [
+        {
+            "text": "13 lb ground beef, lean"
+        },
+        {
+            "text": "13 lb Italian sausage (sweet or hot, depending on your tolerance)"
+        },
+        {
+            "text": "13 lb pepperoni, cut into quarters"
+        },
+        {
+            "text": "1 medium onion, chopped"
+        },
+        {
+            "text": "1 garlic clove, minced"
+        },
+        {
+            "text": "2 cups spaghetti sauce with mushrooms"
+        },
+        {
+            "text": "13 cup chablis or 13 cup other dry white wine"
+        },
+        {
+            "text": "3 cups mozzarella cheese, shredded"
+        },
+        {
+            "text": "1 cup milk"
+        },
+        {
+            "text": "2 large eggs"
+        },
+        {
+            "text": "1 tablespoon vegetable oil"
+        },
+        {
+            "text": "1 cup all-purpose flour"
+        },
+        {
+            "text": "12 cup parmesan cheese, grated"
+        },
+        {
+            "text": "crushed red pepper flakes (optional)"
+        }
+    ],
+    "recipe": [
+        {
+            "text": "Brown the ground beef, italian sausage, onion and garlic in a large skillet over medium heat, stirring until meat crumbles."
+        },
+        {
+            "text": "Add the pepperoni and cook an additional 3 minutes, stirring occasionally."
+        },
+        {
+            "text": "Drain the meat mixture, discarding the drippings."
+        },
+        {
+            "text": "Return the meat mixture to the skillet."
+        },
+        {
+            "text": "Add the spaghetti sauce and wine; cook, uncovered, over low heat for 8 minutes, stirring occasionally."
+        },
+        {
+            "text": "Spoon into a lightly greased 13x9x2 inch baking dish."
+        },
+        {
+            "text": "Sprinkle with mozzarella cheese and set aside."
+        },
+        {
+            "text": "Combine the milk, eggs, and oil in a medium bowl, beating with a wire whisk until blended."
+        },
+        {
+            "text": "Gradually add the flour, beating until smooth."
+        },
+        {
+            "text": "Pour the batter over the meat mixture in the baking dish; sprinkle with the Parmesan cheese."
+        },
+        {
+            "text": "Bake, uncovered, at 400 degrees for 30 minutes or until puffed and golden."
+        },
+        {
+            "text": "Cut into squares and serve immediately."
+        }
+    ]
+}

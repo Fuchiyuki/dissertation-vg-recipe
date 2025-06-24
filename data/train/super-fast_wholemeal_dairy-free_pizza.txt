@@ -1,0 +1,82 @@
+{
+    "title": "super-fast_wholemeal_dairy-free_pizza",
+    "id": "302178092b",
+    "table": [
+        {
+            "instructions": "pre heat oven to 200 celsius .",
+            "input": "NA",
+            "action": "heat",
+            "output": "NA"
+        },
+        {
+            "instructions": "spread the tomato puree over the pitta bread .",
+            "input": "(pitta bread; tomato puree)",
+            "action": "spread",
+            "output": "tomato puree spread on pitta bread"
+        },
+        {
+            "instructions": "lay out the slices of tomato , pineapple_chunk and ham .",
+            "input": "(pineapple_chunk; ham, sliced tomato; pitta bread with tomato puree)",
+            "action": "lay",
+            "output": "slices of tomato , pineapple_chunk and ham layed on pitta bread with tomato puree"
+        },
+        {
+            "instructions": "lay the dairy free mozzarella on top , to cover the other ingredient .",
+            "input": "(dairy-free mozzarella; pita bread with pineapple, ham and sliced tomato)",
+            "action": "lay",
+            "output": "dairy-free mozzarella layed on pita bread with pineapple, ham and sliced tomato"
+        },
+        {
+            "instructions": "put in the oven for 15 minutes .",
+            "input": "uncooked pita bread hawai pizza ",
+            "action": "put",
+            "output": "baked pita bread hawai pizza"
+        },
+        {
+            "instructions": "serve .",
+            "input": "baked pita bread hawai pizza",
+            "action": "serve",
+            "output": "served baked pita bread hawai pizza"
+        }
+    ],
+    "ingredients": [
+        {
+            "text": "1 wholemeal pitta bread"
+        },
+        {
+            "text": "1 tablespoon tomato puree"
+        },
+        {
+            "text": "12 sliced tomatoes"
+        },
+        {
+            "text": "6 pineapple chunks"
+        },
+        {
+            "text": "3 slices ham, cubed"
+        },
+        {
+            "text": "2 mozzarella cheese, style dairy free slices"
+        }
+    ],
+    "recipe": [
+        {
+            "text": "Pre-heat oven to 200 Celsius."
+        },
+        {
+            "text": "Spread the tomato puree over the pitta bread."
+        },
+        {
+            "text": "Lay out the slices of tomato, pineapple chunks and ham."
+        },
+        {
+            "text": "Lay the dairy-free mozzarella on top, to cover the other ingredient."
+        },
+        {
+            "text": "Put in the oven for 15 minutes."
+        },
+        {
+            "text": "Serve."
+        }
+    ]
+}

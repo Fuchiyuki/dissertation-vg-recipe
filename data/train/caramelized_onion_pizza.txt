@@ -1,0 +1,136 @@
+{
+    "title": "caramelized_onion_pizza",
+    "id": "f4c1d1458d",
+    "table": [
+        {
+            "instructions": "in a medium saucepan cook the onions and garlic in hot olive_oil over medium heat .",
+            "input": "(onions; garlic; hot olive oil)",
+            "action": "cook",
+            "output": "cooked_onions and garlic"
+        },
+        {
+            "instructions": "cook , covered for 10 15 min or until the onion is very tender , stirring occasionally .",
+            "input": "cooked_onions and garlic",
+            "action": "cook",
+            "output": "cooked_onions and garlic"
+        },
+        {
+            "instructions": "set the onions aside .",
+            "input": "cooked_onions and garlic",
+            "action": "set",
+            "output": "cooled cooked_onions and garlic"
+        },
+        {
+            "instructions": "heat grill to medium heat .",
+            "input": "NA",
+            "action": "heat",
+            "output": "NA"
+        },
+        {
+            "instructions": "toast one side of each bread round directly over the heat for 1 2 minute .",
+            "input": "bread",
+            "action": "toast",
+            "output": "toasted_bread"
+        },
+        {
+            "instructions": "remove from the grill .",
+            "input": "toasted_bread",
+            "action": "remove",
+            "output": "toasted_bread"
+        },
+        {
+            "instructions": "top the toasted side of each bread round with the onion mixture , sliced_tomato , mozzarella_cheese , and romano_cheese .",
+            "input": "(toasted_bread; cooled cooked_onions and garlic; sliced_tomato; mozzarella_cheese; romano_cheese)",
+            "action": "top",
+            "output": "toasted_bread topped with cooled cooked_onions and garlic, sliced_tomato , mozzarella_cheese , and romano_cheese "
+        },
+        {
+            "instructions": "return bread rounds to the grill , over indirect heat .",
+            "input": "toasted_bread topped with cooled cooked_onions and garlic, sliced_tomato , mozzarella_cheese , and romano_cheese ",
+            "action": "return",
+            "output": "grilling toasted_bread topped with cooled cooked_onions and garlic, sliced_tomato , mozzarella_cheese , and romano_cheese "
+        },
+        {
+            "instructions": "cover the girll",
+            "input": "grilling toasted_bread topped with cooled cooked_onions and garlic, sliced_tomato , mozzarella_cheese , and romano_cheese ",
+            "action": "cover",
+            "output": "grilling toasted_bread topped with cooled cooked_onions and garlic, sliced_tomato , mozzarella_cheese , and romano_cheese "
+        },
+        {
+            "instructions": "cook for 5 10 min or until the cheese is melted and toppings are heated through .",
+            "input": "grilling toasted_bread topped with cooled cooked_onions and garlic, sliced_tomato , mozzarella_cheese , and romano_cheese ",
+            "action": "cook",
+            "output": "grilled bread topped with cooled cooked_onions and garlic, sliced_tomato , mozzarella_cheese , and romano_cheese "
+        },
+        {
+            "instructions": "remove from the grill",
+            "input": "grilled bread topped with cooled cooked_onions and garlic, sliced_tomato , mozzarella_cheese , and romano_cheese ",
+            "action": "remove",
+            "output": "grilled bread topped with cooled cooked_onions and garlic, sliced_tomato , mozzarella_cheese , and romano_cheese "
+        },
+        {
+            "instructions": "top with basil before serving .",
+            "input": "basil; caramelized onion pizza bread",
+            "action": "top",
+            "output": "caramelized onion pizza bread topped with basil"
+        }
+    ],
+    "ingredients": [
+        {
+            "text": "1 large red onion, thinly sliced"
+        },
+        {
+            "text": "2 garlic cloves, minced"
+        },
+        {
+            "text": "2 tablespoons olive oil"
+        },
+        {
+            "text": "4 pita bread rounds, whole wheat"
+        },
+        {
+            "text": "1 large tomatoes, quartered and sliced or 1 cup cherry tomatoes, halved lengthwise"
+        },
+        {
+            "text": "34 cup mozzarella cheese, shredded"
+        },
+        {
+            "text": "14 cup parmesan cheese, grated"
+        },
+        {
+            "text": "14 cup fresh basil leaf, shredded"
+        }
+    ],
+    "recipe": [
+        {
+            "text": "In a medium saucepan cook the onions and garlic in hot olive oil over medium heat."
+        },
+        {
+            "text": "Cook, covered for 10-15 min or until the onion is very tender, stirring occasionally."
+        },
+        {
+            "text": "Set the onions aside."
+        },
+        {
+            "text": "Heat grill to medium heat."
+        },
+        {
+            "text": "Toast one side of each bread round directly over the heat for 1-2 minute."
+        },
+        {
+            "text": "Remove from the grill."
+        },
+        {
+            "text": "Top the toasted side of each bread round with the onion mixture, sliced tomatoes, mozzarella cheese, and Romano cheese."
+        },
+        {
+            "text": "Return bread rounds to the grill, over indirect heat."
+        },
+        {
+            "text": "Cover the girll and cook for 5-10 min or until the cheese is melted and toppings are heated through."
+        },
+        {
+            "text": "Remove from the grill and top with basil before serving."
+        }
+    ]
+}

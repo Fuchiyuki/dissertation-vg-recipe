@@ -1,0 +1,79 @@
+{
+    "title": "macaroni_cheese_whole_wheat_pizza",
+    "id": "91b4cca736",
+    "table": [
+        {
+            "instructions": "prepare macaroni and cheese as directed on package .",
+            "input": "macaroni and cheese package",
+            "action": "prepare",
+            "output": "prepared_macaroni and cheese"
+        },
+        {
+            "instructions": "for each pizza , 4 servings place 1 pizza_crust in half sheet pan .",
+            "input": "pizza_crust",
+            "action": "place",
+            "output": "pizza_crust_in_pan"
+        },
+        {
+            "instructions": "spread crust with 12 cup , pizza_sauce",
+            "input": "(pizza_crust_in_pan; pizza_sauce)",
+            "action": "spread",
+            "output": "pizza_crust with_pizza sauce"
+        },
+        {
+            "instructions": "top with 14 cup shredded_cheese , 1 cup macaroni and cheese and 14 cup of the remaining shredded_cheese .",
+            "input": "(pizza_crust with_pizza sauce; prepared macaroni_and_cheese; shredded_cheese)",
+            "action": "top",
+            "output": "pizza_crust with_pizza sauce, prepared macaroni and cheese and shredded cheese"
+        },
+        {
+            "instructions": "bake in 400 degrees f standard oven 10 to 12 min .",
+            "input": "uncooked pizza_crust with_pizza sauce, prepared macaroni and cheese and shredded cheese",
+            "action": "bake",
+            "output": "baked macaroni_cheese pizza"
+        },
+        {
+            "instructions": "cut into quarters .",
+            "input": "baked macaroni_cheese pizza",
+            "action": "cut",
+            "output": "sliced baked macaroni_cheese pizza"
+        }
+    ],
+    "ingredients": [
+        {
+            "text": "2 pouches Bulk Dry KRAFT Macaroni & Cheese"
+        },
+        {
+            "text": "22 each ready-to-use baked whole wheat pizza crusts (10 oz. each)"
+        },
+        {
+            "text": "2-3/4 qt. pizza sauce"
+        },
+        {
+            "text": "2-3/4 qt. KRAFT CHEDASHARP Pasteurized Process American Cheese Shred"
+        }
+    ],
+    "recipe": [
+        {
+            "text": "Prepare Macaroni & Cheese as directed on package."
+        },
+        {
+            "text": "For each pizza, 4 servings: Place 1 pizza crust in half-sheet pan."
+        },
+        {
+            "text": "Spread crust with 1/2 cup pizza sauce."
+        },
+        {
+            "text": "Top with 1/4 cup shredded cheese, 1 cup macaroni & cheese and 1/4 cup of the remaining shredded cheese."
+        },
+        {
+            "text": "Bake in 400 degrees F standard oven 10 to 12 min."
+        },
+        {
+            "text": "or until cheese is melted."
+        },
+        {
+            "text": "Cut into quarters."
+        }
+    ]
+}

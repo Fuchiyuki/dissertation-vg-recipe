@@ -1,0 +1,241 @@
+{
+    "title": "thai_chicken_pizza",
+    "id": "d589cf0aff",
+    "table": [
+        {
+            "instructions": "preheat the oven to 425f .",
+            "input": "NA",
+            "action": "preheat",
+            "output": "NA"
+        },
+        {
+            "instructions": "form the pizza_crust on a pizza\u2012pan or cookie sheet .",
+            "input": "pizza_crust",
+            "action": "form",
+            "output": "formed_pizza_crust"
+        },
+        {
+            "instructions": "top it with duck or plum_sauce , spreading it around like you would pizza_sauce .",
+            "input": "pizza_crust; plum_sauce",
+            "action": "top",
+            "output": "pizza_crust topped with plum sauce"
+        },
+        {
+            "instructions": "sprinkle the pizza with some red_pepper_flake ,",
+            "input": "red_pepper_flake; pizza_crust topped with plum sauce",
+            "action": "sprinkle",
+            "output": "pizza with plum_sauce and red_pepper_flake"
+        },
+        {
+            "instructions": "top it with the cheese and bell_pepper .",
+            "input": "pizza with plum_sauce and red_pepper_flake; cheese; bell pepper",
+            "action": "top",
+            "output": "pizza with duck or plum_sauce, red_pepper_flake, cheese and bell_pepper"
+        },
+        {
+            "instructions": "bake until golden and bubbly , 15 to 17 minutes .",
+            "input": "pizza with duck or plum_sauce, red_pepper_flake, cheese and bell_pepper",
+            "action": "bake",
+            "output": "baked pizza with duck or plum_sauce, red_pepper_flake, cheese and bell_pepper"
+        },
+        {
+            "instructions": "in a small bowl , combine the vegetable_oil , tamari , and peanut_butter with the hot_sauce and grill_seasoning .",
+            "input": "vegetable_oil, tamari, peanut_butter, hot_sauce;  grill_seasoning",
+            "action": "combine",
+            "output": "thai pizza sauce"
+        },
+        {
+            "instructions": "use the microwave to loosen up the peanut_butter if it is too cold to blend into sauce ;",
+            "input": "thai pizza sauce",
+            "action": "use",
+            "output": "heated thai pizza sauce"
+        },
+        {
+            "instructions": "coat the chicken evenly with the mixture",
+            "input": "chicken_cutlet; heated thai pizza sauce",
+            "action": "coat",
+            "output": "coated_chicken_cutlet with thai pizza sauce"
+        },
+        {
+            "instructions": "preheat a grill pan or nonstick skillet over medium high heat .",
+            "input": "NA",
+            "action": "preheat",
+            "output": "NA"
+        },
+        {
+            "instructions": "cook the chicken_cutlet for 2 to 3 minutes on each side , or until firm .",
+            "input": "coated_chicken_cutlet with thai pizza sauce",
+            "action": "cook",
+            "output": "cooked_chicken_cutlet"
+        },
+        {
+            "instructions": "slice the chicken into very thin strips .",
+            "input": "cooked_chicken_cutlet",
+            "action": "slice",
+            "output": "sliced_chicken"
+        },
+        {
+            "instructions": "while the chicken cooks , mix the honey and vinegar in a medium bowl .",
+            "input": "honey; vinegar",
+            "action": "mix",
+            "output": "honey_and_vinegar_dressing"
+        },
+        {
+            "instructions": "add the cucumber",
+            "input": "honey_and_vinegar_dressing; cucumber",
+            "action": "add",
+            "output": "cucumber in honey_and_vinegar_dressing"
+        },
+        {
+            "instructions": "turn to coat in the dressing .",
+            "input": "cucumber in honey_and_vinegar_dressing",
+            "action": "turn",
+            "output": "cucumber coated in honey_and_vinegar_dressing"
+        },
+        {
+            "instructions": "when the pizza comes out of the oven , top it with the chicken , scallions , sprouts , and cilantro .",
+            "input": "baked pizza with duck or plum_sauce, red_pepper_flake, cheese and bell_pepper; cooked_chicken_cutlet; scallions; sprouts; cilantro",
+            "action": "top",
+            "output": "pizza topped with cooked_chicken_cutlet, scallions, sprouts and cilantro"
+        },
+        {
+            "instructions": "drain the cucumbers",
+            "input": "cucumber coated in honey_and_vinegar_dressing",
+            "action": "drain",
+            "output": "drained_cucumber"
+        },
+        {
+            "instructions": "scatter them over the pizza .",
+            "input": "drained_cucumber; thai chicken pizza",
+            "action": "scatter",
+            "output": "pizza topped with chicken, scallions, sprouts, cilantro, and drained_cucumber"
+        },
+        {
+            "instructions": "garnish the pizza with peanuts",
+            "input": "pizza topped with chicken, scallions, sprouts, cilantro, and drained_cucumber; peanuts",
+            "action": "garnish",
+            "output": "pizza topped with chicken, scallions, sprouts, cilantro, drained_cucumber and peanuts"
+        },
+        {
+            "instructions": "cut it into 8 wedges ,",
+            "input": "thai_chicken_pizza",
+            "action": "cut",
+            "output": "thai_chicken_pizza wedges"
+        },
+        {
+            "instructions": "serve .",
+            "input": "thai_chicken_pizza wedges",
+            "action": "serve",
+            "output": "served pizza wedges"
+        }
+    ],
+    "ingredients": [
+        {
+            "text": "1 pizza dough"
+        },
+        {
+            "text": "1/2 cup duck sauce or plum sauce"
+        },
+        {
+            "text": "1/2 teaspoon red pepper flakes"
+        },
+        {
+            "text": "1 10-ounce sack (2 cups) shredded provolone or Monterey Jack cheese"
+        },
+        {
+            "text": "1/2 red bell pepper, cored, seeded, and thinly sliced"
+        },
+        {
+            "text": "1 tablespoon vegetable oil"
+        },
+        {
+            "text": "2 tablespoons tamari"
+        },
+        {
+            "text": "1 rounded tablespoon smooth peanut butter"
+        },
+        {
+            "text": "2 teaspoons hot sauce"
+        },
+        {
+            "text": "2 teaspoons grill seasoning, such as McCormicks Montreal Steak Seasoning (eyeball it)"
+        },
+        {
+            "text": "4 chicken breast cutlets, 1/2 pound total"
+        },
+        {
+            "text": "2 tablespoons honey"
+        },
+        {
+            "text": "2 tablespoons cider vinegar or any white vinegar on hand"
+        },
+        {
+            "text": "1/4 seedless cucumber, peeled and cut into matchsticks"
+        },
+        {
+            "text": "4 scallions, white and green parts, chopped"
+        },
+        {
+            "text": "1 cup bean sprouts, a couple of handfuls"
+        },
+        {
+            "text": "A palmful of fresh cilantro leaves, chopped"
+        },
+        {
+            "text": "1/4 cup chopped roasted peanuts"
+        }
+    ],
+    "recipe": [
+        {
+            "text": "Preheat the oven to 425F."
+        },
+        {
+            "text": "Form the pizza crust on a pizza pan or cookie sheet."
+        },
+        {
+            "text": "Top it with duck or plum sauce, spreading it around like you would pizza sauce."
+        },
+        {
+            "text": "Sprinkle the pizza with some red pepper flakes, then top it with the cheese and bell peppers."
+        },
+        {
+            "text": "Bake until golden and bubbly, 15 to 17 minutes."
+        },
+        {
+            "text": "In a small bowl, combine the vegetable oil, tamari, and peanut butter with the hot sauce and grill seasoning."
+        },
+        {
+            "text": "Use the microwave to loosen up the peanut butter if it is too cold to blend into sauce; 10 seconds ought to do it."
+        },
+        {
+            "text": "Coat the chicken evenly with the mixture and let it stand for 10 minutes."
+        },
+        {
+            "text": "Preheat a grill pan or nonstick skillet over medium-high heat."
+        },
+        {
+            "text": "Cook the chicken cutlets for 2 to 3 minutes on each side, or until firm."
+        },
+        {
+            "text": "Slice the chicken into very thin strips."
+        },
+        {
+            "text": "While the chicken cooks, mix the honey and vinegar in a medium bowl."
+        },
+        {
+            "text": "Add the cucumber and turn to coat in the dressing."
+        },
+        {
+            "text": "When the pizza comes out of the oven, top it with the chicken, scallions, sprouts, and cilantro."
+        },
+        {
+            "text": "Drain the cucumbers and scatter them over the pizza."
+        },
+        {
+            "text": "Garnish the pizza with peanuts, cut it into 8 wedges, and serve."
+        },
+        {
+            "text": "If you use a 13.7-ounce tube of refrigerator pizza dough youll get one rectangular pizza; if you prefer to stretch your own into a circle, use up to a 1-pound ball of fresh dough."
+        }
+    ]
+}

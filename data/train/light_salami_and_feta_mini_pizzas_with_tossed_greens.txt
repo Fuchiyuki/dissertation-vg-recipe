@@ -1,0 +1,154 @@
+{
+    "title": "light_salami_and_feta_mini_pizzas_with_tossed_greens",
+    "id": "3139d2ffb8",
+    "table": [
+        {
+            "instructions": "lightly brush boboli crusts with 1 teaspoon olive_oil .",
+            "input": "(pizza_crusts; olive_oil)",
+            "actions": "brush",
+            "output": "pizza_crust_brushed_with_olive_oil"
+        },
+        {
+            "instructions": "sprinkle with feta_cheese and oregano .",
+            "input": "(pizza_crust_brushed_with_olive_oil; feta_cheese; oregano)",
+            "actions": "sprinkle",
+            "output": "feta_cheese and oregano sprinkled over pizza crust"
+        },
+        {
+            "instructions": "arrange 5 slices , salami on top of each pizza ,",
+            "input": "salami slices",
+            "actions": "arrange",
+            "output": "salami slices arrange over pizza"
+        },
+        {
+            "instructions": "bake in a preheated 450 degree , f oven , until pizzas are cooked through , and slightly crisp on the bottom , 10 12 minutes .",
+            "input": "uncooked pizza",
+            "actions": "bake",
+            "output": "baked pizza"
+        },
+        {
+            "instructions": "meanwhile , whisk garlic , vinegar , and extra virgin_olive_oil in a small bowl .",
+            "input": "(garlic; vinegar; extra virgin_olive_oil)",
+            "actions": "whisk",
+            "output": "vinaigrette"
+        },
+        {
+            "instructions": "season with salt and pepper .",
+            "input": "(vinaigrette; salt; pepper)",
+            "actions": "season",
+            "output": "seasoned vinagrette"
+        },
+        {
+            "instructions": "combine salad_green with tomatoes if using in a medium bowl .",
+            "input": "(salad_green; tomatoes)",
+            "actions": "combine",
+            "output": "mix of salad_green and tomatoes"
+        },
+        {
+            "instructions": "add vinaigrette ,",
+            "input": "(mix of salad_green and tomatoes; vinaigrette)",
+            "actions": "add",
+            "output": "mix of salad_green, tomatoes and vinaigrette"
+        },
+        {
+            "instructions": "toss to coat .",
+            "input": "mix of salad_green, tomatoes and vinaigrette",
+            "actions": "toss",
+            "output": "tossed_salad"
+        },
+        {
+            "instructions": "cut each pizza into quarters ;",
+            "input": "pizza",
+            "actions": "cut",
+            "output": "cut_pizza"
+        },
+        {
+            "instructions": "arrange on 2 plates as a whole round .",
+            "input": "cut_pizza",
+            "actions": "arrange",
+            "output": "cut_pizza"
+        },
+        {
+            "instructions": "top each with half of the tossed greens",
+            "input": "(tossed_salad; pizza)",
+            "actions": "top",
+            "output": "pizza_topped_with_tossed_salad"
+        },
+        {
+            "instructions": "serve .",
+            "input": "pizza_topped_with_tossed_salad",
+            "actions": "serve",
+            "output": "salami_and_feta_mini_pizzas_with_tossed_greens"
+        }
+    ],
+    "ingredients": [
+        {
+            "text": "2 (8 inch) Mini Boboli Pizza Crusts"
+        },
+        {
+            "text": "1 teaspoon olive oil"
+        },
+        {
+            "text": "12 cup thinly sliced red onion"
+        },
+        {
+            "text": "34 cup small dice zucchini"
+        },
+        {
+            "text": "14 cup crumbled feta cheese"
+        },
+        {
+            "text": "2 teaspoons finely chopped fresh oregano or 12 teaspoon dried oregano, crushed"
+        },
+        {
+            "text": "10 slices light salami"
+        },
+        {
+            "text": "1 garlic clove, finely chopped"
+        },
+        {
+            "text": "2 teaspoons red wine or 2 teaspoons balsamic vinegar"
+        },
+        {
+            "text": "1 12 tablespoons extra virgin olive oil"
+        },
+        {
+            "text": "salt and black pepper"
+        },
+        {
+            "text": "5 ounces DOLE Italian Blend"
+        },
+        {
+            "text": "4 DOLE Strawberry Tomatoes, halved (optional)"
+        }
+    ],
+    "recipe": [
+        {
+            "text": "Lightly brush Boboli crusts with 1 teaspoon olive oil."
+        },
+        {
+            "text": "Layer with onion and zucchini; sprinkle with Feta cheese and oregano."
+        },
+        {
+            "text": "Arrange 5 slices salami on top of each pizza, and bake in a preheated 450 degree F oven, until pizzas are cooked through, and slightly crisp on the bottom, 10-12 minutes."
+        },
+        {
+            "text": "Meanwhile, whisk garlic, vinegar, and extra-virgin olive oil in a small bowl."
+        },
+        {
+            "text": "Season with salt and pepper."
+        },
+        {
+            "text": "Combine salad greens with tomatoes (if using) in a medium bowl."
+        },
+        {
+            "text": "Add vinaigrette, and toss to coat."
+        },
+        {
+            "text": "Cut each pizza into quarters; arrange on 2 plates as a whole round."
+        },
+        {
+            "text": "Top each with half of the tossed greens and serve."
+        }
+    ]
+}

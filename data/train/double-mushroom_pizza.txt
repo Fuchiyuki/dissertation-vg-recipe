@@ -1,0 +1,247 @@
+{
+    "title": "double-mushroom_pizza",
+    "id": "52e708b07e",
+    "table": [
+        {
+            "instructions": "preheat oven to 37",
+            "input": "NA",
+            "actions": "preheat",
+            "output": "NA"
+        },
+        {
+            "instructions": "place pizza_crust on a baking sheet coated with cooking_spray .",
+            "input": "pizza_crust",
+            "actions": "place",
+            "output": "pizza_crust"
+        },
+        {
+            "instructions": "bake at 375 for 5 minutes .",
+            "input": "uncooked pizza crust",
+            "actions": "bake",
+            "output": "cooked pizza crust"
+        },
+        {
+            "instructions": "remove crust from oven do not turn oven off ;",
+            "input": "cooked pizza crust",
+            "actions": "remove",
+            "output": "rested pizza crust"
+        },
+        {
+            "instructions": "set crust aside .",
+            "input": "rested pizza crust",
+            "actions": "set",
+            "output": "rested pizza crust"
+        },
+        {
+            "instructions": "heat a large nonstick skillet over medium high heat .",
+            "input": "NA",
+            "actions": "heat",
+            "output": "NA"
+        },
+        {
+            "instructions": "coat pan with cooking_spray ;",
+            "input": "NA",
+            "actions": "coat",
+            "output": "NA"
+        },
+        {
+            "instructions": "add 1 teaspoon , oil to pan , swirling to coat .",
+            "input": "oil",
+            "actions": "add",
+            "output": "pan coated with oil"
+        },
+        {
+            "instructions": "add mushrooms to pan ;",
+            "input": "mushrooms",
+            "actions": "add",
+            "output": "mushrooms"
+        },
+        {
+            "instructions": "saute 8 minutes or until moisture evaporates .",
+            "input": "raw mushrooms",
+            "actions": "saute",
+            "output": "sauteed mushrooms"
+        },
+        {
+            "instructions": "stir in thyme ;",
+            "input": "thyme",
+            "actions": "stir",
+            "output": "cooked mushrooms with thyme"
+        },
+        {
+            "instructions": "spoon mushroom mixture into a bowl .",
+            "input": "mushroom mixture",
+            "actions": "spoon",
+            "output": "mushroom mixture"
+        },
+        {
+            "instructions": "add remaining 12 teaspoon , oil to pan ,",
+            "input": "oil",
+            "actions": "add",
+            "output": "greased pan"
+        },
+        {
+            "instructions": "reduce heat to medium .",
+            "input": "NA",
+            "actions": "reduce",
+            "output": "NA"
+        },
+        {
+            "instructions": "add garlic to pan ;",
+            "input": "garlic",
+            "actions": "add",
+            "output": "garlic"
+        },
+        {
+            "instructions": "cook 45 seconds .",
+            "input": "garlic",
+            "actions": "cook",
+            "output": "cooked garlic"
+        },
+        {
+            "instructions": "combine milk and flour in a small bowl , stirring well with a whisk .",
+            "input": "milk and flour",
+            "actions": "combine",
+            "output": "mixed milk and flour"
+        },
+        {
+            "instructions": "add milk mixture to pan ;",
+            "input": "milk mixture",
+            "actions": "add",
+            "output": "milk mixture"
+        },
+        {
+            "instructions": "cook 2 minutes or until thick , stirring constantly .",
+            "input": "milk mixture",
+            "actions": "cook",
+            "output": "thickened milk mixture"
+        },
+        {
+            "instructions": "add asiago and pepper , stirring until cheese melts .",
+            "input": "asiago, pepper",
+            "actions": "add",
+            "output": "melted cheeses"
+        },
+        {
+            "instructions": "spread sauce over crust , leaving a 12 inch border .",
+            "input": "sauce",
+            "actions": "spread",
+            "output": "sauce on crust"
+        },
+        {
+            "instructions": "top evenly with mushroom mixture , tomato slices , and mozzarella .",
+            "input": "mushroom mixture, tomato slices, muzzarella",
+            "actions": "top",
+            "output": "toppings on pizza"
+        },
+        {
+            "instructions": "bake at 375 for 10 minutes or until cheese melts",
+            "input": "pizza",
+            "actions": "bake",
+            "output": "bakes pizza"
+        },
+        {
+            "instructions": "cut pizza into 8 wedges .",
+            "input": "baked pizza",
+            "actions": "cut",
+            "output": "sliced pizza"
+        }
+    ],
+    "ingredients": [
+        {
+            "text": "1 (10-ounce) whole wheat Italian thin pizza crust (such as Boboli)"
+        },
+        {
+            "text": "Cooking spray"
+        },
+        {
+            "text": "1 1/2 teaspoons olive oil, divided"
+        },
+        {
+            "text": "1 (8-ounce) package presliced cremini or button mushrooms"
+        },
+        {
+            "text": "1 (6-ounce) package presliced portobello mushrooms, coarsely chopped"
+        },
+        {
+            "text": "1 1/2 teaspoons chopped fresh thyme"
+        },
+        {
+            "text": "3 garlic cloves, minced"
+        },
+        {
+            "text": "3/4 cup 2% reduced-fat milk"
+        },
+        {
+            "text": "2 tablespoons all-purpose flour"
+        },
+        {
+            "text": "3 tablespoons grated Asiago cheese"
+        },
+        {
+            "text": "1/4 teaspoon freshly ground black pepper"
+        },
+        {
+            "text": "1 large plum tomato, thinly sliced"
+        },
+        {
+            "text": "1 cup (4 ounces) shredded part-skim mozzarella cheese"
+        }
+    ],
+    "recipe": [
+        {
+            "text": "1."
+        },
+        {
+            "text": "Preheat oven to 375.2."
+        },
+        {
+            "text": "Place pizza crust on a baking sheet coated with cooking spray."
+        },
+        {
+            "text": "Bake at 375 for 5 minutes."
+        },
+        {
+            "text": "Remove crust from oven (do not turn oven off); set crust aside.3."
+        },
+        {
+            "text": "Heat a large nonstick skillet over medium-high heat."
+        },
+        {
+            "text": "Coat pan with cooking spray; add 1 teaspoon oil to pan, swirling to coat."
+        },
+        {
+            "text": "Add mushrooms to pan; saute 8 minutes or until moisture evaporates."
+        },
+        {
+            "text": "Stir in thyme; spoon mushroom mixture into a bowl.4."
+        },
+        {
+            "text": "Add remaining 1/2 teaspoon oil to pan, and reduce heat to medium."
+        },
+        {
+            "text": "Add garlic to pan; cook 45 seconds."
+        },
+        {
+            "text": "Combine milk and flour in a small bowl, stirring well with a whisk."
+        },
+        {
+            "text": "Add milk mixture to pan; cook 2 minutes or until thick, stirring constantly."
+        },
+        {
+            "text": "Add Asiago and pepper, stirring until cheese melts.5."
+        },
+        {
+            "text": "Spread sauce over crust, leaving a 1/2-inch border."
+        },
+        {
+            "text": "Top evenly with mushroom mixture, tomato slices, and mozzarella."
+        },
+        {
+            "text": "Bake at 375 for 10 minutes or until cheese melts and begins to brown."
+        },
+        {
+            "text": "Cut pizza into 8 wedges."
+        }
+    ]
+}

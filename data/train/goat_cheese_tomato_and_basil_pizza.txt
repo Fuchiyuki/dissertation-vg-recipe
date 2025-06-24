@@ -1,0 +1,160 @@
+{
+    "title": "goat_cheese_tomato_and_basil_pizza",
+    "id": "dd1dfa3be1",
+    "table": [
+        {
+            "instructions": "place pizza_crust on a lightly greased baking sheet .",
+            "input": "pizza_crust",
+            "action": "place",
+            "output": "pizza_crust"
+        },
+        {
+            "instructions": "in small mixing bowl combine olive_oil , garlic , and pepper .",
+            "input": "(olive_oil; garlic; pepper)",
+            "action": "combine",
+            "output": "garlic infused oil"
+        },
+        {
+            "instructions": "brush generously over the crust .",
+            "input": "(garlic infused oil; pizza_crust)",
+            "action": "brush",
+            "output": "pizza_crust brushed with garlic infused oil"
+        },
+        {
+            "instructions": "bake in a 400f .",
+            "input": "pizza_crust brushed with garlic infused oil",
+            "action": "bake",
+            "output": "baked_pizza_crust"
+        },
+        {
+            "instructions": "arrange tomato slices not overlapping them in a circular pattern on top of the pizza_crust",
+            "input": "(tomato_slices; baked_pizza_crust)",
+            "action": "arrange",
+            "output": "baked_pizza_crust with tomatoes"
+        },
+        {
+            "instructions": "top with the sliced onion and olives .",
+            "input": "(baked_pizza_crust with tomatoes; onion; olives)",
+            "action": "top",
+            "output": "baked_pizza_crust with tomatoes, onions and olives"
+        },
+        {
+            "instructions": "crumble the goat_cheese",
+            "input": "(goat_cheese; baked_pizza_crust with tomatoes, onions and olives)",
+            "action": "crumble",
+            "output": "baked_pizza_crust with tomatoes, onions, olives, and crumbled_goat_cheese"
+        },
+        {
+            "instructions": "sprinkle with oregano and basil .",
+            "input": "(oregano; basil; baked_pizza_crust with tomatoes, onions, olives, and crumbled_goat_cheese)",
+            "action": "sprinkle",
+            "output": "baked_pizza_crust with tomatoes, onions, olives, crumbled_goat_cheese, oregano and basil"
+        },
+        {
+            "instructions": "bake in the 400f .",
+            "input": "baked_pizza_crust with tomatoes, onions, olives, crumbled_goat_cheese, oregano and basil",
+            "action": "bake",
+            "output": "baked goat_cheese_tomato_and_basil_pizza"
+        },
+        {
+            "instructions": "remove pizza from the oven .",
+            "input": "baked goat_cheese_tomato_and_basil_pizza",
+            "action": "remove",
+            "output": "baked goat_cheese_tomato_and_basil_pizza"
+        },
+        {
+            "instructions": "sprinkle with toasted_pine_nut .",
+            "input": "(toasted_pine_nut; baked goat_cheese_tomato_and_basil_pizza)",
+            "action": "sprinkle",
+            "output": "baked goat_cheese_tomato_and_basil_pizza garnished with toasted pine nuts"
+        },
+        {
+            "instructions": "cut into wedges",
+            "input": "baked goat_cheese_tomato_and_basil_pizza garnished with toasted pine nuts",
+            "action": "cut",
+            "output": "sliced baked goat_cheese_tomato_and_basil_pizza garnished with toasted pine nuts"
+        },
+        {
+            "instructions": "serve .",
+            "input": "sliced baked goat_cheese_tomato_and_basil_pizza garnished with toasted pine nuts",
+            "action": "serve",
+            "output": "sliced baked goat_cheese_tomato_and_basil_pizza garnished with toasted pine nuts ready to eat"
+        }
+    ],
+    "ingredients": [
+        {
+            "text": "1 (12 inch) prepared pizza crust (Boboli is good)"
+        },
+        {
+            "text": "1 tablespoon olive oil"
+        },
+        {
+            "text": "1 garlic clove, minced"
+        },
+        {
+            "text": "18 teaspoon fresh ground pepper"
+        },
+        {
+            "text": "2 medium tomatoes, thinly sliced"
+        },
+        {
+            "text": "12 medium sweet onion, thinly sliced and separated into rings"
+        },
+        {
+            "text": "3 tablespoons ripe olives, pitted, sliced"
+        },
+        {
+            "text": "4 ounces goat cheese, crumbled"
+        },
+        {
+            "text": "1 tablespoon snipped fresh oregano, crushed or 1 teaspoon dried oregano"
+        },
+        {
+            "text": "1 tablespoon fresh basil, torn or 1 teaspoon dried basil"
+        },
+        {
+            "text": "2 tablespoons toasted pine nuts"
+        }
+    ],
+    "recipe": [
+        {
+            "text": "Place pizza crust on a lightly greased baking sheet."
+        },
+        {
+            "text": "In small mixing bowl combine olive oil, garlic, and pepper."
+        },
+        {
+            "text": "Brush generously over the crust."
+        },
+        {
+            "text": "Bake in a 400*F. oven for 5 minutes."
+        },
+        {
+            "text": "Arrange tomato slices (not overlapping them) in a circular pattern on top of the pizza crust"
+        },
+        {
+            "text": "Top with the sliced onion and olives."
+        },
+        {
+            "text": "Crumble the goat cheese over the tomato slices"
+        },
+        {
+            "text": "Sprinkle with oregano and basil."
+        },
+        {
+            "text": "Bake in the 400*F. oven 8 minutes longer, or until warm and cheese softens."
+        },
+        {
+            "text": "Remove pizza from the oven."
+        },
+        {
+            "text": "Sprinkle with toasted pine nuts."
+        },
+        {
+            "text": "Cut into wedges and serve."
+        },
+        {
+            "text": "Enjoy!"
+        }
+    ]
+}

@@ -1,0 +1,91 @@
+{
+    "title": "world_'s_best_pizza_crust",
+    "id": "88918d1c1d",
+    "table": [
+        {
+            "instructions": "dissolve yeast and sugar in water .",
+            "input": "(yeast; sugar; water)",
+            "actions": "dissolve",
+            "output": "dissolved_yeast and sugar mixture"
+        },
+        {
+            "instructions": "beat in 12 flour .",
+            "input": "(dissolved_yeast and sugar mixture; flour)",
+            "actions": "beat",
+            "output": "flour beat in yeast mixture"
+        },
+        {
+            "instructions": "add salt , oil and rest of flour add more if needed to make handle able dough .",
+            "input": "(flour beat in yeast mixture; salt; oil; remaining flour)",
+            "actions": "add",
+            "output": "dough"
+        },
+        {
+            "instructions": "rise in oiled bowl .",
+            "input": "dough",
+            "actions": "rise",
+            "output": "Risen dough"
+        },
+        {
+            "instructions": "place on greased pan .",
+            "input": "risen dough",
+            "actions": "place",
+            "output": "Risen dough"
+        },
+        {
+            "instructions": "add sauce , cheese , etc .",
+            "input": "(Dough; sauce; cheese)",
+            "actions": "add",
+            "output": "sauce and cheese added to pizza crust"
+        },
+        {
+            "instructions": "bake at 450 20 25 minutes til brown .",
+            "input": "Uncooked pizza",
+            "actions": "bake",
+            "output": "Cooked pizza"
+        }
+    ],
+    "ingredients": [
+        {
+            "text": "1 (1/2 tablespoon) package yeast"
+        },
+        {
+            "text": "1 teaspoon sugar"
+        },
+        {
+            "text": "1 cup warm water"
+        },
+        {
+            "text": "3 cups flour"
+        },
+        {
+            "text": "12 teaspoon salt"
+        },
+        {
+            "text": "2 tablespoons oil"
+        }
+    ],
+    "recipe": [
+        {
+            "text": "Dissolve yeast and sugar in water."
+        },
+        {
+            "text": "Beat in 1/2 flour."
+        },
+        {
+            "text": "Add salt, oil and rest of flour (add more if needed to make handle-able dough)."
+        },
+        {
+            "text": "Rise in oiled bowl."
+        },
+        {
+            "text": "Place on greased pan."
+        },
+        {
+            "text": "Add sauce, cheese, etc."
+        },
+        {
+            "text": "Bake at 450 20 -25 minutes (til brown)."
+        }
+    ]
+}

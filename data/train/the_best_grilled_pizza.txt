@@ -1,0 +1,250 @@
+{
+    "title": "the_best_grilled_pizza",
+    "id": "2fc360f53f",
+    "table": [
+        {
+            "instructions": "mix the dough in your bread maker , if you have one .",
+            "input": "dough",
+            "actions": "mix",
+            "output": "mixed_dough"
+        },
+        {
+            "instructions": "add 3 cups of the flour , and the salt .",
+            "input": "(dough; flour; salt)",
+            "actions": "add",
+            "output": "mixed_dough"
+        },
+        {
+            "instructions": "mix in the last cup of flour .",
+            "input": "(dough; flour)",
+            "actions": "mix",
+            "output": "mixed_dough"
+        },
+        {
+            "instructions": "knead until smooth , 10 minutes , using more flour if necessary .",
+            "input": "mixed_dough",
+            "actions": "knead",
+            "output": "kneaded dough"
+        },
+        {
+            "instructions": "put dough in a well oiled bowl",
+            "input": "kneaded dough",
+            "actions": "put",
+            "output": "kneaded dough"
+        },
+        {
+            "instructions": "turn dough to coat it all .",
+            "input": "kneaded dough",
+            "actions": "turn",
+            "output": "oil-coated dough"
+        },
+        {
+            "instructions": "cover with plastic wrap",
+            "input": "oil-coated dough",
+            "actions": "cover",
+            "output": "covered oil-coated dough"
+        },
+        {
+            "instructions": "divide dough into 6 portions .",
+            "input": "dough",
+            "actions": "divide",
+            "output": "divided dough"
+        },
+        {
+            "instructions": "if not using right away , refrigerate .",
+            "input": "dough",
+            "actions": "refrigerate",
+            "output": "optionally refrigerated dough"
+        },
+        {
+            "instructions": "shape each piece into a rustic oval",
+            "input": "divided dough",
+            "actions": "shape",
+            "output": "rustic oval shaped dough"
+        },
+        {
+            "instructions": "place on a cookie sheet that has been dusted with cornmeal .",
+            "input": "rustic oval shaped dough",
+            "actions": "place",
+            "output": "dusted rustic oval shaped dough with cornmeal"
+        },
+        {
+            "instructions": "place wax paper between dough",
+            "input": "dough",
+            "actions": "place",
+            "output": "dough"
+        },
+        {
+            "instructions": "get your vegetables prepped",
+            "input": "vegetables",
+            "actions": "get",
+            "output": "prepped_vegetables"
+        },
+        {
+            "instructions": "put all toppings in seperate bowls",
+            "input": "toppings",
+            "actions": "put",
+            "output": "toppings"
+        },
+        {
+            "instructions": "rub oil across gates of a hot grill , with a clean rag .",
+            "input": "NA",
+            "actions": "rub",
+            "output": "NA"
+        },
+        {
+            "instructions": "brush olive_oil on each pizza .",
+            "input": "(olive oil; pizza_crust)",
+            "actions": "brush",
+            "output": "pizza_crust brushed with olive oil"
+        },
+        {
+            "instructions": "grill dough on each side , 1 2 minutes , making sure each side has been oiled .",
+            "input": "pizza_crust brushed with olive oil",
+            "actions": "grill",
+            "output": "grilled pizza crusts"
+        },
+        {
+            "instructions": "remove",
+            "input": "grilled pizza crusts",
+            "actions": "remove",
+            "output": "grilled pizza crusts"
+        },
+        {
+            "instructions": "line the grill with aluminum foil .",
+            "input": "NA",
+            "actions": "line",
+            "output": "NA"
+        },
+        {
+            "instructions": "drizzle olive_oil over the tops ,",
+            "input": "grilled pizza crusts",
+            "actions": "drizzle",
+            "output": "olive_oil drizzled over grilled pizza crusts"
+        },
+        {
+            "instructions": "place on grill",
+            "input": "olive_oil drizzled over grilled pizza crusts",
+            "actions": "place",
+            "output": "olive_oil drizzled over grilled pizza crusts"
+        },
+        {
+            "instructions": "cover untill cheese is melted , approximatley 5 minutes .",
+            "input": "uncooked pizza",
+            "actions": "cover",
+            "output": "grilled pizza"
+        }
+    ],
+    "ingredients": [
+        {
+            "text": "1 14 cups warm water (110 degrees)"
+        },
+        {
+            "text": "2 (1/4 ounce) packages dry yeast"
+        },
+        {
+            "text": "1 tablespoon honey"
+        },
+        {
+            "text": "3 tablespoons extra virgin olive oil"
+        },
+        {
+            "text": "4 cups flour"
+        },
+        {
+            "text": "2 teaspoons salt"
+        },
+        {
+            "text": "1 lb Italian sausage (fried and crumbled)"
+        },
+        {
+            "text": "1 red onion (sliced thin)"
+        },
+        {
+            "text": "3 cups fresh spinach"
+        },
+        {
+            "text": "1 cup fresh button mushrooms, sliced"
+        },
+        {
+            "text": "1 cup cherry tomatoes, halved"
+        },
+        {
+            "text": "12 cup green olives, sliced"
+        },
+        {
+            "text": "12 cup black olives, sliced"
+        },
+        {
+            "text": "2 cups mozzarella cheese, shredded"
+        },
+        {
+            "text": "1 cup feta, crumbled with basil"
+        },
+        {
+            "text": "12 teaspoon garlic powder"
+        },
+        {
+            "text": "salt and pepper, to taste"
+        }
+    ],
+    "recipe": [
+        {
+            "text": "Mix the dough in your bread maker, if you have one."
+        },
+        {
+            "text": "Start with the water, yeast, and honey, and olive oil."
+        },
+        {
+            "text": "Add 3 cups of the flour, and the salt."
+        },
+        {
+            "text": "Mix in the last cup of flour."
+        },
+        {
+            "text": "Knead until smooth, 10 minutes, using more flour if necessary."
+        },
+        {
+            "text": "Put dough in a well oiled bowl, turn dough to coat it all."
+        },
+        {
+            "text": "Cover with plastic wrap, let rest for 30 minutes."
+        },
+        {
+            "text": "Divide dough into 6 portions."
+        },
+        {
+            "text": "If not using right away, refrigerate."
+        },
+        {
+            "text": "Shape each piece into a rustic oval, place on a cookie sheet that has been dusted with corn meal."
+        },
+        {
+            "text": "Place wax paper between dough and repeat until all are shaped."
+        },
+        {
+            "text": "Get your vegetables prepped, put all toppings in seperate bowls, stack in a large roaster, and head for the grill."
+        },
+        {
+            "text": "Rub oil across gates of a hot grill, with a clean rag."
+        },
+        {
+            "text": "Brush olive oil on each pizza."
+        },
+        {
+            "text": "Grill dough on each side, 1-2 minutes, making sure each side has been oiled."
+        },
+        {
+            "text": "Remove and line the grill with aluminum foil."
+        },
+        {
+            "text": "Have each guest stack their own pizza with toppings, mozzerella first, then spinach, meat, other veggies, then the feta."
+        },
+        {
+            "text": "Drizzle olive oil over the tops, and place on grill, cover untill cheese is melted, approximatley 5 minutes."
+        },
+        {
+            "text": "Wonderful and healthy!"
+        }
+    ]
+}

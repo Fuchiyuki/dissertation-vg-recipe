@@ -1,0 +1,151 @@
+{
+    "title": "tomato_and_smoked_gouda_pizza",
+    "id": "181d96b3b3",
+    "table": [
+        {
+            "instructions": "preheat oven to 45",
+            "input": "NA",
+            "actions": "preheat",
+            "output": "NA"
+        },
+        {
+            "instructions": "roll the dough into a 12 inch circle on a lightly floured surface .",
+            "input": "dough",
+            "actions": "roll",
+            "output": "rolled_dough"
+        },
+        {
+            "instructions": "place dough on a 12 inch pizza\u2012pan or baking sheet coated with cooking_spray",
+            "input": "rolled_dough",
+            "actions": "place",
+            "output": "rolled_dough"
+        },
+        {
+            "instructions": "crimp edges of dough with fingers to form a rim .",
+            "input": "rolled_dough",
+            "actions": "crimp",
+            "output": "pizza_crust_with_crimp_edges"
+        },
+        {
+            "instructions": "bake at 450 for 5 minutes .",
+            "input": "uncooked_pizza_crust",
+            "actions": "bake",
+            "output": "baked_pizza_crust"
+        },
+        {
+            "instructions": "sprinkle cheese over pizza_crust , leaving a 1 inch border .",
+            "input": "(pizza_crust; cheese)",
+            "actions": "sprinkle",
+            "output": "cheese_sprinkled_over_pizza_crust"
+        },
+        {
+            "instructions": "arrange the tomato slices over cheese .",
+            "input": "(pizza_crust; tomato_slices)",
+            "actions": "arrange",
+            "output": "tomato_slices_over_pizza_crust"
+        },
+        {
+            "instructions": "combine oil and garlic ;",
+            "input": "(oil; garlic)",
+            "actions": "combine",
+            "output": "garlic_oil"
+        },
+        {
+            "instructions": "sprinkle over tomato .",
+            "input": "(garlic_oil; tomato_slices_over_pizza_crust)",
+            "actions": "sprinkle",
+            "output": "garlic_oil_sprinkled_over_tomato_slices_over_pizza_crust"
+        },
+        {
+            "instructions": "sprinkle with pepper .",
+            "input": "(pepper; pizza)",
+            "actions": "sprinkle",
+            "output": "pepper_sprinkled_over_pizza"
+        },
+        {
+            "instructions": "bake at 450 for 15 minutes or until lightly browned .",
+            "input": "uncooked_pizza",
+            "actions": "bake",
+            "output": "baked_pizza"
+        },
+        {
+            "instructions": "top with basil .",
+            "input": "(basil; pizza)",
+            "actions": "top",
+            "output": "pizza_topped_with_basil"
+        },
+        {
+            "instructions": "cut into 8 wedges .",
+            "input": "pizza",
+            "actions": "cut",
+            "output": "cut_tomato_and_smoked_gouda_pizza"
+        }
+    ],
+    "ingredients": [
+        {
+            "text": "1 (13 7/8 ounce) refrigerated tube pizza dough (such as Pillsbury)"
+        },
+        {
+            "text": "cooking spray"
+        },
+        {
+            "text": "1 tablespoon cornmeal"
+        },
+        {
+            "text": "12 cup shredded smoked gouda cheese"
+        },
+        {
+            "text": "1 12 cups sliced plum tomatoes (about 4)"
+        },
+        {
+            "text": "2 teaspoons olive oil"
+        },
+        {
+            "text": "2 garlic cloves, minced"
+        },
+        {
+            "text": "12 teaspoon fresh ground black pepper"
+        },
+        {
+            "text": "2 tablespoons thinly sliced fresh basil"
+        }
+    ],
+    "recipe": [
+        {
+            "text": "Preheat oven to 450."
+        },
+        {
+            "text": "Roll the dough into a 12-inch circle on a lightly floured surface."
+        },
+        {
+            "text": "Place dough on a (12-inch) pizza pan or baking sheet coated with cooking spray and sprinkled with cornmeal."
+        },
+        {
+            "text": "Crimp edges of dough with fingers to form a rim."
+        },
+        {
+            "text": "Bake at 450 for 5 minutes."
+        },
+        {
+            "text": "Sprinkle cheese over pizza crust, leaving a 1-inch border."
+        },
+        {
+            "text": "Arrange the tomato slices over cheese."
+        },
+        {
+            "text": "Combine oil and garlic; sprinkle over tomato."
+        },
+        {
+            "text": "Sprinkle with pepper."
+        },
+        {
+            "text": "Bake at 450 for 15 minutes or until lightly browned."
+        },
+        {
+            "text": "Top with basil."
+        },
+        {
+            "text": "Cut into 8 wedges."
+        }
+    ]
+}

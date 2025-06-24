@@ -1,0 +1,106 @@
+{
+    "title": "easy_polenta_pizza_appetizer_bakes",
+    "id": "f980e43829",
+    "table": [
+        {
+            "instructions": "heat oven to 450 degrees .",
+            "input": "NA",
+            "action": "heat",
+            "output": "NA"
+        },
+        {
+            "instructions": "slice 4 slices of polenta 12 inch thick .",
+            "input": "polenta",
+            "action": "slice",
+            "output": "sliced polenta"
+        },
+        {
+            "instructions": "brush both sides with olive_oil",
+            "input": "(sliced polenta; olive oil)",
+            "action": "brush",
+            "output": "sliced polenta brushed with olive oil"
+        },
+        {
+            "instructions": "place on baking sheet .",
+            "input": "sliced polenta brushed with olive oil",
+            "action": "place",
+            "output": "sliced polenta brushed with olive oil"
+        },
+        {
+            "instructions": "add 1 tbsp , pizza_sauce to each slice .",
+            "input": "(pizza_sauce; sliced polenta brushed with olive oil)",
+            "action": "add",
+            "output": "sliced polenta brushed with olive oil with pizza sauce"
+        },
+        {
+            "instructions": "sprinkle top with grated locatelli cheese .",
+            "input": "(grated locatelli_cheese; sliced polenta brushed with olive oil with pizza sauce)",
+            "action": "sprinkle",
+            "output": "sliced polenta brushed with olive oil with pizza sauce and locatelli cheese"
+        },
+        {
+            "instructions": "bake for 12 minutes .",
+            "input": "uncooked polenta pizza appetizer",
+            "action": "bake",
+            "output": "baked polenta pizza appetizer"
+        },
+        {
+            "instructions": "serve hot .",
+            "input": "baked polenta pizza appetizer",
+            "action": "serve",
+            "output": "baked polenta pizza appetizer ready to eat"
+        }
+    ],
+    "ingredients": [
+        {
+            "text": "4 polenta, slices sliced 1/2 inch thick"
+        },
+        {
+            "text": "2 teaspoons olive oil, for brushing"
+        },
+        {
+            "text": "4 anchovy fillets, in olive oil- roughly chopped"
+        },
+        {
+            "text": "8 oil-cured black olives, roughly sliced"
+        },
+        {
+            "text": "1 sprig rosemary"
+        },
+        {
+            "text": "4 tablespoons pizza sauce"
+        },
+        {
+            "text": "2 teaspoons locatelli cheese"
+        }
+    ],
+    "recipe": [
+        {
+            "text": "Heat oven to 450 degrees."
+        },
+        {
+            "text": "Slice 4 slices of Polenta 1/2 inch thick."
+        },
+        {
+            "text": "Brush both sides with olive oil and place on baking sheet."
+        },
+        {
+            "text": "Add 1 tbsp pizza sauce to each slice."
+        },
+        {
+            "text": "Evenly distribute rosemary, over polenta slices."
+        },
+        {
+            "text": "Evenly distribute anchovies and olives."
+        },
+        {
+            "text": "Sprinkle top with grated locatelli cheese."
+        },
+        {
+            "text": "Bake for 12 minutes."
+        },
+        {
+            "text": "Serve hot."
+        }
+    ]
+}

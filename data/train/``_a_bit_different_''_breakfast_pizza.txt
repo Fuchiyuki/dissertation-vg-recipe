@@ -1,0 +1,121 @@
+{
+    "title": "``_a_bit_different_''_breakfast_pizza",
+    "id": "7b14668518",
+    "table": [
+        {
+            "instructions": "preheat oven to 425 degrees f .",
+            "input": "NA",
+            "actions": "preheat",
+            "output": "NA"
+        },
+        {
+            "instructions": "press dough into the bottom and sides of a 12 inch , pizza\u2012pan .",
+            "input": "dough",
+            "actions": "press",
+            "output": "pressed_dough"
+        },
+        {
+            "instructions": "bake for 5 minutes until set but not browned .",
+            "input": "unbake crust",
+            "actions": "bake",
+            "output": "baked crust"
+        },
+        {
+            "instructions": "cut sausage into small pieces .",
+            "input": "sausage",
+            "actions": "cut",
+            "output": "cut sausage"
+        },
+        {
+            "instructions": "whisk eggs and milk in a bowl until frothy .",
+            "input": "(eggs; milk)",
+            "actions": "whisk",
+            "output": "whisked egg mixture"
+        },
+        {
+            "instructions": "spoon sausage over baked crust",
+            "input": "(baked crust; cut sausage)",
+            "actions": "spoon",
+            "output": "cut sausage spooned on baked crust"
+        },
+        {
+            "instructions": "sprinkle with cheese .",
+            "input": "(baked crust with sausage; cheese)",
+            "actions": "sprinkle",
+            "output": "cheese sprinkled on baked crust with sausage"
+        },
+        {
+            "instructions": "pour egg mixture slowly over sausage and cheese .",
+            "input": "(egg mixture; crust with sausage and cheese)",
+            "actions": "pour",
+            "output": "egg mixture poured over crust with sausage and cheese"
+        },
+        {
+            "instructions": "sand p",
+            "input": "NA",
+            "actions": "sand",
+            "output": "NA"
+        },
+        {
+            "instructions": "to taste .",
+            "input": "NA",
+            "actions": "taste",
+            "output": "NA"
+        },
+        {
+            "instructions": "bake 15 20 minutes or until eggs are set and crust is brown .",
+            "input": "uncooked breakfast pizza",
+            "actions": "bake",
+            "output": "baked breakfast_pizza"
+        }
+    ],
+    "ingredients": [
+        {
+            "text": "1 (10 ounce) can prepared pizza crust (or use your favorite recipe)"
+        },
+        {
+            "text": "1 (7 ounce) packageprebrowned sausage patty, thawed"
+        },
+        {
+            "text": "3 eggs"
+        },
+        {
+            "text": "12 cup milk"
+        },
+        {
+            "text": "salt and pepper"
+        },
+        {
+            "text": "2 cups shredded cheese (pizza-style or use your favorite)"
+        }
+    ],
+    "recipe": [
+        {
+            "text": "Preheat oven to 425 degrees F."
+        },
+        {
+            "text": "Press dough into the bottom and sides of a 12 inch pizza pan."
+        },
+        {
+            "text": "Bake for 5 minutes until set but not browned."
+        },
+        {
+            "text": "Cut sausage into small pieces."
+        },
+        {
+            "text": "Whisk eggs and milk in a bowl until frothy."
+        },
+        {
+            "text": "Spoon sausage over baked crust and sprinkle with cheese."
+        },
+        {
+            "text": "Pour egg mixture slowly over sausage and cheese."
+        },
+        {
+            "text": "S& P to taste."
+        },
+        {
+            "text": "Bake 15-20 minutes or until eggs are set and crust is brown."
+        }
+    ]
+}

@@ -1,0 +1,148 @@
+{
+    "title": "crescent_lasagna_pizza_roll",
+    "id": "d1066e6998",
+    "table": [
+        {
+            "instructions": "brown the beef_sausage , basil , oregano , salt , tomato_paste and garlic_powder together .",
+            "input": "(beef_sausage; basil; oregano; salt; tomato_paste; garlic_powder)",
+            "action": "brown",
+            "output": "browned_beef mixture"
+        },
+        {
+            "instructions": "mix the egg , cottage_cheese , and parmesan_cheese together .",
+            "input": "(egg; cottage cheese; parmesan cheese)",
+            "action": "mix",
+            "output": "egg and cheese mixture"
+        },
+        {
+            "instructions": "unroll one package of crescent_roll , dough",
+            "input": "crescent roll dough",
+            "action": "unroll",
+            "output": "unrolled crescent rolls"
+        },
+        {
+            "instructions": "arrange the rectangles on a baking sheet to form one large square or cirle of dough .",
+            "input": "unrolled crescent rolls",
+            "action": "arrange",
+            "output": "baking sheet with flat layer of crescent roll dough"
+        },
+        {
+            "instructions": "In the middle of the dough layer the meat mixture and cheese mixture several times leaving 1 inch of dough around the edges uncovered.",
+            "input": "(flat layer of crescent roll dough; browned_beef mixture; egg and cheese mixture)",
+            "action": "layer",
+            "output": "flat layer of crescent roll dough with browned_beef mixture and egg and cheese mixture"
+        },
+        {
+            "instructions": "use the mozzarella_cheese as the top layer .",
+            "input": "(mozzarella cheese; flat layer of crescent roll dough with browned_beef mixture and egg and cheese mixture)",
+            "action": "use",
+            "output": "flat layer of crescent roll dough with browned_beef mixture, egg and cheese mixture and mozzarella cheese"
+        },
+        {
+            "instructions": "unroll the second package of crescent_roll , dough",
+            "input": "second package of crescent roll dough",
+            "action": "unroll",
+            "output": "unrolled crescent roll dough"
+        },
+        {
+            "instructions": "use these rectangles to cover the filling stretching the dough to touch the bottom layer of dough .",
+            "input": "(unrolled crescent roll dough; flat layer of crescent roll dough with browned_beef mixture, egg and cheese mixture and mozzarella cheese)",
+            "action": "use",
+            "output": "flat layer of crescent roll dough with browned_beef mixture, egg and cheese mixture and mozzarella cheese covered with unrolled crescent roll dough"
+        },
+        {
+            "instructions": "fold the outside edge of the bottom layer of dough over the top layer of dough",
+            "input": "flat layer of crescent roll dough with browned_beef mixture, egg and cheese mixture and mozzarella cheese covered with unrolled crescent roll dough",
+            "action": "fold",
+            "output": "flat layer of crescent roll dough with browned_beef mixture, egg and cheese mixture and mozzarella cheese covered with unrolled crescent roll dough, folded"
+        },
+        {
+            "instructions": "press with a fork to seal .",
+            "input": "flat layer of crescent roll dough with browned_beef mixture, egg and cheese mixture and mozzarella cheese covered with unrolled crescent roll dough, folded",
+            "action": "press",
+            "output": "flat layer of crescent roll dough with browned_beef mixture, egg and cheese mixture and mozzarella cheese covered with unrolled crescent roll dough, folded and sealed"
+        },
+        {
+            "instructions": "bake at 375 f for 25 minutes or until dough is lightly browned",
+            "input": "flat layer of crescent roll dough with browned_beef mixture, egg and cheese mixture and mozzarella cheese covered with unrolled crescent roll dough, folded and sealed",
+            "action": "bake",
+            "output": "baked crescent_lasagna_pizza_roll"
+        }
+    ],
+    "ingredients": [
+        {
+            "text": "12 lb ground beef"
+        },
+        {
+            "text": "12 lb bulk sausage"
+        },
+        {
+            "text": "12 teaspoon dried basil"
+        },
+        {
+            "text": "12 teaspoon dried oregano"
+        },
+        {
+            "text": "12 teaspoon salt"
+        },
+        {
+            "text": "1 (6 ounce) can tomato paste"
+        },
+        {
+            "text": "14 teaspoon garlic powder"
+        },
+        {
+            "text": "1 egg"
+        },
+        {
+            "text": "1 cup small-curd cottage cheese"
+        },
+        {
+            "text": "14 cup grated parmesan cheese"
+        },
+        {
+            "text": "2 cups mozzarella cheese"
+        },
+        {
+            "text": "2 (8 ounce) packages crescent roll dough"
+        }
+    ],
+    "recipe": [
+        {
+            "text": "Brown the beef, sausage, basil, oregano, salt, tomato paste and garlic powder together."
+        },
+        {
+            "text": "Mix the egg, cottage cheese, and parmesan cheese together."
+        },
+        {
+            "text": "Unroll one package of crescent roll dough keeping the rectangles together and press the seam between each rectangle shut."
+        },
+        {
+            "text": "Arrange the rectangles on a baking sheet to form one large square or cirle of dough."
+        },
+        {
+            "text": "(I usually overlap the rectangles a bit to form a circle shape because my baking sheet is circular!"
+        },
+        {
+            "text": ")."
+        },
+        {
+            "text": "In the middle of the dough layer the meat mixture and cheese mixture several times leaving 1 inch of dough around the edges uncovered."
+        },
+        {
+            "text": "Use the mozzarella cheese as the top layer."
+        },
+        {
+            "text": "Unroll the second package of crescent roll dough in the same way and use these rectangles to cover the filling stretching the dough to touch the bottom layer of dough."
+        },
+        {
+            "text": "Go all the way around the circle and fold the outside edge of the bottom layer of dough over the top layer of dough and press with a fork to seal."
+        },
+        {
+            "text": "You can sprinkle the top of the roll with sesame seeds if desired."
+        },
+        {
+            "text": "Bake at 375 F for 25 minutes or until dough is lightly browned and cooked through and the filling is heated through and cheese melted."
+        }
+    ]
+}

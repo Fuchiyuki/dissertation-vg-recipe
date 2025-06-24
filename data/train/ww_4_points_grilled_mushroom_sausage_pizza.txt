@@ -1,0 +1,94 @@
+{
+    "title": "ww_4_points_grilled_mushroom_sausage_pizza",
+    "id": "4a0e7e70ad",
+    "table": [
+        {
+            "instructions": "spray the grill rack with nonstick_spray",
+            "input": "NA",
+            "action": "spray",
+            "output": "NA"
+        },
+        {
+            "instructions": "set to medium high fire .",
+            "input": "NA",
+            "action": "set",
+            "output": "NA"
+        },
+        {
+            "instructions": "place the crust on a pizza paddle or rimless baking sheet .",
+            "input": "crust",
+            "action": "place",
+            "output": "crust"
+        },
+        {
+            "instructions": "using the paddle or baking sheet , slide the pizza onto the grill , away from the heat source .",
+            "input": "pizza crust",
+            "action": "slide",
+            "output": "pizza crust on a grill"
+        },
+        {
+            "instructions": "cover",
+            "input": "pizza crust",
+            "action": "cover",
+            "output": "pizza crust"
+        },
+        {
+            "instructions": "cook , rotating the pizza a half turn after 8 minutes , until it is hot and cheese is melted .",
+            "input": "uncooked pizza crust with cheese",
+            "action": "cook",
+            "output": "cooked cheese pizza"
+        },
+        {
+            "instructions": "garnish with basil before serving .",
+            "input": "cheese pizza",
+            "action": "garnish",
+            "output": "cheese pizza with basil"
+        }
+    ],
+    "ingredients": [
+        {
+            "text": "1 (8 inch) prebaked prepared pizza crust (like Boboli)"
+        },
+        {
+            "text": "1 small yellow tomatoes, thinly sliced"
+        },
+        {
+            "text": "12 cup thinly sliced assorted wild mushrooms, such as baby portobello, oyster, and or 12 cup shiitake mushroom"
+        },
+        {
+            "text": "14 small red onion, thinly sliced"
+        },
+        {
+            "text": "2 ounces cooked spicy low-fat chicken sausage (crumbled out of casing)"
+        },
+        {
+            "text": "2 ounces past-skim mozzarella cheese, thinly sliced"
+        },
+        {
+            "text": "14 cup fresh basil leaf"
+        }
+    ],
+    "recipe": [
+        {
+            "text": "Spray the grill rack with nonstick spray and set to medium-high fire."
+        },
+        {
+            "text": "Place the crust on a pizza paddle or rimless baking sheet."
+        },
+        {
+            "text": "Layer with the tomato slices, mushrooms, onions, chicken sausage, and mozzarella."
+        },
+        {
+            "text": "Using the paddle or baking sheet, slide the pizza onto the grill, away from the heat source."
+        },
+        {
+            "text": "Cover and cook, rotating the pizza a half turn after 8 minutes, until it is hot and cheese is melted."
+        },
+        {
+            "text": "Garnish with basil before serving."
+        },
+        {
+            "text": "4 Points per serving (1/2 pizza)."
+        }
+    ]
+}

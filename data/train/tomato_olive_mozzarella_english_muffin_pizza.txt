@@ -1,0 +1,166 @@
+{
+    "title": "tomato_olive_mozzarella_english_muffin_pizza",
+    "id": "96507cb66c",
+    "table": [
+        {
+            "instructions": "toast muffin halves uner",
+            "input": "(garlic; basil)",
+            "actions": "toast",
+            "output": "(toasted_garlic; basil)"
+        },
+        {
+            "instructions": "mix garlic , butter and basil together",
+            "input": "(garlic; butter; basil)",
+            "actions": "mix",
+            "output": "garlic butter mix"
+        },
+        {
+            "instructions": "spread on each muffin half .",
+            "input": "(garlic butter mix; muffin half)",
+            "actions": "spread",
+            "output": "garlic butter mix_spread_on_muffin"
+        },
+        {
+            "instructions": "cut cross shape in the base of each tomato",
+            "input": "tomato",
+            "actions": "cut",
+            "output": "cross cut tomato"
+        },
+        {
+            "instructions": "peel away skin .",
+            "input": "cross cut tomato",
+            "actions": "peel",
+            "output": "peeled_tomato"
+        },
+        {
+            "instructions": "chop tomato flesh",
+            "input": "peeled_tomato",
+            "actions": "chop",
+            "output": "chopped_tomato"
+        },
+        {
+            "instructions": "mix with tomato_paste and olives .",
+            "input": "(chopped_tomato; tomato_paste; olives)",
+            "actions": "mix",
+            "output": "chopped_tomato_mixed_with_tomato_paste_and_olives"
+        },
+        {
+            "instructions": "divide mixture between muffins .",
+            "input": "(tomato_and_olives_mixture; muffins with garlic butter mix)",
+            "actions": "divide",
+            "output": "muffins_stuffed_with_tomato_and_olives_mixture"
+        },
+        {
+            "instructions": "mix dressing ingredients",
+            "input": "dressing_ingredients",
+            "actions": "mix",
+            "output": "dressing"
+        },
+        {
+            "instructions": "drizzle over each muffin .",
+            "input": "dressing",
+            "actions": "drizzle",
+            "output": "dressing_drizzled_on_muffin"
+        },
+        {
+            "instructions": "arrange mozarella slices on top",
+            "input": "(mozzarella; muffin with dressing and tomato_and_olives_mixture)",
+            "actions": "arrange",
+            "output": "mozzarella_spread_on_muffins"
+        },
+        {
+            "instructions": "season with salt and pepper .",
+            "input": "(salt; pepper; muffin pizza)",
+            "actions": "season",
+            "output": "muffins_pizza_seasoned_with_salt and pepper"
+        },
+        {
+            "instructions": "return muffins to broiler for 1 2 minutes , or until cheese melts .",
+            "input": "tomato_and_olives_muffins",
+            "actions": "return",
+            "output": "broiled_tomato_and_olives_muffins"
+        },
+        {
+            "instructions": "garnish with basil",
+            "input": "(basil; broiled_tomato_and_olives_muffins)",
+            "actions": "garnish",
+            "output": "tomato_and_olives_muffins_garnished_with_basil"
+        },
+        {
+            "instructions": "serve at once .",
+            "input": "tomato_olive_mozzarella_muffin_pizza",
+            "actions": "serve",
+            "output": "tomato_olive_mozzarella_muffin_pizza"
+        }
+    ],
+    "ingredients": [
+        {
+            "text": "4 English muffins, split"
+        },
+        {
+            "text": "4 garlic cloves, crushed"
+        },
+        {
+            "text": "2 tablespoons butter"
+        },
+        {
+            "text": "1 tablespoon chopped fresh basil (or more if you are like me)"
+        },
+        {
+            "text": "4 large tomatoes, very ripe"
+        },
+        {
+            "text": "1 tablespoon tomato paste"
+        },
+        {
+            "text": "8 pitted black olives, halved"
+        },
+        {
+            "text": "1 34 ounces mozzarella cheese, sliced"
+        },
+        {
+            "text": "salt and pepper"
+        },
+        {
+            "text": "1 tablespoon olive oil"
+        },
+        {
+            "text": "2 teaspoons lemon juice"
+        },
+        {
+            "text": "1 teaspoon clear honey"
+        }
+    ],
+    "recipe": [
+        {
+            "text": "Toast muffin halves uner broiler until golden, about 2-3 minutes"
+        },
+        {
+            "text": "Mix garlic, butte and basil together and spread on each muffin half."
+        },
+        {
+            "text": "Cut cross shape in the base of each tomato and plunge into bowl of boiling water."
+        },
+        {
+            "text": "After a few minutes, pick up tomato with a fork and peel away skin."
+        },
+        {
+            "text": "Chop tomato flesh and mix with tomato paste and olives."
+        },
+        {
+            "text": "Divide mixture between muffins."
+        },
+        {
+            "text": "Mix dressing ingredients and drizzle over each muffin."
+        },
+        {
+            "text": "Arrange mozarella slices on top and season with salt and pepper."
+        },
+        {
+            "text": "Return muffins to broiler for 1-2 minutes, or until cheese melts."
+        },
+        {
+            "text": "Garnish with basil and serve at once."
+        }
+    ]
+}

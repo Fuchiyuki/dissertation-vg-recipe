@@ -1,0 +1,268 @@
+{
+    "title": "the_bay-view_pizza",
+    "id": "b47a7a34c3",
+    "table": [
+        {
+            "instructions": "to make the sauce",
+            "input": "NA",
+            "action": "make",
+            "output": "NA"
+        },
+        {
+            "instructions": "combine all of the ingredients in a large stockpot",
+            "input": "(crushed tomatoes; squeezed lemon juice; chopped basil; chopped oregano; chopped fresh Italian parsley; chopped fresh thyme; ground black pepper; minced garlic; minced onion; salt; chopped tomatoes; )",
+            "action": "combine",
+            "output": "tomato sauce"
+        },
+        {
+            "instructions": "simmer over medium heat for about 15 minutes , stirring frequently .",
+            "input": "tomato sauce",
+            "action": "simmer",
+            "output": "simmering tomato sauce"
+        },
+        {
+            "instructions": "remove the pot from the heat",
+            "input": "simmering tomato sauce",
+            "action": "remove",
+            "output": "cooked tomato sauce"
+        },
+        {
+            "instructions": "blend using an immersion blender until the sauce is smooth .",
+            "input": "cooked tomato sauce",
+            "action": "blend",
+            "output": "blended cooked tomato sauce"
+        },
+        {
+            "instructions": "to make the beef topping",
+            "input": "NA",
+            "action": "make",
+            "output": "NA"
+        },
+        {
+            "instructions": "heat a large saute pan over medium heat",
+            "input": "NA",
+            "action": "heat",
+            "output": "NA"
+        },
+        {
+            "instructions": "add the ground_sirloin ,",
+            "input": "ground_sirloin",
+            "action": "add",
+            "output": "ground_sirloin"
+        },
+        {
+            "instructions": "cook until browned throughout .",
+            "input": "ground_sirloin",
+            "action": "cook",
+            "output": "cook_ground_sirloin"
+        },
+        {
+            "instructions": "drain any grease ,",
+            "input": "cook_ground_sirloin",
+            "action": "drain",
+            "output": "cook_ground_sirloin without excess fat"
+        },
+        {
+            "instructions": "add the onion , tomatoes , cumin , chili_powder , and salt and pepper to taste .",
+            "input": "(cook_ground_sirloin without excess fat; tomatoes; ground cumin; dark chili powder; salt; ground pepper; chopped onion)",
+            "action": "add",
+            "output": "chopped onion, ground cumin, dark chili powder, salt and pepper added to cook_ground_sirloin without excess fat"
+        },
+        {
+            "instructions": "simmer for 5 minutes .",
+            "input": "chopped onion, ground cumin, dark chili powder, salt and pepper added to cook_ground_sirloin without excess fat",
+            "action": "simmer",
+            "output": "cooked beef mixture"
+        },
+        {
+            "instructions": "preheat the oven to 400f .",
+            "input": "NA",
+            "action": "preheat",
+            "output": "NA"
+        },
+        {
+            "instructions": "spread one fourth of the pizza_sauce on each of the 4 pizza_crust .",
+            "input": "(pizza_sauce; pizza_crust)",
+            "action": "spread",
+            "output": "sauced_pizza_crust"
+        },
+        {
+            "instructions": "top each pizza with one fourth of the beef mixture and the mozzarella and cheddar_cheese .",
+            "input": "(cooked beef_mixture; mozzarella; cheddar_cheese; sauced_pizza_crust)",
+            "action": "top",
+            "output": "sauced_pizza_crust topped with cooked beef mixture, mozzarella and cheddar cheese"
+        },
+        {
+            "instructions": "to make the potato_chip",
+            "input": "NA",
+            "action": "make",
+            "output": "NA"
+        },
+        {
+            "instructions": "toss the potato slices in a bowl with the olive_oil .",
+            "input": "(potato_slice; olive_oil)",
+            "action": "toss",
+            "output": "potato_slices in oil"
+        },
+        {
+            "instructions": "season lightly with salt and pepper",
+            "input": "(salt; pepper; potato_slices in oil)",
+            "action": "season",
+            "output": "seasoned_potato_slices in oil"
+        },
+        {
+            "instructions": "arrange them in a single layer on a baking sheet .",
+            "input": "seasoned_potato_slices in oil",
+            "action": "arrange",
+            "output": "seasoned_potato_slices in oil in a single layer"
+        },
+        {
+            "instructions": "bake in the oven until golden brown , 12 to 15 minutes .",
+            "input": "seasoned_potato_slices in oil in a single layer",
+            "action": "bake",
+            "output": "baked potato chips"
+        },
+        {
+            "instructions": "meanwhile , bake the pizzas according to the instructions on the package of prepared dough .",
+            "input": "sauced_pizza_crust topped with cooked beef mixture, mozzarella and cheddar cheese",
+            "action": "bake",
+            "output": "baked sauced_pizza_crust topped with cooked beef mixture, mozzarella and cheddar cheese"
+        },
+        {
+            "instructions": "place the baked potato_chip on top of the cooked pizza .",
+            "input": "(baked potato chips; beef_and cheese_pizza)",
+            "action": "place",
+            "output": "baked potato chips placed on top of beef and_mozzarella_pizza"
+        },
+        {
+            "instructions": "sprinkle the blue_cheese on top",
+            "input": "(blue_cheese; beef and_mozzarella_pizza with potato chips)",
+            "action": "sprinkle",
+            "output": "blue_cheese on_potato_chip_beef_mozzarella_pizza"
+        },
+        {
+            "instructions": "serve .",
+            "input": "blue_cheese_potato_chip_beef_mozzarella_pizza",
+            "action": "serve",
+            "output": "blue_cheese_potato_chip_beef_mozzarella_pizza ready to eat"
+        }
+    ],
+    "ingredients": [
+        {
+            "text": "6 cups crushed tomatoes"
+        },
+        {
+            "text": "2 tablespoons freshly squeezed lemon juice"
+        },
+        {
+            "text": "1 tablespoon chopped fresh basil"
+        },
+        {
+            "text": "2 tablespoons chopped fresh oregano"
+        },
+        {
+            "text": "2 tablespoons chopped fresh Italian parsley"
+        },
+        {
+            "text": "1 tablespoon chopped fresh thyme"
+        },
+        {
+            "text": "1 tablespoon freshly ground black pepper"
+        },
+        {
+            "text": "1 1/2 teaspoons minced garlic"
+        },
+        {
+            "text": "1 tablespoon minced onion"
+        },
+        {
+            "text": "1 tablespoon salt"
+        },
+        {
+            "text": "2 pounds ground sirloin"
+        },
+        {
+            "text": "1 cup chopped onion"
+        },
+        {
+            "text": "1/2 cup chopped tomatoes"
+        },
+        {
+            "text": "1/2 teaspoon ground cumin"
+        },
+        {
+            "text": "1/2 teaspoon dark chili powder"
+        },
+        {
+            "text": "Salt and freshly ground black pepper"
+        },
+        {
+            "text": "4 (16-inch) prepared pizza crusts"
+        },
+        {
+            "text": "6 cups shredded mozzarella cheese"
+        },
+        {
+            "text": "6 cups shredded Cheddar cheese"
+        },
+        {
+            "text": "2 medium Idaho potatoes, peeled and sliced 1/8 inch thick"
+        },
+        {
+            "text": "3 tablespoons olive oil"
+        },
+        {
+            "text": "Salt and freshly ground black pepper"
+        },
+        {
+            "text": "1/2 cup crumbled blue cheese"
+        }
+    ],
+    "recipe": [
+        {
+            "text": "To make the sauce, combine all of the ingredients in a large stockpot and simmer over medium heat for about 15 minutes, stirring frequently."
+        },
+        {
+            "text": "Remove the pot from the heat and blend using an immersion blender until the sauce is smooth."
+        },
+        {
+            "text": "To make the beef topping, heat a large saute pan over medium heat, add the ground sirloin, and cook until browned throughout."
+        },
+        {
+            "text": "Drain any grease, then add the onion, tomatoes, cumin, chili powder, and salt and pepper to taste."
+        },
+        {
+            "text": "Simmer for 5 minutes."
+        },
+        {
+            "text": "Preheat the oven to 400F."
+        },
+        {
+            "text": "Spread one-fourth of the pizza sauce on each of the 4 pizza crusts."
+        },
+        {
+            "text": "Top each pizza with one-fourth of the beef mixture and the mozzarella and Cheddar cheeses."
+        },
+        {
+            "text": "To make the potato chips, toss the potato slices in a bowl with the olive oil."
+        },
+        {
+            "text": "Season lightly with salt and pepper and arrange them in a single layer on a baking sheet."
+        },
+        {
+            "text": "Bake in the oven until golden brown, 12 to 15 minutes."
+        },
+        {
+            "text": "Meanwhile, bake the pizzas according to the instructions on the package of prepared dough."
+        },
+        {
+            "text": "If it instructs you to cook the pizza at 400F, you can cook the pizzas at the same time as the potato chips."
+        },
+        {
+            "text": "To assemble, place the baked potato chips on top of the cooked pizza."
+        },
+        {
+            "text": "Sprinkle the blue cheese on top and serve."
+        }
+    ]
+}

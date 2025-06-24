@@ -1,0 +1,94 @@
+{
+    "title": "spicy_bbq_chicken_pizza",
+    "id": "41f97b31eb",
+    "table": [
+        {
+            "instructions": "pre heat the oven to 42",
+            "input": "NA",
+            "action": "heat",
+            "output": "NA"
+        },
+        {
+            "instructions": "mix cooked_chicken with bbq_sauce and chili_sauce .",
+            "input": "(cooked_chicken; chili_sauce; bbq_sauce)",
+            "action": "mix",
+            "output": "chicken and sauce mixture"
+        },
+        {
+            "instructions": "spread chicken over the crust",
+            "input": "(chicken and sauce mixture; crust)",
+            "action": "spread",
+            "output": "crust with chicken and sauce mixture"
+        },
+        {
+            "instructions": "top with red onion and then the mozzarella .",
+            "input": "(red onion; mozzarella; crust with chicken and sauce mixture)",
+            "action": "top",
+            "output": "crust with chicken and sauce mixture, red onion and mozzarella"
+        },
+        {
+            "instructions": "bake 10 12 minutes until top starts to brown",
+            "input": "uncooked spicy_bbq_chicken_pizza",
+            "action": "bake",
+            "output": "baked spicy_bbq_chicken_pizza"
+        },
+        {
+            "instructions": "get bubbly .",
+            "input": "baked spicy_bbq_chicken_pizza",
+            "action": "get",
+            "output": "baked spicy_bbq_chicken_pizza"
+        },
+        {
+            "instructions": "remove pizza from oven",
+            "input": "baked spicy_bbq_chicken_pizza",
+            "action": "remove",
+            "output": "baked spicy_bbq_chicken_pizza"
+        },
+        {
+            "instructions": "sprinkle with chopped_cilantro .",
+            "input": "(chopped cilantro; baked spicy_bbq_chicken_pizza)",
+            "action": "sprinkle",
+            "output": "baked spicy_bbq_chicken_pizza garnished with cilantro"
+        }
+    ],
+    "ingredients": [
+        {
+            "text": "2 cups shredded cooked chicken, about 8 ounces"
+        },
+        {
+            "text": "13 cup barbecue sauce, approximately"
+        },
+        {
+            "text": "1 -1 12 tablespoon chili sauce (the spicy Asian kind)"
+        },
+        {
+            "text": "1 pre-baked pizza crust"
+        },
+        {
+            "text": "12 small red onion, thinly sliced"
+        },
+        {
+            "text": "1 cup mozzarella cheese"
+        },
+        {
+            "text": "fresh cilantro, chopped (optional)"
+        }
+    ],
+    "recipe": [
+        {
+            "text": "Pre-heat the oven to 425."
+        },
+        {
+            "text": "Mix cooked chicken with BBQ sauce and chili sauce."
+        },
+        {
+            "text": "Spread chicken over the crust and top with red onion and then the mozzarella."
+        },
+        {
+            "text": "Bake 10-12 minutes until top starts to brown and get bubbly."
+        },
+        {
+            "text": "Remove pizza from oven and sprinkle with chopped cilantro."
+        }
+    ]
+}

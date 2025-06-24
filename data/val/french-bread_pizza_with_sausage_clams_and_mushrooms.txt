@@ -1,0 +1,160 @@
+{
+    "title": "french-bread_pizza_with_sausage_clams_and_mushrooms",
+    "id": "0f46982b03",
+    "table": [
+        {
+            "instructions": "preheat oven to 400 .",
+            "input": "NA",
+            "action": "preheat",
+            "output": "NA"
+        },
+        {
+            "instructions": "remove casing from sausage .",
+            "input": "sausage with casing",
+            "action": "remove",
+            "output": "sausage without casing"
+        },
+        {
+            "instructions": "cook sausage in a large nonstick skillet over medium heat until browned , stirring to crumble .",
+            "input": "sausage without casing",
+            "action": "cook",
+            "output": "browned_sausage"
+        },
+        {
+            "instructions": "add flour ,",
+            "input": "(flour; browned_sausage)",
+            "action": "add",
+            "output": "flour_added to browned_sausage"
+        },
+        {
+            "instructions": "cook 2 minutes , stirring frequently .",
+            "input": "flour_and browned_sausage mixture",
+            "action": "cook",
+            "output": "cooked flour_and browned_sausage mixture"
+        },
+        {
+            "instructions": "add the mushrooms , milk , oregano , pepper , and clams ;",
+            "input": "(flour_and browned_sausage mixture; mushroom; milk; oregano; pepper; clams)",
+            "action": "add",
+            "output": "mushroom,_milk,_oregano,_pepper, and_clams_added to flour_and browned_sausage mixture"
+        },
+        {
+            "instructions": "reduce heat ;",
+            "input": "cooking clam and sausage mixture",
+            "action": "reduce",
+            "output": "cooking clam and sausage mixture"
+        },
+        {
+            "instructions": "simmer 5 minutes or until thick .",
+            "input": "cooking clam and sausage mixture",
+            "action": "simmer",
+            "output": "simmering clam and sausage mixture"
+        },
+        {
+            "instructions": "remove from heat .",
+            "input": "thickened clam and sausage mixture",
+            "action": "remove",
+            "output": "thickened clam and sausage mixture"
+        },
+        {
+            "instructions": "stir in 12 cup cheese",
+            "input": "(cheese; thickened clam and sausage mixture)",
+            "action": "stir",
+            "output": "cheese_stirred into thickened clam and sausage mixture"
+        },
+        {
+            "instructions": "place bread halves on a baking sheet ;",
+            "input": "bread_halves",
+            "action": "place",
+            "output": "bread_halves"
+        },
+        {
+            "instructions": "spread clam mixture evenly over cut sides of bread .",
+            "input": "(cheese and_clam_mixture; bread_halves)",
+            "action": "spread",
+            "output": "cheese and_clam_mixture spread on bread_halves"
+        },
+        {
+            "instructions": "sprinkle with 14 cup cheese and parsley .",
+            "input": "(cheese; parsley; bread with cheese and clam mixture)",
+            "action": "sprinkle",
+            "output": "cheese and parsley sprinkled on bread with cheese and clam mixture"
+        },
+        {
+            "instructions": "bake at 400 for 12 minutes or until golden brown .",
+            "input": "assembled bread_pizza_with_sausage_clams_and_mushrooms",
+            "action": "bake",
+            "output": "baked bread_pizza_with_sausage_clams_and_mushrooms"
+        },
+        {
+            "instructions": "cut each half into 3 pieces .",
+            "input": "baked bread_pizza_with_sausage_clams_and_mushrooms",
+            "action": "cut",
+            "output": "cut baked bread_pizza_with_sausage_clams_and_mushrooms"
+        }
+    ],
+    "ingredients": [
+        {
+            "text": "1 (4-ounce) link sweet Italian sausage"
+        },
+        {
+            "text": "2 tablespoons all-purpose flour"
+        },
+        {
+            "text": "1 1/2 cups sliced mushrooms"
+        },
+        {
+            "text": "1/2 cup 1% low-fat milk"
+        },
+        {
+            "text": "1/2 teaspoon dried oregano"
+        },
+        {
+            "text": "1/8 teaspoon black pepper"
+        },
+        {
+            "text": "1 (6 1/2-ounce) can chopped clams, undrained"
+        },
+        {
+            "text": "3/4 cup (3 ounces) grated fresh Parmesan cheese, divided"
+        },
+        {
+            "text": "1 (16-ounce) loaf French bread, cut in half horizontally"
+        },
+        {
+            "text": "2 tablespoons chopped fresh parsley"
+        }
+    ],
+    "recipe": [
+        {
+            "text": "Preheat oven to 400.Remove casing from sausage."
+        },
+        {
+            "text": "Cook sausage in a large nonstick skillet over medium heat until browned, stirring to crumble."
+        },
+        {
+            "text": "Add flour, and cook 2 minutes, stirring frequently."
+        },
+        {
+            "text": "Add the mushrooms, milk, oregano, pepper, and clams; bring to a boil, stirring constantly."
+        },
+        {
+            "text": "Reduce heat; simmer 5 minutes or until thick."
+        },
+        {
+            "text": "Remove from heat."
+        },
+        {
+            "text": "Stir in 1/2 cup cheese.Place bread halves on a baking sheet; spread clam mixture evenly over cut sides of bread."
+        },
+        {
+            "text": "Sprinkle with 1/4 cup cheese and parsley."
+        },
+        {
+            "text": "Bake at 400 for 12 minutes or until golden brown."
+        },
+        {
+            "text": "Cut each half into 3 pieces."
+        }
+    ]
+}

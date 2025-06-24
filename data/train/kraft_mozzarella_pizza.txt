@@ -1,0 +1,91 @@
+{
+    "title": "kraft_mozzarella_pizza",
+    "id": "5ea351282c",
+    "table": [
+        {
+            "instructions": "heat oven to 400f 200c .",
+            "input": "NA",
+            "actions": "heat",
+            "output": "NA"
+        },
+        {
+            "instructions": "mix dressing , peanut_butter , soya sauce , garlic_powder and hot_pepper_sauce .",
+            "input": "(dressing; peanut_butter; soy_sauce; garlic_powder; hot_pepper_sauce)",
+            "actions": "mix",
+            "output": "mixed_dressing_mixture"
+        },
+        {
+            "instructions": "stir in chicken .",
+            "input": "(mixed_dressing_mixture; chicken)",
+            "actions": "stir",
+            "output": "chicken in dressing_mixture"
+        },
+        {
+            "instructions": "spread over pizza_crust",
+            "input": "(pizza_crust; chicken in dressing_mixture)",
+            "actions": "spread",
+            "output": "chicken in dressing_mixture spread over pizza_crust"
+        },
+        {
+            "instructions": "top with shredded_cheese , red_pepper and green_onion .",
+            "input": "(shredded_cheese; red_pepper; green_onion)",
+            "actions": "top",
+            "output": "pizza_crust with chicken topped with shredded_cheese , red_pepper and green_onion"
+        },
+        {
+            "instructions": "bake for 15 minutes .",
+            "input": "Uncooked pizza",
+            "actions": "bake",
+            "output": "Baked pizza"
+        }
+    ],
+    "ingredients": [
+        {
+            "text": "1/2 cup Kraft Catalina Dressing"
+        },
+        {
+            "text": "1/4 cup Kraft Crunchy Peanut Butter"
+        },
+        {
+            "text": "2 Tbsp. soya sauce"
+        },
+        {
+            "text": "dash each garlic powder and hot pepper sauce"
+        },
+        {
+            "text": "1 cup cooked, diced chicken Whole Foods 1 lb For $3.99 thru 02/09"
+        },
+        {
+            "text": "1 pre-baked 12 inch (30 cm) pizza crust"
+        },
+        {
+            "text": "2 cups Cracker Barrel Shredded Mozzarella Cheese"
+        },
+        {
+            "text": "1/2 red pepper, cut in strips"
+        },
+        {
+            "text": "3 chopped green onions"
+        }
+    ],
+    "recipe": [
+        {
+            "text": "HEAT oven to 400F (200C)."
+        },
+        {
+            "text": "MIX dressing, peanut butter, soya sauce, garlic powder and hot pepper sauce."
+        },
+        {
+            "text": "Stir in chicken."
+        },
+        {
+            "text": "SPREAD over pizza crust on baking sheet."
+        },
+        {
+            "text": "Top with shredded cheese, red pepper and green onions."
+        },
+        {
+            "text": "BAKE for 15 minutes."
+        }
+    ]
+}

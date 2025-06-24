@@ -1,0 +1,160 @@
+{
+    "title": "oamc_barbecue_chicken_pizza",
+    "id": "9e222e22dd",
+    "table": [
+        {
+            "instructions": "marinate chicken in 23c in BBQ sauce for 4 hours or up to overnight.",
+            "input": "(chicken; barbecue sauce)",
+            "action": "marinate",
+            "output": "marinated_chicken in barbecue sauce"
+        },
+        {
+            "instructions": "place chicken and marinade in small baking dish",
+            "input": "(marinated_chicken in barbecue sauce; marinade)",
+            "action": "place",
+            "output": "marinated_chicken and marinade in bowl"
+        },
+        {
+            "instructions": "bake at 350 for 30 minutes or until chicken is tender and no longer pink ;",
+            "input": "marinated_chicken and marinade in bowl",
+            "action": "bake",
+            "output": "baked chicken"
+        },
+        {
+            "instructions": "remove from oven .",
+            "input": "baked chicken",
+            "action": "remove",
+            "output": "baked chicken"
+        },
+        {
+            "instructions": "roll out pizza_dough to form crust ;",
+            "input": "pizza dough",
+            "action": "roll",
+            "output": "rolled pizza crust"
+        },
+        {
+            "instructions": "spread remaining 23c barbecue sauce",
+            "input": "(rolled pizza crust; barbecue sauce)",
+            "action": "spread",
+            "output": "pizza crust with barbecue sauce"
+        },
+        {
+            "instructions": "sprinkle cheeses evenly over crust , leaving 12 in .",
+            "input": "(pizza crust with barbecue sauce; cheeses)",
+            "action": "sprinkle",
+            "output": "pizza crust with barbecue sauce and cheeses"
+        },
+        {
+            "instructions": "shred chicken",
+            "input": "backed chicken with marinade",
+            "action": "shred",
+            "output": "shredded baked chicken"
+        },
+        {
+            "instructions": "arrange over cheese , topping with onion .",
+            "input": "(shredded baked chicken; pizza crust with barbecue sauce and cheeses)",
+            "action": "arrange",
+            "output": "pizza crust with barbecue sauce, cheeses and shredded baked chicken"
+        },
+        {
+            "instructions": "freeze , covering pizza and cardboard with plastic wrap followed by heavy duty foil .",
+            "input": "pizza crust with barbecue sauce, cheeses and shredded baked chicken",
+            "action": "freeze",
+            "output": "frozen pizza crust with barbecue sauce, cheeses and shredded baked chicken"
+        },
+        {
+            "instructions": ", day instructions preheat oven to 450 degrees .",
+            "input": "NA",
+            "action": "preheat",
+            "output": "NA"
+        },
+        {
+            "instructions": "place frozen pizza on preheated pizza stone",
+            "input": "frozen pizza crust with barbecue sauce, cheeses and shredded baked chicken",
+            "action": "place",
+            "output": "frozen pizza crust with barbecue sauce, cheeses and shredded baked chicken"
+        },
+        {
+            "instructions": "bake 10 12 minutes .",
+            "input": "frozen pizza crust with barbecue sauce, cheeses and shredded baked chicken",
+            "action": "bake",
+            "output": "baked barbecue_chicken_pizza"
+        },
+        {
+            "instructions": "sprinkle with cilantro",
+            "input": "(cilantro; barbecue_chicken_pizza)",
+            "action": "sprinkle",
+            "output": "baked barbecue_chicken_pizza sprinkled with cilantro"
+        },
+        {
+            "instructions": "serve .",
+            "input": "cooked barbecue_chicken_pizza",
+            "action": "serve",
+            "output": "barbecue_chicken_pizza ready to serve"
+        }
+    ],
+    "ingredients": [
+        {
+            "text": "3 boneless skinless chicken breast halves"
+        },
+        {
+            "text": "1 13 cups prepared barbecue sauce, divided"
+        },
+        {
+            "text": "1 pizza crust"
+        },
+        {
+            "text": "6 ounces gouda cheese"
+        },
+        {
+            "text": "6 ounces provolone cheese"
+        },
+        {
+            "text": "12 medium red onion, peeled and sliced"
+        },
+        {
+            "text": "14 cup cilantro, chopped (reserved for serving day)"
+        }
+    ],
+    "recipe": [
+        {
+            "text": "Marinate chicken in 2/3c."
+        },
+        {
+            "text": "BBQ sauce for 4 hours or up to overnight."
+        },
+        {
+            "text": "Place chicken and marinade in small baking dish and bake at 350 for 30 minutes or until chicken is tender and no longer pink; Remove from oven."
+        },
+        {
+            "text": "Roll out pizza dough to form crust; you may want to use a round cardboard covered with plastic wrap for this step."
+        },
+        {
+            "text": "Spread remaining 2/3c."
+        },
+        {
+            "text": "BBQ sauce over crust."
+        },
+        {
+            "text": "Sprinkle cheeses evenly over crust, leaving 1/2in."
+        },
+        {
+            "text": "border."
+        },
+        {
+            "text": "Shred chicken and arrange over cheese, topping with onion."
+        },
+        {
+            "text": "Freeze, covering pizza and cardboard with plastic wrap followed by heavy duty foil."
+        },
+        {
+            "text": "Serving day instructions: Preheat oven to 450 degrees."
+        },
+        {
+            "text": "Place frozen pizza on preheated pizza stone and bake 10-12 minutes."
+        },
+        {
+            "text": "Sprinkle with cilantro and serve."
+        }
+    ]
+}

@@ -1,0 +1,97 @@
+{
+    "title": "polly-o_pizza",
+    "id": "b0c660294d",
+    "table": [
+        {
+            "instructions": "preheat oven to 450f .",
+            "input": "NA",
+            "action": "preheat",
+            "output": "NA"
+        },
+        {
+            "instructions": "mix 1 cup of the mozzarella_cheese , the ricotta_cheese , parmesan_cheese and seasonings ;",
+            "input": "(ricotta_cheese; parmesan_cheese; seasonings; mozzarella_cheese)",
+            "action": "mix",
+            "output": "cheese mixture"
+        },
+        {
+            "instructions": "spread evenly onto pizza_crust .",
+            "input": "(pizza crust; cheese mixture)",
+            "action": "spread",
+            "output": "cheese mixture spread on pizza crust"
+        },
+        {
+            "instructions": "place on baking sheet .",
+            "input": "pizza crust with cheese mixture",
+            "action": "place",
+            "output": "pizza crust with cheese mixture"
+        },
+        {
+            "instructions": "top with vegetables ;",
+            "input": "(vegetables; pizza crust with cheese mixture)",
+            "action": "top",
+            "output": "pizza crust with cheese mixture topped with vegetables"
+        },
+        {
+            "instructions": "sprinkle with remaining 12 cup , mozzarella_cheese .",
+            "input": "(remaining mozzarella cheese; pizza crust with cheese mixture and vegetables)",
+            "action": "sprinkle",
+            "output": "remaining mozzarella cheese sprinkled on pizza crust with cheese mixture and vegetables"
+        },
+        {
+            "instructions": "bake 10 to 14 min .",
+            "input": "uncooked assembled pizza ",
+            "action": "bake",
+            "output": "baked pizza"
+        }
+    ],
+    "ingredients": [
+        {
+            "text": "1-1/2 cups shredded POLLY-O Fresh Mozzarella Cheese, divided"
+        },
+        {
+            "text": "3/4 cup POLLY-O Original Ricotta Cheese"
+        },
+        {
+            "text": "1/4 cup KRAFT Grated Parmesan Cheese"
+        },
+        {
+            "text": "1 tsp. dried basil leaves, crushed"
+        },
+        {
+            "text": "1/2 tsp. dried oregano leaves, crushed"
+        },
+        {
+            "text": "1/4 tsp. garlic salt"
+        },
+        {
+            "text": "1/4 tsp. ground black pepper"
+        },
+        {
+            "text": "1 Italian pizza crust (12 inch)"
+        },
+        {
+            "text": "2 cups assorted cut-up vegetables, such as 1 cup broccoli florets, 3/4 cup yellow pepper strips and 1/4 cup chopped onions"
+        }
+    ],
+    "recipe": [
+        {
+            "text": "Preheat oven to 450F."
+        },
+        {
+            "text": "Mix 1 cup of the mozzarella cheese, the ricotta cheese, Parmesan cheese and seasonings; spread evenly onto pizza crust."
+        },
+        {
+            "text": "Place on baking sheet."
+        },
+        {
+            "text": "Top with vegetables; sprinkle with remaining 1/2 cup mozzarella cheese."
+        },
+        {
+            "text": "Bake 10 to 14 min."
+        },
+        {
+            "text": "or until cheese is melted."
+        }
+    ]
+}

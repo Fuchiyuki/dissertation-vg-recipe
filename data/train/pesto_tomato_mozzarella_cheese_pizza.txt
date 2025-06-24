@@ -1,0 +1,91 @@
+{
+    "title": "pesto_tomato_mozzarella_cheese_pizza",
+    "id": "156eaab026",
+    "table": [
+        {
+            "instructions": "preheat oven to 500 degrees f .",
+            "input": "NA",
+            "actions": "preheat",
+            "output": "NA"
+        },
+        {
+            "instructions": "roll out dough to desired thickness using your hands or a rolling pin if you have one .",
+            "input": "dough",
+            "actions": "roll",
+            "output": "rolled_dough"
+        },
+        {
+            "instructions": "sprinkle olive_oil over the stone or baking sheet to prevent the dough from sticking .",
+            "input": "NA",
+            "actions": "sprinkle",
+            "output": "NA"
+        },
+        {
+            "instructions": "place dough on the pizza stone or baking sheet .",
+            "input": "rolled_dough",
+            "actions": "place",
+            "output": "rolled_dough"
+        },
+        {
+            "instructions": "top dough with pesto , tomato and mozzarella_cheese .",
+            "input": "(rolled_dough; pesto; tomato; mozzarella_cheese)",
+            "actions": "top",
+            "output": " pesto , tomato and mozzarella_cheesedough_topped_with_"
+        },
+        {
+            "instructions": "bake for 10 12 minutes on the top rack , until golden brown .",
+            "input": "uncooked_pizza",
+            "actions": "bake",
+            "output": "baked_pesto_tomato_mozzarella_cheese_pizza"
+        },
+        {
+            "instructions": "sprinkle with fresh_basil and parmesan_cheese if desired .",
+            "input": "(baked_pesto_tomato_mozzarella_cheese_pizza; fresh_basil; parmesan_cheese)",
+            "actions": "sprinkle",
+            "output": "fresh_basil and parmesan_cheese sprinkled on baked_pesto_tomato_mozzarella_cheese_pizza"
+        }
+    ],
+    "ingredients": [
+        {
+            "text": "1 whole Whole Wheat Pizza Dough"
+        },
+        {
+            "text": "1 Tablespoon Olive Oil"
+        },
+        {
+            "text": "1/4 cups Fresh Pesto"
+        },
+        {
+            "text": "1 whole Vine Ripened Tomato, Sliced 1/4 Inch Thick"
+        },
+        {
+            "text": "6 ounces, weight Mozzarella Cheese, Shredded"
+        },
+        {
+            "text": "Fresh Basil And Parmesan Cheese, To Serve (optional)"
+        }
+    ],
+    "recipe": [
+        {
+            "text": "Preheat oven to 500 degrees F."
+        },
+        {
+            "text": "Roll out dough to desired thickness using your hands or a rolling pin if you have one."
+        },
+        {
+            "text": "Sprinkle olive oil over the stone or baking sheet to prevent the dough from sticking."
+        },
+        {
+            "text": "Place dough on the pizza stone or baking sheet."
+        },
+        {
+            "text": "Top dough with pesto, tomato and mozzarella cheese."
+        },
+        {
+            "text": "Bake for 10-12 minutes on the top rack, until golden brown."
+        },
+        {
+            "text": "Sprinkle with fresh basil and Parmesan cheese if desired."
+        }
+    ]
+}

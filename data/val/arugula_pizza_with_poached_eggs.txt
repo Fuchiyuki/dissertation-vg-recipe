@@ -1,0 +1,229 @@
+{
+    "title": "arugula_pizza_with_poached_eggs",
+    "id": "f9ea804062",
+    "table": [
+        {
+            "instructions": "preheat oven to 450 .",
+            "input": "NA",
+            "action": "preheat",
+            "output": "NA"
+        },
+        {
+            "instructions": "unroll pizza_dough on a baking sheet lightly coated with cooking_spray ;",
+            "input": "pizza_dough",
+            "action": "unroll",
+            "output": "unrolled_pizza_dough"
+        },
+        {
+            "instructions": "place in preheating oven .",
+            "input": "unrolled_pizza_dough",
+            "action": "place",
+            "output": "unrolled_pizza_dough"
+        },
+        {
+            "instructions": "bake as oven heats for 7 minutes .",
+            "input": "unrolled_pizza_dough",
+            "action": "bake",
+            "output": "baked pizza crust"
+        },
+        {
+            "instructions": "combine the ricotta and 14 cup romano .",
+            "input": "(ricotta; pecorino romano)",
+            "action": "combine",
+            "output": "cheese mixture"
+        },
+        {
+            "instructions": "remove pan from oven .",
+            "input": "baked pizza crust",
+            "action": "remove",
+            "output": "baked pizza crust"
+        },
+        {
+            "instructions": "quickly spread cheese mixture over dough , leaving a 12 inch border around the edges .",
+            "input": "(cheese mixture; baked pizza crust)",
+            "action": "spread",
+            "output": "cheese mixture spread over baked pizza crust"
+        },
+        {
+            "instructions": "return pan to oven ,",
+            "input": "baked pizza crust with cheese mixture",
+            "action": "return",
+            "output": "baked pizza crust with cheese mixture"
+        },
+        {
+            "instructions": "bake for 5 minutes .",
+            "input": "baked pizza crust with cheese mixture",
+            "action": "bake",
+            "output": "doubly baked pizza crust with cheese mixture"
+        },
+        {
+            "instructions": "while pizza bakes , add water to a large skillet , filling two thirds full ;",
+            "input": "water",
+            "action": "add",
+            "output": "water"
+        },
+        {
+            "instructions": "reduce heat ;",
+            "input": "water",
+            "action": "reduce",
+            "output": "heating water"
+        },
+        {
+            "instructions": "simmer .",
+            "input": "heating water",
+            "action": "simmer",
+            "output": "simmering water"
+        },
+        {
+            "instructions": "add vinegar .",
+            "input": "(vinegar; boiling water)",
+            "action": "add",
+            "output": "vinegar in boiling water"
+        },
+        {
+            "instructions": "break each egg into a custard cup ,",
+            "input": "egg",
+            "action": "break",
+            "output": "broken egg"
+        },
+        {
+            "instructions": "pour gently into pan .",
+            "input": "(vinegar in boiling water; broken egg)",
+            "action": "pour",
+            "output": "broken egg poured into boiling water with vinegar"
+        },
+        {
+            "instructions": "cook 3 minutes or until desired degree of doneness .",
+            "input": "broken egg poured into boiling water with vinegar",
+            "action": "cook",
+            "output": "poached egg"
+        },
+        {
+            "instructions": "carefully remove eggs from pan using a slotted spoon .",
+            "input": "poached egg",
+            "action": "remove",
+            "output": "poached egg"
+        },
+        {
+            "instructions": "combine arugula , remaining 14 cup , romano_cheese , and the next 4 ingredients through salt in a large bowl ;",
+            "input": "(arugula; romano_cheese;  olive oil, lemon zest, lemon juice; salt)",
+            "action": "combine",
+            "output": "dressed arugula salad"
+        },
+        {
+            "instructions": "toss well .",
+            "input": "dressed arugula salad",
+            "action": "toss",
+            "output": "tossed arugula salad"
+        },
+        {
+            "instructions": "top pizza with arugula mixture and eggs ;",
+            "input": "(doubly baked pizza crust with cheese mixture; tossed arugula salad; poached eggs)",
+            "action": "top",
+            "output": "doubly baked pizza crust with cheese mixture topped with tossed arugula salad and poached eggs"
+        },
+        {
+            "instructions": "sprinkle with pepper .",
+            "input": "(pepper; arugula_pizza_with_poached_eggs)",
+            "action": "sprinkle",
+            "output": "pepper sprinkled on arugula_pizza_with_poached_eggs"
+        },
+        {
+            "instructions": "cut into 6 pieces .",
+            "input": "arugula_pizza_with_poached_eggs",
+            "action": "cut",
+            "output": "sliced arugula_pizza_with_poached_eggs"
+        }
+    ],
+    "ingredients": [
+        {
+            "text": "1 (11-ounce) package refrigerated pizza crust dough (such as Pillsbury Thin Pizza Crust)"
+        },
+        {
+            "text": "Cooking spray"
+        },
+        {
+            "text": "1/2 cup part-skim ricotta cheese"
+        },
+        {
+            "text": "1/2 cup (2 ounces) shaved fresh Romano cheese, divided"
+        },
+        {
+            "text": "1 tablespoon white vinegar"
+        },
+        {
+            "text": "6 large eggs"
+        },
+        {
+            "text": "1 (5-ounce) package baby arugula"
+        },
+        {
+            "text": "4 teaspoons extra-virgin olive oil"
+        },
+        {
+            "text": "1/2 teaspoon grated fresh lemon rind"
+        },
+        {
+            "text": "1 tablespoon fresh lemon juice"
+        },
+        {
+            "text": "1/8 teaspoon salt"
+        },
+        {
+            "text": "1/4 teaspoon freshly ground black pepper"
+        }
+    ],
+    "recipe": [
+        {
+            "text": "1."
+        },
+        {
+            "text": "Preheat oven to 450.2."
+        },
+        {
+            "text": "Unroll pizza dough on a baking sheet lightly coated with cooking spray; place in preheating oven."
+        },
+        {
+            "text": "Bake as oven heats for 7 minutes.3."
+        },
+        {
+            "text": "Combine the ricotta and 1/4 cup Romano."
+        },
+        {
+            "text": "Remove pan from oven."
+        },
+        {
+            "text": "Quickly spread cheese mixture over dough, leaving a 1/2-inch border around the edges."
+        },
+        {
+            "text": "Return pan to oven, and bake for 5 minutes.4."
+        },
+        {
+            "text": "While pizza bakes, add water to a large skillet, filling two-thirds full; bring to a boil."
+        },
+        {
+            "text": "Reduce heat; simmer."
+        },
+        {
+            "text": "Add vinegar."
+        },
+        {
+            "text": "Break each egg into a custard cup, and pour gently into pan."
+        },
+        {
+            "text": "Cook 3 minutes or until desired degree of doneness."
+        },
+        {
+            "text": "Carefully remove eggs from pan using a slotted spoon.5."
+        },
+        {
+            "text": "Combine arugula, remaining 1/4 cup Romano cheese, and the next 4 ingredients (through salt) in a large bowl; toss well."
+        },
+        {
+            "text": "Top pizza with arugula mixture and eggs; sprinkle with pepper."
+        },
+        {
+            "text": "Cut into 6 pieces."
+        }
+    ]
+}

@@ -1,0 +1,142 @@
+{
+    "title": "duck_and_fontina_pizza_with_rosemary_and_caramelized_onions",
+    "id": "14223fdde5",
+    "table": [
+        {
+            "instructions": "preheat oven to 450 degrees f 230 degrees c.",
+            "input": "NA",
+            "actions": "preheat",
+            "output": "NA"
+        },
+        {
+            "instructions": "cut several slits into the fatty skin of the duck_breast .",
+            "input": "duck_breast",
+            "actions": "cut",
+            "output": "duck_breast_with_skin_cutted"
+        },
+        {
+            "instructions": "in a skillet over medium heat , fry skin side down for 10 minutes .",
+            "input": "duck_breast_with_skin_cutted",
+            "actions": "fry",
+            "output": "fried_duck_breast"
+        },
+        {
+            "instructions": "remove from pan .",
+            "input": "fried_duck_breast",
+            "actions": "remove",
+            "output": "fried_duck_breast"
+        },
+        {
+            "instructions": "carefully remove skin using a sharp knife ,",
+            "input": "fried_duck_breast",
+            "actions": "remove",
+            "output": "skinned_and_fried_duck_breast"
+        },
+        {
+            "instructions": "slice ,",
+            "input": "skinned_and_fried_duck_breast",
+            "actions": "slice",
+            "output": "sliced_fried_duck_breast"
+        },
+        {
+            "instructions": "set aside .",
+            "input": "sliced_fried_duck_breast",
+            "actions": "set",
+            "output": "sliced_fried_duck_breast"
+        },
+        {
+            "instructions": "meanwhile , in a separate skillet , cook onions in olive_oil over medium heat until translucent and soft , about 5 minutes .",
+            "input": "onions",
+            "actions": "cook",
+            "output": "cooked_onions"
+        },
+        {
+            "instructions": "mix in honey",
+            "input": "(cooked_onions; honey)",
+            "actions": "mix",
+            "output": "mixture_of_cooked_onions_and_honey"
+        },
+        {
+            "instructions": "spread goat_cheese evenly over pizza_crust",
+            "input": "(pizza_crust; goat_cheese)",
+            "actions": "spread",
+            "output": "pizza_crust_topped_with_goat_cheese"
+        },
+        {
+            "instructions": "season with salt and pepper .",
+            "input": "(uncooked_pizza; salt; pepper)",
+            "actions": "season",
+            "output": "seasoned_uncooked_pizza"
+        },
+        {
+            "instructions": "bake in preheated oven until cheese in center of pizza is completely melted , about 10 minutes .",
+            "input": "seasoned_uncooked_pizza",
+            "actions": "bake",
+            "output": "duck_and_fontina_pizza_with_rosemary_and_caramelized_onions"
+        }
+    ],
+    "ingredients": [
+        {
+            "text": "1 large skin-on, boneless duck breast half"
+        },
+        {
+            "text": "1 small yellow onion, sliced"
+        },
+        {
+            "text": "1 tablespoon olive oil"
+        },
+        {
+            "text": "2 tablespoons honey"
+        },
+        {
+            "text": "1 (8 ounce) tub spreadable goat cheese"
+        },
+        {
+            "text": "1 (10 ounce) package pre-baked pizza crust"
+        },
+        {
+            "text": "salt and pepper to taste"
+        },
+        {
+            "text": "10 ounces fontina cheese, shredded"
+        },
+        {
+            "text": "1 tablespoon dried rosemary"
+        }
+    ],
+    "recipe": [
+        {
+            "text": "Preheat oven to 450 degrees F (230 degrees C)."
+        },
+        {
+            "text": "Cut several slits into the fatty skin of the duck breast."
+        },
+        {
+            "text": "In a skillet over medium heat, fry skin-side-down for 10 minutes."
+        },
+        {
+            "text": "Flip and continue to cook in its own fat for 10 minutes more."
+        },
+        {
+            "text": "Remove from pan."
+        },
+        {
+            "text": "Carefully remove skin using a sharp knife, then slice, and set aside."
+        },
+        {
+            "text": "Meanwhile, in a separate skillet, cook onions in olive oil over medium heat until translucent and soft, about 5 minutes."
+        },
+        {
+            "text": "Mix in honey and continue to cook until brown and fragrant, 5 to 7 minutes more."
+        },
+        {
+            "text": "Spread goat cheese evenly over pizza crust and season with salt and pepper."
+        },
+        {
+            "text": "Then layer with caramelized onions, fontina cheese, duck breast slices and rosemary."
+        },
+        {
+            "text": "Bake in preheated oven until cheese in center of pizza is completely melted, about 10 minutes."
+        }
+    ]
+}

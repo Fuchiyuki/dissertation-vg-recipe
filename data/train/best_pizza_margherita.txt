@@ -1,0 +1,142 @@
+{
+    "title": "best_pizza_margherita",
+    "id": "09dac182ad",
+    "table": [
+        {
+            "instructions": "make the dough make your favorite or use store bought .",
+            "input": "dough",
+            "actions": "make",
+            "output": "pizza dough"
+        },
+        {
+            "instructions": "prepare the toppings meanwhile",
+            "input": "toppings",
+            "actions": "prepare",
+            "output": "prepared toppings"
+        },
+        {
+            "instructions": "set a pizza stone in the oven",
+            "input": "NA",
+            "actions": "set",
+            "output": "NA"
+        },
+        {
+            "instructions": "preheat the oven to 500 , allowing at least 45 minutes for the stone to heat .",
+            "input": "NA",
+            "actions": "preheat",
+            "output": "NA"
+        },
+        {
+            "instructions": "stir in the oregano and 1 tablespoon of the olive_oil",
+            "input": "(oregano; olive_oil)",
+            "actions": "stir",
+            "output": "oregano olive oil mixture"
+        },
+        {
+            "instructions": "season generously with salt and pepper .",
+            "input": "(oregano olive oil mixture; salt; pepper)",
+            "actions": "season",
+            "output": "seasoned oregano olive oil mixture"
+        },
+        {
+            "instructions": "spread 14 cup of the tomato_sauce",
+            "input": "(pizza_dough; tomato_sauce)",
+            "actions": "spread",
+            "output": "pizza base"
+        },
+        {
+            "instructions": "spread one fourth of the cheese over the pizza",
+            "input": "(cheese; pizza_baseq)",
+            "actions": "spread",
+            "output": "cheese spread over pizza base"
+        },
+        {
+            "instructions": "drizzle with 1 tablespoon of oil .",
+            "input": "(pizza base with cheese; oil)",
+            "actions": "drizzle",
+            "output": "oil drizzled over pizza base with cheese"
+        },
+        {
+            "instructions": "season with sea_salt and pepper",
+            "input": "pizza base with cheese and oil",
+            "actions": "season",
+            "output": "seasoned pizza base with cheese and oil"
+        },
+        {
+            "instructions": "slide the pizza onto the stone .",
+            "input": "seasoned pizza base with cheese and oil",
+            "actions": "slide",
+            "output": "seasoned pizza base with cheese and oil"
+        },
+        {
+            "instructions": "bake until the bottom is charred and the cheese is melted , about 8 minutes .",
+            "input": "uncooked pizza base with cheese and oil",
+            "actions": "bake",
+            "output": "baked pizza base with cheese and oil"
+        },
+        {
+            "instructions": "scatter one fourth of the basil on top",
+            "input": "(basil;pizza base with cheese and oil)",
+            "actions": "scatter",
+            "output": "pizza margherita"
+        }
+    ],
+    "ingredients": [
+        {
+            "text": "1 (1 lb) your favorite pizza dough"
+        },
+        {
+            "text": "1 (14 ounce) canpeeled whole san marzano tomatoes, drained"
+        },
+        {
+            "text": "12 teaspoon dried oregano, crumbled"
+        },
+        {
+            "text": "14 cup extra virgin olive oil, plus"
+        },
+        {
+            "text": "1 tablespoon extra virgin olive oil"
+        },
+        {
+            "text": "coarse sea salt & freshly ground black pepper"
+        },
+        {
+            "text": "2 lbs buffalo mozzarella, thinly sliced"
+        },
+        {
+            "text": "32 large basil leaves, torn into pieces"
+        }
+    ],
+    "recipe": [
+        {
+            "text": "MAKE THE DOUGH: make your favorite or use store bought."
+        },
+        {
+            "text": "PREPARE THE TOPPINGS: Meanwhile, set a pizza stone in the oven and preheat the oven to 500, allowing at least 45 minutes for the stone to heat."
+        },
+        {
+            "text": "Pass the tomatoes through a food mill set over a medium bowl or pulse them in a food processor until coarsely chopped."
+        },
+        {
+            "text": "Stir in the oregano and 1 tablespoon of the olive oil and season generously with salt and pepper."
+        },
+        {
+            "text": "Spread 1/4 cup of the tomato sauce over the dough to within 1 inch of the edge."
+        },
+        {
+            "text": "Spread one-fourth of the cheese over the pizza and drizzle with 1 tablespoon of oil."
+        },
+        {
+            "text": "Season with sea salt and pepper and slide the pizza onto the stone."
+        },
+        {
+            "text": "Bake until the bottom is charred and the cheese is melted, about 8 minutes."
+        },
+        {
+            "text": "Scatter one-fourth of the basil on top and let stand for 3 minutes before serving."
+        },
+        {
+            "text": "Repeat with the remaining dough and toppings."
+        }
+    ]
+}

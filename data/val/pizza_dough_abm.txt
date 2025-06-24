@@ -1,0 +1,136 @@
+{
+    "title": "pizza_dough_abm",
+    "id": "1ce5b57545",
+    "table": [
+        {
+            "instructions": "add lukewarm water and oil to pan .",
+            "input": "(lukewarmwater; oil)",
+            "actions": "add",
+            "output": "lukewarm water and oil"
+        },
+        {
+            "instructions": "add flour , sugar , italian_seasoning and salt to the pan .",
+            "input": "(lukewarm water and oil; flour; sugar; italian_seasoning; salt)",
+            "actions": "add",
+            "output": "flour, sugar, italian_seasoning and salt added to lukewarm water and oil"
+        },
+        {
+            "instructions": "push some ingredients to the corner .",
+            "input": "flour, sugar, italian_seasoning and salt added to lukewarm water and oil",
+            "actions": "push",
+            "output": "flour, sugar, italian_seasoning and salt added to lukewarm water and oil"
+        },
+        {
+            "instructions": "make a well in the center of dry ingredients ;",
+            "input": "flour, sugar, italian_seasoning and salt added to lukewarm water and oil",
+            "actions": "make",
+            "output": "well_in_center_of_dry_ingredients"
+        },
+        {
+            "instructions": "add yeast .",
+            "input": "(yeast; well_in_center_of_dry_ingredients)",
+            "actions": "add",
+            "output": "mixture with yeast"
+        },
+        {
+            "instructions": "when done , remove dough from the pan",
+            "input": "mixture with yeast",
+            "actions": "remove",
+            "output": "mixture with yeast."
+        },
+        {
+            "instructions": "place on a floured surface .",
+            "input": "dough",
+            "actions": "place",
+            "output": "dough_on_floured_surface"
+        },
+        {
+            "instructions": "knead for 1 minute ; the",
+            "input": "dough_on_floured_surface",
+            "actions": "knead",
+            "output": "kneaded_dough"
+        },
+        {
+            "instructions": "roll dough out to fit your pizza\u2012pan .",
+            "input": "kneaded_dough",
+            "actions": "roll",
+            "output": "rolled_dough_for_pizza_pan"
+        },
+        {
+            "instructions": "place on greased pan .",
+            "input": "rolled_dough_for_pizza_pan",
+            "actions": "place",
+            "output": "placed_on_greased_pan"
+        },
+        {
+            "instructions": "top as desired",
+            "input": "placed_on_greased_pan",
+            "actions": "top",
+            "output": "topped_dough_as_desired"
+        },
+        {
+            "instructions": "bake in a 425 degree oven for 10 15 minutes or until nicely browned .",
+            "input": "topped_dough_as_desired",
+            "actions": "bake",
+            "output": "baked_pizza"
+        }
+    ],
+    "ingredients": [
+        {
+            "text": "34 cup water, 80-90 degrees F"
+        },
+        {
+            "text": "2 tablespoons vegetable oil"
+        },
+        {
+            "text": "2 cups all-purpose flour"
+        },
+        {
+            "text": "12 teaspoon granulated sugar"
+        },
+        {
+            "text": "12 teaspoon salt"
+        },
+        {
+            "text": "2 teaspoons bread machine yeast"
+        },
+        {
+            "text": "1 tablespoon italian seasoning (optional)"
+        }
+    ],
+    "recipe": [
+        {
+            "text": "Add lukewarm water and oil to pan."
+        },
+        {
+            "text": "Add flour, sugar, italian seasoning and salt to the pan."
+        },
+        {
+            "text": "Tap pan to settle dry ingredients, then push some ingredients to the corner."
+        },
+        {
+            "text": "Make a well in the center of dry ingredients; add yeast."
+        },
+        {
+            "text": "Lock pan into breadmaker."
+        },
+        {
+            "text": "Program breadmaker for the dough cycle."
+        },
+        {
+            "text": "When done, remove dough from the pan and place on a floured surface."
+        },
+        {
+            "text": "Knead for 1 minute the let dough rest for 15 minutes."
+        },
+        {
+            "text": "Roll dough out to fit your pizza pan."
+        },
+        {
+            "text": "Place on greased pan."
+        },
+        {
+            "text": "Top as desired and bake in a 425 degree oven for 10 - 15 minutes or until nicely browned."
+        }
+    ]
+}

@@ -1,0 +1,211 @@
+{
+    "title": "tomato-mozzarella_pizza",
+    "id": "cddc070c93",
+    "table": [
+        {
+            "instructions": "preheat oven to 450",
+            "input": "NA",
+            "action": "preheat",
+            "output": "NA"
+        },
+        {
+            "instructions": "place dough on a baking sheet sprinkled with cornmeal ;",
+            "input": "dough",
+            "action": "place",
+            "output": "dough"
+        },
+        {
+            "instructions": "press dough into a 12 inch circle .",
+            "input": "dough",
+            "action": "press",
+            "output": "pressed dough"
+        },
+        {
+            "instructions": "crimp edges of dough with fingers to form a rim .",
+            "input": "pressed dough",
+            "action": "crimp",
+            "output": "pizza crust"
+        },
+        {
+            "instructions": "lightly spray surface of dough with cooking_spray .",
+            "input": "(cooking spray; pizza crust)",
+            "action": "spray",
+            "output": "greased pizza crust"
+        },
+        {
+            "instructions": "bake at 450 for 8 minutes .",
+            "input": "greased pizza crust",
+            "action": "bake",
+            "output": "baked crust"
+        },
+        {
+            "instructions": "remove from oven .",
+            "input": "baked crust",
+            "action": "remove",
+            "output": "baked crust"
+        },
+        {
+            "instructions": "arrange tomato slices on paper towels .",
+            "input": "tomato slices",
+            "action": "arrange",
+            "output": "arranged tomato slices"
+        },
+        {
+            "instructions": "cover with additional paper towels ;",
+            "input": "arranged tomato slices",
+            "action": "cover",
+            "output": "dried tomato slices"
+        },
+        {
+            "instructions": "sprinkle garlic evenly over surface of dough ;",
+            "input": "(garlic; baked crust)",
+            "action": "sprinkle",
+            "output": "garlic sprinkled over pizza crust"
+        },
+        {
+            "instructions": "sprinkle 12 cup cheese evenly over dough .",
+            "input": "(cheese; pizza curst with garlic)",
+            "action": "sprinkle",
+            "output": "cheese sprinkled over pizza crust with garlic"
+        },
+        {
+            "instructions": "arrange tomato slices on top of cheese ;",
+            "input": "(tomato slices; pizza crust with garlic and cheese)",
+            "action": "arrange",
+            "output": "tomato slices arranged over pizza crust with garlic and cheese"
+        },
+        {
+            "instructions": "sprinkle with pepper .",
+            "input": "(pepper; uncooked tomato mozzarella pizza)",
+            "action": "sprinkle",
+            "output": "pepper sprinkled on uncooked tomato mozzarella pizza"
+        },
+        {
+            "instructions": "top with remaining 12 cup cheese .",
+            "input": "remaining cheese",
+            "action": "top",
+            "output": "remaining cheese on top of uncooked tomato mozzarella pizza"
+        },
+        {
+            "instructions": "bake at 450 for 5 minutes .",
+            "input": "uncooked tomato mozzarella pizza",
+            "action": "bake",
+            "output": "baked tomato mozzarella pizza"
+        },
+        {
+            "instructions": "chop pancetta .",
+            "input": "pancetta",
+            "action": "chop",
+            "output": "chopped pancetta"
+        },
+        {
+            "instructions": "cook pancetta in a nonstick skillet over medium heat until crisp ;",
+            "input": "chopped pancetta",
+            "action": "cook",
+            "output": "crispy chopped pancetta"
+        },
+        {
+            "instructions": "drain .",
+            "input": "crispy chopped pancetta",
+            "action": "drain",
+            "output": "drained crispy pancetta"
+        },
+        {
+            "instructions": "sprinkle pancetta over pizza ;",
+            "input": "drained crispy pancetta",
+            "action": "sprinkle",
+            "output": "crispy pancetta sprinkled on baked tomato mozzarella pizza"
+        },
+        {
+            "instructions": "bake an additional 1 minute or until crust is golden .",
+            "input": "baked tomato mozzarella pizza with crispy pancetta",
+            "action": "bake",
+            "output": "doubly baked tomato mozzarella pizza with crispy pancetta"
+        },
+        {
+            "instructions": "sprinkle basil over pizza ;",
+            "input": "(basil; doubly baked tomato mozzarella pizza with crispy pancetta)",
+            "action": "sprinkle",
+            "output": "basil sprinkled on doubly baked tomato mozzarella pizza with crispy pancetta"
+        },
+        {
+            "instructions": "cut into 6 wedges .",
+            "input": "doubly baked tomato mozzarella pizza with crispy pancetta",
+            "action": "cut",
+            "output": "sliced doubly baked tomato mozzarella pizza with crispy pancetta"
+        }
+    ],
+    "ingredients": [
+        {
+            "text": "1 (11-ounce) can refrigerated French bread dough"
+        },
+        {
+            "text": "2 tablespoons yellow cornmeal"
+        },
+        {
+            "text": "Cooking spray"
+        },
+        {
+            "text": "1 1/2 pounds plum tomatoes, thinly sliced"
+        },
+        {
+            "text": "1 garlic clove, minced"
+        },
+        {
+            "text": "1 cup (4 ounces) shredded part-skim mozzarella cheese, divided"
+        },
+        {
+            "text": "1/4 teaspoon black pepper"
+        },
+        {
+            "text": "2 ounces pancetta"
+        },
+        {
+            "text": "1/4 cup thinly sliced fresh basil"
+        }
+    ],
+    "recipe": [
+        {
+            "text": "Preheat oven to 450.Place dough on a baking sheet sprinkled with cornmeal; press dough into a 12-inch circle."
+        },
+        {
+            "text": "Crimp edges of dough with fingers to form a rim."
+        },
+        {
+            "text": "Lightly spray surface of dough with cooking spray."
+        },
+        {
+            "text": "Bake at 450 for 8 minutes."
+        },
+        {
+            "text": "Remove from oven.Arrange tomato slices on paper towels."
+        },
+        {
+            "text": "Cover with additional paper towels; let stand 5 minutes."
+        },
+        {
+            "text": "Sprinkle garlic evenly over surface of dough; sprinkle 1/2 cup cheese evenly over dough."
+        },
+        {
+            "text": "Arrange tomato slices on top of cheese; sprinkle with pepper."
+        },
+        {
+            "text": "Top with remaining 1/2 cup cheese."
+        },
+        {
+            "text": "Bake at 450 for 5 minutes.Chop pancetta."
+        },
+        {
+            "text": "Cook pancetta in a nonstick skillet over medium heat until crisp; drain."
+        },
+        {
+            "text": "Sprinkle pancetta over pizza; bake an additional 1 minute or until crust is golden."
+        },
+        {
+            "text": "Sprinkle basil over pizza; let stand 2 minutes."
+        },
+        {
+            "text": "Cut into 6 wedges."
+        }
+    ]
+}

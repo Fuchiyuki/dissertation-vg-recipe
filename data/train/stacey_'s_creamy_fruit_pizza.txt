@@ -1,0 +1,151 @@
+{
+    "title": "stacey_'s_creamy_fruit_pizza",
+    "id": "1a0157e42e",
+    "table": [
+        {
+            "instructions": "preheat oven to 37",
+            "input": "NA",
+            "actions": "preheat",
+            "output": "NA"
+        },
+        {
+            "instructions": "spray a large round pizza\u2012pan with nonstick cooking_spray , or line it with parchment paper .",
+            "input": "NA",
+            "actions": "spray",
+            "output": "NA"
+        },
+        {
+            "instructions": "unroll the crescent_dough",
+            "input": "crescent_dough",
+            "actions": "unroll",
+            "output": "unrolled_crescent_dough"
+        },
+        {
+            "instructions": "bake for 14 17 minutes , or until golden",
+            "input": "unrolled_crescent_dough ",
+            "actions": "bake",
+            "output": "baked crescent_dough "
+        },
+        {
+            "instructions": "make sure its not under baked or it will become soggy later .",
+            "input": "NA",
+            "actions": "make",
+            "output": "NA"
+        },
+        {
+            "instructions": "transfer to a wire rack",
+            "input": "baked crescent_dough ",
+            "actions": "transfer",
+            "output": "baked crescent_dough "
+        },
+        {
+            "instructions": "remove it to allow the crust to cool .",
+            "input": "baked crescent_dough ",
+            "actions": "remove",
+            "output": "cooled baked crescent_dough "
+        },
+        {
+            "instructions": "when thoroughly cooled , transfer to serving platter , or place back into pizza\u2012pan .",
+            "input": "cooled baked crescent_dough ",
+            "actions": "transfer",
+            "output": "cooled crust"
+        },
+        {
+            "instructions": "mix together pudding_powder and sour_cream with electric mixer until thoroughly combined .",
+            "input": "(pudding_powder; sour_cream)",
+            "actions": "mix",
+            "output": "pudding and sour cream mixture"
+        },
+        {
+            "instructions": "spread onto cooled crust .",
+            "input": "(cooled crust; pudding and sour cream mixture)",
+            "actions": "spread",
+            "output": "pudding and sour cream mixture spread on cooled crust"
+        },
+        {
+            "instructions": "top with fresh or well drained canned fruit .",
+            "input": "(fruit; crust filled with pudding mixture)",
+            "actions": "top",
+            "output": "crust filled with pudding mixture topped with fruit"
+        },
+        {
+            "instructions": "chill at least 4 6 hours .",
+            "input": "creamy fruit pizza",
+            "actions": "chill",
+            "output": "chilled creamy fruit pizza"
+        },
+        {
+            "instructions": "cut into portions .",
+            "input": "chilled creamy fruit pizza",
+            "actions": "cut",
+            "output": "cut chilled creamy fruit pizza"
+        },
+        {
+            "instructions": "serve well chilled .",
+            "input": "cut chilled creamy fruit pizza",
+            "actions": "serve",
+            "output": "cut chilled creamy fruit pizza"
+        }
+    ],
+    "ingredients": [
+        {
+            "text": "2 (8 ounce) canspillsbury original refrigerated crescent dinner rolls"
+        },
+        {
+            "text": "1 (3 1/2 ounce) box sugar-free instant vanilla pudding mix"
+        },
+        {
+            "text": "16 ounces light sour cream"
+        },
+        {
+            "text": "sliced strawberry (or sliced peaches, kiwi slices, mandarin orange slices, chunked pineapple, grapes, blueberries, etc)"
+        }
+    ],
+    "recipe": [
+        {
+            "text": "Preheat oven to 375."
+        },
+        {
+            "text": "Spray a large round pizza pan with nonstick cooking spray, or line it with parchment paper."
+        },
+        {
+            "text": "Unroll the crescent dough and arrange the triangles in a circle with points toward the center, adjusting or adding dough as needed, to line the bottom of the pan."
+        },
+        {
+            "text": "Be sure to press together seams and perforations."
+        },
+        {
+            "text": "Bake for 14-17 minutes, or until golden and lightly browned, (completely done but not hard or burnt)."
+        },
+        {
+            "text": "Make sure its not under-baked or it will become soggy later."
+        },
+        {
+            "text": "Transfer to a wire rack and cool completely."
+        },
+        {
+            "text": "(If using parchment paper, grasp the edges of the paper to lift the crust out of the pan, then remove it to allow the crust to cool.)"
+        },
+        {
+            "text": "When thoroughly cooled, transfer to serving platter, or place back into pizza pan."
+        },
+        {
+            "text": "Mix together pudding powder and sour cream with electric mixer until thoroughly combined."
+        },
+        {
+            "text": "Spread onto cooled crust."
+        },
+        {
+            "text": "Top with fresh or well drained canned fruit."
+        },
+        {
+            "text": "Chill at least 4-6 hours."
+        },
+        {
+            "text": "Cut into portions."
+        },
+        {
+            "text": "Serve well chilled."
+        }
+    ]
+}

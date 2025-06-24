@@ -1,0 +1,175 @@
+{
+    "title": "basic_dough_for_pizza_and_focaccia_recipe",
+    "id": "8b9f3abf5f",
+    "table": [
+        {
+            "instructions": "sprinkle yeast over water in a small bowl ;",
+            "input": "(yeast; water)",
+            "actions": "sprinkle",
+            "output": "sprinkled_yeast in water"
+        },
+        {
+            "instructions": "stir to dissolve yeast .",
+            "input": "yeast in water",
+            "actions": "stir",
+            "output": "stirred yeast mixture"
+        },
+        {
+            "instructions": "let stand about 5 min .",
+            "input": "stirred yeast mixture",
+            "actions": "stand",
+            "output": "rested yeast mixture"
+        },
+        {
+            "instructions": "stir in flour and salt to make a soft dough .",
+            "input": "(flour; salt; yeast mixture)",
+            "actions": "stir",
+            "output": "flour and salt stirred in yeast mixture"
+        },
+        {
+            "instructions": "turn dough onto lightly floured surface .",
+            "input": "dough",
+            "actions": "turn",
+            "output": "dough"
+        },
+        {
+            "instructions": "knead till smooth and elastic , about 5 min , adding more flour if necessary .",
+            "input": "dough",
+            "actions": "knead",
+            "output": "kneaded dough"
+        },
+        {
+            "instructions": "shape into a ball .",
+            "input": "kneaded dough",
+            "actions": "shape",
+            "output": "dough shaped into ball"
+        },
+        {
+            "instructions": "place in a greased bowl ;",
+            "input": "dough shaped into ball",
+            "actions": "place",
+            "output": "dough shaped into ball"
+        },
+        {
+            "instructions": "turn to coat .",
+            "input": "dough shaped into ball",
+            "actions": "turn",
+            "output": "oil coated ball of dough"
+        },
+        {
+            "instructions": "cover",
+            "input": "oil coated ball of dough",
+            "actions": "cover",
+            "output": "covered ball of dough"
+        },
+        {
+            "instructions": "preheat oven to 425 f . ;",
+            "input": "NA",
+            "actions": "preheat",
+            "output": "NA"
+        },
+        {
+            "instructions": "sprinkle two large baking sheets or possibly jelly roll pans with cornmeal .",
+            "input": "NA",
+            "actions": "sprinkle",
+            "output": "NA"
+        },
+        {
+            "instructions": "punch down dough .",
+            "input": "risen dough",
+            "actions": "punch",
+            "output": "punched down dough"
+        },
+        {
+            "instructions": "divide dough in half ;",
+            "input": "punched down dough",
+            "actions": "divide",
+            "output": "divided dough"
+        },
+        {
+            "instructions": "roll or possibly pat each dough piece into an 8 inch round if making pizza .",
+            "input": "divided dough",
+            "actions": "roll",
+            "output": "rolled dough in rounds"
+        },
+        {
+            "instructions": "for focaccia , roll or possibly pat whole dough piece into a 13x9 inch rectangle .",
+            "input": "divided dough",
+            "actions": "roll",
+            "output": "rolled dough in rectangle"
+        },
+        {
+            "instructions": "top dough as desired .",
+            "input": "topping, dough",
+            "actions": "top",
+            "output": "toppings on dough"
+        },
+        {
+            "instructions": "bake on lowest rack 20 min or possibly till crust is golden .",
+            "input": "uncooked dough",
+            "actions": "bake",
+            "output": "baked pizza or focaccia"
+        }
+    ],
+    "ingredients": [
+        {
+            "text": "1 env active dry yeast"
+        },
+        {
+            "text": "3/4 c. hot water, (105 F to 115 F)"
+        },
+        {
+            "text": "2 c. all-purpose flour"
+        },
+        {
+            "text": "1 tsp salt Yellow cornmeal"
+        }
+    ],
+    "recipe": [
+        {
+            "text": "Sprinkle yeast over water in a small bowl; stir to dissolve yeast."
+        },
+        {
+            "text": "Let stand about 5 min."
+        },
+        {
+            "text": "Stir in flour and salt to make a soft dough."
+        },
+        {
+            "text": "Turn dough onto lightly floured surface."
+        },
+        {
+            "text": "Knead till smooth and elastic, about 5 min, adding more flour if necessary."
+        },
+        {
+            "text": "Shape into a ball."
+        },
+        {
+            "text": "Place in a greased bowl; turn to coat."
+        },
+        {
+            "text": "Cover and let rise in hot place till doubled in bulk, about 1 hour."
+        },
+        {
+            "text": "Preheat oven to 425 F. Sprinkle two large baking sheets or possibly jelly-roll pans with cornmeal."
+        },
+        {
+            "text": "Punch down dough."
+        },
+        {
+            "text": "Divide dough in half; roll or possibly pat each dough piece into an 8-inch round if making pizza."
+        },
+        {
+            "text": "For focaccia, roll or possibly pat whole dough piece into a 13x9-inch rectangle."
+        },
+        {
+            "text": "Top dough as desired."
+        },
+        {
+            "text": "Bake on lowest rack 20 min or possibly till crust is golden."
+        },
+        {
+            "text": "Makes 6 servings."
+        }
+    ]
+}

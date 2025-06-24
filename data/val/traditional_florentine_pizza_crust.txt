@@ -1,0 +1,178 @@
+{
+    "title": "traditional_florentine_pizza_crust",
+    "id": "8bb6a39002",
+    "table": [
+        {
+            "instructions": "mix the water with the sugar and yeast .",
+            "input": "(water; sugar; yeast)",
+            "actions": "mix",
+            "output": "yeast mixture"
+        },
+        {
+            "instructions": "add the salt , olive_oil and 1 cup of the flour",
+            "input": "(yeast mixture; salt; olive_oil; flour)",
+            "actions": "add",
+            "output": "flour in yeast mixture, salt and olive oil"
+        },
+        {
+            "instructions": "mix well .",
+            "input": "dough",
+            "actions": "mix",
+            "output": "dough"
+        },
+        {
+            "instructions": "turn out onto floured surface",
+            "input": "dough",
+            "actions": "turn",
+            "output": "dough"
+        },
+        {
+            "instructions": "form a ball",
+            "input": "dough",
+            "actions": "form",
+            "output": "ball shaped dough"
+        },
+        {
+            "instructions": "place into an oiled bowl",
+            "input": "ball shaped dough",
+            "actions": "place",
+            "output": "ball shaped dough"
+        },
+        {
+            "instructions": "cover with a cloth napkin .",
+            "input": "ball shaped dough",
+            "actions": "cover",
+            "output": "covered ball shaped dough"
+        },
+        {
+            "instructions": "punch down",
+            "input": "risen dough",
+            "actions": "punch",
+            "output": "punched down dough"
+        },
+        {
+            "instructions": "divide in half .",
+            "input": "punched down dough",
+            "actions": "divide",
+            "output": "divided dough"
+        },
+        {
+            "instructions": "preheat oven to 400f if using a pizza stone",
+            "input": "NA",
+            "actions": "preheat",
+            "output": "NA"
+        },
+        {
+            "instructions": "if using a baking pizza\u2012pan , lightly oil your baking pizza\u2012pan .",
+            "input": "NA",
+            "actions": "oil",
+            "output": "NA"
+        },
+        {
+            "instructions": "otherwise , shape pizza on a lightly floured surface .",
+            "input": "dough",
+            "actions": "shape",
+            "output": "shaped pizza dough"
+        },
+        {
+            "instructions": "with your hands , press on the dough to spread it out to about 12 cm high very thin .",
+            "input": "shaped pizza dough",
+            "actions": "press",
+            "output": "pressed pizza crust"
+        },
+        {
+            "instructions": "top pizza with toppings of your choice .",
+            "input": "(pizza crust; toppings)",
+            "actions": "top",
+            "output": "pizza crust topped with toppings"
+        },
+        {
+            "instructions": "if using a pizza stone , transfer to pizza stone .",
+            "input": "uncooked pizza",
+            "actions": "transfer",
+            "output": "uncooked pizza"
+        },
+        {
+            "instructions": "drizzle olive_oil over the top of the pizza before placing into the oven",
+            "input": "(uncooked pizza; olive_oil)",
+            "actions": "drizzle",
+            "output": "olive oil drizzled over uncooked pizza"
+        },
+        {
+            "instructions": "bake for 18 22 minutes if using a pizza\u2012pan , 8 5 minutes if using a pizza stone , or until the cheese has melted and the crust is golden .",
+            "input": "uncooked pizza",
+            "actions": "bake",
+            "output": "baked pizza"
+        }
+    ],
+    "ingredients": [
+        {
+            "text": "2 14 teaspoons dry yeast"
+        },
+        {
+            "text": "1 cup warm water"
+        },
+        {
+            "text": "1 tablespoon sugar"
+        },
+        {
+            "text": "1 teaspoon salt"
+        },
+        {
+            "text": "2 tablespoons olive oil"
+        },
+        {
+            "text": "3 cups bread flour"
+        }
+    ],
+    "recipe": [
+        {
+            "text": "Mix the water with the sugar and yeast."
+        },
+        {
+            "text": "Let stand for 5 minutes until dissolved and the yeast starts to bubble."
+        },
+        {
+            "text": "Add the salt, olive oil and 1 cup of the flour and mix well."
+        },
+        {
+            "text": "Add 2 more cups of flour, dough should be still a little sticky but should be able to form a ball."
+        },
+        {
+            "text": "Turn out onto floured surface and start to knead, adding a little bit of flour as needed, until your dough is smooth and elastic, about 10 minutes."
+        },
+        {
+            "text": "Form a fall, place into an oiled bowl and cover with a cloth napkin."
+        },
+        {
+            "text": "Let dough rise for 45 minutes."
+        },
+        {
+            "text": "Punch down and divide in half."
+        },
+        {
+            "text": "Preheat oven to 400F If using a pizza stone, be sure to put the stone in the oven while it heats up."
+        },
+        {
+            "text": "If using a baking pizza pan, lightly oil your baking pizza pan."
+        },
+        {
+            "text": "Otherwise, shape pizza on a lightly floured surface."
+        },
+        {
+            "text": "With your hands, press on the dough to spread it out to about 1/2 cm high (very thin)."
+        },
+        {
+            "text": "Top pizza with toppings of your choice."
+        },
+        {
+            "text": "Allow to rest for 10-15 minutes."
+        },
+        {
+            "text": "If using a pizza stone, transfer to pizza stone."
+        },
+        {
+            "text": "Drizzle olive oil over the top of the pizza before placing into the oven and bake for 18-22 minutes if using a pizza pan, 8-5 minutes if using a pizza stone, or until the cheese has melted and the crust is golden."
+        }
+    ]
+}

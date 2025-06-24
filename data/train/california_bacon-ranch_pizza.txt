@@ -1,0 +1,124 @@
+{
+    "title": "california_bacon-ranch_pizza",
+    "id": "a647827108",
+    "table": [
+        {
+            "instructions": "heat oven to 450 degrees f .",
+            "input": "NA",
+            "actions": "heat",
+            "output": "NA"
+        },
+        {
+            "instructions": "roll perfect parmesan pizza_dough into 12",
+            "input": "parmesan",
+            "actions": "roll",
+            "output": "rolled_parmesan_pizza_dough"
+        },
+        {
+            "instructions": "transfer to baking sheet sprayed with cooking_spray .",
+            "input": "ROLLED PARMESAN_pizza_dough",
+            "actions": "transfer",
+            "output": "ROLLED_PARMESAN_pizza_dough"
+        },
+        {
+            "instructions": "spread crust with sauce , leaving 12 inch border .",
+            "input": "(crust; SAUCE,)",
+            "actions": "spread",
+            "output": "CRUST spread_with_SAUCE"
+        },
+        {
+            "instructions": "top with onions and bacon .",
+            "input": "ONION,BACON, pizza_base",
+            "actions": "top",
+            "output": "UNCOOKED_PIZZA_topped with_onion and bacon"
+        },
+        {
+            "instructions": "bake 10 min .",
+            "input": "UNCOOKED_PIZZA_topped with_onion and bacon",
+            "actions": "bake",
+            "output": "COOKED PIZZA"
+        },
+        {
+            "instructions": "top with cheese .",
+            "input": "(COOKED PIZZA; cheese)",
+            "actions": "top",
+            "output": "COOKED PIZZA topped with cheese"
+        },
+        {
+            "instructions": "bake 8 to 10 min .",
+            "input": "COOKED PIZZA topped with cheese",
+            "actions": "bake",
+            "output": "COOKED PIZZA"
+        },
+        {
+            "instructions": "top with avocados and tomatoes ;",
+            "input": "(AVOCADOS; TOMATOES; cooked pizza)",
+            "actions": "top",
+            "output": "PIZZA_TOPPED WITH AVOCADOS AND TOMATOES"
+        },
+        {
+            "instructions": "drizzle with dressing .",
+            "input": "(PIZZA_TOPPED WITH AVOCADOS AND TOMATOES; dressing)",
+            "actions": "drizzle",
+            "output": "avocado and tomato pizza drizzled with dressing"
+        }
+    ],
+    "ingredients": [
+        {
+            "text": "1/4 recipe Perfect Parmesan Pizza Dough"
+        },
+        {
+            "text": "1 cup pizza sauce"
+        },
+        {
+            "text": "1/4 cup thinly sliced red onions"
+        },
+        {
+            "text": "8 slices cooked bacon, crumbled"
+        },
+        {
+            "text": "1-1/2 cups Cracker Barrel Shredded 3 Cheese Pizza Cheese"
+        },
+        {
+            "text": "1 avocado, chopped Target 10 ea For $10.00 thru 02/06"
+        },
+        {
+            "text": "1 tomato, chopped"
+        },
+        {
+            "text": "2 tablespoons Kraft Peppercorn Ranch Dressing"
+        }
+    ],
+    "recipe": [
+        {
+            "text": "Heat oven to 450 degrees F."
+        },
+        {
+            "text": "Roll Perfect Parmesan Pizza Dough into 12-inch circle on lightly floured surface."
+        },
+        {
+            "text": "Transfer to baking sheet sprayed with cooking spray."
+        },
+        {
+            "text": "Spread crust with sauce, leaving 1/2-inch border."
+        },
+        {
+            "text": "Top with onions and bacon."
+        },
+        {
+            "text": "Bake 10 min."
+        },
+        {
+            "text": "Top with cheese."
+        },
+        {
+            "text": "Bake 8 to 10 min."
+        },
+        {
+            "text": "or until cheese is melted and crust is golden brown."
+        },
+        {
+            "text": "Top with avocados and tomatoes; drizzle with dressing."
+        }
+    ]
+}

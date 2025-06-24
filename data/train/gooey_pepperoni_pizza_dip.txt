@@ -1,0 +1,85 @@
+{
+    "title": "gooey_pepperoni_pizza_dip",
+    "id": "050e321b53",
+    "table": [
+        {
+            "instructions": "heat oven to 350 degrees f .",
+            "input": "NA",
+            "action": "heat",
+            "output": "NA"
+        },
+        {
+            "instructions": "mix first 2 ingredients until well blended ;",
+            "input": "(cream cheese; pizza sauce)",
+            "action": "mix",
+            "output": "cream cheese and pizza sauce mixture"
+        },
+        {
+            "instructions": "spread onto bottom of 9 inch pie plate .",
+            "input": "cream cheese and pizza sauce mixture",
+            "action": "spread",
+            "output": "spread cream cheese and pizza sauce mixture"
+        },
+        {
+            "instructions": "top with next 4 ingredients .",
+            "input": "(spread cream cheese and pizza sauce mixture; shredded italiano cheese; pepperoni slices; chopped red peppers; chopped green peppers; )",
+            "action": "top",
+            "output": "cream cheese and pizza sauce mixture topped with shredded cheese, chopped green and red peppers and pepperoni slices"
+        },
+        {
+            "instructions": "bake 18 to 20 min .",
+            "input": "uncooked cream cheese and pizza sauce mixture topped with shredded cheese, chopped green and red peppers and pepperoni slices",
+            "action": "bake",
+            "output": "baked pepperoni dip"
+        },
+        {
+            "instructions": "serve with crackers .",
+            "input": "(baked pepperoni dip; crackers)",
+            "action": "serve",
+            "output": "baked pepperoni dip served with crackers"
+        }
+    ],
+    "ingredients": [
+        {
+            "text": "1 cup Philadelphia Cream Cheese Product"
+        },
+        {
+            "text": "1/2 cup pizza sauce"
+        },
+        {
+            "text": "1/2 cup Cracker Barrel Shredded 4 Cheese Italiano Cheese"
+        },
+        {
+            "text": "1/2 cup chopped pepperoni slices"
+        },
+        {
+            "text": "1/3 cup chopped red peppers"
+        },
+        {
+            "text": "1/3 cup chopped green peppers"
+        },
+        {
+            "text": "Ritz Crackers with Whole Wheat"
+        }
+    ],
+    "recipe": [
+        {
+            "text": "Heat oven to 350 degrees F."
+        },
+        {
+            "text": "Mix first 2 ingredients until well blended; spread onto bottom of 9-inch pie plate."
+        },
+        {
+            "text": "Top with next 4 ingredients."
+        },
+        {
+            "text": "Bake 18 to 20 min."
+        },
+        {
+            "text": "or until dip is heated through and shredded cheese is melted."
+        },
+        {
+            "text": "Serve with crackers."
+        }
+    ]
+}

@@ -1,0 +1,100 @@
+{
+    "title": "boursin_cheese_and_sun-dried_tomato_pizza",
+    "id": "fa9ff3b969",
+    "table": [
+        {
+            "instructions": "spread pesto_sauce over the pizza base .",
+            "input": "(pesto_sauce; pizza sauce)",
+            "action": "spread",
+            "output": "spread_pesto_sauce on pizza base"
+        },
+        {
+            "instructions": "roughly chop the sun_dried_tomato and peppers",
+            "input": "(sun_dried_tomatoes; peppers)",
+            "action": "chop",
+            "output": "chopped_sun_dried_tomatoes_and_peppers"
+        },
+        {
+            "instructions": "crumble the boursin cheese",
+            "input": "boursin_cheese",
+            "action": "crumble",
+            "output": "crumbled_boursin_cheese"
+        },
+        {
+            "instructions": "sprinkle the mozzarella sparingly over the pizza .",
+            "input": "(pesto_sauce_spread_pizza_base; mozzarella; crumbled_boursin_cheese )",
+            "action": "sprinkle",
+            "output": "mozzarella and crumbled_boursin_cheese_sprinkled_over pesto_pizza base"
+        },
+        {
+            "instructions": "transfer to the preheated pizza maker machine or to a very hot oven",
+            "input": "mozzarella and crumbled_boursin_cheese_sprinkled_over pesto_pizza base",
+            "action": "transfer",
+            "output": "mozzarella and crumbled_boursin_cheese_sprinkled_over pesto_pizza base"
+        },
+        {
+            "instructions": "cook until the crust is crisp and golden , rotating it 180 degrees half way through cooking to ensure it 's cooked evenly 8 to 10 minutes .",
+            "input": "boursin_cheese_and_sun-dried_tomato_pizza",
+            "action": "cook",
+            "output": "cooked boursin_cheese_and_sun-dried_tomato_pizza"
+        },
+        {
+            "instructions": "cut into pieces",
+            "input": "cooked boursin_cheese_and_sun-dried_tomato_pizza",
+            "action": "cut",
+            "output": "sliced cooked boursin_cheese_and_sun-dried_tomato_pizza"
+        },
+        {
+            "instructions": "serve immediately .",
+            "input": "sliced cooked boursin_cheese_and_sun-dried_tomato_pizza",
+            "action": "serve",
+            "output": "sliced cooked boursin_cheese_and_sun-dried_tomato_pizza ready to eat"
+        }
+    ],
+    "ingredients": [
+        {
+            "text": "1 large plain pizza crust (i.e. pizza base)"
+        },
+        {
+            "text": "1 -2 tablespoon basil pomodoro pesto sauce or 1 -2 tablespoon basil pesto"
+        },
+        {
+            "text": "80 g boursin cheese"
+        },
+        {
+            "text": "45 g sun-dried tomatoes (or semi-dried)"
+        },
+        {
+            "text": "45 g roasted red peppers (approximately)"
+        },
+        {
+            "text": "4 -6 slices hot salami (cut into quarters)"
+        },
+        {
+            "text": "14 cup mozzarella cheese"
+        }
+    ],
+    "recipe": [
+        {
+            "text": "Spread pesto sauce over the pizza base."
+        },
+        {
+            "text": "Distribute the salami evenly over the pizza."
+        },
+        {
+            "text": "Roughly chop the sun-dried tomatoes and peppers and distribute evenly over the pizza."
+        },
+        {
+            "text": "Crumble the Boursin cheese and distribute over the pizza."
+        },
+        {
+            "text": "Sprinkle the mozzarella sparingly over the pizza."
+        },
+        {
+            "text": "Transfer to the preheated Pizza Maker machine (or to a very hot oven) and cook until the crust is crisp and golden, rotating it 180 degrees half way through cooking to ensure it's cooked evenly (8 to 10 minutes)."
+        },
+        {
+            "text": "When the pizza is ready, remove, cut into pieces and serve immediately."
+        }
+    ]
+}

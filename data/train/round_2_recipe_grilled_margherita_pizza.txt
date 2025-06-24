@@ -1,0 +1,202 @@
+{
+    "title": "round_2_recipe_grilled_margherita_pizza",
+    "id": "9758634c15",
+    "table": [
+        {
+            "instructions": "in a medium skillet over medium heat , add 1 tablespoon of the oil .",
+            "input": "oil",
+            "action": "add",
+            "output": "heated oil"
+        },
+        {
+            "instructions": "when it is hot , add the tomato and garlic .",
+            "input": "(heated oil; tomato; garlic)",
+            "action": "add",
+            "output": "tomato and garlic in heated oil"
+        },
+        {
+            "instructions": "cook down until slightly thickened",
+            "input": "tomato and garlic in heated oil",
+            "action": "cook",
+            "output": "cooked garlicky tomato"
+        },
+        {
+            "instructions": "season with salt and pepper , to taste ,",
+            "input": "(cooked garlicky tomato; salt; pepper)",
+            "action": "season",
+            "output": "seasoned cooked garlicky tomato"
+        },
+        {
+            "instructions": "set aside .",
+            "input": "seasoned cooked garlicky tomato",
+            "action": "set",
+            "output": "seasoned cooked garlicky tomato sauce"
+        },
+        {
+            "instructions": "heat an outdoor grill or grill pan over medium heat .",
+            "input": "NA",
+            "action": "heat",
+            "output": "NA"
+        },
+        {
+            "instructions": "preheat the broiler .",
+            "input": "NA",
+            "action": "preheat",
+            "output": "NA"
+        },
+        {
+            "instructions": "pat the pizza_dough",
+            "input": "pizza dough",
+            "action": "pat",
+            "output": "flatten pizza dough"
+        },
+        {
+            "instructions": "transfer the dough to the grill",
+            "input": "flatten pizza dough",
+            "action": "transfer",
+            "output": "flatten pizza dough"
+        },
+        {
+            "instructions": "grill , oiled side down , until the dough starts to crisp",
+            "input": "flatten pizza dough",
+            "action": "grill",
+            "output": "grilled pizza crust"
+        },
+        {
+            "instructions": "turn brown on the bottom side , about 3 minutes .",
+            "input": "grilled pizza crust",
+            "action": "turn",
+            "output": "grilled pizza crust on both sides"
+        },
+        {
+            "instructions": "brush the top with the remaining 1 tablespoon of oil",
+            "input": "(grilled pizza crust on both sides; remaining oil)",
+            "action": "brush",
+            "output": "oil rubbed grilled pizza crust"
+        },
+        {
+            "instructions": "grill for another 3 minutes .",
+            "input": "oil rubbed grilled pizza crust",
+            "action": "grill",
+            "output": "doubly oil brushed pizza crust"
+        },
+        {
+            "instructions": "remove from the grill to a sheet pan .",
+            "input": "doubly oil brushed pizza crust",
+            "action": "remove",
+            "output": "doubly oil brushed pizza crust"
+        },
+        {
+            "instructions": "spread it with the tomato_sauce",
+            "input": "(doubly oil brushed pizza crust; seasoned cooked garlicky tomato sauce)",
+            "action": "spread",
+            "output": "grilled pizza crust topped with seasoned cooked garlicky tomato sauce"
+        },
+        {
+            "instructions": "cover with the mozzarella slices .",
+            "input": "(mozzarella slices; grilled pizza crust topped with seasoned cooked garlicky tomato sauce)",
+            "action": "cover",
+            "output": "grilled pizza crust topped with tomato sauce and mozzarella slices"
+        },
+        {
+            "instructions": "put it under the broiler",
+            "input": "assembled margherita pizza",
+            "action": "put",
+            "output": "assembled margherita pizza"
+        },
+        {
+            "instructions": "broil until the cheese is melted and bubbling , about 3 minutes .",
+            "input": "assembled margherita pizza",
+            "action": "broil",
+            "output": "grilled margherita pizza"
+        },
+        {
+            "instructions": "remove from the broiler",
+            "input": "grilled margherita pizza",
+            "action": "remove",
+            "output": "grilled margherita pizza"
+        },
+        {
+            "instructions": "sprinkle with basil leaves ,",
+            "input": "(basil leaves; grilled margherita pizza)",
+            "action": "sprinkle",
+            "output": "grilled margherita pizza with basil leaves"
+        },
+        {
+            "instructions": "cut",
+            "input": "grilled margherita pizza with basil leaves",
+            "action": "cut",
+            "output": "cut grilled margherita pizza with basil leaves"
+        },
+        {
+            "instructions": "serve .",
+            "input": "cut grilled margherita pizza with basil leaves",
+            "action": "serve",
+            "output": "cut grilled margherita pizza with basil leaves ready to serve"
+        }
+    ],
+    "ingredients": [
+        {
+            "text": "3 tablespoons olive oil, divided"
+        },
+        {
+            "text": "Reserved chopped tomato from Caprese Salad Stuffed Tomatoes recipe"
+        },
+        {
+            "text": "1 tablespoon chopped garlic"
+        },
+        {
+            "text": "Kosher salt and freshly ground black pepper"
+        },
+        {
+            "text": "1 (16-ounce) package refrigerated pizza dough"
+        },
+        {
+            "text": "Reserved mozzarella, sliced thin, from Caprese Salad Stuffed Tomatoes recipe"
+        },
+        {
+            "text": "1/4 bunch basil leaves"
+        }
+    ],
+    "recipe": [
+        {
+            "text": "In a medium skillet over medium heat, add 1 tablespoon of the oil."
+        },
+        {
+            "text": "When it is hot, add the tomato and garlic."
+        },
+        {
+            "text": "Cook down until slightly thickened and some of the liquid has evaporated, about 5 minutes."
+        },
+        {
+            "text": "Season with salt and pepper, to taste, and set aside."
+        },
+        {
+            "text": "Heat an outdoor grill or grill pan over medium heat."
+        },
+        {
+            "text": "Preheat the broiler."
+        },
+        {
+            "text": "Pat the pizza dough out into a 12 by 6-inch rectangle and brush with 1 tablespoon of oil."
+        },
+        {
+            "text": "Transfer the dough to the grill and grill, oiled side down, until the dough starts to crisp and turn brown on the bottom side, about 3 minutes."
+        },
+        {
+            "text": "Brush the top with the remaining 1 tablespoon of oil and flip it over and grill for another 3 minutes."
+        },
+        {
+            "text": "Remove from the grill to a sheet pan."
+        },
+        {
+            "text": "Spread it with the tomato sauce and cover with the mozzarella slices."
+        },
+        {
+            "text": "Put it under the broiler and broil until the cheese is melted and bubbling, about 3 minutes."
+        },
+        {
+            "text": "Remove from the broiler, sprinkle with basil leaves, then cut and serve."
+        }
+    ]
+}

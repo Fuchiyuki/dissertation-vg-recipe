@@ -1,0 +1,142 @@
+{
+    "title": "sun-dried_tomato_goat_cheese_english_muffin_pizzas",
+    "id": "9ca2386f2c",
+    "table": [
+        {
+            "instructions": "drizzle olive_oil in medium skillet over medium heat .",
+            "input": "olive_oil",
+            "action": "drizzle",
+            "output": "heated olive oil"
+        },
+        {
+            "instructions": "add onions",
+            "input": "(onions; heated olive oil)",
+            "action": "add",
+            "output": "onions in heated olive oil"
+        },
+        {
+            "instructions": "saute until transparent and starting to brown , 8 10 minutes .",
+            "input": "onions in heated olive oil",
+            "action": "saute",
+            "output": "sauteed onion"
+        },
+        {
+            "instructions": "add garlic",
+            "input": "(garlic; sauteed onion)",
+            "action": "add",
+            "output": "garlic added to sauteed onion"
+        },
+        {
+            "instructions": "stir until fragrant .",
+            "input": "garlic added to sauteed onion",
+            "action": "stir",
+            "output": "sauteed garlic and onion mixture"
+        },
+        {
+            "instructions": "remove from heat .",
+            "input": "sauteed garlic and onion mixture",
+            "action": "remove",
+            "output": "sauteed garlic and onion mixture"
+        },
+        {
+            "instructions": "lightly toast english_muffin .",
+            "input": "english_muffin",
+            "action": "toast",
+            "output": "lightly toasted english muffin"
+        },
+        {
+            "instructions": "spread each halve with tomato pesto",
+            "input": "(lightly toasted english muffin; tomato pesto)",
+            "action": "spread",
+            "output": "toasted english muffin with tomato pesto spread"
+        },
+        {
+            "instructions": "top with onions .",
+            "input": "(toasted english muffin with tomato pesto spread; sauteed garlic and onion mixture)",
+            "action": "top",
+            "output": "toasted english muffin with tomato pesto spread and sauteed garlic and onion mixture"
+        },
+        {
+            "instructions": "preheat broiler .",
+            "input": "NA",
+            "action": "preheat",
+            "output": "NA"
+        },
+        {
+            "instructions": "divide goat_cheese into eight portions",
+            "input": "goat_cheese",
+            "action": "divide",
+            "output": "divided_goat_cheese"
+        },
+        {
+            "instructions": "place one piece on each english_muffin halve .",
+            "input": "(divided_goat_cheese; toasted english muffin with tomato pesto spread and sauteed garlic and onion mixture)",
+            "action": "place",
+            "output": "toasted english muffin with tomato pesto spread, sauteed garlic and onion mixture and portioned goat cheese"
+        },
+        {
+            "instructions": "broil for 1 2 minutes .",
+            "input": "toasted english muffin with tomato pesto spread, sauteed garlic and onion mixture and portioned goat cheese",
+            "action": "broil",
+            "output": "broiled tomato_goat_cheese_english_muffin_pizzas"
+        },
+        {
+            "instructions": "serve immediately .",
+            "input": "broiled tomato_goat_cheese_english_muffin_pizzas",
+            "action": "serve",
+            "output": "broiled tomato_goat_cheese_english_muffin_pizzas served "
+        }
+    ],
+    "ingredients": [
+        {
+            "text": "1 small onion, thinly sliced"
+        },
+        {
+            "text": "1 teaspoon olive oil"
+        },
+        {
+            "text": "2 garlic cloves, finely minced"
+        },
+        {
+            "text": "4 whole wheat English muffins, split"
+        },
+        {
+            "text": "3 tablespoons sun-dried tomato pesto (or sun dried tomato paste)"
+        },
+        {
+            "text": "5 12 ounces fresh goat cheese"
+        }
+    ],
+    "recipe": [
+        {
+            "text": "Drizzle olive oil in medium skillet over medium heat."
+        },
+        {
+            "text": "Add onions and saute until transparent and starting to brown, 8-10 minutes."
+        },
+        {
+            "text": "Add garlic and stir until fragrant."
+        },
+        {
+            "text": "Remove from heat."
+        },
+        {
+            "text": "Lightly toast English muffins."
+        },
+        {
+            "text": "Spread each halve with tomato pesto and top with onions."
+        },
+        {
+            "text": "Preheat broiler."
+        },
+        {
+            "text": "Divide goat cheese into eight portions and place one piece on each English muffin halve."
+        },
+        {
+            "text": "Broil for 1-2 minutes."
+        },
+        {
+            "text": "Serve immediately."
+        }
+    ]
+}

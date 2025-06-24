@@ -1,0 +1,124 @@
+{
+    "title": "pizza_carbonara",
+    "id": "3f7433ceca",
+    "table": [
+        {
+            "instructions": "place butter in a saute pan over a medium heat .",
+            "input": "butter",
+            "action": "place",
+            "output": "melted butter"
+        },
+        {
+            "instructions": "cook bacon until crispy",
+            "input": "(bacon; melted butter)",
+            "action": "cook",
+            "output": "cooked crispy bacon with melted butter"
+        },
+        {
+            "instructions": "remove from the heat",
+            "input": "cooked crispy bacon with melted butter",
+            "action": "remove",
+            "output": "cooked crispy bacon with melted butter"
+        },
+        {
+            "instructions": "place contents of pan in a mixing bowl .",
+            "input": "cooked crispy bacon with melted butter",
+            "action": "place",
+            "output": "cooked crispy bacon with melted butter"
+        },
+        {
+            "instructions": "add eggs and cheese",
+            "input": "(eggs; cheese; cooked crispy bacon with melted butter)",
+            "action": "add",
+            "output": "eggs and cheese added to cooked crispy bacon with melted butter"
+        },
+        {
+            "instructions": "mix well .",
+            "input": "eggs and cheese added to cooked crispy bacon with melted butter",
+            "action": "mix",
+            "output": "egg, cheese and bacon mixture"
+        },
+        {
+            "instructions": "cook pasta until al dente",
+            "input": "pasta",
+            "action": "cook",
+            "output": "cooked pasta al dente"
+        },
+        {
+            "instructions": "toss with other ingredients .",
+            "input": "(grated romano cheese; finely chopped parsley; egg, cheese and bacon mixture; cooked pasta al dente; )",
+            "action": "toss",
+            "output": "carbonara pasta mixture"
+        },
+        {
+            "instructions": "place on top of grilled dough",
+            "input": "(grilled dough; carbonara pasta mixture)",
+            "action": "place",
+            "output": "carbonara pasta pizza"
+        },
+        {
+            "instructions": "place under a broiler until the mixture raises slightly about 3 to 5 minutes .",
+            "input": "carbonara pasta pizza",
+            "action": "place",
+            "output": "broiled carbonara pasta pizza"
+        },
+        {
+            "instructions": "season to taste with salt and pepper .",
+            "input": "(salt; pepper; broiled carbonara pasta pizza)",
+            "action": "season",
+            "output": "seasoned broiled carbonara pasta pizza"
+        }
+    ],
+    "ingredients": [
+        {
+            "text": "1 teaspoon butter"
+        },
+        {
+            "text": "1 grilled dough"
+        },
+        {
+            "text": "4 ounces fresh spinach linguine"
+        },
+        {
+            "text": "2 strips thick cut bacon, sliced on the bias in 1/8-inch thickness"
+        },
+        {
+            "text": "1 large egg"
+        },
+        {
+            "text": "1/3 cup Locatelli romano cheese (grated)"
+        },
+        {
+            "text": "1/4 cup Italian parsley, finely chopped"
+        },
+        {
+            "text": "Salt and freshly ground black pepper"
+        }
+    ],
+    "recipe": [
+        {
+            "text": "Place butter in a saute pan over a medium heat."
+        },
+        {
+            "text": "Cook bacon until crispy, remove from the heat and place contents of pan in a mixing bowl."
+        },
+        {
+            "text": "Allow bacon and fat to cool, slightly."
+        },
+        {
+            "text": "Add eggs and cheese and mix well."
+        },
+        {
+            "text": "Cook pasta until al dente and toss with other ingredients."
+        },
+        {
+            "text": "Place on top of grilled dough and place under a broiler until the mixture raises slightly (about 3 to 5 minutes)."
+        },
+        {
+            "text": "Season to taste with salt and pepper."
+        },
+        {
+            "text": "Drink Recommendations: Peroni Beer Mittnacht-Klack, Tokay Pinot Gris, Vin d'Alsace, 1997"
+        }
+    ]
+}

@@ -1,0 +1,133 @@
+{
+    "title": "presto_pesto_pizza",
+    "id": "9292c89c0a",
+    "table": [
+        {
+            "instructions": "blend first 4 ingredients in processor to coarse puree .",
+            "input": "ingredients",
+            "actions": "blend",
+            "output": "blended_ingredients"
+        },
+        {
+            "instructions": "transfer pesto to small bowl .",
+            "input": "pesto",
+            "actions": "transfer",
+            "output": "pesto"
+        },
+        {
+            "instructions": "press plastic directly onto surface of pesto to cover",
+            "input": "pesto",
+            "actions": "press",
+            "output": "covered_pesto"
+        },
+        {
+            "instructions": "refrigerate .",
+            "input": "covered_pesto",
+            "actions": "refrigerate",
+            "output": "refrigerated_pesto"
+        },
+        {
+            "instructions": "preheat oven to 375f .",
+            "input": "NA",
+            "actions": "preheat",
+            "output": "NA"
+        },
+        {
+            "instructions": "spray 12 inch diameter , pizza\u2012pan with vegetable_oil_spray .",
+            "input": "NA",
+            "actions": "spray",
+            "output": "NA"
+        },
+        {
+            "instructions": "using moistened fingertips , press out dough on prepared pan to cover completely if dough shrinks",
+            "input": "pizza_dough",
+            "actions": "press",
+            "output": "shaped_dough"
+        },
+        {
+            "instructions": "press out again .",
+            "input": "shaped_dough",
+            "actions": "press",
+            "output": "shaped_dough"
+        },
+        {
+            "instructions": "spread all of pesto over dough .",
+            "input": "(shaped_dough; pesto)",
+            "actions": "spread",
+            "output": "shaped_dough_with_spreaded_pesto"
+        },
+        {
+            "instructions": "sprinkle with sun_dried_tomato , then cheeses .",
+            "input": "(shaped_dough_with_spreaded_pesto; sun_dried_tomatoes; cheeses)",
+            "actions": "sprinkle",
+            "output": "shaped_dough_with_sprinkled_toppings"
+        },
+        {
+            "instructions": "bake pizza until crust browns and cheeses melt , about 35 minutes .",
+            "input": "shaped_raw_pizza_dough_with_toppings",
+            "actions": "bake",
+            "output": "baked_pesto_pizza"
+        }
+    ],
+    "ingredients": [
+        {
+            "text": "1 1/2 cups (packed) stemmed spinach leaves"
+        },
+        {
+            "text": "1/2 cup (packed) fresh basil leaves (about 1 bunch)"
+        },
+        {
+            "text": "1 1/2 tablespoons oil from oil-packed sun-dried tomatoes or olive oil"
+        },
+        {
+            "text": "1 large garlic clove"
+        },
+        {
+            "text": "Nonstick vegetable oil spray"
+        },
+        {
+            "text": "1 1-pound loaf frozen bread dough, thawed, room temperature"
+        },
+        {
+            "text": "1/3 cup sliced drained oil-packed sun-dried tomatoes"
+        },
+        {
+            "text": "2 cups (packed) grated mozzarella cheese (about 8 ounces)"
+        },
+        {
+            "text": "1 cup grated Parmesan cheese"
+        }
+    ],
+    "recipe": [
+        {
+            "text": "Blend first 4 ingredients in processor to coarse puree."
+        },
+        {
+            "text": "Transfer pesto to small bowl."
+        },
+        {
+            "text": "(Can be prepared 1 day ahead."
+        },
+        {
+            "text": "Press plastic directly onto surface of pesto to cover; refrigerate.)"
+        },
+        {
+            "text": "Preheat oven to 375F."
+        },
+        {
+            "text": "Spray 12-inch-diameter pizza pan with vegetable oil spray."
+        },
+        {
+            "text": "using moistened fingertips, press out dough on prepared pan to cover completely (if dough shrinks, let stand 5 minutes and press out again)."
+        },
+        {
+            "text": "Spread all of pesto over dough."
+        },
+        {
+            "text": "Sprinkle with sun-dried tomatoes, then cheeses."
+        },
+        {
+            "text": "Bake pizza until crust browns and cheeses melt, about 35 minutes."
+        }
+    ]
+}

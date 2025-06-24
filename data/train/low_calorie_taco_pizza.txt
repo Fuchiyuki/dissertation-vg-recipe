@@ -1,0 +1,157 @@
+{
+    "title": "low_calorie_taco_pizza",
+    "id": "4e31d9e1e9",
+    "table": [
+        {
+            "instructions": "season the ground_meat with taco_seasoning and chili_powder to your taste .",
+            "input": "(ground_meat; chili_powder)",
+            "action": "season",
+            "output": "chili_powder_seasoned_ground_meat"
+        },
+        {
+            "instructions": "brown",
+            "input": "seasoned ground meat",
+            "action": "brown",
+            "output": "browned ground meat"
+        },
+        {
+            "instructions": "set aside .",
+            "input": "browned ground meat",
+            "action": "set",
+            "output": "browned ground meat"
+        },
+        {
+            "instructions": "mash up the pinto_bean with a fork",
+            "input": "whole pinto beans",
+            "action": "mash",
+            "output": "mashed pinto beans"
+        },
+        {
+            "instructions": "spread a thin layer on the pizza_crust .",
+            "input": "(pizza crust; mashed pinto beans)",
+            "action": "spread",
+            "output": "pizza crust with mashed pinto beans spread on it"
+        },
+        {
+            "instructions": "place the well seasoned beef",
+            "input": "(browned ground meat; pizza crust with mashed pinto beans spread on it)",
+            "action": "place",
+            "output": "pizza crust with mashed pinto beans and browned ground meat spread on it"
+        },
+        {
+            "instructions": "next slice up a tomato in thin round slices",
+            "input": "whole tomato",
+            "action": "slice",
+            "output": "sliced tomato"
+        },
+        {
+            "instructions": "place on top of the meat trying to cover most of the pizza .",
+            "input": "(pizza crust with mashed pinto beans and browned ground meat spread on it; tomato slices)",
+            "action": "place",
+            "output": "uncooked ground meat and pinto beans pizza with sliced tomatoes"
+        },
+        {
+            "instructions": "sprinkle grated cheese on the top .",
+            "input": "(grated cheese; uncooked ground meat and pinto beans pizza with sliced tomatoes)",
+            "action": "sprinkle",
+            "output": "sprinkled grated cheese on uncooked ground meat and pinto beans pizza with sliced tomatoes"
+        },
+        {
+            "instructions": "for a spicier flair , sprinkle a small amount of taco_seasoning on top .",
+            "input": "(taco seasoning; uncooked taco pizza)",
+            "action": "sprinkle",
+            "output": "taco seasoning sprinkled on uncooked taco pizza"
+        },
+        {
+            "instructions": "bake at 425 degrees for approximately 15 minutes or until golden brown and crispy .",
+            "input": "uncooked taco pizza",
+            "action": "bake",
+            "output": "baked taco pizza"
+        },
+        {
+            "instructions": "it may take 20 minutes or longer for some ovens .",
+            "input": "NA",
+            "action": "take",
+            "output": "NA"
+        },
+        {
+            "instructions": "remove from oven",
+            "input": "baked taco pizza",
+            "action": "remove",
+            "output": "baked taco pizza"
+        },
+        {
+            "instructions": "if desired place slices of avocado on top",
+            "input": "(baked taco pizza; slices of avocado)",
+            "action": "place",
+            "output": "slices of avocado on baked taco pizza"
+        },
+        {
+            "instructions": "serve immediately .",
+            "input": "garnished baked taco pizza",
+            "action": "serve",
+            "output": "served garnished baked taco pizza"
+        }
+    ],
+    "ingredients": [
+        {
+            "text": "1 (16 ounce) can pinto beans"
+        },
+        {
+            "text": "2 mama mary's thin and crispy prepared pizza crust"
+        },
+        {
+            "text": "1 (1 lb) package97% fat free ground turkey breast"
+        },
+        {
+            "text": "romaine lettuce (cut in shreds)"
+        },
+        {
+            "text": "1 large tomatoes"
+        },
+        {
+            "text": "1 (8 ounce) package low-fat sharp cheddar cheese, grated (we use Cabot)"
+        },
+        {
+            "text": "1 avocado"
+        }
+    ],
+    "recipe": [
+        {
+            "text": "Begin by preheating the oven to 425 degrees."
+        },
+        {
+            "text": "Season the ground meat with taco seasoning and chili powder to your taste."
+        },
+        {
+            "text": "Brown and set aside."
+        },
+        {
+            "text": "Mash up the pinto beans with a fork and spread a thin layer on the pizza crust."
+        },
+        {
+            "text": "Place the well seasoned and browned ground meat evenly on top of the beans."
+        },
+        {
+            "text": "Next slice up a tomato in thin round slices and place on top of the meat trying to cover most of the pizza."
+        },
+        {
+            "text": "Sprinkle grated cheese on the top."
+        },
+        {
+            "text": "For a spicier flair, sprinkle a small amount of taco seasoning on top."
+        },
+        {
+            "text": "Bake at 425 degrees for approximately 15 minutes or until golden brown and crispy."
+        },
+        {
+            "text": "It may take 20 minutes or longer for some ovens."
+        },
+        {
+            "text": "Remove from oven and evenly distribute the shredded romaine on top of each pizza."
+        },
+        {
+            "text": "If desired place slices of avocado on top and serve immediately."
+        }
+    ]
+}

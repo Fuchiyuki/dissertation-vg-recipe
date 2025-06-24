@@ -1,0 +1,142 @@
+{
+    "title": "goat_cheese_arugula_pizza_no_red_sauce",
+    "id": "d3ff29279f",
+    "table": [
+        {
+            "instructions": "preheat oven according to pizza , package instructions .",
+            "input": "NA",
+            "actions": "preheat",
+            "output": "NA"
+        },
+        {
+            "instructions": "dab pesto onto the center of the pizza , base ,",
+            "input": "pesto",
+            "actions": "dab",
+            "output": "dabbed_pesto"
+        },
+        {
+            "instructions": "spread toward the outer edges .",
+            "input": "dabbed_pesto",
+            "actions": "spread",
+            "output": "spread_pesto"
+        },
+        {
+            "instructions": "cut the goat_cheese into thin coins ,",
+            "input": "spread_pesto",
+            "actions": "cut",
+            "output": "cut_goat_cheese"
+        },
+        {
+            "instructions": "spread or crumble across the pizza .",
+            "input": "cut_goat_cheese",
+            "actions": "spread",
+            "output": "spread_goat_cheese"
+        },
+        {
+            "instructions": "arrange tomato slices over goat_cheese .",
+            "input": "spread_goat_cheese",
+            "actions": "arrange",
+            "output": "arrange_tomato slices"
+        },
+        {
+            "instructions": "sprinkle with garlic .",
+            "input": "arrange_tomato slices",
+            "actions": "sprinkle",
+            "output": "sprinkle_garlic"
+        },
+        {
+            "instructions": "brush the crust edges lightly with olive_oil .",
+            "input": "sprinkle_garlic",
+            "actions": "brush",
+            "output": "brush_crust edges"
+        },
+        {
+            "instructions": "place pizza directly on preheated oven rack .",
+            "input": "brush_crust edges",
+            "actions": "place",
+            "output": "place_oven"
+        },
+        {
+            "instructions": "bake for 5 to 10 minutes , or until the crust edges are golden .",
+            "input": "place_oven",
+            "actions": "bake",
+            "output": "bake_pizza"
+        },
+        {
+            "instructions": "after a couple of minutes , cover the pizza with a few handfuls of arugula .",
+            "input": "bake_pizza",
+            "actions": "cover",
+            "output": "cover_pizza"
+        },
+        {
+            "instructions": "cut",
+            "input": "cover_pizza",
+            "actions": "cut",
+            "output": "cut_pizza"
+        },
+        {
+            "instructions": "serve ,",
+            "input": "cut_pizza",
+            "actions": "serve",
+            "output": "pizza"
+        }
+    ],
+    "ingredients": [
+        {
+            "text": "1 unbaked pizza crust"
+        },
+        {
+            "text": "6 tablespoons prepared pesto sauce"
+        },
+        {
+            "text": "3 roma tomatoes, thinly sliced"
+        },
+        {
+            "text": "1 (8 ounce) package seasoned goat cheese"
+        },
+        {
+            "text": "2 cloves garlic, peeled and thinly sliced"
+        },
+        {
+            "text": "1 cup fresh arugula"
+        },
+        {
+            "text": "1 teaspoon olive oil"
+        }
+    ],
+    "recipe": [
+        {
+            "text": "Preheat oven according to pizza package instructions."
+        },
+        {
+            "text": "Dab pesto onto the center of the pizza base, and spread toward the outer edges."
+        },
+        {
+            "text": "Cut the goat cheese into thin coins, and spread or crumble across the pizza."
+        },
+        {
+            "text": "Arrange tomato slices over goat cheese."
+        },
+        {
+            "text": "Sprinkle with garlic."
+        },
+        {
+            "text": "Brush the crust edges lightly with olive oil."
+        },
+        {
+            "text": "Place pizza directly on preheated oven rack."
+        },
+        {
+            "text": "Bake for 5 to 10 minutes, or until the crust edges are golden."
+        },
+        {
+            "text": "After taking pizza out of the oven, allow to cool for a few minutes so that the cheese has time to set."
+        },
+        {
+            "text": "After a couple of minutes, cover the pizza with a few handfuls of arugula."
+        },
+        {
+            "text": "Cut, serve, and enjoy!"
+        }
+    ]
+}

@@ -1,0 +1,139 @@
+{
+    "title": "``_pizza_pan_''_potato_skins",
+    "id": "8b26a746cb",
+    "table": [
+        {
+            "instructions": "preheat oven to 375f .",
+            "input": "NA",
+            "action": "preheat",
+            "output": "NA"
+        },
+        {
+            "instructions": "cook the diced_bacon until crispy",
+            "input": "diced_bacon",
+            "action": "cook",
+            "output": "cooked_diced_bacon"
+        },
+        {
+            "instructions": "remove from bacon_fat",
+            "input": "cooked_diced_bacon",
+            "action": "remove",
+            "output": "cooked_diced_bacon without excess fat"
+        },
+        {
+            "instructions": "drain on paper towel .",
+            "input": "cooked_diced_bacon without excess fat",
+            "action": "drain",
+            "output": "cooked_diced_bacon without excess fat"
+        },
+        {
+            "instructions": "peel them with a knife leaving a good bit of potato on the skin .",
+            "input": "potato",
+            "action": "peel",
+            "output": "(peeled potatoes; potatoes skins)"
+        },
+        {
+            "instructions": "cook in the same manner as the potato skins .",
+            "input": "potatoes skins",
+            "action": "cook",
+            "output": "cooked potatoes skins"
+        },
+        {
+            "instructions": "deep fry the potato skins until crispy and golden .",
+            "input": "potatoes skins",
+            "action": "fry",
+            "output": "fried potatoes skins"
+        },
+        {
+            "instructions": "drain thoroughly",
+            "input": "fried potatoes skins",
+            "action": "drain",
+            "output": "fried potatoes skins without excess oil"
+        },
+        {
+            "instructions": "salt to taste .",
+            "input": "(salt; fried potatoes skins without excess oil)",
+            "action": "salt",
+            "output": "salted fried potatoes skins without excess oil"
+        },
+        {
+            "instructions": "spread the potato skins evenly on a pizza\u2012pan .",
+            "input": "fried potatoes skins without excess oil",
+            "action": "spread",
+            "output": "spread fried potatoes skins"
+        },
+        {
+            "instructions": "sprinkle evenly with the green_onion , cheese and bacon .",
+            "input": "(green onion; cheese; cooked_diced_bacon without excess fat; spread fried potatoes skins)",
+            "action": "sprinkle",
+            "output": "green_onion , cheese and bacon sprinkled on fried potatoes skins"
+        },
+        {
+            "instructions": "bake for 10 15 minutes until hot and cheddar is melted .",
+            "input": "uncooked pizza pan potato skins",
+            "action": "bake",
+            "output": "baked pizza pan potato skins"
+        },
+        {
+            "instructions": "serve hot with sour_cream for dipping .",
+            "input": "(baked pizza pan potato skins; sour cream)",
+            "action": "serve",
+            "output": "baked pizza pan potato skins served with sour cream"
+        }
+    ],
+    "ingredients": [
+        {
+            "text": "3 lbs potatoes, scrubbed"
+        },
+        {
+            "text": "12 lb bacon, diced"
+        },
+        {
+            "text": "2 cups cheddar cheese, grated"
+        },
+        {
+            "text": "5 green onions, diced"
+        },
+        {
+            "text": "oil (for deep frying)"
+        },
+        {
+            "text": "salt (to taste)"
+        },
+        {
+            "text": "sour cream (for dipping)"
+        }
+    ],
+    "recipe": [
+        {
+            "text": "Preheat oven to 375F."
+        },
+        {
+            "text": "Cook the diced bacon until crispy, remove from bacon fat and drain on paper towel."
+        },
+        {
+            "text": "Forget everything you were ever taught about peeling potatoes, and peel them with a knife leaving a good bit of potato on the skin."
+        },
+        {
+            "text": "Retain center of potatoes for another recipe, or slice them into wedges and cook in the same manner as the potato skins."
+        },
+        {
+            "text": "Deep fry the potato skins until crispy and golden."
+        },
+        {
+            "text": "Drain thoroughly and salt to taste."
+        },
+        {
+            "text": "Spread the potato skins evenly on a pizza pan."
+        },
+        {
+            "text": "Sprinkle evenly with the green onions, cheese and bacon."
+        },
+        {
+            "text": "Bake for 10-15 minutes until hot and cheddar is melted."
+        },
+        {
+            "text": "Serve hot with sour cream for dipping."
+        }
+    ]
+}

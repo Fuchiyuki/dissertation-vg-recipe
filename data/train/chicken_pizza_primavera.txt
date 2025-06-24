@@ -1,0 +1,133 @@
+{
+    "title": "chicken_pizza_primavera",
+    "id": "481cc6ccf6",
+    "table": [
+        {
+            "instructions": "in a skillet , saute onion and green_pepper in 1 teaspoon , oil until almost tender .",
+            "input": "(onion; green_pepper; oil)",
+            "action": "saute",
+            "output": "saut\u00e9ed_onion_green_pepper"
+        },
+        {
+            "instructions": "add mushrooms ;",
+            "input": "(saut\u00e9ed_onion_green_pepper; mushrooms)",
+            "action": "add",
+            "output": "saut\u00e9ed onion, green pepper_and_mushrooms"
+        },
+        {
+            "instructions": "cook 2 3 minutes longer .",
+            "input": "saut\u00e9ed onion, green pepper_and_mushrooms",
+            "action": "cook",
+            "output": "cooked_vegetables_and_mushrooms"
+        },
+        {
+            "instructions": "remove",
+            "input": "cooked_vegetables_and_mushrooms",
+            "action": "remove",
+            "output": "cooked_vegetables_and_mushrooms mixture"
+        },
+        {
+            "instructions": "in the same skillet , lightly brown one tortilla in 12 teaspoon , oil .",
+            "input": "tortilla",
+            "action": "brown",
+            "output": "lightly_browned_tortilla"
+        },
+        {
+            "instructions": "turn over ;",
+            "input": "lightly_browned_tortilla",
+            "action": "turn",
+            "output": "other_side_lightly_browned_tortilla"
+        },
+        {
+            "instructions": "top with half of the pepperoni , tomatoes , onion mixture and cheese .",
+            "input": "(other_side_lightly_browned_tortilla; pepperoni; tomatoes; cooked_vegetables_and_mushrooms mixture; cheese)",
+            "action": "top",
+            "output": "topped_tortilla with cooked_vegetables_and_mushrooms mixture, pepperoni, tomatoes and cheese"
+        },
+        {
+            "instructions": "cover",
+            "input": "topped_tortilla with cooked_vegetables_and_mushrooms mixture, pepperoni, tomatoes and cheese",
+            "action": "cover",
+            "output": "covered topped_tortilla with cooked_vegetables_and_mushrooms mixture, pepperoni, tomatoes and cheese"
+        },
+        {
+            "instructions": "cook until cheese is melter , about 2 minutes .",
+            "input": "covered topped_tortilla with cooked_vegetables_and_mushrooms mixture, pepperoni, tomatoes and cheese",
+            "action": "cook",
+            "output": "chicken and vegetable pizza"
+        },
+        {
+            "instructions": "sprinkle with pepper_flake",
+            "input": "chicken and vegetable pizza; pepper flake",
+            "action": "sprinkle",
+            "output": "chicken and vegetable pizza with pepper flake"
+        }
+    ],
+    "ingredients": [
+        {
+            "text": "1 store bought pizza dough"
+        },
+        {
+            "text": "cooking spray"
+        },
+        {
+            "text": "2 tablespoons asiago cheese, shredded"
+        },
+        {
+            "text": "14-12 teaspoon garlic salt"
+        },
+        {
+            "text": "2 tablespoons light ranch salad dressing"
+        },
+        {
+            "text": "6 ounces chicken breasts (the original recipe used 6 oz. pre-cooked Italian style chicken breast strips, chopped)"
+        },
+        {
+            "text": "13 cup red bell pepper, finely chopped"
+        },
+        {
+            "text": "13 cup red onion, finely sliced"
+        },
+        {
+            "text": "12 cup Baby Spinach, torn"
+        },
+        {
+            "text": "1 12 cups Italian cheese blend, shredded (6 oz.)"
+        },
+        {
+            "text": "1 teaspoon pizza seasoning (I use oregano)"
+        }
+    ],
+    "recipe": [
+        {
+            "text": "Preheat oven to 400F degrees."
+        },
+        {
+            "text": "Spray some cooking spray on 12-inch pizza pan."
+        },
+        {
+            "text": "Roll dough out onto pan."
+        },
+        {
+            "text": "Lightly spray dough with more cooking spray."
+        },
+        {
+            "text": "Sprinkle Asiago cheese and garlic salt over dough."
+        },
+        {
+            "text": "Bake 8 to 10 minutes or until light brown in color."
+        },
+        {
+            "text": "Spread ranch dressing onto cooked crust."
+        },
+        {
+            "text": "Sprinkle with the chicken, bell pepper, onion, and spinach."
+        },
+        {
+            "text": "Sprinkle with Italian cheese and pizza seasoning, and bake an additional 9 to 12 minutes, until cheese is melted and bubbly."
+        },
+        {
+            "text": "Cut into wedges to serve."
+        }
+    ]
+}

@@ -1,0 +1,244 @@
+{
+    "title": "vegetable_deep-dish_pizza",
+    "id": "f7fe7c5e56",
+    "table": [
+        {
+            "instructions": "wash the spinach well",
+            "input": "spinach",
+            "action": "wash",
+            "output": "washed_spinach"
+        },
+        {
+            "instructions": "discard tough stems",
+            "input": "washed_spinach",
+            "action": "discard",
+            "output": "washed_spinach without tough stems"
+        },
+        {
+            "instructions": "place wet spinach in a big pot",
+            "input": "washed_spinach without tough stems",
+            "action": "place",
+            "output": "washed_spinach without tough stems"
+        },
+        {
+            "instructions": "cover",
+            "input": "washed_spinach without tough stems",
+            "action": "cover",
+            "output": "covered spinach"
+        },
+        {
+            "instructions": "cook until spinach is wilted and tender , about 5 minutes .",
+            "input": "covered spinach",
+            "action": "cook",
+            "output": "cooked spinach"
+        },
+        {
+            "instructions": "place cooked spinach in a strainer",
+            "input": "cooked spinach",
+            "action": "place",
+            "output": "cooked spinach"
+        },
+        {
+            "instructions": "press it with a wooden spoon to remove as much of the juice as possible ;",
+            "input": "cooked spinach",
+            "action": "press",
+            "output": "cooked and well drained spinach"
+        },
+        {
+            "instructions": "chop spinach on a board .",
+            "input": "cooked and well drained spinach",
+            "action": "chop",
+            "output": "chopped cooked spinach"
+        },
+        {
+            "instructions": "wipe mushrooms clean with a damp cloth ,",
+            "input": "mushrooms",
+            "action": "wipe",
+            "output": "wiped mushrooms"
+        },
+        {
+            "instructions": "slice .",
+            "input": "wiped mushrooms",
+            "action": "slice",
+            "output": "sliced mushrooms"
+        },
+        {
+            "instructions": "in a big skillet , cook mushrooms in oil over medium heat until the liquid has evaporated and the mushrooms are beginning to brown .",
+            "input": "(sliced mushrooms; oil)",
+            "action": "cook",
+            "output": "sauteed mushrooms"
+        },
+        {
+            "instructions": "add in garlic",
+            "input": "(sauteed mushrooms; garlic)",
+            "action": "add",
+            "output": "sauteed mushrooms with garlic"
+        },
+        {
+            "instructions": "cook 2 minutes",
+            "input": "sauteed mushrooms with garlic",
+            "action": "cook",
+            "output": "cooked mushrooms with garlic"
+        },
+        {
+            "instructions": "stir in the spinach and salt pepper to taste",
+            "input": "(cooked mushrooms with garlic; chopped cooked spinach)",
+            "action": "stir",
+            "output": "chopped cooked spinach stirred into cooked mushrooms with garlic"
+        },
+        {
+            "instructions": "mix well",
+            "input": "chopped cooked spinach stirred into cooked mushrooms with garlic",
+            "action": "mix",
+            "output": "Spinach Mushroom mixture"
+        },
+        {
+            "instructions": "remove from heat ;",
+            "input": "Spinach Mushroom mixture",
+            "action": "remove",
+            "output": "Spinach Mushroom mixture"
+        },
+        {
+            "instructions": "preheat oven to 400 ;",
+            "input": "NA",
+            "action": "preheat",
+            "output": "NA"
+        },
+        {
+            "instructions": "oil a 9 x 1 12 inch , layer , cake pan or deep dish pie pan .",
+            "input": "NA",
+            "action": "oil",
+            "output": "NA"
+        },
+        {
+            "instructions": "with rolling pin , roll out dough to a 13 inch circle ;",
+            "input": "dough",
+            "action": "roll",
+            "output": "dough"
+        },
+        {
+            "instructions": "arrange the dough in the prepared pan , patting it up the sides .",
+            "input": "dough",
+            "action": "arrange",
+            "output": "pizza crust"
+        },
+        {
+            "instructions": "place the slices of asiago in the bottom of the pan",
+            "input": "(pizza crust; slices of asiago)",
+            "action": "place",
+            "output": "slices of asiago on top of pizza crust"
+        },
+        {
+            "instructions": "spread a layer of vegetables over the cheese ;",
+            "input": "(slices of asiago on top of pizza crust; Spinach Mushroom mixture)",
+            "action": "spread",
+            "output": "Spinach Mushroom mixture spread on pizza crust with slices of asiago"
+        },
+        {
+            "instructions": "make a layer of sauce .",
+            "input": "(sauce; pizza crust with slices of asiago and spinache mushroom mixture)",
+            "action": "make",
+            "output": "pizza crust with slices of asiago, spinache mushroom mixture and sauce"
+        },
+        {
+            "instructions": "arrange the mozzarella slices on top ;",
+            "input": "(mozzarella slices; pizza crust with slices of asiago, spinache mushroom mixture and sauce)",
+            "action": "arrange",
+            "output": "pizza crust with slices of asiago, spinache mushroom mixture, sauce and mozzarella slices"
+        },
+        {
+            "instructions": "sprinkle with pecorino .",
+            "input": "(pecorino; pizza crust with slices of asiago, spinache mushroom mixture, sauce and mozzarella slices)",
+            "action": "sprinkle",
+            "output": "pecorino sprinkled on pizza crust with slices of asiago, spinache mushroom mixture, sauce and mozzarella slices"
+        },
+        {
+            "instructions": "bake about 40 minutes , until the crust is crisp and the filling is bubbling ;",
+            "input": "uncooked vegetable_deep-dish_pizza",
+            "action": "bake",
+            "output": "baked vegetable_deep-dish_pizza"
+        },
+        {
+            "instructions": "sprinkle with basil",
+            "input": "(basil; baked vegetable_deep-dish_pizza)",
+            "action": "sprinkle",
+            "output": "basil sprinkled on baked vegetable_deep-dish_pizza"
+        },
+        {
+            "instructions": "serve .",
+            "input": "baked vegetable_deep-dish_pizza",
+            "action": "serve",
+            "output": "baked vegetable_deep-dish_pizza ready to serve"
+        }
+    ],
+    "ingredients": [
+        {
+            "text": "1 lb fresh spinach"
+        },
+        {
+            "text": "1 (10 ounce) package mushrooms"
+        },
+        {
+            "text": "2 tablespoons olive oil"
+        },
+        {
+            "text": "2 garlic cloves, minced"
+        },
+        {
+            "text": "salt"
+        },
+        {
+            "text": "fresh ground black pepper"
+        },
+        {
+            "text": "pizza dough (for one 9-inch deep-dish pizza)"
+        },
+        {
+            "text": "4 ounces sliced asiago cheese or 4 ounces provolone cheese"
+        },
+        {
+            "text": "1 cup pizza sauce (homemade or commercial)"
+        },
+        {
+            "text": "4 ounces sliced fresh mozzarella cheese"
+        },
+        {
+            "text": "2 tablespoons grated pecorino romano cheese"
+        },
+        {
+            "text": "1 tablespoon chopped fresh basil"
+        }
+    ],
+    "recipe": [
+        {
+            "text": "Wash the spinach well and discard tough stems; place wet spinach in a big pot; cover and bring to a simmer; cook until spinach is wilted and tender, about 5 minutes."
+        },
+        {
+            "text": "Place cooked spinach in a strainer and press it with a wooden spoon to remove as much of the juice as possible; chop spinach on a board."
+        },
+        {
+            "text": "Wipe mushrooms clean with a damp cloth, then slice."
+        },
+        {
+            "text": "In a big skillet, cook mushrooms in oil over medium heat until the liquid has evaporated and the mushrooms are beginning to brown."
+        },
+        {
+            "text": "Add in garlic; cook 2 minutes; stir in the spinach and salt/pepper to taste; mix well and remove from heat; let cool."
+        },
+        {
+            "text": "Preheat oven to 400; oil a 9 x 1 1/2 inch layer cake pan or deep-dish pie pan."
+        },
+        {
+            "text": "With rolling pin, roll out dough to a 13 inch circle; arrange the dough in the prepared pan, patting it up the sides."
+        },
+        {
+            "text": "Place the slices of asiago in the bottom of the pan; spread a layer of vegetables over the cheese; make a layer of sauce."
+        },
+        {
+            "text": "Arrange the mozzarella slices on top; sprinkle with pecorino."
+        },
+        {
+            "text": "Bake about 40 minutes, until the crust is crisp and the filling is bubbling; sprinkle with basil and serve."
+        }
+    ]
+}

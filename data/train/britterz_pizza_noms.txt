@@ -1,0 +1,88 @@
+{
+    "title": "britterz_pizza_noms",
+    "id": "397d820127",
+    "table": [
+        {
+            "instructions": "preheat oven to 4",
+            "input": "NA",
+            "action": "preheat",
+            "output": "NA"
+        },
+        {
+            "instructions": "slice the loaf of bread into thin slices .",
+            "input": "loaf of bread",
+            "action": "slice",
+            "output": "bread slices"
+        },
+        {
+            "instructions": "slice the cheese",
+            "input": "cheese",
+            "action": "slice",
+            "output": "sliced cheese"
+        },
+        {
+            "instructions": "then cut each piece in half",
+            "input": "sliced cheese",
+            "action": "cut",
+            "output": "sliced cheese cut in half"
+        },
+        {
+            "instructions": "place a slice of cheese on the bread ;",
+            "input": "(bread slices; sliced cheese cut in half)",
+            "action": "place",
+            "output": "bread slices topped with sliced cheese cut in half"
+        },
+        {
+            "instructions": "bake for 10 15 min",
+            "input": "bread slices topped with sliced cheese cut in half",
+            "action": "bake",
+            "output": "baked cheesy bread"
+        },
+        {
+            "instructions": "add different toppings depending on preference .",
+            "input": "(toppings; baked cheesy bread)",
+            "action": "add",
+            "output": "baked cheesy bread with toppings"
+        }
+    ],
+    "ingredients": [
+        {
+            "text": "1 pepperoni"
+        },
+        {
+            "text": "1 sliced cheese"
+        },
+        {
+            "text": "1 loaf french/italian/sourdough bread"
+        },
+        {
+            "text": "1 spaghetti sauce"
+        }
+    ],
+    "recipe": [
+        {
+            "text": "Preheat oven to 400"
+        },
+        {
+            "text": "Slice the loaf of bread into thin slices."
+        },
+        {
+            "text": "Slice the cheese and then cut each piece in half"
+        },
+        {
+            "text": "Place a slice of cheese on the bread followed by 2-3 slices of pepperoni"
+        },
+        {
+            "text": "Bake for 10-15 min"
+        },
+        {
+            "text": "Eat them plain or dip them in the spaghetti sauce"
+        },
+        {
+            "text": "You can get crazy and add different toppings depending on preference."
+        },
+        {
+            "text": "I like it with onion and green pepper sometimes!"
+        }
+    ]
+}

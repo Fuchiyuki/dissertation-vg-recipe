@@ -1,0 +1,256 @@
+{
+    "title": "nana_'s_classic_pizza",
+    "id": "af13f94a3e",
+    "table": [
+        {
+            "instructions": "make the crust",
+            "input": "NA",
+            "action": "make",
+            "output": "NA"
+        },
+        {
+            "instructions": "grease a rimmed baking sheet with 1 or 2 tablespoons of the oil .",
+            "input": "NA",
+            "action": "grease",
+            "output": "NA"
+        },
+        {
+            "instructions": "mix the water and 1 tablespoon of oil in a liquid measuring cup .",
+            "input": "(water; oil)",
+            "action": "mix",
+            "output": "water and oil mix"
+        },
+        {
+            "instructions": "using a stand mixer with the dough hook mix flour , yeast , sugar , and salt on low speed .",
+            "input": "(flour; yeast; sugar; salt)",
+            "action": "mix",
+            "output": "dry ingredients"
+        },
+        {
+            "instructions": "with the mixer running , slowly add water mixture",
+            "input": "(water and oil mix; dry ingredients)",
+            "action": "add",
+            "output": "Sticky Dough"
+        },
+        {
+            "instructions": "mix until dough comes together , about 1 minute .",
+            "input": "Sticky Dough",
+            "action": "mix",
+            "output": "Sticky Dough"
+        },
+        {
+            "instructions": "knead until dough is smooth",
+            "input": "Sticky Dough",
+            "action": "knead",
+            "output": "kneaded dough"
+        },
+        {
+            "instructions": "transfer dough to greased baking sheet",
+            "input": "kneaded dough",
+            "action": "transfer",
+            "output": "kneaded dough"
+        },
+        {
+            "instructions": "turn to coat .",
+            "input": "kneaded dough",
+            "action": "turn",
+            "output": "kneaded dough"
+        },
+        {
+            "instructions": "stretch the dough to a large rectangle .",
+            "input": "kneaded dough",
+            "action": "stretch",
+            "output": "stretched dough into a rectangle"
+        },
+        {
+            "instructions": "cover with plastic wrap",
+            "input": "stretched dough into a rectangle",
+            "action": "cover",
+            "output": "covered stretched dough into a rectangle"
+        },
+        {
+            "instructions": "let rise in warm place until doubled in size , about 1 hour .",
+            "input": "covered stretched dough into a rectangle",
+            "action": "rise",
+            "output": "proofed stretched dough into a rectangle"
+        },
+        {
+            "instructions": "stretch dough to corners of pan",
+            "input": "proofed stretched dough into a rectangle",
+            "action": "stretch",
+            "output": "stretched proofed dough"
+        },
+        {
+            "instructions": "cover loosely with plastic ,",
+            "input": "stretched proofed dough",
+            "action": "cover",
+            "output": "covered pizza crust"
+        },
+        {
+            "instructions": "position oven rack to lowest setting",
+            "input": "covered pizza crust",
+            "action": "position",
+            "output": "covered pizza crust"
+        },
+        {
+            "instructions": "preheat oven to 500 degrees f .",
+            "input": "NA",
+            "action": "preheat",
+            "output": "NA"
+        },
+        {
+            "instructions": "if you have a pizza stone place it on the rack .",
+            "input": "NA",
+            "action": "place",
+            "output": "NA"
+        },
+        {
+            "instructions": "while the dough is rising , drain the tomatoes in a colander over the sink .",
+            "input": "tomatoes",
+            "action": "drain",
+            "output": "drained tomatoes"
+        },
+        {
+            "instructions": "combine the tomatoes , oil , garlic , oregano , and salt in bowl .",
+            "input": "(drained tomatoes; oil; garlic; oregano; salt)",
+            "action": "combine",
+            "output": "tomato sauce"
+        },
+        {
+            "instructions": "mix the mozzarella and parmesan in second bowl .",
+            "input": "(mozzarella; parmesan)",
+            "action": "mix",
+            "output": "cheese mixture"
+        },
+        {
+            "instructions": "sprinkle the cheeses over dough , leaving a half inch border around edges .",
+            "input": "(pizza crust; cheese mixture)",
+            "action": "sprinkle",
+            "output": "Cheese topped pizza crust"
+        },
+        {
+            "instructions": "top with tomato mixture",
+            "input": "(Cheese topped pizza crust; tomato sauce)",
+            "action": "top",
+            "output": "pizza crust topped with cheese mixture and tomato sauce"
+        },
+        {
+            "instructions": "bake until well browned and bubbling , about 15 minutes .",
+            "input": "uncooked cheese pizza",
+            "action": "bake",
+            "output": "baked cheese pizza"
+        },
+        {
+            "instructions": "slide pizza onto wire rack",
+            "input": "baked cheese pizza",
+            "action": "slide",
+            "output": "baked cheese pizza"
+        },
+        {
+            "instructions": "sprinkle with basil ,",
+            "input": "(Basil; baked cheese pizza)",
+            "action": "sprinkle",
+            "output": "baked cheese pizza with basil"
+        }
+    ],
+    "ingredients": [
+        {
+            "text": "3 tablespoons olive oil"
+        },
+        {
+            "text": "3/4 cup water"
+        },
+        {
+            "text": "1 1/2 cups bread flour 8.25 ounces"
+        },
+        {
+            "text": "2 1/4 teaspoons yeast, active dry"
+        },
+        {
+            "text": "1 teaspoon sugar"
+        },
+        {
+            "text": "3/4 teaspoon salt"
+        },
+        {
+            "text": "28 ounces tomatoes, canned diced"
+        },
+        {
+            "text": "1 tablespoon olive oil"
+        },
+        {
+            "text": "2 cloves garlic minced"
+        },
+        {
+            "text": "1 teaspoon oregano dried"
+        },
+        {
+            "text": "1/4 teaspoon salt"
+        },
+        {
+            "text": "8 ounces mozzarella cheese shredded"
+        },
+        {
+            "text": "1/4 cup parmesan, parmigiano-reggiano cheese, grated"
+        },
+        {
+            "text": "2 tablespoons basil fresh, chopped"
+        }
+    ],
+    "recipe": [
+        {
+            "text": "MAKE THE CRUST:"
+        },
+        {
+            "text": "Grease a rimmed baking sheet with 1 or 2 tablespoons of the oil."
+        },
+        {
+            "text": "Mix the water and 1 tablespoon of oil in a liquid measuring cup."
+        },
+        {
+            "text": "Using a stand mixer with the dough hook mix flour, yeast, sugar, and salt on low speed."
+        },
+        {
+            "text": "With the mixer running, slowly add water mixture and mix until dough comes together, about 1 minute."
+        },
+        {
+            "text": "Increase speed to setting 2 or 3 and knead until dough is smooth and comes away from sides of bowl, about 8 minutes."
+        },
+        {
+            "text": "Transfer dough to greased baking sheet and turn to coat."
+        },
+        {
+            "text": "Stretch the dough to a large rectangle."
+        },
+        {
+            "text": "Cover with plastic wrap and let rise in warm place until doubled in size, about 1 hour."
+        },
+        {
+            "text": "Stretch dough to corners of pan, cover loosely with plastic, and let rise in warm place until slightly puffed, about 45 minutes."
+        },
+        {
+            "text": "Position oven rack to lowest setting and preheat oven to 500 degrees F. If you have a pizza stone place it on the rack."
+        },
+        {
+            "text": "TOPPING"
+        },
+        {
+            "text": "While the dough is rising, drain the tomatoes in a colander over the sink."
+        },
+        {
+            "text": "Combine the tomatoes, oil, garlic, oregano, and salt in bowl."
+        },
+        {
+            "text": "Mix the mozzarella and Parmesan in second bowl."
+        },
+        {
+            "text": "Sprinkle the cheeses over dough, leaving a half inch border around edges."
+        },
+        {
+            "text": "Top with tomato mixture and bake until well browned and bubbling, about 15 minutes."
+        },
+        {
+            "text": "Slide pizza onto wire rack, sprinkle with basil, and let cool for 5 minutes before serving."
+        }
+    ]
+}

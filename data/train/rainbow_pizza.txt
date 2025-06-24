@@ -1,0 +1,199 @@
+{
+    "title": "rainbow_pizza",
+    "id": "34fcd34150",
+    "table": [
+        {
+            "instructions": "preheat oven to 475f .",
+            "input": "NA",
+            "actions": "preheat",
+            "output": "NA"
+        },
+        {
+            "instructions": "coat 17 x 12 inch , baking sheet with 2 tsp .",
+            "input": "NA",
+            "actions": "coat",
+            "output": "NA"
+        },
+        {
+            "instructions": "oil or line with parchment paper .",
+            "input": "NA",
+            "actions": "oil",
+            "output": "NA"
+        },
+        {
+            "instructions": "press doughs together to form ball .",
+            "input": "doughs",
+            "actions": "press",
+            "output": "pressed_doughs"
+        },
+        {
+            "instructions": "spread",
+            "input": "pressed_doughs",
+            "actions": "spread",
+            "output": "spread dough"
+        },
+        {
+            "instructions": "press dough to 14",
+            "input": "spread dough",
+            "actions": "press",
+            "output": "pressed dough"
+        },
+        {
+            "instructions": "mix garlic and 2 tsp oil.",
+            "input": "(garlic; oil)",
+            "actions": "mix",
+            "output": "garlic mixture"
+        },
+        {
+            "instructions": "brush garlic mixture over dough leaving 12",
+            "input": "(dough; garlic mixture)",
+            "actions": "brush",
+            "output": "garlic mixture brushed over dough"
+        },
+        {
+            "instructions": "crumble goat_cheese over dough ,",
+            "input": "(garlic dough; goat_cheese)",
+            "actions": "crumble",
+            "output": "goat cheese crumbled over garlic dough"
+        },
+        {
+            "instructions": "sprinkle with fontina_cheese .",
+            "input": "(dough wtih garlic mixture and goat cheese; fontina cheese)",
+            "actions": "sprinkle",
+            "output": "pizza with goat cheese and fontina cheese"
+        },
+        {
+            "instructions": "arrange zucchini , tomatoes , and yellow_squash over pizza .",
+            "input": "(pizza with goat cheese and fontina cheese; zucchini; tomatoes; yellow squash)",
+            "actions": "arrange",
+            "output": "zucchini, tomatoes and yellow squash arrange over cheese pizza"
+        },
+        {
+            "instructions": "brush with remaining 1 tbs oil.",
+            "input": "(vegetable and cheese pizza; oil)",
+            "actions": "brush",
+            "output": "oil brush over vegetable and cheese pizza"
+        },
+        {
+            "instructions": "scatter onion and bell_pepper over vegetables .",
+            "input": "(onion; bell_pepper; vegetable and cheese pizza)",
+            "actions": "scatter",
+            "output": "onion and bell pepper scattered over vegetable and cheese pizza"
+        },
+        {
+            "instructions": "sprinkle with red_pepper_flake , if desired ,",
+            "input": "(vegetable and cheese pizza; red pepper flake)",
+            "actions": "sprinkle",
+            "output": "vegetable and cheese pizza with sprinkled red pepper flakes"
+        },
+        {
+            "instructions": "season with salt and pepper .",
+            "input": "(vegetable and cheese pizza; salt; pepper)",
+            "actions": "season",
+            "output": "seasoned vegetable and cheese pizza"
+        },
+        {
+            "instructions": "bake 30 minutes , or until puffed",
+            "input": "uncooked vegetable and cheese pizza",
+            "actions": "bake",
+            "output": "baked rainbow pizza"
+        },
+        {
+            "instructions": "deep brown at edges .",
+            "input": "baked rainbow pizza",
+            "actions": "brown",
+            "output": "baked rainbow pizza with browned edges"
+        },
+        {
+            "instructions": "cut into squares .",
+            "input": "baked rainbow pizza ",
+            "actions": "cut",
+            "output": "cut rainbow pizza "
+        }
+    ],
+    "ingredients": [
+        {
+            "text": "4 tsp. plus 1 Tbs. olive oil, divided"
+        },
+        {
+            "text": "2 1-lb. pkgs. refrigerated pizza dough"
+        },
+        {
+            "text": "3 cloves garlic, minced (1 Tbs.)"
+        },
+        {
+            "text": "1 4-oz. log goat cheese"
+        },
+        {
+            "text": "3 cups shredded fontina cheese"
+        },
+        {
+            "text": "2 zucchini, cut into 18-inch rounds (8 oz.)"
+        },
+        {
+            "text": "1 1/2 cups yellow and red cherry tomatoes, sliced (8 oz.)"
+        },
+        {
+            "text": "1 yellow squash, cut into 18-inch rounds (4 oz.)"
+        },
+        {
+            "text": "1/2 cup sliced red onion"
+        },
+        {
+            "text": "1/2 small orange bell pepper, diced ( 1/2 cup)"
+        },
+        {
+            "text": "Red pepper flakes, optional"
+        }
+    ],
+    "recipe": [
+        {
+            "text": "Preheat oven to 475F."
+        },
+        {
+            "text": "Coat 17- x 12-inch baking sheet with 2 tsp."
+        },
+        {
+            "text": "oil or line with parchment paper."
+        },
+        {
+            "text": "Press doughs together to form ball."
+        },
+        {
+            "text": "Spread and press dough to 1/4-inch thickness on prepared baking sheet, leaving dough in free-form shape."
+        },
+        {
+            "text": "Mix garlic and 2 tsp."
+        },
+        {
+            "text": "oil in bowl."
+        },
+        {
+            "text": "Brush garlic mixture over dough, leaving 1/2-inch border."
+        },
+        {
+            "text": "Crumble goat cheese over dough, then sprinkle with fontina cheese."
+        },
+        {
+            "text": "Arrange zucchini, tomatoes, and yellow squash over pizza."
+        },
+        {
+            "text": "Brush with remaining 1 Tbs."
+        },
+        {
+            "text": "oil."
+        },
+        {
+            "text": "Scatter onion and bell pepper over vegetables."
+        },
+        {
+            "text": "Sprinkle with red pepper flakes, if desired, and season with salt and pepper."
+        },
+        {
+            "text": "Bake 30 minutes, or until puffed and deep brown at edges."
+        },
+        {
+            "text": "Cool 10 minutes, then cut into squares."
+        }
+    ]
+}

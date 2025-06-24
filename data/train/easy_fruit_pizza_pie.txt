@@ -1,0 +1,133 @@
+{
+    "title": "easy_fruit_pizza_pie",
+    "id": "4416ff1d5d",
+    "table": [
+        {
+            "instructions": "press your sugar_cookie_dough so that it covers the bottom evenly",
+            "input": "sugar_cookie_dough",
+            "action": "press",
+            "output": "pressed_sugar_cookie_dough"
+        },
+        {
+            "instructions": "in a medium bowl add the cream_cheese and the marshmallow_creme",
+            "input": "(cream cheese; marshmallow creme)",
+            "action": "add",
+            "output": "Cream cheese and marshmallow creme added together in bowl"
+        },
+        {
+            "instructions": "mix until smooth and creamy .",
+            "input": "Cream cheese and marshmallow creme in bowl",
+            "action": "mix",
+            "output": "Cream cheese and marshmallow creme mixed together"
+        },
+        {
+            "instructions": "rinse",
+            "input": "Kiwi",
+            "action": "rinse",
+            "output": "rinsed kiwi"
+        },
+        {
+            "instructions": "peel",
+            "input": "rinsed kiwi",
+            "action": "peel",
+            "output": "Peeled kiwi"
+        },
+        {
+            "instructions": "cut your kiwis width wise",
+            "input": "Peeled kiwi",
+            "action": "cut",
+            "output": "Kiwi cut width wise"
+        },
+        {
+            "instructions": "rinse",
+            "input": "Strawberries",
+            "action": "rinse",
+            "output": "Rinsed strawberries"
+        },
+        {
+            "instructions": "cut your strawberries lengthwise .",
+            "input": "Strawberries",
+            "action": "cut",
+            "output": "Strawberries cut lengthwise"
+        },
+        {
+            "instructions": "cut your grapes down the middle .",
+            "input": "Grapes",
+            "action": "cut",
+            "output": "Grapes cut down middle"
+        },
+        {
+            "instructions": "add the filling to your crust",
+            "input": "Filling",
+            "action": "add",
+            "output": "Filling added to crust"
+        },
+        {
+            "instructions": "spread evenly .",
+            "input": "Filling on crust",
+            "action": "spread",
+            "output": "Crust with filling spread evenly"
+        },
+        {
+            "instructions": "top with kiwis , strawberries , grapes or whatever your fruit of choice is .",
+            "input": "Kiwis, strawberries, grapes and fruit of choice",
+            "action": "top",
+            "output": "Kiwis, strawberries, grapes or fruit of choice on top of crust with filling"
+        },
+        {
+            "instructions": "refrigerate for at least an hour before served .",
+            "input": "Fruit pizza",
+            "action": "refrigerate",
+            "output": "Refridgerated fruit pizza ready to be served"
+        }
+    ],
+    "ingredients": [
+        {
+            "text": "1 packages Ready made Sugar Cookie Dough"
+        },
+        {
+            "text": "12 oz tub of Cream Cheese Spread"
+        },
+        {
+            "text": "7 oz tub of Marshmallow Creme or Fluff"
+        },
+        {
+            "text": "1 bunch Grapes(your preference)"
+        },
+        {
+            "text": "4 Kiwis(or fruit of your choice)"
+        },
+        {
+            "text": "1 lb Fresh Strawberries(or fruit of your choice)"
+        }
+    ],
+    "recipe": [
+        {
+            "text": "In a pie OR pizza pan spread and press your sugar cookie dough so that it covers the bottom evenly and bake according to directions this will be your \"crust\""
+        },
+        {
+            "text": "After the crust is done, set aside and let cool completely before adding ingredients."
+        },
+        {
+            "text": "In a medium bowl add the cream cheese and the marshmallow creme and mix until smooth and creamy."
+        },
+        {
+            "text": "Rinse, Peel and cut your Kiwis width wise"
+        },
+        {
+            "text": "Rinse and cut your strawberries lengthwise."
+        },
+        {
+            "text": "Cut your grapes down the middle."
+        },
+        {
+            "text": "Add the filling to your crust and spread evenly."
+        },
+        {
+            "text": "Top with kiwis, strawberries, grapes or whatever your fruit of choice is."
+        },
+        {
+            "text": "Refrigerate for at least an hour before served."
+        }
+    ]
+}

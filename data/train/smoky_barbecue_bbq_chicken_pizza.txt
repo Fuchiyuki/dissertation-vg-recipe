@@ -1,0 +1,79 @@
+{
+    "title": "smoky_barbecue_bbq_chicken_pizza",
+    "id": "e1ee94fa63",
+    "table": [
+        {
+            "instructions": "preheat oven to 40",
+            "input": "NA",
+            "actions": "preheat",
+            "output": "NA"
+        },
+        {
+            "instructions": "combine chicken_breast with 2 t of barbecue_sauce .",
+            "input": "(chicken_breast; barbecue_sauce)",
+            "actions": "combine",
+            "output": "(combined_chicken_breast; barbecue_sauce)"
+        },
+        {
+            "instructions": "spread crust with 13 cup , barbecue_sauce ; more",
+            "input": "(pizza_crust; barbecue_sauce)",
+            "actions": "spread",
+            "output": "barbecue_sauce_spread_over_pizza_crust"
+        },
+        {
+            "instructions": "top with chicken , onions , bacon and cheese .",
+            "input": "(chicken; onions; bacon; cheese)",
+            "actions": "top",
+            "output": "pizza_crust topped with chicken, onions, bacon, cheese"
+        },
+        {
+            "instructions": "bake 10 12 minutes or until crust is lightly browned and cheese is melted and bubbly .",
+            "input": "uncooked pizza",
+            "actions": "bake",
+            "output": "baked smoky_barbecue_bbq_chicken_pizza"
+        }
+    ],
+    "ingredients": [
+        {
+            "text": "1 pizza crust (I like thin)"
+        },
+        {
+            "text": "13 cup barbecue sauce"
+        },
+        {
+            "text": "1 tablespoon barbecue sauce"
+        },
+        {
+            "text": "1 small grilled chicken breast, shredded"
+        },
+        {
+            "text": "1 small onion, halved and sliced"
+        },
+        {
+            "text": "4 slices bacon, cooked and crumbled"
+        },
+        {
+            "text": "1 cup smoked gouda cheese, shredded"
+        },
+        {
+            "text": "1 cup mozzarella cheese, shredded"
+        }
+    ],
+    "recipe": [
+        {
+            "text": "Preheat oven to 400."
+        },
+        {
+            "text": "Combine chicken breast with 2 T of barbecue sauce."
+        },
+        {
+            "text": "Spread crust with 1/3 cup barbecue sauce; more if you like it saucy!"
+        },
+        {
+            "text": "Top with chicken, onions, bacon and cheese."
+        },
+        {
+            "text": "Bake 10-12 minutes or until crust is lightly browned and cheese is melted and bubbly."
+        }
+    ]
+}

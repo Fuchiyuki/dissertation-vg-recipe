@@ -1,0 +1,199 @@
+{
+    "title": "st._louis-style_pizza",
+    "id": "f083db150d",
+    "table": [
+        {
+            "instructions": "whisk sauce ingredients together .",
+            "input": "ingredients",
+            "actions": "whisk",
+            "output": "whisked_ingredients"
+        },
+        {
+            "instructions": "set aside .",
+            "input": "whisked_ingredients",
+            "actions": "set",
+            "output": "whisked_ingredients"
+        },
+        {
+            "instructions": "toss cheeses and liquid_smoke if using together .",
+            "input": "ingredients",
+            "actions": "toss",
+            "output": "tossed_ingredients"
+        },
+        {
+            "instructions": "set aside .",
+            "input": "tossed_ingredients",
+            "actions": "set",
+            "output": "tossed_ingredients"
+        },
+        {
+            "instructions": "for the dough , whisk dry ingredients together .",
+            "input": "ingredients",
+            "actions": "whisk",
+            "output": "pizza_dough"
+        },
+        {
+            "instructions": "stir in water and oil until dough starts to come together .",
+            "input": "pizza_dough",
+            "actions": "stir",
+            "output": "pizza_dough"
+        },
+        {
+            "instructions": "knead on a lightly floured board 3 or 4 times , until cohesive .",
+            "input": "pizza_dough",
+            "actions": "knead",
+            "output": "kneaded_pizza_dough"
+        },
+        {
+            "instructions": "heat oven and pizza stone lower middle rack to 475 degrees f . ;",
+            "input": "kneaded_pizza_dough",
+            "actions": "heat",
+            "output": "rested_pizza_dough"
+        },
+        {
+            "instructions": "divide dough in 2 equal pieces .",
+            "input": "rested_pizza_dough",
+            "actions": "divide",
+            "output": "Sliced_pizza_dough"
+        },
+        {
+            "instructions": "press the first piece in a small circle ,",
+            "input": "Sliced_pizza_dough",
+            "actions": "press",
+            "output": "pizza_base"
+        },
+        {
+            "instructions": "transfer to parchment paper dusted with flour .",
+            "input": "pizza_base",
+            "actions": "transfer",
+            "output": "rested_pizza_base"
+        },
+        {
+            "instructions": "use a rolling pin to stretch dough to a 12 inch circle .",
+            "input": "rested_pizza_base",
+            "actions": "use",
+            "output": "pizza_base"
+        },
+        {
+            "instructions": "top with half the sauce and half the cheese .",
+            "input": "pizza_base;ingridents",
+            "actions": "top",
+            "output": "uncooked_pizza"
+        },
+        {
+            "instructions": "slide the dough on the parchment paper onto the baking stone .",
+            "input": "uncooked_pizza",
+            "actions": "slide",
+            "output": "uncooked_pizza"
+        },
+        {
+            "instructions": "bake until golden brown and cheese is melted , 9 12 minutes .",
+            "input": "uncooked_pizza",
+            "actions": "bake",
+            "output": "cooked_pizza"
+        }
+    ],
+    "ingredients": [
+        {
+            "text": "1 can (8 Oz. Size) Tomato Sauce"
+        },
+        {
+            "text": "3 Tablespoons Tomato Paste"
+        },
+        {
+            "text": "2 Tablespoons Fresh Chopped Basil"
+        },
+        {
+            "text": "1 Tablespoon Sugar"
+        },
+        {
+            "text": "2 teaspoons Dried Oregano"
+        },
+        {
+            "text": "8 ounces, weight Shredded White American Cheese"
+        },
+        {
+            "text": "2 ounces, weight Shredded Monterey Jack Cheese"
+        },
+        {
+            "text": "3 drops Liquid Smoke (Optional, I Omitted This)"
+        },
+        {
+            "text": "2 cups All-purpose Flour"
+        },
+        {
+            "text": "2 Tablespoons Cornstarch"
+        },
+        {
+            "text": "2 teaspoons Sugar"
+        },
+        {
+            "text": "1 teaspoon Baking Powder"
+        },
+        {
+            "text": "1 teaspoon Salt"
+        },
+        {
+            "text": "1/2 cups Plus 2 Tablespoons Water"
+        },
+        {
+            "text": "2 Tablespoons Olive Oil"
+        }
+    ],
+    "recipe": [
+        {
+            "text": "Whisk sauce ingredients together."
+        },
+        {
+            "text": "Set aside."
+        },
+        {
+            "text": "Toss cheeses and liquid smoke (if using) together."
+        },
+        {
+            "text": "Set aside."
+        },
+        {
+            "text": "For the dough, whisk dry ingredients together."
+        },
+        {
+            "text": "Stir in water and oil until dough starts to come together."
+        },
+        {
+            "text": "Knead on a lightly floured board 3 or 4 times, until cohesive."
+        },
+        {
+            "text": "Heat oven and pizza stone (lower middle rack) to 475 degrees F. Divide dough in 2 equal pieces."
+        },
+        {
+            "text": "Press the first piece in a small circle, and transfer to parchment paper dusted with flour."
+        },
+        {
+            "text": "Use a rolling pin to stretch dough to a 12-inch circle."
+        },
+        {
+            "text": "Top with half the sauce and half the cheese."
+        },
+        {
+            "text": "Slide the dough on the parchment paper onto the baking stone."
+        },
+        {
+            "text": "Bake until golden brown and cheese is melted, 9-12 minutes."
+        },
+        {
+            "text": "Cool 2 minutes."
+        },
+        {
+            "text": "Repeat with the second round."
+        },
+        {
+            "text": "Makes two 12 pizzas."
+        },
+        {
+            "text": "Note: If you want to make it the way I did, throw on a handful of pepperoni and sliced black olives before baking."
+        },
+        {
+            "text": "Recipe from Cooks Country."
+        }
+    ]
+}

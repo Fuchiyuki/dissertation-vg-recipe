@@ -1,0 +1,103 @@
+{
+    "title": "fig_goat_cheese_pizza_recipe",
+    "id": "d7d66585ac",
+    "table": [
+        {
+            "instructions": "preheat the oven to 450 degrees f",
+            "input": "NA",
+            "action": "preheat",
+            "output": "NA"
+        },
+        {
+            "instructions": "arrange a rack in the middle .",
+            "input": "NA",
+            "action": "arrange",
+            "output": "NA"
+        },
+        {
+            "instructions": "divide the pizza_dough into 2 balls",
+            "input": "pizza dough",
+            "action": "divide",
+            "output": "two balls of pizza dough"
+        },
+        {
+            "instructions": "roll them out to 14 inch thick .",
+            "input": "two balls of pizza dough",
+            "action": "roll",
+            "output": "two rolled out pizza doughs"
+        },
+        {
+            "instructions": "transfer to 2 baking sheets .",
+            "input": "two rolled out pizza doughs",
+            "action": "transfer",
+            "output": "two rolled out pizza doughs"
+        },
+        {
+            "instructions": "bake the first pizza until the underside of the crust is golden brown , about 15 minutes .",
+            "input": "two rolled out pizza doughs",
+            "action": "bake",
+            "output": "pizza with golden brown underside"
+        },
+        {
+            "instructions": "remove from the oven",
+            "input": "pizza with golden brown underside",
+            "action": "remove",
+            "output": "pizza with golden brown underside"
+        },
+        {
+            "instructions": "sprinkle with chopped thyme .",
+            "input": "(pizza with golden brown underside; chopped thyme)",
+            "action": "sprinkle",
+            "output": "pizza with golden brown underside sprinkled with chopped thyme"
+        },
+        {
+            "instructions": "serve while hot .",
+            "input": "pizza with golden brown underside sprinkled with chopped thyme",
+            "action": "serve",
+            "output": "pizza with golden brown underside sprinkled with chopped thyme served hot"
+        }
+    ],
+    "ingredients": [
+        {
+            "text": "Basic Pizza Dough"
+        },
+        {
+            "text": "8 fresh figs, quartered"
+        },
+        {
+            "text": "1/2 cup fresh chevre (goat cheese)"
+        },
+        {
+            "text": "Extra-virgin olive oil"
+        },
+        {
+            "text": "2 tablespoons chopped thyme"
+        }
+    ],
+    "recipe": [
+        {
+            "text": "Preheat the oven to 450 degrees F and arrange a rack in the middle."
+        },
+        {
+            "text": "Divide the pizza dough into 2 balls and roll them out to 1/4 inch thick."
+        },
+        {
+            "text": "Transfer to 2 baking sheets."
+        },
+        {
+            "text": "Distribute the quartered figs and chevre evenly over the pizzas."
+        },
+        {
+            "text": "Bake the first pizza until the underside of the crust is golden brown, about 15 minutes."
+        },
+        {
+            "text": "Remove from the oven and immediately brush the crust with a little extra-virgin olive oil (this gives it a nice sheen and a bit of extra flavor) and sprinkle with chopped thyme."
+        },
+        {
+            "text": "Serve while hot."
+        },
+        {
+            "text": "Repeat with the second pizza."
+        }
+    ]
+}

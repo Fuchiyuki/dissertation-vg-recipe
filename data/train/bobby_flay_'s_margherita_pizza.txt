@@ -1,0 +1,223 @@
+{
+    "title": "bobby_flay_'s_margherita_pizza",
+    "id": "c5fa36c2a7",
+    "table": [
+        {
+            "instructions": "prepare the grill for direct and indirect cooking .",
+            "input": "NA",
+            "action": "prepare",
+            "output": "NA"
+        },
+        {
+            "instructions": "once the grill is hot, stretch and shape the dough into a 12-inch round on a flat surface.",
+            "input": "dough",
+            "action": "stretch",
+            "output": "stretched dough"
+        },
+        {
+            "instructions": "shape the dough into a 12 inch round on a flat surface .",
+            "input": "stretched dough",
+            "action": "shape",
+            "output": "shaped_dough"
+        },
+        {
+            "instructions": "brush the top with oil , salt and pepper",
+            "input": "(oil; salt; pepper)",
+            "action": "brush",
+            "output": "brushed dough with oil, salt and pepper"
+        },
+        {
+            "instructions": "toss on the grill , oil side down .",
+            "input": "brushed dough with oil, salt and pepper",
+            "action": "toss",
+            "output": "brushed dough with oil, salt and pepper"
+        },
+        {
+            "instructions": "cook until the bottom is golden brown , 1 minute .",
+            "input": "brushed dough with oil, salt and pepper",
+            "action": "cook",
+            "output": "partially grilled crust"
+        },
+        {
+            "instructions": "check the bottom of the dough to see if it is getting browned .",
+            "input": "partially grilled crust",
+            "action": "check",
+            "output": "partially grilled crust"
+        },
+        {
+            "instructions": "if it is on one part , but not the other , use a spatula or tongs to rotate the dough 90 degrees",
+            "input": "partially grilled crust",
+            "action": "use",
+            "output": "rotated partially grilled crust"
+        },
+        {
+            "instructions": "cook for another minute .",
+            "input": "rotated partially grilled crust",
+            "action": "cook",
+            "output": "cooking rotated partially grilled crust"
+        },
+        {
+            "instructions": "cover the grill",
+            "input": "cooking rotated partially grilled crust",
+            "action": "cover",
+            "output": "cooking rotated partially grilled crust"
+        },
+        {
+            "instructions": "  it should only take a couple minutes if you have a hot grill .",
+            "input": "NA",
+            "action": "take",
+            "output": "NA"
+        },
+        {
+            "instructions": "grill until golden brown and the dough is just firm , another minute or so .",
+            "input": "cooking rotated partially grilled crust",
+            "action": "grill",
+            "output": "grilled crust"
+        },
+        {
+            "instructions": "remove to a sheet pan .",
+            "input": "grilled crust",
+            "action": "remove",
+            "output": "grilled crust"
+        },
+        {
+            "instructions": "cover the grill",
+            "input": "grilled crust",
+            "action": "cover",
+            "output": "grilled crust"
+        },
+        {
+            "instructions": "drizzle the top with more olive_oil .",
+            "input": "(grilled crust; olive oil)",
+            "action": "drizzle",
+            "output": "oiled grilled crust"
+        },
+        {
+            "instructions": "put the mozzarella and tomato slices on top",
+            "input": "(oiled grilled crust; mozzarella slices; tomato slices)",
+            "action": "put",
+            "output": "grilled crust topped with mozzarella and tomato slices"
+        },
+        {
+            "instructions": "season with salt and pepper .",
+            "input": "(pizza crust topped with mozzarella and tomato slices; salt; pepper)",
+            "action": "season",
+            "output": "seasoned pizza crust topped with mozzarella and tomato slices"
+        },
+        {
+            "instructions": "return the pizza to the grill on the sheet pan",
+            "input": "seasoned pizza crust topped with mozzarella and tomato slices",
+            "action": "return",
+            "output": "seasoned pizza crust topped with mozzarella and tomato slices"
+        },
+        {
+            "instructions": "cover the grill",
+            "input": "seasoned pizza crust topped with mozzarella and tomato slices",
+            "action": "cover",
+            "output": "seasoned pizza crust topped with mozzarella and tomato slices"
+        },
+        {
+            "instructions": "cook for 3 or 4 minutes to melt the cheese .",
+            "input": "seasoned pizza crust topped with mozzarella and tomato slices",
+            "action": "cook",
+            "output": "seasoned pizza crust topped with mozzarella and tomato slices"
+        },
+        {
+            "instructions": "remove from the grill",
+            "input": "seasoned pizza with melted cheese",
+            "action": "remove",
+            "output": "seasoned pizza with melted cheese"
+        },
+        {
+            "instructions": "tear the basil leaves over the top .",
+            "input": "(cooked pizza margherita; basil leaves)",
+            "action": "tear",
+            "output": "cooked pizza margherita with basil leaves"
+        },
+        {
+            "instructions": "slice",
+            "input": "cooked pizza margherita",
+            "action": "slice",
+            "output": "sliced cooked pizza margherita"
+        },
+        {
+            "instructions": "serve immediately .",
+            "input": "sliced cooked pizza margherita",
+            "action": "serve",
+            "output": "sliced cooked pizza margherita ready to serve"
+        }
+    ],
+    "ingredients": [
+        {
+            "text": "1 store-bought pizza dough"
+        },
+        {
+            "text": "Olive oil, for brushing and drizzling"
+        },
+        {
+            "text": "Kosher salt and freshly ground black pepper"
+        },
+        {
+            "text": "1 pound fresh mozzarella, sliced 1/4-inch thick"
+        },
+        {
+            "text": "3 Roma tomatoes, sliced 1/4-inch thick"
+        },
+        {
+            "text": "Handful fresh basil leaves"
+        }
+    ],
+    "recipe": [
+        {
+            "text": "Prepare the grill for direct and indirect cooking."
+        },
+        {
+            "text": "Once the grill is hot (you can hold your hands an inch over the grates for no more than 2 seconds), stretch and shape the dough into a 12-inch round on a flat surface."
+        },
+        {
+            "text": "Brush the top with oil, salt and pepper and toss on the grill, oil-side down."
+        },
+        {
+            "text": "Cook until the bottom is golden brown, 1 minute."
+        },
+        {
+            "text": "Check the bottom of the dough to see if it is getting browned."
+        },
+        {
+            "text": "If it is on one part, but not the other, use a spatula or tongs to rotate the dough 90 degrees and cook for another minute."
+        },
+        {
+            "text": "If it is still not beginning to brown, cover the grill and continue to cook a minute at a time until the bottom has browned evenly."
+        },
+        {
+            "text": "(It should only take a couple minutes if you have a hot grill.)"
+        },
+        {
+            "text": "The top of the pizza dough will also start bubbling up with air pockets."
+        },
+        {
+            "text": "Once the pizza dough has browned on the bottom, flip over and grill until golden brown and the dough is just firm, another minute or so."
+        },
+        {
+            "text": "Remove to a sheet pan."
+        },
+        {
+            "text": "Cover the grill so it retains the heat for the next step."
+        },
+        {
+            "text": "Drizzle the top with more olive oil."
+        },
+        {
+            "text": "Put the mozzarella and tomato slices on top and season with salt and pepper."
+        },
+        {
+            "text": "Return the pizza to the grill on the sheet pan, cover the grill and cook for 3 or 4 minutes to melt the cheese."
+        },
+        {
+            "text": "Remove from the grill and tear the basil leaves over the top."
+        },
+        {
+            "text": "Slice and serve immediately."
+        }
+    ]
+}

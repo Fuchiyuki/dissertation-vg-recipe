@@ -1,0 +1,196 @@
+{
+    "title": "hamburger_pizza",
+    "id": "950a2566bd",
+    "table": [
+        {
+            "instructions": "heat the oven to 425 degrees f .",
+            "input": "NA",
+            "action": "heat",
+            "output": "NA"
+        },
+        {
+            "instructions": "mix the baking_mix and yeast",
+            "input": "(baking_mix; yeast)",
+            "action": "mix",
+            "output": "baking_mix mixed with yeast"
+        },
+        {
+            "instructions": "stir in the hot_water .",
+            "input": "(baking_mix_and_yeast; hot_water)",
+            "action": "stir",
+            "output": "dough"
+        },
+        {
+            "instructions": "turn the dough onto a well floured surface",
+            "input": "dough",
+            "action": "turn",
+            "output": "floured_dough"
+        },
+        {
+            "instructions": "knead until smooth , about 20 times .",
+            "input": "floured_dough",
+            "action": "knead",
+            "output": "kneaded_dough"
+        },
+        {
+            "instructions": "while the dough is resting , cook",
+            "input": "NA",
+            "action": "cook",
+            "output": "NA"
+        },
+        {
+            "instructions": "stir the meat and onion in a large skillet until the onion is tender and the meat is brown .",
+            "input": "(meat; onion)",
+            "action": "stir",
+            "output": "cooked_meat_and_onion"
+        },
+        {
+            "instructions": "drain off the excess fat .",
+            "input": "cooked_meat_and_onion with excess fat",
+            "action": "drain",
+            "output": "drained cooked_meat_and_onion"
+        },
+        {
+            "instructions": "stir in the tomato_sauce , oregano leaves , and pepper",
+            "input": "(cooked_meat_and_onion; tomato_sauce;oregano_leaves;pepper)",
+            "action": "stir",
+            "output": "seasoned meat_sauce"
+        },
+        {
+            "instructions": "set aside .",
+            "input": "seasoned meat_sauce",
+            "action": "set",
+            "output": "seasoned meat_sauce"
+        },
+        {
+            "instructions": "divide the dough in half .",
+            "input": "dough",
+            "action": "divide",
+            "output": "divided dough"
+        },
+        {
+            "instructions": "roll each half on an ungreased baking sheet into a rectangle , 13 x 10 inches or on a pizza\u2012pan 12 inches in diameter .",
+            "input": "divided dough",
+            "action": "roll",
+            "output": "rolled rectangles of dough"
+        },
+        {
+            "instructions": "pinch the edges to make a slight rim .",
+            "input": "rolled rectangles of dough",
+            "action": "pinch",
+            "output": "rolled rectangles of dough with rims"
+        },
+        {
+            "instructions": "spread the meat mixture almost to the edges .",
+            "input": "(rolled rectangles of dough with rims; meat_sauce)",
+            "action": "spread",
+            "output": "meat_sauce spread on pizza base"
+        },
+        {
+            "instructions": "top with the green_pepper and cheeses .",
+            "input": "(green pepper; shredded mozzarella cheese; grated parmesan cheese; pizza base with meat sauce)",
+            "action": "top",
+            "output": "pizza base with meat sauce topped with green pepper, shredded mozzarella cheese and grated parmesan cheese"
+        },
+        {
+            "instructions": "bake until the crust is brown and the filling is hot and bubbly , 15 to 20 minutes .",
+            "input": "uncooked hamburger_pizza",
+            "action": "bake",
+            "output": "baked hamburger_pizza"
+        },
+        {
+            "instructions": "cut into squares or wedges",
+            "input": "baked hamburger_pizza",
+            "action": "cut",
+            "output": "cut baked hamburger_pizza into square"
+        },
+        {
+            "instructions": "serve .",
+            "input": "cut baked hamburger_pizza",
+            "action": "serve",
+            "output": "served baked hamburger_pizza slices"
+        }
+    ],
+    "ingredients": [
+        {
+            "text": "2 12 cups Bisquick baking mix"
+        },
+        {
+            "text": "1 package active dry yeast"
+        },
+        {
+            "text": "23 cup water, Hot"
+        },
+        {
+            "text": "1 lb lean ground beef"
+        },
+        {
+            "text": "12 cup onion, Chopped, 1 Md"
+        },
+        {
+            "text": "1 (15 ounce) can tomato sauce"
+        },
+        {
+            "text": "2 teaspoons oregano leaves"
+        },
+        {
+            "text": "14 teaspoon pepper"
+        },
+        {
+            "text": "12 cup green pepper, Chopped (optional)"
+        },
+        {
+            "text": "2 cups mozzarella cheese, Shredded"
+        },
+        {
+            "text": "1 cup parmesan cheese, Grated"
+        }
+    ],
+    "recipe": [
+        {
+            "text": "Heat the oven to 425 degrees F."
+        },
+        {
+            "text": "Mix the baking mix and yeast and stir in the hot water."
+        },
+        {
+            "text": "Turn the dough onto a well-floured surface and knead until smooth, about 20 times."
+        },
+        {
+            "text": "Let the dough rest a few minutes."
+        },
+        {
+            "text": "While the dough is resting, cook and stir the meat and onion in a large skillet until the onion is tender and the meat is brown."
+        },
+        {
+            "text": "Drain off the excess fat."
+        },
+        {
+            "text": "Stir in the tomato sauce, oregano leaves, and pepper and set aside."
+        },
+        {
+            "text": "Divide the dough in half."
+        },
+        {
+            "text": "Roll each half on an ungreased baking sheet into a rectangle, 13 X 10-inches or on a pizza pan 12-inches in diameter."
+        },
+        {
+            "text": "Pinch the edges to make a slight rim."
+        },
+        {
+            "text": "Spread the meat mixture almost to the edges."
+        },
+        {
+            "text": "Top with the green pepper and cheeses."
+        },
+        {
+            "text": "Bake until the crust is brown and the filling is hot and bubbly, 15 to 20 minutes."
+        },
+        {
+            "text": "Cut into squares or wedges and serve."
+        },
+        {
+            "text": "NOTE: If desired, you can use shredded Cheddar Cheese for the Mozzarella in the above recipe."
+        }
+    ]
+}

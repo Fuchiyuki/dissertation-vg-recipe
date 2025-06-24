@@ -1,0 +1,91 @@
+{
+    "title": "crockpot_pizza_casserole",
+    "id": "9558b49267",
+    "table": [
+        {
+            "instructions": "prepare macaroni according to package directions ;",
+            "input": "macaroni",
+            "action": "prepare",
+            "output": "cooked_macaroni"
+        },
+        {
+            "instructions": "drain .",
+            "input": "cooked_macaroni",
+            "action": "drain",
+            "output": "drained cooked_macaroni"
+        },
+        {
+            "instructions": "meanwhile brown ground_beef and onion in a large skillet , stirring until the beef is crumbly and browned ;",
+            "input": "ground beef; onion",
+            "action": "brown",
+            "output": "browned ground beef and onion"
+        },
+        {
+            "instructions": "drain .",
+            "input": "browned ground beef and onion",
+            "action": "drain",
+            "output": "browned ground beef and onion without excess fat"
+        },
+        {
+            "instructions": "stir in pizza_sauce , drained macaroni , pepperoni and mushrooms .",
+            "input": "browned ground beef and onion without excess fat; pizza sauce; pepperoni; mushrooms; drained macaroni",
+            "action": "stir",
+            "output": "ground beef, pepperoni, mushrooms, pizza sauce and macaroni mixture"
+        },
+        {
+            "instructions": "place in a crockpot or slow\u2012cooker ;",
+            "input": "ground beef, pepperoni, mushrooms, pizza sauce and macaroni mixture",
+            "action": "place",
+            "output": "ground beef, pepperoni, mushrooms, pizza sauce and macaroni mixture"
+        },
+        {
+            "instructions": "cook on low 3 hours .",
+            "input": "ground beef, pepperoni, mushrooms, pizza sauce and macaroni mixture",
+            "action": "cook",
+            "output": "cooked crockpot_pizza_casserole"
+        },
+        {
+            "instructions": "serve hot .",
+            "input": "cooked crockpot_pizza_casserole",
+            "action": "serve",
+            "output": "served cooked crockpot_pizza_casserole"
+        }
+    ],
+    "ingredients": [
+        {
+            "text": "8 ounces macaroni noodles"
+        },
+        {
+            "text": "1 lb lean ground beef"
+        },
+        {
+            "text": "1 onion, peeled and chopped"
+        },
+        {
+            "text": "2 (15 ounce) cans pizza sauce"
+        },
+        {
+            "text": "8 ounces pepperoni, sliced"
+        },
+        {
+            "text": "4 ounces mushrooms, sliced"
+        }
+    ],
+    "recipe": [
+        {
+            "text": "Prepare macaroni according to package directions; drain."
+        },
+        {
+            "text": "Meanwhile brown ground beef and onion in a large skillet, stirring until the beef is crumbly and browned; drain."
+        },
+        {
+            "text": "Stir in pizza sauce, drained macaroni, pepperoni and mushrooms."
+        },
+        {
+            "text": "Place in a crockpot or slow cooker; cook on low 3 hours."
+        },
+        {
+            "text": "Serve hot."
+        }
+    ]
+}

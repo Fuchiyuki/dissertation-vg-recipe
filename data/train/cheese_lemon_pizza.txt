@@ -1,0 +1,187 @@
+{
+    "title": "cheese_lemon_pizza",
+    "id": "5cb1fcc399",
+    "table": [
+        {
+            "instructions": "preheat oven to 425f .",
+            "input": "NA",
+            "action": "preheat",
+            "output": "NA"
+        },
+        {
+            "instructions": "grate the peel from 1 lemon .",
+            "input": "lemon",
+            "action": "grate",
+            "output": "grated lemon peel from one lemon"
+        },
+        {
+            "instructions": "peel",
+            "input": "lemons",
+            "action": "peel",
+            "output": "peeled lemons"
+        },
+        {
+            "instructions": "thinly slice the other 3",
+            "input": "peeled lemons",
+            "action": "slice",
+            "output": "sliced peeled lemons"
+        },
+        {
+            "instructions": "remove seeds .",
+            "input": "sliced peeled lemons",
+            "action": "remove",
+            "output": "sliced peeled lemons without seeds"
+        },
+        {
+            "instructions": "set aside .",
+            "input": "sliced peeled lemons without seeds",
+            "action": "set",
+            "output": "sliced peeled lemons without seeds"
+        },
+        {
+            "instructions": "on a floured surface , pat the dough out , forming a thin 10 12 inch round crust .",
+            "input": "dough",
+            "action": "pat",
+            "output": "raw pizza crust"
+        },
+        {
+            "instructions": "brush with oil",
+            "input": "(raw pizza crust; olive oil)",
+            "action": "brush",
+            "output": "raw pizza crust brushed with olive oil"
+        },
+        {
+            "instructions": "sprinkle with the grated_lemon_peel .",
+            "input": "(raw pizza crust brushed with olive oil; grated_lemon_peel)",
+            "action": "sprinkle",
+            "output": "grated_lemon_peel sprinkled over raw pizza crust brushed with olive oil"
+        },
+        {
+            "instructions": "in a large skillet , heat enough oil to coat the pan over medium heat .",
+            "input": "oil",
+            "action": "heat",
+            "output": "heated oil"
+        },
+        {
+            "instructions": "add lemon_slice , garlic , jalapenos and bell_pepper .",
+            "input": "(heated oil; lemon slices; garlic; jalapenos; bell pepper)",
+            "action": "add",
+            "output": "lemon_slice , garlic , jalapenos and bell_pepper added to heated oil"
+        },
+        {
+            "instructions": "saute for 2 minutes .",
+            "input": "cooking lemon mixture",
+            "action": "saute",
+            "output": "sauteed lemon mixture"
+        },
+        {
+            "instructions": "spread evenly over the pizza .",
+            "input": "(sauteed lemon mixture; raw pizza crust with grated lemon peel)",
+            "action": "spread",
+            "output": "sauteed lemon mixture spread over raw pizza crust with grated lemon peel"
+        },
+        {
+            "instructions": "spread cheese evenly over the pizza",
+            "input": "(cheese; raw pizza crust with grated lemon peel and lemon mixture)",
+            "action": "spread",
+            "output": "cheese spread on raw pizza crust with grated lemon peel and lemon mixture"
+        },
+        {
+            "instructions": "then sprinkle with parsley .",
+            "input": "(parsley; raw cheese_lemon_pizza)",
+            "action": "sprinkle",
+            "output": "parsley sprinkled on raw cheese_lemon_pizza"
+        },
+        {
+            "instructions": "bake for about 20 minutes or until the crust is crisp and the cheese bubbles .",
+            "input": "uncooked cheese_lemon_pizza",
+            "action": "bake",
+            "output": "baked cheese_lemon_pizza"
+        },
+        {
+            "instructions": "slice",
+            "input": "baked cheese_lemon_pizza",
+            "action": "slice",
+            "output": "sliced baked cheese_lemon_pizza"
+        },
+        {
+            "instructions": "serve .",
+            "input": "sliced baked cheese_lemon_pizza",
+            "action": "serve",
+            "output": "sliced baked cheese_lemon_pizza ready to serve"
+        }
+    ],
+    "ingredients": [
+        {
+            "text": "4 lemons"
+        },
+        {
+            "text": "pizza dough (for 1 crust, I hope you make your own)"
+        },
+        {
+            "text": "olive oil"
+        },
+        {
+            "text": "4 teaspoons garlic, minced"
+        },
+        {
+            "text": "2 jalapenos, thinly sliced"
+        },
+        {
+            "text": "1 red bell pepper, thinly sliced (use the color you have)"
+        },
+        {
+            "text": "23 cup parmesan cheese, grated"
+        },
+        {
+            "text": "23 cup romano cheese, grated"
+        },
+        {
+            "text": "23 cup asiago cheese, grated"
+        },
+        {
+            "text": "1 cup parsley, fresh chopped"
+        }
+    ],
+    "recipe": [
+        {
+            "text": "Preheat oven to 425F."
+        },
+        {
+            "text": "Grate the peel from 1 lemon."
+        },
+        {
+            "text": "Peel and thinly slice the other 3 and remove seeds."
+        },
+        {
+            "text": "Set aside."
+        },
+        {
+            "text": "On a floured surface, pat the dough out, forming a thin 10-12 inch round crust."
+        },
+        {
+            "text": "Brush with oil and sprinkle with the grated lemon peel."
+        },
+        {
+            "text": "In a large skillet, heat enough oil to coat the pan over medium heat."
+        },
+        {
+            "text": "Add lemon slices, garlic, jalapenos and bell pepper."
+        },
+        {
+            "text": "Saute for 2 minutes."
+        },
+        {
+            "text": "Spread evenly over the pizza."
+        },
+        {
+            "text": "Spread cheese evenly over the pizza and then sprinkle with parsley."
+        },
+        {
+            "text": "Bake for about 20 minutes or until the crust is crisp and the cheese bubbles."
+        },
+        {
+            "text": "Slice and serve."
+        }
+    ]
+}

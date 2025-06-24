@@ -1,0 +1,139 @@
+{
+    "title": "cajun_bbq_chicken_pizza",
+    "id": "9aa2c0812c",
+    "table": [
+        {
+            "instructions": "put onions , tomato sauce, tomato , brown_sugar , garlic , ginger , and all the seasonings into food processor ;",
+            "input": "(onions; tomato sauce; tomato; brown_sugar; garlic; ginger; seasonings)",
+            "action": "put",
+            "output": "tomato mixture"
+        },
+        {
+            "instructions": "puree for about 15 seconds until smooth .",
+            "input": "tomato mixture",
+            "action": "puree",
+            "output": "pureed tomato mixture"
+        },
+        {
+            "instructions": "pour sauce into pan",
+            "input": "pureed tomato mixture",
+            "action": "pour",
+            "output": "poured pureed tomato mixture in pan"
+        },
+        {
+            "instructions": "cook for 30 minutes on medium heat .",
+            "input": "poured pureed tomato mixture in pan",
+            "action": "cook",
+            "output": "cooked tomato sauce"
+        },
+        {
+            "instructions": "spread half of the sauce on the crust",
+            "input": "(half of cooked tomato sauce; pizza crust )",
+            "action": "spread",
+            "output": "half of cooked tomato sauce spread on pizza crust"
+        },
+        {
+            "instructions": "lay zucchini slices and chicken .",
+            "input": "(zucchini slice; chicken; pizza crust with half of cooked tomato sauce)",
+            "action": "lay",
+            "output": "pizza crust with half of cooked tomato sauce, zucchini slices and chicken"
+        },
+        {
+            "instructions": "sprinkle sausage and bell_pepper on top",
+            "input": "(sausage; bell pepper; pizza crust with half of cooked tomato sauce, zucchini slices and chicken)",
+            "action": "sprinkle",
+            "output": "pizza crust with half of cooked tomato sauce, zucchini slices, chicken, sausage and bell pepper"
+        },
+        {
+            "instructions": "then spoon on more sauce",
+            "input": "(remaining cooked tomato sauce; pizza crust with half of cooked tomato sauce, zucchini slices, chicken, sausage and bell pepper)",
+            "action": "spoon",
+            "output": "pizza crust with half of cooked tomato sauce, zucchini slices, chicken, sausage, bell pepper, and remaining cooked tomato sauce"
+        },
+        {
+            "instructions": "cover with cheese .",
+            "input": "(cheese; pizza crust with half of cooked tomato sauce, zucchini slices, chicken, sausage, bell pepper, and remaining cooked tomato sauce)",
+            "action": "cover",
+            "output": "pizza crust with half of cooked tomato sauce, zucchini slices, chicken, sausage, bell pepper, remaining cooked tomato sauce, and cheese"
+        },
+        {
+            "instructions": "bake about 15 minutes at 350f .",
+            "input": "uncooked cajun chicken pizza",
+            "action": "bake",
+            "output": "baked cajun chicken pizza"
+        }
+    ],
+    "ingredients": [
+        {
+            "text": "1 large Boboli pizza crusts or 1 large any pre-made pizza dough, you like"
+        },
+        {
+            "text": "12 lb sausage, cooked and crumbled (you can use a sausage meat substitute like gimme lean)"
+        },
+        {
+            "text": "2 chicken breasts, cooked and cut into strips"
+        },
+        {
+            "text": "1 small zucchini, about 6 oz. sliced thin"
+        },
+        {
+            "text": "1 red bell pepper, diced"
+        },
+        {
+            "text": "12 cup chopped onion"
+        },
+        {
+            "text": "2 cloves chopped garlic"
+        },
+        {
+            "text": "1 (4 ounce) can tomato sauce"
+        },
+        {
+            "text": "1 (15 ounce) can diced tomatoes"
+        },
+        {
+            "text": "1 tablespoon brown mustard"
+        },
+        {
+            "text": "1 tablespoon chopped fresh ginger"
+        },
+        {
+            "text": "2 teaspoons brown sugar"
+        },
+        {
+            "text": "2 teaspoons Worcestershire sauce"
+        },
+        {
+            "text": "2 teaspoons cumin"
+        },
+        {
+            "text": "2 teaspoons Emeril's Original Essence or 2 teaspoons other cajun seasoning"
+        },
+        {
+            "text": "12 teaspoon oregano"
+        },
+        {
+            "text": "1 dash hot sauce, to taste"
+        },
+        {
+            "text": "8 ounces grated cheese (I use mozzarella)"
+        }
+    ],
+    "recipe": [
+        {
+            "text": "Put onions, tomato sauce, tomatoes, brown sugar, garlic, ginger, and all the seasonings into food processor; puree for about 15 seconds until smooth."
+        },
+        {
+            "text": "Pour sauce into pan and cook for 30 minutes on medium heat."
+        },
+        {
+            "text": "Spread half of the sauce on the crust then lay zucchini slices and chicken."
+        },
+        {
+            "text": "Sprinkle sausage and bell peppers on top and then spoon on more sauce and cover with cheese."
+        },
+        {
+            "text": "Bake about 15 minutes at 350F."
+        }
+    ]
+}

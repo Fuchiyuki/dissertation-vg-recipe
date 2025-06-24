@@ -1,0 +1,121 @@
+{
+    "title": "hickory_steak_pizza",
+    "id": "1dde32a030",
+    "table": [
+        {
+            "instructions": "cook steak in large skillet on medium high heat 10 to 12 min .",
+            "input": "steak",
+            "action": "cook",
+            "output": "cooked_steak"
+        },
+        {
+            "instructions": "remove from heat .",
+            "input": "cooked_steak",
+            "action": "remove",
+            "output": "cooked steak"
+        },
+        {
+            "instructions": "cut steak across the grain into thin strips ;",
+            "input": "cooked_steak",
+            "action": "cut",
+            "output": "cooked steak strips"
+        },
+        {
+            "instructions": "place in medium bowl .",
+            "input": "cooked steak strips",
+            "action": "place",
+            "output": "cooked steak strips"
+        },
+        {
+            "instructions": "add beans and remaining steak_sauce ;",
+            "input": "(cooked steak strips; beans; remaining steak sauce)",
+            "action": "add",
+            "output": "cooked steak strips with beans and steak sauce"
+        },
+        {
+            "instructions": "mix lightly .",
+            "input": "cooked steak strips with beans and steak sauce",
+            "action": "mix",
+            "output": "cooked steak strips with beans and steak sauce mixture"
+        },
+        {
+            "instructions": "sprinkle 1 cup cheese over pizza_crust ;",
+            "input": "(pizza crust; cheese)",
+            "action": "sprinkle",
+            "output": "cheese sprinkled on pizza crust"
+        },
+        {
+            "instructions": "top with meat , onions , remaining cheese , tomatoes and olives .",
+            "input": "(pizza crust with cheese; onions; remaining cheese; tomatoes; olives)",
+            "action": "top",
+            "output": "pizza crust with cheese, cooked steak strips with beans and steak sauce mixture, onions , remaining cheese , tomatoes and olives"
+        },
+        {
+            "instructions": "bake 10 min .",
+            "input": "uncooked steak pizza",
+            "action": "bake",
+            "output": "baked steak pizza"
+        }
+    ],
+    "ingredients": [
+        {
+            "text": "1 lb. beef top round steak King Sooper's 1 lb For $3.77 thru 02/09"
+        },
+        {
+            "text": "2/3 cup A.1. Sweet Hickory Sauce, divided"
+        },
+        {
+            "text": "1/2 cup rinsed canned red kidney beans"
+        },
+        {
+            "text": "1 pkg. (8 oz.) KRAFT Shredded Colby & Monterey Jack Cheeses, divided"
+        },
+        {
+            "text": "1 ready-to-use baked pizza crust (12 inch)"
+        },
+        {
+            "text": "1/2 cup sliced red onions"
+        },
+        {
+            "text": "1 cup chopped tomatoes"
+        },
+        {
+            "text": "1/3 cup sliced black olives"
+        }
+    ],
+    "recipe": [
+        {
+            "text": "Cook steak in large skillet on medium-high heat 10 to 12 min."
+        },
+        {
+            "text": "or until medium doneness (160 degrees F), turning after 6 min."
+        },
+        {
+            "text": "and brushing with 2 Tbsp."
+        },
+        {
+            "text": "steak sauce for the last few minutes."
+        },
+        {
+            "text": "Remove from heat."
+        },
+        {
+            "text": "Let stand 5 min."
+        },
+        {
+            "text": "Cut steak across the grain into thin strips; place in medium bowl."
+        },
+        {
+            "text": "Add beans and remaining steak sauce; mix lightly."
+        },
+        {
+            "text": "Sprinkle 1 cup cheese over pizza crust; top with meat, onions, remaining cheese, tomatoes and olives."
+        },
+        {
+            "text": "Bake 10 min."
+        },
+        {
+            "text": "or until cheese is melted and edge of crust is golden brown."
+        }
+    ]
+}

@@ -1,0 +1,85 @@
+{
+    "title": "impossibly_easy_pizza_bake",
+    "id": "af473ce023",
+    "table": [
+        {
+            "instructions": "heat oven to 375 degrees f .",
+            "input": "NA",
+            "action": "heat",
+            "output": "NA"
+        },
+        {
+            "instructions": "spray 13x9 inch 3 quart glass , baking dish with cooking_spray .",
+            "input": "NA",
+            "action": "spray",
+            "output": "NA"
+        },
+        {
+            "instructions": "in medium bowl , stir bisquick mix and milk until soft dough forms .",
+            "input": "(Bisquick mix; milk)",
+            "action": "stir",
+            "output": "soft dough"
+        },
+        {
+            "instructions": "drizzle about 1 cup pizza_sauce over dough .",
+            "input": "(Pizza sauce; soft dough)",
+            "action": "drizzle",
+            "output": "Sauce covered soft dough"
+        },
+        {
+            "instructions": "arrange half of the pepperoni_slice evenly over sauce .",
+            "input": "(Pepperoni slices; soft dough with pizza sauce)",
+            "action": "arrange",
+            "output": "pepperoni arranged over soft dough with pizza sauce"
+        },
+        {
+            "instructions": "top with 1 cup of the cheese .",
+            "input": "(Cheese; soft dough with pizza sauce and pepperoni)",
+            "action": "top",
+            "output": "soft dough with pizza sauce, pepperoni and cheese"
+        }
+    ],
+    "ingredients": [
+        {
+            "text": "3 1/3 cups Original Bisquick mix"
+        },
+        {
+            "text": "1 cup milk"
+        },
+        {
+            "text": "1 (14 ounce) jar pizza sauce"
+        },
+        {
+            "text": "1 (7 ounce) package sliced pepperoni"
+        },
+        {
+            "text": "1 (8 ounce) package shredded mozzarella cheese"
+        }
+    ],
+    "recipe": [
+        {
+            "text": "Heat oven to 375 degrees F. Spray 13x9-inch (3-quart) glass baking dish with cooking spray."
+        },
+        {
+            "text": "In medium bowl, stir Bisquick mix and milk until soft dough forms."
+        },
+        {
+            "text": "Drop half of dough by spoonfuls* evenly in bottom of baking dish (dough will not completely cover bottom of dish)."
+        },
+        {
+            "text": "Drizzle about 1 cup pizza sauce over dough."
+        },
+        {
+            "text": "Arrange half of the pepperoni slices evenly over sauce."
+        },
+        {
+            "text": "Top with 1 cup of the cheese."
+        },
+        {
+            "text": "Repeat layers with remaining dough, pizza sauce, pepperoni and cheese."
+        },
+        {
+            "text": "Bake 25 to 30 minutes or until golden brown, biscuits in center are cooked and cheese in center is bubbly."
+        }
+    ]
+}

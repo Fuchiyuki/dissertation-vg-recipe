@@ -1,0 +1,187 @@
+{
+    "title": "spaghetti_pizza_i",
+    "id": "346caa1369",
+    "table": [
+        {
+            "instructions": "preheat oven to 425 degrees f 220 degrees c.",
+            "input": "NA",
+            "actions": "preheat",
+            "output": "NA"
+        },
+        {
+            "instructions": "grease a 9x13 inch , baking dish .",
+            "input": "NA",
+            "actions": "grease",
+            "output": "NA"
+        },
+        {
+            "instructions": "add spaghetti",
+            "input": "spaghetti",
+            "actions": "add",
+            "output": "added_spaghetti"
+        },
+        {
+            "instructions": "cook for 8 to 10 minutes or until al dente ;",
+            "input": "spaghetti",
+            "actions": "cook",
+            "output": "cooked_spaghetti"
+        },
+        {
+            "instructions": "drain",
+            "input": "cooked_spaghetti",
+            "actions": "drain",
+            "output": "drained cooked_spaghetti"
+        },
+        {
+            "instructions": "rinse with cold_water .",
+            "input": "(cooked_spaghetti; cold water)",
+            "actions": "rinse",
+            "output": "cooled cooked_spaghetti"
+        },
+        {
+            "instructions": "combine egg , milk , 12 cup of the mozzarella_cheese , salt , and garlic_salt in a large bowl .",
+            "input": "(egg; milk; mozzarella_cheese; salt; garlic salt)",
+            "actions": "combine",
+            "output": "combined egg and cheese mixture"
+        },
+        {
+            "instructions": "stir in cooked spaghetti ;",
+            "input": "(cooked_spaghetti; combined egg and cheese mixture)",
+            "actions": "stir",
+            "output": "combined spaghetti and egg and cheese_sauce"
+        },
+        {
+            "instructions": "mix well .",
+            "input": "spaghetti and egg and cheese_sauce",
+            "actions": "mix",
+            "output": "spaghetti and egg and cheese_sauce"
+        },
+        {
+            "instructions": "spread mixture into prepared baking dish .",
+            "input": "spaghetti and egg and cheese_sauce",
+            "actions": "spread",
+            "output": "spread spaghetti and egg and cheese_sauce"
+        },
+        {
+            "instructions": "bake in preheated oven for 15 minutes .",
+            "input": "spaghetti and egg and cheese_sauce",
+            "actions": "bake",
+            "output": "baked spaghetti and egg and cheese_sauce"
+        },
+        {
+            "instructions": "remove from oven",
+            "input": "baked spaghetti and egg and cheese_sauce",
+            "actions": "remove",
+            "output": "baked spaghetti and egg and cheese_sauce"
+        },
+        {
+            "instructions": "reduce temperature to 350 degrees f 175 degrees c.",
+            "input": "baked spaghetti and egg and cheese_sauce",
+            "actions": "reduce",
+            "output": "baked spaghetti and egg and cheese_sauce"
+        },
+        {
+            "instructions": "spread sauce over spaghetti .",
+            "input": "(spaghetti; sauce)",
+            "actions": "spread",
+            "output": "sauce spread on spaghetti"
+        },
+        {
+            "instructions": "sprinkle with oregano , basil , and the remaining 1 12 cups mozzarella .",
+            "input": "(baked spaghetti; oregano; basil; remaining mozzarella_cheese)",
+            "actions": "sprinkle",
+            "output": "baked spaghetti topped with oregano, basil and mozzarella_cheese"
+        },
+        {
+            "instructions": "top with pepperoni",
+            "input": "(baked seasoned spaghetti; pepperoni)",
+            "actions": "top",
+            "output": "baked seasoned spaghetti topped with pepperoni"
+        },
+        {
+            "instructions": "return to oven ,",
+            "input": "baked seasoned spaghetti topped with pepperoni",
+            "actions": "return",
+            "output": "twice baked seasoned spaghetti with pepperoni"
+        },
+        {
+            "instructions": "bake until cheese is bubbly and beginning to brown , about 30 minutes more .",
+            "input": "N/A",
+            "actions": "bake",
+            "output": "twice baked seasoned spaghetti topped with pepperoni"
+        }
+    ],
+    "ingredients": [
+        {
+            "text": "1 (8 ounce) package spaghetti, broken into 2-inch pieces"
+        },
+        {
+            "text": "1 egg, beaten"
+        },
+        {
+            "text": "1/4 cup milk"
+        },
+        {
+            "text": "2 cups shredded mozzarella cheese, divided"
+        },
+        {
+            "text": "1/4 teaspoon salt"
+        },
+        {
+            "text": "1/4 teaspoon garlic salt"
+        },
+        {
+            "text": "1 (16 ounce) jar spaghetti sauce"
+        },
+        {
+            "text": "1 teaspoon dried oregano"
+        },
+        {
+            "text": "1/4 teaspoon dried basil"
+        },
+        {
+            "text": "4 ounces pepperoni sausage, sliced"
+        }
+    ],
+    "recipe": [
+        {
+            "text": "Preheat oven to 425 degrees F (220 degrees C)."
+        },
+        {
+            "text": "Grease a 9x13-inch baking dish."
+        },
+        {
+            "text": "Bring a large pot of lightly salted water to a boil."
+        },
+        {
+            "text": "Add spaghetti and cook for 8 to 10 minutes or until al dente; drain and rinse with cold water."
+        },
+        {
+            "text": "Combine egg, milk, 1/2 cup of the mozzarella cheese, salt, and garlic salt in a large bowl."
+        },
+        {
+            "text": "Stir in cooked spaghetti; mix well."
+        },
+        {
+            "text": "Spread mixture into prepared baking dish."
+        },
+        {
+            "text": "Bake in preheated oven for 15 minutes."
+        },
+        {
+            "text": "Remove from oven and reduce temperature to 350 degrees F (175 degrees C)."
+        },
+        {
+            "text": "Spread sauce over spaghetti."
+        },
+        {
+            "text": "Sprinkle with oregano, basil, and the remaining 1 1/2 cups mozzarella."
+        },
+        {
+            "text": "Top with pepperoni, return to oven, and bake until cheese is bubbly and beginning to brown, about 30 minutes more."
+        },
+        {
+            "text": "Let stand 5 minutes before cutting."
+        }
+    ]
+}

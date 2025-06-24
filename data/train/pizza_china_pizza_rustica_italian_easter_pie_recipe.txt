@@ -1,0 +1,211 @@
+{
+    "title": "pizza_china_pizza_rustica_italian_easter_pie_recipe",
+    "id": "a7a4501332",
+    "table": [
+        {
+            "instructions": "mix all minced ingredients in large bowl .",
+            "input": "minced ingredients",
+            "action": "mix",
+            "output": "mixed minced ingredients"
+        },
+        {
+            "instructions": "place uncooked large_egg and ricotta_cheese in blender container",
+            "input": "(uncooked large_egg; ricotta_cheese)",
+            "action": "place",
+            "output": "egg and ricotta mixture"
+        },
+        {
+            "instructions": "mix on medium speed for about 1 minute .",
+            "input": "egg and ricotta mixture",
+            "action": "mix",
+            "output": "egg and ricotta mixture"
+        },
+        {
+            "instructions": "pour into large bowl",
+            "input": "(egg and ricotta mixture; mixed minced ingredients)",
+            "action": "pour",
+            "output": "egg and ricotta mixture poured over minced ingredients"
+        },
+        {
+            "instructions": "combine everything well .",
+            "input": "egg and ricotta mixture poured over minced ingredients",
+            "action": "combine",
+            "output": "filling mixture"
+        },
+        {
+            "instructions": "divide dough in half",
+            "input": "dough",
+            "action": "divide",
+            "output": "halved dough"
+        },
+        {
+            "instructions": "roll",
+            "input": "halved dough",
+            "action": "roll",
+            "output": "rolled dough"
+        },
+        {
+            "instructions": "beat stretch if necessary to fit large pie pan or possibly 15 inch , pizza\u2012pan .",
+            "input": "rolled dough",
+            "action": "beat",
+            "output": "stretched dough"
+        },
+        {
+            "instructions": "place one circle on bottom of pan .",
+            "input": "stretched dough",
+            "action": "place",
+            "output": "uncooked circle of dough"
+        },
+        {
+            "instructions": "top with the filling , pressing out all air pockets .",
+            "input": "(uncooked circle of dough; filling mixture)",
+            "action": "top",
+            "output": "uncooked circle of dough topped with filling mixture"
+        },
+        {
+            "instructions": "top with remaining dough .",
+            "input": "(pizza pie with filling; uncooked circle of dough)",
+            "action": "top",
+            "output": "pizza pie with filling topped with circle of dough"
+        },
+        {
+            "instructions": "trim around pan with knife leaving about 1 inch extra all around .",
+            "input": "uncooked pie",
+            "action": "trim",
+            "output": "trimmed uncooked pie"
+        },
+        {
+            "instructions": "press edges to seal",
+            "input": "trimmed uncooked pie",
+            "action": "press",
+            "output": "trimmed uncooked pie with pressed edges"
+        },
+        {
+            "instructions": "tuck sealed edge in all around pan .",
+            "input": "trimmed uncooked pie with pressed edges",
+            "action": "tuck",
+            "output": "trimmed uncooked pie with pressed and tucked edges"
+        },
+        {
+            "instructions": "pat back into pan , if mis shapen .",
+            "input": "uncooked pie with sealed edges",
+            "action": "pat",
+            "output": "uncooked pie with sealed edges"
+        },
+        {
+            "instructions": "stick top with fork several times to make air holes .",
+            "input": "uncooked pie with sealed edges",
+            "action": "stick",
+            "output": "uncooked pie with sealed edges and pricked top"
+        },
+        {
+            "instructions": "bake at 400 degrees for 20 min ,",
+            "input": "uncooked pizza pie",
+            "action": "bake",
+            "output": "baking pizza pie"
+        },
+        {
+            "instructions": "reduce oven temperature to 350 degrees",
+            "input": "NA",
+            "action": "reduce",
+            "output": "NA"
+        },
+        {
+            "instructions": "bake an additional 30 min .",
+            "input": "baking pizza pie",
+            "action": "bake",
+            "output": "baking pizza pie"
+        },
+        {
+            "instructions": ", brush with beaten egg_yolk .",
+            "input": "(egg_yolk; baking pizza pie)",
+            "action": "brush",
+            "output": "baking pizza pie brushed with egg_yolk"
+        },
+        {
+            "instructions": "place foil or possibly pan on rack underneath to save oven from drips as they usually do leak .",
+            "input": "NA",
+            "action": "place",
+            "output": "NA"
+        }
+    ],
+    "ingredients": [
+        {
+            "text": "2 c. cooked, smoked ham, cubed"
+        },
+        {
+            "text": "2 c. cooked Italian sausage, sliced"
+        },
+        {
+            "text": "1 c. Mozzarella cheese, cubed or possibly shredded"
+        },
+        {
+            "text": "1/2 c. minced parsley"
+        },
+        {
+            "text": "4 hard boiled Large eggs, minced"
+        },
+        {
+            "text": "1 c. Italian basket cheese, cubed (optional)"
+        },
+        {
+            "text": "1 c. Ricotta cheese"
+        },
+        {
+            "text": "3 Large eggs, uncooked"
+        },
+        {
+            "text": "Black pepper to taste"
+        }
+    ],
+    "recipe": [
+        {
+            "text": "Mix all minced ingredients in large bowl."
+        },
+        {
+            "text": "Place uncooked Large eggs and Ricotta cheese in blender container and mix on medium speed for about 1 minute."
+        },
+        {
+            "text": "Pour into large bowl and combine everything well."
+        },
+        {
+            "text": "Divide dough in half and roll (and beat/stretch if necessary) to fit large pie pan or possibly 15 inch pizza pan."
+        },
+        {
+            "text": "Place one circle on bottom of pan."
+        },
+        {
+            "text": "Top with the filling, pressing out all air pockets."
+        },
+        {
+            "text": "(Pie will look too full.)"
+        },
+        {
+            "text": "Top with remaining dough."
+        },
+        {
+            "text": "Trim around pan with knife leaving about 1 inch extra all around."
+        },
+        {
+            "text": "Press edges to seal and tuck sealed edge in all around pan."
+        },
+        {
+            "text": "(Do not be afraid to use fingers.)"
+        },
+        {
+            "text": "Pat back into pan, if mis-shapen."
+        },
+        {
+            "text": "Stick top with fork several times to make air holes."
+        },
+        {
+            "text": "Bake at 400 degrees for 20 min, then reduce oven temperature to 350 degrees and bake an additional 30 min."
+        },
+        {
+            "text": "If desired the top shiny, brush with beaten egg yolk."
+        },
+        {
+            "text": "Place foil or possibly pan on rack underneath to save oven from drips as they usually do leak."
+        }
+    ]
+}

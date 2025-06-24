@@ -1,0 +1,73 @@
+{
+    "title": "bolognese_sauce_pizza",
+    "id": "4873baef4d",
+    "table": [
+        {
+            "instructions": "make up pizza mix .",
+            "input": "pizza mix ingredients",
+            "action": "make",
+            "output": "pizza dough"
+        },
+        {
+            "instructions": "spread bolognese over the top .",
+            "input": "(pizza ough; bolognese sauce)",
+            "action": "spread",
+            "output": "bolognese sauce spread on pizza crust"
+        },
+        {
+            "instructions": "place cheese on top .",
+            "input": "(pizza crust with bolognese sauce; cheese)",
+            "action": "place",
+            "output": "uncooked bolognese sauce pizza"
+        },
+        {
+            "instructions": "sprinkle oregano if desired .",
+            "input": "(uncooked bolognese sauce pizza; optional oregano)",
+            "action": "sprinkle",
+            "output": "optional oregano sprinkled on uncooked bolognese sauce pizza"
+        },
+        {
+            "instructions": "bake in a very hot oven for about 1015 mins .",
+            "input": "uncooked bolognese sauce pizza",
+            "action": "bake",
+            "output": "baked bolognese sauce pizza"
+        }
+    ],
+    "ingredients": [
+        {
+            "text": "2 packets pizza crust mix"
+        },
+        {
+            "text": "12 lb left over bolognese sauce"
+        },
+        {
+            "text": "2 ounces grated cheddar cheese"
+        },
+        {
+            "text": "2 ounces grated mozzarella cheese"
+        },
+        {
+            "text": "1 teaspoon oregano"
+        }
+    ],
+    "recipe": [
+        {
+            "text": "make up pizza mix."
+        },
+        {
+            "text": "makes 1 large or about 3/4 individual pizza,s."
+        },
+        {
+            "text": "spread bolognese over the top."
+        },
+        {
+            "text": "place cheese on top."
+        },
+        {
+            "text": "sprinkle oregano if desired."
+        },
+        {
+            "text": "bake in a very hot oven for about 10/15 mins."
+        }
+    ]
+}

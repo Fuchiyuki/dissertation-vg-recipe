@@ -1,0 +1,169 @@
+{
+    "title": "white_pizza_with_chicken_tomatoes",
+    "id": "3e2c3519c2",
+    "table": [
+        {
+            "instructions": "preheat the oven to 350 f .",
+            "input": "NA",
+            "action": "preheat",
+            "output": "NA"
+        },
+        {
+            "instructions": "add olive_oil , butter , black_pepper , garlic_salt and minced_garlic into a small bowl .",
+            "input": "(olive_oil; butter; black_pepper; garlic_salt; minced_garlic)",
+            "action": "add",
+            "output": "garlic_butter mixture"
+        },
+        {
+            "instructions": "mix well",
+            "input": "garlic_butter mixture",
+            "action": "mix",
+            "output": "garlic_butter mixture"
+        },
+        {
+            "instructions": "set aside .",
+            "input": "garlic_butter mixture",
+            "action": "set",
+            "output": "garlic_butter mixture"
+        },
+        {
+            "instructions": "toss chicken , paprika and olive_oil into a skillet over medium heat",
+            "input": "(chicken; paprika; olive_oil)",
+            "action": "toss",
+            "output": "seasoned_chicken"
+        },
+        {
+            "instructions": "cook until chicken is browned on all sides , stirring occasionally .",
+            "input": "seasoned_chicken",
+            "action": "cook",
+            "output": "browned_chicken"
+        },
+        {
+            "instructions": "put the crust on a pizza\u2012pan .",
+            "input": "crust",
+            "action": "put",
+            "output": "pizza_crust"
+        },
+        {
+            "instructions": "while the chicken cooks , evenly spread the garlic mixture over the top of the pizza_crust .",
+            "input": "(garlic_butter mixture; pizza_crust)",
+            "action": "spread",
+            "output": "pizza crust with garlic_butter mixture"
+        },
+        {
+            "instructions": "top the cheese with shredded_basil .",
+            "input": "(cheese; shredded_basil; pizza crust with garlic_butter mixture)",
+            "action": "top",
+            "output": "pizza crust with garlic_butter mixture, cheese and shredded basil"
+        },
+        {
+            "instructions": "remove it from the heat",
+            "input": "browned_chicken",
+            "action": "remove",
+            "output": "browned_chicken"
+        },
+        {
+            "instructions": "spread it evenly over the pizza .",
+            "input": "(browned_chicken; pizza crust with garlic_butter mixture, cheese and shredded basil)",
+            "action": "spread",
+            "output": "pizza crust with garlic_butter mixture, cheese, shredded basil and browned chicken"
+        },
+        {
+            "instructions": "top with tomatoes .",
+            "input": "(pizza crust with garlic_butter mixture, cheese, shredded basil and browned chicken; tomatoes)",
+            "action": "top",
+            "output": "pizza crust with garlic_butter mixture, cheese, shredded basil, browned chicken and tomatoes"
+        },
+        {
+            "instructions": "bake for 10 minutes .",
+            "input": "uncooked white_pizza_with_chicken_tomatoes",
+            "action": "bake",
+            "output": "baked white_pizza_with_chicken_tomatoes"
+        },
+        {
+            "instructions": "garnish with additional basil leaves",
+            "input": "(Basil leaves; baked white_pizza_with_chicken_tomatoes)",
+            "action": "garnish",
+            "output": "baked white_pizza_with_chicken_tomatoes garnished with basil leaves"
+        },
+        {
+            "instructions": "serve hot .",
+            "input": "baked white_pizza_with_chicken_tomatoes",
+            "action": "serve",
+            "output": "baked white_pizza_with_chicken_tomatoes ready to eat"
+        }
+    ],
+    "ingredients": [
+        {
+            "text": "1 Tablespoon Melted Butter"
+        },
+        {
+            "text": "2 teaspoons Black Pepper"
+        },
+        {
+            "text": "1 teaspoon Garlic Salt"
+        },
+        {
+            "text": "6 cloves Garlic, Minced"
+        },
+        {
+            "text": "1 whole Large Boneless, Skinless Chicken Breast, Diced"
+        },
+        {
+            "text": "2 teaspoons Paprika"
+        },
+        {
+            "text": "18 cups Olive Oil"
+        },
+        {
+            "text": "1 whole Pre-baked (I Used A Whole Wheat Store Bought One) 12 Inch Pizza Crust"
+        },
+        {
+            "text": "2 cups Mozzarella Cheese, Shredded"
+        },
+        {
+            "text": "1 Tablespoon Fresh Basil, Shredded (heaping)"
+        },
+        {
+            "text": "1 whole Large Tomato, Diced"
+        }
+    ],
+    "recipe": [
+        {
+            "text": "Preheat the oven to 350 F."
+        },
+        {
+            "text": "Add olive oil, butter, black pepper, garlic salt and minced garlic into a small bowl."
+        },
+        {
+            "text": "Mix well and set aside."
+        },
+        {
+            "text": "Toss chicken, paprika and olive oil into a skillet over medium heat and cook until chicken is browned on all sides, stirring occasionally."
+        },
+        {
+            "text": "Put the crust on a pizza pan."
+        },
+        {
+            "text": "While the chicken cooks, evenly spread the garlic mixture over the top of the pizza crust."
+        },
+        {
+            "text": "Layer cheese on top of this."
+        },
+        {
+            "text": "Top the cheese with shredded basil."
+        },
+        {
+            "text": "By now your chicken should be done, so remove it from the heat and spread it evenly over the pizza."
+        },
+        {
+            "text": "Top with tomatoes."
+        },
+        {
+            "text": "Bake for 10 minutes."
+        },
+        {
+            "text": "Garnish with additional basil leaves and serve hot."
+        }
+    ]
+}

@@ -1,0 +1,112 @@
+{
+    "title": "healthy_fruit_pizza",
+    "id": "c136337057",
+    "table": [
+        {
+            "instructions": "place pitas on a baking sheet .",
+            "input": "pitas",
+            "actions": "place",
+            "output": "pitas"
+        },
+        {
+            "instructions": "preheat the oven to 30",
+            "input": "NA",
+            "actions": "preheat",
+            "output": "NA"
+        },
+        {
+            "instructions": "spread the apple_butter fairly thickly over the undersides of the whole pita_bread .",
+            "input": "(apple_butter; pitas)",
+            "actions": "spread",
+            "output": "apple_butter_spred_on pitas"
+        },
+        {
+            "instructions": "arrange the apple around the perimeter of the pita .",
+            "input": "(apple; pitas_topped_with apple butter)",
+            "actions": "arrange",
+            "output": "apples arranged over pitas"
+        },
+        {
+            "instructions": "next put a circle of kiwi slices , then some strawberries .",
+            "input": "(kiwi slices; pitas; strawberries)",
+            "actions": "put",
+            "output": "strawberries and kiwis slices on pitas"
+        },
+        {
+            "instructions": "place a kiwi or berry slice in the center .",
+            "input": "kiwi, pitas",
+            "actions": "place",
+            "output": "kiwi_placed_at_center_of_pita"
+        },
+        {
+            "instructions": "bake on the center rack for about 15 20 minutes , till the fruit is softened .",
+            "input": "uncooked_fruit_pizza",
+            "actions": "bake",
+            "output": "baked_fruit_pizza"
+        },
+        {
+            "instructions": "slice in half",
+            "input": "baked_fruit_pizza",
+            "actions": "slice",
+            "output": "slice_fruit_pizza"
+        },
+        {
+            "instructions": "serve .",
+            "input": "fruit_pizza",
+            "actions": "serve",
+            "output": "fruit_pizza"
+        }
+    ],
+    "ingredients": [
+        {
+            "text": "2 whole wheat pita bread (the small ones, about 8 inches around)"
+        },
+        {
+            "text": "13 cup apple butter (homemade is best, but storebought's fine too)"
+        },
+        {
+            "text": "1 kiwi, peeled (or just scooped out)"
+        },
+        {
+            "text": "4 large strawberries, hulled and sliced"
+        },
+        {
+            "text": "12 apple, thinly sliced (any variety)"
+        },
+        {
+            "text": "cinnamon, to taste"
+        }
+    ],
+    "recipe": [
+        {
+            "text": "Place pitas on a baking sheet."
+        },
+        {
+            "text": "Preheat the oven to 300."
+        },
+        {
+            "text": "Spread the apple butter fairly thickly over the undersides of the whole pita breads."
+        },
+        {
+            "text": "Arrange the apple around the perimeter of the pita."
+        },
+        {
+            "text": "Next put a circle of kiwi slices, then some strawberries."
+        },
+        {
+            "text": "Place a kiwi or berry slice in the center."
+        },
+        {
+            "text": "Sprinkle with cinnamon- I like lots!"
+        },
+        {
+            "text": "Bake on the center rack for about 15-20 minutes, till the fruit is softened."
+        },
+        {
+            "text": "Slice in half and serve."
+        },
+        {
+            "text": "Would be nice with some yogurt on the side."
+        }
+    ]
+}

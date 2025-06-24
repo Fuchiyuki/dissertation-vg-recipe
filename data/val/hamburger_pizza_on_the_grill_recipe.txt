@@ -1,0 +1,124 @@
+{
+    "title": "hamburger_pizza_on_the_grill_recipe",
+    "id": "fa48394576",
+    "table": [
+        {
+            "instructions": "mix 14 c\u00a0tomato puree with beef, crumbs, onion, egg and salt.",
+            "input": "(beef; crumbs; onion; egg; salt)",
+            "action": "mix",
+            "output": "beef mixture"
+        },
+        {
+            "instructions": "pat meat into 10 inch circle on 18 inch square foil making the crust for the pizza",
+            "input": "beef mixture",
+            "action": "pat",
+            "output": "patted beef mixture"
+        },
+        {
+            "instructions": "turn up edge about 12 inch to hold filling .",
+            "input": "patted beef mixture",
+            "action": "turn",
+            "output": "beef mixture shaped as pizza crust"
+        },
+        {
+            "instructions": "turn foil up",
+            "input": "beef mixture shaped as pizza crust",
+            "action": "turn",
+            "output": "beef mixture shaped as pizza crust"
+        },
+        {
+            "instructions": "crimp edges about 1 inch away from meat to catch drippings .",
+            "input": "beef mixture shaped as pizza crust",
+            "action": "crimp",
+            "output": "beef mixture shaped as pizza crust with crimped edges"
+        },
+        {
+            "instructions": "spoon remaining tomato puree mixed with garlic and oregano over meat .",
+            "input": "(remaining tomato puree, beef mixture shaped as pizza crust with crimped edges; garlic; oregano)",
+            "action": "spoon",
+            "output": "beef mixture crust with remaining tomato puree mixed with garlic and oregano"
+        },
+        {
+            "instructions": "top with cheese_slice .",
+            "input": "(cheese sliced; beef mixture crust with remaining tomato puree mixed with garlic and oregano)",
+            "action": "top",
+            "output": "beef mixture crust with remaining tomato puree mixed with garlic and oregano, and cheese slices"
+        },
+        {
+            "instructions": "place pizza on grill 6 inches away from grey coals .",
+            "input": "beef mixture crust with remaining tomato puree mixed with garlic and oregano, and cheese slices",
+            "action": "place",
+            "output": "cooking beef mixture crust with remaining tomato puree mixed with garlic and oregano, and cheese slices"
+        },
+        {
+            "instructions": "cook 20 to 25 min .",
+            "input": "cooking beef mixture crust with remaining tomato puree mixed with garlic and oregano, and cheese slices",
+            "action": "cook",
+            "output": "cooked hamburger pizza"
+        },
+        {
+            "instructions": "cut into wedges to serve with garlic_bread .",
+            "input": "(cooked hamburger pizza; garlic bread)",
+            "action": "cut",
+            "output": "sliced cooked hamburger pizza served with garlic bread"
+        }
+    ],
+    "ingredients": [
+        {
+            "text": "1 1/4 c. tomato puree"
+        },
+        {
+            "text": "1 1/2 pound lean grnd beef"
+        },
+        {
+            "text": "1/4 c. bread crumbs"
+        },
+        {
+            "text": "1/4 c. chopped onion"
+        },
+        {
+            "text": "1 egg"
+        },
+        {
+            "text": "1 teaspoon salt"
+        },
+        {
+            "text": "1 clove garlic, chopped"
+        },
+        {
+            "text": "1/4 teaspoon oregano"
+        },
+        {
+            "text": "4 slices Mozzarella cheese, cut in half"
+        },
+        {
+            "text": "Heavy Duty Foil Wrap"
+        }
+    ],
+    "recipe": [
+        {
+            "text": "Mix 1/4 c. tomato puree with beef, crumbs, onion, egg and salt."
+        },
+        {
+            "text": "Pat meat into 10 inch circle on 18 inch square foil making the crust for the pizza, turn up edge about 1/2 inch to hold filling."
+        },
+        {
+            "text": "Turn foil up and crimp edges about 1 inch away from meat to catch drippings."
+        },
+        {
+            "text": "Spoon remaining tomato puree mixed with garlic and oregano over meat."
+        },
+        {
+            "text": "Top with cheese slices."
+        },
+        {
+            "text": "Place pizza on grill 6 inches away from grey coals."
+        },
+        {
+            "text": "Cook 20 to 25 min."
+        },
+        {
+            "text": "Cut into wedges to serve with garlic bread."
+        }
+    ]
+}

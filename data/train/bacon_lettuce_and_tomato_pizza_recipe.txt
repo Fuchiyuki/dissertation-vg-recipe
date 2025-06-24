@@ -1,0 +1,127 @@
+{
+    "title": "bacon_lettuce_and_tomato_pizza_recipe",
+    "id": "45687654fd",
+    "table": [
+        {
+            "instructions": "preheat oven to 350 f .",
+            "input": "NA",
+            "action": "preheat",
+            "output": "NA"
+        },
+        {
+            "instructions": "unroll crescent_dough ;",
+            "input": "crescent dough",
+            "action": "unroll",
+            "output": "unrolled crescent dough"
+        },
+        {
+            "instructions": "separate into triangles .",
+            "input": "unrolled crescent dough",
+            "action": "separate",
+            "output": "separated crescent dough"
+        },
+        {
+            "instructions": "arrange triangles in a circle on greased 14 , pizza\u2012pan with point toward thecenter and wide ends toward the outside .",
+            "input": "separated crescent dough",
+            "action": "arrange",
+            "output": "arranged crescent dough"
+        },
+        {
+            "instructions": "pat out dough with fingers to 12 inch circle , pressing seams together to seal .",
+            "input": "arranged crescent dough",
+            "action": "pat",
+            "output": "patted crescent dough"
+        },
+        {
+            "instructions": "bake 12 15 min or possibly till golden .",
+            "input": "patted crescent dough",
+            "action": "bake",
+            "output": "crescent crust"
+        },
+        {
+            "instructions": "in small bowl , combine mayonnaise and mustard ;",
+            "input": "(mayonnaise; mustard)",
+            "action": "combine",
+            "output": "mayonnaise and mustard mixture"
+        },
+        {
+            "instructions": "spread proportionately onto crust .",
+            "input": "(mayonnaise and mustard mixture; crescent crust)",
+            "action": "spread",
+            "output": "crescent crust with mayonnaise and mustard mixture"
+        },
+        {
+            "instructions": "sprinkle with bacon .",
+            "input": "(crescent crust with mayonnaise and mustard mixture; bacon)",
+            "action": "sprinkle",
+            "output": "crust with mayonnaise and mustard mixture sprinkled with bacon"
+        },
+        {
+            "instructions": "top with lettuce , tomato , cheese and onion .",
+            "input": "(crust with mayonnaise and mustard mixture sprinkled with bacon; lettuce; tomato; cheese; onion)",
+            "action": "top",
+            "output": "uncut bacon lettuce and tomato pizza"
+        },
+        {
+            "instructions": "cut into wedges to serve .",
+            "input": "uncut bacon lettuce and tomato pizza",
+            "action": "cut",
+            "output": "cut bacon lettuce and tomato pizza"
+        }
+    ],
+    "ingredients": [
+        {
+            "text": "1 pkt 8 ounce refrigerated crescent rolls"
+        },
+        {
+            "text": "1/2 c. mayonnaise"
+        },
+        {
+            "text": "1 1/2 tsp Dijon Mustard"
+        },
+        {
+            "text": "8 x bacon slices, cooked, liquid removed & crumbled"
+        },
+        {
+            "text": "1 c. shredded lettuce"
+        },
+        {
+            "text": "1/2 c. shredded cheddar cheese"
+        },
+        {
+            "text": "1/4 c. green onions slices"
+        }
+    ],
+    "recipe": [
+        {
+            "text": "Preheat oven to 350 F. Unroll crescent dough; separate into triangles."
+        },
+        {
+            "text": "Arrange triangles in a circle on greased 14\" pizza pan with point toward thecenter and wide ends toward the outside."
+        },
+        {
+            "text": "Pat out dough with fingers to 12 inch circle, pressing seams together to seal."
+        },
+        {
+            "text": "Bake 12-15 min or possibly till golden."
+        },
+        {
+            "text": "Removed from oven; cold completely."
+        },
+        {
+            "text": "In small bowl, combine mayonnaise and mustard; spread proportionately onto crust."
+        },
+        {
+            "text": "Sprinkle with bacon."
+        },
+        {
+            "text": "Top with lettuce, tomato, cheese and onion."
+        },
+        {
+            "text": "Cut into wedges to serve."
+        },
+        {
+            "text": "Yield 10servings."
+        }
+    ]
+}

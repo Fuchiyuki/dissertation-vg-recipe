@@ -1,0 +1,127 @@
+{
+    "title": "summer_squash-and-arugula_pizza_with_fontina_cheese",
+    "id": "48181f58f8",
+    "table": [
+        {
+            "instructions": "set a pizza stone on a rack in the top third of the oven .",
+            "input": "NA",
+            "action": "set",
+            "output": "NA"
+        },
+        {
+            "instructions": "preheat the oven to 500 for at least 45 minutes .",
+            "input": "NA",
+            "action": "preheat",
+            "output": "NA"
+        },
+        {
+            "instructions": "meanwhile , remove the dough ball from the refrigerator",
+            "input": "dough ball",
+            "action": "remove",
+            "output": "dough ball"
+        },
+        {
+            "instructions": "stretch the dough out to a 10 inch round , working from the center toward the edge",
+            "input": "dough_ball",
+            "action": "stretch",
+            "output": "stretched round of dough"
+        },
+        {
+            "instructions": "transfer the dough to a lightly floured pizza peel .",
+            "input": "stretched round of dough",
+            "action": "transfer",
+            "output": "stretched round of dough"
+        },
+        {
+            "instructions": "spread the parmigiano_reggiano and fontina_cheese onto the dough , making sure to leave a 1 inch border around the edge , and top with the squash , rosemary and chiles .",
+            "input": "stretched round of doughh: parmigiano_reggiano, fontina_cheese, squash, rosemary, chiles",
+            "action": "spread",
+            "output": "uncooked_summer_squash_pizza_with_fontina_cheese"
+        },
+        {
+            "instructions": "turn the oven to broil for 5 minutes ,",
+            "input": "NA",
+            "action": "turn",
+            "output": "NA"
+        },
+        {
+            "instructions": "return it to 50",
+            "input": "NA",
+            "action": "return",
+            "output": "NA"
+        },
+        {
+            "instructions": "slide the pizza onto the pizza stone , opening and closing the oven door as quickly as possible .",
+            "input": "NA",
+            "action": "slide",
+            "output": "NA"
+        },
+        {
+            "instructions": "bake until the bottom is lightly charred and the toppings are bubbling , about 6 minutes for a chewier crust and 8 minutes for a crispier one ;",
+            "input": "uncooked_summer_squash_pizza_with_fontina_cheese",
+            "action": "bake",
+            "output": "baked_summer_squash_pizza_with_fontina_cheese"
+        },
+        {
+            "instructions": "top the pizza with the arugula before serving .",
+            "input": "baked_summer_squash_pizza_with_fontina_cheese: arugula",
+            "action": "top",
+            "output": "summer_squash-and-arugula_pizza_with_fontina_cheese"
+        }
+    ],
+    "ingredients": [
+        {
+            "text": "One portion Perfect Neapolitan Pizza Dough"
+        },
+        {
+            "text": "Grated Parmigiano-Reggiano cheese, for sprinkling"
+        },
+        {
+            "text": "3/4 cup shredded Fontina cheese"
+        },
+        {
+            "text": "2 ounces thinly sliced summer squash (about 1/2 small squash)"
+        },
+        {
+            "text": "1 teaspoon chopped rosemary"
+        },
+        {
+            "text": "1 or 2 chopped Calabrian red chiles"
+        },
+        {
+            "text": "1/2 cup arugula leaves"
+        }
+    ],
+    "recipe": [
+        {
+            "text": "Set a pizza stone on a rack in the top third of the oven."
+        },
+        {
+            "text": "Preheat the oven to 500 for at least 45 minutes."
+        },
+        {
+            "text": "Meanwhile, remove the dough ball from the refrigerator and let stand for 20 minutes."
+        },
+        {
+            "text": "Working on a floured surface and using your fingers, press and stretch the dough out to a 10-inch round, working from the center toward the edge; avoid pressing on the outermost edge."
+        },
+        {
+            "text": "Transfer the dough to a lightly floured pizza peel."
+        },
+        {
+            "text": "Spread the Parmigiano-Reggiano and Fontina cheeses onto the dough, making sure to leave a 1-inch border around the edge, and top with the squash, rosemary and chiles."
+        },
+        {
+            "text": "Turn the oven to broil for 5 minutes, then return it to 500."
+        },
+        {
+            "text": "Slide the pizza onto the pizza stone, opening and closing the oven door as quickly as possible."
+        },
+        {
+            "text": "Bake until the bottom is lightly charred and the toppings are bubbling, about 6 minutes for a chewier crust and 8 minutes for a crispier one; avoid opening the oven door during baking."
+        },
+        {
+            "text": "Top the pizza with the arugula before serving."
+        }
+    ]
+}

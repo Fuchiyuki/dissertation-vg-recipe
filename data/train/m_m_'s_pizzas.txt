@@ -1,0 +1,121 @@
+{
+    "title": "m_m_'s_pizzas",
+    "id": "9c8571fa87",
+    "table": [
+        {
+            "instructions": "cream butter and sugar .",
+            "input": "(butter; sugar)",
+            "action": "cream",
+            "output": "creamed_butter and sugar"
+        },
+        {
+            "instructions": "add eggs , milk and vanilla .",
+            "input": "(creamed_butter and sugar; eggs; milk; vanilla)",
+            "action": "add",
+            "output": "wet mixture"
+        },
+        {
+            "instructions": "add dry ingredients .",
+            "input": "(wet mixture; dry_ingredients)",
+            "action": "add",
+            "output": "batter"
+        },
+        {
+            "instructions": "spread 12 batter in each of two , well greased , 9 inch , cake pans",
+            "input": "batter",
+            "action": "spread",
+            "output": "spread batter"
+        },
+        {
+            "instructions": "top with half the m and m ' s.",
+            "input": "(batter; m&ms)",
+            "action": "top",
+            "output": "batter topped with m&ms"
+        },
+        {
+            "instructions": "bake at 350f for 20 25 minutes .",
+            "input": "batter topped with m&ms",
+            "action": "bake",
+            "output": "baked_m&ms cake"
+        },
+        {
+            "instructions": "transfer to racks to cool remaining .",
+            "input": "baked_m&ms cake",
+            "action": "transfer",
+            "output": "baked_m&ms cake"
+        },
+        {
+            "instructions": "cut in wedges ;",
+            "input": "baked_m&ms cake",
+            "action": "cut",
+            "output": "cut baked_m&ms cake into wedges"
+        },
+        {
+            "instructions": "serve .",
+            "input": "cut baked_m&ms cake into wedges",
+            "action": "serve",
+            "output": "served m&ms pizza wedges"
+        }
+    ],
+    "ingredients": [
+        {
+            "text": "3/4 cup butter"
+        },
+        {
+            "text": "1 cup brown sugar"
+        },
+        {
+            "text": "1/2 cup sugar"
+        },
+        {
+            "text": "1 egg"
+        },
+        {
+            "text": "1/4 cup milk"
+        },
+        {
+            "text": "1 tsp. vanilla"
+        },
+        {
+            "text": "1 cup flour"
+        },
+        {
+            "text": "1/2 tsp. soda"
+        },
+        {
+            "text": "1/4 tsp. cinnamon"
+        },
+        {
+            "text": "2-1/2 cup oatmeal"
+        },
+        {
+            "text": "3/4 cup nuts, chopped"
+        },
+        {
+            "text": "2/3 cup M&M's"
+        }
+    ],
+    "recipe": [
+        {
+            "text": "Cream butter and sugar."
+        },
+        {
+            "text": "Add eggs, milk and vanilla."
+        },
+        {
+            "text": "Add dry ingredients."
+        },
+        {
+            "text": "Spread 1/2 batter in each of two, well-greased, 9-inch cake pans and top with half the M&M's."
+        },
+        {
+            "text": "Bake at 350F for 20-25 minutes."
+        },
+        {
+            "text": "Pan cool 10 minutes and transfer to racks to cool remaining."
+        },
+        {
+            "text": "Cut in wedges; serve."
+        }
+    ]
+}

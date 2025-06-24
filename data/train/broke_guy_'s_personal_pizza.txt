@@ -1,0 +1,88 @@
+{
+    "title": "broke_guy_'s_personal_pizza",
+    "id": "0573be9a91",
+    "table": [
+        {
+            "instructions": "place a flour_tortilla on medium heat in a tortilla pan or skillet until brown on both sides .",
+            "input": "flour_tortilla",
+            "actions": "place",
+            "output": "flour_tortilla"
+        },
+        {
+            "instructions": "remove from the heat",
+            "input": "flour_tortilla",
+            "actions": "remove",
+            "output": "browned_tortilla"
+        },
+        {
+            "instructions": "spread the marinara_sauce evenly on one side .",
+            "input": "(browned_tortilla; marinara_sauce)",
+            "actions": "spread",
+            "output": "browned_tortilla_spreaded_with marinara_sauce"
+        },
+        {
+            "instructions": "spread the cheese evenly over the top .",
+            "input": "(browned_tortilla_spreaded_with marinara_sauce; cheese)",
+            "actions": "spread",
+            "output": "browned_tortilla_spreaded_with marinara_sauce_topped with cheese"
+        },
+        {
+            "instructions": "sprinkle the chopped basil evenly over the tortilla .",
+            "input": "(browned_tortilla_spreaded_with marinara_sauce_topped with cheese; basil)",
+            "actions": "sprinkle",
+            "output": "browned_tortilla_spreaded_with marinara_sauce_topped with cheese and sprinkled basil"
+        },
+        {
+            "instructions": "place in a toaster oven or under a broiler until the cheese is melted .",
+            "input": "uncooked_tortilla_pizza",
+            "actions": "place",
+            "output": "broiled_tortilla_pizza"
+        },
+        {
+            "instructions": "remove from the heat",
+            "input": "broiled_tortilla_pizza",
+            "actions": "remove",
+            "output": "tortilla_pizza"
+        },
+        {
+            "instructions": "slice it as you would a pizza .",
+            "input": "tortilla_pizza",
+            "actions": "slice",
+            "output": "sliced_tortilla_pizza"
+        }
+    ],
+    "ingredients": [
+        {
+            "text": "1 (12 inch) flour tortillas"
+        },
+        {
+            "text": "14 cup marinara sauce or 14 cup pizza sauce"
+        },
+        {
+            "text": "1 cup mozzarella cheese, shredded"
+        },
+        {
+            "text": "14 cup fresh basil, chopped"
+        }
+    ],
+    "recipe": [
+        {
+            "text": "Place a flour tortilla on medium heat in a tortilla pan or skillet until brown on both sides."
+        },
+        {
+            "text": "Remove from the heat and spread the marinara sauce evenly on one side."
+        },
+        {
+            "text": "Spread the cheese evenly over the top."
+        },
+        {
+            "text": "Sprinkle the chopped basil evenly over the tortilla."
+        },
+        {
+            "text": "Place in a toaster oven or under a broiler until the cheese is melted."
+        },
+        {
+            "text": "Remove from the heat and slice it as you would a pizza."
+        }
+    ]
+}

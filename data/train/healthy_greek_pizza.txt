@@ -1,0 +1,235 @@
+{
+    "title": "healthy_greek_pizza",
+    "id": "2d107f8bb2",
+    "table": [
+        {
+            "instructions": "heat 2 tablespoon of the olive_oil in a saute pan .",
+            "input": "olive_oil",
+            "action": "heat",
+            "output": "heated_olive_oil"
+        },
+        {
+            "instructions": "add the red onion , 14 teaspoon salt , and a few pinches of pepper ;",
+            "input": "(heated_olive_oil; pepper; salt; red onion)",
+            "action": "add",
+            "output": "seasoned red onion in heated olive oil"
+        },
+        {
+            "instructions": "saute over medium heat for 4 to 5 minutes , until tender .",
+            "input": "seasoned red onion in heated olive oil",
+            "action": "saute",
+            "output": "sauteed red onion"
+        },
+        {
+            "instructions": "add half of the garlic",
+            "input": "(half of garlic; sauteed red onion)",
+            "action": "add",
+            "output": "sauteed red onion with garlic"
+        },
+        {
+            "instructions": "saute for i minute .",
+            "input": "sauteed red onion with garlic",
+            "action": "saute",
+            "output": "sauteed red onion and garlic mixture"
+        },
+        {
+            "instructions": "transfer to a bowl .",
+            "input": "sauteed red onion and garlic mixture",
+            "action": "transfer",
+            "output": "sauteed red onion and garlic mixture"
+        },
+        {
+            "instructions": "heat 2 tablespoon of olive_oil in the pan .",
+            "input": "olive oil",
+            "action": "heat",
+            "output": "heated olive oil"
+        },
+        {
+            "instructions": "wilt the spinach over high heat with 14 teaspoon , salt , a few pinches of pepper , and the remaining garlic .",
+            "input": "(spinach; salt; pepper; remaining garlic)",
+            "action": "wilt",
+            "output": "wilted seasoned spinach with remaining garlic"
+        },
+        {
+            "instructions": "when the spinach is wilted but still bright green , in about i minute , remove it from the pan",
+            "input": "wilted seasoned spinach with remaining garlic",
+            "action": "remove",
+            "output": "wilted seasoned spinach with remaining garlic"
+        },
+        {
+            "instructions": "place it in a strainer to cool .",
+            "input": "wilted seasoned spinach with remaining garlic",
+            "action": "place",
+            "output": "cooled wilted seasoned spinach with remaining garlic"
+        },
+        {
+            "instructions": "squeeze out the excess moisture with your hands ,",
+            "input": "cooled wilted seasoned spinach with remaining garlic",
+            "action": "squeeze",
+            "output": "cooled wilted seasoned spinach with remaining garlic without excess moisture"
+        },
+        {
+            "instructions": "coarsely chop",
+            "input": "cooled wilted seasoned spinach with remaining garlic without excess moisture",
+            "action": "chop",
+            "output": "chopped cooked spinach"
+        },
+        {
+            "instructions": "toss with the lemon_zest .",
+            "input": "(chopped cooked spinach; lemon zest)",
+            "action": "toss",
+            "output": "chopped cooked spinach with lemon zest"
+        },
+        {
+            "instructions": "preheat oven to 500f .",
+            "input": "NA",
+            "action": "preheat",
+            "output": "NA"
+        },
+        {
+            "instructions": "roll out the dough",
+            "input": "dough",
+            "action": "roll",
+            "output": "rolled dough"
+        },
+        {
+            "instructions": "place it on a lightly oiled pizza\u2012pan or well floured wooden peel ;",
+            "input": "rolled dough",
+            "action": "place",
+            "output": "rolled dough"
+        },
+        {
+            "instructions": "brush with the garlic_oil .",
+            "input": "(rolled dough; garlic oil)",
+            "action": "brush",
+            "output": "rolled dough brushed with garlic oil"
+        },
+        {
+            "instructions": "spread the onion on the dough , followed by the spinach .",
+            "input": "(rolled dough brushed with garlic oil; sauteed red onion and garlic mixture; chopped cooked spinach with lemon zest)",
+            "action": "spread",
+            "output": "rolled dough with garlic oil, sauteed red onion and chopped cooked spinach with lemon zest"
+        },
+        {
+            "instructions": "sprinkle the olives over the spinach",
+            "input": "(rolled dough with garlic oil, sauteed red onion and chopped cooked spinach with lemon zest; olives)",
+            "action": "sprinkle",
+            "output": "rolled dough with garlic oil, sauteed red onion, chopped cooked spinach with lemon zest and olives"
+        },
+        {
+            "instructions": "follow with the crumbled feta ,",
+            "input": "(rolled dough with garlic oil, sauteed red onion, chopped cooked spinach with lemon zest and olives; crumbled feta cheese)",
+            "action": "follow",
+            "output": "rolled dough with garlic oil, sauteed red onion, chopped cooked spinach with lemon zest, olives and crumbled feta"
+        },
+        {
+            "instructions": "add the mozzarella_cheese .",
+            "input": "(rolled dough with garlic oil, sauteed red onion, chopped cooked spinach with lemon zest, olives and crumbled feta; mozzarella cheese)",
+            "action": "add",
+            "output": "rolled dough with garlic oil, sauteed red onion, chopped cooked spinach with lemon zest, olives, crumbled feta and mozzarella cheese"
+        },
+        {
+            "instructions": "bake the pizza , in the pan or on a preheated pizza stone , for 8 to 12 minutes , until the crust is golden and crisp .",
+            "input": "rolled dough with garlic oil, sauteed red onion, chopped cooked spinach with lemon zest, olives, crumbled feta and mozzarella cheese",
+            "action": "bake",
+            "output": "baked greek pizza"
+        },
+        {
+            "instructions": "remove it from the oven",
+            "input": "baked greek pizza",
+            "action": "remove",
+            "output": "baked greek pizza"
+        },
+        {
+            "instructions": "sprinkle with the parmesan_cheese and fresh_rosemary .",
+            "input": "(parmesan cheese; fresh rosemary; baked greek pizza)",
+            "action": "sprinkle",
+            "output": "baked greek pizza with parmesan_cheese and fresh_rosemary"
+        }
+    ],
+    "ingredients": [
+        {
+            "text": "4 tablespoons extra virgin olive oil"
+        },
+        {
+            "text": "12 medium red onion, thinly sliced"
+        },
+        {
+            "text": "salt and pepper"
+        },
+        {
+            "text": "2 garlic cloves, finely chopped"
+        },
+        {
+            "text": "1 bunch spinach, stems removed and leaves washed, 8 to 10 cups"
+        },
+        {
+            "text": "1 teaspoon minced lemon zest"
+        },
+        {
+            "text": "1 pizza dough, ready to rollout"
+        },
+        {
+            "text": "2 tablespoons garlic oil"
+        },
+        {
+            "text": "6 kalamata olives, pitted and coarsely chopped"
+        },
+        {
+            "text": "3 ounces feta cheese, crumbled"
+        },
+        {
+            "text": "14 lb mozzarella cheese, grated"
+        },
+        {
+            "text": "12 ounce parmesan cheese, grated, about 3 tablespoons"
+        },
+        {
+            "text": "1 teaspoon chopped fresh rosemary"
+        }
+    ],
+    "recipe": [
+        {
+            "text": "Heat 2 tablespoon of the olive oil in a saute pan."
+        },
+        {
+            "text": "Add the red onion, 1/4 teaspoon salt, and a few pinches of pepper; saute over medium heat for 4 to 5 minutes, until tender."
+        },
+        {
+            "text": "Add half of the garlic and saute for i minute."
+        },
+        {
+            "text": "Transfer to a bowl."
+        },
+        {
+            "text": "Heat 2 tablespoon of olive oil in the pan."
+        },
+        {
+            "text": "Wilt the spinach over high heat with 1/4 teaspoon salt, a few pinches of pepper, and the remaining garlic."
+        },
+        {
+            "text": "When the spinach is wilted but still bright green, in about i minute, remove it from the pan and place it in a strainer to cool."
+        },
+        {
+            "text": "Squeeze out the excess moisture with your hands, then coarsely chop and toss with the lemon zest."
+        },
+        {
+            "text": "Preheat oven to 500F."
+        },
+        {
+            "text": "Roll out the dough and place it on a lightly oiled pizza pan or well-floured wooden peel; brush with the Garlic Oil."
+        },
+        {
+            "text": "Spread the onion on the dough, followed by the spinach."
+        },
+        {
+            "text": "Sprinkle the olives over the spinach, follow with the crumbled feta, then add the mozzarella cheese."
+        },
+        {
+            "text": "Bake the pizza, in the pan or on a preheated pizza stone, for 8 to 12 minutes, until the crust is golden and crisp."
+        },
+        {
+            "text": "Remove it from the oven and sprinkle with the Parmesan cheese and fresh rosemary."
+        }
+    ]
+}

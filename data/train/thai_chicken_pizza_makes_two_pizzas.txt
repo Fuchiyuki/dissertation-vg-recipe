@@ -1,0 +1,169 @@
+{
+    "title": "thai_chicken_pizza_makes_two_pizzas",
+    "id": "c1a2b82f1d",
+    "table": [
+        {
+            "instructions": "for the sauce combine all the sauce ingredients in a small pan over medium heat .",
+            "input": "(peanut butter; hoisin sauce; honey; red wine vinegar; minced ginger; minced garlic; esame oil; soy sauce; oyster sauce; water )",
+            "action": "combine",
+            "output": "thai sauce"
+        },
+        {
+            "instructions": "set aside .",
+            "input": "thai sauce",
+            "action": "set",
+            "output": "thai sauce"
+        },
+        {
+            "instructions": "for the chicken cook chicken in olive_oil over med high heat for 5 6 minutes do not over cook .",
+            "input": "(chicken; olive oil)",
+            "action": "cook",
+            "output": "cooked chicken"
+        },
+        {
+            "instructions": "set aside .",
+            "input": "cooked chicken",
+            "action": "set",
+            "output": "cooked chicken"
+        },
+        {
+            "instructions": "for the pizza spread 14 cup of sauce evenly over the pizza .",
+            "input": "(thai sauce; pizza crust)",
+            "action": "spread",
+            "output": "sauced pizza crust"
+        },
+        {
+            "instructions": "cover with 34 cup of cheese .",
+            "input": "(sauced pizza crust; cheese)",
+            "action": "cover",
+            "output": "sauced pizza crust with cheese"
+        },
+        {
+            "instructions": "sprinkle 14 cup of cheese and 1 tablespoon of peanuts .",
+            "input": "(sauced pizza crust with cheese; cheese; peanuts)",
+            "action": "sprinkle",
+            "output": "sauced pizza crust with cheese and peanuts"
+        },
+        {
+            "instructions": "bake for 9 10 minutes or until golden and cheese is bubbly .",
+            "input": "uncooked thai sauce and chicken pizza",
+            "action": "bake",
+            "output": "baked thai sauce and chicken pizza"
+        },
+        {
+            "instructions": "remove from oven",
+            "input": "baked thai sauce and chicken pizza",
+            "action": "remove",
+            "output": "baked thai sauce and chicken pizza"
+        },
+        {
+            "instructions": "add 1 12 tablespoon of cilantro .",
+            "input": "(cilantro; baked thai sauce and chicken pizza)",
+            "action": "add",
+            "output": "baked thai sauce and chicken pizza garniched with cilantro"
+        }
+    ],
+    "ingredients": [
+        {
+            "text": "1/2 cup peanut butter"
+        },
+        {
+            "text": "1/2 cup hoisin sauce"
+        },
+        {
+            "text": "1 tbsp honey"
+        },
+        {
+            "text": "2 tsp red wine vinegar"
+        },
+        {
+            "text": "2 tsp ginger (minced)"
+        },
+        {
+            "text": "2 garlic cloves (minced)"
+        },
+        {
+            "text": "2 tbsp sesame oil"
+        },
+        {
+            "text": "2 tsp soy sauce"
+        },
+        {
+            "text": "1 tsp oyster sauce"
+        },
+        {
+            "text": "2 tbsp water"
+        },
+        {
+            "text": "1 tbsp olive oil"
+        },
+        {
+            "text": "3/4 cup boneless skinless chicken breast (cut into 3/4\"cubes)"
+        },
+        {
+            "text": "1 pizza dough (use your own recipe)"
+        },
+        {
+            "text": "1 flour for handling"
+        },
+        {
+            "text": "2 cup mozzarella cheese (shredded)"
+        },
+        {
+            "text": "4 green onions (slivered)"
+        },
+        {
+            "text": "1/2 cup bean sprouts"
+        },
+        {
+            "text": "1/4 cup carrot (shredded)"
+        },
+        {
+            "text": "2 tbsp peanuts (chopped)"
+        },
+        {
+            "text": "3 tbsp fresh cilantro"
+        }
+    ],
+    "recipe": [
+        {
+            "text": "For the sauce: combine all the sauce ingredients in a small pan over medium heat."
+        },
+        {
+            "text": "Bring sauce to a gental boil for a minute set aside."
+        },
+        {
+            "text": "For the chicken: cook chicken in olive oil over med-high heat for 5-6 minutes do not over cook."
+        },
+        {
+            "text": "Once cooked set aside in fridge and allow to cool."
+        },
+        {
+            "text": "Once cooled coat the chicken with 1/4 cup of sauce."
+        },
+        {
+            "text": "Set aside."
+        },
+        {
+            "text": "For the pizza: spread 1/4 cup of sauce evenly over the pizza."
+        },
+        {
+            "text": "Cover with 3/4 cup of cheese."
+        },
+        {
+            "text": "Distribute half of the chicken over the cheese followed by the green onions, bean sprouts and carrots."
+        },
+        {
+            "text": "Sprinkle 1/4 cup of cheese and 1 tablespoon of peanuts."
+        },
+        {
+            "text": "Bake for 9-10 minutes or until golden and cheese is bubbly."
+        },
+        {
+            "text": "Remove from oven and add 1 1/2 tablespoon of cilantro."
+        },
+        {
+            "text": "Repeat with the remaining ingredients for the second pizza."
+        }
+    ]
+}

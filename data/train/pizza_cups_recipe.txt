@@ -1,0 +1,97 @@
+{
+    "title": "pizza_cups_recipe",
+    "id": "5105f6ed9c",
+    "table": [
+        {
+            "instructions": "spray cupcake pans with pam spray .",
+            "input": "NA",
+            "action": "spray",
+            "output": "NA"
+        },
+        {
+            "instructions": "roll out or possibly flatten each biscuit",
+            "input": "biscuit",
+            "action": "roll",
+            "output": "flatten_biscuit"
+        },
+        {
+            "instructions": "press 1 into each cupcake section making sure sides and bottom are covered .",
+            "input": "flatten_biscuit",
+            "action": "press",
+            "output": "flatten_biscuit"
+        },
+        {
+            "instructions": "fry the ground beef till done .",
+            "input": "raw_ground_beef",
+            "action": "fry",
+            "output": "cooked_ground_beef"
+        },
+        {
+            "instructions": "fold in pizza_sauce .",
+            "input": "(pizza_sauce; cooked_ground_beef)",
+            "action": "fold",
+            "output": "ground_beef and pizza sauce mixture"
+        },
+        {
+            "instructions": "fill each c.",
+            "input": "(ground_beef and pizza sauce mixture; flatten_biscuit)",
+            "action": "fill",
+            "output": "flatten_biscuit filled with ground_beef and pizza sauce mixture"
+        },
+        {
+            "instructions": "top with a pepperoni_slice and some of the cheese .",
+            "input": "(pepperoni_slice; cheese; biscuit filled ground_beef and pizza sauce mixture)",
+            "action": "top",
+            "output": "biscuit filled ground_beef and pizza sauce mixture topped with pepperoni_slice and cheese"
+        },
+        {
+            "instructions": "bake at 375 degrees till biscuit is golden , about 7 10 min .",
+            "input": "uncooked pizza cups",
+            "action": "bake",
+            "output": "baked pizza cups"
+        }
+    ],
+    "ingredients": [
+        {
+            "text": "1 can country style refrigerator biscuits"
+        },
+        {
+            "text": "1 pound grnd beef"
+        },
+        {
+            "text": "1 can pizza sauce"
+        },
+        {
+            "text": "Mozzarella cheese, grated"
+        },
+        {
+            "text": "Sliced pepperoni"
+        }
+    ],
+    "recipe": [
+        {
+            "text": "Spray cupcake pans with Pam spray."
+        },
+        {
+            "text": "Roll out or possibly flatten each biscuit and press 1 into each cupcake section making sure sides and bottom are covered."
+        },
+        {
+            "text": "Fry the grnd beef till done."
+        },
+        {
+            "text": "Fold in pizza sauce."
+        },
+        {
+            "text": "Fill each c. with about a Tbsp."
+        },
+        {
+            "text": "of the meat mix."
+        },
+        {
+            "text": "Top with a pepperoni slice and some of the cheese."
+        },
+        {
+            "text": "Bake at 375 degrees till biscuit is golden, about 7-10 min."
+        }
+    ]
+}

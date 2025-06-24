@@ -1,0 +1,139 @@
+{
+    "title": "pizza_rice_casserole",
+    "id": "085cfe6e49",
+    "table": [
+        {
+            "instructions": "in large skillet , cook beef and onion over medium heat",
+            "input": "(beef; onion)",
+            "action": "cook",
+            "output": "cooked_beef and onion"
+        },
+        {
+            "instructions": "drain .",
+            "input": "Cooked beef and onion",
+            "action": "drain",
+            "output": "Drained cooked beef and onion from excess fat"
+        },
+        {
+            "instructions": "add the tomato_sauce , sugar , salt , parsley , garlic_powder , oregano and pepper .",
+            "input": "(Drained cooked beef and onion from excess fat; Tomato sauce, Sugar, Salt, Parsley, Garlic powder, Oregano, Pepper)",
+            "action": "add",
+            "output": "ground beef mixture with added tomato sauce and seasonings"
+        },
+        {
+            "instructions": "reduce heat ;",
+            "input": "ground beef mixture with added tomato sauce and seasonings",
+            "action": "reduce",
+            "output": "cooking ground beef mixture with added tomato sauce and seasonings"
+        },
+        {
+            "instructions": "cover",
+            "input": "cooking ground beef mixture with added tomato sauce and seasonings",
+            "action": "cover",
+            "output": "cooking ground beef mixture with added tomato sauce and seasonings"
+        },
+        {
+            "instructions": "simmer for 15 minutes .",
+            "input": "cooking ground beef mixture with added tomato sauce and seasonings",
+            "action": "simmer",
+            "output": "cooked ground beef mixture"
+        },
+        {
+            "instructions": "combine the rice and cottage_cheese .",
+            "input": "Cooked rice, Cottage cheese",
+            "action": "combine",
+            "output": "Mixture of rice and cottage cheese"
+        },
+        {
+            "instructions": "put 12 into a greased 11x7x2 baking dish .",
+            "input": "Mixture of rice and cottage cheese",
+            "action": "put",
+            "output": "mixture placed in a greased baking dish"
+        },
+        {
+            "instructions": "top with half of the meat mixture .",
+            "input": "(cooked ground beef mixture; mixture placed in a greased baking dish)",
+            "action": "top",
+            "output": "cooking ground beef mixture added on top of the rice mixture"
+        },
+        {
+            "instructions": "sprinkle with mozzarella_cheese .",
+            "input": "(Mozzarella cheese; ground beef and rice casserole)",
+            "action": "sprinkle",
+            "output": "Mozzarella cheese sprinkled on top of ground beef and rice casserole"
+        },
+        {
+            "instructions": "bake uncovered , at 325 degrees for 30 35 minutes until heated through and bubbly .",
+            "input": "uncooked pizza_rice_casserole",
+            "action": "bake",
+            "output": "baked pizza_rice_casserole until heated through and bubbly"
+        }
+    ],
+    "ingredients": [
+        {
+            "text": "34 lb ground beef"
+        },
+        {
+            "text": "1 medium onion, chopped"
+        },
+        {
+            "text": "16 ounces tomato sauce"
+        },
+        {
+            "text": "1 teaspoon sugar"
+        },
+        {
+            "text": "1 teaspoon salt"
+        },
+        {
+            "text": "1 teaspoon dried parsley flakes"
+        },
+        {
+            "text": "14 teaspoon garlic powder"
+        },
+        {
+            "text": "14 teaspoon oregano"
+        },
+        {
+            "text": "1 dash pepper"
+        },
+        {
+            "text": "2 cups cooked rice"
+        },
+        {
+            "text": "12 cup small curd cottage cheese"
+        },
+        {
+            "text": "12 cup mozzarella cheese, shredded"
+        }
+    ],
+    "recipe": [
+        {
+            "text": "In large skillet, cook beef and onion over medium heat then drain."
+        },
+        {
+            "text": "Add the tomato sauce, sugar, salt, parsley, garlic powder, oregano and pepper."
+        },
+        {
+            "text": "Bring to a boil."
+        },
+        {
+            "text": "Reduce heat; cover and simmer for 15 minutes."
+        },
+        {
+            "text": "Combine the rice and cottage cheese.Put 1/2 into a greased 11\"x7\"x2\" baking dish."
+        },
+        {
+            "text": "Top with half of the meat mixture."
+        },
+        {
+            "text": "Repeat layers."
+        },
+        {
+            "text": "Sprinkle with mozzarella cheese."
+        },
+        {
+            "text": "Bake uncovered, at 325 degrees for 30-35 minutes until heated through and bubbly."
+        }
+    ]
+}

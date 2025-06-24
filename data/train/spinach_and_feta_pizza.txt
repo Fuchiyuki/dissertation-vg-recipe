@@ -1,0 +1,94 @@
+{
+    "title": "spinach_and_feta_pizza",
+    "id": "4332ba12f5",
+    "table": [
+        {
+            "instructions": "in large non stick skillet , heat oil over medium high heat .",
+            "input": "oil",
+            "action": "heat",
+            "output": "heated_oil"
+        },
+        {
+            "instructions": "add onions .",
+            "input": "(heated_oil; onions)",
+            "action": "add",
+            "output": "onions in heated oil"
+        },
+        {
+            "instructions": "this should take a total of 20 30 minutes .",
+            "input": "onions in heated oil",
+            "action": "take",
+            "output": "cooked onions"
+        },
+        {
+            "instructions": "roll dough out .",
+            "input": "dough",
+            "action": "roll",
+            "output": "flattened dough"
+        },
+        {
+            "instructions": "spread pesto .",
+            "input": "(Dough, pesto)",
+            "action": "spread",
+            "output": "pesto spread over dough"
+        },
+        {
+            "instructions": "bake according to dough directions .",
+            "input": "uncooked dough with pesto",
+            "action": "bake",
+            "output": "baked dough with pesto"
+        }
+    ],
+    "ingredients": [
+        {
+            "text": "1 pizza dough, for 12 inch pizza"
+        },
+        {
+            "text": "2 sweet onions, sliced"
+        },
+        {
+            "text": "2 tablespoons olive oil"
+        },
+        {
+            "text": "12-1 cup pesto sauce"
+        },
+        {
+            "text": "12 cup frozen spinach, thawed and squeezed dry"
+        },
+        {
+            "text": "12 cup sun-dried tomato, in oil drained"
+        },
+        {
+            "text": "6 ounces feta, crumbled"
+        }
+    ],
+    "recipe": [
+        {
+            "text": "In large non-stick skillet, heat oil over medium high heat."
+        },
+        {
+            "text": "Add onions."
+        },
+        {
+            "text": "Once onions begin to brown reduce heat to low."
+        },
+        {
+            "text": "Continue to cook onions until soft and caramelized."
+        },
+        {
+            "text": "This should take a total of 20-30 minutes."
+        },
+        {
+            "text": "Roll dough out."
+        },
+        {
+            "text": "Spread pesto."
+        },
+        {
+            "text": "Layer remaining ingredients and onions over sauce."
+        },
+        {
+            "text": "Bake according to dough directions."
+        }
+    ]
+}

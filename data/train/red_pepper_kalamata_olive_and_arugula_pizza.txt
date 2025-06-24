@@ -1,0 +1,145 @@
+{
+    "title": "red_pepper_kalamata_olive_and_arugula_pizza",
+    "id": "ec9fcdadb4",
+    "table": [
+        {
+            "instructions": "preheat oven to 450 degrees f .",
+            "input": "NA",
+            "action": "preheat",
+            "output": "NA"
+        },
+        {
+            "instructions": "carefully place dough on a pizza stone or lightly oiled baking sheet .",
+            "input": "dough",
+            "action": "place",
+            "output": "dough"
+        },
+        {
+            "instructions": "pre cook the pizza_dough until the bottom of the crust is cooked through , about 4 minutes .",
+            "input": "Pizza dough",
+            "action": "cook",
+            "output": "Cooked pizza dough with bottom of crust cooked through"
+        },
+        {
+            "instructions": "remove from the oven .",
+            "input": "Cooked pizza dough with bottom of crust cooked through",
+            "action": "remove",
+            "output": "Cooked pizza dough with bottom of crust cooked through"
+        },
+        {
+            "instructions": "spread the pizza_sauce onto the dough",
+            "input": "(Pizza dough pre cooked; pizza sauce)",
+            "action": "spread",
+            "output": "Pre cooked pizza dough with sauce spread on top"
+        },
+        {
+            "instructions": "top with mozzarella .",
+            "input": "(Pizza dough with sauce; mozzarella)",
+            "action": "top",
+            "output": "Pizza dough topped with sauce and mozzarella"
+        },
+        {
+            "instructions": "place the peppers and olives on top of the cheese .",
+            "input": "(Pizza dough topped with sauce and mozzarella; red peppers; kalamata olives)",
+            "action": "place",
+            "output": "Pizza dough topped with sauce, mozarella, peppers and olives"
+        },
+        {
+            "instructions": "place the pizza in the oven .",
+            "input": "Pizza dough topped with sauce, mozarella, peppers and olives",
+            "action": "place",
+            "output": "Pizza dough topped with sauce, mozarella, peppers and olives"
+        },
+        {
+            "instructions": "bake until the crust is fully cooked and the cheese starts to brown , about 10 minutes .",
+            "input": "Pizza dough topped with sauce, mozarella, peppers and olives",
+            "action": "bake",
+            "output": "Pizza dough topped with sauce, mozarella, peppers and olives fully cooked crust and cheese starting to brown"
+        },
+        {
+            "instructions": "remove the pizza from the oven .",
+            "input": "Baked red_pepper_kalamata_olive_pizza",
+            "action": "remove",
+            "output": "Baked red_pepper_kalamata_olive_pizza"
+        },
+        {
+            "instructions": "top pizza with arugula",
+            "input": "(Baked red_pepper_kalamata_olive_pizza; arugula)",
+            "action": "top",
+            "output": "Baked red_pepper_kalamata_olive_and_arugula_pizza"
+        },
+        {
+            "instructions": "cut into slices .",
+            "input": "Baked red_pepper_kalamata_olive_and_arugula_pizza",
+            "action": "cut",
+            "output": "Baked red_pepper_kalamata_olive_and_arugula_pizza cut into slices"
+        }
+    ],
+    "ingredients": [
+        {
+            "text": "1 package (16 Oz. Size) Pre-made Wheat Pizza Dough"
+        },
+        {
+            "text": "1/2 cups Fat Free Pizza Sauce"
+        },
+        {
+            "text": "8 ounces, weight Mozzarella Cheese, Grated"
+        },
+        {
+            "text": "1 whole Fire-roasted Red Pepper, Cut Into 1/4 Inch Slices"
+        },
+        {
+            "text": "1/4 cups Pitted Kalamata Olives, Rinsed And Cut In Half"
+        },
+        {
+            "text": "1 ounce, weight Organic Arugula"
+        }
+    ],
+    "recipe": [
+        {
+            "text": "1."
+        },
+        {
+            "text": "Preheat oven to 450 degrees F. 2."
+        },
+        {
+            "text": "On a lightly floured surface begin to shape the dough by hand or with a rolling pin into a 12-inch circle."
+        },
+        {
+            "text": "Carefully place dough on a pizza stone or lightly oiled baking sheet."
+        },
+        {
+            "text": "Pre-cook the pizza dough until the bottom of the crust is cooked through, about 4 minutes."
+        },
+        {
+            "text": "Remove from the oven."
+        },
+        {
+            "text": "3."
+        },
+        {
+            "text": "Spread the pizza sauce onto the dough and top with mozzarella."
+        },
+        {
+            "text": "Place the peppers and olives on top of the cheese."
+        },
+        {
+            "text": "Place the pizza in the oven."
+        },
+        {
+            "text": "Bake until the crust is fully cooked and the cheese starts to brown, about 10 minutes."
+        },
+        {
+            "text": "Remove the pizza from the oven."
+        },
+        {
+            "text": "4."
+        },
+        {
+            "text": "Top pizza with arugula and cut into slices."
+        },
+        {
+            "text": "Note: I use products and ingredients from my local Trader Joes store but feel free to use what you find at your local grocery store."
+        }
+    ]
+}

@@ -1,0 +1,247 @@
+{
+    "title": "pizza_bianca_with_truffle_oil",
+    "id": "f7d98fa12c",
+    "table": [
+        {
+            "instructions": "preheat the oven to 50",
+            "input": "NA",
+            "action": "preheat",
+            "output": "NA"
+        },
+        {
+            "instructions": "set a pizza stone in the bottom of the oven",
+            "input": "NA",
+            "action": "set",
+            "output": "NA"
+        },
+        {
+            "instructions": "heat for at least 30 minutes .",
+            "input": "NA",
+            "action": "heat",
+            "output": "NA"
+        },
+        {
+            "instructions": "meanwhile , in a medium saucepan , melt the butter .",
+            "input": "butter",
+            "action": "melt",
+            "output": "melted_butter"
+        },
+        {
+            "instructions": "add the onion",
+            "input": "(Onion; melted_butter)",
+            "action": "add",
+            "output": "Onion added to melted_butter"
+        },
+        {
+            "instructions": "cover",
+            "input": "Onion added to melted_butter",
+            "action": "cover",
+            "output": "covered onions in butter"
+        },
+        {
+            "instructions": "cook over moderately low heat , stirring occasionally , until softened but not browned , about 10 minutes .",
+            "input": "covered onions in butter",
+            "action": "cook",
+            "output": "Softened onions"
+        },
+        {
+            "instructions": "add the water when the pan gets dry .",
+            "input": "(Water; Softened onions)",
+            "action": "add",
+            "output": "Water added to Softened onions"
+        },
+        {
+            "instructions": "add the vinegar",
+            "input": "(Vinegar; Softened onions with water)",
+            "action": "add",
+            "output": "Vinegar added to Softened onions with water"
+        },
+        {
+            "instructions": "transfer the onion to a bowl",
+            "input": "softened onion mixture",
+            "action": "transfer",
+            "output": "softened onion mixture"
+        },
+        {
+            "instructions": "season with salt and pepper .",
+            "input": "(Salt; pepper; softened onion mixture)",
+            "action": "season",
+            "output": "Seasoned softened onion mixture"
+        },
+        {
+            "instructions": "in a medium bowl , season the ricotta with salt and pepper .",
+            "input": "(Salt; pepper; ricotta)",
+            "action": "season",
+            "output": "Seasoned ricotta"
+        },
+        {
+            "instructions": "in another medium bowl , whisk the 2 tablespoons of olive_oil with the lemon_juice .",
+            "input": "(Olive oil; lemon juice)",
+            "action": "whisk",
+            "output": "whisked Olive oil and lemon juice dressing"
+        },
+        {
+            "instructions": "add the frisee",
+            "input": "(Frisee salad; whisked Olive oil and lemon juice dressing)",
+            "action": "add",
+            "output": "Frisee added to whisked Olive oil and lemon juice dressing"
+        },
+        {
+            "instructions": "season with salt and pepper .",
+            "input": "(Frisee added to whisked Olive oil and lemon juice dressing; salt; pepper)",
+            "action": "season",
+            "output": "dressed and seasoned frisee salad"
+        },
+        {
+            "instructions": "on a lightly floured work surface , roll or stretch one ball of dough into a 14 inch round .",
+            "input": "Dough",
+            "action": "roll",
+            "output": "Rolled out dough"
+        },
+        {
+            "instructions": "transfer the dough to a lightly floured pizza peel or inverted baking sheet",
+            "input": "Rolled out dough",
+            "action": "transfer",
+            "output": "Rolled out dough"
+        },
+        {
+            "instructions": "brush the edge with olive_oil .",
+            "input": "(Olive oil; Rolled out dough)",
+            "action": "brush",
+            "output": "oiled pizza crust"
+        },
+        {
+            "instructions": "spread half of the ricotta on the dough , leaving a 1 inch border .",
+            "input": "(seasoned ricotta; oiled pizza crust)",
+            "action": "spread",
+            "output": "seasoned Ricotta spread on oiled pizza crust"
+        },
+        {
+            "instructions": "top with half each of the onion , taleggio and pine nuts .",
+            "input": "(oiled pizza crust with seasoned ricotta; Seasoned softened onion mixture; taleggio; pine nuts)",
+            "action": "top",
+            "output": "oiled pizza crust with seasoned ricotta, Seasoned softened onion mixture, taleggio and pine nuts"
+        },
+        {
+            "instructions": "slide the pizza onto the preheated stone",
+            "input": "oiled pizza crust with seasoned ricotta, Seasoned softened onion mixture, taleggio and pine nuts",
+            "action": "slide",
+            "output": "oiled pizza crust with seasoned ricotta, Seasoned softened onion mixture, taleggio and pine nuts"
+        },
+        {
+            "instructions": "bake for 5 to 6 minutes , until golden and bubbling .",
+            "input": "oiled pizza crust with seasoned ricotta, Seasoned softened onion mixture, taleggio and pine nuts",
+            "action": "bake",
+            "output": "baked ricotta and onion pizza"
+        },
+        {
+            "instructions": "drizzle lightly with truffle_oil",
+            "input": "(Truffle oil; baked ricotta and onion pizza)",
+            "action": "drizzle",
+            "output": "Truffle oil drizzled on baked ricotta and onion pizza"
+        },
+        {
+            "instructions": "cut into wedges",
+            "input": "baked onion and ricotta pizza with truffle oil ",
+            "action": "cut",
+            "output": "Sliced baked onion and ricotta pizza with truffle oil "
+        },
+        {
+            "instructions": "serve at once with frisee salad on the side .",
+            "input": "(Sliced baked onion and ricotta pizza with truffle oil ; dressed and seasoned frisee salad)",
+            "action": "serve",
+            "output": "Sliced baked onion and ricotta pizza with truffle oil served with dressed and seasoned frisee salad"
+        }
+    ],
+    "ingredients": [
+        {
+            "text": "2 teaspoons fresh lemon juice"
+        },
+        {
+            "text": "2 heads frisee, inner white leaves only (3 cups)"
+        },
+        {
+            "text": "1 1/2 pounds frozen pizza dough, thawed and shaped into 2 balls"
+        },
+        {
+            "text": "1/2 pound Taleggio cheese, rind removed, cheese cut into 1-inch pieces"
+        },
+        {
+            "text": "2 tablespoons pine nuts"
+        },
+        {
+            "text": "White truffle oil, for drizzling"
+        },
+        {
+            "text": "1 tablespoon unsalted butter"
+        },
+        {
+            "text": "1 medium onion, halved lengthwise and thinly sliced"
+        },
+        {
+            "text": "1 tablespoon water"
+        },
+        {
+            "text": "1 teaspoon white wine vinegar"
+        },
+        {
+            "text": "Salt and freshly ground white pepper"
+        },
+        {
+            "text": "1 1/2 cups ricotta, preferably fresh"
+        },
+        {
+            "text": "2 tablespoons extra-virgin olive oil, plus more for brushing"
+        }
+    ],
+    "recipe": [
+        {
+            "text": "Preheat the oven to 500."
+        },
+        {
+            "text": "Set a pizza stone in the bottom of the oven and heat for at least 30 minutes."
+        },
+        {
+            "text": "Meanwhile, in a medium saucepan, melt the butter."
+        },
+        {
+            "text": "Add the onion, cover and cook over moderately low heat, stirring occasionally, until softened but not browned, about 10 minutes."
+        },
+        {
+            "text": "Add the water when the pan gets dry."
+        },
+        {
+            "text": "Add the vinegar, transfer the onion to a bowl and season with salt and pepper."
+        },
+        {
+            "text": "In a medium bowl, season the ricotta with salt and pepper."
+        },
+        {
+            "text": "In another medium bowl, whisk the 2 tablespoons of olive oil with the lemon juice."
+        },
+        {
+            "text": "Add the frisee and season with salt and pepper."
+        },
+        {
+            "text": "On a lightly floured work surface, roll or stretch one ball of dough into a 14-inch round."
+        },
+        {
+            "text": "Transfer the dough to a lightly floured pizza peel or inverted baking sheet and brush the edge with olive oil."
+        },
+        {
+            "text": "Spread half of the ricotta on the dough, leaving a 1-inch border."
+        },
+        {
+            "text": "Top with half each of the onion, Taleggio and pine nuts."
+        },
+        {
+            "text": "Slide the pizza onto the preheated stone and bake for 5 to 6 minutes, until golden and bubbling."
+        },
+        {
+            "text": "Drizzle lightly with truffle oil, cut into wedges and serve at once with frisee salad on the side."
+        },
+        {
+            "text": "Repeat with the remaining ingredients to make the second pizza and serve hot, with frisee salad."
+        }
+    ]
+}

@@ -1,0 +1,229 @@
+{
+    "title": "roasted_balsamic_strawberry_cherry_pita_pizzas_with_arugula",
+    "id": "18ceafd916",
+    "table": [
+        {
+            "instructions": "preheat oven to 400 f .",
+            "input": "NA",
+            "action": "preheat",
+            "output": "NA"
+        },
+        {
+            "instructions": "put strawberries and cherries in a bowl",
+            "input": "(strawberries; cherries)",
+            "action": "put",
+            "output": "strawberries and cherries mix"
+        },
+        {
+            "instructions": "toss them with 1 teaspoon of olive_oil and 14 teaspoon of salt .",
+            "input": "(strawberries and cherries mix; olive oil; salt)",
+            "action": "toss",
+            "output": "strawberries and cherries mix tossed with olive oil and salt"
+        },
+        {
+            "instructions": "spread on a baking sheet",
+            "input": "strawberries and cherries mix tossed with olive oil and salt",
+            "action": "spread",
+            "output": "berries mixture"
+        },
+        {
+            "instructions": "place in oven for 15 minutes .",
+            "input": "berries mixture",
+            "action": "place",
+            "output": "berries mixture"
+        },
+        {
+            "instructions": "when done , remove from the oven",
+            "input": "berries mixture",
+            "action": "remove",
+            "output": "roasted strawberries and cherries"
+        },
+        {
+            "instructions": "set aside .",
+            "input": "roasted strawberries and cherries",
+            "action": "set",
+            "output": "roasted strawberries and cherries"
+        },
+        {
+            "instructions": "heat a medium saute pan over medium high heat",
+            "input": "NA",
+            "action": "heat",
+            "output": "NA"
+        },
+        {
+            "instructions": "add 1 teaspoon of olive_oil .",
+            "input": "olive oil",
+            "action": "add",
+            "output": "heated olive oil"
+        },
+        {
+            "instructions": "add onions",
+            "input": "(onion; heated olive oil)",
+            "action": "add",
+            "output": "onions in heated olive oil"
+        },
+        {
+            "instructions": "stir frequently until onions begin to brown .",
+            "input": "onions in heated olive oil",
+            "action": "stir",
+            "output": "cooked onions"
+        },
+        {
+            "instructions": "reduce heat to medium low",
+            "input": "cooked onions",
+            "action": "reduce",
+            "output": "cooked onions"
+        },
+        {
+            "instructions": "add 1 tablespoon of balsamic_vinegar and a pinch of salt .",
+            "input": "(cooked onions; balsamic vinegar; salt)",
+            "action": "add",
+            "output": "balsamic vinegar and salt added to cooked onions"
+        },
+        {
+            "instructions": "cook 1 more minute",
+            "input": "balsamic vinegar and salt added to cooked onions",
+            "action": "cook",
+            "output": "cooked onions with balsamic vinegar"
+        },
+        {
+            "instructions": "then remove from heat",
+            "input": "addition of balsamic_vinegar",
+            "action": "remove",
+            "output": "addition of balsamic_vinegar"
+        },
+        {
+            "instructions": "set aside .",
+            "input": "addition of balsamic_vinegar",
+            "action": "set",
+            "output": "addition of balsamic_vinegar"
+        },
+        {
+            "instructions": "place whole_wheat_pita on a nonstick baking sheet .",
+            "input": "whole_wheat_pita",
+            "action": "place",
+            "output": "whole_wheat_pita"
+        },
+        {
+            "instructions": "brush pitas with 1 teaspoon of olive_oil",
+            "input": "(whole_wheat_pita; olive oil)",
+            "action": "brush",
+            "output": "whole_wheat_pita brushed with olive oil"
+        },
+        {
+            "instructions": "venly distribute roasted strawberries and cherries, cheese and onions onto pitas.",
+            "input": "(whole_wheat_pita brushed with olive oil; roasted strawberries and cherries)",
+            "action": "distribute",
+            "output": "whole_wheat_pita brushed with olive oil and distributed roasted strawberries and cherries"
+        },
+        {
+            "instructions": "sprinkle with salt .",
+            "input": "(salt; oiled whole_wheat_pita with roasted strawberries and cherries)",
+            "action": "sprinkle",
+            "output": "salt on oiled whole_wheat_pita with roasted strawberries and cherries"
+        },
+        {
+            "instructions": "bake for 10 12 minutes at 400 f or until edges of pitas begin to turn golden brown .",
+            "input": "oiled whole_wheat_pita with roasted strawberries and cherries",
+            "action": "bake",
+            "output": "baked whole_wheat_pita with roasted strawberries and cherries"
+        },
+        {
+            "instructions": "top each pita with arugula",
+            "input": "(arugula; baked whole_wheat_pita with roasted strawberries and cherries)",
+            "action": "top",
+            "output": "arugula on baked whole_wheat_pita with roasted strawberries and cherries"
+        },
+        {
+            "instructions": "cut into triangles .",
+            "input": "baked whole_wheat_pita with arugula with roasted strawberries and cherries",
+            "action": "cut",
+            "output": "cut baked whole_wheat_pita with arugula with roasted strawberries and cherries"
+        },
+        {
+            "instructions": "drizzle with addition balsamic_vinegar",
+            "input": "(addition of balsamic_vinegar; cut baked whole_wheat_pita with arugula with roasted strawberries and cherries)",
+            "action": "drizzle",
+            "output": "addition of balsamic_vinegar drizzled on cut baked whole_wheat_pita with arugula with roasted strawberries and cherries"
+        },
+        {
+            "instructions": "top with fresh black_pepper and salt if desired .",
+            "input": "(fresh pepper; cut baked whole_wheat_pita with arugula with drizzled addition of balsamic vinegar with roasted strawberries and cherries)",
+            "action": "top",
+            "output": "cut baked whole_wheat_pita with arugula with roasted strawberries and cherries, drizzled addition of balsamic vinegar and fresh black pepper"
+        }
+    ],
+    "ingredients": [
+        {
+            "text": "10 Strawberries, Hulled And Quartered"
+        },
+        {
+            "text": "10 Cherries, Pitted And Halved"
+        },
+        {
+            "text": "3 teaspoons Olive Oil, Divided"
+        },
+        {
+            "text": "1 whole Yellow Onion, Thinly Sliced"
+        },
+        {
+            "text": "2 Tablespoons Balsamic Vinegar, Divided Use"
+        },
+        {
+            "text": "Salt And Black Pepper To Taste"
+        },
+        {
+            "text": "3 Whole-wheat Pitas"
+        },
+        {
+            "text": "1 cup Reduced Fat Mozzarella Cheese"
+        },
+        {
+            "text": "1/2 cups Arugula"
+        }
+    ],
+    "recipe": [
+        {
+            "text": "Preheat oven to 400 F."
+        },
+        {
+            "text": "Put strawberries and cherries in a bowl and toss them with 1 teaspoon of olive oil and 1/4 teaspoon of salt."
+        },
+        {
+            "text": "Spread on a baking sheet and place in oven for 15 minutes."
+        },
+        {
+            "text": "When done, remove from the oven and set aside."
+        },
+        {
+            "text": "Heat a medium saute pan over medium high heat and add 1 teaspoon of olive oil."
+        },
+        {
+            "text": "Add onions and stir frequently until onions begin to brown."
+        },
+        {
+            "text": "Reduce heat to medium low and add 1 tablespoon of balsamic vinegar and a pinch of salt."
+        },
+        {
+            "text": "Cook 1 more minute and then remove from heat and set aside."
+        },
+        {
+            "text": "Place whole wheat pitas on a nonstick baking sheet."
+        },
+        {
+            "text": "Brush pitas with 1 teaspoon of olive oil and sprinkle with salt."
+        },
+        {
+            "text": "Evenly distribute roasted strawberries and cherries, cheese and onions onto pitas."
+        },
+        {
+            "text": "Bake for 10-12 minutes at 400 F or until edges of pitas begin to turn golden brown."
+        },
+        {
+            "text": "Top each pita with arugula and cut into triangles."
+        },
+        {
+            "text": "Drizzle with addition balsamic vinegar and top with fresh black pepper and salt if desired."
+        }
+    ]
+}

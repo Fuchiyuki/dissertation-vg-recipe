@@ -1,0 +1,157 @@
+{
+    "title": "vegetarian_spaghetti_pizza",
+    "id": "728c8628a1",
+    "table": [
+        {
+            "instructions": "break spaghetti into 2 inch pieces",
+            "input": "spaghetti",
+            "actions": "break",
+            "output": "broken_spaghetti"
+        },
+        {
+            "instructions": "cook according to package directions ;",
+            "input": "uncooked spaghetti",
+            "actions": "cook",
+            "output": "cooked spaghetti"
+        },
+        {
+            "instructions": "drain .",
+            "input": "cooked spaghetti",
+            "actions": "drain",
+            "output": "drained cooked spaghetti"
+        },
+        {
+            "instructions": "in a large bowl , beat eggs .",
+            "input": "eggs",
+            "actions": "beat",
+            "output": "beaten eggs"
+        },
+        {
+            "instructions": "gradually add milk , 1 cup , mozzarella_cheese , spinach and garlic_powder .",
+            "input": "(beaten eggs; milk; mozzarella_cheese; spinach; garlic_powder)",
+            "actions": "add",
+            "output": "Seasoned mixture of eggs, milk and cheese"
+        },
+        {
+            "instructions": "stir in spaghetti pieces .",
+            "input": "(Seasoned mixture of eggs, milk and cheese; spaghetti pieces)",
+            "actions": "stir",
+            "output": "Seasoned spaghetti mixture"
+        },
+        {
+            "instructions": "lightly oil a 13 x 9 baking pan .",
+            "input": "NA",
+            "actions": "oil",
+            "output": "NA"
+        },
+        {
+            "instructions": "spread spaghetti mixture into pan , building up sides slightly .",
+            "input": "Seasoned spaghetti mixture",
+            "actions": "spread",
+            "output": "Seasoned spaghetti mixture"
+        },
+        {
+            "instructions": "bake at 425 for 15 minutes .",
+            "input": "uncooked seasoned spaghetti mixture",
+            "actions": "bake",
+            "output": "baked seasoned spaghetti mixture"
+        },
+        {
+            "instructions": "remove from oven .",
+            "input": "baked seasoned spaghetti mixture",
+            "actions": "remove",
+            "output": "baked seasoned spaghetti mixture"
+        },
+        {
+            "instructions": "spread spaghetti sauce over spaghetti crust .",
+            "input": "(spaghetti sauce; spaghetti crust)",
+            "actions": "spread",
+            "output": "spaghetti sauce spread over spaghetti crust"
+        },
+        {
+            "instructions": "  spread broccoli and zucchini over sauce",
+            "input": "(spaghetti sauce spread over spaghetti crust; broccoli; zucchini)",
+            "actions": "spread",
+            "output": "broccoli and zucchini spread over spaghetti crust with spaghetti sauce"
+        },
+        {
+            "instructions": "sprinkle with remaining mozzarella_cheese .",
+            "input": "(spaghetti crust with sauce, broccoli and zucchini; mozzarella_cheese)",
+            "actions": "sprinkle",
+            "output": "mozzarella_cheese sprinkled on spaghetti crust with sauce, broccoli and zucchini"
+        },
+        {
+            "instructions": "bake at 350 for 35 minutes .",
+            "input": "uncooked vegetarian spaghetti pizza",
+            "actions": "bake",
+            "output": "baked vegetarian spaghetti pizza"
+        }
+    ],
+    "ingredients": [
+        {
+            "text": "8 ounces spaghetti, uncooked"
+        },
+        {
+            "text": "2 eggs"
+        },
+        {
+            "text": "12 cup skim milk"
+        },
+        {
+            "text": "3 cups shredded part-skim mozzarella cheese"
+        },
+        {
+            "text": "8 ounces fresh spinach, cooked and chopped or 1 (10 ounce) package frozen spinach, defrosted and drained well"
+        },
+        {
+            "text": "12 teaspoon garlic powder"
+        },
+        {
+            "text": "1 (32 ounce) jar spaghetti sauce, uncooked"
+        },
+        {
+            "text": "2 cups cooked broccoli florets"
+        },
+        {
+            "text": "1 medium zucchini, sliced thin"
+        }
+    ],
+    "recipe": [
+        {
+            "text": "Break spaghetti into 2-inch pieces and cook according to package directions; drain."
+        },
+        {
+            "text": "In a large bowl, beat eggs."
+        },
+        {
+            "text": "Gradually add milk, 1 cup Mozzarella cheese, spinach and garlic powder."
+        },
+        {
+            "text": "Stir in spaghetti pieces."
+        },
+        {
+            "text": "Lightly oil a 13 x 9 baking pan."
+        },
+        {
+            "text": "Spread spaghetti mixture into pan, building up sides slightly."
+        },
+        {
+            "text": "Bake at 425 for 15 minutes."
+        },
+        {
+            "text": "Remove from oven."
+        },
+        {
+            "text": "Spread spaghetti sauce over spaghetti\"crust."
+        },
+        {
+            "text": "\"Spread broccoli and zucchini over sauce and sprinkle with remaining Mozzarella cheese."
+        },
+        {
+            "text": "Bake at 350 for 35 minutes."
+        },
+        {
+            "text": "Let stand 5 minutes before cutting."
+        }
+    ]
+}

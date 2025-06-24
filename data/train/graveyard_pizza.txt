@@ -1,0 +1,130 @@
+{
+    "title": "graveyard_pizza",
+    "id": "36c5fbd44c",
+    "table": [
+        {
+            "instructions": "preheat oven to 350f .",
+            "input": "NA",
+            "actions": "preheat",
+            "output": "NA"
+        },
+        {
+            "instructions": "chop 8 of the cookies ;",
+            "input": "cookies",
+            "actions": "chop",
+            "output": "chopped cookies"
+        },
+        {
+            "instructions": "set aside .",
+            "input": "chopped cookies",
+            "actions": "set",
+            "output": "chopped cookies"
+        },
+        {
+            "instructions": "prepare brownie mix as directed on package ;",
+            "input": "brownie mix package ",
+            "actions": "prepare",
+            "output": "prepared brownie batter"
+        },
+        {
+            "instructions": "spread batter into greased 14 inch , pizza\u2012pan .",
+            "input": "prepared brownie batter",
+            "actions": "spread",
+            "output": "spread brownie batter"
+        },
+        {
+            "instructions": "bake 18 to 20 minutes or until done .",
+            "input": "uncooked brownie",
+            "actions": "bake",
+            "output": "baked brownie"
+        },
+        {
+            "instructions": "sprinkle marshmallows over top of hot brownie ;",
+            "input": "(baked brownie; marshmallows)",
+            "actions": "sprinkle",
+            "output": "marshmallows sprinkled over baked brownie"
+        },
+        {
+            "instructions": "bake an additional 3 to 5 minutes or until marshmallows are lightly browned .",
+            "input": "baked brownie with marshmallows",
+            "actions": "bake",
+            "output": "baked brownie with melted marshmallows"
+        },
+        {
+            "instructions": "immediately sprinkle chopped cookies over marshmallows .",
+            "input": "(chopped cookies; baked brownie with melted marshmallows)",
+            "actions": "sprinkle",
+            "output": "chopped cookies sprinkled on baked brownie with melted marshmallows"
+        },
+        {
+            "instructions": "cool on wire rack .",
+            "input": "baked brownie with melted marshmallows and chopped cookies",
+            "actions": "cool",
+            "output": "cooled brownie with melted marshmallows and chopped cookies"
+        },
+        {
+            "instructions": "decorate remaining 8 cookies with white decorating icing to resemble tombstones .",
+            "input": "(cookies; decorating icing)",
+            "actions": "decorate",
+            "output": "decorated cookies"
+        },
+        {
+            "instructions": "stand tombstones around pizza , pressing gently into brownie .",
+            "input": "brownie, decorated cookies",
+            "actions": "stand",
+            "output": "decorated cookies standing in brownie"
+        },
+        {
+            "instructions": "decorate with assorted candies .",
+            "input": "(brownie; assorted candies)",
+            "actions": "decorate",
+            "output": "brownie decorated with assorted candies"
+        }
+    ],
+    "ingredients": [
+        {
+            "text": "16 Halloween OREO Cookies, divided"
+        },
+        {
+            "text": "1 pkg. (19.5 oz.) brownie mix"
+        },
+        {
+            "text": "1-1/4 cups JET-PUFFED Miniature Marshmallows"
+        },
+        {
+            "text": "White decorating icing and assorted Halloween candies (worm-shaped chewy fruit snacks or bugs)"
+        }
+    ],
+    "recipe": [
+        {
+            "text": "Preheat oven to 350F."
+        },
+        {
+            "text": "Chop 8 of the cookies; set aside."
+        },
+        {
+            "text": "Prepare brownie mix as directed on package; spread batter into greased 14-inch pizza pan."
+        },
+        {
+            "text": "Bake 18 to 20 minutes or until done."
+        },
+        {
+            "text": "Sprinkle marshmallows over top of hot brownie; bake an additional 3 to 5 minutes or until marshmallows are lightly browned."
+        },
+        {
+            "text": "Immediately sprinkle chopped cookies over marshmallows."
+        },
+        {
+            "text": "Cool on wire rack."
+        },
+        {
+            "text": "Decorate remaining 8 cookies with white decorating icing to resemble tombstones."
+        },
+        {
+            "text": "Stand \"tombstones\" around pizza, pressing gently into brownie."
+        },
+        {
+            "text": "Decorate with assorted candies."
+        }
+    ]
+}

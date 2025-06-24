@@ -1,0 +1,97 @@
+{
+    "title": "herbed_mushroom_mini_pizza_appetizers",
+    "id": "69610067e8",
+    "table": [
+        {
+            "instructions": "preheat oven to a low broil .",
+            "input": "NA",
+            "action": "preheat",
+            "output": "NA"
+        },
+        {
+            "instructions": "spread olive_oil and granulated_garlic over cut up pita_bread pieces .",
+            "input": "(olive_oil; granulated_garlic; pita_bread pieces)",
+            "action": "spread",
+            "output": "olive_oil and granulated_garlic spread over pita_bread pieces"
+        },
+        {
+            "instructions": "add chopped green_onion over pita_bread .",
+            "input": "(pita_bread pieces with olive oil and granulated garlic; chopped green onion)",
+            "action": "add",
+            "output": "pita_bread pieces with olive oil and granulated garlic and chopped green onion"
+        },
+        {
+            "instructions": "add sauteed mushrooms over green_onion .",
+            "input": "(pita_bread pieces with olive oil and granulated garlic and chopped green onion; sauteed mushrooms)",
+            "action": "add",
+            "output": "pita_bread pieces with olive oil and granulated garlic, chopped green onion and sauteed mushrooms"
+        },
+        {
+            "instructions": "spread shredded_mozzarella_cheese over top of mushrooms and green_onion .",
+            "input": "(pita_bread pieces with olive oil and granulated garlic, chopped green onion and sauteed mushrooms; shredded mozzarella cheese)",
+            "action": "spread",
+            "output": "pita_bread pieces with olive oil and granulated garlic, chopped green onion, sauteed mushrooms and shredded mozzarella cheese"
+        },
+        {
+            "instructions": "sprinkle tops of pita_bread with chopped fresh_dill .",
+            "input": "(pita_bread pieces with olive oil and granulated garlic, chopped green onion, sauteed mushrooms and shredded mozzarella cheese; chopped fresh dill)",
+            "action": "sprinkle",
+            "output": "pita_bread pieces with olive oil and granulated garlic, chopped green onion, sauteed mushrooms, shredded mozzarella cheese and chopped fresh dill"
+        },
+        {
+            "instructions": "broil for 8 minutes until cheese is melted and golden brown .",
+            "input": "uncooked herbed_mushroom_mini_pizza",
+            "action": "broil",
+            "output": "broiled herbed_mushroom_mini_pizza"
+        }
+    ],
+    "ingredients": [
+        {
+            "text": "2 flatbread pitas (white or wheat) cut into 8 pieces"
+        },
+        {
+            "text": "2 tbsp olive oil"
+        },
+        {
+            "text": "1 1/2 tsp granulated garlic"
+        },
+        {
+            "text": "1/3 cup sauteed teriyaki mushrooms"
+        },
+        {
+            "text": "3 chopped green onions"
+        },
+        {
+            "text": "1/4 cup shredded mozzerella cheese"
+        },
+        {
+            "text": "2 sprigs fresh dill, finely chopped"
+        }
+    ],
+    "recipe": [
+        {
+            "text": "Preheat oven to a low broil."
+        },
+        {
+            "text": "Spread olive oil and granulated garlic over cut up pita bread pieces."
+        },
+        {
+            "text": "Add chopped green onions over pita bread."
+        },
+        {
+            "text": "Add sauteed mushrooms over green onions."
+        },
+        {
+            "text": "Spread shredded mozzarella cheese over top of mushrooms and green onions."
+        },
+        {
+            "text": "Sprinkle tops of pita bread with chopped fresh dill."
+        },
+        {
+            "text": "Broil for 8 minutes until cheese is melted and golden brown."
+        },
+        {
+            "text": "Enjoy with marinara sauce or as is."
+        }
+    ]
+}

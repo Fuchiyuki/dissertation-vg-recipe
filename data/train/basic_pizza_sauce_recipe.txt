@@ -1,0 +1,112 @@
+{
+    "title": "basic_pizza_sauce_recipe",
+    "id": "e3d95c371e",
+    "table": [
+        {
+            "instructions": "heat oil in a medium saucepan over medium heat .",
+            "input": "oil",
+            "actions": "heat",
+            "output": "heated_oil"
+        },
+        {
+            "instructions": "when oil shimmers , add garlic",
+            "input": "(heated oil; garlic)",
+            "actions": "add",
+            "output": "garlic in heated oil"
+        },
+        {
+            "instructions": "cook until fragrant but not browned , about 1 minute .",
+            "input": "garlic in heated oil",
+            "actions": "cook",
+            "output": "cooked_garlic"
+        },
+        {
+            "instructions": "add tomato_paste",
+            "input": "(cooked_garlic; tomato paste)",
+            "actions": "add",
+            "output": "tomato paste added to cooked garlic"
+        },
+        {
+            "instructions": "stir to incorporate ,",
+            "input": "tomato paste added to cooked garlic",
+            "actions": "stir",
+            "output": "stirred_tomato_paste mixture"
+        },
+        {
+            "instructions": "cook until raw flavor is gone , about 4 minutes .",
+            "input": "uncooked tomato paste mixture",
+            "actions": "cook",
+            "output": "cooked tomato paste mixture"
+        },
+        {
+            "instructions": "add crushed_tomato and oregano",
+            "input": "(cooked tomato paste mixture; crushed tomato; oregano))",
+            "actions": "add",
+            "output": "tomato sauce"
+        },
+        {
+            "instructions": "stir to combine .",
+            "input": "tomato sauce",
+            "actions": "stir",
+            "output": "stirred tomato sauce"
+        },
+        {
+            "instructions": "reduce heat to low .",
+            "input": "stirred tomato sauce",
+            "actions": "reduce",
+            "output": "cooking tomato sauce"
+        },
+        {
+            "instructions": "cook , stirring occasionally , until thickened , about 15 minutes .",
+            "input": "cooking tomato sauce",
+            "actions": "cook",
+            "output": "thickened pizza sauce"
+        },
+        {
+            "instructions": "remove from heat",
+            "input": "thickened pizza sauce",
+            "actions": "remove",
+            "output": "cooked pizza sauce"
+        }
+    ],
+    "ingredients": [
+        {
+            "text": "2 tablespoons olive oil"
+        },
+        {
+            "text": "3 medium garlic cloves, finely chopped"
+        },
+        {
+            "text": "1/4 cup tomato paste"
+        },
+        {
+            "text": "1 (28-ounce) can crushed tomatoes, with juices"
+        },
+        {
+            "text": "2 teaspoons dried oregano"
+        }
+    ],
+    "recipe": [
+        {
+            "text": "Heat oil in a medium saucepan over medium heat."
+        },
+        {
+            "text": "When oil shimmers, add garlic and cook until fragrant but not browned, about 1 minute."
+        },
+        {
+            "text": "Add tomato paste, stir to incorporate, and cook until raw flavor is gone, about 4 minutes."
+        },
+        {
+            "text": "Add crushed tomatoes and oregano and stir to combine."
+        },
+        {
+            "text": "Bring to a simmer, then reduce heat to low."
+        },
+        {
+            "text": "Cook, stirring occasionally, until thickened, about 15 minutes."
+        },
+        {
+            "text": "Remove from heat and let cool before using to top pizza."
+        }
+    ]
+}

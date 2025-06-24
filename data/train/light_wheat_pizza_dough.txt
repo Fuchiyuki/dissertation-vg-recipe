@@ -1,0 +1,157 @@
+{
+    "title": "light_wheat_pizza_dough",
+    "id": "4b5a4d8024",
+    "table": [
+        {
+            "instructions": "in a large bowl , sprinkle the yeast over the warm_water ;",
+            "input": "(yeast; warm water)",
+            "action": "sprinkle",
+            "output": "yeast mixture"
+        },
+        {
+            "instructions": "stir to combine .",
+            "input": "yeast mixture",
+            "action": "stir",
+            "output": "yeast mixture"
+        },
+        {
+            "instructions": "with a wooden spoon , beat in 1 12 cups of the unbleached_flour , the whole_wheat_flour , and the cornmeal .",
+            "input": "(unbleached_flour; whole_wheat_flour ; cornmeal; yeast mixture)",
+            "action": "beat",
+            "output": "whole wheat and cornmeal partially mixed dough"
+        },
+        {
+            "instructions": "beat vigorously for 1 minute .",
+            "input": "whole wheat and cornmeal partially mixed dough",
+            "action": "beat",
+            "output": "whole wheat and cornmeal dough"
+        },
+        {
+            "instructions": "cover with plastic wrap .",
+            "input": "whole wheat and cornmeal dough",
+            "action": "cover",
+            "output": "covered dough"
+        },
+        {
+            "instructions": "set the sponge aside in a warm , draft free place for 10 minutes .",
+            "input": "covered dough",
+            "action": "set",
+            "output": "rested dough"
+        },
+        {
+            "instructions": "stir in the salt and olive_oil .",
+            "input": "(salt; olive oil; rested dough)",
+            "action": "stir",
+            "output": "olive oil and salt in dough"
+        },
+        {
+            "instructions": "add the remaining unbleached_flour , 12 cup at a time until you have a soft , kneadable dough .",
+            "input": "(remaining unbleached flour; olive oil and salt in dough)",
+            "action": "add",
+            "output": "soft dough"
+        },
+        {
+            "instructions": "turn the dough out onto a lightly floured surface .",
+            "input": "soft dough",
+            "action": "turn",
+            "output": "soft dough"
+        },
+        {
+            "instructions": "knead vigorously for 8 minutes , using sprinkles of flour to prevent sticking .",
+            "input": "soft dough",
+            "action": "knead",
+            "output": "kneaded dough"
+        },
+        {
+            "instructions": "place the dough in a lightly oiled bowl",
+            "input": "kneaded dough",
+            "action": "place",
+            "output": "dough placed in oil"
+        },
+        {
+            "instructions": "turn to coat ;",
+            "input": "dough placed in oil",
+            "action": "turn",
+            "output": "oil coated dough"
+        },
+        {
+            "instructions": "cover .",
+            "input": "oil coated dough",
+            "action": "cover",
+            "output": "covered dough"
+        },
+        {
+            "instructions": "set aside in a warm , draft free spot until doubled in bulk , about 1 hour .",
+            "input": "covered dough",
+            "action": "set",
+            "output": "rested dough"
+        }
+    ],
+    "ingredients": [
+        {
+            "text": "1 each yeast, active dry"
+        },
+        {
+            "text": "1 1/2 cups water warm"
+        },
+        {
+            "text": "3 1/4 cups flour, unbleached all-purpose"
+        },
+        {
+            "text": "1/2 cup whole wheat flour"
+        },
+        {
+            "text": "13 cup cornmeal"
+        },
+        {
+            "text": "1 1/2 teaspoons salt"
+        },
+        {
+            "text": "2 tablespoons olive oil"
+        }
+    ],
+    "recipe": [
+        {
+            "text": "In a large bowl, sprinkle the yeast over the warm water; stir to combine."
+        },
+        {
+            "text": "Let stand for 5 minutes."
+        },
+        {
+            "text": "With a wooden spoon, beat in 1 1/2 cups of the unbleached flour, the whole wheat flour, and the cornmeal."
+        },
+        {
+            "text": "Beat vigorously for 1 minute."
+        },
+        {
+            "text": "Cover with plastic wrap."
+        },
+        {
+            "text": "Set the sponge aside in a warm, draft-free place for 10 minutes."
+        },
+        {
+            "text": "Stir in the salt and olive oil."
+        },
+        {
+            "text": "Add the remaining unbleached flour, 1/2 cup at a time until you have a soft, kneadable dough."
+        },
+        {
+            "text": "Turn the dough out onto a lightly floured surface."
+        },
+        {
+            "text": "Knead vigorously for 8 minutes, using sprinkles of flour to prevent sticking."
+        },
+        {
+            "text": "You should have a soft, smooth, and elastic dough."
+        },
+        {
+            "text": "Place the dough in a lightly oiled bowl; turn to coat; cover."
+        },
+        {
+            "text": "Set aside in a warm, draft-free spot until doubled in bulk, about 1 hour."
+        },
+        {
+            "text": "Makes enough dough for one large pizza."
+        }
+    ]
+}

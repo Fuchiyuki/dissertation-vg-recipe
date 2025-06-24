@@ -1,0 +1,91 @@
+{
+    "title": "whole_wheat_pizza_dough_recipe",
+    "id": "c4c0258e05",
+    "table": [
+        {
+            "instructions": "sprinkle yeast into water ;",
+            "input": "yeast; water",
+            "action": "sprinkle",
+            "output": "yeast mixture"
+        },
+        {
+            "instructions": "add in honey",
+            "input": "honey; yeast mixture",
+            "action": "add",
+            "output": "honey and yeast mixture"
+        },
+        {
+            "instructions": "stir",
+            "input": "honey and yeast mixture",
+            "action": "stir",
+            "output": "honey and yeast mixture"
+        },
+        {
+            "instructions": "add in flour",
+            "input": "flour; honey and yeast mixture",
+            "action": "add",
+            "output": "added flour to honey and yeast mixture"
+        },
+        {
+            "instructions": "knead",
+            "input": "dough",
+            "action": "knead",
+            "output": "kneaded dough"
+        },
+        {
+            "instructions": "place in lightly oiled bowl .",
+            "input": "kneaded dough",
+            "action": "place",
+            "output": "dough placed in bowl"
+        },
+        {
+            "instructions": "cover",
+            "input": "dough placed in bowl",
+            "action": "cover",
+            "output": "covered dough"
+        },
+        {
+            "instructions": "punch down",
+            "input": "covered dough",
+            "action": "punch",
+            "output": "punched down dough"
+        },
+        {
+            "instructions": "spread on pizza\u2012pan .",
+            "input": "punched down dough",
+            "action": "spread",
+            "output": "dough spread on pan"
+        }
+    ],
+    "ingredients": [
+        {
+            "text": "1 pkg. dry yeast"
+        },
+        {
+            "text": "1 c. water (very hot)"
+        },
+        {
+            "text": "1 tbsp. honey"
+        },
+        {
+            "text": "2 1/2 - 3 c. whole wheat flour"
+        }
+    ],
+    "recipe": [
+        {
+            "text": "Sprinkle yeast into water; add in honey, stir and allow to stand 10 min."
+        },
+        {
+            "text": "Add in flour and work to create dough."
+        },
+        {
+            "text": "Knead and place in lightly oiled bowl."
+        },
+        {
+            "text": "Cover and let rise about 45 min."
+        },
+        {
+            "text": "Punch down and spread on pizza pan."
+        }
+    ]
+}

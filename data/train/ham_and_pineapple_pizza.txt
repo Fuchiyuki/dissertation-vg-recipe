@@ -1,0 +1,79 @@
+{
+    "title": "ham_and_pineapple_pizza",
+    "id": "854887456e",
+    "table": [
+        {
+            "instructions": "preheat oven to 350 f .",
+            "input": "NA",
+            "action": "preheat",
+            "output": "NA"
+        },
+        {
+            "instructions": "spread the pizza_sauce atop the naan .",
+            "input": "(pizza_sauce; naan)",
+            "action": "spread",
+            "output": "naan with pizza sauce"
+        },
+        {
+            "instructions": "next sprinkle with cheese , ham , peppers and pineapple .",
+            "input": "(naan with pizza sauce; cheese; ham; peppers; pineapple)",
+            "action": "sprinkle",
+            "output": "naan with pizza sauce, cheese, ham, peppers and pineapple"
+        },
+        {
+            "instructions": "place naan pizzas on 2 baking sheets",
+            "input": "naan with pizza sauce, cheese, ham, peppers and pineapple",
+            "action": "place",
+            "output": "naan with pizza sauce, cheese, ham, peppers and pineapple"
+        },
+        {
+            "instructions": "bake until cheese is melted",
+            "input": "naan with pizza sauce, cheese, ham, peppers and pineapple",
+            "action": "bake",
+            "output": "baked ham_and_pineapple_naan pizza"
+        },
+        {
+            "instructions": "edges turn brown , about 10 15 minutes .",
+            "input": "baked ham_and_pineapple_naan pizza",
+            "action": "turn",
+            "output": "baked ham_and_pineapple_naan pizza"
+        }
+    ],
+    "ingredients": [
+        {
+            "text": "2 whole Naan"
+        },
+        {
+            "text": "1 cup Prepared Pizza Sauce"
+        },
+        {
+            "text": "1- 1/2 cup Shredded Mozzarella Cheese"
+        },
+        {
+            "text": "4 slices Deli Ham, Chopped"
+        },
+        {
+            "text": "1 whole Large Roasted Red Pepper, Chopped"
+        },
+        {
+            "text": "1/2 cups Pineapple Chunks, Roughly Chopped"
+        }
+    ],
+    "recipe": [
+        {
+            "text": "Preheat oven to 350 F."
+        },
+        {
+            "text": "Spread the pizza sauce atop the naan."
+        },
+        {
+            "text": "Next sprinkle with cheese, ham, peppers and pineapple."
+        },
+        {
+            "text": "Place naan pizzas on 2 baking sheets and bake until cheese is melted and edges turn brown, about 10-15 minutes."
+        },
+        {
+            "text": "*For a crisper crust place directly on the oven rack."
+        }
+    ]
+}

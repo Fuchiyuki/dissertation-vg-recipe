@@ -1,0 +1,112 @@
+{
+    "title": "crispy-cheesy_bbq_pizza",
+    "id": "c1ee8965c8",
+    "table": [
+        {
+            "instructions": "heat oven to 400f .",
+            "input": "NA",
+            "action": "heat",
+            "output": "NA"
+        },
+        {
+            "instructions": "coat chicken with cheese mixture",
+            "input": "(chicken; cheese mixture)",
+            "action": "coat",
+            "output": "coated_chicken with cheese mixture"
+        },
+        {
+            "instructions": "bake as directed on package ;",
+            "input": "coated_chicken with cheese mixture",
+            "action": "bake",
+            "output": "baked coated chicken"
+        },
+        {
+            "instructions": "cool slightly .",
+            "input": "baked coated chicken",
+            "action": "cool",
+            "output": "cooled baked coated chicken"
+        },
+        {
+            "instructions": "cut into thin strips .",
+            "input": "cooled baked coated chicken",
+            "action": "cut",
+            "output": "cooled baked coated chicken cut into strips"
+        },
+        {
+            "instructions": "spread pizza_crust with barbecue_sauce ;",
+            "input": "(pizza crust; barbecue sauce)",
+            "action": "spread",
+            "output": "barbecue sauce spread over pizza crust"
+        },
+        {
+            "instructions": "top with chicken and remaining_ingredient .",
+            "input": "(chicken strips; shredded cheese; green onion)",
+            "action": "top",
+            "output": "pizza crust with bbq sauce, chciken strips, shredded cheese and green onion"
+        },
+        {
+            "instructions": "place crust directly on middle oven rack .",
+            "input": "assembled crispy-cheesy_bbq_pizza",
+            "action": "place",
+            "output": "assembled crispy-cheesy_bbq_pizza"
+        },
+        {
+            "instructions": "bake 15 to 18 min .",
+            "input": "uncooked crispy-cheesy_bbq_pizza",
+            "action": "bake",
+            "output": "baked crispy-cheesy_bbq_pizza"
+        },
+        {
+            "instructions": "top with onions .",
+            "input": "(onions; crispy-cheesy_bbq_pizza)",
+            "action": "top",
+            "output": "crispy-cheesy_bbq_pizza topped with onions"
+        }
+    ],
+    "ingredients": [
+        {
+            "text": "6 small boneless skinless chicken breasts (1-1/2 lb.)"
+        },
+        {
+            "text": "1 pkg. (6 oz.) FRESH TAKE Cheddar Jack & Bacon Recipe Cheese Breadcrumb Mix"
+        },
+        {
+            "text": "1 ready-to-use baked pizza crust (12 inch)"
+        },
+        {
+            "text": "1/3 cup KRAFT Original Barbecue Sauce"
+        },
+        {
+            "text": "1-1/2 cups KRAFT Shredded Three Cheese with a TOUCH OF PHILADELPHIA"
+        },
+        {
+            "text": "1 green onion, thinly sliced"
+        }
+    ],
+    "recipe": [
+        {
+            "text": "Heat oven to 400F."
+        },
+        {
+            "text": "Coat chicken with cheese mixture and bake as directed on package; cool slightly."
+        },
+        {
+            "text": "Cut into thin strips."
+        },
+        {
+            "text": "Spread pizza crust with barbecue sauce; top with chicken and remaining ingredients."
+        },
+        {
+            "text": "Place crust directly on middle oven rack."
+        },
+        {
+            "text": "Bake 15 to 18 min."
+        },
+        {
+            "text": "or until cheese is melted and edge of crust is golden brown."
+        },
+        {
+            "text": "Top with onions."
+        }
+    ]
+}

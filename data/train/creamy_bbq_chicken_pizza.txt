@@ -1,0 +1,208 @@
+{
+    "title": "creamy_bbq_chicken_pizza",
+    "id": "3e1503db3b",
+    "table": [
+        {
+            "instructions": "preheat oven to 400 degrees f .",
+            "input": "NA",
+            "action": "preheat",
+            "output": "NA"
+        },
+        {
+            "instructions": "toss the chopped chicken with 2 tablespoons , bbq_sauce .",
+            "input": "(chopped chicken; bbq sauce)",
+            "action": "toss",
+            "output": "tossed_chicken in barbecue sauce"
+        },
+        {
+            "instructions": "set aside .",
+            "input": "tossed_chicken in barbecue sauce",
+            "action": "set",
+            "output": "tossed_chicken in barbecue sauce"
+        },
+        {
+            "instructions": "heat the oil in a medium skillet over medium high .",
+            "input": "oil",
+            "action": "heat",
+            "output": "heated oil"
+        },
+        {
+            "instructions": "add the onions",
+            "input": "(onions; heated oil)",
+            "action": "add",
+            "output": "onions in heated oil"
+        },
+        {
+            "instructions": "saute until softened and slightly charred , about 8 minutes .",
+            "input": "onions in heated oil",
+            "action": "saute",
+            "output": "sauteed_onions"
+        },
+        {
+            "instructions": "in a small saucepan , melt the butter .",
+            "input": "butter",
+            "action": "melt",
+            "output": "melted_butter"
+        },
+        {
+            "instructions": "add the flour",
+            "input": "(flour; melted_butter)",
+            "action": "add",
+            "output": "roux"
+        },
+        {
+            "instructions": "whisk until combined , 30 seconds .",
+            "input": "roux",
+            "action": "whisk",
+            "output": "whisked roux"
+        },
+        {
+            "instructions": "add the cream",
+            "input": "(whisked roux; cream)",
+            "action": "add",
+            "output": "cream added to whisked roux"
+        },
+        {
+            "instructions": "whisk until it starts to thicken , 1 minute .",
+            "input": "cream added to whisked roux",
+            "action": "whisk",
+            "output": "whisked white sauce"
+        },
+        {
+            "instructions": "add the remaining bbq_sauce",
+            "input": "(whisked white sauce; remaining bbq sauce)",
+            "action": "add",
+            "output": "remaining bbq sauce added to whisked white sauce"
+        },
+        {
+            "instructions": "whisk until combined , smooth and creamy , another minute or",
+            "input": "bbq sauce mixture",
+            "action": "whisk",
+            "output": "bbq sauce mixture"
+        },
+        {
+            "instructions": "on a clean , floured work surface , roll out each dough , ball until its",
+            "input": "dough ball",
+            "action": "roll",
+            "output": "pizza_dough"
+        },
+        {
+            "instructions": "evenly spoon the creamy bbq_sauce over each crust .",
+            "input": "(pizza_dough; bbq sauce mixture)",
+            "action": "spoon",
+            "output": "sauced_dough"
+        },
+        {
+            "instructions": "top with chopped chicken , sauteed onions and the shredded_mozzarella_cheese .",
+            "input": "(sauced_dough; chopped chicken; sauteed onions; shredded_mozzarella_cheese)",
+            "action": "top",
+            "output": "sauced crust topped with coated chicken , sauteed onions and shredded_mozzarella_cheese"
+        },
+        {
+            "instructions": "slide onto a pizza stone if you have one",
+            "input": "assembled creamy_bbq_chicken_pizza",
+            "action": "slide",
+            "output": "assembled creamy_bbq_chicken_pizza"
+        },
+        {
+            "instructions": "bake roughly 15 minutes , or until the cheese is browned and bubbly on top .",
+            "input": "uncooked assembled creamy_bbq_chicken_pizza",
+            "action": "bake",
+            "output": "baked creamy_bbq_chicken_pizza"
+        },
+        {
+            "instructions": "garnish with fresh_cilantro",
+            "input": "(cilantro; baked creamy_bbq_chicken_pizza)",
+            "action": "garnish",
+            "output": "baked creamy_bbq_chicken_pizza garnished with cilantro"
+        },
+        {
+            "instructions": "slice",
+            "input": "baked creamy_bbq_chicken_pizza",
+            "action": "slice",
+            "output": "Sliced baked creamy_bbq_chicken_pizza"
+        }
+    ],
+    "ingredients": [
+        {
+            "text": "2 whole Chicken Breast Halves, Poached And Chopped"
+        },
+        {
+            "text": "1/2 cups Favorite BBQ Sauce, Divided"
+        },
+        {
+            "text": "1 Tablespoon Extra Virgin Olive Oil"
+        },
+        {
+            "text": "1 whole Medium Red Onion, Thinly Sliced"
+        },
+        {
+            "text": "1 Tablespoon Butter"
+        },
+        {
+            "text": "1 Tablespoon All-purpose Flour"
+        },
+        {
+            "text": "1/4 cups Heavy Cream"
+        },
+        {
+            "text": "1 pound Store Bought Pizza Dough, Divided Into Two Balls"
+        },
+        {
+            "text": "1 cup Shredded Mozzarella Cheese"
+        },
+        {
+            "text": "1 cup Loose Cilatnro Leaves, For Garnish"
+        }
+    ],
+    "recipe": [
+        {
+            "text": "Preheat oven to 400 degrees F."
+        },
+        {
+            "text": "Toss the chopped chicken with 2 tablespoons bbq sauce."
+        },
+        {
+            "text": "Set aside."
+        },
+        {
+            "text": "Heat the oil in a medium skillet over medium high."
+        },
+        {
+            "text": "Add the onions and saute until softened and slightly charred, about 8 minutes."
+        },
+        {
+            "text": "In a small saucepan, melt the butter."
+        },
+        {
+            "text": "Add the flour and whisk until combined, 30 seconds."
+        },
+        {
+            "text": "Add the cream and whisk until it starts to thicken, 1 minute."
+        },
+        {
+            "text": "Add the remaining bbq sauce and whisk until combined, smooth and creamy, another minute or so (you can do this part after your dough is rolled out if ya want)."
+        },
+        {
+            "text": "On a clean, floured work surface, roll out each dough ball until its roughly 10 inches in diameter."
+        },
+        {
+            "text": "Evenly spoon the creamy bbq sauce over each crust."
+        },
+        {
+            "text": "Top with chopped chicken, sauteed onions and the shredded mozzarella cheese."
+        },
+        {
+            "text": "Slide onto a pizza stone (if you have one) and bake roughly 15 minutes, or until the cheese is browned and bubbly on top."
+        },
+        {
+            "text": "Garnish with fresh cilantro, slice and inhale the entire thing when no one is looking."
+        },
+        {
+            "text": "Not that I did that."
+        },
+        {
+            "text": "I totally did that."
+        }
+    ]
+}

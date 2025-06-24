@@ -1,0 +1,136 @@
+{
+    "title": "beef_fajita_pizza",
+    "id": "57967749aa",
+    "table": [
+        {
+            "instructions": "preheat to 450f .",
+            "input": "NA",
+            "action": "preheat",
+            "output": "NA"
+        },
+        {
+            "instructions": "heat skillet to medium high heat .",
+            "input": "NA",
+            "action": "heat",
+            "output": "NA"
+        },
+        {
+            "instructions": "sprinkle the steak with the chili_powder , garlic_powder .",
+            "input": "(steak; chili_powder; garlic_powder)",
+            "action": "sprinkle",
+            "output": "steak sprinkled with chili_powder and garlic_powder"
+        },
+        {
+            "instructions": "sear steak for 4 minutes on both sides .",
+            "input": "uncooked seasoned steak",
+            "action": "sear",
+            "output": "seared seasoned steak"
+        },
+        {
+            "instructions": "remove from pan",
+            "input": "seared seasoned steak",
+            "action": "remove",
+            "output": "seared seasoned steak"
+        },
+        {
+            "instructions": "slice steak diagonally across grain into 14 inch strips .",
+            "input": "seared seasoned steak",
+            "action": "slice",
+            "output": "sliced seared seasoned steak"
+        },
+        {
+            "instructions": "lightly coat pizza_crust with cooking_spray .",
+            "input": "(cooking_spray; pizza_crust)",
+            "action": "coat",
+            "output": "pizza_crust coated with cooking_spray"
+        },
+        {
+            "instructions": "spread salsa evenly over crust .",
+            "input": "(oiled_pizza_crust; salsa)",
+            "action": "spread",
+            "output": "salsa spread on oiled_pizza_crust"
+        },
+        {
+            "instructions": "arrange peppers and onion evenly .",
+            "input": "(peppers; onion; pizza crust with salsa)",
+            "action": "arrange",
+            "output": "peppers and onion arranged on pizza crust with salsa"
+        },
+        {
+            "instructions": "sprinkle with cheese .",
+            "input": "(cheese; pizza crust with salsa and veggies)",
+            "action": "sprinkle",
+            "output": "cheese sprinkled on  pizza crust with salsa and veggies"
+        },
+        {
+            "instructions": "bake for 8 10 minutes .",
+            "input": "uncooked beef_fajita_pizza",
+            "action": "bake",
+            "output": "baked beef_fajita_pizza"
+        }
+    ],
+    "ingredients": [
+        {
+            "text": "2 teaspoons chili powder"
+        },
+        {
+            "text": "14 teaspoon garlic powder"
+        },
+        {
+            "text": "12 lb boneless sirloin steak"
+        },
+        {
+            "text": "10 ounces thing italian-cheese flavored prepared pizza crust"
+        },
+        {
+            "text": "cooking spray"
+        },
+        {
+            "text": "12 cup chunky salsa"
+        },
+        {
+            "text": "1 medium green bell pepper, cut into trips"
+        },
+        {
+            "text": "1 medium red onion, thinly sliced and separated into rings"
+        },
+        {
+            "text": "3 ounces shredded mexican cheese, bland"
+        }
+    ],
+    "recipe": [
+        {
+            "text": "Preheat to 450F."
+        },
+        {
+            "text": "Heat skillet to medium high heat."
+        },
+        {
+            "text": "Sprinkle the steak with the chili powder, garlic powder."
+        },
+        {
+            "text": "Sear steak for 4 minutes on both sides."
+        },
+        {
+            "text": "Remove from pan and let sit for 5 minutes."
+        },
+        {
+            "text": "slice steak diagonally across grain into 1/4 inch strips."
+        },
+        {
+            "text": "Lightly coat pizza crust with cooking spray."
+        },
+        {
+            "text": "Spread salsa evenly over crust."
+        },
+        {
+            "text": "Arrange peppers and onion evenly."
+        },
+        {
+            "text": "And top with steak strips and sprinkle with cheese."
+        },
+        {
+            "text": "Bake for 8-10 minutes."
+        }
+    ]
+}

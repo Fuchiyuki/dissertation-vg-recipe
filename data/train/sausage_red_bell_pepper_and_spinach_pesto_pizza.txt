@@ -1,0 +1,181 @@
+{
+    "title": "sausage_red_bell_pepper_and_spinach_pesto_pizza",
+    "id": "49cad34589",
+    "table": [
+        {
+            "instructions": "with the motor running , add the 12 cup , oil in a thin stream until pesto y.",
+            "input": "(oil; pesto)",
+            "actions": "add",
+            "output": "added_oilto pesto"
+        },
+        {
+            "instructions": "set aside .",
+            "input": "pesto",
+            "actions": "set",
+            "output": "pesto"
+        },
+        {
+            "instructions": "heat the remaining tablespoon of oil in a medium skillet",
+            "input": "remaining oil",
+            "actions": "heat",
+            "output": "heated oil"
+        },
+        {
+            "instructions": "add the sausage .",
+            "input": "(heated oil; sausage)",
+            "actions": "add",
+            "output": "sausage in heated oil"
+        },
+        {
+            "instructions": "break up with a wooden spoon",
+            "input": "sausage in heated oil",
+            "actions": "break",
+            "output": "broken sausage in heated oil"
+        },
+        {
+            "instructions": "cook until browned , about 5 minutes .",
+            "input": "broken sausage in heated oil",
+            "actions": "cook",
+            "output": "Browned sausage"
+        },
+        {
+            "instructions": "set aside .",
+            "input": "Browned sausage",
+            "actions": "set",
+            "output": "browned sausage"
+        },
+        {
+            "instructions": "to the pan , add the red_pepper .",
+            "input": "(browned sausage; red pepper)",
+            "actions": "add",
+            "output": "red pepper added to sausage in pan"
+        },
+        {
+            "instructions": "add a little more oil if needed .",
+            "input": "(red pepper added to sausage in pan; oil)",
+            "actions": "add",
+            "output": "red pepper mixed with sausage in oil"
+        },
+        {
+            "instructions": "evenly spoon the pesto over it .",
+            "input": "(red pepper mixed with sausage; pesto; pizza crust)",
+            "actions": "spoon",
+            "output": "pesto poured over pizza crust with red pepper mixed with sausage in oil"
+        },
+        {
+            "instructions": "sprinkle a little cheese on top .",
+            "input": "(red pepper and sausage pesto pizza; cheese)",
+            "actions": "sprinkle",
+            "output": "red pepper and sausage pesto pizza topped with cheese"
+        },
+        {
+            "instructions": "then add some sausage .",
+            "input": "(red pepper and sausage pesto pizza topped with cheese; sausage)",
+            "actions": "add",
+            "output": "sausage over red pepper and sausage pesto pizza topped with cheese"
+        },
+        {
+            "instructions": "bake according to package directions around 10 minutes",
+            "input": "uncooked sausage red bell pepper and pesto pizza",
+            "actions": "bake",
+            "output": "baked sausage red bell pepper and pesto pizza"
+        },
+        {
+            "instructions": "slice her up",
+            "input": "baked sausage red bell pepper and pesto pizza",
+            "actions": "slice",
+            "output": "sliced baked sausage red bell pepper and pesto pizza"
+        }
+    ],
+    "ingredients": [
+        {
+            "text": "2 cups Baby Spinach"
+        },
+        {
+            "text": "3 cloves Garlic, Chopped"
+        },
+        {
+            "text": "1/4 cups Grated Parmesan"
+        },
+        {
+            "text": "1/4 cups Pine Nuts, Toasted"
+        },
+        {
+            "text": "1 pinch Coarse Salt And Freshly Ground Pepper"
+        },
+        {
+            "text": "1/2 cups Extra-virgin Olive Oil, Plus 1 Tablespoon, Divided"
+        },
+        {
+            "text": "1 whole Italian Sausage, Casing Removed"
+        },
+        {
+            "text": "1/2 whole Red Bell Pepper, Cut Into Thin Sticks"
+        },
+        {
+            "text": "1 whole 12-inch Pre-made Thin Pizza Crust"
+        },
+        {
+            "text": "1 cup Shredded Mozzarella"
+        }
+    ],
+    "recipe": [
+        {
+            "text": "In a food processor, blitz the spinach, garlic, parmesan, pine nuts, and a good pinch of salt and pepper."
+        },
+        {
+            "text": "With the motor running, add the 1/2 cup oil in a thin stream until pesto-y."
+        },
+        {
+            "text": "Set aside."
+        },
+        {
+            "text": "Heat the remaining tablespoon of oil in a medium skillet and add the sausage."
+        },
+        {
+            "text": "Break up with a wooden spoon and cook until browned, about 5 minutes."
+        },
+        {
+            "text": "Set aside."
+        },
+        {
+            "text": "To the pan, add the red pepper."
+        },
+        {
+            "text": "Add a little more oil if needed."
+        },
+        {
+            "text": "Throw a teeny dash of salt in there."
+        },
+        {
+            "text": "Grab your crust and evenly spoon the pesto over it."
+        },
+        {
+            "text": "Sprinkle a little cheese on top."
+        },
+        {
+            "text": "Then add some sausage."
+        },
+        {
+            "text": "Then some cheese."
+        },
+        {
+            "text": "Then some peppers."
+        },
+        {
+            "text": "Then more cheese."
+        },
+        {
+            "text": "Mommy."
+        },
+        {
+            "text": "Bake according to package directions (around 10 minutes), slice her up and eat the WHOLE THING."
+        },
+        {
+            "text": "Im kidding!"
+        },
+        {
+            "text": "Not really."
+        }
+    ]
+}

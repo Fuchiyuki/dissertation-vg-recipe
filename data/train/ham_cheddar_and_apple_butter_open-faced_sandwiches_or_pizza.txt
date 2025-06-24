@@ -1,0 +1,133 @@
+{
+    "title": "ham_cheddar_and_apple_butter_open-faced_sandwiches_or_pizza",
+    "id": "7a035bda75",
+    "table": [
+        {
+            "instructions": "brush cut side of rolls with oil .",
+            "input": "NA",
+            "action": "brush",
+            "output": "NA"
+        },
+        {
+            "instructions": "place rolls , cut side up , on baking sheet ,",
+            "input": "rolls",
+            "action": "place",
+            "output": "rolls on baking sheet"
+        },
+        {
+            "instructions": "broil until rolls begin to brown around edges , about 2 minutes .",
+            "input": "rolls on baking sheet",
+            "action": "broil",
+            "output": "broiled rolls"
+        },
+        {
+            "instructions": "for pizza , use crust of choice",
+            "input": "NA",
+            "action": "use",
+            "output": "NA"
+        },
+        {
+            "instructions": "brush with a light coating of oil ,",
+            "input": "(pizza crust; oil)",
+            "action": "brush",
+            "output": "oiled pizza crust"
+        },
+        {
+            "instructions": "spread apple_butter and mustard on each roll half .",
+            "input": "(apple butter; mustard; broiled rolls)",
+            "action": "spread",
+            "output": "apple butter and mustard sprinkled on broiled rolls"
+        },
+        {
+            "instructions": "for pizza , spread the mustard over the whole crust",
+            "input": "(oiled pizza crust; mustard)",
+            "action": "spread",
+            "output": "oiled pizza crust with spread mustard"
+        },
+        {
+            "instructions": "add the apple_butter as small dollops over whole crust .",
+            "input": "(oiled pizza crust with spread mustard; apple butter)",
+            "action": "add",
+            "output": "apple butter on oiled pizza crust with spread mustard"
+        },
+        {
+            "instructions": "top with ham , then cheese if using onion spinach addition",
+            "input": "(ham; cheese; optional onion; optional spinach)",
+            "action": "top",
+            "output": "oiled pizza crust with spread mustard, apple butter in dollops, ham, cheese, optional onion and spinach"
+        },
+        {
+            "instructions": "add after ham or any desired order",
+            "input": "oiled pizza crust with spread mustard, apple butter in dollops, ham, cheese, optional onion and spinach",
+            "action": "add",
+            "output": "oiled pizza crust with spread mustard, apple butter in dollops, ham, cheese, optional onion and spinach"
+        },
+        {
+            "instructions": "broil until cheese melts",
+            "input": "oiled pizza crust with spread mustard, apple butter in dollops, ham, cheese, optional onion and spinach",
+            "action": "broil",
+            "output": "broiled ham_cheddar_and_apple_butter pizza "
+        },
+        {
+            "instructions": "optional sprinkle with chopped chives .",
+            "input": "(broiled ham_cheddar_and_apple_butter pizza; optional chopped chives)",
+            "action": "sprinkle",
+            "output": "optional chopped chives sprinkled over broiled ham_cheddar_and_apple_butter pizza "
+        }
+    ],
+    "ingredients": [
+        {
+            "text": "3 ciabatta rolls, halved horizontally (or 6 slices country-style bread)"
+        },
+        {
+            "text": "2 tablespoons olive oil"
+        },
+        {
+            "text": "6 tablespoons apple butter"
+        },
+        {
+            "text": "4 tablespoons Dijon mustard"
+        },
+        {
+            "text": "1 14 lbs black forest ham, thinly sliced (I ended up with smoked turkey, and used less than half this amount)"
+        },
+        {
+            "text": "12 ounces white cheddar cheese, extra sharp, sliced (can use non-white and adjust amount to taste)"
+        },
+        {
+            "text": "1 bunch chives, chopped (optional)"
+        }
+    ],
+    "recipe": [
+        {
+            "text": "Brush cut side of rolls with oil."
+        },
+        {
+            "text": "Place rolls, cut side up, on baking sheet, and broil until rolls begin to brown around edges, about 2 minutes."
+        },
+        {
+            "text": "For pizza, use crust of choice, brush with a light coating of oil, and prebake."
+        },
+        {
+            "text": "Spread apple butter and mustard on each roll half."
+        },
+        {
+            "text": "For pizza, spread the mustard over the whole crust and add the apple butter as small dollops (over whole crust)."
+        },
+        {
+            "text": "Top with ham, then cheese (if using onion/spinach addition, add after ham or any desired order)."
+        },
+        {
+            "text": "Broil until cheese melts and begins to brown in spots (2 minutes for sandwiches; if baking a pizza, probably 7 to 8 minutes--not under broiler--are fine depending on the directions for the dough used)."
+        },
+        {
+            "text": "It is good if some of the edges of the sliced meat get a little singed!"
+        },
+        {
+            "text": "Optional: sprinkle with chopped chives."
+        },
+        {
+            "text": "Black pepper is a good addition at the end as well."
+        }
+    ]
+}

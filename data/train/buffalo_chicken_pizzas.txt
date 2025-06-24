@@ -1,0 +1,157 @@
+{
+    "title": "buffalo_chicken_pizzas",
+    "id": "ebe9a3edaa",
+    "table": [
+        {
+            "instructions": "heat oven to 425f .",
+            "input": "NA",
+            "action": "heat",
+            "output": "NA"
+        },
+        {
+            "instructions": "lightly coat cookie sheet with olive_oil .",
+            "input": "NA",
+            "action": "coat",
+            "output": "NA"
+        },
+        {
+            "instructions": "unroll dough .",
+            "input": "dough",
+            "action": "unroll",
+            "output": "unrolled_dough"
+        },
+        {
+            "instructions": "with sharp knife or pizza cutter , cut into 4 rectangles .",
+            "input": "dough",
+            "action": "cut",
+            "output": "rectangles of dough"
+        },
+        {
+            "instructions": "place rectangles on oiled cookie sheet",
+            "input": "rectangles of dough",
+            "action": "place",
+            "output": "rectangles of dough"
+        },
+        {
+            "instructions": "press each to form 6x5",
+            "input": "rectangles of dough",
+            "action": "press",
+            "output": "pressed pizza crusts"
+        },
+        {
+            "instructions": "melt butter in large skillet over medium high heat .",
+            "input": "butter",
+            "action": "melt",
+            "output": "melted butter"
+        },
+        {
+            "instructions": "add chicken , onion and hot_pepper_sauce ;",
+            "input": "(melted butter; chicken; onion; hot_pepper_sauce)",
+            "action": "add",
+            "output": "buttery chicken, onion and hot_pepper_ mixture"
+        },
+        {
+            "instructions": "cook 4 to 6 minutes or until chicken is no longer pink in center , stirring occasionally .",
+            "input": "buttery chicken, onion and hot_pepper_ mixture",
+            "action": "cook",
+            "output": "cooked buttery chicken, onion and hot_pepper_ mixture"
+        },
+        {
+            "instructions": "remove from heat .",
+            "input": "cooked buttery chicken, onion and hot_pepper_ mixture",
+            "action": "remove",
+            "output": "cooked buttery chicken, onion and hot_pepper_ mixture"
+        },
+        {
+            "instructions": "stir in tomatoes .",
+            "input": "(cooked buttery chicken, onion and hot_pepper_ mixture; tomatoes)",
+            "action": "stir",
+            "output": "tomatoes stirred into cooked buttery chicken, onion and hot_pepper_ mixture"
+        },
+        {
+            "instructions": "with slotted spoon , spoon mixture over dough rectangles to within 14 inch of edges .",
+            "input": "(buttery chicken, onion and hot_pepper_sauce with tomatoes; pizza crust)",
+            "action": "spoon",
+            "output": "buttery chicken, onion and hot_pepper_sauce and tomatoes spooned over pizza crust"
+        },
+        {
+            "instructions": "sprinkle evenly with cheese .",
+            "input": "(cheese; pizza crust with buttery chicken, onion and hot_pepper_sauce and tomatoes)",
+            "action": "sprinkle",
+            "output": "pizza crust with buttery chicken, onion and hot_pepper_sauce, tomatoes and cheese"
+        },
+        {
+            "instructions": "bake at 425f .",
+            "input": "uncooked buffalo_chicken_pizzas",
+            "action": "bake",
+            "output": "baked buffalo_chicken_pizzas"
+        }
+    ],
+    "ingredients": [
+        {
+            "text": "olive oil"
+        },
+        {
+            "text": "1 (10 ounce) canpillsbury prepared pizza crust"
+        },
+        {
+            "text": "3 tablespoons butter or 3 tablespoons margarine"
+        },
+        {
+            "text": "1 lb boneless skinless chicken breast half, cut into 1/2 inch pieces"
+        },
+        {
+            "text": "1 medium sweet onion, chopped (1/2 cup)"
+        },
+        {
+            "text": "3 tablespoons hot pepper sauce"
+        },
+        {
+            "text": "1 cup diced Italian plum tomato"
+        },
+        {
+            "text": "4 ounces shredded monterey jack cheese (1 cup)"
+        }
+    ],
+    "recipe": [
+        {
+            "text": "Heat oven to 425F."
+        },
+        {
+            "text": "Lightly coat cookie sheet with olive oil."
+        },
+        {
+            "text": "Unroll dough."
+        },
+        {
+            "text": "With sharp knife or pizza cutter, cut into 4 rectangles."
+        },
+        {
+            "text": "Place rectangles on oiled cookie sheet; press each to form 6x5-inch rectangle."
+        },
+        {
+            "text": "Melt butter in large skillet over medium-high heat."
+        },
+        {
+            "text": "Add chicken, onion and hot pepper sauce; cook 4 to 6 minutes or until chicken is no longer pink in center, stirring occasionally."
+        },
+        {
+            "text": "Remove from heat."
+        },
+        {
+            "text": "Stir in tomatoes."
+        },
+        {
+            "text": "With slotted spoon, spoon mixture over dough rectangles to within 1/4 inch of edges."
+        },
+        {
+            "text": "Sprinkle evenly with cheese."
+        },
+        {
+            "text": "Bake at 425F."
+        },
+        {
+            "text": "for 13 to 16 minutes or until crust is deep golden brown."
+        }
+    ]
+}

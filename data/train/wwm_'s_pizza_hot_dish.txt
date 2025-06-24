@@ -1,0 +1,160 @@
+{
+    "title": "wwm_'s_pizza_hot_dish",
+    "id": "de5724cee7",
+    "table": [
+        {
+            "instructions": "preheat the oven to 350f",
+            "input": "NA",
+            "action": "preheat",
+            "output": "NA"
+        },
+        {
+            "instructions": "spray a 2 qt , baking dish with nonstick_spray .",
+            "input": "NA",
+            "action": "spray",
+            "output": "NA"
+        },
+        {
+            "instructions": "cook the noodles as directed .",
+            "input": "noodles",
+            "action": "cook",
+            "output": "cooked_noodles"
+        },
+        {
+            "instructions": "rinse",
+            "input": "noodles",
+            "action": "rinse",
+            "output": "rinsed noodles"
+        },
+        {
+            "instructions": "drain .",
+            "input": "rinsed noodles",
+            "action": "drain",
+            "output": "dried noodles"
+        },
+        {
+            "instructions": "spray a large skillet with nonstick_spray .",
+            "input": "NA",
+            "action": "spray",
+            "output": "NA"
+        },
+        {
+            "instructions": "cook the next 3 ingredients over med hi heat 5 minutes .",
+            "input": "(mushrooms; orange bell pepper; chopped onion)",
+            "action": "cook",
+            "output": "cooked vegetable mixture"
+        },
+        {
+            "instructions": "add the turkey",
+            "input": "(turkey pepperoni; cooked vegetable mixture)",
+            "action": "add",
+            "output": "turkey pepperon added to cooked vegetable mixture"
+        },
+        {
+            "instructions": "cook until browned .",
+            "input": "turkey pepperon added to cooked vegetable mixture",
+            "action": "cook",
+            "output": "cooked vegetable and turkey pepperoni mixture"
+        },
+        {
+            "instructions": "add the spaghetti sauce , soup , 12 cup , cheddar_cheese and the noodles .",
+            "input": "(cooked vegetable and turkey pepperoni mixture; spaghetti sauce; chicken soup, cheddar_cheese; drained noodles)",
+            "action": "add",
+            "output": "turkey pepperoni pasta casserole"
+        },
+        {
+            "instructions": "spoon into baking dish .",
+            "input": "turkey pepperoni pasta casserole",
+            "action": "spoon",
+            "output": "turkey pepperoni pasta casserole in baking dish"
+        },
+        {
+            "instructions": "bake until hot , about 40 minutes .",
+            "input": "turkey pepperoni pasta casserole in baking dish",
+            "action": "bake",
+            "output": "baked turkey pepperoni pasta casserole"
+        },
+        {
+            "instructions": "top with the remaining cheddar and remaining_ingredient .",
+            "input": "(remaining cheddar; pitted olives; grated parmesan)",
+            "action": "top",
+            "output": "baked casserole topped with remaining cheddar, pitted olives and grated parmesan"
+        },
+        {
+            "instructions": "bake 5 minutes longer .",
+            "input": "baked turkey pepperoni pasta casserole",
+            "action": "bake",
+            "output": "fully baked turkey pepperoni pasta casserole"
+        }
+    ],
+    "ingredients": [
+        {
+            "text": "7 ounces whole wheat egg noodles"
+        },
+        {
+            "text": "1 (10 ounce) package mushrooms, sliced"
+        },
+        {
+            "text": "1 large orange bell pepper, cut into strips"
+        },
+        {
+            "text": "1 onion, chopped"
+        },
+        {
+            "text": "12 lb ground turkey"
+        },
+        {
+            "text": "1 12 cups reduced-fat spaghetti sauce"
+        },
+        {
+            "text": "1 (10 3/4 ounce) can reduced-fat cream of chicken soup"
+        },
+        {
+            "text": "34 cup reduced-fat cheddar cheese, shredded"
+        },
+        {
+            "text": "1 (3 1/2 ounce) package turkey pepperoni"
+        },
+        {
+            "text": "14 lb olive, pitted and sliced"
+        },
+        {
+            "text": "2 tablespoons reduced-fat parmesan cheese, grated"
+        }
+    ],
+    "recipe": [
+        {
+            "text": "Preheat the oven to 350F and spray a 2 qt baking dish with nonstick spray."
+        },
+        {
+            "text": "Cook the noodles as directed."
+        },
+        {
+            "text": "Rinse and drain."
+        },
+        {
+            "text": "Spray a large skillet with nonstick spray."
+        },
+        {
+            "text": "Cook the next 3 ingredients over med-hi heat 5 minutes."
+        },
+        {
+            "text": "Add the turkey and cook until browned."
+        },
+        {
+            "text": "Add the spaghetti sauce, soup, 1/2 cup cheddar cheese and the noodles."
+        },
+        {
+            "text": "Spoon into baking dish."
+        },
+        {
+            "text": "Bake until hot, about 40 minutes."
+        },
+        {
+            "text": "Top with the remaining cheddar and remaining ingredients."
+        },
+        {
+            "text": "Bake 5 minutes longer."
+        }
+    ]
+}

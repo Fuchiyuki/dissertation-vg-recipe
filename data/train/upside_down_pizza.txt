@@ -1,0 +1,91 @@
+{
+    "title": "upside_down_pizza",
+    "id": "f921d6c39c",
+    "table": [
+        {
+            "instructions": "brown ground_beef .",
+            "input": "ground_beef",
+            "actions": "brown",
+            "output": "browned_ground_beef"
+        },
+        {
+            "instructions": "stir in sauce and paste .",
+            "input": "(browned_ground_beef; sauce; paste)",
+            "actions": "stir",
+            "output": "mixture of ground_beef, sauce and beef"
+        },
+        {
+            "instructions": "spread mixture into an 8x8 inch , baking pan .",
+            "input": "mixture of ground_beef, sauce and beef",
+            "actions": "spread",
+            "output": "spread_mixture of ground_beef, sauce and beef"
+        },
+        {
+            "instructions": "spread a layer of sour_cream on top .",
+            "input": "(mixture of ground_beef, sauce and beef; sour_cream)",
+            "actions": "spread",
+            "output": "mixture_of_ground_beef_topped_with_sour_cream"
+        },
+        {
+            "instructions": "top with shredded_cheese .",
+            "input": "(mixture_of_ground_beef_topped_with_sour_cream; shredded_cheese)",
+            "actions": "top",
+            "output": "layered_ground_beef_and_sour_cream_topped_with_shredded_cheese"
+        },
+        {
+            "instructions": "completely cover with strips of crescent_roll .",
+            "input": "(layered_ground_beef_and_sour_cream_topped_with_shredded_cheese; strips_of_crescent_rolls)",
+            "actions": "cover",
+            "output": "layers_of_ground_beef, sour_cream and shredded_cheese_covered_with_strips_of_crescent_rolls"
+        },
+        {
+            "instructions": "bake at 375f for 15 minutes or until browned .",
+            "input": "uncooked_layers",
+            "actions": "bake",
+            "output": "cooked_upside_down_pizza"
+        }
+    ],
+    "ingredients": [
+        {
+            "text": "1 lb. ground beef"
+        },
+        {
+            "text": "6 oz. tomato sauce"
+        },
+        {
+            "text": "4 oz. tomato paste"
+        },
+        {
+            "text": "4 oz. sour cream"
+        },
+        {
+            "text": "12 oz. shredded cheese"
+        },
+        {
+            "text": "Crescent rolls"
+        }
+    ],
+    "recipe": [
+        {
+            "text": "Brown ground beef."
+        },
+        {
+            "text": "Stir in sauce and paste."
+        },
+        {
+            "text": "Spread mixture into an 8x8-inch baking pan."
+        },
+        {
+            "text": "Spread a layer of sour cream on top."
+        },
+        {
+            "text": "Top with shredded cheese."
+        },
+        {
+            "text": "Completely cover with strips of crescent rolls."
+        },
+        {
+            "text": "Bake at 375F for 15 minutes or until browned."
+        }
+    ]
+}

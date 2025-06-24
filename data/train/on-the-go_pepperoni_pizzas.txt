@@ -1,0 +1,97 @@
+{
+    "title": "on-the-go_pepperoni_pizzas",
+    "id": "615c91fd12",
+    "table": [
+        {
+            "instructions": "in large bowl , mix pizza_sauce and cream_cheese until well blended .",
+            "input": "(pizza_sauce; cream_cheese)",
+            "action": "mix",
+            "output": "pizza sauce and cream cheese mixture"
+        },
+        {
+            "instructions": "stir in pepperoni , onions , bell_pepper and 1 cup of the cheese .",
+            "input": "(pepperoni; onions; bell pepper; cheese; pizza sauce and cream cheese mixture)",
+            "action": "stir",
+            "output": "pepperoni, onions, bell pepper and cheese stirred into pizza sauce and cream cheese mixture"
+        },
+        {
+            "instructions": "cover",
+            "input": "pepperoni, vegetables and cheese mixture",
+            "action": "cover",
+            "output": "covered pepperoni, vegetables and cheese mixture"
+        },
+        {
+            "instructions": "refrigerate up to 3 days .",
+            "input": "covered pepperoni, vegetables and cheese mixture",
+            "action": "refrigerate",
+            "output": "refrigerated pepperoni, vegetables and cheese mixture"
+        },
+        {
+            "instructions": "to make 1 serving",
+            "input": "NA",
+            "action": "make",
+            "output": "NA"
+        },
+        {
+            "instructions": "place 2 toasted muffin halves on microwavable plate .",
+            "input": "muffin halves",
+            "action": "place",
+            "output": "toasted muffin halves"
+        },
+        {
+            "instructions": "top each half with about 14 cup , pepperoni mixture and heaping tablespoon remaining cheese .",
+            "input": "(pepperoni, vegetables and cheese mixture; remaining cheese; toasted muffin halves)",
+            "action": "top",
+            "output": "toasted muffin halves with pepperoni, vegetables and cheese mixture and remaining cheese"
+        },
+        {
+            "instructions": "microwave on high about 1 minute or until hot .",
+            "input": "toasted muffin halves with pepperoni, vegetables and cheese mixture and remaining cheese",
+            "action": "microwave",
+            "output": "microwaved toasted muffin halves with pepperoni, vegetables and cheese mixture and remaining cheese"
+        }
+    ],
+    "ingredients": [
+        {
+            "text": "1 (8 ounce) can pizza sauce"
+        },
+        {
+            "text": "1 (3 ounce) package cream cheese, softened"
+        },
+        {
+            "text": "1 (8 ounce) packagesliced pepperoni, coarsely chopped (2-1/2 cups)"
+        },
+        {
+            "text": "14 cup chopped green onion (4 medium)"
+        },
+        {
+            "text": "14 cup finely chopped green bell pepper"
+        },
+        {
+            "text": "1 12 cups shredded mozzarella cheese (6 oz.)"
+        },
+        {
+            "text": "6 English muffins or 6 bagels, split, toasted"
+        }
+    ],
+    "recipe": [
+        {
+            "text": "In large bowl, mix pizza sauce and cream cheese until well blended."
+        },
+        {
+            "text": "Stir in pepperoni, onions, bell pepper and 1 cup of the cheese."
+        },
+        {
+            "text": "Cover, refrigerate up to 3 days."
+        },
+        {
+            "text": "To make 1 serving, place 2 toasted muffin halves on microwavable plate."
+        },
+        {
+            "text": "Top each half with about 1/4 cup pepperoni mixture and heaping tablespoon remaining cheese."
+        },
+        {
+            "text": "Microwave on High about 1 minute or until hot."
+        }
+    ]
+}

@@ -1,0 +1,178 @@
+{
+    "title": "sausage_and_broccoli_alfredo_personal_pizza",
+    "id": "0714bb068a",
+    "table": [
+        {
+            "instructions": "preheat your oven to 350 degrees f .",
+            "input": "NA",
+            "action": "preheat",
+            "output": "NA"
+        },
+        {
+            "instructions": "place pita_bread on a baking sheet",
+            "input": "pita_bread",
+            "action": "place",
+            "output": "pita_bread"
+        },
+        {
+            "instructions": "bake for 10 minutes .",
+            "input": "pita bread on baking sheet",
+            "action": "bake",
+            "output": "baked pita bread"
+        },
+        {
+            "instructions": "meanwhile , make the alfredo_sauce .",
+            "input": "NA",
+            "action": "make",
+            "output": "NA"
+        },
+        {
+            "instructions": "heat the butter in a small pot over medium heat .",
+            "input": "butter",
+            "action": "heat",
+            "output": "melted butter in small pot"
+        },
+        {
+            "instructions": "whisk in the flour",
+            "input": "(melted butter in small pot; flour)",
+            "action": "whisk",
+            "output": "butter and flour mixture in small pot"
+        },
+        {
+            "instructions": "gradually add the milk , whisking constantly ,",
+            "input": "(butter and flour mixture in small pot; milk)",
+            "action": "add",
+            "output": "roux"
+        },
+        {
+            "instructions": "cook until thick enough to coat the back of a spoon .",
+            "input": "roux",
+            "action": "cook",
+            "output": "cooked roux"
+        },
+        {
+            "instructions": "sprinkle with a pinch of salt and pepper",
+            "input": "(cooked roux; salt; pepper)",
+            "action": "sprinkle",
+            "output": "seasoned roux"
+        },
+        {
+            "instructions": "add the parmesan_cheese .",
+            "input": "(seasoned roux; parmesan cheese)",
+            "action": "add",
+            "output": "alfredo sauce with parmesan cheese"
+        },
+        {
+            "instructions": "top with the smoked_sausage , chopped broccoli , and mozzarella .",
+            "input": "(baked pita bread; alfredo sauce with parmesan cheese; smoked sausage; chopped broccoli; mozzarella cheese)",
+            "action": "top",
+            "output": "pita pizza topped with alfredo sauce, smoked sausage, broccoli, and mozzarella"
+        },
+        {
+            "instructions": "place the pita pizza back on the baking sheet",
+            "input": "sausage_and_broccoli_alfredo pita pizza",
+            "action": "place",
+            "output": "sausage_and_broccoli_alfredo pita pizza"
+        },
+        {
+            "instructions": "broil for 1 2 minutes , or until cheese is browned and bubbly .",
+            "input": "sausage_and_broccoli_alfredo pita pizza",
+            "action": "broil",
+            "output": "broiled sausage_and_broccoli_alfredo pita pizza"
+        },
+        {
+            "instructions": "remove",
+            "input": "broiled sausage_and_broccoli_alfredo pita pizza",
+            "action": "remove",
+            "output": "broiled sausage_and_broccoli_alfredo pita pizza"
+        },
+        {
+            "instructions": "slice into quarters .",
+            "input": "broiled sausage_and_broccoli_alfredo pita pizza",
+            "action": "slice",
+            "output": "quartered broiled sausage_and_broccoli_alfredo pita pizza"
+        }
+    ],
+    "ingredients": [
+        {
+            "text": "1 whole Pita Bread"
+        },
+        {
+            "text": "1 teaspoon Butter"
+        },
+        {
+            "text": "1 teaspoon Flour"
+        },
+        {
+            "text": "1/4 cups Skim Milk"
+        },
+        {
+            "text": "Salt And Pepper"
+        },
+        {
+            "text": "2 teaspoons Parmesan Cheese"
+        },
+        {
+            "text": "1 whole Smoked Sausage, Sliced"
+        },
+        {
+            "text": "3 pieces Broccoli Florets, Chopped"
+        },
+        {
+            "text": "2 slices Mozzarella Cheese, Or As Needed"
+        }
+    ],
+    "recipe": [
+        {
+            "text": "1."
+        },
+        {
+            "text": "Preheat your oven to 350 degrees F. Place pita bread on a baking sheet and bake for 10 minutes."
+        },
+        {
+            "text": "2."
+        },
+        {
+            "text": "Meanwhile, make the Alfredo sauce."
+        },
+        {
+            "text": "Heat the butter in a small pot over medium heat."
+        },
+        {
+            "text": "Whisk in the flour and let cook for 1 minute."
+        },
+        {
+            "text": "Gradually add the milk, whisking constantly, and cook until thick enough to coat the back of a spoon."
+        },
+        {
+            "text": "Sprinkle with a pinch of salt and pepper and add the Parmesan cheese."
+        },
+        {
+            "text": "3."
+        },
+        {
+            "text": "Pour the sauce over the pita bread (you may not need all of it)."
+        },
+        {
+            "text": "Top with the smoked sausage, chopped broccoli, and mozzarella."
+        },
+        {
+            "text": "4."
+        },
+        {
+            "text": "Flip the oven temperature to broil."
+        },
+        {
+            "text": "Place the pita pizza back on the baking sheet and broil for 1-2 minutes, or until cheese is browned and bubbly."
+        },
+        {
+            "text": "(Be careful!"
+        },
+        {
+            "text": "It can burn quickly!)"
+        },
+        {
+            "text": "Remove and slice into quarters."
+        }
+    ]
+}

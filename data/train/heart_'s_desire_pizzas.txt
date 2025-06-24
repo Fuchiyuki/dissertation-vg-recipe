@@ -1,0 +1,124 @@
+{
+    "title": "heart_'s_desire_pizzas",
+    "id": "f1ce4028c4",
+    "table": [
+        {
+            "instructions": "cut eight 6 inch square pieces of aluminum foil ;",
+            "input": "NA",
+            "action": "cut",
+            "output": "NA"
+        },
+        {
+            "instructions": "place on baking sheets .",
+            "input": "NA",
+            "action": "place",
+            "output": "NA"
+        },
+        {
+            "instructions": "lightly coat foil with nonstick cooking_spray ;",
+            "input": "NA",
+            "action": "coat",
+            "output": "NA"
+        },
+        {
+            "instructions": "set aside .",
+            "input": "NA",
+            "action": "set",
+            "output": "NA"
+        },
+        {
+            "instructions": "on a lightly floured surface , roll each biscuit into a 5 inch square .",
+            "input": "biscuit",
+            "action": "roll",
+            "output": "biscuit dough"
+        },
+        {
+            "instructions": "cut a 1 inch triangle from center top",
+            "input": "biscuit dough",
+            "action": "cut",
+            "output": "cut biscuit dough"
+        },
+        {
+            "instructions": "place on the center bottom , forming a heart .",
+            "input": "cut biscuit dough",
+            "action": "place",
+            "output": "folded biscuit dough"
+        },
+        {
+            "instructions": "press edges to seal .",
+            "input": "folded biscuit dough",
+            "action": "press",
+            "output": "biscuit dough with sealed edges"
+        },
+        {
+            "instructions": "transfer to foil squares .",
+            "input": "biscuit dough with sealed edges",
+            "action": "transfer",
+            "output": "biscuit dough with sealed edges"
+        },
+        {
+            "instructions": "spoon pizza_sauce",
+            "input": "(pizza_sauce; biscuit dough with sealed edges)",
+            "action": "spoon",
+            "output": "pizza sauce spooned over biscuit dough with sealed edges"
+        },
+        {
+            "instructions": "sprinkle with desired toppings and cheeses .",
+            "input": "(sauced biscuit dough with sealed edges; toppings; cheese)",
+            "action": "sprinkle",
+            "output": "sauced biscuit dough with sealed edges topped with toppings and cheese"
+        },
+        {
+            "instructions": "bake at 425 degrees f for 10 to 15 minutes or until golden brown .",
+            "input": "uncooked sauced biscuit dough with sealed edges topped with toppings and cheese",
+            "action": "bake",
+            "output": "baked sauced biscuit dough with sealed edges topped with toppings and cheese"
+        }
+    ],
+    "ingredients": [
+        {
+            "text": "1 (17 1/3 ounce) can large refrigerated biscuits"
+        },
+        {
+            "text": "1 (14 ounce) jar pizza sauce"
+        },
+        {
+            "text": "1 12-2 cups sliced ripe olives or 1 12-2 cups sliced and quartered pepperoni or 1 12-2 cups chopped fresh mushrooms or 1 12-2 cups chopped green peppers or 1 12-2 cups yellow sweet peppers (a combination)"
+        },
+        {
+            "text": "1 12 cups shredded mozzarella cheese (6 ounces)"
+        },
+        {
+            "text": "1 12 cups shredded cheddar cheese (6 ounces)"
+        }
+    ],
+    "recipe": [
+        {
+            "text": "Cut eight 6 inch square pieces of aluminum foil; place on baking sheets."
+        },
+        {
+            "text": "Lightly coat foil with nonstick cooking spray; set aside."
+        },
+        {
+            "text": "On a lightly floured surface, roll each biscuit into a 5 inch square."
+        },
+        {
+            "text": "Cut a 1 inch triangle from center top and place on the center bottom, forming a heart."
+        },
+        {
+            "text": "Press edges to seal."
+        },
+        {
+            "text": "Transfer to foil squares."
+        },
+        {
+            "text": "Spoon pizza sauce over dough within 1/4 inch of edges."
+        },
+        {
+            "text": "Sprinkle with desired toppings and cheeses."
+        },
+        {
+            "text": "Bake at 425 degrees F for 10 to 15 minutes or until golden brown."
+        }
+    ]
+}

@@ -1,0 +1,133 @@
+{
+    "title": "margherita_pizza_gluten_free",
+    "id": "5208d7f195",
+    "table": [
+        {
+            "instructions": "preheat oven to 425 degrees .",
+            "input": "NA",
+            "action": "preheat",
+            "output": "NA"
+        },
+        {
+            "instructions": "cook pizza_crust 10 minutes or as directed in recipe until it is mostly cooked .",
+            "input": "pizza_crust",
+            "action": "cook",
+            "output": "cooked_pizza_crust"
+        },
+        {
+            "instructions": "drizzle cooked crust with a little more than 1 tbsp of the olive_oil",
+            "input": "(cooked_pizza_crust; olive oil)",
+            "action": "drizzle",
+            "output": "cooked pizza crust with olive oil"
+        },
+        {
+            "instructions": "use a brush to spread until the entire crust is moistened , adding more olive_oil as needed .",
+            "input": "(cooked pizza crust with olive oil; optional olive oil)",
+            "action": "use",
+            "output": "cooked pizza crust brushed with olive oil"
+        },
+        {
+            "instructions": "spread sliced garlic evenly on top .",
+            "input": "(sliced garlic; cooked pizza crust brushed with olive oil)",
+            "action": "spread",
+            "output": "cooked pizza crust with olive oil"
+        },
+        {
+            "instructions": "top with a single layer of 14 thick slices of mozzarella or a thickness to your liking",
+            "input": "(mozzarella slices; cooked pizza crust with olive oil)",
+            "action": "top",
+            "output": "cooked pizza crust with olive oil and mozzarella slices"
+        },
+        {
+            "instructions": "then fill in any gaps in between the slices by sprinkling with the shredded mozzarella .",
+            "input": "(shredded mozzarella; cooked pizza crust with olive oil and mozzarella slices)",
+            "action": "fill",
+            "output": "cooked pizza crust with olive oil, mozzarella slices and shredded mozzarella"
+        },
+        {
+            "instructions": "Place thinnly sliced tomatoes on top of cheese in a single layer, spaced close together they will spread apart when baked .",
+            "input": "(cooked pizza crust with olive oil, mozzarella slices and shredded mozzarella; thinly sliced tomatoes)",
+            "action": "spread",
+            "output": "cooked pizza crust with olive oil, mozzarella slices, shredded mozzarella and thinly sliced tomatoes"
+        },
+        {
+            "instructions": "sprinkle with roughly chopped basil .",
+            "input": "(chopped basil; cooked pizza crust with olive oil, mozzarella slices, shredded mozzarella and thinly sliced tomatoes)",
+            "action": "sprinkle",
+            "output": "cooked pizza crust with olive oil, mozzarella slices, shredded mozzarella, thinly sliced tomatoes and chopped basil"
+        },
+        {
+            "instructions": "drizzle with the remaining olive_oil about 12 tbsp",
+            "input": "(remaining olive oil; cooked pizza crust with olive oil, mozzarella slices, shredded mozzarella, thinly sliced tomatoes and chopped basil)",
+            "action": "drizzle",
+            "output": "cooked pizza crust with olive oil, mozzarella slices, shredded mozzarella, thinly sliced tomatoes and chopped basil"
+        },
+        {
+            "instructions": "sprinkle with a little salt and pepper .",
+            "input": "(salt; pepper; cooked pizza crust with olive oil, mozzarella slices, shredded mozzarella, thinly sliced tomatoes and chopped basil)",
+            "action": "sprinkle",
+            "output": "seasoned cooked pizza crust with olive oil, mozzarella slices, shredded mozzarella, thinly sliced tomatoes and chopped basil"
+        },
+        {
+            "instructions": "bake 15 minutes",
+            "input": "uncooked margherita pizza",
+            "action": "bake",
+            "output": "baked margherita pizza"
+        }
+    ],
+    "ingredients": [
+        {
+            "text": "pizza crust (Garlic-Herb Pizza Crust (Gluten Free) or your own pizza crust recipe)"
+        },
+        {
+            "text": "2 tablespoons olive oil (divided)"
+        },
+        {
+            "text": "4 garlic cloves, thinnly sliced"
+        },
+        {
+            "text": "1 lb fresh block mozzarella cheese (maybe a little less)"
+        },
+        {
+            "text": "12 cup shredded mozzarella cheese"
+        },
+        {
+            "text": "4 -5 vine ripe tomatoes, sliced thin"
+        },
+        {
+            "text": "13 cup fresh basil leaf, chopped"
+        },
+        {
+            "text": "salt and pepper"
+        }
+    ],
+    "recipe": [
+        {
+            "text": "Preheat oven to 425 degrees."
+        },
+        {
+            "text": "Cook pizza crust 10 minutes (or as directed in recipe - until it is mostly cooked)."
+        },
+        {
+            "text": "Drizzle cooked crust with a little more than 1 tbsp of the olive oil and use a brush to spread until the entire crust is moistened, adding more olive oil as needed."
+        },
+        {
+            "text": "Spread sliced garlic evenly on top."
+        },
+        {
+            "text": "Top with a single layer of 1/4\" thick slices of mozzarella (or a thickness to your liking) and then fill in any gaps in between the slices by sprinkling with the shredded mozzarella."
+        },
+        {
+            "text": "Place thinnly sliced tomatoes on top of cheese in a single layer, spaced close together (they will shrink and spread apart when baked)."
+        },
+        {
+            "text": "Sprinkle with roughly chopped basil."
+        },
+        {
+            "text": "Drizzle with the remaining olive oil (about 1/2 tbsp) and sprinkle with a little salt and pepper."
+        },
+        {
+            "text": "Bake 15 minutes or until tomatoes are crinkly and mozzarella is soft and slightly browned in some areas."
+        }
+    ]
+}

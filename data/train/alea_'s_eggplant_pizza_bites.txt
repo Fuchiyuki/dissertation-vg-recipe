@@ -1,0 +1,106 @@
+{
+    "title": "alea_'s_eggplant_pizza_bites",
+    "id": "268f1d6106",
+    "table": [
+        {
+            "instructions": "preheat oven to 425f .",
+            "input": "NA",
+            "action": "preheat",
+            "output": "NA"
+        },
+        {
+            "instructions": "brush both sides of the eggplant slice with olive_oil .",
+            "input": "(eggplant slices; olive oil)",
+            "action": "brush",
+            "output": "olive oil brushed on eggplant slices"
+        },
+        {
+            "instructions": "place the slices on a baking sheet",
+            "input": "olive oil brushed on eggplant slices",
+            "action": "place",
+            "output": "eggplant slice brushed with olive oil on baking sheet"
+        },
+        {
+            "instructions": "bake until browned and almost tender , approximately 4 minutes each side .",
+            "input": "eggplant slice brushed with olive oil on baking sheet",
+            "action": "bake",
+            "output": "browned eggplant slices"
+        },
+        {
+            "instructions": "spoon pizza_sauce onto each eggplant slice .",
+            "input": "(browned eggplant slices; pizza sauce)",
+            "action": "spoon",
+            "output": "browned eggplant slice with pizza sauce"
+        },
+        {
+            "instructions": "top with cheese",
+            "input": "(browned eggplant slice with pizza sauce; cheese)",
+            "action": "top",
+            "output": "browned eggplant slice with pizza sauce and cheese"
+        },
+        {
+            "instructions": "sprinkle each slice with dried_basil , garlic_powder , and dried_oregano .",
+            "input": "(browned eggplant slice with pizza sauce and cheese; dried basil; garlic powder; dried oregano)",
+            "action": "sprinkle",
+            "output": "browned eggplant slice with pizza sauce, cheese, and herbs"
+        },
+        {
+            "instructions": "bake until the cheese melts , approximately 4 minutes .",
+            "input": "browned eggplant slice with pizza sauce, cheese, and herbs",
+            "action": "bake",
+            "output": "baked eggplant Parmesan"
+        }
+    ],
+    "ingredients": [
+        {
+            "text": "3 (8 -10 inch) fingerling eggplants, cut into 1/2 inch thick slices"
+        },
+        {
+            "text": "2 tablespoons olive oil"
+        },
+        {
+            "text": "1 cup pizza sauce or 1 cup leftover spaghetti sauce"
+        },
+        {
+            "text": "12 cup shredded mozzarella cheese"
+        },
+        {
+            "text": "basil, to taste"
+        },
+        {
+            "text": "garlic powder, to taste"
+        },
+        {
+            "text": "oregano, to taste"
+        }
+    ],
+    "recipe": [
+        {
+            "text": "Preheat oven to 425F."
+        },
+        {
+            "text": "Brush both sides of the eggplant slice with olive oil."
+        },
+        {
+            "text": "Place the slices on a baking sheet and bake until browned and almost tender, approximately 4 minutes each side."
+        },
+        {
+            "text": "Spoon pizza sauce onto each eggplant slice."
+        },
+        {
+            "text": "Top with cheese and sprinkle each slice with dried basil, garlic powder, and dried oregano."
+        },
+        {
+            "text": "Bake until the cheese melts, approximately 4 minutes."
+        },
+        {
+            "text": "\"My husband and kids made quick work of the pizza bites."
+        },
+        {
+            "text": "Three eggplants down, seventeen to go!"
+        },
+        {
+            "text": "\"."
+        }
+    ]
+}

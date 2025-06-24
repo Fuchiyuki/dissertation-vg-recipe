@@ -1,0 +1,133 @@
+{
+    "title": "zucchini_crusted_pizza_base",
+    "id": "18e0a3416b",
+    "table": [
+        {
+            "instructions": "preheat the oven to 400 degrees f .",
+            "input": "NA",
+            "action": "preheat",
+            "output": "NA"
+        },
+        {
+            "instructions": "generously oil a 10 inch pie pan",
+            "input": "NA",
+            "action": "oil",
+            "output": "NA"
+        },
+        {
+            "instructions": "coat lightly with flour .",
+            "input": "NA",
+            "action": "coat",
+            "output": "NA"
+        },
+        {
+            "instructions": "combine zucchini , eggs , flour , mozzarella , parmesan , herbs and 1 t , olive_oil in a bowl",
+            "input": "(zucchini; eggs; flour; mozzarella; parmesan; herbs)",
+            "action": "combine",
+            "output": "Zucchini, cheese and herb dough"
+        },
+        {
+            "instructions": "mix well .",
+            "input": "Zucchini, cheese and herb dough",
+            "action": "mix",
+            "output": "Zucchini, cheese and herb dough"
+        },
+        {
+            "instructions": "spread into the prepared pan",
+            "input": "Zucchini, cheese and herb dough",
+            "action": "spread",
+            "output": "Zucchini, cheese and herb dough spread into pan"
+        },
+        {
+            "instructions": "bake for 35 40 minues or until golden brown .",
+            "input": "uncooked zucchini, cheese and herb dough",
+            "action": "bake",
+            "output": "Baked zucchini, cheese and herb crust"
+        },
+        {
+            "instructions": "about halfway through the baking , brush with the remaining tablespoon of olive oiloptional .",
+            "input": "(optional olive oil; baking zucchini, cheese and herb crust)",
+            "action": "brush",
+            "output": "baking zucchini, cheese and herb crust brushed with optional olive oil"
+        },
+        {
+            "instructions": "remove from oven .",
+            "input": "Baked zucchini, cheese and herb crust",
+            "action": "remove",
+            "output": "Baked zucchini, cheese and herb crust"
+        },
+        {
+            "instructions": "when it has cooled for about 10 minues , use a spatula to loosen the crust from the pan",
+            "input": "Baked zucchini, cheese and herb crust",
+            "action": "use",
+            "output": "cooled baked zucchini, cheese and herb crust"
+        },
+        {
+            "instructions": "it wo n't break later .",
+            "input": "NA",
+            "action": "break",
+            "output": "NA"
+        },
+        {
+            "instructions": "top with your favourite pizza items",
+            "input": "(Baked zucchini, cheese and herb crust; toppings)",
+            "action": "top",
+            "output": "zucchini, cheese and herb pizza with toppings"
+        },
+        {
+            "instructions": "bake at 400 f until heated through .",
+            "input": "zucchini, cheese and herb pizza with toppings",
+            "action": "bake",
+            "output": "doubly baked zucchini, cheese and herb pizza"
+        }
+    ],
+    "ingredients": [
+        {
+            "text": "2 cups grated zucchini"
+        },
+        {
+            "text": "2 eggs, beaten"
+        },
+        {
+            "text": "14 cup flour"
+        },
+        {
+            "text": "12 cup mozzarella cheese, grated"
+        },
+        {
+            "text": "12 cup parmesan cheese, grated"
+        },
+        {
+            "text": "1 pinch basil or 1 pinch marjoram or 1 pinch rosemary (optional)"
+        },
+        {
+            "text": "2 tablespoons olive oil"
+        }
+    ],
+    "recipe": [
+        {
+            "text": "Preheat the oven to 400 degrees F."
+        },
+        {
+            "text": "Generously oil a 10 inch pie pan and coat lightly with flour."
+        },
+        {
+            "text": "Combine zucchini, eggs, flour, mozzarella, parmesan, herbs and 1 T olive oil in a bowl and mix well."
+        },
+        {
+            "text": "Spread into the prepared pan and bake for 35-40 minues or until golden brown."
+        },
+        {
+            "text": "About halfway through the baking, brush with the remaining tablespoon of olive oil[optional]."
+        },
+        {
+            "text": "Remove from oven."
+        },
+        {
+            "text": "When it has cooled for about 10 minues, use a spatula to loosen the crust from the pan so it won't break later."
+        },
+        {
+            "text": "Top with your favourite pizza items and bake at 400 F until heated through."
+        }
+    ]
+}

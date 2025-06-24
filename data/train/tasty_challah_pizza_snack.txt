@@ -1,0 +1,67 @@
+{
+    "title": "tasty_challah_pizza_snack",
+    "id": "6b1f6c1e54",
+    "table": [
+        {
+            "instructions": "heat oven to 400 degrees f .",
+            "input": "NA",
+            "actions": "heat",
+            "output": "NA"
+        },
+        {
+            "instructions": "slather caesar_dressing on one side of each piece of bread .",
+            "input": "(bread; caesar_dressing)",
+            "actions": "slather",
+            "output": "bread_with_slathered_caesar_dressing"
+        },
+        {
+            "instructions": "place dry side down on a cookie sheet covered with baker 's parchment paper .",
+            "input": "bread_with_slathered_caesar_dressing",
+            "actions": "place",
+            "output": "bread_with_slathered_caesar_dressing"
+        },
+        {
+            "instructions": "sprinkle mozzarella evenly over the 4 slices of bread .",
+            "input": "(bread_with_slathered_caesar_dressing; mozzarella)",
+            "actions": "sprinkle",
+            "output": "dressed_bread_topped_with_mozzarella"
+        },
+        {
+            "instructions": "bake in oven for 15 20 minutes until mozzarella_cheese gets gooey melted .",
+            "input": "dressed_bread_topped_with_mozzarella",
+            "actions": "bake",
+            "output": "dressed_bread_topped_with_melted_mozzarella"
+        }
+    ],
+    "ingredients": [
+        {
+            "text": "4 slices challah"
+        },
+        {
+            "text": "12 cup caesar salad dressing"
+        },
+        {
+            "text": "8 ounces mozzarella cheese"
+        }
+    ],
+    "recipe": [
+        {
+            "text": "Pre heat oven to 400 degrees F."
+        },
+        {
+            "text": "Slather Caesar dressing on one side of each piece of bread."
+        },
+        {
+            "text": "Place dry side down on a cookie sheet covered with baker's parchment paper."
+        },
+        {
+            "text": "Sprinkle mozzarella evenly over the 4 slices of bread."
+        },
+        {
+            "text": "Bake in oven for 15-20 minutes until mozzarella cheese gets gooey melted."
+        },
+        {
+            "text": "Enjoy!"
+        }
+    ]
+}

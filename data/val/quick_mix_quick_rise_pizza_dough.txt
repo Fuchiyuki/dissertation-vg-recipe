@@ -1,0 +1,178 @@
+{
+    "title": "quick_mix_quick_rise_pizza_dough",
+    "id": "f635b9ad79",
+    "table": [
+        {
+            "instructions": "in a large bowl , combine 1 12 cups of flour with yeast and salt .",
+            "input": "(salt; flour; yeast; flour; yeast)",
+            "actions": "combine",
+            "output": "(combined_salt; flour; yeast; flour; yeast)"
+        },
+        {
+            "instructions": "pour hot_water and oil into flour mixture",
+            "input": "(flour_mixture; hot_water; oil)",
+            "actions": "pour",
+            "output": "dough"
+        },
+        {
+            "instructions": "mix well .",
+            "input": "dough",
+            "actions": "mix",
+            "output": "dough"
+        },
+        {
+            "instructions": "mix in remaining flour to make a slightly sticky dough .",
+            "input": "(dough; flour)",
+            "actions": "mix",
+            "output": "dough"
+        },
+        {
+            "instructions": "form dough into a ball .",
+            "input": "dough",
+            "actions": "form",
+            "output": "shaped_dough_into_ball"
+        },
+        {
+            "instructions": "on a lightly floured surface or using the dough hook on kitchenaid mixer knead dough for about five minutes or until smooth and elastic .",
+            "input": "shaped_dough_into_ball",
+            "actions": "knead",
+            "output": "kneaded_dough"
+        },
+        {
+            "instructions": "cut dough in half ;",
+            "input": "kneaded_dough",
+            "actions": "cut",
+            "output": "cut_dough"
+        },
+        {
+            "instructions": "cover",
+            "input": "cut_dough",
+            "actions": "cover",
+            "output": "cut_dough"
+        },
+        {
+            "instructions": "to make later",
+            "input": "NA",
+            "actions": "make",
+            "output": "NA"
+        },
+        {
+            "instructions": "refrigerate the rounds of dough at this point .",
+            "input": "cut_dough",
+            "actions": "refrigerate",
+            "output": "refrigerated_dough"
+        },
+        {
+            "instructions": "meanwhile , lightly oil pizza\u2012pan or sheets",
+            "input": "NA",
+            "actions": "oil",
+            "output": "NA"
+        },
+        {
+            "instructions": "sprinkle lightly with cornmeal .",
+            "input": "NA",
+            "actions": "sprinkle",
+            "output": "NA"
+        },
+        {
+            "instructions": "roll dough to desired thickness",
+            "input": "refrigerated_dough",
+            "actions": "roll",
+            "output": "rolled_dough"
+        },
+        {
+            "instructions": "transfer to pans , or place dough directly on pan",
+            "input": "rolled_dough",
+            "actions": "transfer",
+            "output": "rolled_dough"
+        },
+        {
+            "instructions": "pat",
+            "input": "rolled_dough",
+            "actions": "pat",
+            "output": "patted_dough"
+        },
+        {
+            "instructions": "stretch to desired shape and thickness .",
+            "input": "patted_dough",
+            "actions": "stretch",
+            "output": "shaped_dough"
+        },
+        {
+            "instructions": "add toppings .",
+            "input": "(crust; toppings)",
+            "actions": "add",
+            "output": "uncooked_pizza"
+        },
+        {
+            "instructions": "bake in 450 degree oven for 16 to 18 minutes .",
+            "input": "uncooked_pizza",
+            "actions": "bake",
+            "output": "cooked_pizza"
+        }
+    ],
+    "ingredients": [
+        {
+            "text": "2 12 cups all-purpose flour"
+        },
+        {
+            "text": "1 tablespoon fast-rising active dry yeast"
+        },
+        {
+            "text": "1 teaspoon salt"
+        },
+        {
+            "text": "1 cup hot water (not boiling)"
+        },
+        {
+            "text": "2 tablespoons vegetable oil"
+        },
+        {
+            "text": "oil, for oiling pans"
+        },
+        {
+            "text": "cornmeal, to sprinkle on pan"
+        }
+    ],
+    "recipe": [
+        {
+            "text": "In a large bowl, combine 1 1/2 cups of flour with yeast and salt."
+        },
+        {
+            "text": "Pour hot water and oil into flour mixture and mix well."
+        },
+        {
+            "text": "Mix in remaining flour to make a slightly sticky dough."
+        },
+        {
+            "text": "Form dough into a ball."
+        },
+        {
+            "text": "On a lightly floured surface - or using the dough hook on KitchenAid mixer - knead dough for about five minutes or until smooth and elastic."
+        },
+        {
+            "text": "Cut dough in half; cover and let rest for 10 minutes."
+        },
+        {
+            "text": "To make later, refrigerate the rounds of dough at this point."
+        },
+        {
+            "text": "Bring to room temperature before rolling or stretching."
+        },
+        {
+            "text": "Meanwhile, lightly oil pizza pans or sheets and sprinkle lightly with cornmeal."
+        },
+        {
+            "text": "Roll dough to desired thickness and transfer to pans, or place dough directly on pan and pat and stretch to desired shape and thickness."
+        },
+        {
+            "text": "Let rise for 15 minutes, a little longer if you are making a thick crust."
+        },
+        {
+            "text": "Add toppings."
+        },
+        {
+            "text": "Bake in 450 degree oven for 16 to 18 minutes."
+        }
+    ]
+}

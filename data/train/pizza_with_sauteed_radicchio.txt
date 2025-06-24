@@ -1,0 +1,199 @@
+{
+    "title": "pizza_with_sauteed_radicchio",
+    "id": "d5ed75d3b1",
+    "table": [
+        {
+            "instructions": "heat oil in a large cast iron or nonstick skillet over medium high heat .",
+            "input": "oil",
+            "action": "heat",
+            "output": "heated_oil"
+        },
+        {
+            "instructions": "add onion ,",
+            "input": "(onion; heated_oil)",
+            "action": "add",
+            "output": "onion in heated_oil"
+        },
+        {
+            "instructions": "saute 5 minutes , stirring frequently .",
+            "input": "onion in heated_oil",
+            "action": "saute",
+            "output": "softened onion"
+        },
+        {
+            "instructions": "add radicchio and salt ;",
+            "input": "(softened onion; radicchio; salt)",
+            "action": "add",
+            "output": "radicchio and salt added to softened onion"
+        },
+        {
+            "instructions": "saute 5 minutes or until wilted .",
+            "input": "radicchio and salt added to softened onion",
+            "action": "saute",
+            "output": "sauteed onion and radicchio"
+        },
+        {
+            "instructions": "add garlic ;",
+            "input": "radicchio and salt added to softened onion",
+            "action": "add",
+            "output": "wilted radicchio and salt"
+        },
+        {
+            "instructions": "cook 1 minute .",
+            "input": "(sauteed onion and radicchio; garlic)",
+            "action": "cook",
+            "output": "garlic added to sauteed onion and radicchio"
+        },
+        {
+            "instructions": "remove from heat ;",
+            "input": "garlic added to sauteed onion and radicchio",
+            "action": "remove",
+            "output": "cooked radicchio mixture"
+        },
+        {
+            "instructions": "stir in vinegar .",
+            "input": "(cooked radicchio mixture; vinegar)",
+            "action": "stir",
+            "output": "stirred-in vinegar cooked radicchio mixture"
+        },
+        {
+            "instructions": "sprinkle with black_pepper",
+            "input": "(stirred-in vinegar cooked radicchio mixture; black pepper)",
+            "action": "sprinkle",
+            "output": "sprinkled black pepper over stirred-in vinegar cooked radicchio mixture"
+        },
+        {
+            "instructions": "preheat oven to 500 .",
+            "input": "NA",
+            "action": "preheat",
+            "output": "NA"
+        },
+        {
+            "instructions": "roll dough into a 12 inch circle on a lightly floured surface .",
+            "input": "dough",
+            "action": "roll",
+            "output": "rolled out dough"
+        },
+        {
+            "instructions": "place pizza_dough on a 12 inch , pizza\u2012pan or baking sheet coated with cooking_spray",
+            "input": "rolled out dough",
+            "action": "place",
+            "output": "rolled out pizza dough"
+        },
+        {
+            "instructions": "crimp edges of pizza_dough with fingers to form a rim .",
+            "input": "rolled out pizza dough",
+            "action": "crimp",
+            "output": "crimped edges of pizza dough on pizza pan/baking sheet"
+        },
+        {
+            "instructions": "sprinkle mozzarella_cheese on crust .",
+            "input": "raw pizza crust, mozzarella cheese",
+            "action": "sprinkle",
+            "output": "mozzarella cheese sprinkled on raw pizza crust"
+        },
+        {
+            "instructions": "top with radicchio mixture .",
+            "input": "(raw pizza crust with mozzarella cheese; cooked radicchio mixture)",
+            "action": "top",
+            "output": "radicchio mixture topped raw pizza crust"
+        },
+        {
+            "instructions": "drop ricotta by teaspoonfuls onto the radicchio ; mixture .",
+            "input": "(radicchio mixture topped raw pizza crust; ricotta)",
+            "action": "drop",
+            "output": "ricotta dropped onto radicchio mixture topped raw pizza crust"
+        },
+        {
+            "instructions": "bake pizza at 500 for 15 minutes or until browned .",
+            "input": "uncooked pizza_with_sauteed_radicchio",
+            "action": "bake",
+            "output": "baked pizza_with_sauteed_radicchio"
+        },
+        {
+            "instructions": "cut the pizza into 4 wedges .",
+            "input": "baked pizza_with_sauteed_radicchio",
+            "action": "cut",
+            "output": "cut pizza_with_sauteed_radicchio into 4 wedges"
+        }
+    ],
+    "ingredients": [
+        {
+            "text": "2 teaspoons olive oil"
+        },
+        {
+            "text": "3 cups thinly sliced Vidalia or other sweet onion (about 12 ounces)"
+        },
+        {
+            "text": "6 cups coarsely chopped radicchio (about 8 ounces) or escarole"
+        },
+        {
+            "text": "1/2 teaspoon salt"
+        },
+        {
+            "text": "2 garlic cloves, minced"
+        },
+        {
+            "text": "1 tablespoon balsamic vinegar"
+        },
+        {
+            "text": "1/4 teaspoon black pepper"
+        },
+        {
+            "text": "1/2 recipe Whole-Wheat Pizza Dough"
+        },
+        {
+            "text": "Cooking spray"
+        },
+        {
+            "text": "1 tablespoon yellow cornmeal"
+        },
+        {
+            "text": "1/2 cup (2 ounces) shredded part-skim mozzarella cheese"
+        },
+        {
+            "text": "1/4 cup part-skim ricotta cheese"
+        }
+    ],
+    "recipe": [
+        {
+            "text": "Heat oil in a large cast-iron or nonstick skillet over medium-high heat."
+        },
+        {
+            "text": "Add onion, and saute 5 minutes, stirring frequently."
+        },
+        {
+            "text": "Continue cooking 10 to 15 minutes or until deep golden brown, stirring frequently."
+        },
+        {
+            "text": "Add radicchio and salt; saute 5 minutes or until wilted."
+        },
+        {
+            "text": "Add garlic; cook 1 minute."
+        },
+        {
+            "text": "Remove from heat; stir in vinegar."
+        },
+        {
+            "text": "Sprinkle with black pepper.Preheat oven to 500.Roll dough into a 12-inch circle on a lightly floured surface."
+        },
+        {
+            "text": "Place pizza dough on a 12-inch pizza pan or baking sheet coated with cooking spray and sprinkled with cornmeal."
+        },
+        {
+            "text": "Crimp edges of pizza dough with fingers to form a rim."
+        },
+        {
+            "text": "Sprinkle mozzarella cheese on crust."
+        },
+        {
+            "text": "Top with radicchio mixture."
+        },
+        {
+            "text": "Drop ricotta by teaspoonfuls onto the radicchio mixture.Bake pizza at 500 for 15 minutes or until browned."
+        },
+        {
+            "text": "Cut the pizza into 4 wedges."
+        }
+    ]
+}

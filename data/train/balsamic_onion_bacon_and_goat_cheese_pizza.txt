@@ -1,0 +1,169 @@
+{
+    "title": "balsamic_onion_bacon_and_goat_cheese_pizza",
+    "id": "dd495e9319",
+    "table": [
+        {
+            "instructions": "preheat the broiler .",
+            "input": "NA",
+            "action": "preheat",
+            "output": "NA"
+        },
+        {
+            "instructions": "toss together the onions , vinegar , olive_oil , salt , and pepper on a large rimmed baking sheet .",
+            "input": "(onions; vinegar; olive_oil; salt; pepper)",
+            "action": "toss",
+            "output": "tossed_onion mixture"
+        },
+        {
+            "instructions": "broil the onions for 6 to 8 minutes , until soft",
+            "input": "tossed_onion mixture",
+            "action": "broil",
+            "output": "broiled onion mixture"
+        },
+        {
+            "instructions": "meanwhile , place a medium skillet over medium high heat .",
+            "input": "NA",
+            "action": "place",
+            "output": "NA"
+        },
+        {
+            "instructions": "add the bacon",
+            "input": "bacon",
+            "action": "add",
+            "output": "bacon in hot skillet"
+        },
+        {
+            "instructions": "cook for 6 to 8 minutes , until golden and crispy .",
+            "input": "bacon in hot skillet",
+            "action": "cook",
+            "output": "Golden/crispy bacon"
+        },
+        {
+            "instructions": "drain on paper towels",
+            "input": "Golden/crispy bacon",
+            "action": "drain",
+            "output": "Golden/crispy bacon without excess fat"
+        },
+        {
+            "instructions": "set aside .",
+            "input": "Golden/crispy bacon without excess fat",
+            "action": "set",
+            "output": "Golden/crispy bacon without excess fat"
+        },
+        {
+            "instructions": "preheat the oven to 500f , or as high as your oven will go .",
+            "input": "NA",
+            "action": "preheat",
+            "output": "NA"
+        },
+        {
+            "instructions": "spread the marinara_sauce over the dough , leaving a 1 inch border around the edges .",
+            "input": "(Marinara sauce; dough)",
+            "action": "spread",
+            "output": "Marinara sauce spread on dough"
+        },
+        {
+            "instructions": "sprinkle with the mozzarella_cheese .",
+            "input": "(Mozzarella cheese; Dough with marinara sauce)",
+            "action": "sprinkle",
+            "output": "Dough with marinara sauce and cheese"
+        },
+        {
+            "instructions": "spread the onions evenly over the dough .",
+            "input": "(grilled onion; Dough with marinara sauce and cheese)",
+            "action": "spread",
+            "output": "grilled onions on dough with marinara sauce and cheese"
+        },
+        {
+            "instructions": "crumble the goat_cheese and bacon on top .",
+            "input": "(Goat cheese; bacon; Dough with marinara sauce, cheese and onions)",
+            "action": "crumble",
+            "output": "goat cheese and bacon crumbled on uncooked pizza"
+        },
+        {
+            "instructions": "bake for 12 to 15 minutes , until the crust is golden brown and the cheese is melted .",
+            "input": "uncooked balsamic_onion_bacon_and_goat_cheese_pizza",
+            "action": "bake",
+            "output": "baked balsamic_onion_bacon_and_goat_cheese_pizza"
+        },
+        {
+            "instructions": "remove from the oven",
+            "input": "baked balsamic_onion_bacon_and_goat_cheese_pizza",
+            "action": "remove",
+            "output": "baked balsamic_onion_bacon_and_goat_cheese_pizza"
+        }
+    ],
+    "ingredients": [
+        {
+            "text": "1 thin pizza crust"
+        },
+        {
+            "text": "2 small red onions, thinly sliced"
+        },
+        {
+            "text": "14 cup balsamic vinegar"
+        },
+        {
+            "text": "2 tablespoons extra-virgin olive oil, plus more for drizzling"
+        },
+        {
+            "text": "1 teaspoon kosher salt"
+        },
+        {
+            "text": "12 teaspoon fresh ground black pepper"
+        },
+        {
+            "text": "12 lb thick-cut bacon, diced"
+        },
+        {
+            "text": "1 cup marinara sauce"
+        },
+        {
+            "text": "1 12 cups shredded mozzarella cheese"
+        },
+        {
+            "text": "4 ounces goat cheese"
+        }
+    ],
+    "recipe": [
+        {
+            "text": "Preheat the broiler."
+        },
+        {
+            "text": "Toss together the onions, vinegar, olive oil, salt, and pepper on a large rimmed baking sheet."
+        },
+        {
+            "text": "Broil the onions for 6 to 8 minutes, until soft and slightly caramelized."
+        },
+        {
+            "text": "Meanwhile, place a medium skillet over medium-high heat."
+        },
+        {
+            "text": "Add the bacon and cook for 6 to 8 minutes, until golden and crispy."
+        },
+        {
+            "text": "Drain on paper towels and set aside."
+        },
+        {
+            "text": "Preheat the oven to 500F, or as high as your oven will go."
+        },
+        {
+            "text": "Spread the marinara sauce over the dough, leaving a 1-inch border around the edges."
+        },
+        {
+            "text": "Sprinkle with the mozzarella cheese."
+        },
+        {
+            "text": "Spread the onions evenly over the dough."
+        },
+        {
+            "text": "Crumble the goat cheese and bacon on top."
+        },
+        {
+            "text": "Bake for 12 to 15 minutes, until the crust is golden brown and the cheese is melted."
+        },
+        {
+            "text": "Remove from the oven and let cool for a few minutes before serving."
+        }
+    ]
+}

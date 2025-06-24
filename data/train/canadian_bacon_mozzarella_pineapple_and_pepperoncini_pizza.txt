@@ -1,0 +1,127 @@
+{
+    "title": "canadian_bacon_mozzarella_pineapple_and_pepperoncini_pizza",
+    "id": "3725fff271",
+    "table": [
+        {
+            "instructions": "position oven rack in the center of the oven",
+            "input": "NA",
+            "action": "position",
+            "output": "NA"
+        },
+        {
+            "instructions": "place a baking stone on the rack ;",
+            "input": "NA",
+            "action": "place",
+            "output": "NA"
+        },
+        {
+            "instructions": "preheat oven to 50",
+            "input": "NA",
+            "action": "preheat",
+            "output": "NA"
+        },
+        {
+            "instructions": "remove crust from package",
+            "input": "packaged pizza crust",
+            "action": "remove",
+            "output": "pizza crust"
+        },
+        {
+            "instructions": "place on pizza peel .",
+            "input": "pizza crust",
+            "action": "place",
+            "output": "pizza crust on pizza peel"
+        },
+        {
+            "instructions": "sprinkle cheese evenly over pizza_crust , leaving a 1 inch border .",
+            "input": "(pizza crust; cheese)",
+            "action": "sprinkle",
+            "output": "pizza crust with cheese"
+        },
+        {
+            "instructions": "scatter green_onion over the cheese ;",
+            "input": "(pizza crust with cheese; green onion)",
+            "action": "scatter",
+            "output": "pizza crust with cheese and green onion"
+        },
+        {
+            "instructions": "arrange bacon in a single layer over the top .",
+            "input": "(pizza crust with cheese and green onion; bacon)",
+            "action": "arrange",
+            "output": "pizza crust with cheese, green onion and bacon"
+        },
+        {
+            "instructions": "transfer pizza to baking stone in oven ;",
+            "input": "pizza crust with cheese, green onion and bacon",
+            "action": "transfer",
+            "output": "pizza crust with cheese, green onion and bacon on baking stone in oven"
+        },
+        {
+            "instructions": "bake about 10 minutes , until crust is crisp and a deep golden brown and the cheese is golden .",
+            "input": "pizza crust with cheese, green onion, and bacon",
+            "action": "bake",
+            "output": "pizza with cheese, green onion, and bacon"
+        },
+        {
+            "instructions": "scatter the pepperoncini over the pizza ;",
+            "input": "(pizza with cheese, green onion, and bacon; pepperoncini)",
+            "action": "scatter",
+            "output": "pizza with cheese, green onion, bacon, and scattered pepperoncini"
+        },
+        {
+            "instructions": "slice into wedges",
+            "input": "canadian_bacon_mozzarella_pineapple_and_pepperoncini_pizza",
+            "action": "slice",
+            "output": "sliced canadian_bacon_mozzarella_pineapple_and_pepperoncini_pizza"
+        },
+        {
+            "instructions": "serve .",
+            "input": "sliced canadian_bacon_mozzarella_pineapple_and_pepperoncini_pizza",
+            "action": "serve",
+            "output": "served sliced canadian_bacon_mozzarella_pineapple_and_pepperoncini_pizza"
+        }
+    ],
+    "ingredients": [
+        {
+            "text": "1 (12 inch) Boboli pizza crusts"
+        },
+        {
+            "text": "2 cups shredded mozzarella cheese"
+        },
+        {
+            "text": "3 green onions, thinly sliced"
+        },
+        {
+            "text": "14 lb Canadian bacon, thinly sliced"
+        },
+        {
+            "text": "1 (8 ounce) can pineapple chunks, well drained"
+        },
+        {
+            "text": "12 pepperoncini peppers, thickly sliced"
+        }
+    ],
+    "recipe": [
+        {
+            "text": "Position oven rack in the center of the oven and place a baking stone on the rack; preheat oven to 500."
+        },
+        {
+            "text": "Remove crust from package and place on pizza peel."
+        },
+        {
+            "text": "Sprinkle cheese evenly over pizza crust, leaving a 1-inch border."
+        },
+        {
+            "text": "Scatter green onions over the cheese; arrange bacon in a single layer over the top."
+        },
+        {
+            "text": "Evenly distribute pineapple over the bacon."
+        },
+        {
+            "text": "Transfer pizza to baking stone in oven; bake about 10 minutes, until crust is crisp and a deep golden brown and the cheese is golden."
+        },
+        {
+            "text": "Scatter the pepperoncini over the pizza; slice into wedges and serve."
+        }
+    ]
+}

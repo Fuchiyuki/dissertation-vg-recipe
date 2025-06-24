@@ -1,0 +1,121 @@
+{
+    "title": "four-cheese_pizza_recipe",
+    "id": "2709d987db",
+    "table": [
+        {
+            "instructions": "preheat the oven to 450 degrees f",
+            "input": "NA",
+            "actions": "preheat",
+            "output": "NA"
+        },
+        {
+            "instructions": "arrange a rack in the middle .",
+            "input": "NA",
+            "actions": "arrange",
+            "output": "NA"
+        },
+        {
+            "instructions": "divide the pizza_dough into 2 balls",
+            "input": "pizza_dough",
+            "actions": "divide",
+            "output": "divided pizza_dough"
+        },
+        {
+            "instructions": "roll them out to 14 inch thick .",
+            "input": "divided pizza_dough",
+            "actions": "roll",
+            "output": "rolled balls of divided pizza_dough"
+        },
+        {
+            "instructions": "transfer to 2 baking sheets .",
+            "input": "rolled balls of divided pizza_dough",
+            "actions": "transfer",
+            "output": "rolled balls of divided pizza_dough"
+        },
+        {
+            "instructions": "spread the crushed_tomato evenly on the dough .",
+            "input": "(crushed tomato; pizza_crusts)",
+            "actions": "spread",
+            "output": "crushed tomato spread on pizza crusts"
+        },
+        {
+            "instructions": "bake the first pizza until the underside of the crust is golden brown , about 15 minutes .",
+            "input": "uncooked pizza_crust with crushed tomato",
+            "actions": "bake",
+            "output": "baked pizza_crust with crushed tomato"
+        },
+        {
+            "instructions": "remove from the oven",
+            "input": "baked pizza_crust with crushed tomato",
+            "actions": "remove",
+            "output": "baked pizza_crust with crushed tomato"
+        },
+        {
+            "instructions": "sprinkle with half the parmesan",
+            "input": "(parmesan; baked pizza_crust with crushed tomato)",
+            "actions": "sprinkle",
+            "output": "parmesan sprinkled over baked pizza_crust with crushed tomato"
+        },
+        {
+            "instructions": "serve while hot .",
+            "input": "readied pizza ",
+            "actions": "serve",
+            "output": "served pizza "
+        }
+    ],
+    "ingredients": [
+        {
+            "text": "Basic Pizza Dough"
+        },
+        {
+            "text": "1/3 cup crushed tomatoes, preferably San Marzanos"
+        },
+        {
+            "text": "2 ounces fontina cheese, shredded (about 1/2 cup)"
+        },
+        {
+            "text": "2 ounces fresh mozzarella, thinly sliced"
+        },
+        {
+            "text": "1 1/2 ounces Gorgonzola cheese, crumbled (about 1/4 cup)"
+        },
+        {
+            "text": "1 small red onion, thinly sliced"
+        },
+        {
+            "text": "Olive oil, for brushing the dough"
+        },
+        {
+            "text": "1 ounce Parmesan cheese (about 1/3 cup)"
+        }
+    ],
+    "recipe": [
+        {
+            "text": "Preheat the oven to 450 degrees F and arrange a rack in the middle."
+        },
+        {
+            "text": "Divide the pizza dough into 2 balls and roll them out to 1/4 inch thick."
+        },
+        {
+            "text": "Transfer to 2 baking sheets."
+        },
+        {
+            "text": "Spread the crushed tomatoes evenly on the dough."
+        },
+        {
+            "text": "Distribute the fontina, mozzarella slices, crumbled Gorgonzola, and onion slices evenly over the pizzas."
+        },
+        {
+            "text": "Bake the first pizza until the underside of the crust is golden brown, about 15 minutes."
+        },
+        {
+            "text": "Remove from the oven and immediately brush the crust with a little olive oil (this gives it a nice sheen and a bit of extra flavor)."
+        },
+        {
+            "text": "Sprinkle with half the Parmesan and serve while hot."
+        },
+        {
+            "text": "Repeat with the second pizza."
+        }
+    ]
+}

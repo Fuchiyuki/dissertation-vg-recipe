@@ -1,0 +1,73 @@
+{
+    "title": "easy_cheesy_mushroom_pizza",
+    "id": "787d7f60c0",
+    "table": [
+        {
+            "instructions": "saute mushrooms in oil 2 minutes .",
+            "input": "(mushrooms; oil)",
+            "actions": "saute",
+            "output": "sauteed_mushrooms"
+        },
+        {
+            "instructions": "spread sauce on boboli ;",
+            "input": "(sauce; mushrooms)",
+            "actions": "spread",
+            "output": "spread_sauce"
+        },
+        {
+            "instructions": "sprinkle cheese over .",
+            "input": "(spread_sauce; cheese)",
+            "actions": "sprinkle",
+            "output": "sprinkled_cheese_over"
+        },
+        {
+            "instructions": "top with mushrooms and tomatoes .",
+            "input": "(crust; mushrooms; tomatoes)",
+            "actions": "top",
+            "output": "pizza_crust_topped_with mushrooms and tomatoes"
+        },
+        {
+            "instructions": "bake at 450f 230c .",
+            "input": "uncooked_pizza_with toppings",
+            "actions": "bake",
+            "output": "cheesy_mushroom_pizza"
+        }
+    ],
+    "ingredients": [
+        {
+            "text": "2 cups mushrooms sliced"
+        },
+        {
+            "text": "2 tablespoons vegetable oil"
+        },
+        {
+            "text": "1/2 cup tomato sauce"
+        },
+        {
+            "text": "12 each boboli shells"
+        },
+        {
+            "text": "1 cup cheddar cheese shredded"
+        },
+        {
+            "text": "4 each sundried tomatoes"
+        }
+    ],
+    "recipe": [
+        {
+            "text": "Saute mushrooms in oil 2 minutes."
+        },
+        {
+            "text": "Spread sauce on Boboli; sprinkle cheese over."
+        },
+        {
+            "text": "Top with mushrooms and tomatoes."
+        },
+        {
+            "text": "Bake at 450F (230C)."
+        },
+        {
+            "text": "for 10 minutes."
+        }
+    ]
+}

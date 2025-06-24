@@ -1,0 +1,94 @@
+{
+    "title": "chicken_santa_fe_pizza",
+    "id": "f63c0db77b",
+    "table": [
+        {
+            "instructions": "Press Rhodes rolls together into a ball",
+            "input": "dinner rolls",
+            "action": "press",
+            "output": "pressed dinner rolls"
+        },
+        {
+            "instructions": "roll into a 13 circle .",
+            "input": "pressed dinner rolls",
+            "action": "roll",
+            "output": "rolled dinner rolls dough"
+        },
+        {
+            "instructions": "place on 12 pizza\u2012pan or a baking sheet sprayed with non stick cooking_spray .",
+            "input": "rolled dinner rolls dough",
+            "action": "place",
+            "output": "rolled dinner rolls crust"
+        },
+        {
+            "instructions": "spread salsa on crust .",
+            "input": "(rolled dinner rolls crust; salsa)",
+            "action": "spread",
+            "output": "Salsa covered pizza crust"
+        },
+        {
+            "instructions": "blend cheeses",
+            "input": "(shredded fat free mozzarella cheese; fat-free cheddar cheese)",
+            "action": "blend",
+            "output": "Blend of cheeses"
+        },
+        {
+            "instructions": "sprinkle evenly .",
+            "input": "(Salsa covered pizza crust; Blend of cheeses)",
+            "action": "sprinkle",
+            "output": "Blend of cheeses Sprinkled over salsa covered pizza crust"
+        },
+        {
+            "instructions": "add valley fresh chicken and other toppings .",
+            "input": "(salsa covered pizza crust with cheese; chicken; black beans; diced green chilies; green bell pepper; tomato; red onion)",
+            "action": "add",
+            "output": "chicken, black beans, diced green chilies, green bell pepper, tomato and red onion added to salsa covered pizza crust with cheese"
+        },
+        {
+            "instructions": "bake at 450 for 10 15 minutes , or until crust is golden brown .",
+            "input": "Uncooked chicken_santa_fe_pizza",
+            "action": "bake",
+            "output": "baked chicken_santa_fe_pizza"
+        }
+    ],
+    "ingredients": [
+        {
+            "text": "9 rhodes dinner rolls (directions on bag) or 6 texas rolls, microwave thawed (directions on bag)"
+        },
+        {
+            "text": "10 ounces valley fresh premium white chicken meat, drained"
+        },
+        {
+            "text": "34 cup salsa or 34 cup taco sauce"
+        },
+        {
+            "text": "3 ounces shredded fat free mozzarella cheese or 3 ounces monterey jack cheese"
+        },
+        {
+            "text": "3 ounces shredded fat-free cheddar cheese"
+        },
+        {
+            "text": "black beans, diced green chilies, green bell pepper, tomato, red onion"
+        }
+    ],
+    "recipe": [
+        {
+            "text": "Press Rhodes rolls together into a ball, then roll into a 13\" circle."
+        },
+        {
+            "text": "Place on 12\" pizza pan or a baking sheet sprayed with non-stick cooking spray."
+        },
+        {
+            "text": "Spread salsa on crust."
+        },
+        {
+            "text": "Blend cheeses and sprinkle evenly."
+        },
+        {
+            "text": "Add Valley Fresh chicken and other toppings."
+        },
+        {
+            "text": "Bake at 450 for 10-15 minutes, or until crust is golden brown."
+        }
+    ]
+}

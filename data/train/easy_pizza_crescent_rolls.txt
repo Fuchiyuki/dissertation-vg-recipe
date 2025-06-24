@@ -1,0 +1,112 @@
+{
+    "title": "easy_pizza_crescent_rolls",
+    "id": "9c6b086e8c",
+    "table": [
+        {
+            "instructions": "preheat oven to 375 degrees .",
+            "input": "NA",
+            "action": "preheat",
+            "output": "NA"
+        },
+        {
+            "instructions": "lay out crescent_roll on ungreased pan .",
+            "input": "crescent_roll",
+            "action": "lay",
+            "output": "crescent_roll"
+        },
+        {
+            "instructions": "melt butter ,",
+            "input": "butter",
+            "action": "melt",
+            "output": "melted butter"
+        },
+        {
+            "instructions": "brush onto dough .",
+            "input": "(melted butter; crescent_roll dough)",
+            "action": "brush",
+            "output": "Buttered Dough"
+        },
+        {
+            "instructions": "place one spoonful of pizza_sauce onto each slice of dough .",
+            "input": "(Buttered Dough; pizza sauce)",
+            "action": "place",
+            "output": "pizza sauce spooned on buttered dough"
+        },
+        {
+            "instructions": "then place on top of the sauce half a slice of cheese .",
+            "input": "(cheese; buttered dough with pizza sauce )",
+            "action": "place",
+            "output": "cheese on top of buttered dough with pizza sauce "
+        },
+        {
+            "instructions": "then place either 2 pepperonis or half a slice of canadian_bacon on each roll .",
+            "input": "(pepperoni; optional canadian bacon slice; buttered dough with pizza sauce and cheese)",
+            "action": "place",
+            "output": "pepperoni or canadian bacon slice on buttered dough with pizza sauce and cheese"
+        },
+        {
+            "instructions": "carefully roll up",
+            "input": "crescent roll pizza",
+            "action": "roll",
+            "output": "uncooked crescent roll pizza"
+        },
+        {
+            "instructions": "cook in oven .",
+            "input": "uncooked crescent roll pizza",
+            "action": "cook",
+            "output": "crescent roll pizza"
+        },
+        {
+            "instructions": "cook for about 13 min or until crescent_roll are golden brown .",
+            "input": "crescent roll pizza",
+            "action": "cook",
+            "output": "crescent roll pizza"
+        }
+    ],
+    "ingredients": [
+        {
+            "text": "1 (8 ounce) can Pillsbury Refrigerated Crescent Dinner Rolls"
+        },
+        {
+            "text": "18 cup butter"
+        },
+        {
+            "text": "1 (8 ounce) jar pizza sauce"
+        },
+        {
+            "text": "4 slices mozzarella cheese"
+        },
+        {
+            "text": "16 slices pepperoni (or 8 halves of candanian bacon)"
+        }
+    ],
+    "recipe": [
+        {
+            "text": "Preheat oven to 375 degrees."
+        },
+        {
+            "text": "Lay out crescent rolls on ungreased pan."
+        },
+        {
+            "text": "Melt butter, then brush onto dough."
+        },
+        {
+            "text": "Place one spoonful of pizza sauce onto each slice of dough."
+        },
+        {
+            "text": "Then place on top of the sauce half a slice of cheese."
+        },
+        {
+            "text": "Then place either 2 pepperonis or half a slice of canadian bacon on each roll."
+        },
+        {
+            "text": "Carefully roll up and cook in oven."
+        },
+        {
+            "text": "(it is okay if can see the ingredients they still taste the same :))."
+        },
+        {
+            "text": "Cook for about 13 min or until crescent rolls are golden brown."
+        }
+    ]
+}

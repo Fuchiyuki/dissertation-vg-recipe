@@ -1,0 +1,202 @@
+{
+    "title": "italian_goat_cheese_pizza",
+    "id": "0def502905",
+    "table": [
+        {
+            "instructions": "preheat oven to 450 degrees f .",
+            "input": "NA",
+            "action": "preheat",
+            "output": "NA"
+        },
+        {
+            "instructions": "roll out pizza_dough .",
+            "input": "pizza_dough",
+            "action": "roll",
+            "output": "rolled_pizza_dough"
+        },
+        {
+            "instructions": "brush a little olive_oil on with a pastry brush .",
+            "input": "(rolled_out_pizza_dough; olive oil)",
+            "action": "brush",
+            "output": "olive_oil_brushed_pizza_dough"
+        },
+        {
+            "instructions": "cover with white sauce .",
+            "input": "(olive_oil_brushed_pizza_dough; white sauce)",
+            "action": "cover",
+            "output": "white_sauce_covered_pizza_dough"
+        },
+        {
+            "instructions": "add all veggies and chicken .",
+            "input": "(white_sauce_covered_pizza_dough; chicken; chopped shallot; chopped red onion; chopped black olives; chopped roma tomato)",
+            "action": "add",
+            "output": "raw pizza_with_veggies_and_chicken"
+        },
+        {
+            "instructions": "sprinkle with cheese .",
+            "input": "(pizza_with_veggies_and_chicken; cheese)",
+            "action": "sprinkle",
+            "output": "raw pizza_with_veggies, chicken and cheese"
+        },
+        {
+            "instructions": "bake for about 12 minutes",
+            "input": "raw pizza_with_veggies, chicken and cheese",
+            "action": "bake",
+            "output": "baked_pizza_with_veggies, chicken and_cheese"
+        },
+        {
+            "instructions": "on the stove top , melt the butter .",
+            "input": "butter",
+            "action": "melt",
+            "output": "melted_butter"
+        },
+        {
+            "instructions": "add in garlic",
+            "input": "(melted_butter; garlic)",
+            "action": "add",
+            "output": "garlic_in_melted_butter"
+        },
+        {
+            "instructions": "add in the flour",
+            "input": "(garlic_in_melted_butter; flour)",
+            "action": "add",
+            "output": "flour_in_garlic_and_melted_butter"
+        },
+        {
+            "instructions": "blend together .",
+            "input": "flour_in_garlic_and_melted_butter",
+            "action": "blend",
+            "output": "blended_flour_garlic_and_melted_butter"
+        },
+        {
+            "instructions": "slowly pour in milk",
+            "input": "(blended_flour_garlic_and_melted_butter; milk)",
+            "action": "pour",
+            "output": "milk_poured_into_blended_flour_garlic_and_melted_butter"
+        },
+        {
+            "instructions": "stir until desired thickness .",
+            "input": "milk_poured_into_blended_flour_garlic_and_melted_butter",
+            "action": "stir",
+            "output": "white_sauce"
+        },
+        {
+            "instructions": "remove from the heat",
+            "input": "white_sauce",
+            "action": "remove",
+            "output": "cooked_white_sauce"
+        },
+        {
+            "instructions": "stir in the cheese and salt and pepper to taste .",
+            "input": "(cooked_white_sauce; cheese; salt; pepper)",
+            "action": "stir",
+            "output": "white_sauce_with_cheese, salt_and_pepper"
+        },
+        {
+            "instructions": "if the sauce is too thick , add more liquid ;",
+            "input": "(white_sauce_with_cheese_salt_and_pepper; optional liquid)",
+            "action": "add",
+            "output": "optional liquid added to white_sauce_with_cheese, salt_and_pepper"
+        },
+        {
+            "instructions": "if its too runny , add a little more flour .",
+            "input": "(white_sauce_with_cheese_salt_and_pepper; optional flour)",
+            "action": "add",
+            "output": "optional flour added to white_sauce_with_cheese, salt_and_pepper"
+        }
+    ],
+    "ingredients": [
+        {
+            "text": "1 whole Whole Wheat Pizza Dough"
+        },
+        {
+            "text": "1 Tablespoon Olive Oil"
+        },
+        {
+            "text": "1- 1/2 cup White Sauce (Recipe Below)"
+        },
+        {
+            "text": "1 whole Shallot, Chopped"
+        },
+        {
+            "text": "1/2 whole Red Onion, Chopped"
+        },
+        {
+            "text": "1 whole Roma Tomato, Chopped"
+        },
+        {
+            "text": "1/2 cups Black Olives, Chopped"
+        },
+        {
+            "text": "3 whole Chicken Tenders (precooked And Chopped)"
+        },
+        {
+            "text": "3/4 cups Goat Cheese Crumbles"
+        },
+        {
+            "text": "1/2 cups Mozzarella Cheese, Shredded"
+        },
+        {
+            "text": "2 Tablespoons Butter"
+        },
+        {
+            "text": "2 cloves Garlic, Chopped"
+        },
+        {
+            "text": "2 Tablespoons Flour"
+        },
+        {
+            "text": "3/4 cups Milk"
+        },
+        {
+            "text": "1 cup Italian Blend Cheese"
+        },
+        {
+            "text": "1 dash Salt And Pepper, to taste"
+        }
+    ],
+    "recipe": [
+        {
+            "text": "Preheat oven to 450 degrees F."
+        },
+        {
+            "text": "Roll out pizza dough."
+        },
+        {
+            "text": "Brush a little olive oil on with a pastry brush."
+        },
+        {
+            "text": "Cover with white sauce."
+        },
+        {
+            "text": "Add all veggies and chicken."
+        },
+        {
+            "text": "Sprinkle with cheese."
+        },
+        {
+            "text": "Bake for about 12 minutes, finish with a quick 2-minute broil."
+        },
+        {
+            "text": "For the white sauce:"
+        },
+        {
+            "text": "On the stove top, melt the butter."
+        },
+        {
+            "text": "Add in garlic and let cook for about a minute."
+        },
+        {
+            "text": "Add in the flour and blend together."
+        },
+        {
+            "text": "Slowly pour in milk and stir until desired thickness."
+        },
+        {
+            "text": "Remove from the heat and stir in the cheese and salt and pepper to taste."
+        },
+        {
+            "text": "If the sauce is too thick, add more liquid; if its too runny, add a little more flour."
+        }
+    ]
+}

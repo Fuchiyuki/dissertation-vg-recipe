@@ -1,0 +1,187 @@
+{
+    "title": "homemade_hamburger_pizzas",
+    "id": "0f06fec6ae",
+    "table": [
+        {
+            "instructions": "in large bowl , dissolve yeast and sugar in water ;",
+            "input": "(yeast; sugar)",
+            "action": "dissolve",
+            "output": "dissolved yeast mixture"
+        },
+        {
+            "instructions": "add oil and salt .",
+            "input": "(oil;salt; dissolved yeast mixture)",
+            "action": "add",
+            "output": "liquid ingredients"
+        },
+        {
+            "instructions": "stir in flour , a cup at a time , to form soft dough .",
+            "input": "(liquid ingredients; flour)",
+            "action": "stir",
+            "output": "partially mixed dough"
+        },
+        {
+            "instructions": "turn onto floured board ;",
+            "input": "partially mixed dough",
+            "action": "turn",
+            "output": "dough"
+        },
+        {
+            "instructions": "knead until smooth and elastic , about 2 3 minutes .",
+            "input": "dough",
+            "action": "knead",
+            "output": "kneaded_dough"
+        },
+        {
+            "instructions": "place in greased bowl , tuning once to grease top .",
+            "input": "kneaded_dough",
+            "action": "place",
+            "output": "greased_kneaded_dough"
+        },
+        {
+            "instructions": "cover",
+            "input": "greased_kneaded_dough",
+            "action": "cover",
+            "output": "covered_dough"
+        },
+        {
+            "instructions": "let rise in a warmplace until doubled , about 45 minutes .",
+            "input": "covered_dough",
+            "action": "rise",
+            "output": "risen_dough"
+        },
+        {
+            "instructions": "meanwhile , brown beef and onion ;",
+            "input": "(beef;onion)",
+            "action": "brown",
+            "output": "browned onion and beef mixture"
+        },
+        {
+            "instructions": "drain .",
+            "input": "browned onion and beef mixture",
+            "action": "drain",
+            "output": "browned onion and beef mixture without excess fat"
+        },
+        {
+            "instructions": "punch dough down ;",
+            "input": "risen_dough",
+            "action": "punch",
+            "output": "punched_down_dough"
+        },
+        {
+            "instructions": "divide in half .",
+            "input": "punched_down_dough",
+            "action": "divide",
+            "output": "halved dough"
+        },
+        {
+            "instructions": "press each into a greased 12 inch , pizza\u2012pan .",
+            "input": "halved dough",
+            "action": "press",
+            "output": "pressed pizza crust"
+        },
+        {
+            "instructions": "combine the tomato_sauce , oregano and basil ;",
+            "input": "(tomato_sauce;oregano;basil)",
+            "action": "combine",
+            "output": "pizza_sauce"
+        },
+        {
+            "instructions": "spread over each crust .",
+            "input": "(pizza_sauce; pizza crust)",
+            "action": "spread",
+            "output": "pizza_sauce_spread_on_two_crusts"
+        },
+        {
+            "instructions": "top with beef mixture , green_pepper and cheese .",
+            "input": "(browned onion and beef mixture without excess fat; green_pepper; cheese; pizza_sauce_spread_on_two_crusts)",
+            "action": "top",
+            "output": "pizza crust with pizza sauce, browned beef mixture , green_pepper and cheese"
+        },
+        {
+            "instructions": "bake at 400f for 25 30 minutes or until crust is lightly browned .",
+            "input": "uncooked hamburger_pizzas",
+            "action": "bake",
+            "output": "baked hamburger_pizzas"
+        }
+    ],
+    "ingredients": [
+        {
+            "text": "1 pkg. (1-1/4 oz.) active baker's yeast"
+        },
+        {
+            "text": "1 tsp. sugar"
+        },
+        {
+            "text": "1-1/4 cup warm water (110-115F)"
+        },
+        {
+            "text": "1/4 cup vegetable oil"
+        },
+        {
+            "text": "1 tsp. salt"
+        },
+        {
+            "text": "3-1/2 cup all-purpose flour"
+        },
+        {
+            "text": "1/2 lb. ground beef"
+        },
+        {
+            "text": "1 sm. onion, chopped"
+        },
+        {
+            "text": "1 can (15 oz.) tomato sauce"
+        },
+        {
+            "text": "1 tbsp. dried oregano"
+        },
+        {
+            "text": "1 tsp. dried basil"
+        },
+        {
+            "text": "1 md. green pepper, diced"
+        },
+        {
+            "text": "2 cups shredded mozzarella cheese"
+        }
+    ],
+    "recipe": [
+        {
+            "text": "In large bowl, dissolve yeast and sugar in water; let stand for 5 minutes."
+        },
+        {
+            "text": "Add oil and salt."
+        },
+        {
+            "text": "Stir in flour, a cup at a time, to form soft dough."
+        },
+        {
+            "text": "Turn onto floured board; knead until smooth and elastic, about 2-3 minutes."
+        },
+        {
+            "text": "Place in greased bowl, tuning once to grease top."
+        },
+        {
+            "text": "Cover and let rise in a warmplace until doubled, about 45 minutes."
+        },
+        {
+            "text": "Meanwhile, brown beef and onion; drain."
+        },
+        {
+            "text": "Punch dough down; divide in half."
+        },
+        {
+            "text": "Press each into a greased 12-inch pizza pan."
+        },
+        {
+            "text": "Combine the tomato sauce, oregano and basil; spread over each crust."
+        },
+        {
+            "text": "Top with beef mixture, green pepper and cheese."
+        },
+        {
+            "text": "Bake at 400F for 25-30 minutes or until crust is lightly browned."
+        }
+    ]
+}

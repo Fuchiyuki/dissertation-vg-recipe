@@ -1,0 +1,160 @@
+{
+    "title": "easter_pizza_of_the_calabrese_variety",
+    "id": "387f20260c",
+    "table": [
+        {
+            "instructions": "grease the bottom and sides of a 9x13x2 deep pan with shortening .",
+            "input": "NA",
+            "action": "grease",
+            "output": "NA"
+        },
+        {
+            "instructions": "spread out 34 of the dough",
+            "input": "dough",
+            "action": "spread",
+            "output": "spread dough"
+        },
+        {
+            "instructions": "line the pan with it if there are holes wet some of the dough",
+            "input": "NA",
+            "action": "line",
+            "output": "NA"
+        },
+        {
+            "instructions": "patch the hole .",
+            "input": "NA",
+            "action": "patch",
+            "output": "NA"
+        },
+        {
+            "instructions": "roll out remaining dough",
+            "input": "dough",
+            "action": "roll",
+            "output": "rolled_dough"
+        },
+        {
+            "instructions": "cover top .",
+            "input": "rolled_dough",
+            "action": "cover",
+            "output": "Top covered with dough"
+        },
+        {
+            "instructions": "cover the holes by pulling over the excess dough that is hanging over .",
+            "input": "Top covered with dough",
+            "action": "cover",
+            "output": "Holes covered by excess dough"
+        },
+        {
+            "instructions": "seal with water",
+            "input": "(Dough; water)",
+            "action": "seal",
+            "output": "Dough sealed with water"
+        },
+        {
+            "instructions": "grease top with shortening .",
+            "input": "(Dough; shortening)",
+            "action": "grease",
+            "output": "Top of dough greased with shortening"
+        },
+        {
+            "instructions": "prick with a fork all over the top .",
+            "input": "Top of dough greased with shortening",
+            "action": "prick",
+            "output": "Top of dough pricked with a fork"
+        },
+        {
+            "instructions": "cover with a towel",
+            "input": "Dough",
+            "action": "cover",
+            "output": "dough"
+        },
+        {
+            "instructions": "place in a warm place until when touched with finger the dough springs back about an hour .",
+            "input": "Dough",
+            "action": "place",
+            "output": "Dough placed in a warm place for proofing"
+        },
+        {
+            "instructions": "bake at 350 degrees for 2 hours or until evenly browned .",
+            "input": "Dough",
+            "action": "bake",
+            "output": "Dough baked until evenly browned"
+        },
+        {
+            "instructions": "turn out on a rack",
+            "input": "Baked dough",
+            "action": "turn",
+            "output": "Baked dough"
+        }
+    ],
+    "ingredients": [
+        {
+            "text": "2 12 lbs pizza dough"
+        },
+        {
+            "text": "34 lb diameter pepperoni, sliced thin (2 1/2 \")"
+        },
+        {
+            "text": "12 lb ham, sliced thin"
+        },
+        {
+            "text": "2 lbs ricotta cheese, the driest you can find"
+        },
+        {
+            "text": "34 lb mozzarella cheese, sliced thin"
+        },
+        {
+            "text": "12 lb sopressata, sliced thin"
+        },
+        {
+            "text": "12 dozen sliced hard-boiled egg"
+        },
+        {
+            "text": "12 lb provolone cheese, sliced"
+        },
+        {
+            "text": "shortening"
+        }
+    ],
+    "recipe": [
+        {
+            "text": "Grease the bottom and sides of a 9\"x13\"x2\" deep pan with shortening."
+        },
+        {
+            "text": "Spread out 3/4 of the dough and line the pan with it (if there are holes wet some of the dough and patch the hole)."
+        },
+        {
+            "text": "The dough needs to hang out of the pan about 1 1/2\"."
+        },
+        {
+            "text": "Layer the ingredients as follows: pepperoni, ricotta, ham, mozzarella, egg slices, sopresata, provelone."
+        },
+        {
+            "text": "Continue layering until all the ingredients are used up."
+        },
+        {
+            "text": "END WITH PEPPERONI ON TOP!"
+        },
+        {
+            "text": "Roll out remaining dough and cover top."
+        },
+        {
+            "text": "Cover the holes by pulling over the excess dough that is hanging over."
+        },
+        {
+            "text": "Seal with water and grease top with shortening."
+        },
+        {
+            "text": "Prick with a fork all over the top."
+        },
+        {
+            "text": "Cover with a towel and place in a warm place until when touched with finger the dough springs back (about an hour)."
+        },
+        {
+            "text": "Bake at 350 degrees for 2 hours or until evenly browned."
+        },
+        {
+            "text": "Turn out on a rack and let cool for about 1/2 hour."
+        }
+    ]
+}

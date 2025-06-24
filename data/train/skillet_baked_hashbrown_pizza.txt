@@ -1,0 +1,169 @@
+{
+    "title": "skillet_baked_hashbrown_pizza",
+    "id": "136374f078",
+    "table": [
+        {
+            "instructions": "preheat oven to 400 degrees f .",
+            "input": "NA",
+            "action": "preheat",
+            "output": "NA"
+        },
+        {
+            "instructions": "liberally grease a 12 inch cast iron skillet with oil or cooking_spray .",
+            "input": "cooking_spray",
+            "action": "grease",
+            "output": "greased_cooking_spray"
+        },
+        {
+            "instructions": "in a large mixing bowl , add hash_brown potato_flour , egg_yolk , salt and black_pepper ;",
+            "input": "(hash_brown; potato_flour; egg_yolk; salt; black_pepper)",
+            "action": "add",
+            "output": "potato mixture"
+        },
+        {
+            "instructions": "stir well .",
+            "input": "potato mixture",
+            "action": "stir",
+            "output": "stirred potato mixture"
+        },
+        {
+            "instructions": "transfer to prepared skillet",
+            "input": "stirred potato mixture",
+            "action": "transfer",
+            "output": "stirred potato mixture"
+        },
+        {
+            "instructions": "use a spatula to pat the mixture down .",
+            "input": "stirred potato_mixture",
+            "action": "use",
+            "output": "pressed potato mixture"
+        },
+        {
+            "instructions": "place in the oven",
+            "input": "pressed potato mixture",
+            "action": "place",
+            "output": "pressed potato mixture"
+        },
+        {
+            "instructions": "bake 20 minutes .",
+            "input": "pressed potato mixture",
+            "action": "bake",
+            "output": "baked potato mixture"
+        },
+        {
+            "instructions": "remove from oven",
+            "input": "baked potato mixture",
+            "action": "remove",
+            "output": "baked potato mixture"
+        },
+        {
+            "instructions": "sprinkle with cheeses ,",
+            "input": "(baked potato mixture; cheese)",
+            "action": "sprinkle",
+            "output": "baked potato mixture with cheese"
+        },
+        {
+            "instructions": "return to oven .",
+            "input": "baked potato mixture with cheese",
+            "action": "return",
+            "output": "baked potato mixture with cheese"
+        },
+        {
+            "instructions": "bake 810 minutes more .",
+            "input": "baked potato mixture with cheese",
+            "action": "bake",
+            "output": "baked potato mixture with melted cheese"
+        },
+        {
+            "instructions": "warm marinara_sauce in microwave for 12 minutes .",
+            "input": "marinara sauce",
+            "action": "warm",
+            "output": "warmed marinara sauce"
+        },
+        {
+            "instructions": "slide onto a cutting board .",
+            "input": "baked potato mixture with melted cheese",
+            "action": "slide",
+            "output": "sliced potato mixture with melted cheese "
+        },
+        {
+            "instructions": "garnish with fresh chopped basil or parsley .",
+            "input": "(sliced potato mixture with melted cheese; basil; parsley)",
+            "action": "garnish",
+            "output": "potato mixture topped with herbs"
+        },
+        {
+            "instructions": "cut into wedges",
+            "input": "potato mixture topped with herbs",
+            "action": "cut",
+            "output": "cut potato mixture topped with herbs"
+        },
+        {
+            "instructions": "serve .",
+            "input": "cut potato mixture topped with herbs",
+            "action": "serve",
+            "output": "served potato mixture topped with herbs"
+        }
+    ],
+    "ingredients": [
+        {
+            "text": "16 ounces, weight Frozen Hashbrown Potatoes"
+        },
+        {
+            "text": "3 Tablespoons All-purpose Flour"
+        },
+        {
+            "text": "2 whole Egg Yolks"
+        },
+        {
+            "text": "1/2 teaspoons Sea Salt"
+        },
+        {
+            "text": "1 teaspoon Black Pepper"
+        },
+        {
+            "text": "1/2 cups Sharp Cheddar Cheese, Shredded"
+        },
+        {
+            "text": "1/2 cups Mozzarella Cheese, Shredded"
+        },
+        {
+            "text": "1 cup Marinara Sauce, Warmed"
+        },
+        {
+            "text": "Fresh Chopped Basil Or Parsley, For Garnish"
+        }
+    ],
+    "recipe": [
+        {
+            "text": "Preheat oven to 400 degrees F. Liberally grease a 12-inch cast iron skillet with oil or cooking spray."
+        },
+        {
+            "text": "In a large mixing bowl, add hash brown potatoes, flour, egg yolks, salt and black pepper; stir well."
+        },
+        {
+            "text": "Transfer to prepared skillet and use a spatula to pat the mixture down."
+        },
+        {
+            "text": "Place in the oven and bake 20 minutes."
+        },
+        {
+            "text": "Remove from oven, sprinkle with cheeses, and return to oven."
+        },
+        {
+            "text": "Bake 810 minutes more."
+        },
+        {
+            "text": "Warm marinara sauce in microwave for 12 minutes."
+        },
+        {
+            "text": "Using two spatulas, loosen hash brown pizza from skillet and slide onto a cutting board."
+        },
+        {
+            "text": "Garnish with fresh chopped basil or parsley."
+        },
+        {
+            "text": "Cut into wedges, plate, and serve."
+        }
+    ]
+}

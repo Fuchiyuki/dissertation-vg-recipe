@@ -1,0 +1,103 @@
+{
+    "title": "moose_'s_easy_pizza_bread",
+    "id": "99c03ed2c6",
+    "table": [
+        {
+            "instructions": "combine all of the dried herbs , salt , seasoning , pepper , tomato_paste , and water adjust amount of water to desired consistency",
+            "input": "(salt; seasoning; pepper; tomato_paste; water;dried herbs; water)",
+            "action": "combine",
+            "output": "tomato sauce"
+        },
+        {
+            "instructions": "place sauce in microwave for 45 seconds at half power , stirring sauce midway or place sauce aside for at least 30 minutes in fridge for increased flavor absorption",
+            "input": "tomato sauce",
+            "action": "place",
+            "output": "cooked tomato sauce"
+        },
+        {
+            "instructions": "preheat oven to 37",
+            "input": "NA",
+            "action": "preheat",
+            "output": "NA"
+        },
+        {
+            "instructions": "using a brush or your hands coat both sides of the bread with olive_oil",
+            "input": "(bread; olive_oil)",
+            "action": "coat",
+            "output": "bread coated with oil"
+        },
+        {
+            "instructions": "place into oven on a baking sheet",
+            "input": "bread coated with oil",
+            "action": "place",
+            "output": "bread coated with oil"
+        },
+        {
+            "instructions": "add mozzarella and pepperoni",
+            "input": "(bread coated with oil; mozzarella, pepperoni)",
+            "action": "add",
+            "output": "mozzarella and pepperoni added on bread coated with oil"
+        },
+        {
+            "instructions": "place back into oven for another 5 minutes or longer if desired",
+            "input": "uncooked bread pizza",
+            "action": "place",
+            "output": "baked bread pizza"
+        }
+    ],
+    "ingredients": [
+        {
+            "text": "1/2 cup Tomato Paste"
+        },
+        {
+            "text": "1/2 tbsp Italian seasoning"
+        },
+        {
+            "text": "2 tsp Oregano - dried"
+        },
+        {
+            "text": "1 pinch Thyme - dried"
+        },
+        {
+            "text": "1/2 tbsp salt"
+        },
+        {
+            "text": "1 tsp Black pepper"
+        },
+        {
+            "text": "1 1/2 tbsp Water"
+        },
+        {
+            "text": "4 slice Potato bread"
+        },
+        {
+            "text": "1 Mozzarella cheese"
+        },
+        {
+            "text": "1 Pepperoni"
+        }
+    ],
+    "recipe": [
+        {
+            "text": "Combine all of the dried herbs, salt, seasoning, pepper, tomato paste, and water (adjust amount of water to desired consistency)"
+        },
+        {
+            "text": "Place sauce in microwave for 45 seconds at half power, stirring sauce midway (or place sauce aside for at least 30 minutes in fridge for increased flavor absorption)"
+        },
+        {
+            "text": "Preheat oven to 375F"
+        },
+        {
+            "text": "Using a brush (or your hands) coat both sides of the bread with olive oil and place into oven on a baking sheet"
+        },
+        {
+            "text": "Let toast for 5 minutes, turning over halfway through"
+        },
+        {
+            "text": "Add mozzarella and pepperoni and place back into oven for another 5 minutes or longer if desired"
+        },
+        {
+            "text": "Bon apetite!"
+        }
+    ]
+}

@@ -1,0 +1,103 @@
+{
+    "title": "spinach_artichoke_heart_pizza",
+    "id": "1e6974a099",
+    "table": [
+        {
+            "instructions": "preheat oven to 425 degrees .",
+            "input": "NA",
+            "actions": "preheat",
+            "output": "NA"
+        },
+        {
+            "instructions": "roll pie_crust out until it is about 2 larger .",
+            "input": "pie_crust",
+            "actions": "roll",
+            "output": "rolled_pie_crust"
+        },
+        {
+            "instructions": "put on a pizza\u2012pan , using a fork ;",
+            "input": "rolled_pie_crust",
+            "actions": "put",
+            "output": "rolled_pie_crust"
+        },
+        {
+            "instructions": "pierce crust about 20 times .",
+            "input": "rolled_pie_crust",
+            "actions": "pierce",
+            "output": "pierced crust"
+        },
+        {
+            "instructions": "bake about 8 minutes , until lightly browned .",
+            "input": "uncooked pierced crust",
+            "actions": "bake",
+            "output": "cooked piercde crust"
+        },
+        {
+            "instructions": "mix creamed_spinach , garlic and artichoke_heart together until well blended",
+            "input": "creamed_spinach, garlic and artchoke_heart",
+            "actions": "mix",
+            "output": "blended creamed_spinach, garlic and artichoke_heart"
+        },
+        {
+            "instructions": "put over pie_crust .",
+            "input": "(pie_crust; blended creamed_spinach, garlic and artichoke_heart)",
+            "actions": "put",
+            "output": "pie_crust filled with blended creamed_spinach, garlic and artichoke_heart"
+        },
+        {
+            "instructions": "sprinkle with mozzarella_cheese then cheddar_cheese .",
+            "input": "(pie_crust filled with blended creamed_spinach, garlic and artichoke_heart; mozzarella-cheese; cheddar_cheese)",
+            "actions": "sprinkle",
+            "output": "uncooked spinach artichoke pizza"
+        },
+        {
+            "instructions": "bake at 425 degrees 15 20 minutes .",
+            "input": "uncooked spinach artichoke pizza",
+            "actions": "bake",
+            "output": "cooked spinach artichoke heart pizza"
+        }
+    ],
+    "ingredients": [
+        {
+            "text": "1 pie crust"
+        },
+        {
+            "text": "1 (10 ounce) box frozen creamed spinach, defrosted"
+        },
+        {
+            "text": "2 cloves garlic, minced"
+        },
+        {
+            "text": "10 artichoke hearts, finely chopped"
+        },
+        {
+            "text": "2 cups mozzarella cheese, shredded"
+        },
+        {
+            "text": "12 cup sharp cheddar cheese, shredded"
+        }
+    ],
+    "recipe": [
+        {
+            "text": "Preheat oven to 425 degrees."
+        },
+        {
+            "text": "Roll pie crust out until it is about 2\" larger."
+        },
+        {
+            "text": "Put on a pizza pan,using a fork pierce crust about 20 times."
+        },
+        {
+            "text": "Bake about 8 minutes, until lightly browned."
+        },
+        {
+            "text": "Mix creamed spinach, garlic and artichoke hearts together until well blended, put over pie crust."
+        },
+        {
+            "text": "Sprinkle with mozzarella cheese then cheddar cheese."
+        },
+        {
+            "text": "Bake at 425 degrees 15-20 minutes."
+        }
+    ]
+}

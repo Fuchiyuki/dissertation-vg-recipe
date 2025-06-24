@@ -1,0 +1,106 @@
+{
+    "title": "chicken_pizza_pasta_for_one",
+    "id": "d727e820f4",
+    "table": [
+        {
+            "instructions": "i leave mine in it 's plastic wrapper for 4 minutes .",
+            "input": "penne",
+            "action": "leave",
+            "output": "penne"
+        },
+        {
+            "instructions": "boil penne to your degree of oneness",
+            "input": "penne",
+            "action": "boil",
+            "output": "boiled_penne"
+        },
+        {
+            "instructions": "drain",
+            "input": "boiled_penne",
+            "action": "drain",
+            "output": "drained_penne"
+        },
+        {
+            "instructions": "return to pot .",
+            "input": "drained_penne",
+            "action": "return",
+            "output": "drained_penne"
+        },
+        {
+            "instructions": "dice chicken",
+            "input": "chicken",
+            "action": "dice",
+            "output": "diced_chicken"
+        },
+        {
+            "instructions": "add to penne set aside .",
+            "input": "(drained_penne; diced_chicken)",
+            "action": "add",
+            "output": "diced chicken_in_cooked penne"
+        },
+        {
+            "instructions": "heat pizza_sauce on stove , adding minced pepperoni , chopped olive and chopped pineapple .",
+            "input": "(pizza sauce; minced pepperoni; chopped olive; chopped pineapple)",
+            "action": "heat",
+            "output": "heated_sauce_with_pepperoni,_olive,_pineapple"
+        },
+        {
+            "instructions": "done , add to the heated sauce .",
+            "input": "(heated_sauce_with_pepperoni,_olive,_pineapple; diced chicken_in_cooked penne)",
+            "action": "add",
+            "output": "chicken_pizza_pasta"
+        },
+        {
+            "instructions": "top with parmesan or feta_cheese optional and not included in calorie count .",
+            "input": "(parmesan_cheese; feta_cheese; chicken_pizza_pasta)",
+            "action": "top",
+            "output": "chicken_pizza_pasta_topped_with_parmesan_or_feta_cheese"
+        }
+    ],
+    "ingredients": [
+        {
+            "text": "4 ounces chicken breasts, 1 frozen fillet"
+        },
+        {
+            "text": "2 slices pepperoni, minced"
+        },
+        {
+            "text": "3 black olives, coarsely chopped"
+        },
+        {
+            "text": "13 cup pineapple chunk, diced"
+        },
+        {
+            "text": "13 cup pizza sauce"
+        },
+        {
+            "text": "2 ounces whole wheat penne, wholegrain Hodgeson's Mill, Good"
+        }
+    ],
+    "recipe": [
+        {
+            "text": "Nuke frozen chicken in microwave however you usually do it."
+        },
+        {
+            "text": "I leave mine in it's plastic wrapper for 4 minutes."
+        },
+        {
+            "text": "Boil Penne to your degree of oneness, drain and return to pot."
+        },
+        {
+            "text": "Dice chicken and add to Penne -Set aside."
+        },
+        {
+            "text": "Heat pizza sauce on stove, adding minced pepperoni, chopped olive and chopped pineapple."
+        },
+        {
+            "text": "When chicken and pasta are both done, add to the heated sauce."
+        },
+        {
+            "text": "Top with Parmesan or feta cheese (optional and not included in calorie count)."
+        },
+        {
+            "text": "Enjoy!"
+        }
+    ]
+}

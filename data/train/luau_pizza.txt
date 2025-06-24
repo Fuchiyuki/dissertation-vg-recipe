@@ -1,0 +1,115 @@
+{
+    "title": "luau_pizza",
+    "id": "6205b519b8",
+    "table": [
+        {
+            "instructions": "preheat oven to 425 degrees f .",
+            "input": "NA",
+            "action": "preheat",
+            "output": "NA"
+        },
+        {
+            "instructions": "roll out the pizza_dough very thin , to 12 x 14 1",
+            "input": "pizza_dough",
+            "action": "roll",
+            "output": "rolled_pizza_dough"
+        },
+        {
+            "instructions": "lay on a baking sheet .",
+            "input": "thin_rolled_pizza_dough",
+            "action": "lay",
+            "output": "pizza_dough_on_baking_sheet"
+        },
+        {
+            "instructions": "mix barbecue_sauce and marinara_sauce .",
+            "input": "(barbecue_sauce; marinara_sauce)",
+            "action": "mix",
+            "output": "barbecue_and_marinara_sauce_mixture"
+        },
+        {
+            "instructions": "ladle onto crust",
+            "input": "(pizza_dough_on_baking_sheet; barbecue_and_marinara_sauce_mixture)",
+            "action": "ladle",
+            "output": "sauced_pizza_dough"
+        },
+        {
+            "instructions": "spread thin ,",
+            "input": "sauced_pizza_dough",
+            "action": "spread",
+            "output": "thinly_spread_sauce_on_pizza_dough"
+        },
+        {
+            "instructions": "sprinkle with minced_garlic .",
+            "input": "thinly_spread_sauce_on_pizza_dough; minced garlic",
+            "action": "sprinkle",
+            "output": "minced garlic sprinkled_on_sauced pizza_dough"
+        },
+        {
+            "instructions": "bake for approximately 18 20 minutes on middle rack , or until crust is crisp and cheese is melted .",
+            "input": "minced garlic sprinkled_on_sauced pizza_dough",
+            "action": "bake",
+            "output": "baked_crispy_pizza"
+        },
+        {
+            "instructions": "slice into 12 slices .",
+            "input": "baked_crispy_pizza",
+            "action": "slice",
+            "output": "sliced baked_crispy_pizza"
+        }
+    ],
+    "ingredients": [
+        {
+            "text": "1 whole Batch Of Pizza Dough For A 12x15\" Pizza Crust"
+        },
+        {
+            "text": "13 cups Favorite BBQ Sauce"
+        },
+        {
+            "text": "13 cups Favorite Marinara Sauce"
+        },
+        {
+            "text": "1 clove Garlic. Pressed And Finely Minced"
+        },
+        {
+            "text": "6 slices Canadian Bacon, Sliced Into Thin Strips"
+        },
+        {
+            "text": "1/2 cups Pineapple Chunks, Sliced Thin"
+        },
+        {
+            "text": "1/2 cups Finely Sliced Red Onion"
+        },
+        {
+            "text": "4 ounces, weight Mozzarella Fresca Balls, Halved"
+        }
+    ],
+    "recipe": [
+        {
+            "text": "Preheat oven to 425 degrees (F)."
+        },
+        {
+            "text": "Roll out the pizza dough very thin, to 12 x 14-16."
+        },
+        {
+            "text": "Lay on a baking sheet."
+        },
+        {
+            "text": "Mix barbecue sauce and marinara sauce."
+        },
+        {
+            "text": "Ladle onto crust, spread thin, and sprinkle with minced garlic."
+        },
+        {
+            "text": "Next, layer sliced Canadian bacon, pineapple chunks, red onion, and mozzarella ball halves."
+        },
+        {
+            "text": "Bake for approximately 18-20 minutes on middle rack, or until crust is crisp and cheese is melted."
+        },
+        {
+            "text": "Slice into 12 slices."
+        },
+        {
+            "text": "Nutrition Info per 3 slices: 362 calories, 21 g protein, 13 g fat, 4 g saturated fat, 40 g carbohydrates, 5.4 g fiber"
+        }
+    ]
+}

@@ -1,0 +1,175 @@
+{
+    "title": "nestle_candy_shop_pizza",
+    "id": "44e5f635cb",
+    "table": [
+        {
+            "instructions": "preheat oven to 375 .",
+            "input": "NA",
+            "actions": "preheat",
+            "output": "NA"
+        },
+        {
+            "instructions": "lightly grease a 12 14 inch , pizza\u2012pan or a 15 12x10 12 inch , baking pan .",
+            "input": "NA",
+            "actions": "grease",
+            "output": "NA"
+        },
+        {
+            "instructions": "in small bowl , combine flour , baking_soda , and salt ;",
+            "input": "(flour; baking_soda; salt)",
+            "actions": "combine",
+            "output": "flour mixture"
+        },
+        {
+            "instructions": "set aside .",
+            "input": "flour mixture",
+            "actions": "set",
+            "output": "flour mixture"
+        },
+        {
+            "instructions": "in large mixer bowl , beat butter , sugar , and brown_sugar until creamy .",
+            "input": "(butter; sugar; brown_sugar)",
+            "actions": "beat",
+            "output": "creamy butter mixture"
+        },
+        {
+            "instructions": "beat in egg and vanilla .",
+            "input": "(egg; vanilla; creamy butter mixture)",
+            "actions": "beat",
+            "output": "egg and vanilla beaten into butter mixture"
+        },
+        {
+            "instructions": "gradually beat in flour mixture",
+            "input": "(flour mixture; egg and vanilla beaten into butter mixture)",
+            "actions": "beat",
+            "output": "batter"
+        },
+        {
+            "instructions": "stir in 1 cup chocolate_chip",
+            "input": "(chocolate_chip; batter)",
+            "actions": "stir",
+            "output": "chocolate chip stirred in batter"
+        },
+        {
+            "instructions": "spread in prepared pan",
+            "input": "batter with chocolate chip",
+            "actions": "spread",
+            "output": "batter with chocolate chip spread"
+        },
+        {
+            "instructions": "bake 20 24 minutes , until lightly browned .",
+            "input": "uncooked batter with chocolate chip",
+            "actions": "bake",
+            "output": "baked crust"
+        },
+        {
+            "instructions": "immediately sprinkle remaining chocolate_chip over crust ;",
+            "input": "(baked crust; remaining chocolate_chip)",
+            "actions": "sprinkle",
+            "output": "chocolate chip sprinkled over baked crust"
+        },
+        {
+            "instructions": "drop on peanut_butter by spoonfuls .",
+            "input": "(peanut butter; crust with chocolate chip)",
+            "actions": "drop",
+            "output": "peanut butter dropped on crust with chocolate chip"
+        },
+        {
+            "instructions": "gently spread chocolate and peanut_butter evenly over crust .",
+            "input": "peanut butter dropped on crust with chocolate chip",
+            "actions": "spread",
+            "output": "peanut butter and chocolate spread on crust with chocolate chip"
+        },
+        {
+            "instructions": "decorate pizza with candy .",
+            "input": "(candy; chocolate and peanut butter pizza)",
+            "actions": "decorate",
+            "output": "pizza decorated with candy"
+        },
+        {
+            "instructions": "cut into wedges ;",
+            "input": "candy pizza",
+            "actions": "cut",
+            "output": "cut candy pizza"
+        },
+        {
+            "instructions": "serve warm .",
+            "input": "candy pizza",
+            "actions": "serve",
+            "output": "candy pizza"
+        }
+    ],
+    "ingredients": [
+        {
+            "text": "1 12 cups all-purpose flour"
+        },
+        {
+            "text": "12 teaspoon baking soda"
+        },
+        {
+            "text": "12 teaspoon salt"
+        },
+        {
+            "text": "10 tablespoons butter, softened"
+        },
+        {
+            "text": "12 cup sugar"
+        },
+        {
+            "text": "12 cup brown sugar"
+        },
+        {
+            "text": "1 egg"
+        },
+        {
+            "text": "12 teaspoon vanilla"
+        },
+        {
+            "text": "2 cups chocolate chips, divided"
+        },
+        {
+            "text": "12 cup peanut butter"
+        },
+        {
+            "text": "1 cup coarsely chopped candy (such as Crunch or Butterfinger)"
+        }
+    ],
+    "recipe": [
+        {
+            "text": "Preheat oven to 375*."
+        },
+        {
+            "text": "Lightly grease a 12-14 inch pizza pan or a 15 1/2x10 1/2 inch baking pan."
+        },
+        {
+            "text": "In small bowl, combine flour, baking soda, and salt; set aside."
+        },
+        {
+            "text": "In large mixer bowl, beat butter, sugar, and brown sugar until creamy."
+        },
+        {
+            "text": "Beat in egg and vanilla."
+        },
+        {
+            "text": "Gradually beat in flour mixture, stir in 1 cup chocolate chips."
+        },
+        {
+            "text": "Spread in prepared pan, bake 20-24 minutes, until lightly browned."
+        },
+        {
+            "text": "Immediately sprinkle remaining chocolate chips over crust; drop on peanut butter by spoonfuls."
+        },
+        {
+            "text": "Let stand 5 minutes, or until chips become shiny and soft."
+        },
+        {
+            "text": "Gently spread chocolate and peanut butter evenly over crust."
+        },
+        {
+            "text": "Decorate pizza with candy."
+        },
+        {
+            "text": "Cut into wedges; serve warm."
+        }
+    ]
+}

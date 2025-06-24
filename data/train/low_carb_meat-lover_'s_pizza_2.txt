@@ -1,0 +1,169 @@
+{
+    "title": "low_carb_meat-lover_'s_pizza_2",
+    "id": "8a77676501",
+    "table": [
+        {
+            "instructions": "preheat oven to 450 degrees .",
+            "input": "NA",
+            "action": "preheat",
+            "output": "NA"
+        },
+        {
+            "instructions": "heat a medium oven proof skillet over low heat .",
+            "input": "NA",
+            "action": "heat",
+            "output": "NA"
+        },
+        {
+            "instructions": "brush one side of low carb",
+            "input": "NA",
+            "action": "brush",
+            "output": "NA"
+        },
+        {
+            "instructions": "place the lavash , butter side down , in the skillet",
+            "input": "(lavash; butter)",
+            "action": "place",
+            "output": "buttered flatbread"
+        },
+        {
+            "instructions": "cook for 45 seconds .",
+            "input": "buttered flatbread",
+            "action": "cook",
+            "output": "toasted buttered flatbread"
+        },
+        {
+            "instructions": "brush with remaining butter",
+            "input": "remaining butter; toasted buttered flatbread",
+            "action": "brush",
+            "output": "toasted buttered flatbread"
+        },
+        {
+            "instructions": "turn the lavash over to brown the other side .",
+            "input": "toasted buttered flatbread",
+            "action": "turn",
+            "output": "toasted buttered flatbread"
+        },
+        {
+            "instructions": "remove skillet from heat .",
+            "input": "toasted buttered flatbread",
+            "action": "remove",
+            "output": "toasted buttered flatbread"
+        },
+        {
+            "instructions": "spread tomato_sauce evenly over the lavash .",
+            "input": "toasted buttered flatbread; tomato sauce",
+            "action": "spread",
+            "output": "toasted buttered flatbread with tomato sauce spread on it"
+        },
+        {
+            "instructions": "top with the sausage , pepperoni , and cheese .",
+            "input": "sausage; pepperoni; cheese; toasted buttered flatbread with tomato sauce spread on it",
+            "action": "top",
+            "output": "toasted buttered flatbread with tomato sauce spread on it and topped with sausage , pepperoni , and cheese"
+        },
+        {
+            "instructions": "add mushrooms , fresh or canned , if desired .",
+            "input": "fresh mushrooms/canned mushrooms",
+            "action": "add",
+            "output": "toasted buttered flatbread with tomato sauce spread on it and topped with sausage , pepperoni , cheese and mushrooms"
+        },
+        {
+            "instructions": "place skillet into the hot oven",
+            "input": "toasted buttered flatbread with tomato sauce spread on it and topped with sausage , pepperoni , cheese and mushrooms",
+            "action": "place",
+            "output": "toasted buttered flatbread with tomato sauce spread on it and topped with sausage , pepperoni , cheese and mushrooms"
+        },
+        {
+            "instructions": "bake 10 minutes , till pizza is bubbly and cheese is golden .",
+            "input": "uncooked meat flatbread pizza",
+            "action": "bake",
+            "output": "baked meat flatbread pizza"
+        },
+        {
+            "instructions": "slide pizza out of skillet",
+            "input": "baked meat flatbread pizza",
+            "action": "slide",
+            "output": "baked meat flatbread pizza"
+        },
+        {
+            "instructions": "cool 1 or 2 minutes .",
+            "input": "baked meat flatbread pizza",
+            "action": "cool",
+            "output": "baked meat flatbread pizza"
+        },
+        {
+            "instructions": "cut into 6 pieces",
+            "input": "baked meat flatbread pizza",
+            "action": "cut",
+            "output": "baked meat flatbread pizza"
+        },
+        {
+            "instructions": "serve .",
+            "input": "baked meat flatbread pizza",
+            "action": "serve",
+            "output": "baked meat flatbread pizza served"
+        }
+    ],
+    "ingredients": [
+        {
+            "text": "1 teaspoon butter"
+        },
+        {
+            "text": "2 tablespoons tomato sauce"
+        },
+        {
+            "text": "2 ounces Italian sausage, cooked and crumbled"
+        },
+        {
+            "text": "1 ounce pepperoni, sliced"
+        },
+        {
+            "text": "2 ounces mozzarella cheese, shredded"
+        },
+        {
+            "text": "12 ounce mushroom, sliced (optional)"
+        }
+    ],
+    "recipe": [
+        {
+            "text": "Preheat oven to 450 degrees ."
+        },
+        {
+            "text": "Heat a medium oven-proof skillet over low heat."
+        },
+        {
+            "text": "Brush one side of low-carb lavash (3 net grams carbs)with half the butter."
+        },
+        {
+            "text": "Place the lavash, butter-side-down, in the skillet and cook for 45 seconds."
+        },
+        {
+            "text": "Brush with remaining butter and turn the lavash over to brown the other side."
+        },
+        {
+            "text": "Remove skillet from heat."
+        },
+        {
+            "text": "Spread tomato sauce evenly over the lavash."
+        },
+        {
+            "text": "Top with the sausage, pepperoni, and cheese."
+        },
+        {
+            "text": "Add mushrooms, fresh or canned, if desired."
+        },
+        {
+            "text": "Place skillet into the hot oven and bake 10 minutes, till pizza is bubbly and cheese is golden."
+        },
+        {
+            "text": "Remove skillet from oven (use a pot holder - the handle will be HOT)."
+        },
+        {
+            "text": "Slide pizza out of skillet and cool 1 or 2 minutes."
+        },
+        {
+            "text": "Cut into 6 pieces and serve."
+        }
+    ]
+}

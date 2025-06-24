@@ -1,0 +1,196 @@
+{
+    "title": "maine_potato_pizza",
+    "id": "5cea58fd12",
+    "table": [
+        {
+            "instructions": "cook ground_beef",
+            "input": "ground_beef",
+            "action": "cook",
+            "output": "cooked_ground_beef"
+        },
+        {
+            "instructions": "drain well .",
+            "input": "cooked_ground_beef with excess fat",
+            "action": "drain",
+            "output": "cooked_ground_beef drained from excess fat"
+        },
+        {
+            "instructions": "sprinkle with salt .",
+            "input": "(salt; cooked_ground_beef drained from excess fat)",
+            "action": "sprinkle",
+            "output": "salted cooked_ground_beef"
+        },
+        {
+            "instructions": "combine onion , oregano , pepper , sugar and sauce .",
+            "input": "(onion; oregano; pepper; sugar; sauce)",
+            "action": "combine",
+            "output": "onion mixture"
+        },
+        {
+            "instructions": "stir soup and milk until smooth .",
+            "input": "(soup; milk)",
+            "action": "stir",
+            "output": "soup and milk mixture"
+        },
+        {
+            "instructions": "spread potatoes and beef .",
+            "input": "(potatoes; cooked_ground_beef)",
+            "action": "spread",
+            "output": "potatoes and cooked_ground_beef spread"
+        },
+        {
+            "instructions": "dot with butter .",
+            "input": "(potatoes and cooked_ground_beef spread; butter)",
+            "action": "dot",
+            "output": "potatoes and cooked_ground_beef spread dotted with butter"
+        },
+        {
+            "instructions": "pour sauces over top ,",
+            "input": "(onion mixture; soup and milk mixture; potatoes and cooked_ground_beef spread dotted with butter)",
+            "action": "pour",
+            "output": "onion sauce and soup and milk mixture poured on potatoes and cooked_ground_beef spread"
+        },
+        {
+            "instructions": "do not stir .",
+            "input": "uncooked potato and beef pizza",
+            "action": "stir",
+            "output": "uncooked potato and beef pizza"
+        },
+        {
+            "instructions": "add topping of choice .",
+            "input": "(toppings; uncooked potato and beef pizza)",
+            "action": "add",
+            "output": "toppings added to uncooked potato and beef pizza"
+        },
+        {
+            "instructions": "cover pan with foil .",
+            "input": "uncooked potato and beef pizza",
+            "action": "cover",
+            "output": "covered uncooked potato and beef pizza"
+        },
+        {
+            "instructions": "bake at 375 for 45 minutes .",
+            "input": "uncooked potato and beef pizza",
+            "action": "bake",
+            "output": "baked potato and beef pizza"
+        },
+        {
+            "instructions": "remove",
+            "input": "baked potato and beef pizza",
+            "action": "remove",
+            "output": "baked potato and beef pizza"
+        },
+        {
+            "instructions": "arrange mozzarella_cheese",
+            "input": "(mozzarella cheese; baked potato and beef pizza)",
+            "action": "arrange",
+            "output": "mozzarella cheese arranged on baked potato and beef pizza"
+        },
+        {
+            "instructions": "sprinkle with parmesan_cheese .",
+            "input": "(parmesan cheese; baked potato and beef pizza with mozzarella)",
+            "action": "sprinkle",
+            "output": "parmesan cheese sprinkled on baked potato and beef pizza with mozzarella"
+        },
+        {
+            "instructions": "return pan uncovered to oven until cheese is bubbly , about 15 minutes .",
+            "input": "maine_potato_pizza",
+            "action": "return",
+            "output": "maine_potato_pizza with bubbly cheese"
+        }
+    ],
+    "ingredients": [
+        {
+            "text": "1 lb ground beef (salt to taste)"
+        },
+        {
+            "text": "12 cup chopped onion"
+        },
+        {
+            "text": "12 teaspoon oregano"
+        },
+        {
+            "text": "14 teaspoon red pepper"
+        },
+        {
+            "text": "12 teaspoon sugar"
+        },
+        {
+            "text": "15 ounces tomato sauce"
+        },
+        {
+            "text": "12 cup milk"
+        },
+        {
+            "text": "4 cups thinly sliced potatoes"
+        },
+        {
+            "text": "11 ounces cheddar cheese soup"
+        },
+        {
+            "text": "8 slices mozzarella cheese, thin slices"
+        },
+        {
+            "text": "1 tablespoon butter"
+        },
+        {
+            "text": "12 cup parmesan cheese"
+        },
+        {
+            "text": "green pepper"
+        },
+        {
+            "text": "onion"
+        },
+        {
+            "text": "mushroom"
+        },
+        {
+            "text": "sausage"
+        },
+        {
+            "text": "bacon, etc"
+        }
+    ],
+    "recipe": [
+        {
+            "text": "Pan should be about 10x15."
+        },
+        {
+            "text": "Cook ground beef, drain well."
+        },
+        {
+            "text": "Sprinkle with salt."
+        },
+        {
+            "text": "Combine onion, oregano, pepper, sugar and sauce."
+        },
+        {
+            "text": "Stir soup and milk until smooth."
+        },
+        {
+            "text": "Spread potatoes and beef."
+        },
+        {
+            "text": "Dot with butter."
+        },
+        {
+            "text": "Pour sauces over top, but do not stir."
+        },
+        {
+            "text": "Add topping of choice."
+        },
+        {
+            "text": "Cover pan with foil."
+        },
+        {
+            "text": "Bake at 375 for 45 minutes."
+        },
+        {
+            "text": "Remove and arrange mozzarella cheese and sprinkle with parmesan cheese."
+        },
+        {
+            "text": "Return pan uncovered to oven until cheese is bubbly, about 15 minutes."
+        }
+    ]
+}

@@ -1,0 +1,145 @@
+{
+    "title": "ham_broccoli_alfredo_pizza",
+    "id": "b9875b218f",
+    "table": [
+        {
+            "instructions": "heat oven to 450f .",
+            "input": "NA",
+            "action": "heat",
+            "output": "NA"
+        },
+        {
+            "instructions": "melt butter in small saucepan until sizzling ;",
+            "input": "butter",
+            "action": "melt",
+            "output": "melted_butter"
+        },
+        {
+            "instructions": "add garlic .",
+            "input": "(garlic; melted_butter)",
+            "action": "add",
+            "output": "garlic added to melted_butter"
+        },
+        {
+            "instructions": "cook over medium heat 1 minute .",
+            "input": "garlic added to melted_butter",
+            "action": "cook",
+            "output": "cooked garlic in melted butter"
+        },
+        {
+            "instructions": "stir in flour ;",
+            "input": "(flour; cooked garlic in melted butter)",
+            "action": "stir",
+            "output": "flour stirred into cooked garlic in melted butter"
+        },
+        {
+            "instructions": "cook 1 minute .",
+            "input": "garlic roux",
+            "action": "cook",
+            "output": "garlic roux"
+        },
+        {
+            "instructions": "add milk and nutmeg ;",
+            "input": "(milk; nutmeg; garlic roux)",
+            "action": "add",
+            "output": "garlic white sauce"
+        },
+        {
+            "instructions": "add cheese , stirring until melted .",
+            "input": "(cheese; garlic white sauce)",
+            "action": "add",
+            "output": "alfredo_sauce"
+        },
+        {
+            "instructions": "place pizza_crust onto large ungreased baking sheet .",
+            "input": "pizza_crust",
+            "action": "place",
+            "output": "pizza_crust"
+        },
+        {
+            "instructions": "spread alfredo_sauce over pizza_crust .",
+            "input": "(alfredo_sauce; pizza_crust)",
+            "action": "spread",
+            "output": "spread alfredo_sauce over pizza_crust"
+        },
+        {
+            "instructions": "bake 10 15 minutes or until cheese is light golden brown .",
+            "input": "uncooked alfredo pizza",
+            "action": "bake",
+            "output": "baked alfredo pizza"
+        },
+        {
+            "instructions": "cut into 8 wedges .",
+            "input": "baked alfredo pizza",
+            "action": "cut",
+            "output": "wedges of alfredo pizza"
+        }
+    ],
+    "ingredients": [
+        {
+            "text": "2 tablespoons Land O Lakes Butter"
+        },
+        {
+            "text": "1 teaspoon finely chopped fresh garlic"
+        },
+        {
+            "text": "1 tablespoon all-purpose flour"
+        },
+        {
+            "text": "1/3 cup milk"
+        },
+        {
+            "text": "1/8 teaspoon ground nutmeg"
+        },
+        {
+            "text": "6 (3/4-ounce) slices Land O Lakes Deli 4 Cheese Italian Blend, cut into quarters"
+        },
+        {
+            "text": "1 (14-ounce) round pre-baked Italian pizza crust"
+        },
+        {
+            "text": "4 ounces (1 cup) shredded mozzarella cheese"
+        },
+        {
+            "text": "1 cup cooked ham"
+        },
+        {
+            "text": "1 cup chopped broccoli"
+        }
+    ],
+    "recipe": [
+        {
+            "text": "Heat oven to 450F."
+        },
+        {
+            "text": "Melt butter in small saucepan until sizzling; add garlic."
+        },
+        {
+            "text": "Cook over medium heat 1 minute."
+        },
+        {
+            "text": "Stir in flour; cook 1 minute."
+        },
+        {
+            "text": "Add milk and nutmeg; continue cooking, stirring occasionally, 5-6 minutes or until thickened."
+        },
+        {
+            "text": "Add cheese, stirring until melted."
+        },
+        {
+            "text": "Place pizza crust onto large ungreased baking sheet."
+        },
+        {
+            "text": "Spread Alfredo sauce over pizza crust."
+        },
+        {
+            "text": "Layer with ham, broccoli and cheese."
+        },
+        {
+            "text": "Bake 10-15 minutes or until cheese is light golden brown."
+        },
+        {
+            "text": "Cut into 8 wedges."
+        }
+    ]
+}

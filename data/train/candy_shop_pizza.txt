@@ -1,0 +1,178 @@
+{
+    "title": "candy_shop_pizza",
+    "id": "fb21d95197",
+    "table": [
+        {
+            "instructions": "preheat oven to 375f 190c .",
+            "input": "NA",
+            "action": "preheat",
+            "output": "NA"
+        },
+        {
+            "instructions": "in small bowl , combine flour , baking_soda and salt ;",
+            "input": "(flour; baking soda; salt)",
+            "action": "combine",
+            "output": "flour mixture"
+        },
+        {
+            "instructions": "set aside .",
+            "input": "flour mixture",
+            "action": "set",
+            "output": "flour mixture"
+        },
+        {
+            "instructions": "in large mixer bowl , beat butter , granulated_sugar and brown_sugar until creamy .",
+            "input": "(butter; granulated sugar; brown sugar)",
+            "action": "beat",
+            "output": "butter and sugar mixture"
+        },
+        {
+            "instructions": "beat in egg and vanilla_extract .",
+            "input": "(butter and sugar mixture; egg; vanilla extract)",
+            "action": "beat",
+            "output": "butter egg and sugar mixture"
+        },
+        {
+            "instructions": "gradually beat in flour mixture .",
+            "input": "(butter egg and sugar mixture; flour mixture)",
+            "action": "beat",
+            "output": "cookie dough"
+        },
+        {
+            "instructions": "stir in 1 cup nestle toll house semi sweet chocolate_morsel .",
+            "input": "(cookie dough; semi sweet chocolate morsel)",
+            "action": "stir",
+            "output": "cookie dough with chocolate morsel"
+        },
+        {
+            "instructions": "spread batter in lightly greased 14 inch , pizza\u2012pan .",
+            "input": "cookie dough with chocolate morsel",
+            "action": "spread",
+            "output": "flattened cookie dough with chocolate morsel"
+        },
+        {
+            "instructions": "bake 20 to 24 minutes or until lightly browned .",
+            "input": "flattened cookie dough with chocolate morsel",
+            "action": "bake",
+            "output": "crust"
+        },
+        {
+            "instructions": "immediately sprinkle remaining 1 cup semi sweet chocolate_morsel over crust ;",
+            "input": "(crust;  remaining semi sweet chocolate morsel)",
+            "action": "sprinkle",
+            "output": "crust with chocolate chip"
+        },
+        {
+            "instructions": "drop peanut_butter by spoonfuls onto morsels .",
+            "input": "(crust with chocolate chip; peanut butter)",
+            "action": "drop",
+            "output": "crust with chocolate chip and peanut butter"
+        },
+        {
+            "instructions": "gently spread chocolate and peanut_butter over crust .",
+            "input": "crust with chocolate chip and peanut butter",
+            "action": "spread",
+            "output": "frosted peanut butter and chocolate chip bar"
+        },
+        {
+            "instructions": "top with fruit and candy .",
+            "input": "(frosted peanut butter and chocolate chip bar; fruit; candy)",
+            "action": "top",
+            "output": "frosted peanut butter and chocolate chip bar topped with fruit and candy"
+        },
+        {
+            "instructions": "cut into wedges .",
+            "input": "frosted peanut butter and chocolate chip bar topped with fruit and candy",
+            "action": "cut",
+            "output": "wedged frosted peanut butter and chocolate chip bar topped with fruit and candy"
+        },
+        {
+            "instructions": "serve warm .",
+            "input": "wedged frosted peanut butter and chocolate chip bar topped with fruit and candy",
+            "action": "serve",
+            "output": "warm wedged frosted peanut butter and chocolate chip bar topped with fruit and candy"
+        }
+    ],
+    "ingredients": [
+        {
+            "text": "1 1/2 cups flour, all-purpose"
+        },
+        {
+            "text": "1/2 teaspoon baking soda"
+        },
+        {
+            "text": "1/2 teaspoon salt"
+        },
+        {
+            "text": "10 tablespoons butter softened"
+        },
+        {
+            "text": "1/2 cup sugar granulated"
+        },
+        {
+            "text": "1/2 cup brown sugar firmly packed"
+        },
+        {
+            "text": "1 each eggs"
+        },
+        {
+            "text": "1/2 teaspoon vanilla extract"
+        },
+        {
+            "text": "1 package milk chocolate morsels"
+        },
+        {
+            "text": "1/2 cup peanut butter"
+        },
+        {
+            "text": "1 cup fruit cut up"
+        },
+        {
+            "text": "1 cup candy bars cut up"
+        }
+    ],
+    "recipe": [
+        {
+            "text": "Preheat oven to 375F (190C)."
+        },
+        {
+            "text": "In small bowl, combine flour, baking soda and salt; set aside."
+        },
+        {
+            "text": "In large mixer bowl, beat butter, granulated sugar and brown sugar until creamy."
+        },
+        {
+            "text": "Beat in egg and vanilla extract."
+        },
+        {
+            "text": "Gradually beat in flour mixture."
+        },
+        {
+            "text": "Stir in 1 cup Nestle Toll House semi-sweet chocolate morsels."
+        },
+        {
+            "text": "Spread batter in lightly greased 14 inch pizza pan."
+        },
+        {
+            "text": "Bake 20 to 24 minutes or until lightly browned."
+        },
+        {
+            "text": "Immediately sprinkle remaining 1 cup semi-sweet chocolate morsels over crust; drop peanut butter by spoonfuls onto morsels."
+        },
+        {
+            "text": "Let stand 5 minutes or until soft and shiny."
+        },
+        {
+            "text": "Gently spread chocolate and peanut butter over crust."
+        },
+        {
+            "text": "Top with fruit and candy."
+        },
+        {
+            "text": "Cut into wedges."
+        },
+        {
+            "text": "Serve warm."
+        }
+    ]
+}

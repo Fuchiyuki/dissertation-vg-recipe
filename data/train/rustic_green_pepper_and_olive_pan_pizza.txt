@@ -1,0 +1,118 @@
+{
+    "title": "rustic_green_pepper_and_olive_pan_pizza",
+    "id": "d528856590",
+    "table": [
+        {
+            "instructions": "preheat oven to 400f .",
+            "input": "NA",
+            "actions": "preheat",
+            "output": "NA"
+        },
+        {
+            "instructions": "heat oil in medium ovenproof skillet over medium high heat .",
+            "input": "oil",
+            "actions": "heat",
+            "output": "heated_oil"
+        },
+        {
+            "instructions": "ease dough into skillet dough will extend partially up sides .",
+            "input": "dough",
+            "actions": "ease",
+            "output": "shaped pizza crust"
+        },
+        {
+            "instructions": "cook until golden on bottom , about 4 minutes .",
+            "input": "shaped pizza crust",
+            "actions": "cook",
+            "output": "baked pizza_crust"
+        },
+        {
+            "instructions": "turn dough over .",
+            "input": "baked pizza_crust",
+            "actions": "turn",
+            "output": "baked pizza_crust"
+        },
+        {
+            "instructions": "top with remaining_ingredient .",
+            "input": "(baked pizza_crust; remaining_ingredient)",
+            "actions": "top",
+            "output": "pizza_crust topped with remaining_ingredient"
+        },
+        {
+            "instructions": "transfer skillet to oven ;",
+            "input": "pizza_crust topped with remaining_ingredient",
+            "actions": "transfer",
+            "output": "pizza_crust topped with remaining_ingredient"
+        },
+        {
+            "instructions": "bake until cheese melts",
+            "input": "uncooked pizza",
+            "actions": "bake",
+            "output": "baked pizza"
+        },
+        {
+            "instructions": "cut into quarters",
+            "input": "baked pizza",
+            "actions": "cut",
+            "output": "cut baked pizza"
+        },
+        {
+            "instructions": "serve .",
+            "input": "cut baked pizza",
+            "actions": "serve",
+            "output": "cut baked pizza"
+        }
+    ],
+    "ingredients": [
+        {
+            "text": "2 tablespoons extra-virgin olive oil"
+        },
+        {
+            "text": "1 10-ounce tube refrigerated pizza dough, rolled to 12-inch square"
+        },
+        {
+            "text": "1 garlic clove, minced"
+        },
+        {
+            "text": "18-ounce package shredded pizza blend cheese"
+        },
+        {
+            "text": "1 small green bell pepper, thinly sliced"
+        },
+        {
+            "text": "1 small red onion, thinly sliced"
+        },
+        {
+            "text": "1/3 cup sliced black olives"
+        },
+        {
+            "text": "1 tablespoon chopped fresh marjoram"
+        }
+    ],
+    "recipe": [
+        {
+            "text": "Preheat oven to 400F."
+        },
+        {
+            "text": "Heat oil in medium ovenproof skillet over medium-high heat."
+        },
+        {
+            "text": "Ease dough into skillet (dough will extend partially up sides)."
+        },
+        {
+            "text": "Cook until golden on bottom, about 4 minutes."
+        },
+        {
+            "text": "Turn dough over."
+        },
+        {
+            "text": "Top with remaining ingredients."
+        },
+        {
+            "text": "Transfer skillet to oven; bake until cheese melts and toppings are hot, about 10 minutes."
+        },
+        {
+            "text": "Cut into quarters and serve."
+        }
+    ]
+}

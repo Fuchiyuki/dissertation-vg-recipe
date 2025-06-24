@@ -1,0 +1,97 @@
+{
+    "title": "quick_easy_tomato_pesto_and_mozzarella_pizza",
+    "id": "6df3a7d2ef",
+    "table": [
+        {
+            "instructions": "very lightly brush the pizza_crust with olive_oil .",
+            "input": "(pizza_crust; olive oil)",
+            "action": "brush",
+            "output": "brushed_pizza_crust with olive oil"
+        },
+        {
+            "instructions": "spread the pesto over the crust .",
+            "input": "(oiled_crust; pesto)",
+            "action": "spread",
+            "output": "pesto_crust"
+        },
+        {
+            "instructions": "add half of the desired amount of cheese and slices of tomatoes .",
+            "input": "(pesto_crust; half of cheese, tomato slices)",
+            "action": "add",
+            "output": "crust with pesto, cheese, and tomatoes"
+        },
+        {
+            "instructions": "then add the other half of the remaining cheese",
+            "input": "(crust with pesto, cheese, and tomatoes; remaining cheese)",
+            "action": "add",
+            "output": "uncooked_tomato_pesto_and_mozzarella_pizza"
+        },
+        {
+            "instructions": "cook as directed on the pizza_crust package .",
+            "input": "uncooked_tomato_pesto_and_mozzarella_pizza",
+            "action": "cook",
+            "output": "cooked_tomato_pesto_and_mozzarella_pizza"
+        },
+        {
+            "instructions": "i put mine back in for a few more minutes because i like my pizza crispier .",
+            "input": "NA",
+            "action": "put",
+            "output": "NA"
+        }
+    ],
+    "ingredients": [
+        {
+            "text": "3 tsp Pesto (I like Buitoni)"
+        },
+        {
+            "text": "1 cup Mozzarella cheese (or desired amount)"
+        },
+        {
+            "text": "1 tsp Garlic powder"
+        },
+        {
+            "text": "1 packages Pizza crust (I prefer Boboli or Naan bread)"
+        },
+        {
+            "text": "1 medium Vine tomato, sliced"
+        },
+        {
+            "text": "1 as needed Olive oil"
+        }
+    ],
+    "recipe": [
+        {
+            "text": "Very lightly brush the pizza crust with olive oil."
+        },
+        {
+            "text": "If using Naan bread, I suggest skipping the oil and cooking it well done because it may get soggy."
+        },
+        {
+            "text": "Spread the pesto over the crust."
+        },
+        {
+            "text": "You can add more or less depending on taste."
+        },
+        {
+            "text": "I use two to three teaspoons depending on the size of the crust"
+        },
+        {
+            "text": "Add half of the desired amount of cheese and slices of tomatoes."
+        },
+        {
+            "text": "Then add the other half of the remaining cheese"
+        },
+        {
+            "text": "Cook as directed on the pizza crust package."
+        },
+        {
+            "text": "I used a Boboli crust for mine this time."
+        },
+        {
+            "text": "It asked for cooking at 450 for 8-10 minutes."
+        },
+        {
+            "text": "I put mine back in for a few more minutes because I like my pizza crispier."
+        }
+    ]
+}

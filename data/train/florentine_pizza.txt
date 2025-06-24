@@ -1,0 +1,73 @@
+{
+    "title": "florentine_pizza",
+    "id": "d0a10b1845",
+    "table": [
+        {
+            "instructions": "heat oven to 400f .",
+            "input": "NA",
+            "actions": "heat",
+            "output": "NA"
+        },
+        {
+            "instructions": "mix garlic and oil ;",
+            "input": "(garlic; oil)",
+            "actions": "mix",
+            "output": "mixed_(garlic; oil)"
+        },
+        {
+            "instructions": "spread onto crust .",
+            "input": "mixed_(garlic; oil)",
+            "actions": "spread",
+            "output": "crust_topped_with_oil_and_garlic"
+        },
+        {
+            "instructions": "top with remaining_ingredient .",
+            "input": "(crust_topped_with_oil_and_garlic; remaining_ingredient)",
+            "actions": "top",
+            "output": "pizza_crust_with_toppings"
+        },
+        {
+            "instructions": "bake directly on middle oven rack 12 to 15 min .",
+            "input": "uncooked_pizza",
+            "actions": "bake",
+            "output": "florentine_pizza"
+        }
+    ],
+    "ingredients": [
+        {
+            "text": "2 cloves garlic, minced"
+        },
+        {
+            "text": "1 Tbsp. olive oil"
+        },
+        {
+            "text": "1 ready-to-use baked pizza crust (12 inch)"
+        },
+        {
+            "text": "1 can (14-1/2 oz.) diced tomatoes, drained Safeway 1 lb For $1.29 thru 02/09"
+        },
+        {
+            "text": "3 cups tightly packed baby spinach leaves"
+        },
+        {
+            "text": "1/2 cup (1/2 of 8-oz. tub) PHILADELPHIA Chive & Onion 1/3 Less Fat than Cream Cheese"
+        }
+    ],
+    "recipe": [
+        {
+            "text": "Heat oven to 400F."
+        },
+        {
+            "text": "Mix garlic and oil; spread onto crust."
+        },
+        {
+            "text": "Top with remaining ingredients."
+        },
+        {
+            "text": "Bake directly on middle oven rack 12 to 15 min."
+        },
+        {
+            "text": "or until heated through."
+        }
+    ]
+}

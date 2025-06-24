@@ -1,0 +1,88 @@
+{
+    "title": "smoked_mozzarella_and_sun-dried_tomato_pizza",
+    "id": "da194c7f6a",
+    "table": [
+        {
+            "instructions": "prepare the dough .",
+            "input": "dough",
+            "action": "prepare",
+            "output": "prepared_dough"
+        },
+        {
+            "instructions": "preheat oven to 425 degrees .",
+            "input": "NA",
+            "action": "preheat",
+            "output": "NA"
+        },
+        {
+            "instructions": "brush the top of dough with 1 12 tablespoons of the oil reserved from the sun_dried_tomato .",
+            "input": "Dough, Sun-dried tomato oil",
+            "action": "brush",
+            "output": "Dough brushed with sun-dried tomato oil"
+        },
+        {
+            "instructions": "bake for 15 minutes .",
+            "input": "Dough",
+            "action": "bake",
+            "output": "Baked crust"
+        },
+        {
+            "instructions": "remove the dough from the oven",
+            "input": "Baked crust",
+            "action": "remove",
+            "output": "Baked crust"
+        },
+        {
+            "instructions": "arrange the tomatoes over the top in a pinwheel fashion .",
+            "input": "(Tomatoes; Baked crust)",
+            "action": "arrange",
+            "output": "Baked crust topped with arranged tomatoes in a pinwheel fashion"
+        },
+        {
+            "instructions": "arrange the cheese_slice in between the tomatoes .",
+            "input": "Cheese slice, Baked crust topped with arranged tomatoes in a pinwheel fashion",
+            "action": "arrange",
+            "output": "Dough with cheese slice arranged between the tomatoes"
+        },
+        {
+            "instructions": "bake until the cheese is melted and the dough is golden brown , about 5 minutes longer .",
+            "input": "uncooked smoked_mozzarella_and_sun-dried_tomato_pizza",
+            "action": "bake",
+            "output": "Baked smoked_mozzarella_and_sun-dried_tomato_pizza"
+        }
+    ],
+    "ingredients": [
+        {
+            "text": "Basic dough (see recipe)"
+        },
+        {
+            "text": "1/2 pound sun-dried tomatoes, packed in oil, drained, oil reserved"
+        },
+        {
+            "text": "1/2 pound smoked mozzarella, halved lengthwise and sliced thin"
+        }
+    ],
+    "recipe": [
+        {
+            "text": "Prepare the dough."
+        },
+        {
+            "text": "Preheat oven to 425 degrees."
+        },
+        {
+            "text": "Brush the top of dough with 1 1/2 tablespoons of the oil reserved from the sun-dried tomatoes."
+        },
+        {
+            "text": "Bake for 15 minutes."
+        },
+        {
+            "text": "Remove the dough from the oven and arrange the tomatoes over the top in a pinwheel fashion."
+        },
+        {
+            "text": "Arrange the cheese slices in between the tomatoes."
+        },
+        {
+            "text": "Bake until the cheese is melted and the dough is golden brown, about 5 minutes longer."
+        }
+    ]
+}

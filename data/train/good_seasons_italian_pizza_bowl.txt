@@ -1,0 +1,85 @@
+{
+    "title": "good_seasons_italian_pizza_bowl",
+    "id": "28bed6034f",
+    "table": [
+        {
+            "instructions": "prepare salad_dressing_mix as directed on package .",
+            "input": "salad_dressing_mix",
+            "actions": "prepare",
+            "output": "prepared_salad_dressing"
+        },
+        {
+            "instructions": "brush 1 tablespoon dressing on each bread_slice or pizza wedge .",
+            "input": "(bread_slice; prepared_salad_dressing)",
+            "actions": "brush",
+            "output": "prepared_salad_dressing brushed on bread_slice"
+        },
+        {
+            "instructions": "place greens and tomatoes in bowl .",
+            "input": "(greens; tomatoes)",
+            "actions": "place",
+            "output": "greens and tomatoes"
+        },
+        {
+            "instructions": "toss lightly with remaining dressing .",
+            "input": "(greens and tomatoes; remaining salad dressing)",
+            "actions": "toss",
+            "output": "greens mixture tossed in remaining salad_dressing"
+        },
+        {
+            "instructions": "spoon greens mixture over 2 bread_slice or 1 pizza wedge for each serving .",
+            "input": "(greens mixture; bread_slice_brushed_with_dressing)",
+            "actions": "spoon",
+            "output": "greens mixture spooned on bread_slice_brushed_with_dressing"
+        },
+        {
+            "instructions": "top with remaining_ingredient .",
+            "input": "(greens on bread slice; remaining ingredient)",
+            "actions": "top",
+            "output": "greens on bread slice topped with remaining_ingredient"
+        }
+    ],
+    "ingredients": [
+        {
+            "text": "1 envelope"
+        },
+        {
+            "text": "1 loaf Italian bread, cut into 16 slices, toasted, or 1 pizza crust, cut into 8 wedges"
+        },
+        {
+            "text": "1 pkg. (10 oz.) salad greens"
+        },
+        {
+            "text": "1 cup sliced tomatoes"
+        },
+        {
+            "text": "pepperoni or salami slices"
+        },
+        {
+            "text": "KRAFT Shredded Low-Moisture Whole Milk Mozzarella Cheese"
+        },
+        {
+            "text": "Sliced mushrooms"
+        }
+    ],
+    "recipe": [
+        {
+            "text": "Prepare salad dressing mix as directed on package ."
+        },
+        {
+            "text": "Brush 1 tablespoon dressing on each bread slice or pizza wedge."
+        },
+        {
+            "text": "Place greens and tomatoes in bowl."
+        },
+        {
+            "text": "Toss lightly with remaining dressing."
+        },
+        {
+            "text": "Spoon greens mixture over 2 bread slices or 1 pizza wedge for each serving."
+        },
+        {
+            "text": "Top with remaining ingredients."
+        }
+    ]
+}

@@ -1,0 +1,136 @@
+{
+    "title": "crazy_crust_pizza_dough",
+    "id": "1d600e9a4c",
+    "table": [
+        {
+            "instructions": "preheat oven to 400 degrees f 200 degrees c.",
+            "input": "NA",
+            "actions": "preheat",
+            "output": "NA"
+        },
+        {
+            "instructions": "lightly grease a rimmed pizza\u2012pan or baking sheet .",
+            "input": "NA",
+            "actions": "grease",
+            "output": "NA"
+        },
+        {
+            "instructions": "in a large bowl , stir together flour , salt , oregano and black_pepper .",
+            "input": "(flour; salt; oregano; black_pepper)",
+            "actions": "stir",
+            "output": "stirred_flour_mixture"
+        },
+        {
+            "instructions": "mix in eggs and milk ;",
+            "input": "(stirred_flour_mixture; eggs; milk)",
+            "actions": "mix",
+            "output": "mixed_batter"
+        },
+        {
+            "instructions": "stir well .",
+            "input": "batter",
+            "actions": "stir",
+            "output": "stirred_batter"
+        },
+        {
+            "instructions": "pour batter into prepared pan",
+            "input": "batter",
+            "actions": "pour",
+            "output": "poured_batter"
+        },
+        {
+            "instructions": "tilt until evenly coated .",
+            "input": "poured_batter",
+            "actions": "tilt",
+            "output": "evenly_tilted_batter"
+        },
+        {
+            "instructions": "arrange toppings of choice on top of batter .",
+            "input": "(toppings; evenly_tilted_batter)",
+            "actions": "arrange",
+            "output": "batter_with_toppings"
+        },
+        {
+            "instructions": "bake in preheated oven for 20 to 25 minutes , until crust is set .",
+            "input": "batter_with_toppings",
+            "actions": "bake",
+            "output": "baked_crust"
+        },
+        {
+            "instructions": "remove crust from oven .",
+            "input": "baked_crust",
+            "actions": "remove",
+            "output": "baked_crust"
+        },
+        {
+            "instructions": "drizzle on pizza_sauce",
+            "input": "(baked_crust; pizza_sauce)",
+            "actions": "drizzle",
+            "output": "sauced_crust"
+        },
+        {
+            "instructions": "sprinkle on cheese .",
+            "input": "(cheese; sauced_crust)",
+            "actions": "sprinkle",
+            "output": "cheese_sprinkled_crust"
+        },
+        {
+            "instructions": "bake until cheese is melted , about 10 minutes .",
+            "input": "uncooked_pizza",
+            "actions": "bake",
+            "output": "baked_pizza"
+        }
+    ],
+    "ingredients": [
+        {
+            "text": "1 cup all-purpose flour"
+        },
+        {
+            "text": "1 teaspoon salt"
+        },
+        {
+            "text": "1 teaspoon dried oregano"
+        },
+        {
+            "text": "1/8 teaspoon black pepper"
+        },
+        {
+            "text": "2 eggs, lightly beaten"
+        },
+        {
+            "text": "2/3 cup milk"
+        }
+    ],
+    "recipe": [
+        {
+            "text": "Preheat oven to 400 degrees F (200 degrees C)."
+        },
+        {
+            "text": "Lightly grease a rimmed pizza pan or baking sheet."
+        },
+        {
+            "text": "In a large bowl, stir together flour, salt, oregano and black pepper."
+        },
+        {
+            "text": "Mix in eggs and milk; stir well."
+        },
+        {
+            "text": "Pour batter into prepared pan and tilt until evenly coated."
+        },
+        {
+            "text": "Arrange toppings of choice on top of batter."
+        },
+        {
+            "text": "Bake in preheated oven for 20 to 25 minutes, until crust is set."
+        },
+        {
+            "text": "Remove crust from oven."
+        },
+        {
+            "text": "Drizzle on pizza sauce and sprinkle on cheese."
+        },
+        {
+            "text": "Bake until cheese is melted, about 10 minutes."
+        }
+    ]
+}

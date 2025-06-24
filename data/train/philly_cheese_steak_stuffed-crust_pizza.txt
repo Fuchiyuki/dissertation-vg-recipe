@@ -1,0 +1,139 @@
+{
+    "title": "philly_cheese_steak_stuffed-crust_pizza",
+    "id": "fa2499e514",
+    "table": [
+        {
+            "instructions": "preheat oven to 350f .",
+            "input": "NA",
+            "actions": "preheat",
+            "output": "NA"
+        },
+        {
+            "instructions": "spray pizza\u2012pan with cooking_spray",
+            "input": "NA",
+            "actions": "spray",
+            "output": "NA"
+        },
+        {
+            "instructions": "lightly dust with cornmeal .",
+            "input": "NA",
+            "actions": "dust",
+            "output": "NA"
+        },
+        {
+            "instructions": "roll out pizza_crust .",
+            "input": "pizza_crust",
+            "actions": "roll",
+            "output": "rolled_pizza_crust"
+        },
+        {
+            "instructions": "cut string_cheese in half",
+            "input": "string_cheese",
+            "actions": "cut",
+            "output": "cut_cheese_halves"
+        },
+        {
+            "instructions": "roll around edges of crust",
+            "input": "rolled_pizza_crust, cut_cheese_halves",
+            "actions": "roll",
+            "output": "cheese_edging"
+        },
+        {
+            "instructions": "pinch to close .",
+            "input": "cheese_edging",
+            "actions": "pinch",
+            "output": "closed_crust_with_cheese"
+        },
+        {
+            "instructions": "spread softened boursin over crust",
+            "input": "closed_crust_with_cheese",
+            "actions": "spread",
+            "output": "boursin_spread"
+        },
+        {
+            "instructions": "then spread crema .",
+            "input": "boursin_spread",
+            "actions": "spread",
+            "output": "crema_spread"
+        },
+        {
+            "instructions": "spread desired amount of philly steak , chopped mushrooms and sliced onions .",
+            "input": "crema_spread",
+            "actions": "spread",
+            "output": "toppings_spread"
+        },
+        {
+            "instructions": "sprinkle , monterrey jack",
+            "input": "toppings_spread",
+            "actions": "sprinkle",
+            "output": "sprinkled_cheese_toppings"
+        },
+        {
+            "instructions": "bake for 10 12 minutes or until crust golden brown",
+            "input": "sprinkled_cheese_toppings",
+            "actions": "bake",
+            "output": "baked_pizza"
+        }
+    ],
+    "ingredients": [
+        {
+            "text": "1 can Pillsbury artisan style pizza crust"
+        },
+        {
+            "text": "1 packages garlic & herb boursin cheese"
+        },
+        {
+            "text": "1/4 cup Mexican crema"
+        },
+        {
+            "text": "8 slice provolone cheese"
+        },
+        {
+            "text": "1/2 cup shredded monterrey jack cheese"
+        },
+        {
+            "text": "1/2 precooked Philly style steak with peppers"
+        },
+        {
+            "text": "1/2 cup chopped mushrooms"
+        },
+        {
+            "text": "1/4 small red onion, sliced thin"
+        },
+        {
+            "text": "1 cornmeal"
+        },
+        {
+            "text": "1 grated parmesan cheese"
+        },
+        {
+            "text": "4 - 5 sticks string cheese, cut in half lengthwise"
+        }
+    ],
+    "recipe": [
+        {
+            "text": "Preheat oven to 350F."
+        },
+        {
+            "text": "Spray pizza pan with cooking spray and lightly dust with cornmeal."
+        },
+        {
+            "text": "Roll out pizza crust."
+        },
+        {
+            "text": "Cut string cheese in half and roll around edges of crust and pinch to close."
+        },
+        {
+            "text": "Spread softened boursin over crust and then spread crema."
+        },
+        {
+            "text": "Layer provolone, then spread desired amount of philly steak, chopped mushrooms and sliced onions."
+        },
+        {
+            "text": "Sprinkle monterrey jack over top."
+        },
+        {
+            "text": "Bake for 10-12 minutes or until crust golden brown and fillings hot and bubbly."
+        }
+    ]
+}

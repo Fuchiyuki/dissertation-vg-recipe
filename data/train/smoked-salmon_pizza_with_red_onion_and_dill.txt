@@ -1,0 +1,118 @@
+{
+    "title": "smoked-salmon_pizza_with_red_onion_and_dill",
+    "id": "47d0341e44",
+    "table": [
+        {
+            "instructions": "preheat oven to 450f .",
+            "input": "NA",
+            "action": "preheat",
+            "output": "NA"
+        },
+        {
+            "instructions": "place pizza_crust on baking sheet .",
+            "input": "pizza_crust",
+            "action": "place",
+            "output": "pizza_crust"
+        },
+        {
+            "instructions": "bake until crisp at edges , about 13 minutes .",
+            "input": "uncooked pizza_crust",
+            "action": "bake",
+            "output": "baked pizza_crust"
+        },
+        {
+            "instructions": "transfer crust to rack ;",
+            "input": "baked pizza_crust",
+            "action": "transfer",
+            "output": "baked pizza_crust"
+        },
+        {
+            "instructions": "blend cream_cheese with next 4 ingredients .",
+            "input": "(cream_cheese; prepared white horseradish; grated lemon peel; chopped fresh dill; minced red onion)",
+            "action": "blend",
+            "output": "blended cream cheese mixture"
+        },
+        {
+            "instructions": "season with salt and pepper .",
+            "input": "(blended cream cheese mixture; salt; pepper)",
+            "action": "season",
+            "output": "seasoned blended cream cheese mixture with salt and pepper"
+        },
+        {
+            "instructions": "spread cheese topping over crust , leaving 1-inch border",
+            "input": "(seasoned cream cheese topping; baked pizza crust)",
+            "action": "spread",
+            "output": "seasoned cream cheese topping spread on baked pizza crust"
+        },
+        {
+            "instructions": "top with salmon .",
+            "input": "(baked pizza crust with cream cheese topping; salmon)",
+            "action": "top",
+            "output": "baked pizza crust with cream cheese topping topped with salmon"
+        },
+        {
+            "instructions": "slice pizza",
+            "input": "smoked-salmon_pizza_with_red_onion_and_dill",
+            "action": "slice",
+            "output": "sliced smoked-salmon_pizza_with_red_onion_and_dill"
+        },
+        {
+            "instructions": "transfer to platter .",
+            "input": "sliced smoked-salmon_pizza_with_red_onion_and_dill",
+            "action": "transfer",
+            "output": "sliced smoked-salmon_pizza_with_red_onion_and_dill"
+        }
+    ],
+    "ingredients": [
+        {
+            "text": "1 10-ounce purchased fully baked pizza crust"
+        },
+        {
+            "text": "4 ounces cream cheese, room temperature"
+        },
+        {
+            "text": "1/4 cup minced red onion"
+        },
+        {
+            "text": "1 tablespoon chopped fresh dill"
+        },
+        {
+            "text": "2 teaspoons grated lemon peel"
+        },
+        {
+            "text": "1 teaspoon prepared white horseradish"
+        },
+        {
+            "text": "4 to 6 ounces thinly sliced smoked salmon"
+        }
+    ],
+    "recipe": [
+        {
+            "text": "Preheat oven to 450F."
+        },
+        {
+            "text": "Place pizza crust on baking sheet."
+        },
+        {
+            "text": "Bake until crisp at edges, about 13 minutes."
+        },
+        {
+            "text": "Transfer crust to rack; cool to lukewarm."
+        },
+        {
+            "text": "Blend cream cheese with next 4 ingredients."
+        },
+        {
+            "text": "Season with salt and pepper."
+        },
+        {
+            "text": "Spread cheese topping over crust, leaving 1-inch border."
+        },
+        {
+            "text": "Top with salmon."
+        },
+        {
+            "text": "Slice pizza and transfer to platter."
+        }
+    ]
+}

@@ -1,0 +1,205 @@
+{
+    "title": "breakfast_bacon_and_sausage_pizza",
+    "id": "08c017b60a",
+    "table": [
+        {
+            "instructions": "cook bacon in a large skillet over medium high heat until evenly browned , about 5 minutes per side .",
+            "input": "bacon",
+            "actions": "cook",
+            "output": "cooked_bacon"
+        },
+        {
+            "instructions": "transfer to a plate lined with paper towel to drain",
+            "input": "NA",
+            "actions": "transfer",
+            "output": "NA"
+        },
+        {
+            "instructions": "cook sausage_link in the same skillet until no longer pink in the center , 7 to 10 minutes .",
+            "input": "sausage_link",
+            "actions": "cook",
+            "output": "cooked sausage link"
+        },
+        {
+            "instructions": "transfer to plate with the bacon to cool",
+            "input": "cooked sausage link",
+            "actions": "transfer",
+            "output": "cooked sausage link"
+        },
+        {
+            "instructions": "drain .",
+            "input": "cooked sausage link",
+            "actions": "drain",
+            "output": "drained sausage link"
+        },
+        {
+            "instructions": "drain most of the grease from the skillet",
+            "input": "NA",
+            "actions": "drain",
+            "output": "NA"
+        },
+        {
+            "instructions": "return to medium heat .",
+            "input": "NA",
+            "actions": "return",
+            "output": "NA"
+        },
+        {
+            "instructions": "cook",
+            "input": "NA",
+            "actions": "cook",
+            "output": "NA"
+        },
+        {
+            "instructions": "stir eggs until scrambled and no longer wet , about 5 minutes ;",
+            "input": "eggs",
+            "actions": "stir",
+            "output": "scrambled eggs"
+        },
+        {
+            "instructions": "season with salt and pepper .",
+            "input": "(scrambled eggs; salt; pepper)",
+            "actions": "season",
+            "output": "seasoned eggs"
+        },
+        {
+            "instructions": "preheat oven to 350 degrees f 175 degrees c.",
+            "input": "NA",
+            "actions": "preheat",
+            "output": "NA"
+        },
+        {
+            "instructions": "roll crescent_roll dough",
+            "input": "crescent roll dough",
+            "actions": "roll",
+            "output": "rolled crescent roll dough"
+        },
+        {
+            "instructions": "bake dough until golden brown , about 10 minutes .",
+            "input": "rolled crescent roll dough",
+            "actions": "bake",
+            "output": "baked crescent roll dough"
+        },
+        {
+            "instructions": "spread salsa in a layer onto the baked dough ;",
+            "input": "(salsa; baked_dough)",
+            "actions": "spread",
+            "output": "salsa-covered baked dough"
+        },
+        {
+            "instructions": "top with the scrambled eggs .",
+            "input": "(scrambled eggs; salsa-covered baked dough)",
+            "actions": "top",
+            "output": "scrambled eggs-topped salsa-covered baked dough"
+        },
+        {
+            "instructions": "crumble the bacon",
+            "input": "cooked bacon",
+            "actions": "crumble",
+            "output": "crumbled bacon"
+        },
+        {
+            "instructions": "sprinkle over the eggs .",
+            "input": "crumbled bacon, baked_pizza",
+            "actions": "sprinkle",
+            "output": "bacon-sprinkled scrambled eggs-topped salsa-covered baked pizza"
+        },
+        {
+            "instructions": "slice sausage_link",
+            "input": "cooked sausage link",
+            "actions": "slice",
+            "output": "sliced sausage link"
+        },
+        {
+            "instructions": "scatter evenly among the bacon crumbles .",
+            "input": "sliced sausage link, bacon-sprinkled scrambled eggs-topped salsa-covered baked pizza",
+            "actions": "scatter",
+            "output": "sausage-scattered bacon-sprinkled scrambled eggs-topped salsa-covered baked pizza"
+        },
+        {
+            "instructions": "top the entire pizza with cheddar_cheese .",
+            "input": "cheddar cheese, sausage-scattered bacon-sprinkled scrambled eggs-topped salsa-covered baked pizza",
+            "actions": "top",
+            "output": "cheddar cheese-topped breakfast bacon and sausage pizza"
+        },
+        {
+            "instructions": "bake in oven until cheese is melted and beginning to brown , about 10 minutes .",
+            "input": "cheddar cheese-topped sausage-scattered bacon-sprinkled scrambled eggs-topped salsa-covered baked dough",
+            "actions": "bake",
+            "output": "baked breakfast bacon and sausage pizza"
+        }
+    ],
+    "ingredients": [
+        {
+            "text": "10 slices bacon"
+        },
+        {
+            "text": "10 links pork sausage links"
+        },
+        {
+            "text": "12 egg, beaten"
+        },
+        {
+            "text": "salt and ground black pepper to taste"
+        },
+        {
+            "text": "2 (8 ounce) packages refrigerated crescent roll dough (such as Pillsbury"
+        },
+        {
+            "text": "1/2 cup salsa"
+        },
+        {
+            "text": "2 cups shredded Cheddar cheese"
+        }
+    ],
+    "recipe": [
+        {
+            "text": "Cook bacon in a large skillet over medium-high heat until evenly browned, about 5 minutes per side."
+        },
+        {
+            "text": "Transfer to a plate lined with paper towel to drain and cool."
+        },
+        {
+            "text": "Cook sausage links in the same skillet until no longer pink in the center, 7 to 10 minutes."
+        },
+        {
+            "text": "An instant-read thermometer inserted into the center should read 160 degrees F (70 degrees C)."
+        },
+        {
+            "text": "Transfer to plate with the bacon to cool and drain."
+        },
+        {
+            "text": "Drain most of the grease from the skillet and return to medium heat."
+        },
+        {
+            "text": "Cook and stir eggs until scrambled and no longer wet, about 5 minutes; season with salt and pepper."
+        },
+        {
+            "text": "Preheat oven to 350 degrees F (175 degrees C)."
+        },
+        {
+            "text": "Roll crescent roll dough out to cover bottom of a 9x13-inch baking dish."
+        },
+        {
+            "text": "Bake dough until golden brown, about 10 minutes."
+        },
+        {
+            "text": "Spread salsa in a layer onto the baked dough; top with the scrambled eggs."
+        },
+        {
+            "text": "Crumble the bacon and sprinkle over the eggs."
+        },
+        {
+            "text": "Slice sausage links and scatter evenly among the bacon crumbles."
+        },
+        {
+            "text": "Top the entire pizza with Cheddar cheese."
+        },
+        {
+            "text": "Bake in oven until cheese is melted and beginning to brown, about 10 minutes."
+        },
+        {
+            "text": "Allow to cool 10 minutes before cutting to serve."
+        }
+    ]
+}

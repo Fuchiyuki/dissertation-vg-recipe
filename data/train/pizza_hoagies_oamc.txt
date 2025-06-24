@@ -1,0 +1,139 @@
+{
+    "title": "pizza_hoagies_oamc",
+    "id": "9c3bd10375",
+    "table": [
+        {
+            "instructions": "brown",
+            "input": "ground_beef",
+            "action": "brown",
+            "output": "browned_ground_beef"
+        },
+        {
+            "instructions": "drain ground_beef .",
+            "input": "browned_ground_beef",
+            "action": "drain",
+            "output": "browned ground beef without excess fat"
+        },
+        {
+            "instructions": "return ground_beef to skillet",
+            "input": "browned ground beef without excess fat",
+            "action": "return",
+            "output": "browned ground beef without excess fat"
+        },
+        {
+            "instructions": "add pizza_sauce and pepperoni .",
+            "input": "(pizza_sauce; pepperoni; browned ground beef without excess fat)",
+            "action": "add",
+            "output": "pizza_sauce and pepperoni added to browned ground beef"
+        },
+        {
+            "instructions": "stir until mixed .",
+            "input": "browned ground beef, pizza_sauce and pepperoni mixture",
+            "action": "stir",
+            "output": "stirred browned ground beef, pizza_sauce and pepperoni mixture"
+        },
+        {
+            "instructions": "Carefully hollow out the bottom of the roll, leaving a 1/4\" shell.",
+            "input": "hoagie roll",
+            "action": "cut",
+            "output": "hollowed bread roll"
+        },
+        {
+            "instructions": "sprinkle 2 tbsp cheese into each shell .",
+            "input": "(cheese; hollowed bread roll)",
+            "action": "sprinkle",
+            "output": "hollowed bread roll with cheese"
+        },
+        {
+            "instructions": "fill each with 12 cup , meat mixture .",
+            "input": "(hollowed bread roll with cheese; stirred browned ground beef, pizza_sauce and pepperoni mixture)",
+            "action": "fill",
+            "output": "bread shell with cheese filled up browned ground beef, pizza_sauce, pepperoni"
+        },
+        {
+            "instructions": "sprinkle with remaining cheese ;",
+            "input": "(remaining cheese; bread shell with cheese filled up browned ground beef, pizza_sauce, pepperoni)",
+            "action": "sprinkle",
+            "output": "bread shell with cheese filled up browned ground beef, pizza_sauce, pepperoni sprinkled with extra cheese"
+        },
+        {
+            "instructions": "gently press down to flatten .",
+            "input": "bread shell with cheese filled up browned ground beef, pizza_sauce, pepperoni sprinkled with extra cheese",
+            "action": "press",
+            "output": "flattened bread shell with cheese filled up browned ground beef, pizza_sauce, pepperoni sprinkled with extra cheese"
+        },
+        {
+            "instructions": "replace bread tops .",
+            "input": "(bread tops; flattened bread shell with cheese filled up browned ground beef, pizza_sauce, pepperoni sprinkled with extra cheese)",
+            "action": "replace",
+            "output": "flattened bread shell with cheese filled up browned ground beef, pizza_sauce, pepperoni sprinkled with extra cheese and topped with bread tops"
+        },
+        {
+            "instructions": "to serve immediately",
+            "input": "flattened bread shell with cheese filled up browned ground beef, pizza_sauce, pepperoni sprinkled with extra cheese and topped with bread tops",
+            "action": "serve",
+            "output": "flattened bread shell with cheese filled up browned ground beef, pizza_sauce, pepperoni sprinkled with extra cheese and topped with bread tops ready to eat"
+        },
+        {
+            "instructions": "place sandwiches on a baking sheet .",
+            "input": "NA",
+            "action": "place",
+            "output": "NA"
+        }
+    ],
+    "ingredients": [
+        {
+            "text": "1 lb ground beef"
+        },
+        {
+            "text": "1 (15 ounce) can pizza sauce"
+        },
+        {
+            "text": "14 cup chopped pepperoni"
+        },
+        {
+            "text": "8 hoagie or submarine sandwich buns"
+        },
+        {
+            "text": "2 cups shredded mozzarella cheese"
+        }
+    ],
+    "recipe": [
+        {
+            "text": "Brown and drain ground beef."
+        },
+        {
+            "text": "Return ground beef to skillet, add pizza sauce and pepperoni."
+        },
+        {
+            "text": "Stir until mixed."
+        },
+        {
+            "text": "Cut roll approximately 1/3 from the top."
+        },
+        {
+            "text": "Carefully hollow out the bottom of the roll, leaving a 1/4\" shell."
+        },
+        {
+            "text": "Sprinkle 2 tbsp cheese into each shell."
+        },
+        {
+            "text": "Fill each with 1/2 cup meat mixture."
+        },
+        {
+            "text": "Sprinkle with remaining cheese; gently press down to flatten."
+        },
+        {
+            "text": "Replace bread tops."
+        },
+        {
+            "text": "At this point, sandwiches can be individually wrapped in foil and frozen for up to 3 months."
+        },
+        {
+            "text": "To serve immediately, place sandwiches on a baking sheet."
+        },
+        {
+            "text": "Bake at 375 degrees for 15 minutes or until heated through."
+        }
+    ]
+}

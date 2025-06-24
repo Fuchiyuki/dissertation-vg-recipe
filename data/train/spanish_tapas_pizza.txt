@@ -1,0 +1,94 @@
+{
+    "title": "spanish_tapas_pizza",
+    "id": "15093242aa",
+    "table": [
+        {
+            "instructions": "preheat oven to 425 degrees f .",
+            "input": "NA",
+            "action": "preheat",
+            "output": "NA"
+        },
+        {
+            "instructions": "brush large cookie sheet with oil .",
+            "input": "NA",
+            "action": "brush",
+            "output": "NA"
+        },
+        {
+            "instructions": "place crust on prepared pan .",
+            "input": "crust",
+            "action": "place",
+            "output": "crust"
+        },
+        {
+            "instructions": "spread marinara_sauce on crust in even layer .",
+            "input": "(marinara sauce; crust)",
+            "action": "spread",
+            "output": "marinara sauce on crust"
+        },
+        {
+            "instructions": "top with sausage , manchego_cheese , red_pepper , and onion .",
+            "input": "(sausage; manchego cheese; red pepper; onion)",
+            "action": "top",
+            "output": "crust with marinara sauce, sausage, manchego cheese, red pepper and onion"
+        },
+        {
+            "instructions": "bake 15 to 20 minutes",
+            "input": "uncooked spanish pizza",
+            "action": "bake",
+            "output": "baked spanish pizza"
+        },
+        {
+            "instructions": "garnish with chopped_parsley .",
+            "input": "(baked spanish pizza; chopped parsley)",
+            "action": "garnish",
+            "output": "cooked sausage and manchego cheese pizza topped with chopped parsely"
+        }
+    ],
+    "ingredients": [
+        {
+            "text": "1 tsp. olive oil"
+        },
+        {
+            "text": "1 large prebaked thin pizza crust"
+        },
+        {
+            "text": "1/2 c. marinara sauce"
+        },
+        {
+            "text": "1/2 c. chorizo sausage"
+        },
+        {
+            "text": "1 c. shredded Manchego cheese"
+        },
+        {
+            "text": "1/2 c. roasted red peppers"
+        },
+        {
+            "text": "1/2 small red onion"
+        },
+        {
+            "text": "3 tbsp. Finely chopped fresh parsley"
+        }
+    ],
+    "recipe": [
+        {
+            "text": "Preheat oven to 425 degrees F. Brush large cookie sheet with oil."
+        },
+        {
+            "text": "Place crust on prepared pan."
+        },
+        {
+            "text": "Spread marinara sauce on crust in even layer."
+        },
+        {
+            "text": "Top with sausage, Manchego cheese, red peppers, and onion."
+        },
+        {
+            "text": "Bake 15 to 20 minutes or until crust is golden brown and cheese has melted."
+        },
+        {
+            "text": "Garnish with chopped parsley."
+        }
+    ]
+}

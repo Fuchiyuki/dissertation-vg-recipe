@@ -1,0 +1,91 @@
+{
+    "title": "hearty_pizza_dip",
+    "id": "ef1b81020b",
+    "table": [
+        {
+            "instructions": "brown the sausage in a skillet , breaking it up into small pieces with a spoon as it browns , drain .",
+            "input": "sausage",
+            "action": "brown",
+            "output": "browned_sausage without excess fat"
+        },
+        {
+            "instructions": "place sausage in a slow\u2012cooker ,",
+            "input": "browned_sausage without excess fat",
+            "action": "place",
+            "output": "browned_sausage without excess fat"
+        },
+        {
+            "instructions": "then stir in the remaining_ingredient .",
+            "input": "(cream cheese; pizza sauce; mozzarella cheese; cheddar cheese; browned_sausage without excess fat)",
+            "action": "stir",
+            "output": "sausage and cheese dip"
+        },
+        {
+            "instructions": "cover ,",
+            "input": "sausage and cheese dip",
+            "action": "cover",
+            "output": "covered sausage and cheese dip"
+        },
+        {
+            "instructions": "cook on high for 1 hour ,",
+            "input": "covered sausage and cheese dip",
+            "action": "cook",
+            "output": "cooking covered sausage and cheese dip"
+        },
+        {
+            "instructions": "stir , .",
+            "input": "cooking covered sausage and cheese dip",
+            "action": "stir",
+            "output": "cooking covered sausage and cheese dip"
+        },
+        {
+            "instructions": "cook on low until heated through , for about 2 hours .",
+            "input": "cooking covered sausage and cheese dip",
+            "action": "cook",
+            "output": "cooked covered sausage and cheese dip"
+        },
+        {
+            "instructions": "serve with corn_chip .",
+            "input": "(cooked covered sausage and cheese dip; corn chip)",
+            "action": "serve",
+            "output": "cooked covered sausage and cheese dip served with corn chips"
+        }
+    ],
+    "ingredients": [
+        {
+            "text": "1 lb bulk smoked sausage"
+        },
+        {
+            "text": "2 (8 ounce) packages cream cheese, cubed"
+        },
+        {
+            "text": "2 cups pizza sauce"
+        },
+        {
+            "text": "2 cups mozzarella cheese, shredded"
+        },
+        {
+            "text": "2 cups cheddar cheese, shredded"
+        }
+    ],
+    "recipe": [
+        {
+            "text": "Brown the sausage in a skillet, breaking it up into small pieces with a spoon as it browns, drain."
+        },
+        {
+            "text": "Place sausage in a slow cooker, and then stir in the remaining ingredients."
+        },
+        {
+            "text": "Cover, and cook on high for 1 hour, and stir,."
+        },
+        {
+            "text": "Cook on low until heated through, for about 2 hours."
+        },
+        {
+            "text": "Serve with corn chips."
+        },
+        {
+            "text": "For a option, see note on recipe description for a breakfast or an appetizer option."
+        }
+    ]
+}

@@ -1,0 +1,139 @@
+{
+    "title": "summer_squash_pizza",
+    "id": "ce904667d6",
+    "table": [
+        {
+            "instructions": "heat oven to 450 degrees f .",
+            "input": "NA",
+            "action": "heat",
+            "output": "NA"
+        },
+        {
+            "instructions": "place pizza_crust on baking sheet .",
+            "input": "pizza_crust",
+            "action": "place",
+            "output": "pizza_crust"
+        },
+        {
+            "instructions": "arrange tomatoes over crust ;",
+            "input": "Tomatoes",
+            "action": "arrange",
+            "output": "Tomatoes arranged on crust"
+        },
+        {
+            "instructions": "brush with 1 tbsp olive oil.",
+            "input": "Crust; olive oil",
+            "action": "brush",
+            "output": "Crust brushed with olive oil"
+        },
+        {
+            "instructions": "heat remaining dressing in large skillet on medium high heat .",
+            "input": "Remaining dressing",
+            "action": "heat",
+            "output": "Remaining dressing heated up"
+        },
+        {
+            "instructions": "add zucchini and yellow_squash ;",
+            "input": "Zucchini and yellow squash; Remaining dressing heated up",
+            "action": "add",
+            "output": "Zucchini and yellow squash added to heated dressing in skillet"
+        },
+        {
+            "instructions": "cook",
+            "input": "Zucchini and yellow squash and dressing in skillet",
+            "action": "cook",
+            "output": "Zucchini and yellow squash and dressing in process of cooking"
+        },
+        {
+            "instructions": "stir 4 to 5 min .",
+            "input": "Zucchini and yellow squash and dressing in process of cooking",
+            "action": "stir",
+            "output": "Cooked zucchini and yellow squash and dressing"
+        },
+        {
+            "instructions": "arrange over tomatoes ;",
+            "input": "Cooked zucchini and yellow squash and dressing",
+            "action": "arrange",
+            "output": "Cooked zucchini and yellow squash and dressing arranged over tomatoes on top of crust"
+        },
+        {
+            "instructions": "top with cheeses .",
+            "input": "shredded mozzarella cheese; grated parmesan cheese",
+            "action": "top",
+            "output": "Cheeses on top of cooked zucchini and yellow squash and dressing arranged over tomatoes on top of crust"
+        },
+        {
+            "instructions": "bake 10 to 12 min .",
+            "input": "Uncooked summer_squash_pizza",
+            "action": "bake",
+            "output": "Baked summer_squash_pizza"
+        },
+        {
+            "instructions": "sprinkle with basil .",
+            "input": "Baked summer_squash_pizza; basil",
+            "action": "sprinkle",
+            "output": "Baked summer_squash_pizza sprinkled with basil"
+        }
+    ],
+    "ingredients": [
+        {
+            "text": "1 ready-to-use baked pizza crust (12 inch)"
+        },
+        {
+            "text": "2 large plum tomatoes, sliced King Sooper's 1 lb For $0.99 thru 02/09"
+        },
+        {
+            "text": "3 Tbsp. Kraft Extra Virgin Olive Oil Tuscan Italian Dressing, divided"
+        },
+        {
+            "text": "1 green zucchini, thinly sliced"
+        },
+        {
+            "text": "1 yellow zucchini, thinly sliced"
+        },
+        {
+            "text": "1-1/2 cups Cracker Barrel Shredded Mozzarella Cheese"
+        },
+        {
+            "text": "1/4 cup Kraft 100% Parmesan Grated Cheese"
+        },
+        {
+            "text": "2 Tbsp. chopped fresh basil"
+        }
+    ],
+    "recipe": [
+        {
+            "text": "Heat oven to 450 degrees F."
+        },
+        {
+            "text": "Place pizza crust on baking sheet."
+        },
+        {
+            "text": "Arrange tomatoes over crust; brush with 1 Tbsp."
+        },
+        {
+            "text": "dressing."
+        },
+        {
+            "text": "Heat remaining dressing in large skillet on medium-high heat."
+        },
+        {
+            "text": "Add zucchini; cook and stir 4 to 5 min."
+        },
+        {
+            "text": "or until crisp-tender."
+        },
+        {
+            "text": "Arrange over tomatoes; top with cheeses."
+        },
+        {
+            "text": "Bake 10 to 12 min."
+        },
+        {
+            "text": "or until crust is golden brown and mozzarella is melted."
+        },
+        {
+            "text": "Sprinkle with basil."
+        }
+    ]
+}

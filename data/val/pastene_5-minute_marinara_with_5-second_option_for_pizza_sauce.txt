@@ -1,0 +1,142 @@
+{
+    "title": "pastene_5-minute_marinara_with_5-second_option_for_pizza_sauce",
+    "id": "8ad1ada401",
+    "table": [
+        {
+            "instructions": "heat a medium sized saucepan over medium high heat .",
+            "input": "NA",
+            "action": "heat",
+            "output": "NA"
+        },
+        {
+            "instructions": ", add olive_oil and garlic .",
+            "input": "(olive_oil; garlic)",
+            "action": "add",
+            "output": "olive oil and garlic"
+        },
+        {
+            "instructions": "stir the garlic for 30 seconds until translucent .",
+            "input": "olive oil and garlic",
+            "action": "stir",
+            "output": "Saut\u00e9ed garlic"
+        },
+        {
+            "instructions": "add the tomatoes , salt and pepper ;",
+            "input": "(Saut\u00e9ed garlic; tomatoes; salt; pepper)",
+            "action": "add",
+            "output": "Seasoned tomatoes sauce"
+        },
+        {
+            "instructions": "stir well to combine .",
+            "input": "Seasoned tomatoes sauce",
+            "action": "stir",
+            "output": "Seasoned tomatoes sauce"
+        },
+        {
+            "instructions": "reduce the heat to low",
+            "input": "Seasoned tomatoes sauce",
+            "action": "reduce",
+            "output": "Seasoned tomatoes sauce"
+        },
+        {
+            "instructions": "simmer for 3 4 minutes .",
+            "input": "Seasoned tomatoes sauce",
+            "action": "simmer",
+            "output": "simmering Seasoned tomatoes sauce"
+        },
+        {
+            "instructions": "turn off the heat",
+            "input": "simmering Seasoned tomatoes sauce",
+            "action": "turn",
+            "output": "cooked tomato sauce"
+        },
+        {
+            "instructions": "remove the pan from the burner .",
+            "input": "cooked tomato sauce",
+            "action": "remove",
+            "output": "cooked tomato sauce"
+        },
+        {
+            "instructions": "stir in the basil leaves",
+            "input": "(cooked tomato sauce; basic leaves)",
+            "action": "stir",
+            "output": "marinara sauce with basil leaves"
+        },
+        {
+            "instructions": "serve .",
+            "input": "marinara sauce with basil leaves",
+            "action": "serve",
+            "output": "marinara sauce with basil leaves"
+        }
+    ],
+    "ingredients": [
+        {
+            "text": "2 Tablespoons Olive Oil"
+        },
+        {
+            "text": "4 cloves Garlic, Minced (or 1 Teaspoon Garlic Powder)"
+        },
+        {
+            "text": "1 can (28 Oz. Size) Pastene \"Kitchen Ready\" Crushed Tomatoes"
+        },
+        {
+            "text": "1/2 teaspoons Salt"
+        },
+        {
+            "text": "18 teaspoons Fresh Ground Pepper"
+        },
+        {
+            "text": "1/4 cups Fresh Basil Leaves (or 1 Tablespoon Dried Basil)"
+        }
+    ],
+    "recipe": [
+        {
+            "text": "Heat a medium-sized saucepan over medium/high heat."
+        },
+        {
+            "text": "When the pan is good and hot (start the clock, count down the 5 minutes, come on!"
+        },
+        {
+            "text": "Humor me!"
+        },
+        {
+            "text": "), add olive oil and garlic."
+        },
+        {
+            "text": "Sizzle and stir the garlic for 30 seconds until translucent."
+        },
+        {
+            "text": "Add the tomatoes, salt and pepper; stir well to combine."
+        },
+        {
+            "text": "Bring to a boil (which happens almost instantly), then reduce the heat to low and simmer for 3-4 minutes."
+        },
+        {
+            "text": "Turn off the heat and remove the pan from the burner."
+        },
+        {
+            "text": "Stir in the basil leaves and serve."
+        },
+        {
+            "text": "This makes enough sauce to serve with 1 pound of prepared pasta."
+        },
+        {
+            "text": "For the five-second option: This is what I use for pizza sauce5 seconds to prepare and no cooking required, as the sauce cooks while its on the pizza!"
+        },
+        {
+            "text": "Do use garlic powder as opposed to the fresh garlic for this version."
+        },
+        {
+            "text": "Just mix the canned tomatoes, garlic powder, olive oil, salt and pepper, and basil together and spread onto pizza shells."
+        },
+        {
+            "text": "Makes enough sauce to top 2 pounds of pizza dough, or 2 large pizza shells (with a little left over)."
+        },
+        {
+            "text": "Both versions make just over 3 cups of prepared sauce."
+        },
+        {
+            "text": "Recipe adapted from Pastene.com"
+        }
+    ]
+}

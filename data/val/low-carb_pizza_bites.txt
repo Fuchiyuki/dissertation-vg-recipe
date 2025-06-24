@@ -1,0 +1,127 @@
+{
+    "title": "low-carb_pizza_bites",
+    "id": "f58018e311",
+    "table": [
+        {
+            "instructions": "heat oven to 350f .",
+            "input": "NA",
+            "action": "heat",
+            "output": "NA"
+        },
+        {
+            "instructions": "cream the cream_cheese with a mixer until smooth and fluffy .",
+            "input": "cream_cheese",
+            "action": "cream",
+            "output": "creamed_cream_cheese"
+        },
+        {
+            "instructions": "add eggs , garlic , and oregano ,",
+            "input": "(creamed_cream_cheese; eggs; garlic; oregano)",
+            "action": "add",
+            "output": "eggs, garlic and oregano added to creamed_cream_cheese"
+        },
+        {
+            "instructions": "beat until smooth .",
+            "input": "egg and cream_cheese mixture",
+            "action": "beat",
+            "output": "beaten egg and cream_cheese mixture"
+        },
+        {
+            "instructions": "mix the rest of the ingredients in by hand .",
+            "input": "(beaten egg and cream_cheese mixture; tomato sauce; shredded mozzarella cheese; minced green pepper; pepperoni slices)",
+            "action": "mix",
+            "output": "tomato, egg and cream_cheese mixture"
+        },
+        {
+            "instructions": "fill the muffin cups with the egg and cheese mixture .",
+            "input": "tomato, egg and cream_cheese mixture",
+            "action": "fill",
+            "output": "tomato, egg and cream_cheese mixture"
+        },
+        {
+            "instructions": "bake for about 15 18 minutes , or until lightly browned on top",
+            "input": "uncooked tomato, egg and cream_cheese mixture",
+            "action": "bake",
+            "output": "baked omelette cups"
+        },
+        {
+            "instructions": "set in center .",
+            "input": "baked omelette cups",
+            "action": "set",
+            "output": "baked omelette cups"
+        },
+        {
+            "instructions": "remove from oven ,",
+            "input": "baked omelette cups",
+            "action": "remove",
+            "output": "baked omelette cups"
+        },
+        {
+            "instructions": "cool for a few minutes 5 10 ,",
+            "input": "baked omelette cups",
+            "action": "cool",
+            "output": "baked omelette cups"
+        },
+        {
+            "instructions": "remove to a plate .",
+            "input": "baked omelette cups",
+            "action": "remove",
+            "output": "baked omelette cups"
+        }
+    ],
+    "ingredients": [
+        {
+            "text": "8 ounces cream cheese"
+        },
+        {
+            "text": "2 eggs"
+        },
+        {
+            "text": "1 teaspoon garlic powder"
+        },
+        {
+            "text": "1 teaspoon oregano"
+        },
+        {
+            "text": "14 cup tomato sauce"
+        },
+        {
+            "text": "12 cup mozzarella cheese, shredded (or combine with other cheeses such as parmesan)"
+        },
+        {
+            "text": "14 cup green pepper, finely minced (or other pizza topping)"
+        },
+        {
+            "text": "24 slices pepperoni, preferably in large thin slices"
+        }
+    ],
+    "recipe": [
+        {
+            "text": "Heat oven to 350F."
+        },
+        {
+            "text": "Poke the pepperoni slices into the bottoms of the mini-muffin cups, or butter the cups well if you aren't using the pepperoni (I find that oiling the pans doesn't work as well)."
+        },
+        {
+            "text": "Cream the cream cheese with a mixer until smooth and fluffy."
+        },
+        {
+            "text": "Add eggs, garlic, and oregano, and beat until smooth."
+        },
+        {
+            "text": "Mix the rest of the ingredients in by hand."
+        },
+        {
+            "text": "Fill the muffin cups with the egg and cheese mixture."
+        },
+        {
+            "text": "Bake for about 15-18 minutes, or until lightly browned on top and set in center."
+        },
+        {
+            "text": "Remove from oven, and cool for a few minutes (5-10), then run a knife around the top to loosen (I use a plastic knife for my nonstick pan)."
+        },
+        {
+            "text": "Remove to a plate."
+        }
+    ]
+}

@@ -1,0 +1,88 @@
+{
+    "title": "mushroom-gouda_french_bread_pizzas",
+    "id": "01b1a9bd88",
+    "table": [
+        {
+            "instructions": "preheat oven to 35",
+            "input": "NA",
+            "actions": "preheat",
+            "output": "NA"
+        },
+        {
+            "instructions": "open french_roll",
+            "input": "french_roll",
+            "actions": "open",
+            "output": "opened_french_roll"
+        },
+        {
+            "instructions": "lay out on sheet pan with insides facing up .",
+            "input": "opened_french_roll",
+            "actions": "lay",
+            "output": "opened_french_roll"
+        },
+        {
+            "instructions": "smooth marinara pizza_sauce on each roll surface evenly .",
+            "input": "(french_roll; marinara pizza_sauce;)",
+            "actions": "smooth",
+            "output": "marinara pizza_sauce spread over french roll"
+        },
+        {
+            "instructions": "bake for 20 25 min or just until cheese is melted",
+            "input": "uncooked french roll",
+            "actions": "bake",
+            "output": "baked french roll"
+        },
+        {
+            "instructions": "slice into smaller pieces for an appetizer or snack .",
+            "input": "french bread pizza",
+            "actions": "slice",
+            "output": "sliced frenc bread pizza"
+        },
+        {
+            "instructions": "serve with a tossed salad or fruit for a great lunch !",
+            "input": "(tossed_salad; french bread pizza)",
+            "actions": "serve",
+            "output": "french bread pizza served with tossed salad"
+        }
+    ],
+    "ingredients": [
+        {
+            "text": "2 French rolls"
+        },
+        {
+            "text": "12-1 cup prepared marinara sauce or 12-1 cup pizza sauce"
+        },
+        {
+            "text": "1 cup sliced fresh mushrooms"
+        },
+        {
+            "text": "1 cup shaved gouda cheese"
+        },
+        {
+            "text": "2 teaspoons finely chopped fresh basil or 12 teaspoon dry basil"
+        }
+    ],
+    "recipe": [
+        {
+            "text": "Preheat oven to 350."
+        },
+        {
+            "text": "Open french rolls and lay out on sheet pan with insides facing up."
+        },
+        {
+            "text": "Smooth marinara/pizza sauce on each roll surface evenly."
+        },
+        {
+            "text": "Alternate a few mushrooms, with some shaved cheese, mushrooms, shaved cheese and then a little sprinkle of basil."
+        },
+        {
+            "text": "Bake for 20-25 min or just until cheese is melted and browned in a few spots -- ovens vary."
+        },
+        {
+            "text": "Slice into smaller pieces for an appetizer or snack."
+        },
+        {
+            "text": "Serve with a tossed salad or fruit for a great lunch!"
+        }
+    ]
+}

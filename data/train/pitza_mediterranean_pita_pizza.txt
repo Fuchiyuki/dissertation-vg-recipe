@@ -1,0 +1,172 @@
+{
+    "title": "pitza_mediterranean_pita_pizza",
+    "id": "62f740cfee",
+    "table": [
+        {
+            "instructions": "sautee the diced_onion , mushroom , and garlic in the olive_oil over medium heat in a pan .",
+            "input": "(diced_onion; mushroom; garlic; olive oil)",
+            "action": "sautee",
+            "output": "sauteed onion and mushroom mixture"
+        },
+        {
+            "instructions": "place two pitas , concave side up , next to each other on a cookie sheet .",
+            "input": "Pitas",
+            "action": "place",
+            "output": "Pitas"
+        },
+        {
+            "instructions": "smear the hummus onto each pita , divided evenly among the four pitas .",
+            "input": "(Hummus; pitas)",
+            "action": "smear",
+            "output": "Hummus-covered pitas"
+        },
+        {
+            "instructions": "divide the shredded mozzarella evenly among the four pitas , keeping the cheese mound as flat as possible .",
+            "input": "(Hummus-covered pitas; shredded mozzarella)",
+            "action": "divide",
+            "output": "Hummus and mozzarella pitas"
+        },
+        {
+            "instructions": "divide the sauteed onion , garlic , and mushroom among the four pitas , carefully placing it on top of the mozzarella , making sure it does n't tumble off .",
+            "input": "(sauteed onion and mushroom mixture; hummus-and-cheese covered pitas)",
+            "action": "divide",
+            "output": "Pitas stuffed with hummus, cheese, sauteed onion and mushroom mixture"
+        },
+        {
+            "instructions": "divide the feta_cheese among the four pitas , also taking care that it stays in place atop the pile .",
+            "input": "(Pitas stuffed with hummus, cheese, sauteed onion and mushroom mixture; feta cheese)",
+            "action": "divide",
+            "output": "Pitas stuffed with hummus, cheese, onion, Pitas stuffed with hummus, mozzarella and feta cheese, sauteed onion and mushroom mixture"
+        },
+        {
+            "instructions": "place the cookies sheets in the oven ,",
+            "input": "Pitas stuffed with hummus, cheese, onion, Pitas stuffed with hummus, mozzarella and feta cheese, sauteed onion and mushroom mixture",
+            "action": "place",
+            "output": "Pitas stuffed with hummus, cheese, onion, Pitas stuffed with hummus, mozzarella and feta cheese, sauteed onion and mushroom mixture"
+        },
+        {
+            "instructions": "the feta will not melt ,",
+            "input": "NA",
+            "action": "melt",
+            "output": "NA"
+        },
+        {
+            "instructions": "it will get a little dark .",
+            "input": "NA",
+            "action": "get",
+            "output": "NA"
+        },
+        {
+            "instructions": "when the baking is done , slip each one onto it 's own plate using a spatula or wide knife .",
+            "input": "Baked hummus, cheese and vegetable pita",
+            "action": "slip",
+            "output": "Baked hummus, cheese and vegetable pita"
+        },
+        {
+            "instructions": "slice each pitza into 8 small slices ,",
+            "input": "Baked hummus, cheese and vegetable pita",
+            "action": "slice",
+            "output": "Sliced Baked hummus, cheese and vegetable pita"
+        },
+        {
+            "instructions": "squeeze them back together as if they had not been cut .",
+            "input": "Sliced Baked hummus, cheese and vegetable pita",
+            "action": "squeeze",
+            "output": "Squeezed-together pita slices"
+        },
+        {
+            "instructions": "garnish with a pinch of paprika on top and three olives .",
+            "input": "(Paprika; olives)",
+            "action": "garnish",
+            "output": "Seasoned squeezed-together pita slices garnished with paprika and olives"
+        },
+        {
+            "instructions": "serve warm .",
+            "input": "pitza_mediterranean_pita_pizza",
+            "action": "serve",
+            "output": "served pitza_mediterranean_pita_pizza"
+        }
+    ],
+    "ingredients": [
+        {
+            "text": "1/2 medium onion, diced"
+        },
+        {
+            "text": "2 large portobello mushroom caps, diced"
+        },
+        {
+            "text": "3 clove garlic, minced"
+        },
+        {
+            "text": "2 tbsp olive oil"
+        },
+        {
+            "text": "4 medium pitas"
+        },
+        {
+            "text": "1/2 cup hummus (home made if possible)"
+        },
+        {
+            "text": "1 cup fresh mozzarella, shredded"
+        },
+        {
+            "text": "1/2 cup feta cheese"
+        },
+        {
+            "text": "4 pinch paprika"
+        },
+        {
+            "text": "12 medium kalamata olives"
+        }
+    ],
+    "recipe": [
+        {
+            "text": "Begin by Preheating the oven to 350F."
+        },
+        {
+            "text": "Sautee the diced onion, mushroom, and garlic in the olive oil over medium heat in a pan."
+        },
+        {
+            "text": "Continue until the onion is translucent and all of it is soft."
+        },
+        {
+            "text": "Place two pitas, concave side up, next to each other on a cookie sheet."
+        },
+        {
+            "text": "Do the same with the other two pitas on another cookie sheet."
+        },
+        {
+            "text": "Smear the hummus onto each pita, divided evenly among the four pitas."
+        },
+        {
+            "text": "Divide the shredded mozzarella evenly among the four pitas, keeping the cheese mound as flat as possible."
+        },
+        {
+            "text": "Divide the sauteed onion, garlic, and mushroom among the four pitas, carefully placing it on top of the mozzarella, making sure it doesn't tumble off."
+        },
+        {
+            "text": "Divide the feta cheese among the four pitas, also taking care that it stays in place atop the pile."
+        },
+        {
+            "text": "Place the cookies sheets in the oven, and let them bake for about 10 minutes."
+        },
+        {
+            "text": "Exposed edges of the pita will start to crisp."
+        },
+        {
+            "text": "the Feta will not melt, but it will get a little dark."
+        },
+        {
+            "text": "When the baking is done, slip each one onto it's own plate using a spatula or wide knife."
+        },
+        {
+            "text": "Slice each pitza into 8 small slices, then squeeze them back together as if they had not been cut."
+        },
+        {
+            "text": "Garnish with a pinch of paprika on top and three olives."
+        },
+        {
+            "text": "Serve warm."
+        }
+    ]
+}

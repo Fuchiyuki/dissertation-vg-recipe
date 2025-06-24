@@ -1,0 +1,223 @@
+{
+    "title": "american_style_``_neapolitan_''_pizza_dough",
+    "id": "9ac96b5264",
+    "table": [
+        {
+            "instructions": "if mixing by hand , add all dry ingredients to mixing bowl",
+            "input": "all_dry_ingredients",
+            "actions": "add",
+            "output": "added_all_dry_ingredients"
+        },
+        {
+            "instructions": "stir to distrubute .",
+            "input": "all_dry_ingredients",
+            "actions": "stir",
+            "output": "stirred_dry_ingredients"
+        },
+        {
+            "instructions": "add all liquid ingredients , including oil , water and yeast water .",
+            "input": "(all_liquid_ingredients; all_dry_ingredients)",
+            "actions": "add",
+            "output": "mixture of dry and liquid ingredients"
+        },
+        {
+            "instructions": "use a large spoon",
+            "input": "NA",
+            "actions": "use",
+            "output": "NA"
+        },
+        {
+            "instructions": "stir until all_ingredient are evenly distrubuted",
+            "input": "mixture of all ingredients",
+            "actions": "stir",
+            "output": "stirred_ingredients"
+        },
+        {
+            "instructions": "if using electric mix use paddle attachement",
+            "input": "NA",
+            "actions": "use",
+            "output": "NA"
+        },
+        {
+            "instructions": "mix on slow speed for 1 minute or until all_ingredient are evenly distributed and fully hydrated all flour absorbed .",
+            "input": "mixture of all ingredients",
+            "actions": "mix",
+            "output": "dough"
+        },
+        {
+            "instructions": "then mix on medium low or continue mixing with large spoon for one additional minute .",
+            "input": "dough",
+            "actions": "mix",
+            "output": "well_mixed_dough"
+        },
+        {
+            "instructions": "add more water or flour , a little at a time as needed .",
+            "input": "(mixed_dough; water; flour)",
+            "actions": "add",
+            "output": "mixed_dough"
+        },
+        {
+            "instructions": "rub some olive_oil on work surfact to make an oil slick about 1 foot in diameter",
+            "input": "NA",
+            "actions": "rub",
+            "output": "NA"
+        },
+        {
+            "instructions": "transfer dough to the oiled surface .",
+            "input": "dough",
+            "actions": "transfer",
+            "output": "dough on oiled_surface"
+        },
+        {
+            "instructions": "rub some oil on bowl scraper of spatula to prevent sticking and a little on your hands .",
+            "input": "NA",
+            "actions": "rub",
+            "output": "NA"
+        },
+        {
+            "instructions": "stretch",
+            "input": "dough",
+            "actions": "stretch",
+            "output": "stretched_dough"
+        },
+        {
+            "instructions": "fold dough ,",
+            "input": "stretched_dough",
+            "actions": "fold",
+            "output": "folded_dough"
+        },
+        {
+            "instructions": "fold into a ball .",
+            "input": "dough",
+            "actions": "fold",
+            "output": "folded_dough_into a ball"
+        },
+        {
+            "instructions": "cover dough , still on oil slick , with a clean bowl .",
+            "input": "folded_dough_into a ball",
+            "actions": "cover",
+            "output": "covered_dough"
+        },
+        {
+            "instructions": "rub more oil on work surface , as needed to prevent sticking .",
+            "input": "NA",
+            "actions": "rub",
+            "output": "NA"
+        },
+        {
+            "instructions": "fold put pizza_dough into oiled bowl , large enough to contain it when doubles in sie , .",
+            "input": "pizza_dough",
+            "actions": "fold",
+            "output": "pizza_dough "
+        },
+        {
+            "instructions": "cover bowl with plastic wrap",
+            "input": "pizza_dough",
+            "actions": "cover",
+            "output": "covered_pizza_dough"
+        },
+        {
+            "instructions": "place in refrigerator .",
+            "input": "covered_pizza_dough",
+            "actions": "place",
+            "output": "refrigerated_pizza_dough"
+        },
+        {
+            "instructions": "place each ball into an oiled freezer bag",
+            "input": "pizza_dough_balls",
+            "actions": "place",
+            "output": "pizza_dough_balls"
+        },
+        {
+            "instructions": "seal ,",
+            "input": "pizza_dough_balls",
+            "actions": "seal",
+            "output": "sealed_pizza_dough_balls"
+        },
+        {
+            "instructions": "freeze .",
+            "input": "sealed_pizza_dough_balls",
+            "actions": "freeze",
+            "output": "frozen_pizza_dough_balls"
+        }
+    ],
+    "ingredients": [
+        {
+            "text": "22 12 ounces unbleached all-purpose flour, 5 cups"
+        },
+        {
+            "text": "12 ounce kosher salt, 2 teaspoons"
+        },
+        {
+            "text": "5 grains instant yeast, 1 teaspoon dissolved in 1/4 cup water, deduct from total water"
+        },
+        {
+            "text": "12 ounce sugar or 2 teaspoons honey"
+        },
+        {
+            "text": "12 ounce olive oil"
+        },
+        {
+            "text": "16 ounces water, room temperature"
+        }
+    ],
+    "recipe": [
+        {
+            "text": "If mixing by hand, add all dry ingredients to mixing bowl and stir to distrubute."
+        },
+        {
+            "text": "Add all liquid ingredients, including oil, water and yeast water."
+        },
+        {
+            "text": "Use a large spoon and stir until all ingredients are evenly distrubuted and fully hydreated - all flour should be absorbed."
+        },
+        {
+            "text": "If using electric mix use paddle attachement and mix on slow speed for 1 minute or until all ingredients are evenly distributed and fully hydrated - all flour absorbed."
+        },
+        {
+            "text": "Let dough rest 1-5 minutes and then mix on medium low (or continue mixing with large spoon) for one additional minute."
+        },
+        {
+            "text": "Add more water or flour, a little at a time as needed."
+        },
+        {
+            "text": "Dough should be soft, supple and tacky to the touch, even slightly sticky."
+        },
+        {
+            "text": "Rub some olive oil on work surfact to make an oil slick about 1 foot in diameter and transfer dough to the oiled surface."
+        },
+        {
+            "text": "Rub some oil on bowl scraper of spatula to prevent sticking and a little on your hands."
+        },
+        {
+            "text": "Stretch and fold dough, and fold into a ball."
+        },
+        {
+            "text": "Cover dough, still on oil slick, with a clean bowl."
+        },
+        {
+            "text": "Perform three more stretch and folds, at 5 minute intervals."
+        },
+        {
+            "text": "Rub more oil on work surface, as needed to prevent sticking."
+        },
+        {
+            "text": "After each stretch and fold dough will become firmer, less sticky and bouncier."
+        },
+        {
+            "text": "After final stretch and fold put pizza dough into oiled bowl, large enough to contain it when doubles in sie,."
+        },
+        {
+            "text": "Cover bowl with plastic wrap and place in refrigerator."
+        },
+        {
+            "text": "The dough will be good up to three days."
+        },
+        {
+            "text": "NOTE: You may also divide it into desired pizza sizes, from dough balls, and place each ball into an oiled freezer bag, seal, and freeze."
+        },
+        {
+            "text": "These will keep for up to three months."
+        }
+    ]
+}

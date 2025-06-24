@@ -1,0 +1,145 @@
+{
+    "title": "french_bread_pizza_soup",
+    "id": "5acc03e368",
+    "table": [
+        {
+            "instructions": "in a dutch or soup pot, bring the tomatoes, tomato soup and water to a boil .",
+            "input": "(tomatoes; tomato soup; water)",
+            "action": "bring",
+            "output": "boiling tomato mixture"
+        },
+        {
+            "instructions": "reduce heat",
+            "input": "boiling tomato mixture",
+            "action": "reduce",
+            "output": "boiling tomato mixture"
+        },
+        {
+            "instructions": "cover",
+            "input": "boiling tomato mixture",
+            "action": "cover",
+            "output": "covered boiling tomato mixture"
+        },
+        {
+            "instructions": "simmer for 15 minutes .",
+            "input": "covered boiling tomato mixture",
+            "action": "simmer",
+            "output": "covered simmering tomato mixture"
+        },
+        {
+            "instructions": "mash with a potato masher .",
+            "input": "covered simmering tomato mixture",
+            "action": "mash",
+            "output": "mashed tomato mixture"
+        },
+        {
+            "instructions": "add pepperoni , red and green_pepper , mushrooms , garlic , sage , basil , oregano , salt , and pepper .",
+            "input": "(mashed tomato mixture; pepperoni; green_pepper; mushrooms; garlic; sage; basil; oregano; salt; pepper)",
+            "action": "add",
+            "output": "pepperoni , red and green_pepper , mushrooms , garlic , sage , basil , oregano , salt , and pepper added to mashed tomato mixture"
+        },
+        {
+            "instructions": "cover",
+            "input": "tomato and vegetable mixture",
+            "action": "cover",
+            "output": "covered_tomato and vegetable mixture"
+        },
+        {
+            "instructions": "simmer for 10 minutes or until vegetables are tender .",
+            "input": "covered_tomato and vegetable mixture",
+            "action": "simmer",
+            "output": "cooked tomato and vegetable mixture"
+        },
+        {
+            "instructions": "top each with a slice of bread",
+            "input": "(cooked tomato and vegetable mixture; slice_of_bread)",
+            "action": "top",
+            "output": "slice of bread toppped with cooked tomato and vegetable mixture"
+        },
+        {
+            "instructions": "sprinkle with mozzarella_cheese .",
+            "input": "(slice of bread toppped with cooked tomato and vegetable mixture; mozzarella_cheese)",
+            "action": "sprinkle",
+            "output": "slice of bread toppped with cooked tomato and vegetable mixture and mozzarella cheese"
+        },
+        {
+            "instructions": "broil 4 inch from the heat until cheese is melted and bubbly .",
+            "input": "slice of bread toppped with cooked tomato and vegetable mixture and mozzarella cheese",
+            "action": "broil",
+            "output": "broiled slice of bread toppped with cooked tomato and vegetable mixture and mozzarella cheese"
+        }
+    ],
+    "ingredients": [
+        {
+            "text": "2 (14 1/2 ounce) cans diced tomatoes, undrained"
+        },
+        {
+            "text": "2 (10 3/4 ounce) cans condensed tomato soup, undiluted"
+        },
+        {
+            "text": "2 12 cups water"
+        },
+        {
+            "text": "3 12 ounces sliced pepperoni, quartered"
+        },
+        {
+            "text": "1 medium sweet red pepper, chopped"
+        },
+        {
+            "text": "1 medium green pepper, chopped"
+        },
+        {
+            "text": "1 cup fresh mushrooms, sliced"
+        },
+        {
+            "text": "2 garlic cloves, minced"
+        },
+        {
+            "text": "12 teaspoon rubbed sage"
+        },
+        {
+            "text": "12 teaspoon dried basil"
+        },
+        {
+            "text": "12 teaspoon dried oregano"
+        },
+        {
+            "text": "salt, to taste"
+        },
+        {
+            "text": "black pepper, to taste"
+        },
+        {
+            "text": "10 slices French bread, toasted"
+        },
+        {
+            "text": "6 ounces mozzarella cheese, shredded"
+        }
+    ],
+    "recipe": [
+        {
+            "text": "in a dutch or soup pot, bring the tomatoes, tomato soup and water to a boil."
+        },
+        {
+            "text": "reduce heat, cover and simmer for 15 minutes."
+        },
+        {
+            "text": "mash with a potato masher."
+        },
+        {
+            "text": "add pepperoni, red and green peppers, mushrooms, garlic, sage, basil, oregano, salt, and pepper."
+        },
+        {
+            "text": "cover and simmer for 10 minutes or until vegetables are tender."
+        },
+        {
+            "text": "ladel soup into overproof bowls."
+        },
+        {
+            "text": "top each with a slice of bread and sprinkle with mozzarella cheese."
+        },
+        {
+            "text": "broil 4 inch\" from the heat until cheese is melted and bubbly."
+        }
+    ]
+}

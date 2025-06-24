@@ -1,0 +1,259 @@
+{
+    "title": "greek_pizza_with_mozzarella_and_feta_cheeses",
+    "id": "202f61b328",
+    "table": [
+        {
+            "instructions": "preheat oven at 425f .",
+            "input": "NA",
+            "action": "preheat",
+            "output": "NA"
+        },
+        {
+            "instructions": "saute the onions , garlic and julienned pepper with the olive_oil until the onions are transluscent .",
+            "input": "(onions; garlic; julienned pepper)",
+            "action": "saute",
+            "output": "sauteed_onion, garlic and pepper mixture"
+        },
+        {
+            "instructions": "sprinkle crushed_red_pepper and rosemary .",
+            "input": "(sauteed_onion, garlic and pepper mixture; crushed_red_pepper; rosemary)",
+            "action": "sprinkle",
+            "output": "crushed_red_pepper and rosemary sprinkled over sauteed_onion, garlic and pepper mixture"
+        },
+        {
+            "instructions": "remove from heat .",
+            "input": "seasoned and sauteed_onion, garlic and pepper mixture ",
+            "action": "remove",
+            "output": "seasoned and sauteed_onion, garlic and pepper mixture "
+        },
+        {
+            "instructions": "oil an 11x17 pan or a pizza\u2012pan",
+            "input": "NA",
+            "action": "oil",
+            "output": "NA"
+        },
+        {
+            "instructions": "sprinkle with cornmeal .",
+            "input": "NA",
+            "action": "sprinkle",
+            "output": "NA"
+        },
+        {
+            "instructions": "spread dough over the pan .",
+            "input": "dough",
+            "action": "spread",
+            "output": "pizza crust"
+        },
+        {
+            "instructions": "bake for 5 minutes .",
+            "input": "pizza crust",
+            "action": "bake",
+            "output": "baked pizza crust"
+        },
+        {
+            "instructions": "take out of the oven",
+            "input": "baked pizza crust",
+            "action": "take",
+            "output": "baked pizza crust"
+        },
+        {
+            "instructions": "sprinkle most of the mozzarella over the dough , saving a handful for later .",
+            "input": "(mozzarella; baked pizza crust)",
+            "action": "sprinkle",
+            "output": "baked pizza crust with mozzarella"
+        },
+        {
+            "instructions": "spread the onion mixture over the mozzarella .",
+            "input": "(seasoned and sauteed_onion, garlic and pepper mixture; baked pizza crust with mozzarella )",
+            "action": "spread",
+            "output": "baked pizza crust with mozzarella and sauteed_onion, garlic and pepper mixture "
+        },
+        {
+            "instructions": "sprinkle the capers over the mixture .",
+            "input": "baked pizza crust with mozzarella and sauteed_onion, garlic and pepper mixture ",
+            "action": "sprinkle",
+            "output": "baked pizza crust with mozzarella, sauteed_onion, garlic and pepper mixture and capers "
+        },
+        {
+            "instructions": "sprinkle a handful of feta over the mixture .",
+            "input": "(baked pizza crust with mozzarella, sauteed_onion, garlic and pepper mixture and capers ; feta)",
+            "action": "sprinkle",
+            "output": "feta on baked pizza crust with mozzarella, sauteed_onion, garlic and pepper mixture, and capers "
+        },
+        {
+            "instructions": "spread the tomato slices over the mixture .",
+            "input": "(tomato slices; baked pizza crust with mozzarella, sauteed_onion mixture, feta and capers )",
+            "action": "spread",
+            "output": "baked pizza crust with mozzarella, sauteed_onion mixture, feta, capers and tomato slices"
+        },
+        {
+            "instructions": "sprinkle the handful of mozzarella over the tomatoes .",
+            "input": "(remaining mozzarella; baked pizza crust with mozzarella, sauteed_onion mixture, feta, capers and tomato slices)",
+            "action": "sprinkle",
+            "output": "baked pizza crust with mozzarella, sauteed_onion mixture, feta, capers and tomato slices"
+        },
+        {
+            "instructions": "sprinkle the rest of the feta over the mozzarella .",
+            "input": "(remaining feta; baked pizza crust with mozzarella, sauteed_onion mixture, feta, capers and tomato slices)",
+            "action": "sprinkle",
+            "output": "baked pizza crust with mozzarella, sauteed_onion mixture, feta, capers and tomato slices"
+        },
+        {
+            "instructions": "sprinkle the fresh_basil over everything .",
+            "input": "(fresh basil; baked pizza crust with mozzarella, sauteed_onion mixture, feta, capers and tomato slices)",
+            "action": "sprinkle",
+            "output": "baked pizza crust with mozzarella, sauteed_onion mixture, feta, capers, tomato slices and fresh basil"
+        },
+        {
+            "instructions": "bake for 15 minutes until edges are golden .",
+            "input": "uncooked greek_pizza_with_mozzarella_and_feta_cheeses",
+            "action": "bake",
+            "output": "baked greek_pizza_with_mozzarella_and_feta_cheeses"
+        },
+        {
+            "instructions": "turn on the broiler for a couple of minutes until the feta_cheese is turning golden .",
+            "input": "baked greek_pizza_with_mozzarella_and_feta_cheeses",
+            "action": "turn",
+            "output": "baked greek_pizza_with_mozzarella_and_feta_cheeses"
+        }
+    ],
+    "ingredients": [
+        {
+            "text": "pizza dough (I used Quick Mix Quick Rise Pizza Dough, which yielded 2 batches of dough for a 11X17 cookie sheet)"
+        },
+        {
+            "text": "1 tablespoon cornmeal"
+        },
+        {
+            "text": "8 ounces mozzarella cheese, grated"
+        },
+        {
+            "text": "8 ounces feta cheese, crumbled"
+        },
+        {
+            "text": "1 tablespoon olive oil"
+        },
+        {
+            "text": "1 onion, thinly sliced"
+        },
+        {
+            "text": "1 tablespoon garlic, minced"
+        },
+        {
+            "text": "12 red pepper, thinly julienned"
+        },
+        {
+            "text": "12 teaspoon crushed red pepper flakes"
+        },
+        {
+            "text": "12 teaspoon dried rosemary"
+        },
+        {
+            "text": "1 tablespoon capers (or pitted Kalamata olives)"
+        },
+        {
+            "text": "2 tomatoes, thinly sliced"
+        },
+        {
+            "text": "2 tablespoons fresh basil, chopped"
+        }
+    ],
+    "recipe": [
+        {
+            "text": "1."
+        },
+        {
+            "text": "Preheat oven at 425F."
+        },
+        {
+            "text": "2."
+        },
+        {
+            "text": "Saute the onions, garlic and julienned pepper with the olive oil until the onions are transluscent."
+        },
+        {
+            "text": "Sprinkle crushed red pepper and rosemary."
+        },
+        {
+            "text": "Remove from heat."
+        },
+        {
+            "text": "3."
+        },
+        {
+            "text": "Oil an 11X17 pan or a pizza pan and sprinkle with cornmeal."
+        },
+        {
+            "text": "4."
+        },
+        {
+            "text": "Spread dough over the pan."
+        },
+        {
+            "text": "5."
+        },
+        {
+            "text": "Bake for 5 minutes."
+        },
+        {
+            "text": "6."
+        },
+        {
+            "text": "Take out of the oven and sprinkle most of the mozzarella over the dough, saving a handful for later."
+        },
+        {
+            "text": "7."
+        },
+        {
+            "text": "Spread the onion mixture over the mozzarella."
+        },
+        {
+            "text": "8."
+        },
+        {
+            "text": "Sprinkle the capers over the mixture."
+        },
+        {
+            "text": "9."
+        },
+        {
+            "text": "Sprinkle a handful of feta over the mixture."
+        },
+        {
+            "text": "10."
+        },
+        {
+            "text": "Spread the tomato slices over the mixture."
+        },
+        {
+            "text": "11."
+        },
+        {
+            "text": "Sprinkle the handful of mozzarella over the tomatoes."
+        },
+        {
+            "text": "12."
+        },
+        {
+            "text": "Sprinkle the rest of the feta over the mozzarella."
+        },
+        {
+            "text": "13."
+        },
+        {
+            "text": "Sprinkle the fresh basil over everything."
+        },
+        {
+            "text": "14."
+        },
+        {
+            "text": "Bake for 15 minutes until edges are golden."
+        },
+        {
+            "text": "15."
+        },
+        {
+            "text": "Optional: Keep the pan in the middle of the oven and turn on the broiler for a couple of minutes until the feta cheese is turning golden."
+        }
+    ]
+}

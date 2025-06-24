@@ -1,0 +1,139 @@
+{
+    "title": "supreme_pizza_burgers",
+    "id": "f44d8c3faa",
+    "table": [
+        {
+            "instructions": "in a food processor , combine the vegetables , olives , pepperoni , tomato_paste and seasonings ;",
+            "input": "(vegetables; olives; pepperoni; tomato_paste; seasonings)",
+            "actions": "combine",
+            "output": "combined_(vegetables; olives; pepperoni; tomato_paste; seasonings)"
+        },
+        {
+            "instructions": "cover",
+            "input": "vegetable_mixture",
+            "actions": "cover",
+            "output": "vegetable_mixture"
+        },
+        {
+            "instructions": "transfer to a large bowl ;",
+            "input": "vegetable_mixture",
+            "actions": "transfer",
+            "output": "vegetable_mixture"
+        },
+        {
+            "instructions": "stir in breadcrumbs .",
+            "input": "(vegetable_mixture; breadcrumbs)",
+            "actions": "stir",
+            "output": "vegetable_mixture_with_breadcrumbs"
+        },
+        {
+            "instructions": "crumble beef over mixture",
+            "input": "(vegetable_mixture_with_breadcrumbs; beef)",
+            "actions": "crumble",
+            "output": "beef and vegetable mixture"
+        },
+        {
+            "instructions": "mix well .",
+            "input": "beef and vegetable mixture",
+            "actions": "mix",
+            "output": "beef and vegetable mixture"
+        },
+        {
+            "instructions": "shape into four patties .",
+            "input": "beef and vegetable mixture",
+            "actions": "shape",
+            "output": "beef_and_vegetable_patties"
+        },
+        {
+            "instructions": "coat grill rack with cooking_spray before starting grill .",
+            "input": "NA",
+            "actions": "coat",
+            "output": "NA"
+        },
+        {
+            "instructions": "grill burgers , covered , over medium heat for 5 7 minutes on each side or until a meat thermometer reads 160 degrees and juices run clear .",
+            "input": "uncooked_patties",
+            "actions": "grill",
+            "output": "grilled_burgers"
+        },
+        {
+            "instructions": "serve on buns with cheese and pizza_sauce .",
+            "input": "(grilled_burgers; cheese; pizza_sauce)",
+            "actions": "serve",
+            "output": "pizza_burgers"
+        }
+    ],
+    "ingredients": [
+        {
+            "text": "13 cup chopped fresh onion"
+        },
+        {
+            "text": "13 cup chopped fresh mushrooms"
+        },
+        {
+            "text": "13 cup chopped fresh green pepper"
+        },
+        {
+            "text": "13 cup chopped ripe olives"
+        },
+        {
+            "text": "10 slices turkey pepperoni"
+        },
+        {
+            "text": "2 tablespoons tomato paste"
+        },
+        {
+            "text": "2 teaspoons italian seasoning"
+        },
+        {
+            "text": "14 teaspoon garlic powder"
+        },
+        {
+            "text": "14 teaspoon pepper"
+        },
+        {
+            "text": "13 cup seasoned bread crumbs"
+        },
+        {
+            "text": "1 lb lean ground beef"
+        },
+        {
+            "text": "4 whole wheat hamburger buns, split"
+        },
+        {
+            "text": "4 slices provolone cheese"
+        },
+        {
+            "text": "4 tablespoons pizza sauce"
+        },
+        {
+            "text": "sliced ripe olives (optional) or fresh mushrooms (optional) or green pepper ring (optional)"
+        }
+    ],
+    "recipe": [
+        {
+            "text": "In a food processor, combine the vegetables, olives, pepperoni, tomato paste and seasonings; cover and pulse just until blended."
+        },
+        {
+            "text": "Transfer to a large bowl; stir in breadcrumbs."
+        },
+        {
+            "text": "Crumble beef over mixture and mix well."
+        },
+        {
+            "text": "Shape into four patties."
+        },
+        {
+            "text": "Coat grill rack with cooking spray before starting grill."
+        },
+        {
+            "text": "Grill burgers, covered, over medium heat for 5-7 minutes on each side or until a meat thermometer reads 160 degrees and juices run clear."
+        },
+        {
+            "text": "Serve on buns with cheese and pizza sauce."
+        },
+        {
+            "text": "Add toppings if desired."
+        }
+    ]
+}

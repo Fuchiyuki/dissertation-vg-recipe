@@ -1,0 +1,94 @@
+{
+    "title": "curried_muffins_mini_pizza_'s_recipe",
+    "id": "4910e0c3b4",
+    "table": [
+        {
+            "instructions": "mix above ingredients",
+            "input": "ingredients",
+            "actions": "mix",
+            "output": "mixed_ingredients"
+        },
+        {
+            "instructions": "pile on muffins .",
+            "input": "muffins",
+            "actions": "pile",
+            "output": "piled_muffins"
+        },
+        {
+            "instructions": "cut each half into 6 or possibly 8 wedges .",
+            "input": "muffins",
+            "actions": "cut",
+            "output": "cut_muffins"
+        },
+        {
+            "instructions": "freeze on cookie sheet .",
+            "input": "cut_muffins",
+            "actions": "freeze",
+            "output": "frozen_cut_muffins"
+        },
+        {
+            "instructions": "when frzn , put frzn bits in plastic bag .",
+            "input": "NA",
+            "actions": "put",
+            "output": "NA"
+        },
+        {
+            "instructions": "remove whatever amount you want",
+            "input": "NA",
+            "actions": "remove",
+            "output": "NA"
+        },
+        {
+            "instructions": "place on cookie sheet ;",
+            "input": "frozen_cut_muffins",
+            "actions": "place",
+            "output": "frozen_cut_muffins"
+        },
+        {
+            "instructions": "bake at 375 degrees till bubbly .",
+            "input": "frozen_cut_muffins",
+            "actions": "bake",
+            "output": "baked_muffins"
+        }
+    ],
+    "ingredients": [
+        {
+            "text": "6 English muffins, halved"
+        },
+        {
+            "text": "3 green onions, minced finely"
+        },
+        {
+            "text": "Salt and pepper"
+        },
+        {
+            "text": "2 c. minced pitted ripe olives (2 cans)"
+        },
+        {
+            "text": "1 c. mayonnaise"
+        },
+        {
+            "text": "3/4 teaspoon curry pwdr"
+        }
+    ],
+    "recipe": [
+        {
+            "text": "Mix above ingredients and pile on muffins."
+        },
+        {
+            "text": "Cut each half into 6 or possibly 8 wedges."
+        },
+        {
+            "text": "Freeze on cookie sheet."
+        },
+        {
+            "text": "When frzn, put frzn bits in plastic bag."
+        },
+        {
+            "text": "When you are ready to serve these, remove whatever amount you want and place on cookie sheet; bake at 375 degrees till bubbly."
+        },
+        {
+            "text": "You may use minced, stuffed green olives if you wish."
+        }
+    ]
+}

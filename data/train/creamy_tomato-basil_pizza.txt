@@ -1,0 +1,91 @@
+{
+    "title": "creamy_tomato-basil_pizza",
+    "id": "ef38f718bf",
+    "table": [
+        {
+            "instructions": "heat oven to 425 degrees f .",
+            "input": "NA",
+            "actions": "heat",
+            "output": "NA"
+        },
+        {
+            "instructions": "mix cream_cheese product , milk and italian_seasoning until blended ;",
+            "input": "(cream_cheese; milk; italian_seasoning)",
+            "actions": "mix",
+            "output": "(mixed_cream_cheese; milk; italian_seasoning)"
+        },
+        {
+            "instructions": "spread onto pizza_crust .",
+            "input": "(pizza_crust; cream_cheese_mixture)",
+            "actions": "spread",
+            "output": "pizza_crust_topped_with_cream_cheese_mixture"
+        },
+        {
+            "instructions": "top with tomatoes and mozzarella .",
+            "input": "(pizza_crust_topped_with_cream_cheese_mixture; tomatoes; mozzarella)",
+            "actions": "top",
+            "output": "(pizza_crust_topped_with_cream_cheese_mixture; tomatoes; mozzarella)"
+        },
+        {
+            "instructions": "place crust directly on middle oven rack .",
+            "input": "( pizza_crust_topped_with_cream_cheese_mixture; tomatoes; mozzarella)",
+            "actions": "place",
+            "output": "( pizza_crust_topped_with_cream_cheese_mixture; tomatoes; mozzarella)"
+        },
+        {
+            "instructions": "bake 8 to 10 min .",
+            "input": "pizza_crust_with_toppings",
+            "actions": "bake",
+            "output": "baked_pizza_crust_with_toppings"
+        },
+        {
+            "instructions": "sprinkle with basil .",
+            "input": "baked_pizza_crust_with_toppings",
+            "actions": "sprinkle",
+            "output": "creamy_tomato_basil_pizza"
+        }
+    ],
+    "ingredients": [
+        {
+            "text": "2/3 cup Philadelphia Cream Cheese Product"
+        },
+        {
+            "text": "1 Tbsp. milk"
+        },
+        {
+            "text": "1/2 tsp. Italian seasoning"
+        },
+        {
+            "text": "1 ready-to-use baked pizza crust (12 inch)"
+        },
+        {
+            "text": "1 tomato, thinly sliced"
+        },
+        {
+            "text": "1/2 cup Cracker Barrel Shredded Mozzarella Cheese"
+        },
+        {
+            "text": "8 fresh basil leaves, torn"
+        }
+    ],
+    "recipe": [
+        {
+            "text": "Heat oven to 425 degrees F."
+        },
+        {
+            "text": "Mix cream cheese product, milk and Italian seasoning until blended; spread onto pizza crust."
+        },
+        {
+            "text": "Top with tomatoes and mozzarella."
+        },
+        {
+            "text": "Place crust directly on middle oven rack."
+        },
+        {
+            "text": "Bake 8 to 10 min."
+        },
+        {
+            "text": "or until mozzarella is melted; sprinkle with basil."
+        }
+    ]
+}

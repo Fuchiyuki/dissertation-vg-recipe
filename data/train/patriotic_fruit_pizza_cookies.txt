@@ -1,0 +1,76 @@
+{
+    "title": "patriotic_fruit_pizza_cookies",
+    "id": "25cf80d045",
+    "table": [
+        {
+            "instructions": "bake the sugar cookies according to package instructions .",
+            "input": "sugar_cookies_package",
+            "actions": "bake",
+            "output": "baked_sugar_cookies"
+        },
+        {
+            "instructions": "remove them from the pan",
+            "input": "baked_cookies",
+            "actions": "remove",
+            "output": "baked_cookies"
+        },
+        {
+            "instructions": "in a small bowl mix the whipped_cream_cheese , powdered_sugar and vanilla .",
+            "input": "(Whipped_cream_cheese; powered_sugar; vanilla)",
+            "actions": "mix",
+            "output": "Whipped_cream_cheese_mixture"
+        },
+        {
+            "instructions": "once the cookies are cool spread the cream_cheese mixture on the cookie",
+            "input": "(Cream_cheese_mixture; cookies)",
+            "actions": "spread",
+            "output": "Frosted_cookies"
+        },
+        {
+            "instructions": "top with fruit .",
+            "input": "(Frosted_cookie; fruit)",
+            "actions": "top",
+            "output": "Frosted_cookie_topped_with_fruit"
+        },
+        {
+            "instructions": "chill until ready to serve .",
+            "input": "Frosted_cookie_with_fruit",
+            "actions": "chill",
+            "output": "chilled_frosted_cookie_with_fruit"
+        }
+    ],
+    "ingredients": [
+        {
+            "text": "16 ounces, weight Refrigerated Sugar Cookie Dough, Ready To Bake"
+        },
+        {
+            "text": "8 ounces, weight Whipped Cream Cheese"
+        },
+        {
+            "text": "1/4 cups Powdered Sugar"
+        },
+        {
+            "text": "1 teaspoon Vanilla"
+        },
+        {
+            "text": "2 cups Assorted Fruit (strawberries, Blueberries, Raspberries)"
+        }
+    ],
+    "recipe": [
+        {
+            "text": "Bake the sugar cookies according to package instructions."
+        },
+        {
+            "text": "Remove them from the pan and allow them to cool."
+        },
+        {
+            "text": "In a small bowl mix the whipped cream cheese, powdered sugar and vanilla."
+        },
+        {
+            "text": "Once the cookies are cool spread the cream cheese mixture on the cookie and top with fruit."
+        },
+        {
+            "text": "Chill until ready to serve."
+        }
+    ]
+}

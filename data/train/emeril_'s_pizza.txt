@@ -1,0 +1,232 @@
+{
+    "title": "emeril_'s_pizza",
+    "id": "fa2935072a",
+    "table": [
+        {
+            "instructions": "put the potatoes in a medium size saucepan",
+            "input": "potatoes",
+            "action": "put",
+            "output": "potatoes"
+        },
+        {
+            "instructions": "add enough water to cover .",
+            "input": "(potatoes; water)",
+            "action": "add",
+            "output": "water added to potatoes"
+        },
+        {
+            "instructions": "season with salt .",
+            "input": "(salt; potatoes in water)",
+            "action": "season",
+            "output": "potatoes in salted water"
+        },
+        {
+            "instructions": "reduce the heat to medium",
+            "input": "potatoes in salted water",
+            "action": "reduce",
+            "output": "cooking potatoes in salted water"
+        },
+        {
+            "instructions": "cook until fork tender , 10 to 12 minutes .",
+            "input": "cooking potatoes in salted water",
+            "action": "cook",
+            "output": "cooked potatoes in salted water"
+        },
+        {
+            "instructions": "drain",
+            "input": "cooked potatoes in salted water",
+            "action": "drain",
+            "output": "drained cooked potatoes"
+        },
+        {
+            "instructions": "cool under cold_water .",
+            "input": "(drained cooked potatoes; cold water)",
+            "action": "cool",
+            "output": "cooled potatoes "
+        },
+        {
+            "instructions": "arrange in a shallow dish",
+            "input": "cooled potatoes ",
+            "action": "arrange",
+            "output": "cooled potatoes "
+        },
+        {
+            "instructions": "preheat the oven to 375 degrees f .",
+            "input": "NA",
+            "action": "preheat",
+            "output": "NA"
+        },
+        {
+            "instructions": "lightly oil two baking sheets with olive_oil .",
+            "input": "NA",
+            "action": "oil",
+            "output": "NA"
+        },
+        {
+            "instructions": "divide the pizza_dough into 4 equal portions .",
+            "input": "pizza dough",
+            "action": "divide",
+            "output": "pizza dough divided into four"
+        },
+        {
+            "instructions": "with your fingers , dusted with flour , pat the dough into free form circles , each 8 to 10 inches in diameter ,",
+            "input": "pizza dough divided into four",
+            "action": "pat",
+            "output": "pizza dough circles"
+        },
+        {
+            "instructions": "put them on the prepared baking sheets .",
+            "input": "pizza dough circles",
+            "action": "put",
+            "output": "pizza dough circles"
+        },
+        {
+            "instructions": "prick each randomly with a fork .",
+            "input": "pizza dough circles",
+            "action": "prick",
+            "output": "prickled pizza dough circles"
+        },
+        {
+            "instructions": "brush each dough circle with 12 teaspoon of the truffle_oil",
+            "input": "(truffle oil; prickled pizza dough circles)",
+            "action": "brush",
+            "output": "prickled pizza dough circles brushed with truffle oil"
+        },
+        {
+            "instructions": "top each with equal amounts of the potatoes .",
+            "input": "(cooked potatoes; prickled pizza dough circles brushed with truffle oil)",
+            "action": "top",
+            "output": "prickled pizza dough circles brushed with truffle oil topped with cooked potatoes"
+        },
+        {
+            "instructions": "season with salt and freshly ground_black_pepper .",
+            "input": "(salt; pepper; pizza dough circles with potatoes)",
+            "action": "season",
+            "output": "pizza dough circles with potatoes seasoned with salt and pepper"
+        },
+        {
+            "instructions": "drizzle the remaining teaspoon of truffle_oil evenly over the pizzas .",
+            "input": "(remaining truffle oil; uncooked potato pizza)",
+            "action": "drizzle",
+            "output": "remaining truffle oil drizzle over uncooked potato pizza"
+        },
+        {
+            "instructions": "bake on the middle rack of the oven",
+            "input": "uncooked potato pizza",
+            "action": "bake",
+            "output": "baked potato pizza"
+        },
+        {
+            "instructions": "bake until the crust is golden brown , about 25 minutes .",
+            "input": "baked potato pizza",
+            "action": "bake",
+            "output": "baked potato pizza"
+        },
+        {
+            "instructions": "remove from the oven",
+            "input": "baked potato pizza",
+            "action": "remove",
+            "output": "baked potato pizza"
+        },
+        {
+            "instructions": "cool for a few minutes before slicing into 8 slices .",
+            "input": "baked potato pizza",
+            "action": "cool",
+            "output": "cooled baked potato pizza"
+        },
+        {
+            "instructions": "garnish with parsley",
+            "input": "(parsley; baked potato pizza)",
+            "action": "garnish",
+            "output": "baked potato pizza garnished with parsley"
+        },
+        {
+            "instructions": "serve .",
+            "input": "baked potato pizza",
+            "action": "serve",
+            "output": "served baked potato pizza"
+        }
+    ],
+    "ingredients": [
+        {
+            "text": "1 pound new potatoes, cut crosswise into 1/4-inch thick slices"
+        },
+        {
+            "text": "Salt"
+        },
+        {
+            "text": "1 teaspoon olive oil"
+        },
+        {
+            "text": "1 recipe of basic pizza dough"
+        },
+        {
+            "text": "1 tablespoon truffle oil"
+        },
+        {
+            "text": "Freshly ground black pepper"
+        },
+        {
+            "text": "1 cup thinly sliced red onions"
+        },
+        {
+            "text": "2 confit duck legs (about 7 ounces each) shredded"
+        },
+        {
+            "text": "1/4 pound Fontina cheese, grated"
+        },
+        {
+            "text": "2 teaspoons chopped fresh parsley leaves"
+        }
+    ],
+    "recipe": [
+        {
+            "text": "Put the potatoes in a medium-size saucepan and add enough water to cover."
+        },
+        {
+            "text": "Season with salt."
+        },
+        {
+            "text": "Bring to a boil over high heat, then reduce the heat to medium and cook until fork tender, 10 to 12 minutes."
+        },
+        {
+            "text": "Drain and cool under cold water."
+        },
+        {
+            "text": "Arrange in a shallow dish and allow to come to room temperature."
+        },
+        {
+            "text": "Preheat the oven to 375 degrees F. Lightly oil two baking sheets with olive oil."
+        },
+        {
+            "text": "Divide the pizza dough into 4 equal portions."
+        },
+        {
+            "text": "With your fingers, dusted with flour, pat the dough into free-form circles, each 8 to 10 inches in diameter, and put them on the prepared baking sheets."
+        },
+        {
+            "text": "Prick each randomly with a fork."
+        },
+        {
+            "text": "Brush each dough circle with 1/2 teaspoon of the truffle oil and top each with equal amounts of the potatoes."
+        },
+        {
+            "text": "Season with salt and freshly ground black pepper."
+        },
+        {
+            "text": "Continue layering with the onions, shredded duck confit and cheese."
+        },
+        {
+            "text": "Drizzle the remaining teaspoon of truffle oil evenly over the pizzas."
+        },
+        {
+            "text": "Bake on the middle rack of the oven and bake until the crust is golden brown, about 25 minutes."
+        },
+        {
+            "text": "Remove from the oven and cool for a few minutes before slicing into 8 slices."
+        },
+        {
+            "text": "Garnish with parsley and serve."
+        }
+    ]
+}

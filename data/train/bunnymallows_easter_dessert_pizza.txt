@@ -1,0 +1,133 @@
+{
+    "title": "bunnymallows_easter_dessert_pizza",
+    "id": "5a3906493f",
+    "table": [
+        {
+            "instructions": "heat oven to 375 degrees f .",
+            "input": "NA",
+            "action": "heat",
+            "output": "NA"
+        },
+        {
+            "instructions": "line 12 inch , pizza\u2012pan with foil ;",
+            "input": "NA",
+            "action": "line",
+            "output": "NA"
+        },
+        {
+            "instructions": "spray with cooking_spray .",
+            "input": "NA",
+            "action": "spray",
+            "output": "NA"
+        },
+        {
+            "instructions": "press cookie , dough onto bottom of prepared pan .",
+            "input": "dough",
+            "action": "press",
+            "output": "pressed_dough"
+        },
+        {
+            "instructions": "bake 14 to 16 min .",
+            "input": "cookie_dough",
+            "action": "bake",
+            "output": "cookie_crust"
+        },
+        {
+            "instructions": "meanwhile , beat pudding mix and milk in large bowl with whisk 2 min .",
+            "input": "pudding_mix_and_milk",
+            "action": "beat",
+            "output": "combined_pudding_and_milk"
+        },
+        {
+            "instructions": "stir in cool_whip .",
+            "input": "(combined_pudding_and_milk;cool_whip)",
+            "action": "stir",
+            "output": "pudding_mixture"
+        },
+        {
+            "instructions": "refrigerate 1 hour .",
+            "input": "pudding_mixture",
+            "action": "refrigerate",
+            "output": "refrigerated pudding_mixture"
+        },
+        {
+            "instructions": "remove cookie crust from pan ;",
+            "input": "cookie crust",
+            "action": "remove",
+            "output": "cookie crust"
+        },
+        {
+            "instructions": "place on plate .",
+            "input": "cookie crust",
+            "action": "place",
+            "output": "cookie crust"
+        },
+        {
+            "instructions": "cover with pudding mixture just before serving ;",
+            "input": "(cookie_crust;pudding_mixture)",
+            "action": "cover",
+            "output": "cookie_pudding_pie"
+        },
+        {
+            "instructions": "top with fruit and marshmallows .",
+            "input": "({cookie_pudding_pie;fruit; marshmallows})",
+            "action": "top",
+            "output": "dessert_pizza topped with fruit_and_marshmallows"
+        }
+    ],
+    "ingredients": [
+        {
+            "text": "1 pkg. (16 oz.) refrigerated sliceable sugar cookies, sliced"
+        },
+        {
+            "text": "1 pkg. (3.4 oz.) JELL-O Vanilla Flavor Instant Pudding"
+        },
+        {
+            "text": "1-1/4 cups cold milk"
+        },
+        {
+            "text": "1 cup thawed COOL WHIP Whipped Topping"
+        },
+        {
+            "text": "2 cups mixed fresh fruit (raspberries, sliced bananas and strawberries) Safeway 1 lb For $0.99 thru 02/09"
+        },
+        {
+            "text": "1 cup JET-PUFFED BUNNY MALLOWS Marshmallows"
+        }
+    ],
+    "recipe": [
+        {
+            "text": "Heat oven to 375 degrees F."
+        },
+        {
+            "text": "Line 12-inch pizza pan with foil; spray with cooking spray."
+        },
+        {
+            "text": "Press cookie dough onto bottom of prepared pan."
+        },
+        {
+            "text": "Bake 14 to 16 min."
+        },
+        {
+            "text": "or until lightly browned."
+        },
+        {
+            "text": "Cool completely."
+        },
+        {
+            "text": "Meanwhile, beat pudding mix and milk in large bowl with whisk 2 min."
+        },
+        {
+            "text": "Stir in COOL WHIP."
+        },
+        {
+            "text": "Refrigerate 1 hour."
+        },
+        {
+            "text": "Remove cookie crust from pan; place on plate."
+        },
+        {
+            "text": "Cover with pudding mixture just before serving; top with fruit and marshmallows."
+        }
+    ]
+}

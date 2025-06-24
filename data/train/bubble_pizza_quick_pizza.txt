@@ -1,0 +1,67 @@
+{
+    "title": "bubble_pizza_quick_pizza",
+    "id": "0dace70188",
+    "table": [
+        {
+            "instructions": "roll out refrigerator biscuits on floured surface .",
+            "input": "biscuits",
+            "action": "roll",
+            "output": "rolled_biscuits"
+        },
+        {
+            "instructions": "cover with tomato_sauce or paste .",
+            "input": "rolled_biscuits, tomato_sauce",
+            "action": "cover",
+            "output": "rolled_biscuits with tomato_sauce"
+        },
+        {
+            "instructions": "add cheese or other toppings .",
+            "input": "Cheese, Toppings, rolled_biscuits with tomato_sauce",
+            "action": "add",
+            "output": "rolled_biscuits with tomato_sauce topped with Cheese and your choice of toppings"
+        },
+        {
+            "instructions": "sprinkle with spices .",
+            "input": "Spices, rolled_biscuits with tomato_sauce topped with Cheese and your choice of toppings",
+            "action": "sprinkle",
+            "output": "Spices over the rolled_biscuits with tomato_sauce topped with Cheese and your choice of toppings"
+        },
+        {
+            "instructions": "bake at 450 degrees 225 c.",
+            "input": "uncooked Pizza",
+            "action": "bake",
+            "output": "Baked Pizza"
+        }
+    ],
+    "ingredients": [
+        {
+            "text": "canned biscuits"
+        },
+        {
+            "text": "tomato sauce or paste"
+        },
+        {
+            "text": "shredded cheese"
+        },
+        {
+            "text": "spices"
+        }
+    ],
+    "recipe": [
+        {
+            "text": "Roll out refrigerator biscuits on floured surface."
+        },
+        {
+            "text": "Cover with tomato sauce or paste."
+        },
+        {
+            "text": "Add cheese or other toppings."
+        },
+        {
+            "text": "Sprinkle with spices."
+        },
+        {
+            "text": "Bake at 450 degrees (225 C.) for 10 minutes."
+        }
+    ]
+}

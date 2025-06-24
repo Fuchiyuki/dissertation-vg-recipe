@@ -1,0 +1,124 @@
+{
+    "title": "spinach_pita_pizzas",
+    "id": "60a95ab297",
+    "table": [
+        {
+            "instructions": "heat oven to 35",
+            "input": "NA",
+            "action": "heat",
+            "output": "NA"
+        },
+        {
+            "instructions": "brush both sides of pitas with oil .",
+            "input": "(pita; oil)",
+            "action": "brush",
+            "output": "oiled pitas"
+        },
+        {
+            "instructions": "arrange on a baking sheet .",
+            "input": "oiled pitas",
+            "action": "arrange",
+            "output": "oiled pitas"
+        },
+        {
+            "instructions": "beat eggs with a fork in a large bowl .",
+            "input": "eggs",
+            "action": "beat",
+            "output": "beaten eggs"
+        },
+        {
+            "instructions": "add remaining_ingredient except mozzarella",
+            "input": "(beaten eggs; chopped spinach; feta cheese; cottage cheese; green onions; pepper)",
+            "action": "add",
+            "output": "spinach mixture"
+        },
+        {
+            "instructions": "toss to mix .",
+            "input": "spinach mixture",
+            "action": "toss",
+            "output": "well tossed spinach mixture"
+        },
+        {
+            "instructions": "spread mixture evenly among the pitas .",
+            "input": "(well tossed spinach mixture; oiled ptas)",
+            "action": "spread",
+            "output": "oiled pitas topped with well tossed spinach mixture"
+        },
+        {
+            "instructions": "top with mozzarella_cheese .",
+            "input": "(mozzarella cheese; oiled pitas topped with well tossed spinach mixture)",
+            "action": "top",
+            "output": "oiled pitas topped with well tossed spinach mixture, and mozzarella"
+        },
+        {
+            "instructions": "bake 20 minutes until bread is crisp and mozzarella melts",
+            "input": "uncooked spinach_pita_pizzas",
+            "action": "bake",
+            "output": "baked spinach_pita_pizzas"
+        }
+    ],
+    "ingredients": [
+        {
+            "text": "4 or 5 51/2 inches pita breads"
+        },
+        {
+            "text": "1 tablespoon olive oil"
+        },
+        {
+            "text": "2 eggs"
+        },
+        {
+            "text": "2 (10 ounce) packages frozen chopped spinach, thawed, drained and squeezed dry"
+        },
+        {
+            "text": "4 ounces feta cheese, crumbled"
+        },
+        {
+            "text": "12 cup cottage cheese"
+        },
+        {
+            "text": "2 tablespoons green onions, chopped"
+        },
+        {
+            "text": "pepper"
+        },
+        {
+            "text": "shredded mozzarella cheese"
+        }
+    ],
+    "recipe": [
+        {
+            "text": "Heat oven to 350."
+        },
+        {
+            "text": "Brush both sides of pitas with oil."
+        },
+        {
+            "text": "Arrange on a baking sheet."
+        },
+        {
+            "text": "Beat eggs with a fork in a large bowl."
+        },
+        {
+            "text": "Add remaining ingredients except mozzarella, toss to mix."
+        },
+        {
+            "text": "Spread mixture evenly among the pitas."
+        },
+        {
+            "text": "Top with mozzarella cheese."
+        },
+        {
+            "text": "Bake 20 minutes until bread is crisp and mozzarella melts and browns slightly."
+        },
+        {
+            "text": "Note: I serve it with a sprinkling of parmesan cheese and some crushed red peppers."
+        },
+        {
+            "text": "When I use fresh spinach, I use about a pound chopped and steamed until wilted."
+        },
+        {
+            "text": "Drain well."
+        }
+    ]
+}

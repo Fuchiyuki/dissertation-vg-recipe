@@ -1,0 +1,91 @@
+{
+    "title": "two-fisted_pizza_sub",
+    "id": "7617ebc10a",
+    "table": [
+        {
+            "instructions": "lightly butter one side of each bread_slice .",
+            "input": "(bread slice; butter)",
+            "action": "butter",
+            "output": "buttered bread slice"
+        },
+        {
+            "instructions": "in a large skillet , cook the bread , buttered side down , until browned .",
+            "input": "buttered bread slice",
+            "action": "cook",
+            "output": "toasted buttered bread slice"
+        },
+        {
+            "instructions": "place 1 slice of bread , buttered side down , on a microwave safe plate .",
+            "input": "toasted buttered bread slice",
+            "action": "place",
+            "output": "toasted buttered bread slice buttered side down"
+        },
+        {
+            "instructions": "top with ham , pizza_sauce , pepperoni , and mushrooms , then cheese",
+            "input": "(ham; pizza_sauce; pepperoni; mushrooms; cheese; toasted buttered bread slice buttered side down)",
+            "action": "top",
+            "output": "toasted buttered bread slice buttered side down topped with ham, pizza sauce, pepperoni, mushrooms and cheese"
+        },
+        {
+            "instructions": "top with remaining slice of bread , browned side up .",
+            "input": "(remaining toasted slice of bread; toasted buttered bread slice buttered side down topped with ham, pizza sauce, pepperoni, mushrooms and cheese)",
+            "action": "top",
+            "output": "toasted buttered bread slice buttered side down topped with ham, pizza sauce, pepperoni, mushrooms, cheese and remaining slice of bread toasted side up"
+        },
+        {
+            "instructions": "microwave on 100 high about 2 minutes",
+            "input": "toasted buttered bread slice buttered side down topped with ham, pizza sauce, pepperoni, mushrooms, cheese and remaining slice of bread toasted side up",
+            "action": "microwave",
+            "output": "microwaved pizza toast"
+        }
+    ],
+    "ingredients": [
+        {
+            "text": "butter or margarine"
+        },
+        {
+            "text": "2 inches thick slices Italian bread (diagonally cut)"
+        },
+        {
+            "text": "3 slices cooked ham (3 ounces)"
+        },
+        {
+            "text": "14-13 cup pizza sauce"
+        },
+        {
+            "text": "10 slices pepperoni"
+        },
+        {
+            "text": "34 cup fresh sliced mushrooms"
+        },
+        {
+            "text": "2 thick slices mozzarella cheese (2 ounces)"
+        }
+    ],
+    "recipe": [
+        {
+            "text": "Lightly butter one side of each bread slice."
+        },
+        {
+            "text": "In a large skillet, cook the bread, buttered side down, until browned."
+        },
+        {
+            "text": "To assemble, place 1 slice of bread, buttered side down, on a microwave-safe plate."
+        },
+        {
+            "text": "Top with ham, pizza sauce, pepperoni, and mushrooms, then cheese."
+        },
+        {
+            "text": "Top with remaining slice of bread, browned side up."
+        },
+        {
+            "text": "Microwave on 100% (high) about 2 minutes or until cheese melts."
+        },
+        {
+            "text": "(Or melt the cheese under the broiler."
+        },
+        {
+            "text": ")."
+        }
+    ]
+}

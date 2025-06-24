@@ -1,0 +1,115 @@
+{
+    "title": "supersize_pizza_puffs",
+    "id": "cb67d38d3b",
+    "table": [
+        {
+            "instructions": "preheat oven to 350 degrees f 175 degrees c.",
+            "input": "NA",
+            "action": "preheat",
+            "output": "NA"
+        },
+        {
+            "instructions": "separate biscuits",
+            "input": "biscuits",
+            "action": "separate",
+            "output": "separated_biscuits"
+        },
+        {
+            "instructions": "place on a work surface .",
+            "input": "separated_biscuits",
+            "action": "place",
+            "output": "separated_biscuits"
+        },
+        {
+            "instructions": "roll biscuits to double their original diameter using a rolling pin .",
+            "input": "separated_biscuits",
+            "action": "roll",
+            "output": "Rolled_biscuits"
+        },
+        {
+            "instructions": "sprinkle garlic_salt over each biscuit",
+            "input": "(Rolled_biscuits; garlic salt)",
+            "action": "sprinkle",
+            "output": "Seasoned_biscuits"
+        },
+        {
+            "instructions": "top with 2 pieces , pepperoni .",
+            "input": "(Seasoned_biscuit; pepperoni)",
+            "action": "top",
+            "output": "Topped_biscuits with pepperoni"
+        },
+        {
+            "instructions": "generously sprinkle mozzarella_cheese over pepperoni layer , reserving about 2 tablespoons , cheese .",
+            "input": "(Topped_biscuits with pepperon;i mozzarella cheese)",
+            "action": "sprinkle",
+            "output": "Topped_biscuits with pepperoni and mozzarella cheese"
+        },
+        {
+            "instructions": "fold the edges of each roll over the toppings , pinching the edges together to seal shut .",
+            "input": "Topped_biscuits with pepperoni and mozzarella cheese",
+            "action": "fold",
+            "output": "stuffed_biscuits"
+        },
+        {
+            "instructions": "arrange biscuits on a baking sheet .",
+            "input": "stuffed_biscuits",
+            "action": "arrange",
+            "output": "arranged stuffed_biscuits"
+        },
+        {
+            "instructions": "sprinkle reserved mozzarella_cheese over each biscuit .",
+            "input": "(remaining mozzarella cheese; stuffed_biscuits)",
+            "action": "sprinkle",
+            "output": "remaining mozzarella cheese sprinkled over arranged stuffed biscuits"
+        },
+        {
+            "instructions": "bake in the preheated oven until cheese is melted and biscuits are lightly browned , about 12 minutes .",
+            "input": "uncooked pizza stuffed biscuits",
+            "action": "bake",
+            "output": "baked pizza stuffed biscuits"
+        }
+    ],
+    "ingredients": [
+        {
+            "text": "1 (10 ounce) can refrigerated biscuit dough (such as Pillsbury Grands!)"
+        },
+        {
+            "text": "1 pinch garlic salt, or to taste"
+        },
+        {
+            "text": "16 slices pepperoni"
+        },
+        {
+            "text": "2 cups shredded mozzarella cheese"
+        }
+    ],
+    "recipe": [
+        {
+            "text": "Preheat oven to 350 degrees F (175 degrees C)."
+        },
+        {
+            "text": "Separate biscuits and place on a work surface."
+        },
+        {
+            "text": "Roll biscuits to double their original diameter using a rolling pin."
+        },
+        {
+            "text": "Sprinkle garlic salt over each biscuit and top with 2 pieces pepperoni."
+        },
+        {
+            "text": "Generously sprinkle mozzarella cheese over pepperoni layer, reserving about 2 tablespoons cheese."
+        },
+        {
+            "text": "Fold the edges of each roll over the toppings, pinching the edges together to seal shut."
+        },
+        {
+            "text": "Arrange biscuits on a baking sheet."
+        },
+        {
+            "text": "Sprinkle reserved mozzarella cheese over each biscuit."
+        },
+        {
+            "text": "Bake in the preheated oven until cheese is melted and biscuits are lightly browned, about 12 minutes."
+        }
+    ]
+}

@@ -1,0 +1,100 @@
+{
+    "title": "bite_size_party_pizza_recipe",
+    "id": "743364366a",
+    "table": [
+        {
+            "instructions": "fry meat",
+            "input": "meat",
+            "actions": "fry",
+            "output": "fried_meat"
+        },
+        {
+            "instructions": "drain .",
+            "input": "fried_meat",
+            "actions": "drain",
+            "output": "drained fried meat"
+        },
+        {
+            "instructions": "add in spices and catsup .",
+            "input": "(drained fried meat; spices; catsup)",
+            "actions": "add",
+            "output": "seasoned meat mix"
+        },
+        {
+            "instructions": "cube velveeta",
+            "input": "velveeta",
+            "actions": "cube",
+            "output": "cubed velveeta"
+        },
+        {
+            "instructions": "stir into meat mix till melted .",
+            "input": "(seasoned meat mix; cubed velveeta )",
+            "actions": "stir",
+            "output": "meat and melted cheese mixture"
+        },
+        {
+            "instructions": "spread this on slices of party , rye .",
+            "input": "(meat and melted cheese mixture; party rye)",
+            "actions": "spread",
+            "output": "meat and melted cheese mixture spread on party rye"
+        },
+        {
+            "instructions": "bake at 375 degrees for 10 min .",
+            "input": "uncooked rye pizza",
+            "actions": "bake",
+            "output": "baked rye pizza"
+        },
+        {
+            "instructions": "do n't add in salt !",
+            "input": "NA",
+            "actions": "add",
+            "output": "NA"
+        }
+    ],
+    "ingredients": [
+        {
+            "text": "1 pound grnd beef"
+        },
+        {
+            "text": "1 pound grnd pork sausage"
+        },
+        {
+            "text": "1 (12 ounce.) bottle catsup"
+        },
+        {
+            "text": "2 loaves mini party rye bread"
+        },
+        {
+            "text": "1 teaspoon garlic pwdr"
+        },
+        {
+            "text": "1 teaspoon oregano"
+        },
+        {
+            "text": "1 pound Velveeta cheese"
+        }
+    ],
+    "recipe": [
+        {
+            "text": "Fry meat and drain."
+        },
+        {
+            "text": "Add in spices and catsup."
+        },
+        {
+            "text": "Cube Velveeta and stir into meat mix till melted."
+        },
+        {
+            "text": "Spread this on slices of party rye."
+        },
+        {
+            "text": "Can be served immediately or possibly frzn on cookie sheets till set and transferred into plastic bags to freeze."
+        },
+        {
+            "text": "Bake at 375 degrees for 10 min."
+        },
+        {
+            "text": "Don't add in salt!"
+        }
+    ]
+}

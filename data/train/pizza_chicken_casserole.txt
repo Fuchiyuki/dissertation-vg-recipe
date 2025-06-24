@@ -1,0 +1,139 @@
+{
+    "title": "pizza_chicken_casserole",
+    "id": "45cc1b43e4",
+    "table": [
+        {
+            "instructions": "arrange the raw chicken chunks in a greased 9x13 inch baking dish .",
+            "input": "raw chicken chunks",
+            "actions": "arrange",
+            "output": "arranged raw chicken chunks"
+        },
+        {
+            "instructions": "sprinkle about 12 cup cheese on top .",
+            "input": "(cheese; arranged raw chicken chunks)",
+            "actions": "sprinkle",
+            "output": "cheese sprinkled on top of arranged raw chicken chunks"
+        },
+        {
+            "instructions": "spread pepperoni_slice over the cheese .",
+            "input": "(sliced pepperoni; chicken chunks with cheese)",
+            "actions": "spread",
+            "output": "pepperoni_slices spread over chicken chunks with cheese"
+        },
+        {
+            "instructions": "spread with pizza_sauce .",
+            "input": "(uncookedchicken casserole; pizza_sauce)",
+            "actions": "spread",
+            "output": "pizza sauce on uncooked chicken casserole"
+        },
+        {
+            "instructions": "cover with foil",
+            "input": "NA",
+            "actions": "cover",
+            "output": "NA"
+        },
+        {
+            "instructions": "bake at 350 degrees f for about 35 minutes .",
+            "input": "uncooked pizza chicken casserole",
+            "actions": "bake",
+            "output": "baked pizza chicken casserole"
+        },
+        {
+            "instructions": "while this is baking , cook spaghetti",
+            "input": "Spaghetti",
+            "actions": "cook",
+            "output": "Cooked spaghetti"
+        },
+        {
+            "instructions": "rinse",
+            "input": "Cooked spaghetti",
+            "actions": "rinse",
+            "output": "Rinsed cooked spaghetti"
+        },
+        {
+            "instructions": "add 13 stick margarine and garlic_salt .",
+            "input": "(Rinsed cooked spaghetti; margarine, garlic_salt)",
+            "actions": "add",
+            "output": "margarine and garlic_salt added to rinsed cooked spaghetti"
+        },
+        {
+            "instructions": "remove chicken from oven",
+            "input": "baked pizza chicken casserole",
+            "actions": "remove",
+            "output": "baked pizza chicken casserole"
+        },
+        {
+            "instructions": "add remaining cheese",
+            "input": "remaining cheese, baked pizza chicken casserole",
+            "actions": "add",
+            "output": "remaining cheese added to baked pizza chicken casserole"
+        },
+        {
+            "instructions": "bake until cheese melts .",
+            "input": "baked pizza chicken casserole",
+            "actions": "bake",
+            "output": "baked pizza chicken casserole"
+        },
+        {
+            "instructions": "serve chicken over noodles .",
+            "input": "baked pizza chicken casserole, cooked noodles",
+            "actions": "serve",
+            "output": "Noodles served with baked pizza chicken casserole"
+        }
+    ],
+    "ingredients": [
+        {
+            "text": "4 boneless skinless chicken breasts, cut into chunks"
+        },
+        {
+            "text": "15 ounces pizza sauce"
+        },
+        {
+            "text": "2 cups mozzarella cheese"
+        },
+        {
+            "text": "1 (8 ounce) package pepperoni slices"
+        },
+        {
+            "text": "spaghetti"
+        },
+        {
+            "text": "14 cup butter"
+        },
+        {
+            "text": "1 12 teaspoons garlic salt"
+        }
+    ],
+    "recipe": [
+        {
+            "text": "Arrange the raw chicken chunks in a greased 9x13-inch baking dish."
+        },
+        {
+            "text": "Sprinkle about 1/2 cup cheese on top."
+        },
+        {
+            "text": "Spread pepperoni slices over the cheese."
+        },
+        {
+            "text": "Spread with pizza sauce."
+        },
+        {
+            "text": "Cover with foil and bake at 350 degrees F for about 35 minutes."
+        },
+        {
+            "text": "While this is baking, cook spaghetti"
+        },
+        {
+            "text": "noodles for 4 people."
+        },
+        {
+            "text": "Rinse, add 1/3 stick margarine and garlic salt."
+        },
+        {
+            "text": "Remove chicken from oven, add remaining cheese and bake until cheese melts."
+        },
+        {
+            "text": "Serve chicken over noodles."
+        }
+    ]
+}

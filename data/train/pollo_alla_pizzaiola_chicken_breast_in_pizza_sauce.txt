@@ -1,0 +1,121 @@
+{
+    "title": "pollo_alla_pizzaiola_chicken_breast_in_pizza_sauce",
+    "id": "23747ad945",
+    "table": [
+        {
+            "instructions": "heat the olive_oil in a heavy based frying pan .",
+            "input": "olive_oil",
+            "action": "heat",
+            "output": "heated_olive_oil"
+        },
+        {
+            "instructions": "add the chicken and garlic",
+            "input": "(chicken_breast_fillet; garlic; heated_olive_oil)",
+            "action": "add",
+            "output": "heated_olive_oil with chicken_breast_fillet and garlic"
+        },
+        {
+            "instructions": "fry , stirring often , until the chicken is golden , around 10 minutes .",
+            "input": "heated_olive_oil with chicken_breast_fillet and garlic",
+            "action": "fry",
+            "output": "stir fried garlicky chicken_breast_fillet"
+        },
+        {
+            "instructions": "tip in the canned_tomato",
+            "input": "(stir fried garlicky chicken_breast_fillet; canned tomato)",
+            "action": "tip",
+            "output": "stir fried garlicky chicken_breast_fillet with canned tomato"
+        },
+        {
+            "instructions": "season with oregano , salt and freshly_ground_pepper",
+            "input": "(stir fried garlicky chicken_breast_fillet with canned tomato; oregano; salt; freshly ground pepper)",
+            "action": "season",
+            "output": "seasoned stir fried garlicky chicken_breast_fillet with canned tomato "
+        },
+        {
+            "instructions": "cook for 5 minutes .",
+            "input": "seasoned stir fried garlicky chicken_breast_fillet with canned tomato ",
+            "action": "cook",
+            "output": "cooked chicken_breast_fillet and tomato mixture"
+        },
+        {
+            "instructions": "place 3 slices of toasted ciabatta on each serving plate .",
+            "input": "toasted ciabatta",
+            "action": "place",
+            "output": "toasted ciabatta"
+        },
+        {
+            "instructions": "top each serving with a chicken_breast_fillet .",
+            "input": "(cooked chicken_breast_fillet in tomato mixture; toasted ciabatta)",
+            "action": "top",
+            "output": "toasted ciabatta topped with cooked chicken_breast_fillet in tomato mixture"
+        },
+        {
+            "instructions": "cover each chicken_breast with a few slices of mozzarella ,",
+            "input": "(toasted ciabatta topped with cooked chicken_breast_fillet in tomato mixture; mozzarella)",
+            "action": "cover",
+            "output": "toasted ciabatta topped with cooked chicken_breast_fillet in tomato mixture, and mozzarella slices"
+        },
+        {
+            "instructions": "spoon over the tomato_sauce .",
+            "input": "(toasted ciabatta topped with cooked in tomato mixture, and mozzarella slices; )",
+            "action": "spoon",
+            "output": "toasted ciabatta topped with cooked chicken_breast_fillet in tomato mixture, mozzarella slices and tomato sauce "
+        },
+        {
+            "instructions": "serve straight away .",
+            "input": "toasted ciabatta topped with cooked chicken_breast_fillet in tomato mixture, mozzarella slices and tomato sauce ",
+            "action": "serve",
+            "output": "toasted ciabatta topped with cooked chicken_breast_fillet in tomato mixture, mozzarella slices and tomato sauce  ready to eat"
+        }
+    ],
+    "ingredients": [
+        {
+            "text": "6 tablespoons olive oil"
+        },
+        {
+            "text": "2 boneless skinless chicken breasts"
+        },
+        {
+            "text": "2 garlic cloves, finely chopped"
+        },
+        {
+            "text": "1 14 lbs chopped Italian tomatoes, canned"
+        },
+        {
+            "text": "1 pinch dried oregano"
+        },
+        {
+            "text": "salt, and freshly ground pepper"
+        },
+        {
+            "text": "1 fresh mozzarella ball, drained and finely sliced"
+        },
+        {
+            "text": "6 slices ciabatta, toasted"
+        }
+    ],
+    "recipe": [
+        {
+            "text": "Heat the olive oil in a heavy-based frying pan."
+        },
+        {
+            "text": "Add the chicken and garlic and fry, stirring often, until the chicken is golden, around 10 minutes."
+        },
+        {
+            "text": "Tip in the canned tomatoes, season with oregano, salt and freshly ground pepper and cook for 5 minutes."
+        },
+        {
+            "text": "Place 3 slices of toasted ciabatta on each serving plate."
+        },
+        {
+            "text": "Top each serving with a chicken breast fillet."
+        },
+        {
+            "text": "Cover each chicken breast with a few slices of mozzarella, then spoon over the tomato sauce."
+        },
+        {
+            "text": "Serve straight away."
+        }
+    ]
+}

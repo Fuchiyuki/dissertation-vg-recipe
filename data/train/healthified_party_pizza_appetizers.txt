@@ -1,0 +1,139 @@
+{
+    "title": "healthified_party_pizza_appetizers",
+    "id": "f890c733e5",
+    "table": [
+        {
+            "instructions": "preheat oven to 350 degrees f 175 degrees c.",
+            "input": "NA",
+            "action": "preheat",
+            "output": "NA"
+        },
+        {
+            "instructions": "line a medium baking sheet with aluminum foil .",
+            "input": "NA",
+            "action": "line",
+            "output": "NA"
+        },
+        {
+            "instructions": "arrange cocktail rye_bread slices in a single layer on the prepared baking sheet .",
+            "input": "cocktail rye_bread slices",
+            "action": "arrange",
+            "output": "cocktail rye_bread slices"
+        },
+        {
+            "instructions": "place ground_sausage in a skillet .",
+            "input": "ground sausage",
+            "action": "place",
+            "output": "ground sausage"
+        },
+        {
+            "instructions": "cook over medium high heat until evenly brown .",
+            "input": "raw ground sausage",
+            "action": "cook",
+            "output": "cooked ground sausage"
+        },
+        {
+            "instructions": "return to pan .",
+            "input": "cooked ground sausage",
+            "action": "return",
+            "output": "cooked ground sausage"
+        },
+        {
+            "instructions": "dump in the mushrooms , worcestershire , ketchup , oregano , garlic_powder , hot_sauce and the cubed cheese ;",
+            "input": "(mushrooms; worcestershire; ketchup; oregano; garlic_powder; hot_sauce; cubed cheese; cooked ground sausage)",
+            "action": "dump",
+            "output": "cheesy mushrooms, sausage and sauce mixture"
+        },
+        {
+            "instructions": "stir until melted .",
+            "input": "cheesy mushrooms, sausage and sauce mixture",
+            "action": "stir",
+            "output": "melted cheesy mushrooms, sausage and sauce mixture"
+        },
+        {
+            "instructions": "Place approximately 1.5 tablespoons of the mixture on each slice of cocktail bread\u00a0",
+            "input": "(melted cheesy mushrooms, sausage and sauce mixture; cocktail rye_bread slices)",
+            "action": "place",
+            "output": "cocktail rye_bread slices with melted cheesy mushrooms, sausage and sauce mixture"
+        },
+        {
+            "instructions": "spread slightly",
+            "input": "cocktail rye_bread slices with melted cheesy mushrooms, sausage and sauce mixture",
+            "action": "spread",
+            "output": "cocktail rye_bread slices with melted cheesy mushrooms, sausage and sauce mixture"
+        },
+        {
+            "instructions": "do n't put it all the way to the edge to avoid runoff .",
+            "input": "NA",
+            "action": "put",
+            "output": "NA"
+        },
+        {
+            "instructions": "bake in the preheated oven 10 to 15 minutes , or until lightly browned and crisp .",
+            "input": "cocktail rye_bread slices with melted cheesy mushrooms, sausage and sauce mixture",
+            "action": "bake",
+            "output": "baked cocktail rye_bread slices with melted cheesy mushrooms, sausage and sauce mixture"
+        }
+    ],
+    "ingredients": [
+        {
+            "text": "1 lb chicken Italian sausage"
+        },
+        {
+            "text": "1 (8 ounce) can mushrooms, drained"
+        },
+        {
+            "text": "1 lb processed cheese (use Light reduced fat Velveeta)"
+        },
+        {
+            "text": "1 -2 tablespoon Worcestershire sauce (I use 2T)"
+        },
+        {
+            "text": "1 -2 tablespoon ketchup (I use 2T)"
+        },
+        {
+            "text": "1 teaspoon dried oregano"
+        },
+        {
+            "text": "14 teaspoon garlic powder"
+        },
+        {
+            "text": "4 dashes hot sauce (optional)"
+        },
+        {
+            "text": "cocktail rye bread (I prefer pumpernickel but it's up to you)"
+        }
+    ],
+    "recipe": [
+        {
+            "text": "Preheat oven to 350 degrees F (175 degrees C)."
+        },
+        {
+            "text": "Line a medium baking sheet with aluminum foil."
+        },
+        {
+            "text": "Arrange cocktail rye bread slices in a single layer on the prepared baking sheet."
+        },
+        {
+            "text": "Place ground sausage in a skillet."
+        },
+        {
+            "text": "Cook over medium high heat until evenly brown."
+        },
+        {
+            "text": "Drain (if necessary - mine had no fat) and return to pan."
+        },
+        {
+            "text": "Dump in the mushrooms, Worcestershire, ketchup, oregano, garlic powder, hot sauce and the cubed cheese; decrease heat to medium and stir until melted."
+        },
+        {
+            "text": "Place approximately 1.5 tablespoons of the mixture on each slice of cocktail bread and spread slightly (but don't put it all the way to the edge to avoid runoff)."
+        },
+        {
+            "text": "Bake in the preheated oven 10 to 15 minutes, or until lightly browned and crisp."
+        },
+        {
+            "text": "Feel free to freeze these AFTER baking for serving later - they are awesome heated from the freezer too!"
+        }
+    ]
+}

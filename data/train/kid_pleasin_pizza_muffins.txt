@@ -1,0 +1,106 @@
+{
+    "title": "kid_pleasin_pizza_muffins",
+    "id": "10d2e45080",
+    "table": [
+        {
+            "instructions": "cook sausage over medium heat , drain .",
+            "input": "sausage",
+            "actions": "cook",
+            "output": "cooked and drained sausage"
+        },
+        {
+            "instructions": "stir in pizza_sauce , catsup , and garlic_powder .",
+            "input": "(cooked and drained sausage; pizza_sauce; catsup; garlic_powder)",
+            "actions": "stir",
+            "output": "pizza_sauce, catsup and garlic powder stirred in cooked sausages"
+        },
+        {
+            "instructions": "set aside .",
+            "input": "sauce",
+            "actions": "set",
+            "output": "sauce"
+        },
+        {
+            "instructions": "press biscuits into well greased muffin cups .",
+            "input": "biscuits",
+            "actions": "press",
+            "output": "pressed biscuits"
+        },
+        {
+            "instructions": "spoon 2 tbsp , sauce on each biscuit .",
+            "input": "(sauce; pressed biscuits)",
+            "actions": "spoon",
+            "output": "sauce spooned on pressed biscuits"
+        },
+        {
+            "instructions": "top with mozzarella and 1 slice pepperoni .",
+            "input": "(mozzarella; pepperoni slice; biscuits with sauce)",
+            "actions": "top",
+            "output": "biscuits with sauce topped with mozzarella and pepperoni slice"
+        },
+        {
+            "instructions": "sprinkle with parmesan .",
+            "input": "(uncooked pizza muffin; parmesan)",
+            "actions": "sprinkle",
+            "output": "parmesan sprinkled on uncooked pizza muffin"
+        },
+        {
+            "instructions": "bake at 350 for 10 15 minutes or till golden brown .",
+            "input": "uncooked pizza muffin",
+            "actions": "bake",
+            "output": "baked pizza muffin"
+        }
+    ],
+    "ingredients": [
+        {
+            "text": "1 lb mild pork sausage"
+        },
+        {
+            "text": "14 ounces pizza sauce"
+        },
+        {
+            "text": "2 teaspoons catsup"
+        },
+        {
+            "text": "1 teaspoon garlic powder"
+        },
+        {
+            "text": "2 cans refrigerated biscuits"
+        },
+        {
+            "text": "2 cups mozzarella cheese, shredded"
+        },
+        {
+            "text": "20 pepperoni slices"
+        },
+        {
+            "text": "14 cup parmesan cheese"
+        }
+    ],
+    "recipe": [
+        {
+            "text": "Cook sausage over medium heat, drain."
+        },
+        {
+            "text": "Stir in pizza sauce, catsup, and garlic powder."
+        },
+        {
+            "text": "Set aside."
+        },
+        {
+            "text": "Press biscuits into well greased muffin cups."
+        },
+        {
+            "text": "Spoon 2 Tbsp sauce on each biscuit."
+        },
+        {
+            "text": "Top with mozzarella and 1 slice pepperoni."
+        },
+        {
+            "text": "Sprinkle with parmesan."
+        },
+        {
+            "text": "Bake at 350 for 10-15 minutes or till golden brown."
+        }
+    ]
+}

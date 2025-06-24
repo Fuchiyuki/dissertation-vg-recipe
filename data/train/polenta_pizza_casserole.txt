@@ -1,0 +1,106 @@
+{
+    "title": "polenta_pizza_casserole",
+    "id": "8e37f7b39e",
+    "table": [
+        {
+            "instructions": "preheat oven to 400f lightly grease an 8 inch square baking dish with cooking_spray .",
+            "input": "NA",
+            "action": "preheat",
+            "output": "NA"
+        },
+        {
+            "instructions": "cut the polenta log into 9 slices .",
+            "input": "polenta log",
+            "action": "cut",
+            "output": "cut polenta log in rounds"
+        },
+        {
+            "instructions": "arrange polenta rounds in an even layer in the bottom of the dish .",
+            "input": "polenta rounds",
+            "action": "arrange",
+            "output": "arranged polenta rounds"
+        },
+        {
+            "instructions": "spoon marinara_sauce over the top ,",
+            "input": "(Marinara sauce; arranged polenta rounds)",
+            "action": "spoon",
+            "output": "Polenta rounds topped with marinara sauce"
+        },
+        {
+            "instructions": "scatter with oregano and garlic_salt .",
+            "input": "(Oregano, Garlic salt; Polenta rounds topped with marinara sauce)",
+            "action": "scatter",
+            "output": "Polenta rounds with oregano and garlic salt scattered"
+        },
+        {
+            "instructions": "arrange the peppers and pepperoni over the sauce ,",
+            "input": "(Peppers, Pepperoni; Polenta rounds topped with marinara sauce, oregano and garlic salt )",
+            "action": "arrange",
+            "output": "Polenta rounds topped with marinara sauce, oregano and garlic salt with peppers and pepperoni arranged over the sauce"
+        },
+        {
+            "instructions": "top with the cheese",
+            "input": "(Cheese; Polenta rounds topped with marinara sauce, oregano and garlic salt with peppers and pepperoni arranged over the sauce)",
+            "action": "top",
+            "output": "Polenta rounds topped with marinara sauce, cheese, oregano and garlic salt with peppers and pepperoni arranged over the sauce"
+        },
+        {
+            "instructions": "bake until hot throughout and bubbly , about 35 minutes .",
+            "input": "uncooked polenta_pizza_casserole",
+            "action": "bake",
+            "output": "Baked polenta_pizza_casserole"
+        },
+        {
+            "instructions": "serve hot .",
+            "input": "Baked polenta_pizza_casserole",
+            "action": "serve",
+            "output": "Served hot polenta"
+        }
+    ],
+    "ingredients": [
+        {
+            "text": "nonstick cooking spray"
+        },
+        {
+            "text": "18 ounces prepared polenta (in a roll)"
+        },
+        {
+            "text": "1 cup marinara sauce"
+        },
+        {
+            "text": "dried oregano (to taste)"
+        },
+        {
+            "text": "garlic salt (to taste)"
+        },
+        {
+            "text": "12 cup roasted red pepper, diced"
+        },
+        {
+            "text": "1 12 ounces pepperoni"
+        },
+        {
+            "text": "12 cup mozzarella cheese, shredded"
+        }
+    ],
+    "recipe": [
+        {
+            "text": "Preheat oven to 400F Lightly grease an 8-inch square baking dish with cooking spray."
+        },
+        {
+            "text": "Cut the polenta log into 9 slices."
+        },
+        {
+            "text": "Arrange polenta rounds in an even layer in the bottom of the dish."
+        },
+        {
+            "text": "Spoon marinara sauce over the top, then scatter with oregano and garlic salt."
+        },
+        {
+            "text": "Arrange the peppers and pepperoni over the sauce, then top with the cheese and bake until hot throughout and bubbly, about 35 minutes."
+        },
+        {
+            "text": "Serve hot."
+        }
+    ]
+}

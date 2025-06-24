@@ -1,0 +1,73 @@
+{
+    "title": "pizza_dough_for_4_recipe",
+    "id": "70f228d93a",
+    "table": [
+        {
+            "instructions": "cut butter into flour .",
+            "input": "(butter; flour)",
+            "action": "cut",
+            "output": "butter and flour mixture"
+        },
+        {
+            "instructions": "dissolve yeast in hot_water with sugar .",
+            "input": "(yeast; hot_water; sugar)",
+            "action": "dissolve",
+            "output": "yeast mixture"
+        },
+        {
+            "instructions": "then add in to flour mix",
+            "input": "(yeast mixture; butter and flour mixture)",
+            "action": "add",
+            "output": "dough"
+        },
+        {
+            "instructions": "knead till it reaches an even doughy texture .",
+            "input": "dough",
+            "action": "knead",
+            "output": "kneaded_dough"
+        },
+        {
+            "instructions": "when spreading into the pans , use a little bit of veg .",
+            "input": "kneaded_dough",
+            "action": "use",
+            "output": "spreaded dough into pan"
+        }
+    ],
+    "ingredients": [
+        {
+            "text": "5 c. flour"
+        },
+        {
+            "text": "2 pkg. yeast"
+        },
+        {
+            "text": "1 stick butter"
+        },
+        {
+            "text": "1/4 c. sugar"
+        },
+        {
+            "text": "1 1/2 c. hot water"
+        }
+    ],
+    "recipe": [
+        {
+            "text": "Cut butter into flour."
+        },
+        {
+            "text": "Dissolve yeast in hot water with sugar."
+        },
+        {
+            "text": "Then add in to flour mix and knead till it reaches an even doughy texture."
+        },
+        {
+            "text": "When spreading into the pans, use a little bit of veg."
+        },
+        {
+            "text": "oil to keep dough from sticking."
+        },
+        {
+            "text": "12-inch pizzas."
+        }
+    ]
+}

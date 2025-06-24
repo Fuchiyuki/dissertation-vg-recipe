@@ -1,0 +1,244 @@
+{
+    "title": "oven-roasted_vegetable_and_pesto_pizza",
+    "id": "f3408a366b",
+    "table": [
+        {
+            "instructions": "preheat the oven to 400f .",
+            "input": "NA",
+            "actions": "preheat",
+            "output": "NA"
+        },
+        {
+            "instructions": "prepare the vegetables for the topping of the pizza: cut the eggplant into 12 in chunks",
+            "input": "eggplant",
+            "actions": "prepare",
+            "output": "cut_eggplant_in_pieces"
+        },
+        {
+            "instructions": "sprinkle with salt",
+            "input": "(cut_eggplant_in_pieces; salt)",
+            "actions": "sprinkle",
+            "output": "salted_eggplant_in_pieces"
+        },
+        {
+            "instructions": "leave to drain for 15 minutes .",
+            "input": "salted_eggplant_in_pieces",
+            "actions": "leave",
+            "output": "drained_eggplant_in_pieces"
+        },
+        {
+            "instructions": "rinse to remove the excess salt",
+            "input": "drained_eggplant",
+            "actions": "rinse",
+            "output": "rinsed_eggplant"
+        },
+        {
+            "instructions": "pat dry with kitchen paper towels .",
+            "input": "rinsed_eggplant",
+            "actions": "pat",
+            "output": "eggplant_patted_dry"
+        },
+        {
+            "instructions": "cut the zucchini and red onion into 12 in chunks .",
+            "input": "(zucchini; red onion)",
+            "actions": "cut",
+            "output": "(chopped_zucchini; chopped_red_onion)"
+        },
+        {
+            "instructions": "remove the seeds carefully",
+            "input": "chopped_zucchini",
+            "actions": "remove",
+            "output": "deseeded_chopped_zucchini"
+        },
+        {
+            "instructions": "cut into quarters and then into 12 in chunks .",
+            "input": "vegetables",
+            "actions": "cut",
+            "output": "chopped_vegetables"
+        },
+        {
+            "instructions": "put the vegetables into a bowl",
+            "input": "vegetables",
+            "actions": "put",
+            "output": "vegetables"
+        },
+        {
+            "instructions": "drizzle with oil and freshly ground_black_pepper .",
+            "input": "(vegetables; ground_black_pepper; oil)",
+            "actions": "drizzle",
+            "output": "oiled_and_peppered_vegetables"
+        },
+        {
+            "instructions": "toss to coat .",
+            "input": "oiled_and_peppered_vegetables",
+            "actions": "toss",
+            "output": "tossed_vegetables"
+        },
+        {
+            "instructions": "arrange the vegetables as a single layer on a baking sheet",
+            "input": "tossed_vegetables",
+            "actions": "arrange",
+            "output": "arranged_vegetables"
+        },
+        {
+            "instructions": "roast in the oven for about 40 minutes until golden and crispy .",
+            "input": "arranged_vegetables",
+            "actions": "roast",
+            "output": "roasted_vegetables"
+        },
+        {
+            "instructions": "sprinkle on a little salt towards the end of cooking .",
+            "input": "(roasted_vegetables; salt)",
+            "actions": "sprinkle",
+            "output": "salted_roasted_vegetables"
+        },
+        {
+            "instructions": "make the tomato fondue",
+            "input": "tomato",
+            "actions": "make",
+            "output": "tomato_fondue"
+        },
+        {
+            "instructions": "cook it over a low heat until reduced and concentrated .",
+            "input": "tomato_fondue",
+            "actions": "cook",
+            "output": "reduced_tomato_fondue"
+        },
+        {
+            "instructions": "adjust the seasoning if necessary .",
+            "input": "(seasonings; reduced_fondue)",
+            "actions": "adjust",
+            "output": "seasoned_tomato_fondue"
+        },
+        {
+            "instructions": "follow the recipe for gluten free pizza base .",
+            "input": "gluten free pizza base ingredients",
+            "actions": "follow",
+            "output": "gluten free pizza dough"
+        },
+        {
+            "instructions": "roll out as two rounds",
+            "input": "gluten free pizza dough",
+            "actions": "roll",
+            "output": "rounded_dough"
+        },
+        {
+            "instructions": "bake for 8 minutes .",
+            "input": "pizza base",
+            "actions": "bake",
+            "output": "baked_pizza_crust"
+        },
+        {
+            "instructions": "remove from the oven",
+            "input": "baked_pizza_crust",
+            "actions": "remove",
+            "output": "baked_pizza_crust"
+        },
+        {
+            "instructions": "spread the bases with the concentrated tomato fondue , then the roasted vegetables ,",
+            "input": "(baked_pizza_crust; salted_roasted_vegetables; seasoned_fondue)",
+            "actions": "spread",
+            "output": "baked_pizza_crust topped with seasoned_fondue and salted_roasted_vegetables"
+        },
+        {
+            "instructions": "return to the oven for a further 10 15 minutes until hot , bubbly ,",
+            "input": "uncooked roasted vegetables pizza",
+            "actions": "return",
+            "output": "baked roasted vegetables pizza"
+        },
+        {
+            "instructions": "drizzle with a little pesto .",
+            "input": "(baked roasted vegetables pizza; pesto)",
+            "actions": "drizzle",
+            "output": "pesto drizzled over baked roasted vegetables pizza"
+        },
+        {
+            "instructions": "serve immediately with a good green salad .",
+            "input": "(baked roasted vegetables and pesto pizza; salad)",
+            "actions": "serve",
+            "output": "baked roasted vegetables and pesto pizza served with salad"
+        }
+    ],
+    "ingredients": [
+        {
+            "text": "1 eggplant"
+        },
+        {
+            "text": "Salt and freshly ground black pepper"
+        },
+        {
+            "text": "1 zucchini"
+        },
+        {
+            "text": "1 red onion"
+        },
+        {
+            "text": "1 red bell pepper"
+        },
+        {
+            "text": "1 yellow bell pepper"
+        },
+        {
+            "text": "3 tablespoons extra virgin olive oil"
+        },
+        {
+            "text": "1 quantity tomato fondue"
+        },
+        {
+            "text": "1/2 quantity gluten-free pizza base"
+        },
+        {
+            "text": "1-2 tablespoons gluten-free pesto"
+        }
+    ],
+    "recipe": [
+        {
+            "text": "Preheat the oven to 400F."
+        },
+        {
+            "text": "Prepare the vegetables for the topping of the pizza: cut the eggplant into 1/2-in chunks, sprinkle with salt and leave to drain for 15 minutes."
+        },
+        {
+            "text": "Rinse to remove the excess salt and pat dry with kitchen paper towels."
+        },
+        {
+            "text": "Cut the zucchini and red onion into 1/2-in chunks."
+        },
+        {
+            "text": "Halve the red and yellow bell peppers, remove the seeds carefully, cut into quarters and then into 1/2-in chunks."
+        },
+        {
+            "text": "Put the vegetables into a bowl, drizzle with oil and freshly ground black pepper."
+        },
+        {
+            "text": "Toss to coat."
+        },
+        {
+            "text": "Arrange the vegetables as a single layer on a baking sheet and roast in the oven for about 40 minutes until golden and crispy."
+        },
+        {
+            "text": "Sprinkle on a little salt towards the end of cooking."
+        },
+        {
+            "text": "Make the tomato fondue and cook it over a low heat until reduced and concentrated."
+        },
+        {
+            "text": "Adjust the seasoning if necessary."
+        },
+        {
+            "text": "Follow the recipe for gluten-free pizza base."
+        },
+        {
+            "text": "Roll out as two rounds and bake for 8 minutes."
+        },
+        {
+            "text": "Remove from the oven and spread the bases with the concentrated tomato fondue, then the roasted vegetables, and return to the oven for a further 10-15 minutes until hot, bubbly, and cooked through."
+        },
+        {
+            "text": "Drizzle with a little pesto."
+        },
+        {
+            "text": "Serve immediately with a good green salad."
+        }
+    ]
+}

@@ -1,0 +1,148 @@
+{
+    "title": "kale_butternut_squash_and_bacon_pizza",
+    "id": "62158ebbba",
+    "table": [
+        {
+            "instructions": "heat oven to 425f .",
+            "input": "NA",
+            "action": "heat",
+            "output": "NA"
+        },
+        {
+            "instructions": "combine squash , bacon , onions and garlic in large bowl .",
+            "input": "(squash; bacon; onions; garlic)",
+            "action": "combine",
+            "output": "squash_bacon mixture"
+        },
+        {
+            "instructions": "add 14 cup dressing ;",
+            "input": "(dressing;squash_bacon_mixture)",
+            "action": "add",
+            "output": "squash_bacon_with_dressing_mixture"
+        },
+        {
+            "instructions": "mix lightly .",
+            "input": "squash_bacon_with_dressing_mixture",
+            "action": "mix",
+            "output": "squash_and_bacon_mixture"
+        },
+        {
+            "instructions": "spread onto rimmed baking sheet .",
+            "input": "squash_and_bacon_mixture",
+            "action": "spread",
+            "output": "squash_and_bacon_mixture"
+        },
+        {
+            "instructions": "bake 25 min .",
+            "input": "squash_and_bacon_mixture",
+            "action": "bake",
+            "output": "baked squash_and_bacon_mixture"
+        },
+        {
+            "instructions": "place in large bowl .",
+            "input": "baked squash_and_bacon_mixture",
+            "action": "place",
+            "output": "baked squash_and_bacon_mixture"
+        },
+        {
+            "instructions": "add kale ;",
+            "input": "(squash_and_bacon_mixture;kale)",
+            "action": "add",
+            "output": "squash_bacon_kale_mixture"
+        },
+        {
+            "instructions": "mix lightly .",
+            "input": "squash_bacon_kale_mixture",
+            "action": "mix",
+            "output": "squash_bacon_kale_mixture"
+        },
+        {
+            "instructions": "brush pizza_crust with remaining dressing",
+            "input": "(pizza_crust;dressing)",
+            "action": "brush",
+            "output": "dressed_pizza_crust"
+        },
+        {
+            "instructions": "top with half the cheese , then squash mixture",
+            "input": "(dressed_pizza_crust;cheese;squash_bacon_kale_mixture)",
+            "action": "top",
+            "output": "topped_pizza_crust with squash_bacon_kale_mixture"
+        },
+        {
+            "instructions": "sprinkle with remaining cheese .",
+            "input": "(cheese; topped_pizza_crust with squash_bacon_kale_mixture)",
+            "action": "sprinkle",
+            "output": "uncooked kale_butternut_squash_and_bacon_pizza"
+        },
+        {
+            "instructions": "bake 8 to 10 min .",
+            "input": "uncooked kale_butternut_squash_and_bacon_pizza",
+            "action": "bake",
+            "output": "baked kale_butternut_squash_and_bacon_pizza"
+        }
+    ],
+    "ingredients": [
+        {
+            "text": "2 cups cut-up butternut squash (1/2-inch pieces)"
+        },
+        {
+            "text": "6 slices bacon, cut into 1-inch pieces"
+        },
+        {
+            "text": "3 Tbsp. slivered red onions"
+        },
+        {
+            "text": "4 cloves garlic, minced"
+        },
+        {
+            "text": "1/3 cup Kraft Extra Virgin Olive Oil Italian Sun-Dried Tomato Dressing, divided"
+        },
+        {
+            "text": "2 cups tightly packed chopped stemmed kale leaves"
+        },
+        {
+            "text": "1 ready-to-use baked pizza crust (12 inch)"
+        },
+        {
+            "text": "1-1/2 cups Touch of Philadelphia Shredded Creamy Herb & Garlic Cheese, divided"
+        }
+    ],
+    "recipe": [
+        {
+            "text": "Heat oven to 425F."
+        },
+        {
+            "text": "Combine squash, bacon, onions and garlic in large bowl."
+        },
+        {
+            "text": "Add 1/4 cup dressing; mix lightly."
+        },
+        {
+            "text": "Spread onto rimmed baking sheet."
+        },
+        {
+            "text": "Bake 25 min."
+        },
+        {
+            "text": "or until squash is tender and bacon is crisp, stirring after 15 min."
+        },
+        {
+            "text": "Place in large bowl."
+        },
+        {
+            "text": "Add kale; mix lightly."
+        },
+        {
+            "text": "Brush pizza crust with remaining dressing; top with half the cheese, then squash mixture."
+        },
+        {
+            "text": "Sprinkle with remaining cheese."
+        },
+        {
+            "text": "Bake 8 to 10 min."
+        },
+        {
+            "text": "or until cheese is melted."
+        }
+    ]
+}

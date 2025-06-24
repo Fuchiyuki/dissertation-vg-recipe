@@ -1,0 +1,94 @@
+{
+    "title": "pizza_fingers_meal_with_dipping_sauce",
+    "id": "12b1a3d534",
+    "table": [
+        {
+            "instructions": "preheat oven to 400f measure 13 cup coating mix into shaker bag .",
+            "input": "coating mix",
+            "action": "preheat",
+            "output": "coating mix"
+        },
+        {
+            "instructions": "add cheese and oregano ;",
+            "input": "(cheese; oregano; coating mix)",
+            "action": "add",
+            "output": "coating mixture"
+        },
+        {
+            "instructions": "mix well .",
+            "input": "coating mixture",
+            "action": "mix",
+            "output": "coating mixture"
+        },
+        {
+            "instructions": "coat chicken with coating mixture as directed on package .",
+            "input": "chicken; coating mixture",
+            "action": "coat",
+            "output": "coated_chicken"
+        },
+        {
+            "instructions": "place in foil lined 15x10x1 inch , baking pan .",
+            "input": "coated_chicken",
+            "action": "place",
+            "output": "coated_chicken"
+        },
+        {
+            "instructions": "bake 20 minutes or until chicken is cooked through .",
+            "input": "coated_chicken",
+            "action": "bake",
+            "output": "baked_coated_chicken"
+        },
+        {
+            "instructions": "serve with spaghetti sauce for dipping , mixed_vegetable and breadsticks .",
+            "input": "(spaghetti sauce; mixed_vegetables; breadsticks; baked_coated_chicken)",
+            "action": "serve",
+            "output": "baked_coated_chicken served with spaghetti sauce, mixed vegetables and breadticks"
+        }
+    ],
+    "ingredients": [
+        {
+            "text": "1/3 cup SHAKE 'N BAKE Extra Crispy Seasoned Coating Mix"
+        },
+        {
+            "text": "2 Tbsp. KRAFT Grated Parmesan Cheese"
+        },
+        {
+            "text": "1 Tbsp. dried oregano leaves"
+        },
+        {
+            "text": "4 boneless skinless chicken breasts (1-1/4 lb.), cut lengthwise into thirds"
+        },
+        {
+            "text": "1 jar (14 oz.) CLASSICO FAMILY FAVORITES Traditional Pasta Sauce, warmed"
+        },
+        {
+            "text": "2 cups hot cooked mixed vegetables"
+        },
+        {
+            "text": "8 soft breadsticks"
+        }
+    ],
+    "recipe": [
+        {
+            "text": "Preheat oven to 400F."
+        },
+        {
+            "text": "Measure 1/3 cup coating mix into shaker bag."
+        },
+        {
+            "text": "Add cheese and oregano; mix well."
+        },
+        {
+            "text": "Coat chicken with coating mixture as directed on package."
+        },
+        {
+            "text": "Place in foil-lined 15x10x1-inch baking pan."
+        },
+        {
+            "text": "Bake 20 minutes or until chicken is cooked through."
+        },
+        {
+            "text": "Serve with pasta sauce for dipping, mixed vegetables and breadsticks."
+        }
+    ]
+}

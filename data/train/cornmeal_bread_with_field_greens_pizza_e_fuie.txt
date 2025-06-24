@@ -1,0 +1,199 @@
+{
+    "title": "cornmeal_bread_with_field_greens_pizza_e_fuie",
+    "id": "e479ec6d95",
+    "table": [
+        {
+            "instructions": "preheat the oven to 375 degrees f .",
+            "input": "NA",
+            "action": "preheat",
+            "output": "NA"
+        },
+        {
+            "instructions": "place the cornmeal in a large bowl",
+            "input": "cornmeal",
+            "action": "place",
+            "output": "cornmeal"
+        },
+        {
+            "instructions": "add a pinch of salt .",
+            "input": "(cornmeal; salt)",
+            "action": "add",
+            "output": "salt in cornmeal"
+        },
+        {
+            "instructions": "add enough hot_water to make the mixture , when kneaded",
+            "input": "(hot_water; cornmeal with salt)",
+            "action": "add",
+            "output": "hot water in cornmeal with salt"
+        },
+        {
+            "instructions": "form into a soft dough .",
+            "input": "cornmeal dough",
+            "action": "form",
+            "output": "formed cornmeal dough"
+        },
+        {
+            "instructions": "shape it into a ball ,",
+            "input": "formed cornmeal dough",
+            "action": "shape",
+            "output": "shaped cornmeal dough into a ball"
+        },
+        {
+            "instructions": "pat into a disc 1 14 inches high and 14 inches across .",
+            "input": "shaped cornmeal dough into a ball",
+            "action": "pat",
+            "output": "disc of cornmeal dough"
+        },
+        {
+            "instructions": "place on a lightly oiled pizza\u2012pan",
+            "input": "disc of cornmeal dough",
+            "action": "place",
+            "output": "disc of cornmeal dough"
+        },
+        {
+            "instructions": "bake until golden and crusty but soft in the middle , about 45 minutes .",
+            "input": "disc of cornmeal dough",
+            "action": "bake",
+            "output": "baked cornmeal bread"
+        },
+        {
+            "instructions": "in a large skillet , heat the oil over medium heat",
+            "input": "oil",
+            "action": "heat",
+            "output": "heated oil"
+        },
+        {
+            "instructions": "add the garlic and pepper .",
+            "input": "(heated oil; garlic; pepper)",
+            "action": "add",
+            "output": "garlic and pepper in heated oil"
+        },
+        {
+            "instructions": "cook five minutes , stirring occasionally .",
+            "input": "garlic and pepper in heated oil",
+            "action": "cook",
+            "output": "cooked garlic in oil"
+        },
+        {
+            "instructions": "add the greens and salt , to taste ,",
+            "input": "(greens; salt; cooked garlic in oil)",
+            "action": "add",
+            "output": "greens and salt added to cooked garlic in oil"
+        },
+        {
+            "instructions": "toss to coat .",
+            "input": "greens and salt added to cooked garlic in oil",
+            "action": "toss",
+            "output": "cooking tossed greens in garlic oil"
+        },
+        {
+            "instructions": "cover the pan",
+            "input": "cooking tossed greens in garlic oil",
+            "action": "cover",
+            "output": "cooking tossed greens in garlic oil"
+        },
+        {
+            "instructions": "reduce the heat .",
+            "input": "cooking tossed greens in garlic oil",
+            "action": "reduce",
+            "output": "cooking tossed greens in garlic oil"
+        },
+        {
+            "instructions": "cook for 5 minutes ,",
+            "input": "cooking tossed greens in garlic oil",
+            "action": "cook",
+            "output": "cooking tossed greens in garlic oil"
+        },
+        {
+            "instructions": "remove the cover ,",
+            "input": "cooking tossed greens in garlic oil",
+            "action": "remove",
+            "output": "cooking tossed greens in garlic oil"
+        },
+        {
+            "instructions": "cook over high heat five minutes .",
+            "input": "cooking tossed greens in garlic oil",
+            "action": "cook",
+            "output": "cooking tossed greens in garlic oil"
+        },
+        {
+            "instructions": "add water if necessary to keep the greens from drying out .",
+            "input": "(cooking tossed greens in garlic oil; water)",
+            "action": "add",
+            "output": "water added to cooking tossed greens in garlic oil"
+        },
+        {
+            "instructions": "serve the pizza and greens together .",
+            "input": "(baked cornmeal bread; cooked greens)",
+            "action": "serve",
+            "output": "baked cornmeal bread served with cooked greens"
+        }
+    ],
+    "ingredients": [
+        {
+            "text": "2 cups yellow cornmeal"
+        },
+        {
+            "text": "Salt"
+        },
+        {
+            "text": "1 cup hot water"
+        },
+        {
+            "text": "2 tablespoons extra-virgin olive oil"
+        },
+        {
+            "text": "3 cloves garlic, smashed"
+        },
+        {
+            "text": "1 small dried hot red pepper"
+        },
+        {
+            "text": "1 pound broccoli rabe, coarsely chopped"
+        },
+        {
+            "text": "1 pound escarole, coarsely chopped"
+        },
+        {
+            "text": "1 pound dandelion greens, coarsely chopped"
+        }
+    ],
+    "recipe": [
+        {
+            "text": "Preheat the oven to 375 degrees F."
+        },
+        {
+            "text": "Place the cornmeal in a large bowl and add a pinch of salt."
+        },
+        {
+            "text": "Add enough hot water to make the mixture, when kneaded, form into a soft dough."
+        },
+        {
+            "text": "Shape it into a ball, then pat into a disc 1 1/4-inches high and 14-inches across."
+        },
+        {
+            "text": "Place on a lightly oiled pizza pan and bake until golden and crusty but soft in the middle, about 45 minutes."
+        },
+        {
+            "text": "In a large skillet, heat the oil over medium heat and add the garlic and pepper."
+        },
+        {
+            "text": "Cook five minutes, stirring occasionally."
+        },
+        {
+            "text": "Add the greens and salt, to taste, and toss to coat."
+        },
+        {
+            "text": "Cover the pan and reduce the heat."
+        },
+        {
+            "text": "Cook for 5 minutes, then remove the cover, and cook over high heat five minutes."
+        },
+        {
+            "text": "Add water if necessary to keep the greens from drying out."
+        },
+        {
+            "text": "Serve the \"pizza\" and greens together."
+        }
+    ]
+}

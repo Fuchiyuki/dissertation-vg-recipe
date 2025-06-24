@@ -1,0 +1,136 @@
+{
+    "title": "spinach_and_ricotta_pizza_cooking_light_2",
+    "id": "ebaf3948ff",
+    "table": [
+        {
+            "instructions": "preheat oven to 50",
+            "input": "NA",
+            "action": "preheat",
+            "output": "NA"
+        },
+        {
+            "instructions": "coat a 12 inch perforated pizza\u2012pan with cooking_spray .",
+            "input": "NA",
+            "action": "coat",
+            "output": "NA"
+        },
+        {
+            "instructions": "brush pizza_dough with olive_oil .",
+            "input": "pizza_dough; olive oil",
+            "action": "brush",
+            "output": "brushed_pizza_dough with olive oil"
+        },
+        {
+            "instructions": "spread pizza_sauce evenly over dough , leaving a 14 inch border .",
+            "input": "brushed_pizza_dough with olive oil; pizza sauce",
+            "action": "spread",
+            "output": "Spread pizza sauce over dough crust"
+        },
+        {
+            "instructions": "sprinkle with parmesan .",
+            "input": "Parmesan; pizza dough crust",
+            "action": "sprinkle",
+            "output": "Pizza dough with pizza sauce topped with parmesan"
+        },
+        {
+            "instructions": "top evenly with spinach and garlic .",
+            "input": "Spinach; garlic; Pizza dough with pizza sauce topped with parmesan",
+            "action": "top",
+            "output": "Pizza dough with pizza sauce topped with parmesan, spinach and garlic"
+        },
+        {
+            "instructions": "sprinkle mozzarella evenly over spinach .",
+            "input": "Mozzarella; Pizza dough with pizza sauce topped with parmesan, spinach and garlic",
+            "action": "sprinkle",
+            "output": "Pizza dough with pizza sauce topped with parmesan, spinach, garlic and mozzarella "
+        },
+        {
+            "instructions": "spoon teaspoonfuls of ricotta over mozzarella .",
+            "input": "Teaspoonfuls of ricotta; Pizza dough with pizza sauce topped with parmesan, spinach, garlic and mozzarella ",
+            "action": "spoon",
+            "output": "Pizza dough with pizza sauce topped with parmesan, spinach, garlic, mozzarella and teaspoonful of ricotta over mozzarella"
+        },
+        {
+            "instructions": "bake at 500 for 12 minutes or until mozzarella melts and crust browns .",
+            "input": "Uncooked pinach_and_ricotta_pizza",
+            "action": "bake",
+            "output": "Baked spinach_and_ricotta_pizza"
+        },
+        {
+            "instructions": "top with tomato slices .",
+            "input": "Baked spinach_and_ricotta_pizza; tomato slices",
+            "action": "top",
+            "output": "Baked spinach_and_ricotta_pizza with tomato slices"
+        },
+        {
+            "instructions": "cut into 6 wedges .",
+            "input": "Baked spinach_and_ricotta_pizza with tomato slices",
+            "action": "cut",
+            "output": "cut Baked spinach_and_ricotta_pizza with tomato slices"
+        }
+    ],
+    "ingredients": [
+        {
+            "text": "1 tablespoon extra virgin olive oil"
+        },
+        {
+            "text": "34 cup new york style pizza sauce"
+        },
+        {
+            "text": "2 tablespoons grated fresh parmesan cheese"
+        },
+        {
+            "text": "1 12 cups loosely packed baby spinach leaves"
+        },
+        {
+            "text": "1 teaspoon minced garlic"
+        },
+        {
+            "text": "1 12 cups shredded part-skim mozzarella cheese"
+        },
+        {
+            "text": "13 cup part-skim ricotta cheese"
+        },
+        {
+            "text": "2 plum tomatoes, cored and thinly sliced"
+        },
+        {
+            "text": "pizza crust, of choice"
+        }
+    ],
+    "recipe": [
+        {
+            "text": "Preheat oven to 500."
+        },
+        {
+            "text": "Coat a 12 inch perforated pizza pan with cooking spray."
+        },
+        {
+            "text": "Brush pizza dough with olive oil."
+        },
+        {
+            "text": "Spread pizza sauce evenly over dough, leaving a 1/4 inch border."
+        },
+        {
+            "text": "Sprinkle with Parmesan."
+        },
+        {
+            "text": "Top evenly with spinach and garlic."
+        },
+        {
+            "text": "Sprinkle mozzarella evenly over spinach."
+        },
+        {
+            "text": "Spoon teaspoonfuls of ricotta over mozzarella."
+        },
+        {
+            "text": "Bake at 500 for 12 minutes or until mozzarella melts and crust browns."
+        },
+        {
+            "text": "Let stand 5 minutes; top with tomato slices."
+        },
+        {
+            "text": "Cut into 6 wedges."
+        }
+    ]
+}

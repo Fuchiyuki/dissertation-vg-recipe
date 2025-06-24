@@ -1,0 +1,121 @@
+{
+    "title": "chicken_a_la_pizza_with_parmesan",
+    "id": "007a6c8feb",
+    "table": [
+        {
+            "instructions": "heat oven to 400 degrees f .",
+            "input": "NA",
+            "actions": "heat",
+            "output": "NA"
+        },
+        {
+            "instructions": "pound , chicken_breast to 12 inch thickness .",
+            "input": "chicken_breast",
+            "actions": "pound",
+            "output": "pounded_chicken_breast"
+        },
+        {
+            "instructions": "place chicken in single layer in 13x9 inch , baking pan sprayed with cooking_spray .",
+            "input": "chicken",
+            "actions": "place",
+            "output": "sprayed_pan"
+        },
+        {
+            "instructions": "sprinkle with seasonings and 1 tbsp .",
+            "input": "chicken_in_pan",
+            "actions": "sprinkle",
+            "output": "seasoned_chicken"
+        },
+        {
+            "instructions": "top with pizza_sauce ;",
+            "input": "seasoned_chicken",
+            "actions": "top",
+            "output": "chicken_with_pizza_sauce"
+        },
+        {
+            "instructions": "sprinkle with an additional 1 tbsp .",
+            "input": "chicken_with_pizza_sauce",
+            "actions": "sprinkle",
+            "output": "chicken_with_extra_seasoning"
+        },
+        {
+            "instructions": "bake 20 min .",
+            "input": "chicken_with_extra_seasoning",
+            "actions": "bake",
+            "output": "baked_chicken"
+        },
+        {
+            "instructions": "remove from oven ;",
+            "input": "baked_chicken",
+            "actions": "remove",
+            "output": "chicken_out_of_oven"
+        },
+        {
+            "instructions": "sprinkle evenly with mozzarella_cheese and the remaining parmesan .",
+            "input": "cheese_topped_chicken",
+            "actions": "sprinkle",
+            "output": "cheese_topped_chicken"
+        },
+        {
+            "instructions": "bake 10 min .",
+            "input": "fully_cheesed_chicken",
+            "actions": "bake",
+            "output": "baked_cheese_topped_chicken"
+        }
+    ],
+    "ingredients": [
+        {
+            "text": "6 boneless skinless chicken breasts (1-1/2 lb.)"
+        },
+        {
+            "text": "1/8 tsp. garlic powder"
+        },
+        {
+            "text": "1/8 tsp. pepper"
+        },
+        {
+            "text": "1/4 cup KRAFT Grated Parmesan Cheese, divided"
+        },
+        {
+            "text": "1 cup CLASSICO Traditional Pizza Sauce"
+        },
+        {
+            "text": "1 cup KRAFT Shredded Low-Moisture Part-Skim Mozzarella Cheese"
+        }
+    ],
+    "recipe": [
+        {
+            "text": "Heat oven to 400 degrees F."
+        },
+        {
+            "text": "Pound chicken breasts to 1/2-inch thickness."
+        },
+        {
+            "text": "Place chicken in single layer in 13x9-inch baking pan sprayed with cooking spray."
+        },
+        {
+            "text": "Sprinkle with seasonings and 1 Tbsp."
+        },
+        {
+            "text": "Parmesan."
+        },
+        {
+            "text": "Top with pizza sauce; sprinkle with an additional 1 Tbsp."
+        },
+        {
+            "text": "Parmesan."
+        },
+        {
+            "text": "Bake 20 min."
+        },
+        {
+            "text": "Remove from oven; sprinkle evenly with mozzarella cheese and the remaining Parmesan."
+        },
+        {
+            "text": "Bake 10 min."
+        },
+        {
+            "text": "or until mozzarella cheese is melted and chicken is done (165 degrees F.)"
+        }
+    ]
+}

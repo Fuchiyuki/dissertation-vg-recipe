@@ -1,0 +1,208 @@
+{
+    "title": "speck_and_zucchini_rolled_pizza",
+    "id": "a743d96a77",
+    "table": [
+        {
+            "instructions": "wash",
+            "input": "zucchini",
+            "action": "wash",
+            "output": "washed_zucchini"
+        },
+        {
+            "instructions": "slice zucchini",
+            "input": "washed_zucchini",
+            "action": "slice",
+            "output": "sliced_zucchini"
+        },
+        {
+            "instructions": "leave them dry on a dish towel for one hour approximately .",
+            "input": "sliced_zucchini",
+            "action": "leave",
+            "output": "sliced_zucchini"
+        },
+        {
+            "instructions": "in warm_water a part of total water dissolve the yeast .",
+            "input": "(warm water; yeast)",
+            "action": "dissolve",
+            "output": "yeast_mixture"
+        },
+        {
+            "instructions": "put flour and salt in a big pan .",
+            "input": "(flour; salt)",
+            "action": "put",
+            "output": "combined_flour_and salt"
+        },
+        {
+            "instructions": "pour the yeast and the remaining water",
+            "input": "(yeast; water)",
+            "action": "pour",
+            "output": "dough"
+        },
+        {
+            "instructions": "knead by hand or with dough hook until dough is soft and elastic 10 minutes approx .",
+            "input": "dough",
+            "action": "knead",
+            "output": "kneaded_dough"
+        },
+        {
+            "instructions": "leave covered until double .",
+            "input": "kneaded_dough",
+            "action": "leave",
+            "output": "risen_dough"
+        },
+        {
+            "instructions": "in the meantime put the sliced zucchini in a saucepan with the chopped cherry_tomato and oil on a medium heat .",
+            "input": "(sliced_zucchini; chopped_cherry_tomato; oil)",
+            "action": "put",
+            "output": "zucchini_cherry_tomatoes_and_oil"
+        },
+        {
+            "instructions": "cook until tender",
+            "input": "zucchini_cherry_tomatoes_and_oil",
+            "action": "cook",
+            "output": "cooked_zucchini_and_cherry_tomatoes"
+        },
+        {
+            "instructions": "brown",
+            "input": "cooked_zucchini_and_cherry_tomatoes",
+            "action": "brown",
+            "output": "browned_zucchini_and_cherry_tomatoes"
+        },
+        {
+            "instructions": "salt to taste",
+            "input": "(browned_zucchini_and_cherry_tomatoes; salt)",
+            "action": "salt",
+            "output": "salted_zucchini_and_cherry_tomatoes"
+        },
+        {
+            "instructions": "set aside .",
+            "input": "salted_zucchini_and_cherry_tomatoes",
+            "action": "set",
+            "output": "salted_zucchini_and_cherry_tomatoes"
+        },
+        {
+            "instructions": "split dough into half",
+            "input": "dough",
+            "action": "split",
+            "output": "halved_dough"
+        },
+        {
+            "instructions": "roll out each piece onto a floured surface",
+            "input": "halved_dough",
+            "action": "roll",
+            "output": "rolled_out_dough"
+        },
+        {
+            "instructions": "fill with speck , scamorza and zucchini .",
+            "input": "(speck; scamorza; salted_zucchini_and_cherry_tomatoes; rolled_out_dough)",
+            "action": "fill",
+            "output": "filled_dough with speck , scamorza and salted_zucchini_and_cherry_tomatoes"
+        },
+        {
+            "instructions": "sprinkle with parmesan_cheese",
+            "input": "(filled_dough with speck , scamorza and salted_zucchini_and_cherry_tomatoes; parmesan_cheese)",
+            "action": "sprinkle",
+            "output": "parmesan cheese sprinkled on filled_dough with speck , scamorza and salted_zucchini_and_cherry_tomatoes"
+        },
+        {
+            "instructions": "roll them up .",
+            "input": "filled_dough",
+            "action": "roll",
+            "output": "uncooked speck_and_zucchini_rolled_pizza"
+        },
+        {
+            "instructions": "move the two rolls onto a baking tray oiled",
+            "input": "uncooked speck_and_zucchini_rolled_pizza",
+            "action": "move",
+            "output": "uncooked speck_and_zucchini_rolled_pizza"
+        },
+        {
+            "instructions": "cook at 350f until golden 30 minutes approx .",
+            "input": "uncooked speck_and_zucchini_rolled_pizza",
+            "action": "cook",
+            "output": "baked_speck_and_zucchini_rolled_pizza"
+        },
+        {
+            "instructions": "leave to cool slightly before serving .",
+            "input": "baked_speck_and_zucchini_rolled_pizza",
+            "action": "leave",
+            "output": "cooled baked_speck_and_zucchini_rolled_pizza"
+        }
+    ],
+    "ingredients": [
+        {
+            "text": "500 g bread flour"
+        },
+        {
+            "text": "300 ml water"
+        },
+        {
+            "text": "13 g fresh yeast"
+        },
+        {
+            "text": "13 g salt or 1 teaspoon salt"
+        },
+        {
+            "text": "300 g speck"
+        },
+        {
+            "text": "600 g zucchini"
+        },
+        {
+            "text": "3 tablespoons olive oil"
+        },
+        {
+            "text": "10 cherry tomatoes"
+        },
+        {
+            "text": "500 g mozzarella cheese"
+        },
+        {
+            "text": "4 tablespoons parmesan cheese"
+        }
+    ],
+    "recipe": [
+        {
+            "text": "Wash and slice zucchini and leave them dry on a dish towel for one hour approximately."
+        },
+        {
+            "text": "In warm water (a part of total water) dissolve the yeast."
+        },
+        {
+            "text": "Put flour and salt in a big pan ."
+        },
+        {
+            "text": "Pour the yeast and the remaining water and knead by hand or with dough hook until dough is soft and elastic (10 minutes approx.)."
+        },
+        {
+            "text": "The water required depends on the absorption capacity of flour and the humidity level in the air."
+        },
+        {
+            "text": "You can add more or reduce according to the need."
+        },
+        {
+            "text": "Leave covered until double."
+        },
+        {
+            "text": "In the meantime put the sliced zucchini in a saucepan with the chopped cherry tomatoes and oil on a medium heat."
+        },
+        {
+            "text": "Cook until tender and brown, salt to taste and set aside."
+        },
+        {
+            "text": "Split dough into half and roll out each piece onto a floured surface, fill with speck, scamorza and zucchini."
+        },
+        {
+            "text": "Sprinkle with Parmesan cheese and roll them up."
+        },
+        {
+            "text": "Move the two rolls onto a baking tray (oiled) and cook at 350F until golden (30 minutes approx."
+        },
+        {
+            "text": ").Leave to cool slightly before serving."
+        },
+        {
+            "text": "Enjoy!"
+        }
+    ]
+}

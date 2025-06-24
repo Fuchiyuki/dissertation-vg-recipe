@@ -1,0 +1,88 @@
+{
+    "title": "cheesy_italian_pizza_loaf",
+    "id": "9dc44617d4",
+    "table": [
+        {
+            "instructions": "heat oven to 400 degrees f .",
+            "input": "NA",
+            "action": "heat",
+            "output": "NA"
+        },
+        {
+            "instructions": "combine first 6 ingredients .",
+            "input": "cream cheese; shredded mozzarella; sun dried tomatoes; green onion; milk; italian seasoning",
+            "action": "combine",
+            "output": "cream cheese mixture"
+        },
+        {
+            "instructions": "spread onto cut sides of bread ;",
+            "input": "(bread slice; cream cheese mixture)",
+            "action": "spread",
+            "output": "cream cheese mixture spread on bread slices"
+        },
+        {
+            "instructions": "top with parmesan .",
+            "input": "bread slices with cream cheese mixture; parmesan",
+            "action": "top",
+            "output": "bread slices with cream cheese mixture topped with parmesan"
+        },
+        {
+            "instructions": "place on baking sheet .",
+            "input": "bread slices with cream cheese mixture topped with parmesan",
+            "action": "place",
+            "output": "bread slices with cream cheese mixture topped with parmesan"
+        },
+        {
+            "instructions": "bake 8 to 10 min .",
+            "input": "Uncooked cheesy_italian_pizza_loaf",
+            "action": "bake",
+            "output": "Baked cheesy_italian_pizza_loaf"
+        }
+    ],
+    "ingredients": [
+        {
+            "text": "1/2 cup (1/2 of 8-oz. tub) PHILADELPHIA 1/3 Less Fat than Cream Cheese"
+        },
+        {
+            "text": "1 cup KRAFT Shredded Mozzarella Cheese with a TOUCH OF PHILADELPHIA"
+        },
+        {
+            "text": "1/4 cup chopped drained oil-packed sun-dried tomatoes"
+        },
+        {
+            "text": "1 green onion, sliced"
+        },
+        {
+            "text": "3 Tbsp. milk"
+        },
+        {
+            "text": "1/2 tsp. Italian seasoning"
+        },
+        {
+            "text": "1 French bread baguette, cut crosswise, then lengthwise in half"
+        },
+        {
+            "text": "2 Tbsp. KRAFT Grated Parmesan Cheese"
+        }
+    ],
+    "recipe": [
+        {
+            "text": "Heat oven to 400 degrees F."
+        },
+        {
+            "text": "Combine first 6 ingredients."
+        },
+        {
+            "text": "Spread onto cut sides of bread; top with Parmesan."
+        },
+        {
+            "text": "Place on baking sheet."
+        },
+        {
+            "text": "Bake 8 to 10 min."
+        },
+        {
+            "text": "or until lightly browned."
+        }
+    ]
+}

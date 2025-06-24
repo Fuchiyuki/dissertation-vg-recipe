@@ -1,0 +1,97 @@
+{
+    "title": "simply_pizza_margherita_5fix",
+    "id": "b96be1f5cd",
+    "table": [
+        {
+            "instructions": "preheat oven to 425f .",
+            "input": "NA",
+            "actions": "preheat",
+            "output": "NA"
+        },
+        {
+            "instructions": "in a bowl , combine simply potatoes shredded hash_brown with oil and bacon_bit , mixing well .",
+            "input": "(potatoes shredded hash_brown; bacon_bit; oil)",
+            "actions": "combine",
+            "output": "combined hash_brown and bacon mixture"
+        },
+        {
+            "instructions": "spray pizza\u2012pan with cooking_spray .",
+            "input": "NA",
+            "actions": "spray",
+            "output": "NA"
+        },
+        {
+            "instructions": "press hash_brown into bottom of the pizza dish .",
+            "input": "combined potatoes shredded hash_brown and bacon mixture",
+            "actions": "press",
+            "output": "pressed hash_brown and bacon mixture"
+        },
+        {
+            "instructions": "bake 20 minutes .",
+            "input": "uncooked_hash_brown and bacon mixture crust",
+            "actions": "bake",
+            "output": "cooked_hash_brown and bacon mixture crust"
+        },
+        {
+            "instructions": "spread tomato_sauce on top of potatoes , not quite to the edges .",
+            "input": "(tomato_sauce; hash_brown crust)",
+            "actions": "spread",
+            "output": "tomato_Sauce_spread_on_hash_brown crust"
+        },
+        {
+            "instructions": "arrange the slices of mozzarella on top of the sauce",
+            "input": "(mozzarella; hash brwon crust with tomato sauce)",
+            "actions": "arrange",
+            "output": "hash_Brown_ with tomato sauce topped_with_mozzarella"
+        },
+        {
+            "instructions": "bake 12 15 minutes or until golden .",
+            "input": "unbaked_hash brown pizza margherita",
+            "actions": "bake",
+            "output": "baked_hash brown pizza margherita"
+        }
+    ],
+    "ingredients": [
+        {
+            "text": "1 (20 ounce) package Simply Potatoes Shredded Hash Browns"
+        },
+        {
+            "text": "4 tablespoons olive oil"
+        },
+        {
+            "text": "14 cup bacon bits"
+        },
+        {
+            "text": "14 cup tomato sauce"
+        },
+        {
+            "text": "8 slices mozzarella cheese"
+        }
+    ],
+    "recipe": [
+        {
+            "text": "Preheat oven to 425F."
+        },
+        {
+            "text": "In a bowl, combine Simply Potatoes shredded Hash Browns with oil and bacon bits, mixing well."
+        },
+        {
+            "text": "Spray pizza pan with cooking spray."
+        },
+        {
+            "text": "Press hash browns into bottom of the pizza dish."
+        },
+        {
+            "text": "Bake 20 minutes."
+        },
+        {
+            "text": "Spread tomato sauce on top of potatoes, not quite to the edges."
+        },
+        {
+            "text": "Arrange the slices of mozzarella on top of the sauce and bake 12-15 minutes or until golden."
+        },
+        {
+            "text": "4 servings."
+        }
+    ]
+}

@@ -1,0 +1,142 @@
+{
+    "title": "artichoke_and_mushroom_white_pizza",
+    "id": "fb35afef2a",
+    "table": [
+        {
+            "instructions": "bake the crust for 7 minutes .",
+            "input": "crust",
+            "action": "bake",
+            "output": "baked_crust"
+        },
+        {
+            "instructions": "remove",
+            "input": "baked_crust",
+            "action": "remove",
+            "output": "baked_crust"
+        },
+        {
+            "instructions": "in a medium sized bowl , combine the ricotta_cheese , cream_cheese , pesto , salt and pepper .",
+            "input": "(ricotta cheese; cream cheese; pesto; salt; pepper)",
+            "action": "combine",
+            "output": "pesto and cheese mixture"
+        },
+        {
+            "instructions": "mix well to combine .",
+            "input": "pesto and cheese mixture",
+            "action": "mix",
+            "output": "pesto and cheese mixture"
+        },
+        {
+            "instructions": "set aside .",
+            "input": "pesto and cheese mixture",
+            "action": "set",
+            "output": "pesto and cheese mixture"
+        },
+        {
+            "instructions": "in a large saute pan , heat 2 tablespoons of olive_oil over medium high heat .",
+            "input": "olive oil",
+            "action": "heat",
+            "output": "heated olive oil"
+        },
+        {
+            "instructions": "add the mushrooms",
+            "input": "(heated olive oil; mushrooms)",
+            "action": "add",
+            "output": "Sauteed_mushrooms"
+        },
+        {
+            "instructions": "saute for about 5 minutes , or until golden brown .",
+            "input": "sauteed_mushrooms",
+            "action": "saute",
+            "output": "sauteed_mushrooms"
+        },
+        {
+            "instructions": "spread the prepared cheese mixture over the cooled pizza_crust . Layer the artichoke hearts, mushrooms, Parmesan cheese and mozzarella cheese;",
+            "input": "(cooled pizza_crust; pesto and cheese_mixture; parmesan cheese; sauteed mushrooms; mozzarella cheese)",
+            "action": "spread",
+            "output": "cooled pizza crust with pesto and cheese mixture"
+        },
+        {
+            "instructions": "Layer the artichoke hearts, mushrooms, Parmesan cheese and mozzarella cheese;",
+            "input": "(cooled pizza crust with pesto and cheese mixture; artichoke hearts; parmesan cheese; sauteed mushrooms; mozzarella cheese)",
+            "action": "layer",
+            "output": "cooled pizza crust with pesto and cheese mixture, artichoke hearts, mushrooms, Parmesan cheese and mozzarella cheese "
+        },
+        {
+            "instructions": "bake at 450 for 8 10 minutes or until the cheese is melted and golden brown .",
+            "input": "uncooked artichoke_and_mushroom_white_pizza",
+            "action": "bake",
+            "output": "baked artichoke_and_mushroom_white_pizza"
+        }
+    ],
+    "ingredients": [
+        {
+            "text": "1 package Pillsbury Thin Crust Pizza Crust"
+        },
+        {
+            "text": "8 ounces, weight Part-skim Ricotta Cheese"
+        },
+        {
+            "text": "1 Tablespoon Light Cream Cheese"
+        },
+        {
+            "text": "1- 1/2 Tablespoon Homemade Or Prepared Pesto"
+        },
+        {
+            "text": "1 teaspoon Kosher Salt"
+        },
+        {
+            "text": "1/4 teaspoons Freshly Ground Black Pepper"
+        },
+        {
+            "text": "2 Tablespoons Extra Virgin Olive Oil"
+        },
+        {
+            "text": "16 ounces, weight Mushrooms (domestic Or Exotic)"
+        },
+        {
+            "text": "14 ounces, weight Canned Artichoke Hearts, Drained"
+        },
+        {
+            "text": "1/2 cups Shredded Parmesan Cheese"
+        },
+        {
+            "text": "1/2 cups Shredded Mozzarella Cheese"
+        }
+    ],
+    "recipe": [
+        {
+            "text": "Begin by preparing the pizza crust as indicated on the package."
+        },
+        {
+            "text": "Bake the crust for 7 minutes."
+        },
+        {
+            "text": "Remove and allow to cool while preparing the remaining ingredients."
+        },
+        {
+            "text": "In a medium-sized bowl, combine the ricotta cheese, cream cheese, pesto, salt and pepper."
+        },
+        {
+            "text": "Mix well to combine."
+        },
+        {
+            "text": "Set aside."
+        },
+        {
+            "text": "In a large saute pan, heat 2 Tablespoons of olive oil over medium-high heat."
+        },
+        {
+            "text": "Add the mushrooms and saute for about 5 minutes, or until golden brown."
+        },
+        {
+            "text": "Spread the prepared cheese mixture over the cooled pizza crust."
+        },
+        {
+            "text": "Layer the artichoke hearts, mushrooms, Parmesan cheese and mozzarella cheese."
+        },
+        {
+            "text": "Bake at 450 for 8-10 minutes or until the cheese is melted and golden brown."
+        }
+    ]
+}

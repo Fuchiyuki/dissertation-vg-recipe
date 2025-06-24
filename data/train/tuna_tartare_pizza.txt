@@ -1,0 +1,232 @@
+{
+    "title": "tuna_tartare_pizza",
+    "id": "b2b98dbe64",
+    "table": [
+        {
+            "instructions": "Bring the red wine vinegar to a simmer",
+            "input": "red_wine_vinegar",
+            "action": "bring",
+            "output": "simmering red wine vinegar"
+        },
+        {
+            "instructions": "add the shallot rounds and salt .",
+            "input": "(simmering red wine vinegar; salt; shallot rounds)",
+            "action": "add",
+            "output": "salt and shallot rounds added to simmering red wine vinegar"
+        },
+        {
+            "instructions": "simmer the shallots for a few minutes",
+            "input": "red wine vinegar with shallot rounds",
+            "action": "simmer",
+            "output": "cooked red wine vinegar with shallot rounds"
+        },
+        {
+            "instructions": "then transfer the shallots and the red_wine_vinegar to a bowl",
+            "input": "cooked red wine vinegar with shallot rounds",
+            "action": "transfer",
+            "output": "cooked red wine vinegar with shallot rounds"
+        },
+        {
+            "instructions": "set aside to cool .",
+            "input": "cooked red wine vinegar with shallot rounds",
+            "action": "set",
+            "output": "pickled shallot in red wine vinegar"
+        },
+        {
+            "instructions": "preheat the oven to 450 degrees f .",
+            "input": "NA",
+            "action": "preheat",
+            "output": "NA"
+        },
+        {
+            "instructions": "roll the crust out and into a round .",
+            "input": "crust",
+            "action": "roll",
+            "output": "rolled_crust"
+        },
+        {
+            "instructions": "spread 1 tablespoon of olive_oil on a sheet pan",
+            "input": "NA",
+            "action": "spread",
+            "output": "NA"
+        },
+        {
+            "instructions": "then place the dough over the oil on the sheet pan .",
+            "input": "rolled_crust",
+            "action": "place",
+            "output": "rolled_crust"
+        },
+        {
+            "instructions": "spread 3 tablespoons olive over the crust",
+            "input": "(rolled_crust;olive_oil)",
+            "action": "spread",
+            "output": "oiled_crust"
+        },
+        {
+            "instructions": "sprinkle with kosher_salt .",
+            "input": "(kosher_salt;oiled_crust)",
+            "action": "sprinkle",
+            "output": "salted_crust"
+        },
+        {
+            "instructions": "bake at 450 degrees f for about 10 12 minutes until the crust is a crispy golden brown .",
+            "input": "salted_pizza crust",
+            "action": "bake",
+            "output": "baked pizza crust"
+        },
+        {
+            "instructions": "meanwhile , mix together the creme fraiche , wasabi and 2 tablespoons of chives .",
+            "input": "(creme_fraiche;wasabi;chives)",
+            "action": "mix",
+            "output": "creme_fraiche_mixture"
+        },
+        {
+            "instructions": "when the crust has come out and is still hot , slather the creme fraiche mixture over the crust .",
+            "input": "(creme_fraiche_mixture; baked pizza crust)",
+            "action": "slather",
+            "output": "creme_fraiche_mixture on baked pizza crust"
+        },
+        {
+            "instructions": "Layer the cucumbers, avocado, red pepper, tuna, fresh cilantro and green onion.",
+            "input": "(creme_fraiche_mixture on baked pizza crust; cucumbers, avocado; red pepper; tuna; fresh cilantro; green onion)",
+            "action": "layer",
+            "output": "creme_fraiche_mixture on baked pizza crust topped with cucumbers, avocado, red pepper, tuna, fresh cilantro and green onion"
+        },
+        {
+            "instructions": "sprinkle the remaining 2 tablespoons of chives over the top",
+            "input": "(remaining chives; tuna tartare pizza)",
+            "action": "sprinkle",
+            "output": "remaining chives sprinkled on tuna tartare pizza"
+        },
+        {
+            "instructions": "then add the pickled shallots",
+            "input": "(remaining chives sprinkled on tuna tartare pizza; pickled_shallots)",
+            "action": "add",
+            "output": "tuna tartare pizza_with_pickled_shallots"
+        },
+        {
+            "instructions": "drizzle the last tablespoon of olive_oil over the pizza .",
+            "input": "(olive oil; tuna tartare pizza_with_pickled_shallots)",
+            "action": "drizzle",
+            "output": "olive oil drizzled on tuna tartare pizza_with_pickled_shallots"
+        },
+        {
+            "instructions": "slice",
+            "input": "tuna tartare pizza",
+            "action": "slice",
+            "output": "sliced_tuna tartare pizza"
+        },
+        {
+            "instructions": "serve immediately !",
+            "input": "sliced_tuna tartare pizza",
+            "action": "serve",
+            "output": "served sliced_tuna tartare pizza"
+        }
+    ],
+    "ingredients": [
+        {
+            "text": "1/4 cups Red Wine Vinegar"
+        },
+        {
+            "text": "2 Shallots, Thinly Sliced"
+        },
+        {
+            "text": "1/2 teaspoons Kosher Salt"
+        },
+        {
+            "text": "1 Pizza Crust Dough (I Used Trader Joes)"
+        },
+        {
+            "text": "5 Tablespoons Olive Oil, Divided"
+        },
+        {
+            "text": "Kosher Salt"
+        },
+        {
+            "text": "1/2 cups Creme Fraiche"
+        },
+        {
+            "text": "1/2 teaspoons Wasabi Paste"
+        },
+        {
+            "text": "4 Tablespoons Minced Chives, Divided"
+        },
+        {
+            "text": "13 English Cucumber, Thinly Sliced"
+        },
+        {
+            "text": "1/2 Avocado, Thinly Sliced"
+        },
+        {
+            "text": "1 Red Jalapeno, Thinly Sliced"
+        },
+        {
+            "text": "8 ounces, weight Fresh Raw Ahi Tuna, Thinly Sliced"
+        },
+        {
+            "text": "1/4 cups Fresh Cilantro"
+        },
+        {
+            "text": "1 Green Onion, Thinly Sliced"
+        }
+    ],
+    "recipe": [
+        {
+            "text": "1."
+        },
+        {
+            "text": "Bring the red wine vinegar to a simmer and add the shallot rounds and salt."
+        },
+        {
+            "text": "Simmer the shallots for a few minutes and then transfer the shallots and the red wine vinegar to a bowl and set aside to cool."
+        },
+        {
+            "text": "2."
+        },
+        {
+            "text": "Preheat the oven to 450 degrees F. 3."
+        },
+        {
+            "text": "Roll the crust out and into a round."
+        },
+        {
+            "text": "Spread 1 tablespoon of olive oil on a sheet pan and then place the dough over the oil on the sheet pan."
+        },
+        {
+            "text": "Spread 3 tablespoons olive over the crust and sprinkle with kosher salt."
+        },
+        {
+            "text": "4."
+        },
+        {
+            "text": "Bake at 450 degrees F for about 10-12 minutes until the crust is a crispy golden brown."
+        },
+        {
+            "text": "5."
+        },
+        {
+            "text": "Meanwhile, mix together the creme fraiche, wasabi and 2 tablespoons of chives."
+        },
+        {
+            "text": "(Feel free to add more wasabi if you like.)"
+        },
+        {
+            "text": "6."
+        },
+        {
+            "text": "When the crust has come out and is still hot, slather the creme fraiche mixture over the crust."
+        },
+        {
+            "text": "Layer the cucumbers, avocado, red pepper, tuna, fresh cilantro and green onion."
+        },
+        {
+            "text": "Sprinkle the remaining 2 tablespoons of chives over the top and then add the pickled shallots and drizzle the last tablespoon of olive oil over the pizza."
+        },
+        {
+            "text": "7."
+        },
+        {
+            "text": "Slice and serve immediately!"
+        }
+    ]
+}

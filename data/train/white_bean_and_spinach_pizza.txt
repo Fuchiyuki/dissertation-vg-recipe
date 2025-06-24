@@ -1,0 +1,139 @@
+{
+    "title": "white_bean_and_spinach_pizza",
+    "id": "d644ec98b5",
+    "table": [
+        {
+            "instructions": "heat oven to 42",
+            "input": "NA",
+            "actions": "heat",
+            "output": "NA"
+        },
+        {
+            "instructions": "heat water to boiling .",
+            "input": "water",
+            "actions": "heat",
+            "output": "heated_water"
+        },
+        {
+            "instructions": "in a small bowl , pour enough boiling_water over dried_tomato to cover .",
+            "input": "(boiling_water; dried_tomato)",
+            "actions": "pour",
+            "output": "dried_tomato_in_boiling_water"
+        },
+        {
+            "instructions": "drain .",
+            "input": "dried_tomato_in_boiling_water",
+            "actions": "drain",
+            "output": "drained_dried_tomato"
+        },
+        {
+            "instructions": "cut into thin strips",
+            "input": "drained_dried_tomato",
+            "actions": "cut",
+            "output": "dried_tomato_cut_in_strips"
+        },
+        {
+            "instructions": "set aside .",
+            "input": "dried_tomato_cut_in_strips",
+            "actions": "set",
+            "output": "dried_tomato_cut_in_strips"
+        },
+        {
+            "instructions": "in food processor , place beans and garlic .",
+            "input": "(beans; garlic)",
+            "actions": "place",
+            "output": "(beans; garlic)"
+        },
+        {
+            "instructions": "cover",
+            "input": "",
+            "actions": "cover",
+            "output": "pizza_crust"
+        },
+        {
+            "instructions": "place pizza_crust on ungreased cookie sheet .",
+            "input": "pizza_crust",
+            "actions": "place",
+            "output": "pizza_crust"
+        },
+        {
+            "instructions": "spread beans over pizza_crust .",
+            "input": "(beans_mixture; pizza_crust)",
+            "actions": "spread",
+            "output": "pizza_crust_topped_with_bean_mixture"
+        },
+        {
+            "instructions": "sprinkle with oregano , tomatoes , spinach and cheese .",
+            "input": "(pizza_crust_topped_with_bean_mixture; oregano; tomatoes; spinach; cheese)",
+            "actions": "sprinkle",
+            "output": "pizza_crust_topped_with_bean_mixture_sprinkled with oregano , tomatoes , spinach and cheese"
+        },
+        {
+            "instructions": "bake 8 10 minutes or until cheese is melted .",
+            "input": "uncooked_pizza",
+            "actions": "bake",
+            "output": "cooked_white_bean_and_spinach_pizza"
+        }
+    ],
+    "ingredients": [
+        {
+            "text": "2 cups water"
+        },
+        {
+            "text": "12 cup sun-dried tomato (not oil-packed)"
+        },
+        {
+            "text": "1 (15 1/2 ounce) can great northern beans or 1 (15 1/2 ounce) can navy beans, drained and rinsed"
+        },
+        {
+            "text": "2 medium garlic cloves, finely chopped"
+        },
+        {
+            "text": "1 (14 ounce) packageprebaked original italian pizza crusts (12 inch)"
+        },
+        {
+            "text": "14 teaspoon dried oregano"
+        },
+        {
+            "text": "1 cup spinach leaves, shredded and firmly packed"
+        },
+        {
+            "text": "12 cup colby-monterey jack cheese, blend shredded"
+        }
+    ],
+    "recipe": [
+        {
+            "text": "Heat oven to 425."
+        },
+        {
+            "text": "Heat water to boiling."
+        },
+        {
+            "text": "In a small bowl, pour enough boiling water over dried tomatoes to cover."
+        },
+        {
+            "text": "Let stand 10 minutes; drain."
+        },
+        {
+            "text": "Cut into thin strips and set aside."
+        },
+        {
+            "text": "In food processor, place beans and garlic."
+        },
+        {
+            "text": "Cover and process until smooth."
+        },
+        {
+            "text": "Place pizza crust on ungreased cookie sheet."
+        },
+        {
+            "text": "Spread beans over pizza crust."
+        },
+        {
+            "text": "Sprinkle with oregano, tomatoes, spinach and cheese."
+        },
+        {
+            "text": "Bake 8-10 minutes or until cheese is melted."
+        }
+    ]
+}

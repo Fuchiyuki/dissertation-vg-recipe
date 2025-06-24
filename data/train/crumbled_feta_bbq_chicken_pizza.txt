@@ -1,0 +1,94 @@
+{
+    "title": "crumbled_feta_bbq_chicken_pizza",
+    "id": "e2f280fab6",
+    "table": [
+        {
+            "instructions": "heat oven to 450f .",
+            "input": "NA",
+            "action": "heat",
+            "output": "NA"
+        },
+        {
+            "instructions": "place pizza_crust on baking sheet ;",
+            "input": "pizza_crust",
+            "action": "place",
+            "output": "pizza_crust"
+        },
+        {
+            "instructions": "sprinkle with 12 cup shredded_cheese .",
+            "input": "(pizza_crust; shredded_cheese)",
+            "action": "sprinkle",
+            "output": "cheesy pizza_crust"
+        },
+        {
+            "instructions": "toss chicken with barbecue_sauce ;",
+            "input": "(chicken; barbecue_sauce)",
+            "action": "toss",
+            "output": "barbecue_chicken"
+        },
+        {
+            "instructions": "spoon onto crust .",
+            "input": "(barbecue_chicken; cheesy pizza_crust)",
+            "action": "spoon",
+            "output": "pizza crust topped with barbecue_chicken"
+        },
+        {
+            "instructions": "top with feta , onions and remaining shredded_cheese .",
+            "input": "(feta; onion; remaining shredded_cheese; pizza crust topped with barbecue_chicken)",
+            "action": "top",
+            "output": "pizza crust topped with barbecue_chicken, feta, onions and remaining shredded cheede"
+        },
+        {
+            "instructions": "bake 10 to 12 min .",
+            "input": "uncooked crumbled_feta_bbq_chicken_pizza",
+            "action": "bake",
+            "output": "baked crumbled_feta_bbq_chicken_pizza"
+        }
+    ],
+    "ingredients": [
+        {
+            "text": "1 ready-to-use baked pizza crust (12 inch)"
+        },
+        {
+            "text": "1 cup KRAFT Shredded Italian* Low-Moisture Mozzarella-Parmesan Cheese Blend, divided"
+        },
+        {
+            "text": "1 pkg. (6 oz.) OSCAR MAYER CARVING BOARD Flame Grilled Chicken Breast Strips, coarsely chopped"
+        },
+        {
+            "text": "1/4 cup KRAFT Thick & Spicy Barbecue Sauce"
+        },
+        {
+            "text": "1 pkg. (4 oz.) ATHENOS Traditional Crumbled Feta Cheese"
+        },
+        {
+            "text": "1 small red onion, halved, sliced and separated into rings"
+        }
+    ],
+    "recipe": [
+        {
+            "text": "Heat oven to 450F."
+        },
+        {
+            "text": "Place pizza crust on baking sheet; sprinkle with 1/2 cup shredded cheese."
+        },
+        {
+            "text": "Toss chicken with barbecue sauce; spoon onto crust."
+        },
+        {
+            "text": "Top with feta, onions and remaining shredded cheese."
+        },
+        {
+            "text": "Bake 10 to 12 min."
+        },
+        {
+            "text": "or until shredded cheese is melted and crust is golden brown."
+        },
+        {
+            "text": "Let stand 5 min."
+        },
+        {
+            "text": "before cutting to serve."
+        }
+    ]
+}

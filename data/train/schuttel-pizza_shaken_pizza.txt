@@ -1,0 +1,103 @@
+{
+    "title": "schuttel-pizza_shaken_pizza",
+    "id": "ebd4cd2398",
+    "table": [
+        {
+            "instructions": "in a bowl with a lid whisk together eggs , milk , flour and herbs .",
+            "input": "(eggs; milk; flour; herbs)",
+            "action": "whisk",
+            "output": "whisked batter"
+        },
+        {
+            "instructions": "add all other ingredients",
+            "input": "(diced salami; gouda cheese; chopped mushroom; diced red bell pepper; chopped red onion; whisked batter)",
+            "action": "add",
+            "output": "diced salami, gouda cheese, chopped mushroom, diced red bell pepper and chopped red onion added to whisked batter"
+        },
+        {
+            "instructions": "seal the bowl with a lid and give it a good shake to make sure everything is evenly coated",
+            "input": "batter mixture",
+            "action": "seal",
+            "output": "sealed and shaken batter mixture in bowl"
+        },
+        {
+            "instructions": "pour into a 9x13 in baking pan lined with release foil",
+            "input": "sealed and shaken batter mixture in bowl",
+            "action": "pour",
+            "output": "batter mixture in pan"
+        },
+        {
+            "instructions": "spread evenly",
+            "input": "batter mixture in pan",
+            "action": "spread",
+            "output": "spread batter mixture"
+        },
+        {
+            "instructions": "top with a bit more cheese .",
+            "input": "(cheese; spread batter mixture)",
+            "action": "top",
+            "output": "spread batter mixture topped with cheese"
+        },
+        {
+            "instructions": "bake at 400f200c for about 30 minutes , depending on your oven .",
+            "input": "uncooked shaken pizza",
+            "action": "bake",
+            "output": "baked shaked pizza"
+        }
+    ],
+    "ingredients": [
+        {
+            "text": "1 cup hard salami, diced small"
+        },
+        {
+            "text": "1 cup gouda cheese, shredded or 1 cup colby, shredded, plus"
+        },
+        {
+            "text": "12 cup gouda cheese or 12 cup colby cheese, for topping"
+        },
+        {
+            "text": "1 cup mushroom, chopped (I used canned ones for this)"
+        },
+        {
+            "text": "1 red bell pepper, diced"
+        },
+        {
+            "text": "12 cup red onion, chopped"
+        },
+        {
+            "text": "3 eggs"
+        },
+        {
+            "text": "1 cup milk"
+        },
+        {
+            "text": "34-1 cup flour"
+        },
+        {
+            "text": "2 tablespoons mixed Italian herbs"
+        }
+    ],
+    "recipe": [
+        {
+            "text": "In a bowl (with a lid) whisk together eggs, milk, flour and herbs."
+        },
+        {
+            "text": "Batter will be thin."
+        },
+        {
+            "text": "Add all other ingredients, seal the bowl with a lid and give it a good shake to make sure everything is evenly coated."
+        },
+        {
+            "text": "Kids love doing this."
+        },
+        {
+            "text": "(or you can just stir it all together)."
+        },
+        {
+            "text": "Pour into a 9x13 in baking pan lined with Release foil, spread evenly and top with a bit more cheese."
+        },
+        {
+            "text": "Bake at 400F/200C for about 30 minutes, depending on your oven."
+        }
+    ]
+}

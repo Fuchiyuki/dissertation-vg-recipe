@@ -1,0 +1,88 @@
+{
+    "title": "party_pita_with_pizzazz",
+    "id": "6cb250dd62",
+    "table": [
+        {
+            "instructions": "in a small bowl mix together the cream_cheese with the red monkey zesty italian blend .",
+            "input": "(cream_cheese; italian_blend)",
+            "actions": "mix",
+            "output": "cream_cheese_mixture"
+        },
+        {
+            "instructions": "spread this over the top of your pita_bread .",
+            "input": "(cream_cheese_mixture; pita_bread)",
+            "actions": "spread",
+            "output": "cream_cheese_mixture_spread_over_pita_bread"
+        },
+        {
+            "instructions": "take the cucumber",
+            "input": "cucumber",
+            "actions": "take",
+            "output": "cucumber"
+        },
+        {
+            "instructions": "thinly slice it .",
+            "input": "cucumber",
+            "actions": "slice",
+            "output": "sliced_cucumber"
+        },
+        {
+            "instructions": "place the slices over the layer of cream_cheese .",
+            "input": "(cream_cheese_mixture_spread_over_pita_bread; sliced_cucumber)",
+            "actions": "place",
+            "output": "pita_bread_with_cream_cheese_mixture and sliced cucumber"
+        },
+        {
+            "instructions": "sprinkle red monkey , lemon_pepper ;",
+            "input": "(italian_seasoning; lemon_pepper; pita_bread_with_cream_cheese_mixture and sliced cucumber)",
+            "actions": "sprinkle",
+            "output": "italian_seasoning and lemon_pepper sprinkled over pita_bread with cream cheese mixiture"
+        },
+        {
+            "instructions": "rub lightly over the top",
+            "input": "italian_seasoning and lemon_pepper sprinkled over pita_bread with cream cheese mixiture",
+            "actions": "rub",
+            "output": "italian_seasoning and lemon_pepper sprinkled over pita_bread with cream cheese mixiture"
+        },
+        {
+            "instructions": "serve .",
+            "input": "italian_seasoning and lemon_pepper sprinkled over pita_bread with cream cheese mixiture",
+            "actions": "serve",
+            "output": "italian_seasoning and lemon_pepper sprinkled over pita_bread with cream cheese mixiture"
+        }
+    ],
+    "ingredients": [
+        {
+            "text": "1 (8 ounce) package cream cheese, softened"
+        },
+        {
+            "text": "3 teaspoons red monkey zesty italian seasoning"
+        },
+        {
+            "text": "pita bread or flat bread"
+        },
+        {
+            "text": "1 medium cucumber"
+        },
+        {
+            "text": "1 teaspoon red monkey lemon pepper seasoning"
+        }
+    ],
+    "recipe": [
+        {
+            "text": "In a small bowl mix together the cream cheese with the Red Monkey Zesty Italian Blend."
+        },
+        {
+            "text": "Spread this over the top of your pita bread."
+        },
+        {
+            "text": "Take the cucumber and thinly slice it."
+        },
+        {
+            "text": "Place the slices over the layer of cream cheese."
+        },
+        {
+            "text": "Sprinkle Red Monkey Lemon Pepper Rub lightly over the top and serve."
+        }
+    ]
+}

@@ -1,0 +1,124 @@
+{
+    "title": "aubergine_eggplant_and_potato_pizza",
+    "id": "77777aa3de",
+    "table": [
+        {
+            "instructions": "heat oven to 220c425f .",
+            "input": "NA",
+            "actions": "heat",
+            "output": "NA"
+        },
+        {
+            "instructions": "mix together the potato , aubergine , oil and chilli",
+            "input": "(potato; oil; chilli; aubergine)",
+            "actions": "mix",
+            "output": "potato_mix"
+        },
+        {
+            "instructions": "leave to stand .",
+            "input": "potato_mix",
+            "actions": "leave",
+            "output": "potato_mix"
+        },
+        {
+            "instructions": "make up the pizza bases according to the packet",
+            "input": "pizza_base_packet",
+            "actions": "make",
+            "output": "pizza_base_dough"
+        },
+        {
+            "instructions": "roll into 2x23 cm circles .",
+            "input": "pizza_base_dough",
+            "actions": "roll",
+            "output": "rolled_pizza_base"
+        },
+        {
+            "instructions": "place on baking trays",
+            "input": "rolled_pizza_base",
+            "actions": "place",
+            "output": "rolled_pizza_base"
+        },
+        {
+            "instructions": "top with the potato mix .",
+            "input": "(potato_mix; rolled_pizza_base)",
+            "actions": "top",
+            "output": "rolled_pizza_base_topped_with_potato_mix"
+        },
+        {
+            "instructions": "leave to rise covered for 15 minutes .",
+            "input": "rolled_pizza_base_topped_with_potato_mix",
+            "actions": "leave",
+            "output": "rolled_pizza_base_topped_with_potato_mix"
+        },
+        {
+            "instructions": "bake for 20 mins until crisp and golden .",
+            "input": "uncooked_pizza",
+            "actions": "bake",
+            "output": "baked_pizza"
+        },
+        {
+            "instructions": "cut the pizzas into wedges",
+            "input": "baked_pizza",
+            "actions": "cut",
+            "output": "cut_pizza"
+        },
+        {
+            "instructions": "top with the sour_cream , chilli flakes and coriander .",
+            "input": "(pizza; sour_cream; chili_flake; coriander)",
+            "actions": "top",
+            "output": "aubergine_eggplant_and_potato_pizza_topped_with_sour_cream , chilli flakes and coriander"
+        }
+    ],
+    "ingredients": [
+        {
+            "text": "1 tablespoon cumin seed, lightly crushed"
+        },
+        {
+            "text": "8 tablespoons olive oil"
+        },
+        {
+            "text": "1 red chile, deseeded and chopped"
+        },
+        {
+            "text": "1 large aubergine, sliced thinly"
+        },
+        {
+            "text": "200 g new potatoes, thinly sliced"
+        },
+        {
+            "text": "2 (175 g) pizza crust mix"
+        },
+        {
+            "text": "200 ml sour cream"
+        },
+        {
+            "text": "14 cup fresh coriander, chopped"
+        },
+        {
+            "text": "chili flakes, to serve"
+        }
+    ],
+    "recipe": [
+        {
+            "text": "Heat oven to 220C/425F."
+        },
+        {
+            "text": "Mix together the potato, aubergine, oil and chilli and leave to stand."
+        },
+        {
+            "text": "make up the pizza bases according to the packet and roll into 2x23 cm circles."
+        },
+        {
+            "text": "Place on baking trays and top with the potato mix."
+        },
+        {
+            "text": "Leave to rise covered for 15 minutes."
+        },
+        {
+            "text": "Bake for 20 mins until crisp and golden."
+        },
+        {
+            "text": "Cut the pizzas into wedges and top with the sour cream, chilli flakes and coriander."
+        }
+    ]
+}

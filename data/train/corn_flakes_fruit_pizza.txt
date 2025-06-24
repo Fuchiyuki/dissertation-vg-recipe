@@ -1,0 +1,103 @@
+{
+    "title": "corn_flakes_fruit_pizza",
+    "id": "c3da9b5a1f",
+    "table": [
+        {
+            "instructions": "preheat oven to 350f .",
+            "input": "NA",
+            "action": "preheat",
+            "output": "NA"
+        },
+        {
+            "instructions": "in a bowl combine corn_flake , sugar , margarine , and corn_syrup .",
+            "input": "(corn_flake; sugar; margarine; corn_syrup)",
+            "action": "combine",
+            "output": "cornflake mixture"
+        },
+        {
+            "instructions": "press mixture evenly and firmly in bottom of 12 inch pan .",
+            "input": "cornflake mixture",
+            "action": "press",
+            "output": "pressed cornflake mixture"
+        },
+        {
+            "instructions": "bake for 5 minutes",
+            "input": "uncooked cornflake mixture",
+            "action": "bake",
+            "output": "baked cornflake mixture"
+        },
+        {
+            "instructions": "combine cream_cheese and marshmallow_creme , spread over crust .",
+            "input": "(cream cheese; marshmallow creme; baked cornflake mixture)",
+            "action": "combine",
+            "output": "cornflake crust with cream cheese and marshmallow creme mixture"
+        },
+        {
+            "instructions": "arrange fruit over cream_cheese mixture .",
+            "input": "(fruit; cornflake crust with cream cheese and marshmallow creme mixture)",
+            "action": "arrange",
+            "output": "cornflake crust with cream cheese and marshmallow creme mixture and fruit"
+        },
+        {
+            "instructions": "chill for 1 hour .",
+            "input": "assembled corn_flakes_fruit_pizza",
+            "action": "chill",
+            "output": "chilled corn_flakes_fruit_pizza"
+        },
+        {
+            "instructions": "cut into slices .",
+            "input": "chilled corn_flakes_fruit_pizza",
+            "action": "cut",
+            "output": "sliced chilled corn_flakes_fruit_pizza"
+        }
+    ],
+    "ingredients": [
+        {
+            "text": "4 cups corn flakes, crushed to 1 cup"
+        },
+        {
+            "text": "2 tablespoons sugar"
+        },
+        {
+            "text": "2 tablespoons margarine, softened"
+        },
+        {
+            "text": "2 tablespoons light corn syrup"
+        },
+        {
+            "text": "2 (8 ounce) packages light cream cheese, softened"
+        },
+        {
+            "text": "1 (7 ounce) jar marshmallow creme"
+        },
+        {
+            "text": "3 cups sliced fruit"
+        }
+    ],
+    "recipe": [
+        {
+            "text": "Preheat oven to 350F."
+        },
+        {
+            "text": "In a bowl combine corn flakes, sugar, margarine, and corn syrup."
+        },
+        {
+            "text": "Press mixture evenly and firmly in bottom of 12-inch pan."
+        },
+        {
+            "text": "Bake for 5 minutes, cool completely."
+        },
+        {
+            "text": "Combine cream cheese and marshmallow creme, spread over crust."
+        },
+        {
+            "text": "Arrange fruit over cream cheese mixture."
+        },
+        {
+            "text": "Chill for 1 hour."
+        },
+        {
+            "text": "Cut into slices."
+        }
+    ]
+}

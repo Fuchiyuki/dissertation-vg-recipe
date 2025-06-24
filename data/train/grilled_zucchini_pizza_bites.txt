@@ -1,0 +1,142 @@
+{
+    "title": "grilled_zucchini_pizza_bites",
+    "id": "2b0edc58c2",
+    "table": [
+        {
+            "instructions": "line a rimmed baking sheet with aluminum foil",
+            "input": "NA",
+            "action": "line",
+            "output": "NA"
+        },
+        {
+            "instructions": "adjust an oven rack to the upper middle position ,",
+            "input": "NA",
+            "action": "adjust",
+            "output": "NA"
+        },
+        {
+            "instructions": "preheat the broiler to high .",
+            "input": "NA",
+            "action": "preheat",
+            "output": "NA"
+        },
+        {
+            "instructions": "trim the ends from the zucchini",
+            "input": "zucchini",
+            "action": "trim",
+            "output": "trimmed ends from zucchini"
+        },
+        {
+            "instructions": "heat the olive_oil in a large nonstick skillet ;",
+            "input": "olive_oil",
+            "action": "heat",
+            "output": "heated_olive_oil"
+        },
+        {
+            "instructions": "set over medium high heat .",
+            "input": "heated_olive_oil",
+            "action": "set",
+            "output": "heated_olive_oil"
+        },
+        {
+            "instructions": "add the zucchini",
+            "input": "(Zucchini without endss; heated_olive_oil)",
+            "action": "add",
+            "output": "zucchini in heated_olive_oil"
+        },
+        {
+            "instructions": "cook until browned on one side in batches , if needed , 4 to 5 minutes .",
+            "input": "zucchini in heated_olive_oil",
+            "action": "cook",
+            "output": "cooked zucchini"
+        },
+        {
+            "instructions": "transfer the zucchini to the baking sheet , browned side up .",
+            "input": "cooked zucchini",
+            "action": "transfer",
+            "output": "cooked zucchini on baking sheet"
+        },
+        {
+            "instructions": "top each zucchini round with 12 teaspoon of the marinara_sauce , a pepperoni_slice if using , and a piece of mozzarella .",
+            "input": "(marinara_sauce, pepperoni_slice, mozzarella; cooked zucchini on baking sheet)",
+            "action": "top",
+            "output": "topped Zucchini with marinara_sauce,pepperoni_slice,piece of mozzarella"
+        },
+        {
+            "instructions": "remove the zucchini from the oven",
+            "input": "uncooked grilled_zucchini_pizza_bites",
+            "action": "remove",
+            "output": "baked grilled_zucchini_pizza_bites"
+        },
+        {
+            "instructions": "transfer to a platter .",
+            "input": "baked grilled_zucchini_pizza_bites",
+            "action": "transfer",
+            "output": "baked grilled_zucchini_pizza_bites"
+        },
+        {
+            "instructions": "sprinkle with the salt",
+            "input": "(salt; baked grilled_zucchini_pizza_bites)",
+            "action": "sprinkle",
+            "output": "baked grilled_zucchini_pizza_bites with sprinkled salt"
+        },
+        {
+            "instructions": "serve warm .",
+            "input": "baked grilled_zucchini_pizza_bites",
+            "action": "serve",
+            "output": "ready to serve baked grilled_zucchini_pizza_bites"
+        }
+    ],
+    "ingredients": [
+        {
+            "text": "2 medium zucchini"
+        },
+        {
+            "text": "2 teaspoons olive oil"
+        },
+        {
+            "text": "1/4 cup homemade or store-bought marinara sauce"
+        },
+        {
+            "text": "24 pieces of thinly sliced low-fat pepperoni (optional)"
+        },
+        {
+            "text": "4 ounces fresh mozzarella cheese, cut into 24 pieces"
+        },
+        {
+            "text": "1/2 teaspoon kosher salt"
+        }
+    ],
+    "recipe": [
+        {
+            "text": "Line a rimmed baking sheet with aluminum foil, adjust an oven rack to the upper-middle position, and preheat the broiler to high."
+        },
+        {
+            "text": "Trim the ends from the zucchini and slice each zucchini crosswise into 1/2- to 3/4-inch rounds (you should get about 24 rounds)."
+        },
+        {
+            "text": "Heat the olive oil in a large nonstick skillet set over medium-high heat."
+        },
+        {
+            "text": "Add the zucchini and cook until browned on one side (in batches, if needed), 4 to 5 minutes."
+        },
+        {
+            "text": "Transfer the zucchini to the baking sheet, browned side up."
+        },
+        {
+            "text": "Top each zucchini round with 1/2 teaspoon of the marinara sauce, a pepperoni slice (if using), and a piece of mozzarella."
+        },
+        {
+            "text": "Broil the zucchini until the cheese is melted, 2 to 3 minutes (watch the pizza bites closely, as broiler intensities vary)."
+        },
+        {
+            "text": "Remove the zucchini from the oven and transfer to a platter."
+        },
+        {
+            "text": "Sprinkle with the salt and serve warm."
+        },
+        {
+            "text": "Per serving: Calories 192; Total Fat 5g; Protein 9g; Dietary Fiber 1g; Sugars 2g"
+        }
+    ]
+}

@@ -1,0 +1,154 @@
+{
+    "title": "chorizo_supreme_pizza",
+    "id": "cf4c3cb8fe",
+    "table": [
+        {
+            "instructions": "heat oven to 425 degrees f .",
+            "input": "NA",
+            "actions": "heat",
+            "output": "NA"
+        },
+        {
+            "instructions": "cook chorizo in large skillet on medium heat 5 to 7 min .",
+            "input": "chorizo",
+            "actions": "cook",
+            "output": "cooked_chorizo"
+        },
+        {
+            "instructions": "drain .",
+            "input": "cooked_chorizo",
+            "actions": "drain",
+            "output": "drained_chorizo"
+        },
+        {
+            "instructions": "add red_pepper and onions",
+            "input": "drained_chorizo, red_pepper, onions",
+            "actions": "add",
+            "output": "chorizo_red_pepper_onion_mixture"
+        },
+        {
+            "instructions": "cook 3 min .",
+            "input": "chorizo_red_pepper_onion_mixture",
+            "actions": "cook",
+            "output": "cooked_mixture"
+        },
+        {
+            "instructions": "stir in mushrooms and jalapeno peppers ;",
+            "input": "cooked_mixture, mushrooms, jalapeno_peppers",
+            "actions": "stir",
+            "output": "mushroom_jalapeno_mixture"
+        },
+        {
+            "instructions": "cook 4 to 5 min .",
+            "input": "mushroom_jalapeno_mixture",
+            "actions": "cook",
+            "output": "cooked_mushroom_jalapeno_mixture"
+        },
+        {
+            "instructions": "place pizza_crust on baking sheet ;",
+            "input": "NA",
+            "actions": "place",
+            "output": "pizza_crust_placed"
+        },
+        {
+            "instructions": "brush edge with oil .",
+            "input": "pizza_crust_placed",
+            "actions": "brush",
+            "output": "brushed_pizza_crust"
+        },
+        {
+            "instructions": "spread crust with sauce ;",
+            "input": "oiled_pizza_crust",
+            "actions": "spread",
+            "output": "sauce_spread_pizza_crust"
+        },
+        {
+            "instructions": "top with 34 cup , cheese , chorizo mixture , tomatoes and remaining cheese .",
+            "input": "sauce_spread_pizza_crust, cheese, cooked_chorizo, tomatoes",
+            "actions": "top",
+            "output": "topped_pizza_crust"
+        },
+        {
+            "instructions": "bake 12 to 14 min .",
+            "input": "topped_pizza_crust",
+            "actions": "bake",
+            "output": "baked_pizza"
+        },
+        {
+            "instructions": "sprinkle with cilantro .",
+            "input": "baked_pizza",
+            "actions": "sprinkle",
+            "output": "pizza_with_cilantro"
+        }
+    ],
+    "ingredients": [
+        {
+            "text": "1/2 lb. Mexican chorizo, crumbled"
+        },
+        {
+            "text": "1/2 red pepper, cut into thin strips"
+        },
+        {
+            "text": "1/2 onion, thinly sliced King Sooper's 1 lb For $0.99 thru 02/09"
+        },
+        {
+            "text": "1-1/2 cups sliced fresh mushrooms"
+        },
+        {
+            "text": "1 fresh jalapeno pepper, seeded, sliced"
+        },
+        {
+            "text": "1 ready-to-use baked pizza crust (12 inch)"
+        },
+        {
+            "text": "1/2 tsp. olive oil"
+        },
+        {
+            "text": "1 cup CLASSICO Traditional Pizza Sauce"
+        },
+        {
+            "text": "1-1/2 cups KRAFT Mexican Style Finely Shredded Four Cheese"
+        },
+        {
+            "text": "1 plum tomato, thinly sliced King Sooper's 1 lb For $0.99 thru 02/09"
+        },
+        {
+            "text": "1 Tbsp. chopped cilantro"
+        }
+    ],
+    "recipe": [
+        {
+            "text": "Heat oven to 425 degrees F."
+        },
+        {
+            "text": "Cook chorizo in large skillet on medium heat 5 to 7 min."
+        },
+        {
+            "text": "or until done, stirring occasionally; drain."
+        },
+        {
+            "text": "Add red peppers and onions; cook 3 min., stirring occasionally."
+        },
+        {
+            "text": "Stir in mushrooms and jalapeno peppers; cook 4 to 5 min."
+        },
+        {
+            "text": "or until mushrooms are tender."
+        },
+        {
+            "text": "Place pizza crust on baking sheet; brush edge with oil."
+        },
+        {
+            "text": "Spread crust with sauce; top with 3/4 cup cheese, chorizo mixture, tomatoes and remaining cheese."
+        },
+        {
+            "text": "Bake 12 to 14 min."
+        },
+        {
+            "text": "or until crust is golden brown and cheese is melted."
+        },
+        {
+            "text": "Sprinkle with cilantro."
+        }
+    ]
+}

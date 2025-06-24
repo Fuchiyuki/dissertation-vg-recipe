@@ -1,0 +1,106 @@
+{
+    "title": "tasty_thai_chicken_pizza",
+    "id": "432edf9ae4",
+    "table": [
+        {
+            "instructions": "preheat oven to 400 degrees .",
+            "input": "NA",
+            "action": "preheat",
+            "output": "NA"
+        },
+        {
+            "instructions": "prepare pizza_dough according to package directions or use your favorite homemade recipe .",
+            "input": "pizza_dough package",
+            "action": "prepare",
+            "output": "prepared_pizza_dough"
+        },
+        {
+            "instructions": "pour olive_oil over shredded chicken",
+            "input": "(olive_oil; shredded chicken)",
+            "action": "pour",
+            "output": "olive oil poured on Shredded chicken"
+        },
+        {
+            "instructions": "sprinkle with curry_powder .",
+            "input": "(olive oil poured on Shredded chicken; curry_powder)",
+            "action": "sprinkle",
+            "output": "curry powder sprinkled on shredded chicken with oil "
+        },
+        {
+            "instructions": "mix until all chicken is coated .",
+            "input": "curry seasoned shredded chicken",
+            "action": "mix",
+            "output": "well mixed curry seasoned shredded chicken"
+        },
+        {
+            "instructions": "spread pizza_sauce evenly over pizza .",
+            "input": "(Pizza_sauce; pizza crust)",
+            "action": "spread",
+            "output": "Sauced pizza crust"
+        },
+        {
+            "instructions": "spread cheese over pizza , followed by the seasoned chicken , red onion , bell_pepper and cilantro .",
+            "input": "(Sauced pizza crust; cheese; chicken; red onion; bell_pepper; cilantro)",
+            "action": "spread",
+            "output": "Sauced pizza crust topped with cheese, seasoned chicken , red onion , bell_pepper and cilantro"
+        },
+        {
+            "instructions": "bake in oven for 12 15 min or until crust is golden brown",
+            "input": "uncooked curry chicken pizza",
+            "action": "bake",
+            "output": "baked curry chicken pizza"
+        }
+    ],
+    "ingredients": [
+        {
+            "text": "1 pizza dough mix (we use the Great Value mix)"
+        },
+        {
+            "text": "2 cups chicken, shredded"
+        },
+        {
+            "text": "12 cup bell pepper, diced"
+        },
+        {
+            "text": "12 cup red onion, diced"
+        },
+        {
+            "text": "14 cup cilantro, chopped"
+        },
+        {
+            "text": "12 cup pizza sauce"
+        },
+        {
+            "text": "2 cups mozzarella cheese"
+        },
+        {
+            "text": "1 teaspoon curry"
+        },
+        {
+            "text": "1 teaspoon olive oil"
+        }
+    ],
+    "recipe": [
+        {
+            "text": "Preheat oven to 400 degrees."
+        },
+        {
+            "text": "Prepare pizza dough according to package directions (or use your favorite homemade recipe)."
+        },
+        {
+            "text": "Pour olive oil over shredded chicken and sprinkle with curry powder."
+        },
+        {
+            "text": "Mix until all chicken is coated."
+        },
+        {
+            "text": "Spread pizza sauce evenly over pizza."
+        },
+        {
+            "text": "Spread cheese over pizza, followed by the seasoned chicken, red onion, bell pepper and cilantro."
+        },
+        {
+            "text": "Bake in oven for 12-15 min or until crust is golden brown and cooked through."
+        }
+    ]
+}

@@ -1,0 +1,133 @@
+{
+    "title": "spring_appetizer_pizza",
+    "id": "4f08cdb7cb",
+    "table": [
+        {
+            "instructions": "preheat oven to 35",
+            "input": "NA",
+            "actions": "preheat",
+            "output": "NA"
+        },
+        {
+            "instructions": "unroll crescent_roll dough ;",
+            "input": "crescent_roll dough",
+            "actions": "unroll",
+            "output": "unrolled_crescent_roll_dough"
+        },
+        {
+            "instructions": "separate into 8 triangles .",
+            "input": "unrolled_crescent_roll_dough",
+            "actions": "separate",
+            "output": "separated crescent_roll_dough in triangles"
+        },
+        {
+            "instructions": "arrange triangles in a circle with points in the cnter .",
+            "input": "crescent roll dough triangles",
+            "actions": "arrange",
+            "output": "crescent roll dough triangles"
+        },
+        {
+            "instructions": "roll out dough into a 12 inch circle .",
+            "input": "crescent roll dough triangles",
+            "actions": "roll",
+            "output": "rolled_crescent roll dough in circles"
+        },
+        {
+            "instructions": "bake 14 17 minutes .",
+            "input": "rolled_crescent roll dough in circles",
+            "actions": "bake",
+            "output": "baked crusts"
+        },
+        {
+            "instructions": "in small bowl , combine cream_cheese , mayo , garlic , and lemon_pepper .",
+            "input": "(cream_cheese; mayo; garlic; lemon_pepper)",
+            "actions": "combine",
+            "output": "cream_cheese_mixture"
+        },
+        {
+            "instructions": "spread evenly over crust .",
+            "input": "(baked crusts; cream_cheese_mixture)",
+            "actions": "spread",
+            "output": "cream_cheese_topped_crust"
+        },
+        {
+            "instructions": "top pizza with ham and vegetables .",
+            "input": "(cream_cheese_topped_crust;ham;vegetables)",
+            "actions": "top",
+            "output": "ham_and_veggie_pizza"
+        },
+        {
+            "instructions": "cut into squares .",
+            "input": "ham_and_veggie_pizza",
+            "actions": "cut",
+            "output": "cut ham_and_veggie_pizza"
+        }
+    ],
+    "ingredients": [
+        {
+            "text": "8 ounces refrigerated crescent dinner rolls"
+        },
+        {
+            "text": "8 ounces cream cheese"
+        },
+        {
+            "text": "2 tablespoons mayonnaise"
+        },
+        {
+            "text": "1 small garlic clove"
+        },
+        {
+            "text": "1 teaspoon lemon pepper"
+        },
+        {
+            "text": "4 ounces ham, cut into thin pieces"
+        },
+        {
+            "text": "34 cup chopped broccoli"
+        },
+        {
+            "text": "12 cup cucumber, slices quartered"
+        },
+        {
+            "text": "13 cup chopped yellow bell pepper"
+        },
+        {
+            "text": "18 small red onion, cut into thin wedges"
+        }
+    ],
+    "recipe": [
+        {
+            "text": "Preheat oven to 350."
+        },
+        {
+            "text": "Unroll crescent roll dough; separate into 8 triangles."
+        },
+        {
+            "text": "Arrange triangles in a circle with points in the cnter."
+        },
+        {
+            "text": "Roll out dough into a 12 inch circle."
+        },
+        {
+            "text": "Bake 14-17 minutes."
+        },
+        {
+            "text": "Cool completely."
+        },
+        {
+            "text": "In small bowl, combine cream cheese, mayo, garlic, and lemon pepper."
+        },
+        {
+            "text": "Spread evenly over crust."
+        },
+        {
+            "text": "Top pizza with ham and vegetables."
+        },
+        {
+            "text": "Cool."
+        },
+        {
+            "text": "Cut into squares."
+        }
+    ]
+}

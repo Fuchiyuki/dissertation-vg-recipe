@@ -1,0 +1,118 @@
+{
+    "title": "sunny_side_up_pizza",
+    "id": "1457d20dc9",
+    "table": [
+        {
+            "instructions": "preheat oven to 475f .",
+            "input": "NA",
+            "action": "preheat",
+            "output": "NA"
+        },
+        {
+            "instructions": "coarsely chop the spinach",
+            "input": "spinach",
+            "action": "chop",
+            "output": "chopped_spinach"
+        },
+        {
+            "instructions": "steam 3 to 5 minutes until wilted .",
+            "input": "chopped_spinach",
+            "action": "steam",
+            "output": "steamed_chopped_spinach"
+        },
+        {
+            "instructions": "set aside until cool enough to handle .",
+            "input": "steamed_chopped_spinach",
+            "action": "set",
+            "output": "steamed_chopped_spinach"
+        },
+        {
+            "instructions": "on a floured surface , roll out the pizza_dough into desired size",
+            "input": "pizza_dough",
+            "action": "roll",
+            "output": "flattened_pizza_dough"
+        },
+        {
+            "instructions": "place on a pizza\u2012screen or baking sheet dusted with cornmeal .",
+            "input": "NA",
+            "action": "place",
+            "output": "NA"
+        },
+        {
+            "instructions": "turn the outer edge under 12 inch to form a rim .",
+            "input": "flattened_pizza_dough",
+            "action": "turn",
+            "output": "pizza_crust"
+        },
+        {
+            "instructions": "brush the crust with olive_oil .",
+            "input": "(olive_oil; pizza crust)",
+            "action": "brush",
+            "output": "oiled_pizza_crust"
+        },
+        {
+            "instructions": "cover the pizza with spinach",
+            "input": "(steamed_chopped_spinach; oiled_pizza_crust)",
+            "action": "cover",
+            "output": "oiled_pizza_crust with steamed_chopped_spinach"
+        },
+        {
+            "instructions": "top with feta_cheese , artichokes and olives .",
+            "input": "(feta_cheese; artichokes; olives; oiled_pizza_crust with steamed_chopped_spinach)",
+            "action": "top",
+            "output": "oiled_pizza_crust with steamed_chopped_spinach, feta cheese, artichokes and olives"
+        },
+        {
+            "instructions": "bake until the cheese melts and the crust turns golden brown , about 8 minutes .",
+            "input": "uncooked feta_cheese_artichokes_olives_spinach_pizza",
+            "action": "bake",
+            "output": "baked feta_cheese_artichokes_olives_spinach_pizza"
+        }
+    ],
+    "ingredients": [
+        {
+            "text": "1 pizza dough (10-inch)"
+        },
+        {
+            "text": "12 lb fresh spinach, washed and trimmed"
+        },
+        {
+            "text": "2 teaspoons olive oil"
+        },
+        {
+            "text": "14 lb feta cheese"
+        },
+        {
+            "text": "6 artichoke hearts in brine, drained and quartered"
+        },
+        {
+            "text": "13 cup pitted Greek olives or 13 cup ripe california olive"
+        }
+    ],
+    "recipe": [
+        {
+            "text": "Preheat oven to 475F."
+        },
+        {
+            "text": "Coarsely chop the spinach and steam 3 to 5 minutes until wilted."
+        },
+        {
+            "text": "Set aside until cool enough to handle."
+        },
+        {
+            "text": "On a floured surface, roll out the pizza dough into desired size and place on a pizza screen or baking sheet dusted with cornmeal."
+        },
+        {
+            "text": "Turn the outer edge under 1/2 inch to form a rim."
+        },
+        {
+            "text": "Brush the crust with olive oil."
+        },
+        {
+            "text": "Cover the pizza with spinach and top with feta cheese, artichokes and olives."
+        },
+        {
+            "text": "Bake until the cheese melts and the crust turns golden brown, about 8 minutes."
+        }
+    ]
+}

@@ -1,0 +1,148 @@
+{
+    "title": "vegetable_breakfast_pizza",
+    "id": "4c9c873b94",
+    "table": [
+        {
+            "instructions": "spray a large skillet with cooking_spray ;",
+            "input": "NA",
+            "actions": "spray",
+            "output": "NA"
+        },
+        {
+            "instructions": "preheat skillet over medium heat .",
+            "input": "NA",
+            "actions": "preheat",
+            "output": "NA"
+        },
+        {
+            "instructions": "add in potatoes , mushrooms , carrot , zucchini , and onion season with salt and pepper ;",
+            "input": "(potatoes; mushrooms; carrot; zucchini; pepper; onion)",
+            "actions": "add",
+            "output": "vegetable mixture"
+        },
+        {
+            "instructions": "season with salt and pepper ;",
+            "input": "(salt; pepper; vegetable mixture)",
+            "actions": "add",
+            "output": "seasoned vegetable mixture"
+        },
+        {
+            "instructions": "cook stir 3 minutes or until vegetables are tender .",
+            "input": "seasoned vegetable mixture",
+            "actions": "cook",
+            "output": "cooked_vegetable mixture"
+        },
+        {
+            "instructions": "in a bowl , stir together eggs and milk ;",
+            "input": "(eggs; milk)",
+            "actions": "stir",
+            "output": "egg mixture"
+        },
+        {
+            "instructions": "pour over vegetables .",
+            "input": "(egg mixture; cooked_vegetable mixture)",
+            "actions": "pour",
+            "output": "eggs and milk mixture poured over cooked vegetables"
+        },
+        {
+            "instructions": "cook , without stirring , until the mixture begins to set on the bottom and around the edge .",
+            "input": "egg and vegetable mixture",
+            "actions": "cook",
+            "output": "cooked vegetable omelette"
+        },
+        {
+            "instructions": "using a spatula or large spoon , lift",
+            "input": "cooked vegetable omelette",
+            "actions": "lift",
+            "output": "lifted_vegetable omelette"
+        },
+        {
+            "instructions": "fold the partially cooked egg mixture so the uncooked portion flows underneath .",
+            "input": "lifted_vegetable omelette",
+            "actions": "fold",
+            "output": "folded_omelette"
+        },
+        {
+            "instructions": "remove from heat .",
+            "input": "folded_omelette",
+            "actions": "remove",
+            "output": "folded_omelette"
+        },
+        {
+            "instructions": "sprinkle with half of the cheese ;",
+            "input": "(cheese; folded_omelette)",
+            "actions": "sprinkle",
+            "output": "cheese_spread_on_folded_omlette"
+        },
+        {
+            "instructions": "top with egg mixture , tomato , and remaining cheese .",
+            "input": "(cheese_spread_on_folded_omlette; tomato; remaining cheese)",
+            "actions": "top",
+            "output": "(omelette topped with egg mixture; tomato and remaining cheese)"
+        },
+        {
+            "instructions": "bake in a preheated 375 oven for 8 10 minutes or until cheese is melted .",
+            "input": "vegetable breakfast pizza",
+            "actions": "bake",
+            "output": "baked vegetable breakfast pizza"
+        }
+    ],
+    "ingredients": [
+        {
+            "text": "1 12 cups loose-pack frozen hash brown potatoes, thawed (or frozen country-style hash brown potatoes with skin, thawed)"
+        },
+        {
+            "text": "1 cup sliced fresh mushrooms"
+        },
+        {
+            "text": "12 cup shredded carrot"
+        },
+        {
+            "text": "12 cup shredded zucchini"
+        },
+        {
+            "text": "14 cup chopped onion"
+        },
+        {
+            "text": "4 eggs (or 1 cup refrigerated egg product such as Egg Beaters)"
+        },
+        {
+            "text": "14 cup nonfat milk"
+        },
+        {
+            "text": "1 (12 inch) Boboli pizza crusts"
+        },
+        {
+            "text": "12 cup shredded mozzarella cheese"
+        },
+        {
+            "text": "12 cup chopped tomato"
+        }
+    ],
+    "recipe": [
+        {
+            "text": "Spray a large skillet with cooking spray; preheat skillet over medium heat."
+        },
+        {
+            "text": "Add in potatoes, mushrooms, carrot, zucchini, and onion (season with salt and pepper); cook/stir 3 minutes or until vegetables are tender."
+        },
+        {
+            "text": "In a bowl, stir together eggs and milk; pour over vegetables."
+        },
+        {
+            "text": "Cook, without stirring, until the mixture begins to set on the bottom and around the edge."
+        },
+        {
+            "text": "Using a spatula or large spoon, lift and fold the partially cooked egg mixture so the uncooked portion flows underneath."
+        },
+        {
+            "text": "Continue cooking and folding about 4 minutes or until egg mixture is cooked through but sill glossy and moist; remove from heat."
+        },
+        {
+            "text": "Assemble pizza: place pizza crust on a 12-inch pizza pan; sprinkle with half of the cheese; top with egg mixture, tomato, and remaining cheese."
+        },
+        {
+            "text": "Bake in a preheated 375 oven for 8-10 minutes or until cheese is melted."
+        }
+    ]
+}

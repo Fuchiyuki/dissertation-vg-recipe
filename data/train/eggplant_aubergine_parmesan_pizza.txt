@@ -1,0 +1,124 @@
+{
+    "title": "eggplant_aubergine_parmesan_pizza",
+    "id": "0cf685aafb",
+    "table": [
+        {
+            "instructions": "preheat oven to 375 degrees .",
+            "input": "NA",
+            "action": "preheat",
+            "output": "NA"
+        },
+        {
+            "instructions": "spray 1 large baking sheet w fat free cooking_spray .",
+            "input": "NA",
+            "action": "spray",
+            "output": "NA"
+        },
+        {
+            "instructions": "dip eggplant slices into eggwhite , then breadcrumbs",
+            "input": "(eggplant slices; egg white; breadcrumbs)",
+            "action": "dip",
+            "output": "eggplant slices coated with egg white and breadcrumb"
+        },
+        {
+            "instructions": "arrange on prepared baking sheet .",
+            "input": "breaded eggplant slices",
+            "action": "arrange",
+            "output": "breaded eggplant slices"
+        },
+        {
+            "instructions": "bake 15 minutes .",
+            "input": "breaded eggplant slices",
+            "action": "bake",
+            "output": "baking breaded eggplant slices"
+        },
+        {
+            "instructions": "turn slices over .",
+            "input": "baking breaded eggplant slices",
+            "action": "turn",
+            "output": "baking breaded eggplant slices"
+        },
+        {
+            "instructions": "bake 10 minutes longer or until browned on both sides .",
+            "input": "baking breaded eggplant slices",
+            "action": "bake",
+            "output": "baking breaded eggplant slices"
+        },
+        {
+            "instructions": "remove from oven .",
+            "input": "baking breaded eggplant slices",
+            "action": "remove",
+            "output": "baked breaded eggplant slices"
+        },
+        {
+            "instructions": "top pizza_crust with pasta_sauce , eggplant , and cheeses .",
+            "input": "(Pizza_crust; pasta_sauce; baked breaded eggplant slices, cheeses)",
+            "action": "top",
+            "output": "Pizza_crust with pasta sauce, breaded eggplant slices and cheeses"
+        },
+        {
+            "instructions": "bake 10 15 minutes .",
+            "input": "assembled eggplant_aubergine_parmesan_pizza",
+            "action": "bake",
+            "output": "baked eggplant_aubergine_parmesan_pizza"
+        }
+    ],
+    "ingredients": [
+        {
+            "text": "1 lb eggplant, peeled and sliced"
+        },
+        {
+            "text": "1 egg white, lightly beaten"
+        },
+        {
+            "text": "12 cup seasoned dry bread crumb"
+        },
+        {
+            "text": "1 Boboli pizza crust"
+        },
+        {
+            "text": "1 cup pasta sauce"
+        },
+        {
+            "text": "1 cup mozzarella cheese, shredded"
+        },
+        {
+            "text": "14 cup parmesan cheese, grated"
+        }
+    ],
+    "recipe": [
+        {
+            "text": "Preheat oven to 375 degrees ."
+        },
+        {
+            "text": "Spray 1 large baking sheet w/ fat-free cooking spray."
+        },
+        {
+            "text": "Dip eggplant slices into eggwhite, then breadcrumbs."
+        },
+        {
+            "text": "Arrange on prepared baking sheet."
+        },
+        {
+            "text": "Bake 15 minutes."
+        },
+        {
+            "text": "Turn slices over."
+        },
+        {
+            "text": "Bake 10 minutes longer or until browned on both sides."
+        },
+        {
+            "text": "Remove from oven."
+        },
+        {
+            "text": "Increase oven to 400 degrees ."
+        },
+        {
+            "text": "Top pizza crust with pasta sauce, eggplant, and cheeses."
+        },
+        {
+            "text": "Bake 10-15 minutes."
+        }
+    ]
+}

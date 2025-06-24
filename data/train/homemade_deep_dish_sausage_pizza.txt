@@ -1,0 +1,139 @@
+{
+    "title": "homemade_deep_dish_sausage_pizza",
+    "id": "9434df1f83",
+    "table": [
+        {
+            "instructions": "on a lightly floured surface , roll",
+            "input": "dough",
+            "actions": "roll",
+            "output": "rolled_dough"
+        },
+        {
+            "instructions": "stretch dough into a 9 inch circle .",
+            "input": "rolled_dough",
+            "actions": "stretch",
+            "output": "stretched_dough"
+        },
+        {
+            "instructions": "cover with plastic wrap ;",
+            "input": "stretched_dough",
+            "actions": "cover",
+            "output": "covered_dough"
+        },
+        {
+            "instructions": "roll",
+            "input": "dough",
+            "actions": "roll",
+            "output": "rolled_dough"
+        },
+        {
+            "instructions": "stretch the dough into a 12 in circle .",
+            "input": "rolled_dough",
+            "actions": "stretch",
+            "output": "stretched_dough"
+        },
+        {
+            "instructions": "sprinkle corn , meal into a greased 9 inch , springform pan .",
+            "input": "cornmeal",
+            "actions": "sprinkle",
+            "output": "sprinkled conrmeal"
+        },
+        {
+            "instructions": "place dough in pan",
+            "input": "stretched_dough",
+            "actions": "place",
+            "output": "stretched_dough"
+        },
+        {
+            "instructions": "press 1 inch up the sides of pan .",
+            "input": "stretched_dough",
+            "actions": "press",
+            "output": "pizza_crust"
+        },
+        {
+            "instructions": "spread pizza_sauce over crust .",
+            "input": "(pizza_crust; pizza_sauce)",
+            "actions": "spread",
+            "output": "pizza_sauce spread on pizza crust"
+        },
+        {
+            "instructions": "top with sausage , 1 cup cheese , oregano and green_pepper .",
+            "input": "(sausage; cheese; oregano; green_pepper; pizza_base)",
+            "actions": "top",
+            "output": "pizza base topped with sausage, cheese, oreagno and green pepper"
+        },
+        {
+            "instructions": "sprinkle with remaining cheese .",
+            "input": "(uncooked sausage pizza; cheese)",
+            "actions": "sprinkle",
+            "output": "cheese sprinkled over uncooked sausage pizza"
+        },
+        {
+            "instructions": "bake at 425 degrees for 20 25 minutes or until crust is golden brown .",
+            "input": "uncooked deep_dish_sausage_pizza",
+            "actions": "bake",
+            "output": "baked deep_dish_sausage_pizza"
+        },
+        {
+            "instructions": "remove to a wire rack ;",
+            "input": "baked deep_dish_sausage_pizza",
+            "actions": "remove",
+            "output": "baked deep_dish_sausage_pizza"
+        }
+    ],
+    "ingredients": [
+        {
+            "text": "1 loaf frozen bread dough, thawed (1 pound)"
+        },
+        {
+            "text": "2 teaspoons cornmeal"
+        },
+        {
+            "text": "1 34 cups pizza sauce"
+        },
+        {
+            "text": "12 lb bulk Italian sausage, cooked and drained"
+        },
+        {
+            "text": "1 12 cups shredded mozzarella cheese, divided (6 oz)"
+        },
+        {
+            "text": "1 teaspoon dried oregano"
+        },
+        {
+            "text": "green pepper ring"
+        }
+    ],
+    "recipe": [
+        {
+            "text": "On a lightly floured surface, roll and stretch dough into a 9 inch circle."
+        },
+        {
+            "text": "Cover with plastic wrap; let rest for 10 minutes."
+        },
+        {
+            "text": "Roll and stretch the dough into a 12 in circle."
+        },
+        {
+            "text": "Sprinkle corn meal into a greased 9 inch springform pan."
+        },
+        {
+            "text": "Place dough in pan and press 1 inch up the sides of pan."
+        },
+        {
+            "text": "Spread pizza sauce over crust."
+        },
+        {
+            "text": "Top with sausage, 1 cup cheese, oregano and green pepper."
+        },
+        {
+            "text": "Sprinkle with remaining cheese."
+        },
+        {
+            "text": "Bake at 425 degrees for 20-25 minutes or until crust is golden brown."
+        },
+        {
+            "text": "Remove to a wire rack; let stand for 5 minutes before removing sides of pan."
+        }
+    ]
+}

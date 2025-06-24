@@ -1,0 +1,184 @@
+{
+    "title": "french_bread_pizza_rustica",
+    "id": "efe1c1d927",
+    "table": [
+        {
+            "instructions": "preheat oven to 425f .",
+            "input": "NA",
+            "action": "preheat",
+            "output": "NA"
+        },
+        {
+            "instructions": "split bread lengthwise",
+            "input": "bread",
+            "action": "split",
+            "output": "split_bread lengthwise"
+        },
+        {
+            "instructions": "cut in half across to make 4 shells .",
+            "input": "split_bread lengthwise",
+            "action": "cut",
+            "output": "bread shells"
+        },
+        {
+            "instructions": "brown sausage in a skillet over medium high , breaking up large pieces with a spoon .",
+            "input": "sausage",
+            "action": "brown",
+            "output": "browned sausage pieces"
+        },
+        {
+            "instructions": "add bell_pepper , onion , and garlic ;",
+            "input": "(browned sausage pieces; bell pepper; onion; garlic)",
+            "action": "add",
+            "output": "bell_pepper , onion , and garlic added to browned sausage pieces"
+        },
+        {
+            "instructions": "cook 3 5 minutes .",
+            "input": "bell_pepper , onion , and garlic added to browned sausage pieces",
+            "action": "cook",
+            "output": "cooked vegetables and sausage mixture"
+        },
+        {
+            "instructions": "add spinach .",
+            "input": "(spinach; cooked vegetables and sausage mixture)",
+            "action": "add",
+            "output": "spinach added to cooked vegetables and sausage mixture"
+        },
+        {
+            "instructions": "remove from heat",
+            "input": "spinach added to cooked vegetables and sausage mixture",
+            "action": "remove",
+            "output": "cooked vegetables and sausage mixture"
+        },
+        {
+            "instructions": "season to taste with salt and pepper .",
+            "input": "(salt; pepper; cooked vegetables and sausage mixture)",
+            "action": "season",
+            "output": "cooked vegetables and sausage mixture seasoned with salt and pepper"
+        },
+        {
+            "instructions": "transfer mixture to a bowl .",
+            "input": "cooked vegetables and sausage mixture seasoned with salt and pepper",
+            "action": "transfer",
+            "output": "cooked vegetables and sausage mixture seasoned with salt and pepper"
+        },
+        {
+            "instructions": "add ricotta and parmesan",
+            "input": "(cooked vegetables and sausage mixture seasoned with salt and pepper; ricotta; parmesan)",
+            "action": "add",
+            "output": "cooked vegetables and sausage mixture with ricotta and parmsan"
+        },
+        {
+            "instructions": "combine well .",
+            "input": "cooked vegetables and sausage mixture with ricotta and parmsan",
+            "action": "combine",
+            "output": "cooked vegetable, sausage and cheese mixture"
+        },
+        {
+            "instructions": "fill bread shells",
+            "input": "(bread shells; cooked vegetable, sausage and cheese mixture)",
+            "action": "fill",
+            "output": "bread shells filled with cooked vegetable, sausage and cheese mixture"
+        },
+        {
+            "instructions": "top with mounded mozzarella and provolone .",
+            "input": "(mozzarella; provolone; bread shells filled with cooked vegetable, sausage and cheese mixture)",
+            "action": "top",
+            "output": "bread shells filled with cooked vegetable, sausage and cheese mixture anf topped with mozzarella and provolone"
+        },
+        {
+            "instructions": "bake in hot oven until cheese melts",
+            "input": "uncooked filled bread shells",
+            "action": "bake",
+            "output": "baked filled bread shells"
+        },
+        {
+            "instructions": "top with oregano and crushed_red_pepper",
+            "input": "(oregano; crushed red pepper; baked filled bread shells)",
+            "action": "top",
+            "output": "baked filled bread shells topped with oregano and crushed_red_pepper"
+        },
+        {
+            "instructions": "serve with marinara .",
+            "input": "(marinara; baked filled bread shells topped with oregano and crushed_red_pepper)",
+            "action": "serve",
+            "output": "baked filled bread shells topped with oregano and crushed_red_pepper served with marinara"
+        }
+    ],
+    "ingredients": [
+        {
+            "text": "1 loaf French bread"
+        },
+        {
+            "text": "1 lb hot Italian turkey sausage"
+        },
+        {
+            "text": "1 red bell pepper, chopped"
+        },
+        {
+            "text": "1 small onion, chopped"
+        },
+        {
+            "text": "2 garlic cloves, minced"
+        },
+        {
+            "text": "1 (10 ounce) box frozen chopped spinach, defrosted and squeezed dry"
+        },
+        {
+            "text": "1 12 cups part-skim ricotta cheese"
+        },
+        {
+            "text": "12 cup parmesan cheese"
+        },
+        {
+            "text": "1 cup mozzarella cheese, shredded"
+        },
+        {
+            "text": "1 cup provolone cheese, shredded"
+        },
+        {
+            "text": "1 teaspoon dried oregano"
+        },
+        {
+            "text": "1 teaspoon crushed red pepper flakes"
+        }
+    ],
+    "recipe": [
+        {
+            "text": "Preheat oven to 425F."
+        },
+        {
+            "text": "Split bread lengthwise and hollow it out."
+        },
+        {
+            "text": "Cut in half across to make 4 shells."
+        },
+        {
+            "text": "Brown sausage in a skillet over medium-high, breaking up large pieces with a spoon."
+        },
+        {
+            "text": "Add bell pepper, onion, and garlic; cook 3-5 minutes."
+        },
+        {
+            "text": "Add spinach."
+        },
+        {
+            "text": "Remove from heat and season to taste with salt and pepper."
+        },
+        {
+            "text": "Transfer mixture to a bowl."
+        },
+        {
+            "text": "Add ricotta and parmesan and combine well."
+        },
+        {
+            "text": "Fill bread shells and top with mounded mozzarella and provolone."
+        },
+        {
+            "text": "Bake in hot oven until cheese melts and bubbles and bread is super crisp, about 10-12 minutes."
+        },
+        {
+            "text": "Top with oregano and crushed red pepper and serve with marinara."
+        }
+    ]
+}

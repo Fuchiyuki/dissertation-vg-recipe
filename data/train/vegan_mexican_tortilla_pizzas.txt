@@ -1,0 +1,118 @@
+{
+    "title": "vegan_mexican_tortilla_pizzas",
+    "id": "eebe3d0dfa",
+    "table": [
+        {
+            "instructions": "preheat oven to 40",
+            "input": "NA",
+            "action": "preheat",
+            "output": "NA"
+        },
+        {
+            "instructions": "place tortillas on baking sheet s.",
+            "input": "tortillas",
+            "action": "place",
+            "output": "tortillas"
+        },
+        {
+            "instructions": "bake for 3 4 minutes until crisp .",
+            "input": "tortillas",
+            "action": "bake",
+            "output": "baked_tortillas"
+        },
+        {
+            "instructions": "spread beans evenly over tortillas .",
+            "input": "(beans; baked_tortillas)",
+            "action": "spread",
+            "output": "beans spread on baked tortillas"
+        },
+        {
+            "instructions": "spread taco_sauce evenly over beans .",
+            "input": "(beans spread on baked tortillas; taco_sauce)",
+            "action": "spread",
+            "output": "taco_sauce spreand on baked tortillas with beans"
+        },
+        {
+            "instructions": "top with ingredients of your choosing .",
+            "input": "(baked tortillas with beans and taco sauce; chosen toppings)",
+            "action": "top",
+            "output": "baked tortillas with beans, taco sauce and chosen toppings"
+        },
+        {
+            "instructions": "bake for 7 8 minutes .",
+            "input": "baked tortillas with beans, taco sauce and chosen toppings",
+            "action": "bake",
+            "output": "warmed tortillas with beans, taco sauce and chosen toppings"
+        },
+        {
+            "instructions": "top with any additional ingredients cheese , sour_cream , etc .",
+            "input": "(warmed tortillas with beans, taco sauce and chosen toppings; cheese; sour cream)",
+            "action": "top",
+            "output": "warmed tortillas with beans, taco sauce and chosen toppings topped with cheese and sour cream"
+        },
+        {
+            "instructions": "cut into wedges",
+            "input": "vegan_mexican_tortilla_pizzas",
+            "action": "cut",
+            "output": "cut vegan_mexican_tortilla_pizzas"
+        },
+        {
+            "instructions": "serve .",
+            "input": "cut vegan_mexican_tortilla_pizzas",
+            "action": "serve",
+            "output": "served cut vegan_mexican_tortilla_pizzas"
+        }
+    ],
+    "ingredients": [
+        {
+            "text": "12 (6 inch) flour tortillas"
+        },
+        {
+            "text": "2 (16 ounce) cans refried beans"
+        },
+        {
+            "text": "1 cup taco sauce"
+        },
+        {
+            "text": "1 cup chopped green bell pepper"
+        },
+        {
+            "text": "1 cup chopped red bell pepper"
+        },
+        {
+            "text": "6 green onions, sliced"
+        },
+        {
+            "text": "12 teaspoon crushed red pepper flakes (optional)"
+        }
+    ],
+    "recipe": [
+        {
+            "text": "Preheat oven to 400F"
+        },
+        {
+            "text": "Place tortillas on baking sheet(s)."
+        },
+        {
+            "text": "Bake for 3-4 minutes until crisp."
+        },
+        {
+            "text": "Spread beans evenly over tortillas."
+        },
+        {
+            "text": "Spread taco sauce evenly over beans."
+        },
+        {
+            "text": "Top with ingredients of your choosing."
+        },
+        {
+            "text": "Bake for 7-8 minutes."
+        },
+        {
+            "text": "Top with any additional ingredients (cheese, sour cream, etc.)."
+        },
+        {
+            "text": "Cut into wedges and serve."
+        }
+    ]
+}

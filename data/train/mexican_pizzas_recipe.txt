@@ -1,0 +1,127 @@
+{
+    "title": "mexican_pizzas_recipe",
+    "id": "28f2e69301",
+    "table": [
+        {
+            "instructions": "preheat the oven to 450 degrees f",
+            "input": "NA",
+            "action": "preheat",
+            "output": "NA"
+        },
+        {
+            "instructions": "arrange a rack in the middle .",
+            "input": "NA",
+            "action": "arrange",
+            "output": "NA"
+        },
+        {
+            "instructions": "divide the pizza_dough into 2 balls",
+            "input": "pizza_dough",
+            "action": "divide",
+            "output": "pizza_dough divided into two balls"
+        },
+        {
+            "instructions": "roll them out to 14 inch thick .",
+            "input": "pizza_dough divided into two balls",
+            "action": "roll",
+            "output": "rolled pizza dough"
+        },
+        {
+            "instructions": "transfer to 2 baking sheets .",
+            "input": "rolled pizza dough",
+            "action": "transfer",
+            "output": "rolled pizza dough"
+        },
+        {
+            "instructions": "use the back of a spoon to spread the chipotle_puree evenly over the dough .",
+            "input": "(chipotle puree; rolled pizza dough)",
+            "action": "use",
+            "output": "chipotle puree spread on uncooked pizza crust"
+        },
+        {
+            "instructions": "bake the first pizza until the underside of the crust is golden brown , about 15 minutes .",
+            "input": "uncooked chipotle pizza",
+            "action": "bake",
+            "output": "baked chipotle pizza"
+        },
+        {
+            "instructions": "remove from the oven",
+            "input": "baked chipotle pizza",
+            "action": "remove",
+            "output": "baked chipotle pizza"
+        },
+        {
+            "instructions": "sprinkle the pickled_onion and cilantro over the surface",
+            "input": "(pickled onion; cilantro; baked chipotle pizza)",
+            "action": "sprinkle",
+            "output": "pickled onion and cilantro sprinkled on baked chipotle pizza"
+        },
+        {
+            "instructions": "serve while hot .",
+            "input": "baked chipotle pizza",
+            "action": "serve",
+            "output": "served baked chipotle pizza"
+        }
+    ],
+    "ingredients": [
+        {
+            "text": "Basic Pizza Dough"
+        },
+        {
+            "text": "3 tablespoons pureed chipotles in adobo sauce"
+        },
+        {
+            "text": "3/4 cup shredded Monterey Jack cheese"
+        },
+        {
+            "text": "3/4 cup shredded smoked mozzarella cheese"
+        },
+        {
+            "text": "1/4 cup cherry tomatoes, cut in half"
+        },
+        {
+            "text": "1 small red or yellow bell pepper, seeded and cut into thin strips"
+        },
+        {
+            "text": "1 fresh pasilla pepper, seeded and cut into thin strips"
+        },
+        {
+            "text": "1 tablespoon extra-virgin olive oil"
+        },
+        {
+            "text": "Yucatecan pickled red onions"
+        },
+        {
+            "text": "1/4 cup chopped cilantro"
+        }
+    ],
+    "recipe": [
+        {
+            "text": "Preheat the oven to 450 degrees F and arrange a rack in the middle."
+        },
+        {
+            "text": "Divide the pizza dough into 2 balls and roll them out to 1/4 inch thick."
+        },
+        {
+            "text": "Transfer to 2 baking sheets."
+        },
+        {
+            "text": "Use the back of a spoon to spread the chipotle puree evenly over the dough."
+        },
+        {
+            "text": "Distribute the cheese, cherry tomatoes, and both peppers evenly over the pizzas."
+        },
+        {
+            "text": "Bake the first pizza until the underside of the crust is golden brown, about 15 minutes."
+        },
+        {
+            "text": "Remove from the oven and immediately brush the crust with a little olive oil (this gives it a nice sheen and a bit of extra flavor)."
+        },
+        {
+            "text": "Sprinkle the pickled onions and cilantro over the surface and serve while hot."
+        },
+        {
+            "text": "Repeat with the second pizza."
+        }
+    ]
+}

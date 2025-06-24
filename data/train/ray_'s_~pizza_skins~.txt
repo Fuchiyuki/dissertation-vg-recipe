@@ -1,0 +1,139 @@
+{
+    "title": "ray_'s_~pizza_skins~",
+    "id": "3fb9b1b23e",
+    "table": [
+        {
+            "instructions": "preheat oven to 400f .",
+            "input": "NA",
+            "action": "preheat",
+            "output": "NA"
+        },
+        {
+            "instructions": "wash really well your potatoes ,",
+            "input": "potatoes ",
+            "action": "wash",
+            "output": "washed potatoes"
+        },
+        {
+            "instructions": "dry good .",
+            "input": "washed potatoes",
+            "action": "dry",
+            "output": "washed and dried potatoes"
+        },
+        {
+            "instructions": "rub olive_oil over all the potatoes ;",
+            "input": "(olive_oil; washed and dried potatoes)",
+            "action": "rub",
+            "output": "rubbed potatoes with olive_oil"
+        },
+        {
+            "instructions": "bake 35 45 minutes depending on size of potatoes , till there tender .",
+            "input": "rubbed potatoes with olive_oil",
+            "action": "bake",
+            "output": "baked potatoes"
+        },
+        {
+            "instructions": "now cut potatoes in half ;",
+            "input": "baked potatoes",
+            "action": "cut",
+            "output": "cut baked potatoes in half"
+        },
+        {
+            "instructions": "add more olive_oil to skins",
+            "input": "(olive oil; cut baked potatoes in half)",
+            "action": "add",
+            "output": "olive oil added to cut baked potatoes in half"
+        },
+        {
+            "instructions": "bake skin side up till they get a crispy texture about 15 minutes on 4",
+            "input": "oiled baked potatoes",
+            "action": "bake",
+            "output": "double baked potatoes"
+        },
+        {
+            "instructions": "serve with marina as a dipping",
+            "input": "(double baked potatoes; marinara sauce)",
+            "action": "serve",
+            "output": "double baked potatoes served with marinara sauce"
+        }
+    ],
+    "ingredients": [
+        {
+            "text": "10 potatoes"
+        },
+        {
+            "text": "1 peperoni"
+        },
+        {
+            "text": "1 olives"
+        },
+        {
+            "text": "1 mushrooms"
+        },
+        {
+            "text": "1 cup marinara sauce for dipping"
+        },
+        {
+            "text": "1 1/2 cup spaghetti sauce for skins"
+        },
+        {
+            "text": "1 mixed grated cheese"
+        },
+        {
+            "text": "1 grated parmesan"
+        },
+        {
+            "text": "1 tbsp Garlic salt"
+        },
+        {
+            "text": "1 parsley flakes"
+        },
+        {
+            "text": "1 dried chives"
+        },
+        {
+            "text": "1 olive oil"
+        },
+        {
+            "text": "1 oregano"
+        }
+    ],
+    "recipe": [
+        {
+            "text": "preheat oven to 400F."
+        },
+        {
+            "text": "Wash really well your potatoes, and dry good."
+        },
+        {
+            "text": "rub olive oil over all the potatoes bake 35-45 minutes depending on size of potatoes, till there tender."
+        },
+        {
+            "text": "let cool."
+        },
+        {
+            "text": "Now cut potatoes in half scoop out mixture don't go to far or you'll break the skin."
+        },
+        {
+            "text": "add more olive oil to skins and bake skin side up till they get a crispy texture about 15 minutes on 400"
+        },
+        {
+            "text": "incorporate seasonings,some cheese, chopped pepperoni & and spaghetti sauce mix well till smooth."
+        },
+        {
+            "text": "Once you take skins out stuff with mixture I topped with cheese & pepperoni, mushrooms & olives but toppings are endless."
+        },
+        {
+            "text": "back into oven till cheese is melty 15 minutes or so."
+        },
+        {
+            "text": "Serve with marina as a dipping"
+        },
+        {
+            "text": "*There's no specific amounts it's as desired taste."
+        },
+        {
+            "text": "*"
+        }
+    ]
+}

@@ -1,0 +1,79 @@
+{
+    "title": "my_pizza_pretzels",
+    "id": "85189d3b20",
+    "table": [
+        {
+            "instructions": "stretch the dough into a 10x16 rectangle",
+            "input": "dough",
+            "actions": "stretch",
+            "output": "stretched_dough"
+        },
+        {
+            "instructions": "cut into 10 1 strips .",
+            "input": "stretched_dough",
+            "actions": "cut",
+            "output": "dough cut in strips"
+        },
+        {
+            "instructions": "twist into pretzel shapes",
+            "input": "strips of dough",
+            "actions": "twist",
+            "output": "strips of dough twisted in pretzel shape"
+        },
+        {
+            "instructions": "place well apart on a greased cookie sheet .",
+            "input": "uncooked pretzel",
+            "actions": "place",
+            "output": "uncooked pretzel"
+        },
+        {
+            "instructions": "top with tomato_sauce , cheese , onion , then poppy_seed .",
+            "input": "(uncooked pretzel; tomato_sauce; cheese; onion; poppy_seed)",
+            "actions": "top",
+            "output": "uncooked pretzel topped with tomato_sauce, cheese, onion and poppy seed"
+        },
+        {
+            "instructions": "bake at 350f for 10 15 min or until bread is barely cooked",
+            "input": "uncooked pizza pretzel",
+            "actions": "bake",
+            "output": "baked pizza pretzel"
+        }
+    ],
+    "ingredients": [
+        {
+            "text": "2 (10 ounce) cans pizza dough (pillsbury or homemade, or whatever you like, enough for 2 crusts)"
+        },
+        {
+            "text": "1 cup tomato sauce"
+        },
+        {
+            "text": "12 cup onion, minced finely"
+        },
+        {
+            "text": "2 tablespoons poppy seeds"
+        },
+        {
+            "text": "1 12-2 cups mozzarella cheese, shredded"
+        }
+    ],
+    "recipe": [
+        {
+            "text": "stretch the dough into a 10\"x16\" rectangle and cut into 10 1\" strips."
+        },
+        {
+            "text": "twist into pretzel shapes, place well apart on a greased cookie sheet."
+        },
+        {
+            "text": "top with tomato sauce, cheese, onion, then poppy seeds."
+        },
+        {
+            "text": "let rise a little depending on how fluffy you like them."
+        },
+        {
+            "text": "bake at 350f for 10-15 min or until bread is barely cooked but toppings are all still soft."
+        },
+        {
+            "text": "the ones i'm used to are always a little undercooked and they're best that way."
+        }
+    ]
+}

@@ -1,0 +1,85 @@
+{
+    "title": "vegetable_pizza_recipe",
+    "id": "5016f8d0e2",
+    "table": [
+        {
+            "instructions": "make pizza_crust_mix as directed .",
+            "input": "pizza_crust_mix",
+            "actions": "make",
+            "output": "pizza_crust"
+        },
+        {
+            "instructions": "top with onion , green_pepper and onion .",
+            "input": "(onion; gren pepper; pizza_crust)",
+            "actions": "top",
+            "output": "pizza_crust topped with onion and green pepper"
+        },
+        {
+            "instructions": "sprinkle italian_seasoning and then mozzarella_cheese .",
+            "input": "(italian seasoning; mozzarella cheese; pizza crust with onion and green pepper)",
+            "actions": "sprinkle",
+            "output": "italian seasoning and mozzarella sprinkled on pizza crust with vegetables"
+        },
+        {
+            "instructions": "top with tomato slices .",
+            "input": "(uncooked vegetable and cheese pizza; tomato slices)",
+            "actions": "top",
+            "output": "uncooked vegetable and cheese pizza topped with tomato slices"
+        },
+        {
+            "instructions": "sprinkle tomato slices with oregano .",
+            "input": "(oregano; uncooked vegetables and cheese pizza)",
+            "actions": "sprinkle",
+            "output": "oregano sprinkled over uncooked vegetable and cheese pizza"
+        },
+        {
+            "instructions": "bake 20 min at 375 degrees or possibly till crust is crisp .",
+            "input": "uncooked pizza",
+            "actions": "bake",
+            "output": "baked pizza"
+        }
+    ],
+    "ingredients": [
+        {
+            "text": "1 box Jiffy pie crust"
+        },
+        {
+            "text": "1 jar pizza sauce"
+        },
+        {
+            "text": "1 c. sliced onion, sliced green pepper, sliced mushrooms"
+        },
+        {
+            "text": "1 sm. tomato, sliced thin"
+        },
+        {
+            "text": "1 1/2 c. Alpine Lace shredded Mozzarella cheese"
+        },
+        {
+            "text": "2 tbsp. Italian seasoning, oregano"
+        }
+    ],
+    "recipe": [
+        {
+            "text": "Make pizza crust mix as directed."
+        },
+        {
+            "text": "Layer: pizza sauce on crust."
+        },
+        {
+            "text": "Top with onion, green pepper and onion."
+        },
+        {
+            "text": "Sprinkle Italian seasoning and then Mozzarella cheese."
+        },
+        {
+            "text": "Top with tomato slices."
+        },
+        {
+            "text": "Sprinkle tomato slices with oregano."
+        },
+        {
+            "text": "Bake 20 min at 375 degrees or possibly till crust is crisp."
+        }
+    ]
+}

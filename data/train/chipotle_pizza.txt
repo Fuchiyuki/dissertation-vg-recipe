@@ -1,0 +1,85 @@
+{
+    "title": "chipotle_pizza",
+    "id": "963ceeb4f5",
+    "table": [
+        {
+            "instructions": "mix the chipotle , the juices , garlic and olive_oil together .",
+            "input": "(chipotle; juices; garlic; olive_oil)",
+            "action": "mix",
+            "output": "chipotle mixture"
+        },
+        {
+            "instructions": "roll out pizza_dough to a 10 inch circle ;",
+            "input": "pizza_dough",
+            "action": "roll",
+            "output": "rolled_pizza_dough"
+        },
+        {
+            "instructions": "place on a baking sheet .",
+            "input": "rolled_pizza_dough",
+            "action": "place",
+            "output": "pizza_dough_on_sheet"
+        },
+        {
+            "instructions": "spread chipotle topping over dough ,",
+            "input": "(chipotle mixture; pizza_dough_on_sheet)",
+            "action": "spread",
+            "output": "pizza crust topped with chipotle mixture"
+        },
+        {
+            "instructions": "sprinkle with the grated cheeses .",
+            "input": "(grated cheese; pizza crust topped with chipotle mixture)",
+            "action": "sprinkle",
+            "output": "pizza crust topped with chipotle mixture and grated cheese"
+        },
+        {
+            "instructions": "bake for about 20 minutes .",
+            "input": "unbaked chipotle_pizza",
+            "action": "bake",
+            "output": "baked chipotle_pizza"
+        },
+        {
+            "instructions": "cut into wedges .",
+            "input": "baked chipotle_pizza",
+            "action": "cut",
+            "output": "baked chipotle_pizza_cut_into_wedges"
+        }
+    ],
+    "ingredients": [
+        {
+            "text": "1 tablespoon chipotle chili peppers canned, mashed, juice reserved"
+        },
+        {
+            "text": "1 teaspoon garlic"
+        },
+        {
+            "text": "2 tablespoons olive oil"
+        },
+        {
+            "text": "1/2 recipe pizza dough"
+        },
+        {
+            "text": "3 tablespoons parmesan, parmigiano-reggiano cheese, grated freshly grated"
+        },
+        {
+            "text": "1/2 cup mozzarella cheese grated"
+        }
+    ],
+    "recipe": [
+        {
+            "text": "Mix the chipotle, the juices, garlic and olive oil together."
+        },
+        {
+            "text": "Roll out pizza dough to a 10-inch circle; place on a baking sheet."
+        },
+        {
+            "text": "Spread chipotle topping over dough, then sprinkle with the grated cheeses."
+        },
+        {
+            "text": "Bake for about 20 minutes."
+        },
+        {
+            "text": "Cut into wedges."
+        }
+    ]
+}

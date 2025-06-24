@@ -1,0 +1,85 @@
+{
+    "title": "epic_pizza_roll",
+    "id": "11f41d0db2",
+    "table": [
+        {
+            "instructions": "roll out pizza_dough in a large rectangle about 14 inch thick",
+            "input": "pizza_dough",
+            "action": "roll",
+            "output": "rolled_pizza_dough"
+        },
+        {
+            "instructions": "spread pizza_sauce over top of dough",
+            "input": "(pizza sauce; rolled_pizza_dough)",
+            "action": "spread",
+            "output": "sauce spread over rolled_pizza_dough"
+        },
+        {
+            "instructions": "roll the pizza",
+            "input": "pizza dough with pizza sauce",
+            "action": "roll",
+            "output": "pizza dough with pizza sauce rolled"
+        },
+        {
+            "instructions": "roll into a log shape sealing the end well",
+            "input": "pizza dough with pizza sauce rolled",
+            "action": "roll",
+            "output": "pizza dough with pizza sauce rolled"
+        },
+        {
+            "instructions": "place on a greased pan",
+            "input": "pizza dough with pizza sauce rolled",
+            "action": "place",
+            "output": "pizza dough with pizza sauce rolled"
+        },
+        {
+            "instructions": "bake at 400f for about 30 minutes",
+            "input": "pizza dough with pizza sauce rolled",
+            "action": "bake",
+            "output": "baked pizza roll"
+        }
+    ],
+    "ingredients": [
+        {
+            "text": "1 pizza dough"
+        },
+        {
+            "text": "1 large jar pizza sauce"
+        },
+        {
+            "text": "1 lb shredded cheddar cheese"
+        },
+        {
+            "text": "1 minced, sauteed onion"
+        },
+        {
+            "text": "1 packages bacon, chopped and cooked"
+        },
+        {
+            "text": "1 lb hamburger, cooked"
+        },
+        {
+            "text": "1 packages pepperoni"
+        },
+        {
+            "text": "1 packages Canadian bacon"
+        }
+    ],
+    "recipe": [
+        {
+            "text": "Roll out pizza dough in a large rectangle about 1/4 inch thick"
+        },
+        {
+            "text": "Spread pizza sauce over top of dough"
+        },
+        {
+            "text": "Layer remaining ingredients evenly over the top.of sauce ending with cheese"
+        },
+        {
+            "text": "Start at one end and roll the pizza roll into a log shape sealing the end well"
+        },
+        {
+            "text": "Place on a greased pan and bake at 400F for about 30 minutes"
+        }
+    ]
+}

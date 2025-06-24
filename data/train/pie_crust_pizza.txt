@@ -1,0 +1,100 @@
+{
+    "title": "pie_crust_pizza",
+    "id": "d1206e7422",
+    "table": [
+        {
+            "instructions": "once it has reached room temperature , roll it out into a circle large enough to fit onto a pizza\u2012pan , pizza stone , or cookie sheet .",
+            "input": "dough",
+            "actions": "roll",
+            "output": "crust"
+        },
+        {
+            "instructions": "brush the surface of the crust with the dijon_mustard .",
+            "input": "(crust; dijon_mustard)",
+            "actions": "brush",
+            "output": "dijon mustard brushed over crust"
+        },
+        {
+            "instructions": "tear the slices of swis_cheese apart ,",
+            "input": "swiss_cheese slices",
+            "actions": "tear",
+            "output": "teared swiss_cheese slices"
+        },
+        {
+            "instructions": "place them on top of the mustard .",
+            "input": "(crust brushed with dijon mustard; teared swiss_cheese slices)",
+            "actions": "place",
+            "output": "teared swiss_cheese slices on crust brushed with dijon mustard"
+        },
+        {
+            "instructions": "add dollops of pesto to your preference on top of the cheese , just barely spreading it .",
+            "input": "(pesto; crust with dijon mustard and swiss cheese)",
+            "actions": "add",
+            "output": "pesto added to crust with dijon mustard and swiss cheese"
+        },
+        {
+            "instructions": "place thin slices of tomato on top of cheese and pesto .",
+            "input": "(tomato_slices; crust with dijon mustard, pesto and swiss cheese)",
+            "actions": "place",
+            "output": "crust with dijon mustard, pesto, tomato slices and swiss cheese"
+        },
+        {
+            "instructions": "sprinkle parmesan over the top of everything .",
+            "input": "(parmesan; crust with dijon mustard, pesto, tomato slices and swiss cheese)",
+            "actions": "sprinkle",
+            "output": "parmesan sprinkled over crust with dijon mustard, pesto, tomato slices and swiss cheese"
+        },
+        {
+            "instructions": "bake according to pie_crust directions .",
+            "input": "uncooked pie crust",
+            "actions": "bake",
+            "output": "baked pie crust"
+        }
+    ],
+    "ingredients": [
+        {
+            "text": "1 package Frozen Pie Crust"
+        },
+        {
+            "text": "1 whole Roma Tomato, Thinly Sliced"
+        },
+        {
+            "text": "4 Tablespoons Dijon Mustard"
+        },
+        {
+            "text": "4 slices Deli-sliced Swiss Cheese"
+        },
+        {
+            "text": "13 cups Grated Parmesan"
+        },
+        {
+            "text": "1 package (7 Oz. Package) Pesto, Or To Taste"
+        }
+    ],
+    "recipe": [
+        {
+            "text": "Allow pie crust to thaw."
+        },
+        {
+            "text": "Once it has reached room temperature, roll it out into a circle large enough to fit onto a pizza pan, pizza stone, or cookie sheet."
+        },
+        {
+            "text": "Brush the surface of the crust with the dijon mustard."
+        },
+        {
+            "text": "Tear the slices of swiss cheese apart, and place them on top of the mustard."
+        },
+        {
+            "text": "Add dollops of pesto (to your preference) on top of the cheese, just barely spreading it."
+        },
+        {
+            "text": "Place thin slices of tomato on top of cheese and pesto."
+        },
+        {
+            "text": "Sprinkle parmesan over the top of everything."
+        },
+        {
+            "text": "Bake according to pie crust directions."
+        }
+    ]
+}

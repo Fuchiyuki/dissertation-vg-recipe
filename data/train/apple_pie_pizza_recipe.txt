@@ -1,0 +1,76 @@
+{
+    "title": "apple_pie_pizza_recipe",
+    "id": "5f2160da81",
+    "table": [
+        {
+            "instructions": "in medium bowl , mix apple_pie_filling with cinnamon and cloves .",
+            "input": "(apple_pie_filling; cloves; cinnamon)",
+            "action": "mix",
+            "output": "seasoned apple pie filling"
+        },
+        {
+            "instructions": "spread over pizza_dough .",
+            "input": "(pizza dough; seasoned apple pie filling)",
+            "action": "spread",
+            "output": "seasoned apple pie filling spread on pizza dough"
+        },
+        {
+            "instructions": "sprinkle grated cheese over top of pie_filling",
+            "input": "(grated cheese; pizza dough with seasoned apple pie filling )",
+            "action": "sprinkle",
+            "output": "pizza dough with seasoned apple pie filling and grated cheese"
+        },
+        {
+            "instructions": "bake in 375 385f oven for approx 30 45 min depending on oven .",
+            "input": "uncooked apple pie pizza",
+            "action": "bake",
+            "output": "baked apple pie filling"
+        }
+    ],
+    "ingredients": [
+        {
+            "text": "pizza dough for one 9 inch crust"
+        },
+        {
+            "text": "3 c. apple pie filling"
+        },
+        {
+            "text": "1/2 tsp cinnamon"
+        },
+        {
+            "text": "1/2 tsp cloves"
+        },
+        {
+            "text": "1 c. grated mozzarella/cheddar c"
+        }
+    ],
+    "recipe": [
+        {
+            "text": "(I do half and half) Spread out dough on pizza pan."
+        },
+        {
+            "text": "In medium bowl, mix apple pie filling with cinnamon and cloves."
+        },
+        {
+            "text": "Spread over pizza dough."
+        },
+        {
+            "text": "Sprinkle grated cheese over top of pie filling."
+        },
+        {
+            "text": "Bake in 375-385F oven for approx 30-45 min (depending on oven.)"
+        },
+        {
+            "text": "Continue to bake till the crust is crisp, and the cheese is bubbly and starting to brown on top."
+        },
+        {
+            "text": "Let sit for about 5 min before serving to allow cheese to set up."
+        },
+        {
+            "text": "This makes a GREAT get together snack for teenagers."
+        },
+        {
+            "text": "Is cheap and very easy to make, and the kids think it is"
+        }
+    ]
+}

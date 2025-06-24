@@ -1,0 +1,109 @@
+{
+    "title": "crock_pot_pizza_dip",
+    "id": "c346bcc8d4",
+    "table": [
+        {
+            "instructions": "spread softened cream_cheese in bottom of crock pot .",
+            "input": "softened cream_cheese",
+            "action": "spread",
+            "output": "spread_cream_cheese"
+        },
+        {
+            "instructions": "in separate bowl , mix pizza_sauce and pepperoni .",
+            "input": "pizza_sauce, pepperoni",
+            "action": "mix",
+            "output": "sauce and pepperoni mixture"
+        },
+        {
+            "instructions": "  you could leave the pepperoni whole or chop it up .",
+            "input": "NA",
+            "action": "leave",
+            "output": "NA"
+        },
+        {
+            "instructions": "you could also add any other pizza_topping you like .",
+            "input": "optional pizza_topping; sauce and pepperoni mixture",
+            "action": "add",
+            "output": "optional pizza_topping added to sauce and pepperoni mixture"
+        },
+        {
+            "instructions": "spread sauce mixture over cream_cheese .",
+            "input": "sauce mixture; spread cream cheese",
+            "action": "spread",
+            "output": "spread sauce mixture spread on cream cheese layer"
+        },
+        {
+            "instructions": "top with shredded_mozzarella_cheese and , if you 'd like , any other pizza_topping .",
+            "input": "shredded_mozzarella_cheese; uncooked pizza dip",
+            "action": "top",
+            "output": "uncooked pizza dip topped with cheese"
+        },
+        {
+            "instructions": "cook on low until cheese on top melts .",
+            "input": "uncooked pizza dip",
+            "action": "cook",
+            "output": "cooked pizza dip"
+        },
+        {
+            "instructions": "serve with tortilla_chip .",
+            "input": "tortilla_chip; cooked pizza dip",
+            "action": "serve",
+            "output": "cooked pizza dip served with tortilla_chip"
+        }
+    ],
+    "ingredients": [
+        {
+            "text": "1 (8 ounce) package cream cheese, softened"
+        },
+        {
+            "text": "1 (16 ounce) jar pizza sauce"
+        },
+        {
+            "text": "1 (8 ounce) package pepperoni slices"
+        },
+        {
+            "text": "1 (8 ounce) bagshredded mozzarella cheese"
+        },
+        {
+            "text": "1 (20 ounce) bag tortilla chips"
+        }
+    ],
+    "recipe": [
+        {
+            "text": "spread softened cream cheese in bottom of crock pot."
+        },
+        {
+            "text": "in separate bowl, mix pizza sauce and pepperoni."
+        },
+        {
+            "text": "(you could leave the pepperoni whole or chop it up."
+        },
+        {
+            "text": "you could also add any other pizza toppings you like."
+        },
+        {
+            "text": "i.e."
+        },
+        {
+            "text": "onions, olives, peppers, etc."
+        },
+        {
+            "text": ")."
+        },
+        {
+            "text": "spread sauce mixture over cream cheese."
+        },
+        {
+            "text": "top with shredded mozzarella cheese and, if you'd like, any other pizza toppings."
+        },
+        {
+            "text": "cook on low until cheese on top melts."
+        },
+        {
+            "text": "serve with tortilla chips."
+        },
+        {
+            "text": "enjoy!"
+        }
+    ]
+}

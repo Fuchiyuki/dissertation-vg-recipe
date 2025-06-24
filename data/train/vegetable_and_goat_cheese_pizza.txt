@@ -1,0 +1,145 @@
+{
+    "title": "vegetable_and_goat_cheese_pizza",
+    "id": "bc79fcbd2d",
+    "table": [
+        {
+            "instructions": "preheat the oven to 400f .",
+            "input": "NA",
+            "actions": "preheat",
+            "output": "NA"
+        },
+        {
+            "instructions": "heat the oil in a large non stick frying pan",
+            "input": "oil",
+            "actions": "heat",
+            "output": "heated_oil"
+        },
+        {
+            "instructions": "add the onion , pepper and zucchini",
+            "input": "(onion; pepper; zucchini; heated_oil)",
+            "actions": "add",
+            "output": "onion, pepper and zucchini added to heated oil"
+        },
+        {
+            "instructions": "saute over a medium heat for 4 5mins .",
+            "input": "vegetables in heated_oil",
+            "actions": "saute",
+            "output": "sauteed vegetable mixture"
+        },
+        {
+            "instructions": "add the herbs",
+            "input": "(herbs; sauteed vegetable mixture)",
+            "actions": "add",
+            "output": "herbs added to sauteed vegetable mixture"
+        },
+        {
+            "instructions": "season with black_pepper .",
+            "input": "(seasoned sauteed vegetables; black pepper)",
+            "actions": "season",
+            "output": "seasoned sauteed vegetables"
+        },
+        {
+            "instructions": "cook for a further 2 mins or until lightly browned and tender .",
+            "input": "seasoned sauteed vegetables",
+            "actions": "cook",
+            "output": "cooked vegetables"
+        },
+        {
+            "instructions": "remove from the heat .",
+            "input": "cooked vegetables",
+            "actions": "remove",
+            "output": "cooked vegetables"
+        },
+        {
+            "instructions": "place the pizza bases on a baking tray",
+            "input": "pizza base",
+            "actions": "place",
+            "output": "pizza base"
+        },
+        {
+            "instructions": "spread half the fresh salsa over each base .",
+            "input": "(pizza base; salsa)",
+            "actions": "spread",
+            "output": "salsa spread over pizza base"
+        },
+        {
+            "instructions": "scatter the vegetables over the pizza",
+            "input": "(cooked vegetables; pizza base with salsa)",
+            "actions": "scatter",
+            "output": "cooked vegetables scattered on pizza base with salsa"
+        },
+        {
+            "instructions": "crumble over the goat_cheese .",
+            "input": "(goat_cheese; pizza base with salsa and cooked vegetables)",
+            "actions": "crumble",
+            "output": "goat_cheese crumbled on pizza base with salsa and cooked vegetables"
+        },
+        {
+            "instructions": "season with black_pepper",
+            "input": "(black pepper; uncooked vegetable_and_goat_cheese_pizza)",
+            "actions": "season",
+            "output": "uncooked vegetable_and_goat_cheese_pizza seasoned with black_pepper"
+        },
+        {
+            "instructions": "bake for 10 12 mins , until the base is cooked through .",
+            "input": "uncooked vegetable_and_goat_cheese_pizza",
+            "actions": "bake",
+            "output": "baked vegetable_and_goat_cheese_pizza"
+        }
+    ],
+    "ingredients": [
+        {
+            "text": "1 tablespoon olive oil"
+        },
+        {
+            "text": "1 red onion, sliced"
+        },
+        {
+            "text": "1 zucchini, cut into chunks"
+        },
+        {
+            "text": "1 red pepper, cut into chunks"
+        },
+        {
+            "text": "1 teaspoon dried rosemary or 1 teaspoon oregano"
+        },
+        {
+            "text": "2 thin crust prepared pizza crust, 10in each"
+        },
+        {
+            "text": "14 tablespoons salsa"
+        },
+        {
+            "text": "3 12 ounces goat cheese"
+        },
+        {
+            "text": "fresh ground black pepper"
+        }
+    ],
+    "recipe": [
+        {
+            "text": "Preheat the oven to 400F."
+        },
+        {
+            "text": "Heat the oil in a large non-stick frying pan, add the onion, pepper and zucchini and saute over a medium heat for 4-5mins."
+        },
+        {
+            "text": "Add the herbs and season with black pepper."
+        },
+        {
+            "text": "Cook for a further 2 mins or until lightly browned and tender."
+        },
+        {
+            "text": "Remove from the heat."
+        },
+        {
+            "text": "Place the pizza bases on a baking tray and spread half the fresh salsa over each base."
+        },
+        {
+            "text": "Scatter the vegetables over the pizza then crumble over the goat cheese."
+        },
+        {
+            "text": "Season with black pepper and bake for 10-12 mins, until the base is cooked through."
+        }
+    ]
+}

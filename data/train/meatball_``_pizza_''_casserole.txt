@@ -1,0 +1,139 @@
+{
+    "title": "meatball_``_pizza_''_casserole",
+    "id": "f2577aaa00",
+    "table": [
+        {
+            "instructions": "prepare basic meatballs as directed , except use 1 lb .",
+            "input": "meatballs",
+            "actions": "prepare",
+            "output": "prepared_meatballs"
+        },
+        {
+            "instructions": "heat oven to 425 degrees f",
+            "input": "NA",
+            "actions": "heat",
+            "output": "NA"
+        },
+        {
+            "instructions": "prepare pizza_dough as directed on package ;",
+            "input": "pizza dough package",
+            "actions": "prepare",
+            "output": "pizza dough"
+        },
+        {
+            "instructions": "divide in half .",
+            "input": "pizza dough",
+            "actions": "divide",
+            "output": "divided pizza dough"
+        },
+        {
+            "instructions": "roll one piece into 13x9 inch rectangle on lightly floured surface ;",
+            "input": "divided pizza dough",
+            "actions": "roll",
+            "output": "pizza crust"
+        },
+        {
+            "instructions": "place in 13x9 inch pan sprayed with cooking_spray .",
+            "input": "pizza crust",
+            "actions": "place",
+            "output": "pizza crust"
+        },
+        {
+            "instructions": "spread half the pizza_sauce onto dough ;",
+            "input": "(pizza_crust; pizza_sauce)",
+            "actions": "spread",
+            "output": "pizza_sauce spread over pizza crust"
+        },
+        {
+            "instructions": "top with meatballs , arranging in 4 rows of 6 meatballs each .",
+            "input": "(meatballs; pizza crust with sauce)",
+            "actions": "top",
+            "output": "pizza crust with sauce topped with meatballs"
+        },
+        {
+            "instructions": "cover with remaining sauce ;",
+            "input": "(remaining pizza sauce; meatball pizza)",
+            "actions": "cover",
+            "output": "meatball pizza covered with remaining pizza sauce"
+        },
+        {
+            "instructions": "top with peppers , herb_mix , shredded_cheese and parmesan_cheese .",
+            "input": "(peppers; herb_mix; shredded_cheese; parmesan_cheese; meatball pizza)",
+            "actions": "top",
+            "output": "meatball pizza topped with peppers , herb_mix , shredded_cheese and parmesan_cheese"
+        },
+        {
+            "instructions": "roll remaining dough into 13x9 inch rectangle ;",
+            "input": "remaining pizza dough",
+            "actions": "roll",
+            "output": "rolled pizza dough"
+        },
+        {
+            "instructions": "place over pizza .",
+            "input": "(rolled pizza dough; meatball, cheese and peppers pizza)",
+            "actions": "place",
+            "output": "rolled pizza dough placed over meatball, cheese and peppers pizza"
+        },
+        {
+            "instructions": "pierce with large fork at 2 12 inch intervals to allow steam to escape .",
+            "input": "meatball pie pizza",
+            "actions": "pierce",
+            "output": "pierced meatball pie pizza"
+        },
+        {
+            "instructions": "bake 20 min .",
+            "input": "uncooked meatball pie pizza",
+            "actions": "bake",
+            "output": "baked meatball pie pizza"
+        }
+    ],
+    "ingredients": [
+        {
+            "text": "1 recipe Basic Meatballs"
+        },
+        {
+            "text": "1 pkg. (850 g) Kraft Pizza Kit"
+        },
+        {
+            "text": "1/2 cup chopped green peppers"
+        },
+        {
+            "text": "1 cup Cracker Barrel Shredded 4 Cheese Italiano Cheese"
+        }
+    ],
+    "recipe": [
+        {
+            "text": "Prepare Basic Meatballs as directed, except use 1 lb."
+        },
+        {
+            "text": "(450 g) each extra-lean ground beef and ground pork, shape the meat mixture into 24 (2-inch) meatballs and increase the baking time to 20 min."
+        },
+        {
+            "text": "or until meatballs are done (160 degrees F)."
+        },
+        {
+            "text": "Heat oven to 425 degrees F. Prepare Pizza Dough as directed on package; divide in half."
+        },
+        {
+            "text": "Roll one piece into 13x9-inch rectangle on lightly floured surface; place in 13x9-inch pan sprayed with cooking spray."
+        },
+        {
+            "text": "Spread half the Pizza Sauce onto dough; top with meatballs, arranging in 4 rows of 6 meatballs each."
+        },
+        {
+            "text": "Cover with remaining sauce; top with peppers, Herb Mix, shredded cheese and Parmesan Cheese."
+        },
+        {
+            "text": "Roll remaining dough into 13x9-inch rectangle; place over pizza."
+        },
+        {
+            "text": "Pierce with large fork at 2-1/2-inch intervals to allow steam to escape."
+        },
+        {
+            "text": "Bake 20 min."
+        },
+        {
+            "text": "or until golden brown."
+        }
+    ]
+}

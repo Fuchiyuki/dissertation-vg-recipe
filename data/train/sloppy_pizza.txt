@@ -1,0 +1,94 @@
+{
+    "title": "sloppy_pizza",
+    "id": "85ed5403c1",
+    "table": [
+        {
+            "instructions": "Over med-high heat, brown meat, onions and diced pepperoni. drain excess fat",
+            "input": "(meat; onions; diced pepperoni)",
+            "action": "drain",
+            "output": "browned meat mixture without excess fat"
+        },
+        {
+            "instructions": "return to heat .",
+            "input": "browned meat mixture without excess fat",
+            "action": "return",
+            "output": "browned meat mixture without excess fat"
+        },
+        {
+            "instructions": "add 1 cup of pizza_sauce and shredded jack and cheddar_cheese .",
+            "input": "(pizza_sauce; shredded_jack; cheddar_cheese; browned meat mixture without excess fat)",
+            "action": "add",
+            "output": "pizza_sauce, shredded_jack and cheddar_cheese added to browned meat mixture without excess fat"
+        },
+        {
+            "instructions": "stir to combine .",
+            "input": "pizza_sauce, shredded_jack and cheddar_cheese added to browned meat mixture without excess fat",
+            "action": "stir",
+            "output": "pizza sauce, meat and cheese mixture"
+        },
+        {
+            "instructions": "add to hogie potato_roll",
+            "input": "(potato roll; pizza sauce, meat and cheese mixture)",
+            "action": "add",
+            "output": "cheese, meat and pizza_sauce_potato_roll"
+        },
+        {
+            "instructions": "top with mozzerella cheese to melt .",
+            "input": "(mozzarella; cheese, meat and pizza_sauce_potato_roll)",
+            "action": "top",
+            "output": "cheese, meat and pizza_sauce_potato_roll topped with mozzarella"
+        },
+        {
+            "instructions": "serve",
+            "input": "cheese, meat and pizza_sauce_potato_roll",
+            "action": "serve",
+            "output": "cheese, meat and pizza_sauce_potato_roll"
+        }
+    ],
+    "ingredients": [
+        {
+            "text": "1 lb ground beef"
+        },
+        {
+            "text": "12 lb ground sausage"
+        },
+        {
+            "text": "12 ounces pepperoni slices, diced"
+        },
+        {
+            "text": "1 small onion, diced"
+        },
+        {
+            "text": "1 cup shredded monterey jack and cheddar cheese blend (pizza blend)"
+        },
+        {
+            "text": "2 cups pre-shredded mozzarella cheese"
+        },
+        {
+            "text": "1 cup pizza sauce"
+        },
+        {
+            "text": "6 rolls"
+        }
+    ],
+    "recipe": [
+        {
+            "text": "Over med-high heat, brown meat, onions and diced pepperoni."
+        },
+        {
+            "text": "Drain excess fat and return to heat."
+        },
+        {
+            "text": "add 1 cup of pizza sauce and shredded jack and cheddar cheese."
+        },
+        {
+            "text": "stir to combine."
+        },
+        {
+            "text": "Add to Hogie/Potato Roll and top with mozzerella cheese to melt."
+        },
+        {
+            "text": "Serve and enjoy."
+        }
+    ]
+}

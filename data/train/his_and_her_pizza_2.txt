@@ -1,0 +1,127 @@
+{
+    "title": "his_and_her_pizza_2",
+    "id": "20f51d60a3",
+    "table": [
+        {
+            "instructions": "preheat oven to 350 degrees f .",
+            "input": "NA",
+            "action": "preheat",
+            "output": "NA"
+        },
+        {
+            "instructions": "in a small sauce pan , heat oil over medium heat .",
+            "input": "oil",
+            "action": "heat",
+            "output": "heated_oil"
+        },
+        {
+            "instructions": "add onion",
+            "input": "onion; heated_oil",
+            "action": "add",
+            "output": "onion in heated_oil"
+        },
+        {
+            "instructions": "cook until soft .",
+            "input": "onion in heated_oil",
+            "action": "cook",
+            "output": "soft cooked onion"
+        },
+        {
+            "instructions": "add garlic .",
+            "input": "garlic; soft cooked onion",
+            "action": "add",
+            "output": "soft cooked onion and garlic"
+        },
+        {
+            "instructions": "cook onion and garlic until lightly brown",
+            "input": "soft cooked onion and garlic",
+            "action": "cook",
+            "output": "cooked garlic and onion until slightly brown"
+        },
+        {
+            "instructions": "spread sauce on the pizza_crust .",
+            "input": "pizza sauce; pizza crust",
+            "action": "spread",
+            "output": "pizza crust with sauce spread out on it"
+        },
+        {
+            "instructions": "add tomatoes , mushrooms , onions and cheese , topping each half as desired .",
+            "input": "tomatoes; mushrooms; onions; cheese",
+            "action": "add",
+            "output": "pizza crust with sauce spread out on it and tomatoes , mushrooms , onions and cheese "
+        },
+        {
+            "instructions": "add basil",
+            "input": "uncooked pizza crust with sauce spread out on it and tomatoes , mushrooms , onions and cheese ; basil",
+            "action": "add",
+            "output": "uncooked pizza with basil"
+        },
+        {
+            "instructions": "bake in the preheated oven for about 10 minutes , or until cheese is bubbly .",
+            "input": "uncooked pizza with basil",
+            "action": "bake",
+            "output": "cooked pizza"
+        }
+    ],
+    "ingredients": [
+        {
+            "text": "1 teaspoon Olive Oil"
+        },
+        {
+            "text": "1 whole Medium Onion, Chopped"
+        },
+        {
+            "text": "1 clove Garlic, Chopped"
+        },
+        {
+            "text": "3/4 cups Spicy Pizza Sauce"
+        },
+        {
+            "text": "1 whole Large Pre-made Pizza Crust"
+        },
+        {
+            "text": "1 whole Tomato, Sliced"
+        },
+        {
+            "text": "1/2 cups Sliced Mushrooms"
+        },
+        {
+            "text": "1/2 cups Crumbled Goat Cheese"
+        },
+        {
+            "text": "4 whole Slices Of Fresh Mozzarella"
+        },
+        {
+            "text": "Basil Leaves, To Taste"
+        }
+    ],
+    "recipe": [
+        {
+            "text": "Preheat oven to 350 degrees F."
+        },
+        {
+            "text": "In a small sauce pan, heat oil over medium heat."
+        },
+        {
+            "text": "Add onion and cook until soft."
+        },
+        {
+            "text": "Add garlic."
+        },
+        {
+            "text": "Cook onion and garlic until lightly brown and caramelized."
+        },
+        {
+            "text": "Proceed to not eat it by the spoonful."
+        },
+        {
+            "text": "Spread sauce on the pizza crust."
+        },
+        {
+            "text": "Add tomatoes, mushrooms, onions and cheese, topping each half as desired."
+        },
+        {
+            "text": "Add basil and bake in the preheated oven for about 10 minutes, or until cheese is bubbly."
+        }
+    ]
+}

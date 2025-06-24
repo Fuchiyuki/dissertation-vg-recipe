@@ -1,0 +1,88 @@
+{
+    "title": "sicilian_tuna_basil_pizza",
+    "id": "d78d987c49",
+    "table": [
+        {
+            "instructions": "mix together the tomatoes , tomato_paste and garlic",
+            "input": "(tomatoes; tomato_paste; garlic)",
+            "action": "mix",
+            "output": "tomato mixture"
+        },
+        {
+            "instructions": "season well with salt and pepper .",
+            "input": "(tomato mixture; salt; pepper)",
+            "action": "season",
+            "output": "seasoned tomato mixture"
+        },
+        {
+            "instructions": "spread thinly over the pizza base .",
+            "input": "(seasoned tomato mixture; pizza base)",
+            "action": "spread",
+            "output": "pizza based with seasoned tomato mixture spread on it"
+        },
+        {
+            "instructions": "place the tuna , basil and capsicum on top .",
+            "input": "(pizza based with seasoned tomato mixture spread on it; tuna; basil; capsicum)",
+            "action": "place",
+            "output": "pizza based with seasoned tomato mixture, basil, tuna and capsicum"
+        },
+        {
+            "instructions": "sprinkle the cheese over the pizza .",
+            "input": "(pizza based with seasoned tomato mixture, basil, tuna and capsicum; cheese)",
+            "action": "sprinkle",
+            "output": "pizza based with seasoned tomato mixture, basil, tuna, capsicum and cheese"
+        },
+        {
+            "instructions": "bake in a hot oven 230c for 10 minutes until the cheese has melted .",
+            "input": "uncooked tuna basil pizza",
+            "action": "bake",
+            "output": "baked tuna basil pizza"
+        }
+    ],
+    "ingredients": [
+        {
+            "text": "1 garlic clove"
+        },
+        {
+            "text": "3 tablespoons canned tomatoes"
+        },
+        {
+            "text": "1 tablespoon tomato paste"
+        },
+        {
+            "text": "1 teaspoon extra virgin olive oil"
+        },
+        {
+            "text": "1 frozen pizza crust"
+        },
+        {
+            "text": "6 basil leaves"
+        },
+        {
+            "text": "12 green capsicum"
+        },
+        {
+            "text": "180 g tuna in vegetable oil"
+        },
+        {
+            "text": "75 g mozzarella cheese, grated"
+        }
+    ],
+    "recipe": [
+        {
+            "text": "Mix together the tomatoes, tomato paste and garlic and season well with salt and pepper."
+        },
+        {
+            "text": "Spread thinly over the pizza base."
+        },
+        {
+            "text": "Place the tuna, basil and capsicum on top."
+        },
+        {
+            "text": "Sprinkle the cheese over the pizza."
+        },
+        {
+            "text": "Bake in a hot oven (230C) for 10 minutes until the cheese has melted."
+        }
+    ]
+}

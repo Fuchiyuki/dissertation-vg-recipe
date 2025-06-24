@@ -1,0 +1,100 @@
+{
+    "title": "baked_pizza_mac",
+    "id": "b9a4b06e93",
+    "table": [
+        {
+            "instructions": "preheat oven to 40",
+            "input": "NA",
+            "action": "preheat",
+            "output": "NA"
+        },
+        {
+            "instructions": "remove",
+            "input": "pizza sauce",
+            "action": "remove",
+            "output": "pizza sauce"
+        },
+        {
+            "instructions": "set aside 14c of the pizza_sauce for later use .",
+            "input": "pizza sauce",
+            "action": "set",
+            "output": "reserved pizza sauce"
+        },
+        {
+            "instructions": "combine prepared dinner , 23 of the meat , the remaining pizza sauce , egg and seasonings .",
+            "input": "(mac and cheese; meat; pizza sauce; egg; seasoning)",
+            "action": "combine",
+            "output": "mac and cheese annd meat mixture"
+        },
+        {
+            "instructions": "spoon evently into 9 inch pie plate .",
+            "input": "mac and cheese annd meat mixture",
+            "action": "spoon",
+            "output": "spooned mac and cheese annd meat mixture on pie plate"
+        },
+        {
+            "instructions": "top with the remaining meat\u00a0and reserved 1/4C pizza sauce",
+            "input": "(mac and cheese annd meat mixture; remaining meat)",
+            "action": "top",
+            "output": "spooned mac and cheese annd meat mixture on pie plate topped with remaining meat and pizza sauce"
+        },
+        {
+            "instructions": "sprinkle with cheese .",
+            "input": "(cheese; spooned mac and cheese annd meat mixture on pie plate topped with remaining meat and pizza sauce)",
+            "action": "sprinkle",
+            "output": "sspooned mac and cheese annd meat mixture on pie plate topped with remaining meat, pizza sauce and cheese"
+        },
+        {
+            "instructions": "bake 15 minute .",
+            "input": "uncooked pizza mac and cheese casserole",
+            "action": "bake",
+            "output": "baked pizza mac and cheese casserole"
+        }
+    ],
+    "ingredients": [
+        {
+            "text": "1 (8 ounce) can pizza sauce, divided"
+        },
+        {
+            "text": "1 (7 1/4 ounce) package macaroni & cheese dinner mix, prepared as directed on package"
+        },
+        {
+            "text": "1 lb ground beef, cooked, divided"
+        },
+        {
+            "text": "1 egg, lightly beaten"
+        },
+        {
+            "text": "12 teaspoon dried basil leaves"
+        },
+        {
+            "text": "14 teaspoon garlic powder"
+        },
+        {
+            "text": "12 cup shredded mozzarella cheese"
+        }
+    ],
+    "recipe": [
+        {
+            "text": "Preheat oven to 400."
+        },
+        {
+            "text": "Remove and set aside 1/4C of the pizza sauce for later use."
+        },
+        {
+            "text": "Combine prepared dinner, 2/3 of the meat, the remaining qizza sauce, egg and seasonings."
+        },
+        {
+            "text": "Spoon evently into 9 inch pie plate."
+        },
+        {
+            "text": "Top with the remaining meat and reserved 1/4C pizza sauce; sprinkle with cheese."
+        },
+        {
+            "text": "Bake 15 minute."
+        },
+        {
+            "text": "Let stand 5 minute before serving."
+        }
+    ]
+}

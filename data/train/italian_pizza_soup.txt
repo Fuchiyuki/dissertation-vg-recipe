@@ -1,0 +1,145 @@
+{
+    "title": "italian_pizza_soup",
+    "id": "d051fd4c4b",
+    "table": [
+        {
+            "instructions": "heat olive_oil in a large saucepan .",
+            "input": "olive_oil",
+            "actions": "heat",
+            "output": "heated_olive_oil"
+        },
+        {
+            "instructions": "saute the onion and green_pepper until softened .",
+            "input": "onion and green_pepper",
+            "actions": "saute",
+            "output": "sauted_onion and green_pepper"
+        },
+        {
+            "instructions": "stir in the garlic",
+            "input": "garlic",
+            "actions": "stir",
+            "output": "stired_garlic"
+        },
+        {
+            "instructions": "cook for a minute .",
+            "input": "stired_garlic",
+            "actions": "cook",
+            "output": "cooked_onion_grren_pepper_garlic"
+        },
+        {
+            "instructions": "add the oregano , basil , rice , tomatoes and broth ,",
+            "input": "oregano , basil , rice , tomatoes and broth",
+            "actions": "add",
+            "output": "added_oregano , basil , rice , tomatoes and broth"
+        },
+        {
+            "instructions": "turn down heat",
+            "input": "added_oregano , basil , rice , tomatoes and broth",
+            "actions": "turn",
+            "output": "turned_oregano , basil , rice , tomatoes and broth"
+        },
+        {
+            "instructions": "place cover on saucepan .",
+            "input": "saucepan",
+            "actions": "place",
+            "output": "cover_saucepan"
+        },
+        {
+            "instructions": "simmer for 20 minutes or until rice is tender .",
+            "input": "rice",
+            "actions": "simmer",
+            "output": "tender_rice"
+        },
+        {
+            "instructions": "stir in the pepperoni ,",
+            "input": "pepperoni",
+            "actions": "stir",
+            "output": "stired_pepperoni"
+        },
+        {
+            "instructions": "sprinkle with the cheese .",
+            "input": "cheese",
+            "actions": "sprinkle",
+            "output": "sprinkled_cheese"
+        },
+        {
+            "instructions": "serve ,",
+            "input": "sprinkled_cheese",
+            "actions": "serve",
+            "output": "cooked_dish"
+        },
+        {
+            "instructions": "add an extra sprinkling of parmesan_cheese , if desired .",
+            "input": "parmesan_cheese",
+            "actions": "add",
+            "output": "sprinkling_dish"
+        }
+    ],
+    "ingredients": [
+        {
+            "text": "2 tablespoons olive oil"
+        },
+        {
+            "text": "1 medium onion, chopped"
+        },
+        {
+            "text": "1 green pepper, chopped"
+        },
+        {
+            "text": "1 clove garlic, minced"
+        },
+        {
+            "text": "1 teaspoon dried oregano"
+        },
+        {
+            "text": "2 teaspoons dried basil"
+        },
+        {
+            "text": "12 cup uncooked rice"
+        },
+        {
+            "text": "1 cup diced or crushed tomatoes"
+        },
+        {
+            "text": "4 cups chicken broth"
+        },
+        {
+            "text": "1 -2 ounce thinly sliced pepperoni"
+        },
+        {
+            "text": "12 cup shredded provolone cheese or 12 cup mozzarella cheese"
+        },
+        {
+            "text": "12 cup grated parmesan cheese"
+        }
+    ],
+    "recipe": [
+        {
+            "text": "Heat olive oil in a large saucepan."
+        },
+        {
+            "text": "Saute the onion and green pepper until softened."
+        },
+        {
+            "text": "Stir in the garlic and cook for a minute."
+        },
+        {
+            "text": "Add the oregano, basil, rice, tomatoes and broth, and bring to a boil."
+        },
+        {
+            "text": "Turn down heat and place cover on saucepan."
+        },
+        {
+            "text": "Simmer for 20 minutes or until rice is tender."
+        },
+        {
+            "text": "Stir in the pepperoni, and sprinkle with the cheese."
+        },
+        {
+            "text": "Continue cooking for another minute or two."
+        },
+        {
+            "text": "Serve, and add an extra sprinkling of Parmesan cheese, if desired."
+        }
+    ]
+}

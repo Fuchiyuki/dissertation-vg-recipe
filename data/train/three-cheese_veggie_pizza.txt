@@ -1,0 +1,118 @@
+{
+    "title": "three-cheese_veggie_pizza",
+    "id": "90af66659b",
+    "table": [
+        {
+            "instructions": "preheat oven to 500 .",
+            "input": "NA",
+            "actions": "preheat",
+            "output": "NA"
+        },
+        {
+            "instructions": "heat 2 teaspoons olive_oil in a large nonstick skillet over medium high heat .",
+            "input": "olive oil",
+            "actions": "heat",
+            "output": "heated olive oil"
+        },
+        {
+            "instructions": "add black_pepper , minced_garlic , and mushrooms",
+            "input": "(heated olive oil; black_pepper; minced garlic; mushrooms)",
+            "actions": "add",
+            "output": "black_pepper, minced garlic and mushrooms in heated olive oil"
+        },
+        {
+            "instructions": "saute for 5 minutes or until mushrooms are tender",
+            "input": "black_pepper, minced garlic and mushrooms in heated olive oil",
+            "actions": "saute",
+            "output": "sauteed vegetable mixture"
+        },
+        {
+            "instructions": "spread sauce over the pizza_crust , leaving a 12 inch border ,",
+            "input": "(pizza crust; sauce)",
+            "actions": "spread",
+            "output": "sauce spread on pizza crust"
+        },
+        {
+            "instructions": "top with mushroom mixture .",
+            "input": "(pizza crust with sauce; sauteed vegetable mixture)",
+            "actions": "top",
+            "output": "pizza crust with sauce topped with sauteed vegetable mixture"
+        },
+        {
+            "instructions": "sprinkle evenly with mozzarella , fontina , and parmesan_cheese .",
+            "input": "(pizza crust with sauce and vegetable mixture; mozzarella; fontina; parmesan_cheese)",
+            "actions": "sprinkle",
+            "output": "mozzarella, fontina and parmesan cheese sprinkled on pizza crust with sauce and sauteed veggies"
+        },
+        {
+            "instructions": "top with roasted red_bell_pepper , 1 tablespoon capers , and artichokes .",
+            "input": "(roasted red bell pepper; capers; artichokes, three cheese veggie pizza)",
+            "actions": "top",
+            "output": "three cheese veggie pizza topped with roasted red_bell_peppers, capers and artichokes"
+        },
+        {
+            "instructions": "bake at 500 for 10 minutes or until cheese melts",
+            "input": "uncooked three-cheese_veggie_pizza",
+            "actions": "bake",
+            "output": "baked three-cheese_veggie_pizza"
+        }
+    ],
+    "ingredients": [
+        {
+            "text": "2 teaspoons olive oil"
+        },
+        {
+            "text": "1/4 teaspoon freshly ground black pepper"
+        },
+        {
+            "text": "2 garlic cloves, minced"
+        },
+        {
+            "text": "1 (8-ounce) package presliced mushrooms"
+        },
+        {
+            "text": "1 cup marinara sauce"
+        },
+        {
+            "text": "1 (1-pound) Italian cheese-flavored pizza crust (such as Boboli)"
+        },
+        {
+            "text": "1/2 cup (2 ounces) shredded part-skim mozzarella cheese"
+        },
+        {
+            "text": "1/2 cup (2 ounces) shredded fontina cheese"
+        },
+        {
+            "text": "1/4 cup (1 ounce) grated fresh Parmesan cheese"
+        },
+        {
+            "text": "3/4 cup sliced bottled roasted red bell peppers"
+        },
+        {
+            "text": "1 tablespoon capers, rinsed and drained"
+        },
+        {
+            "text": "4 drained canned artichoke hearts, thinly sliced"
+        }
+    ],
+    "recipe": [
+        {
+            "text": "Preheat oven to 500.Heat 2 teaspoons olive oil in a large nonstick skillet over medium-high heat."
+        },
+        {
+            "text": "Add black pepper, minced garlic, and mushrooms; saute for 5 minutes or until mushrooms are tender and most of liquid evaporates.Spread sauce over the pizza crust, leaving a 1/2-inch border, and top with mushroom mixture."
+        },
+        {
+            "text": "Sprinkle evenly with mozzarella, fontina, and Parmesan cheeses."
+        },
+        {
+            "text": "Top with roasted red bell peppers, 1 tablespoon capers, and artichokes."
+        },
+        {
+            "text": "Bake at 500 for 10 minutes or until cheese melts and begins to brown."
+        },
+        {
+            "text": "Let pizza stand for 5 minutes before serving."
+        }
+    ]
+}

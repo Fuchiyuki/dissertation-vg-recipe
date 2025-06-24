@@ -1,0 +1,79 @@
+{
+    "title": "baked_pepperoni_pizza_spread",
+    "id": "5bdea73879",
+    "table": [
+        {
+            "instructions": "heat oven to 350 degrees f .",
+            "input": "NA",
+            "actions": "heat",
+            "output": "NA"
+        },
+        {
+            "instructions": "mix cream_cheese and mozzarella until well blended ;",
+            "input": "(cream_cheese; mozzarella)",
+            "actions": "mix",
+            "output": "cheese mixture"
+        },
+        {
+            "instructions": "stir in pepperoni and peppers .",
+            "input": "(cheese_mixture; pepperoni; peppers)",
+            "actions": "stir",
+            "output": "cheese mixture with pepperoni and peppers"
+        },
+        {
+            "instructions": "spread into 9 inch pie plate .",
+            "input": "cheese mixture with pepperoni and peppers",
+            "actions": "spread",
+            "output": "pepperoni pizza spread"
+        },
+        {
+            "instructions": "bake 25 to 30 min .",
+            "input": "uncooked pepperoni pizza spread",
+            "actions": "bake",
+            "output": "baked pepperoni pizza spread"
+        },
+        {
+            "instructions": "serve warm with crackers .",
+            "input": "(pepperoni pizza spread; crackers)",
+            "actions": "serve",
+            "output": "pepperoni pizza spread with crackers"
+        }
+    ],
+    "ingredients": [
+        {
+            "text": "1 pkg. (8 oz.) PHILADELPHIA Cream Cheese, softened"
+        },
+        {
+            "text": "1 pkg. (8 oz.) KRAFT Shredded Low-Moisture Part-Skim Mozzarella Cheese"
+        },
+        {
+            "text": "1/2 cup finely chopped pepperoni"
+        },
+        {
+            "text": "1/4 cup finely chopped green peppers"
+        },
+        {
+            "text": "RITZ Crackers"
+        }
+    ],
+    "recipe": [
+        {
+            "text": "Heat oven to 350 degrees F."
+        },
+        {
+            "text": "Mix cream cheese and mozzarella until well blended; stir in pepperoni and peppers."
+        },
+        {
+            "text": "Spread into 9-inch pie plate."
+        },
+        {
+            "text": "Bake 25 to 30 min."
+        },
+        {
+            "text": "or until top is puffed and lightly browned."
+        },
+        {
+            "text": "Serve warm with crackers."
+        }
+    ]
+}

@@ -1,0 +1,121 @@
+{
+    "title": "pizza_skillet_supper",
+    "id": "2d0624d601",
+    "table": [
+        {
+            "instructions": "drain .",
+            "input": "(pizza_sauce; soup)",
+            "actions": "drain",
+            "output": "(drained_pizza_sauce; soup)"
+        },
+        {
+            "instructions": "stir in pizza_sauce and soup",
+            "input": "(pizza_sauce; soup)",
+            "actions": "stir",
+            "output": "(stirred_pizza_sauce; soup)"
+        },
+        {
+            "instructions": "blend well .",
+            "input": "(pizza_sauce; soup)",
+            "actions": "blend",
+            "output": "(blendedpizza_sauce; soup)"
+        },
+        {
+            "instructions": "stir in water and pepperoni .",
+            "input": "(water; pepperoni)",
+            "actions": "stir",
+            "output": "(stirred_water; pepperoni)"
+        },
+        {
+            "instructions": "stir in uncooked noodles .",
+            "input": "uncooked_noodles",
+            "actions": "stir",
+            "output": "stirred_uncooked_noodles"
+        },
+        {
+            "instructions": "cover",
+            "input": "stirred_uncooked_noodles",
+            "actions": "cover",
+            "output": "covered_pasta"
+        },
+        {
+            "instructions": "cook over medium heat for 10 to 15 minutes or until pasta is tender , stirring frequently .",
+            "input": "covered_pasta",
+            "actions": "cook",
+            "output": "cooked_pasta"
+        },
+        {
+            "instructions": "remove from heat ;",
+            "input": "cooked_pasta",
+            "actions": "remove",
+            "output": "cooled_pasta"
+        },
+        {
+            "instructions": "sprinkle with cheese .",
+            "input": "(cooled_pasta; cheese)",
+            "actions": "sprinkle",
+            "output": "cooled_pasta_with_cheese"
+        },
+        {
+            "instructions": "cover",
+            "input": "cooled_pasta_with_cheese",
+            "actions": "cover",
+            "output": "covered_cooled_pasta_with_cheese"
+        }
+    ],
+    "ingredients": [
+        {
+            "text": "1 lb lean ground beef"
+        },
+        {
+            "text": "12 cup onion, chopped"
+        },
+        {
+            "text": "12 cup green pepper, chopped"
+        },
+        {
+            "text": "1 (15 ounce) jar pizza sauce"
+        },
+        {
+            "text": "1 (11 ounce) can cheddar cheese soup (Campbells)"
+        },
+        {
+            "text": "1 cup water"
+        },
+        {
+            "text": "12 cup turkey pepperoni, diced"
+        },
+        {
+            "text": "2 cups mafalda pasta (mini lasagna noodles)"
+        },
+        {
+            "text": "2 ounces mozzarella cheese or 2 ounces cheddar cheese"
+        }
+    ],
+    "recipe": [
+        {
+            "text": "In a large skillet, brown ground beef, onion and bell pepper, drain."
+        },
+        {
+            "text": "Stir in pizza sauce and soup, blend well."
+        },
+        {
+            "text": "Stir in water and pepperoni."
+        },
+        {
+            "text": "Bring to a boil; stir in uncooked noodles."
+        },
+        {
+            "text": "Cover and cook over medium heat for 10 to 15 minutes or until pasta is tender, stirring frequently."
+        },
+        {
+            "text": "Remove from heat; sprinkle with cheese."
+        },
+        {
+            "text": "Cover, let stand for 5 minutes."
+        },
+        {
+            "text": "Makes 5 (1 cup) servings."
+        }
+    ]
+}

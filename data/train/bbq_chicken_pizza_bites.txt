@@ -1,0 +1,133 @@
+{
+    "title": "bbq_chicken_pizza_bites",
+    "id": "ddea3b6a90",
+    "table": [
+        {
+            "instructions": "preheat oven to 400f .",
+            "input": "NA",
+            "action": "preheat",
+            "output": "NA"
+        },
+        {
+            "instructions": "combine chicken , garlic , mushrooms , tomatoes and herb_seasoning .",
+            "input": "(chicken; garlic; mushrooms; tomatoes; herb_seasoning)",
+            "action": "combine",
+            "output": "chicken and vegetable mixture"
+        },
+        {
+            "instructions": "separate the dough onto 16 biscuits .",
+            "input": "dough",
+            "action": "separate",
+            "output": "separated dough biscuits"
+        },
+        {
+            "instructions": "split each biscuit in half by gently separating the layers into 32 biscuits .",
+            "input": "separated dough biscuits",
+            "action": "split",
+            "output": "separated dough biscuits"
+        },
+        {
+            "instructions": "place biscuits on a lightly greased pan .",
+            "input": "separated dough biscuits",
+            "action": "place",
+            "output": "separated dough biscuits"
+        },
+        {
+            "instructions": "spread 2 tsps of sauce on each biscuit.",
+            "input": "(biscuit; sauce)",
+            "action": "spread",
+            "output": "sauced biscuits"
+        },
+        {
+            "instructions": "top each biscuit with 1 tbsp of chicken and vegetable mixture .",
+            "input": "(sauced biscuits; chicken and vegetable mixture .)",
+            "action": "top",
+            "output": "sauced biscuits topped with chicken and vegetable mixture"
+        },
+        {
+            "instructions": "sprinkle cheese and green_onion on each biscuit .",
+            "input": "(cheese; green onion; biscuit; sauced biscuits topped with chicken and vegetable mixture)",
+            "action": "sprinkle",
+            "output": "cheese and green onion sprinkled over sauced biscuits topped with chicken and vegetable mixture"
+        },
+        {
+            "instructions": "bake for about 15 minutes or until the cheese has melted .",
+            "input": "uncooked bbq_chicken_pizza_biscuits",
+            "action": "bake",
+            "output": "baked bbq_chicken_pizza_biscuits"
+        },
+        {
+            "instructions": "serve",
+            "input": "baked bbq_chicken_pizza_biscuits",
+            "action": "serve",
+            "output": "baked bbq_chicken_pizza_biscuits ready to serve"
+        }
+    ],
+    "ingredients": [
+        {
+            "text": "2 (16 ounce) cansflaky-style biscuits"
+        },
+        {
+            "text": "2 (7 ounce) chicken breasts"
+        },
+        {
+            "text": "1 teaspoon minced garlic"
+        },
+        {
+            "text": "1 (4 1/2 ounce) can sliced mushrooms, drained"
+        },
+        {
+            "text": "1 (14 1/2 ounce) can diced tomatoes, drained (Italian style)"
+        },
+        {
+            "text": "1 teaspoon mrs. dash spicy herb seasoning"
+        },
+        {
+            "text": "1 cup barbecue sauce"
+        },
+        {
+            "text": "1 green onion, washed and chopped"
+        },
+        {
+            "text": "2 cups shredded mozzarella cheese"
+        }
+    ],
+    "recipe": [
+        {
+            "text": "Preheat oven to 400F."
+        },
+        {
+            "text": "Combine chicken, garlic, mushrooms, tomatoes and herb seasoning."
+        },
+        {
+            "text": "Separate the dough onto 16 biscuits."
+        },
+        {
+            "text": "Split each biscuit in half by gently separating the layers into 32 biscuits."
+        },
+        {
+            "text": "Place biscuits on a lightly greased pan."
+        },
+        {
+            "text": "Spread 2 tsps."
+        },
+        {
+            "text": "of sauce on each biscuit."
+        },
+        {
+            "text": "Top each biscuit with 1 tbsp."
+        },
+        {
+            "text": "chicken and vegetable mixture."
+        },
+        {
+            "text": "Sprinkle cheese and green onions on each biscuit."
+        },
+        {
+            "text": "Bake for about 15 minutes or until the cheese has melted."
+        },
+        {
+            "text": "Serve and enjoy!"
+        }
+    ]
+}

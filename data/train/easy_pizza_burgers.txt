@@ -1,0 +1,88 @@
+{
+    "title": "easy_pizza_burgers",
+    "id": "cb506b67c3",
+    "table": [
+        {
+            "instructions": "place bread on baking sheet .",
+            "input": "bread",
+            "actions": "place",
+            "output": "bread"
+        },
+        {
+            "instructions": "toast for a few minutes .",
+            "input": "bread",
+            "actions": "toast",
+            "output": "toasted bread"
+        },
+        {
+            "instructions": "spread spaghetti sauce on toasted bread .",
+            "input": "(spaghetti_sauce;bread)",
+            "actions": "spread",
+            "output": "toasted bread spread with spaghetti sauce"
+        },
+        {
+            "instructions": "use your own leftover spaghetti sauce or canned .",
+            "input": "NA",
+            "actions": "use",
+            "output": "NA"
+        },
+        {
+            "instructions": "add olives if using .",
+            "input": "(toasted bread spread with spaghetti sauce; olives)",
+            "actions": "add",
+            "output": "olives added to toasted bread pizza"
+        },
+        {
+            "instructions": "add cheese_slice on top .",
+            "input": "(toasted bread pizza with olives; Cheese_slice)",
+            "actions": "add",
+            "output": "cheese sliced added to pizza bread"
+        },
+        {
+            "instructions": "place under broiler and broil about 4 5 minutes .",
+            "input": "pizza burger",
+            "actions": "place",
+            "output": "cooked pizza burger"
+        }
+    ],
+    "ingredients": [
+        {
+            "text": "4 slices crusty bread"
+        },
+        {
+            "text": "1 cup spaghetti sauce"
+        },
+        {
+            "text": "4 slices mozzarella cheese"
+        },
+        {
+            "text": "4 slices cheddar cheese"
+        },
+        {
+            "text": "14 cup sliced olive (optional)"
+        }
+    ],
+    "recipe": [
+        {
+            "text": "Place bread on baking sheet."
+        },
+        {
+            "text": "Toast for a few minutes."
+        },
+        {
+            "text": "Spread spaghetti sauce on toasted bread."
+        },
+        {
+            "text": "Use your own leftover spaghetti sauce or canned."
+        },
+        {
+            "text": "Add olives if using."
+        },
+        {
+            "text": "Add cheese slices on top."
+        },
+        {
+            "text": "Place under broiler and broil about 4-5 minutes."
+        }
+    ]
+}

@@ -1,0 +1,178 @@
+{
+    "title": "monster_stromboli_stuffed_pizza_style",
+    "id": "2a34e4340c",
+    "table": [
+        {
+            "instructions": "coat pizza stone with a dusting of corn meal .",
+            "input": "NA",
+            "action": "coat",
+            "output": "NA"
+        },
+        {
+            "instructions": "roll out first pound of bread pizza_dough ;",
+            "input": "pizza_dough",
+            "action": "roll",
+            "output": "rolled_pizza_dough"
+        },
+        {
+            "instructions": "cover with salami , pepper rings",
+            "input": "(rolled_pizza_dough; salami;  pepper rings)",
+            "action": "cover",
+            "output": "rolled_pizza_dough covered with salami and pepper rings"
+        },
+        {
+            "instructions": "add in 12 of sliced_olive .",
+            "input": "(rolled_pizza_dough covered with salami and pepper rings; sliced olives)",
+            "action": "add",
+            "output": "rolled_pizza_dough covered with salami, pepper rings and sliced olives"
+        },
+        {
+            "instructions": "add sliced portabella , infill steamed drained spinach and remaining olives .",
+            "input": "(rolled_pizza_dough covered with salami, pepper rings and sliced olives; sliced portabella, steamed drained spinach; remaining olives)",
+            "action": "add",
+            "output": "rolled_pizza_dough covered with salami, pepper rings, sliced olives, sliced portabella, steamed drained spinach and remaining olives"
+        },
+        {
+            "instructions": "add a sprinkling of mozzerella",
+            "input": "(rolled_pizza_dough covered with salami, pepper rings, sliced olives, sliced portabella, steamed drained spinach and remaining olives; mozzarella)",
+            "action": "add",
+            "output": "rolled_pizza_dough covered with salami, pepper rings, sliced olives, sliced portabella, steamed drained spinach, remaining olives and mozzarella"
+        },
+        {
+            "instructions": "add peppered black_forest_ham .",
+            "input": "(rolled_pizza_dough covered with salami, pepper rings, sliced olives, sliced portabella, steamed drained spinach, remaining olives and mozzarella; peppered black forest ham)",
+            "action": "add",
+            "output": "rolled_pizza_dough covered with salami, pepper rings, sliced olives, sliced portabella, steamed drained spinach, remaining olives, mozzarella and peppered black_forest_ham"
+        },
+        {
+            "instructions": "add remaining onion and pepper .",
+            "input": "(rolled_pizza_dough covered with salami, pepper rings, sliced olives, sliced portabella, steamed drained spinach, remaining olives, mozzarella and peppered black_forest_ham; remaining onion; remaining pepper)",
+            "action": "add",
+            "output": "rolled_pizza_dough covered with salami, pepper rings, sliced olives, sliced portabella, steamed drained spinach, remaining olives, mozzarella, peppered black_forest_ham, remaining onion and remaining pepper"
+        },
+        {
+            "instructions": "top with coopocollo .",
+            "input": "(rolled_pizza_dough covered with salami, pepper rings, sliced olives, sliced portabella, steamed drained spinach, remaining olives, mozzarella, peppered black_forest_ham, remaining onion and remaining pepper; coopocollo)",
+            "action": "top",
+            "output": "rolled_pizza_dough covered with salami, pepper rings, sliced olives, sliced portabella, steamed drained spinach, remaining olives, mozzarella, peppered black_forest_ham, remaining onion, remaining pepper and coopocollo"
+        },
+        {
+            "instructions": "roll next 1 pound dough",
+            "input": "pizza dough",
+            "action": "roll",
+            "output": "rolled pizza dough"
+        },
+        {
+            "instructions": "cover stitching to base dough layer .",
+            "input": "(rolled pizza dough; rolled_pizza_dough covered with salami, pepper rings, sliced olives, sliced portabella, steamed drained spinach, remaining olives, mozzarella, peppered black_forest_ham, remaining onion, remaining pepper and coopocollo)",
+            "action": "cover",
+            "output": "rolled_pizza_dough covered with salami, pepper rings, sliced olives, sliced portabella, steamed drained spinach, remaining olives, mozzarella, peppered black_forest_ham, remaining onion, remaining pepper and coopocollo covered with another rolled pizza dough"
+        },
+        {
+            "instructions": "coat with light olive_oil",
+            "input": "(rolled_pizza_dough covered with salami, pepper rings, sliced olives, sliced portabella, steamed drained spinach, remaining olives, mozzarella, peppered black_forest_ham, remaining onion, remaining pepper and coopocollo covered with another rolled pizza dough; olive oil)",
+            "action": "coat",
+            "output": "rolled_pizza_dough covered with salami, pepper rings, sliced olives, sliced portabella, steamed drained spinach, remaining olives, mozzarella, peppered black_forest_ham, remaining onion, remaining pepper and coopocollo, covered with another rolled pizza dough and coated with olive oil"
+        },
+        {
+            "instructions": "bake in preheated 375 degree oven for 40 to 45 min untill golden brown .",
+            "input": "uncoked stuffed pizza pie",
+            "action": "bake",
+            "output": "baked stuffed pizza pie"
+        }
+    ],
+    "ingredients": [
+        {
+            "text": "2 lbs pizza dough"
+        },
+        {
+            "text": "2 white onions, Sliced in thin Rings"
+        },
+        {
+            "text": "2 large bell peppers, Sliced in thin Rings"
+        },
+        {
+            "text": "2 large portabella mushrooms"
+        },
+        {
+            "text": "1 lb Baby Spinach, Steamed and Drained"
+        },
+        {
+            "text": "1 lb black olives, Halved length wise"
+        },
+        {
+            "text": "12 lb genoa salami"
+        },
+        {
+            "text": "12 lb pepperoni, Large"
+        },
+        {
+            "text": "12 lb black forest ham"
+        },
+        {
+            "text": "12 lb capicola"
+        },
+        {
+            "text": "12 lb provolone cheese, Sharp"
+        },
+        {
+            "text": "1 lb mozzarella cheese, Shredded"
+        },
+        {
+            "text": "2 tablespoons cornmeal"
+        },
+        {
+            "text": "2 tablespoons olive oil"
+        }
+    ],
+    "recipe": [
+        {
+            "text": "Coat PiIzza Stone with a dusting of corn meal."
+        },
+        {
+            "text": "Roll out first pound of Bread / Pizza dough extend beyond stone 1/2 inch."
+        },
+        {
+            "text": "layer in order."
+        },
+        {
+            "text": "Onion Rings with a sprinkling of shredded mozzerella cheese."
+        },
+        {
+            "text": "cover with Salami, Pepper Rings, add in 1/2 of sliced olives."
+        },
+        {
+            "text": "Pepperoni, Provolone Cheese,"
+        },
+        {
+            "text": "add Sliced Portabella, infill steamed drained spinach and remaining olives."
+        },
+        {
+            "text": "add a sprinkling of mozzerella"
+        },
+        {
+            "text": "add peppered / black forest ham."
+        },
+        {
+            "text": "add remaining onion and pepper."
+        },
+        {
+            "text": "infill with mozzerella cheese."
+        },
+        {
+            "text": "top with Coopocollo."
+        },
+        {
+            "text": "Roll next 1 pound dough and cover stitching to base dough layer."
+        },
+        {
+            "text": "coat with light olive oil and ventilate with knife to allow venting of steam."
+        },
+        {
+            "text": "Bake in preheated 375 degree oven for 40 to 45 min untill golden brown."
+        },
+        {
+            "text": "Allow to sit for 15 minute before slicing and Enjoy."
+        }
+    ]
+}

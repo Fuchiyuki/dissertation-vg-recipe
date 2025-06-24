@@ -1,0 +1,169 @@
+{
+    "title": "low_carb_meat-lover_'s_pizza",
+    "id": "8a77676501",
+    "table": [
+        {
+            "instructions": "preheat oven to 450 degrees .",
+            "input": "NA",
+            "action": "preheat",
+            "output": "NA"
+        },
+        {
+            "instructions": "heat a medium oven proof skillet over low heat .",
+            "input": "NA",
+            "action": "heat",
+            "output": "NA"
+        },
+        {
+            "instructions": "brush one side of low carb",
+            "input": "NA",
+            "action": "brush",
+            "output": "NA"
+        },
+        {
+            "instructions": "place the lavash, butter side down , in the skillet",
+            "input": "buttered lavash",
+            "action": "place",
+            "output": "buttered lavash butter side down"
+        },
+        {
+            "instructions": "cook for 45 seconds .",
+            "input": "buttered lavash butter side down",
+            "action": "cook",
+            "output": "cooked buttered lavash"
+        },
+        {
+            "instructions": "brush with remaining butter",
+            "input": "(remaining butter; cooked buttered lavash)",
+            "action": "brush",
+            "output": "cooked buttered lavash brushed with butter"
+        },
+        {
+            "instructions": "turn the lavash over to brown the other side .",
+            "input": "cooked buttered lavash brushed with butter",
+            "action": "turn",
+            "output": "browned cooked lavash on both sides"
+        },
+        {
+            "instructions": "remove skillet from heat .",
+            "input": "browned cooked lavash on both sides",
+            "action": "remove",
+            "output": "cooked lavash on both sides"
+        },
+        {
+            "instructions": "spread tomato_sauce evenly over the lavash .",
+            "input": "(tomato sauce; cooked lavash on both sides)",
+            "action": "spread",
+            "output": "cooked lavash covered with tomato sauce"
+        },
+        {
+            "instructions": "top with the sausage , pepperoni , and cheese .",
+            "input": "(sausage; pepperoni; cheese; cooked lavash with tomato sauce)",
+            "action": "top",
+            "output": "lavash topped with tomato sauce, sausage, pepperoni and cheese"
+        },
+        {
+            "instructions": "add mushrooms , fresh or canned , if desired .",
+            "input": "(lavash topped with tomato sauce, sausage, pepperoni and cheese; mushrooms)",
+            "action": "add",
+            "output": "lavash topped with tomato sauce, sausage, pepperoni, mushrooms and cheese"
+        },
+        {
+            "instructions": "place skillet into the hot oven",
+            "input": "lavash topped with tomato sauce, sausage, pepperoni, mushrooms and cheese",
+            "action": "place",
+            "output": "lavash topped with tomato sauce, sausage, pepperoni, mushrooms and cheese"
+        },
+        {
+            "instructions": "bake 10 minutes , till pizza is bubbly and cheese is golden .",
+            "input": "lavash topped with tomato sauce, sausage, pepperoni, mushrooms and cheese",
+            "action": "bake",
+            "output": "Bubbly and golden pizza lavash"
+        },
+        {
+            "instructions": "slide pizza out of skillet",
+            "input": "Bubbly and golden pizza lavash",
+            "action": "slide",
+            "output": "Bubbly and golden pizza lavash"
+        },
+        {
+            "instructions": "cool 1 or 2 minutes .",
+            "input": "Bubbly and golden pizza lavash",
+            "action": "cool",
+            "output": "cooled pizza lavash"
+        },
+        {
+            "instructions": "cut into 6 pieces",
+            "input": "cooled pizza lavash",
+            "action": "cut",
+            "output": "Pizza Lavash slices"
+        },
+        {
+            "instructions": "serve .",
+            "input": "Pizza Lavash slices",
+            "action": "serve",
+            "output": "Pizza Lavash slices ready to serve"
+        }
+    ],
+    "ingredients": [
+        {
+            "text": "1 teaspoon butter"
+        },
+        {
+            "text": "2 tablespoons tomato sauce"
+        },
+        {
+            "text": "2 ounces Italian sausage, cooked and crumbled"
+        },
+        {
+            "text": "1 ounce pepperoni, sliced"
+        },
+        {
+            "text": "2 ounces mozzarella cheese, shredded"
+        },
+        {
+            "text": "12 ounce mushroom, sliced (optional)"
+        }
+    ],
+    "recipe": [
+        {
+            "text": "Preheat oven to 450 degrees ."
+        },
+        {
+            "text": "Heat a medium oven-proof skillet over low heat."
+        },
+        {
+            "text": "Brush one side of low-carb lavash (3 net grams carbs)with half the butter."
+        },
+        {
+            "text": "Place the lavash, butter-side-down, in the skillet and cook for 45 seconds."
+        },
+        {
+            "text": "Brush with remaining butter and turn the lavash over to brown the other side."
+        },
+        {
+            "text": "Remove skillet from heat."
+        },
+        {
+            "text": "Spread tomato sauce evenly over the lavash."
+        },
+        {
+            "text": "Top with the sausage, pepperoni, and cheese."
+        },
+        {
+            "text": "Add mushrooms, fresh or canned, if desired."
+        },
+        {
+            "text": "Place skillet into the hot oven and bake 10 minutes, till pizza is bubbly and cheese is golden."
+        },
+        {
+            "text": "Remove skillet from oven (use a pot holder - the handle will be HOT)."
+        },
+        {
+            "text": "Slide pizza out of skillet and cool 1 or 2 minutes."
+        },
+        {
+            "text": "Cut into 6 pieces and serve."
+        }
+    ]
+}

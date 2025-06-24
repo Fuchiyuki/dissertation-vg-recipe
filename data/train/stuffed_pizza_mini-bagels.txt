@@ -1,0 +1,244 @@
+{
+    "title": "stuffed_pizza_mini-bagels",
+    "id": "bca91ed4d0",
+    "table": [
+        {
+            "instructions": "brown the ground_beef and ground_pork in a frying pan over medium high heat , breaking the ground_meat into small pieces as they brown .",
+            "input": "(ground beef; ground pork)",
+            "action": "brown",
+            "output": "browned ground meat"
+        },
+        {
+            "instructions": "add the chopped_onion to the meat",
+            "input": "(chopped onion; browned ground meat)",
+            "action": "add",
+            "output": "chopped onion added to browned ground meat"
+        },
+        {
+            "instructions": "brown until the onions are soft and translucent .",
+            "input": "chopped onion added to browned ground meat",
+            "action": "brown",
+            "output": "browned ground meat and onions"
+        },
+        {
+            "instructions": "add garlic",
+            "input": "(garlic; browned ground meat and onions)",
+            "action": "add",
+            "output": "garlic added browned ground meat and onions"
+        },
+        {
+            "instructions": "stir for a minute .",
+            "input": "garlic added browned ground meat and onions",
+            "action": "stir",
+            "output": "browned ground meat and onions mixture"
+        },
+        {
+            "instructions": "stir in oregano and basil .",
+            "input": "(oregano; basil; browned ground meat and onions mixture)",
+            "action": "stir",
+            "output": "basil and oregano stirred into browned ground meat and onions mixture"
+        },
+        {
+            "instructions": "turn off the heat",
+            "input": "basil and oregano stirred into browned ground meat and onions mixture",
+            "action": "turn",
+            "output": "basil and oregano stirred into browned ground meat and onions mixture"
+        },
+        {
+            "instructions": "add the pizza sauce, mix well .",
+            "input": "(pizza sauce; browned ground meat mixture)",
+            "action": "add",
+            "output": "pizza sauce into browned ground meat mixture"
+        },
+        {
+            "instructions": "add the parmesan_cheese",
+            "input": "(parmesan cheese; pizza sauce and ground meat mixture)",
+            "action": "add",
+            "output": "parmesan cheese added to pizza sauce and gorund meat mixture"
+        },
+        {
+            "instructions": "mix until well blended .",
+            "input": "parmesan cheese added to pizza sauce and gorund meat mixture",
+            "action": "mix",
+            "output": "ground meat and cheese sauce"
+        },
+        {
+            "instructions": "add optional sugar , if desired .",
+            "input": "(ground meat and cheese sauce; optional sugar)",
+            "action": "add",
+            "output": "optional sugar added to ground meat and cheese sauce"
+        },
+        {
+            "instructions": "finally , fold the mozzarella_cheese in , all at once .",
+            "input": "(mozzarella cheese; ground meat and cheese sauce)",
+            "action": "fold",
+            "output": "mozzarella cheese folded into ground meat and cheese sauce"
+        },
+        {
+            "instructions": "taste the mixture",
+            "input": "NA",
+            "action": "taste",
+            "output": "NA"
+        },
+        {
+            "instructions": "season with salt and pepper to taste .",
+            "input": "(ground meat mixture with mozzarella; salt; pepper)",
+            "action": "season",
+            "output": "seasoned ground meat mixture with mozzarella"
+        },
+        {
+            "instructions": "split the bagels",
+            "input": "bagels",
+            "action": "split",
+            "output": "split bagels"
+        },
+        {
+            "instructions": "heap the meat mixture on the bottom ,",
+            "input": "(seasoned ground meat mixture with mozzarella; split bagels)",
+            "action": "heap",
+            "output": "seasoned ground meat mixture with mozzarella heaped on bagel bottom"
+        },
+        {
+            "instructions": "put the top on .",
+            "input": "(bottom of bagel with seasoned ground meat mixture with mozzarella; top of bagel)",
+            "action": "put",
+            "output": "top of bagel put on bottom of bagel with seasoned ground meat mixture with mozzarella"
+        },
+        {
+            "instructions": "warm the bagel .",
+            "input": "bagel with ground meat mixture",
+            "action": "warm",
+            "output": "warmed bagel with ground meat mixture"
+        },
+        {
+            "instructions": "you could also bake them in an oven .",
+            "input": "NA",
+            "action": "bake",
+            "output": "NA"
+        },
+        {
+            "instructions": "to freeze",
+            "input": "NA",
+            "action": "freeze",
+            "output": "NA"
+        },
+        {
+            "instructions": "follow through step five ,",
+            "input": "NA",
+            "action": "follow",
+            "output": "NA"
+        },
+        {
+            "instructions": "place on a cookie sheet in the freezer .",
+            "input": "bagel with ground meat mixture",
+            "action": "place",
+            "output": "frozen bagel with ground meat mixture"
+        },
+        {
+            "instructions": "when frozen , wrap in plastic",
+            "input": "frozen bagel with ground meat mixture",
+            "action": "wrap",
+            "output": "wrapped frozen bagel with ground meat mixture in plastic"
+        },
+        {
+            "instructions": "place in zip loc bags .",
+            "input": "wrapped frozen bagel with ground meat mixture in plastic",
+            "action": "place",
+            "output": "wrapped frozen bagel with ground meat mixture in plastic"
+        },
+        {
+            "instructions": "reheat in oven or microwave .",
+            "input": "wrapped frozen bagel with ground meat mixture in plastic",
+            "action": "reheat",
+            "output": "reheated frozen bagel with ground meat mixture"
+        }
+    ],
+    "ingredients": [
+        {
+            "text": "12 lb lean ground beef"
+        },
+        {
+            "text": "12 lb ground lean pork"
+        },
+        {
+            "text": "1 cup chopped onion"
+        },
+        {
+            "text": "1 garlic clove, minced"
+        },
+        {
+            "text": "12 teaspoon dried oregano leaves"
+        },
+        {
+            "text": "12 teaspoon dried basil leaves"
+        },
+        {
+            "text": "1 cup Ragu pizza sauce or 1 cup pizza sauce, of your choice"
+        },
+        {
+            "text": "14 cup parmesan cheese"
+        },
+        {
+            "text": "2 cups grated mozzarella cheese"
+        },
+        {
+            "text": "1 teaspoon brown sugar (optional)"
+        },
+        {
+            "text": "salt and pepper, to taste"
+        },
+        {
+            "text": "8 miniature bagels (I used Thomason's)"
+        }
+    ],
+    "recipe": [
+        {
+            "text": "Brown the ground beef and ground pork in a frying pan over medium-high heat, breaking the ground meats into small pieces as they brown."
+        },
+        {
+            "text": "Add the chopped onion to the meat and brown until the onions are soft and translucent."
+        },
+        {
+            "text": "Add garlic and stir for a minute."
+        },
+        {
+            "text": "Stir in oregano and basil."
+        },
+        {
+            "text": "Turn off the heat and add the pizza sauce, mix well."
+        },
+        {
+            "text": "Add the parmesan cheese and mix until well-blended."
+        },
+        {
+            "text": "Add optional sugar, if desired."
+        },
+        {
+            "text": "Finally, fold the mozzarella cheese in, all at once."
+        },
+        {
+            "text": "You want the mixture to be just warm enough to slightly melt the cheese, binding the meat mixture together."
+        },
+        {
+            "text": "Taste the mixture and season with salt and pepper to taste."
+        },
+        {
+            "text": "Split the bagels and heap the meat mixture on the bottom, and put the top on."
+        },
+        {
+            "text": "I nuked them for 15 seconds on high, which was just perfect to melt the cheese and warm the bagel."
+        },
+        {
+            "text": "You could also bake them in an oven."
+        },
+        {
+            "text": "To freeze, follow through step five, then place on a cookie sheet in the freezer."
+        },
+        {
+            "text": "When frozen, wrap in plastic and place in Zip Loc bags."
+        },
+        {
+            "text": "Reheat in oven or microwave."
+        }
+    ]
+}

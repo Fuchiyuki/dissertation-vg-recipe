@@ -1,0 +1,175 @@
+{
+    "title": "pizza_pockets_or_hot_pockets",
+    "id": "8ba7369174",
+    "table": [
+        {
+            "instructions": "dissolve yeast in warm_water .",
+            "input": "(yeast; warm water)",
+            "action": "dissolve",
+            "output": "dissolved_yeast"
+        },
+        {
+            "instructions": "add sugar .",
+            "input": "(sugar; dissolved_yeast)",
+            "action": "add",
+            "output": "sugar added to dissolved_yeast"
+        },
+        {
+            "instructions": "then stir in oil , salt , and flour .",
+            "input": "(oil; salt; flour; sugar added to dissolved_yeast)",
+            "action": "stir",
+            "output": "partially mixed dough"
+        },
+        {
+            "instructions": "knead 5 minutes .",
+            "input": "partially mixed dough",
+            "action": "knead",
+            "output": "kneaded dough"
+        },
+        {
+            "instructions": "divide dough into 6 pieces .",
+            "input": "kneaded dough",
+            "action": "divide",
+            "output": "divided dough"
+        },
+        {
+            "instructions": "roll",
+            "input": "divided dough",
+            "action": "roll",
+            "output": "flattened_dough"
+        },
+        {
+            "instructions": "pat each piece into a circle about 6 inches across or so .",
+            "input": "flattened_dough",
+            "action": "pat",
+            "output": "flattened_dough patted into a circle"
+        },
+        {
+            "instructions": "top half of each circle with filling of choice , keeping back from edges",
+            "input": "(toppings; flattened_dough patted into a circle)",
+            "action": "top",
+            "output": "half of pizza crust topped with filling of choice"
+        },
+        {
+            "instructions": "it will seal well .",
+            "input": "NA",
+            "action": "seal",
+            "output": "NA"
+        },
+        {
+            "instructions": "fold the other 12 of circle over the filling",
+            "input": "half of pizza crust topped with filling of choice",
+            "action": "fold",
+            "output": "folded pizza crust topped with filling of choice"
+        },
+        {
+            "instructions": "pinch sides together or seal with a fork .",
+            "input": "folded pizza crust topped with filling of choice",
+            "action": "pinch",
+            "output": "sealed folded pizza crust topped with filling of choice"
+        },
+        {
+            "instructions": "poke a couple steam vents",
+            "input": "sealed folded pizza crust topped with filling of choice",
+            "action": "poke",
+            "output": "sealed and poked calzone"
+        },
+        {
+            "instructions": "bake for 20 minutes at 375f .",
+            "input": "uncooked calzone",
+            "action": "bake",
+            "output": "baked calzone"
+        },
+        {
+            "instructions": "for pizza pockets , fill this with a little pizza_sauce , then mushrooms , pepperoni , cheese , etc .",
+            "input": "(pizza sauce; mushrooms; pepperoni; cheese)",
+            "action": "fill",
+            "output": "toppings for pizza pocket"
+        },
+        {
+            "instructions": "also , try with cream , soup , chopped cooked_chicken and steamed broccoli and some shredded_cheese .",
+            "input": "(cream; soup; chopped cooked chicken; steamed broccoli; shredded cheese)",
+            "action": "try",
+            "output": "toppings for pizza pocket"
+        },
+        {
+            "instructions": "use your leftovers and imagination to create something special !",
+            "input": "NA",
+            "action": "use",
+            "output": "NA"
+        }
+    ],
+    "ingredients": [
+        {
+            "text": "1 tablespoon yeast"
+        },
+        {
+            "text": "1 tablespoon sugar"
+        },
+        {
+            "text": "1 cup warm water"
+        },
+        {
+            "text": "2 tablespoons oil"
+        },
+        {
+            "text": "1 teaspoon salt"
+        },
+        {
+            "text": "2 34-3 14 cups flour"
+        },
+        {
+            "text": "pepperoni, jam, etc"
+        },
+        {
+            "text": "tomato sauce"
+        },
+        {
+            "text": "cheese"
+        }
+    ],
+    "recipe": [
+        {
+            "text": "Dissolve yeast in warm water."
+        },
+        {
+            "text": "Add sugar."
+        },
+        {
+            "text": "Let it set for a few minutes until foamy (if you're using fast-rise yeast, you can just add the yeast with the flour and go on)."
+        },
+        {
+            "text": "Then stir in oil, salt, and flour."
+        },
+        {
+            "text": "Knead 5 minutes."
+        },
+        {
+            "text": "Let sit 5 minutes."
+        },
+        {
+            "text": "Divide dough into 6 pieces."
+        },
+        {
+            "text": "Roll and pat each piece into a circle (about 6-inches across or so)."
+        },
+        {
+            "text": "Top half of each circle with filling of choice, keeping back from edges so it will seal well."
+        },
+        {
+            "text": "Fold the other 1/2 of circle over the filling and pinch sides together or seal with a fork."
+        },
+        {
+            "text": "Poke a couple steam vents and bake for 20 minutes at 375F."
+        },
+        {
+            "text": "For pizza pockets, fill this with a little pizza sauce, then mushrooms, pepperoni, cheese, etc."
+        },
+        {
+            "text": "Also, try with cream soup, chopped cooked chicken and steamed broccoli and some shredded cheese."
+        },
+        {
+            "text": "Use your leftovers and imagination to create something special!"
+        }
+    ]
+}

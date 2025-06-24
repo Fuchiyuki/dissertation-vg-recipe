@@ -1,0 +1,133 @@
+{
+    "title": "oven-dried_heirloom_tomato_basil_pesto_and_mozzarella_pizza",
+    "id": "24cc444003",
+    "table": [
+        {
+            "instructions": "preheat the oven to 450 f degree .",
+            "input": "NA",
+            "actions": "preheat",
+            "output": "NA"
+        },
+        {
+            "instructions": "spread the pesto equally over each prepared personal sized pizza_shell .",
+            "input": "(pesto; pizza_shell)",
+            "actions": "spread",
+            "output": "spread_pesto on pizza_shell"
+        },
+        {
+            "instructions": "top the layer of pesto with 12 cup of shredded_mozzarella_cheese .",
+            "input": "(shredded mozzarella cheese; spread_pesto on pizza_shell)",
+            "actions": "top",
+            "output": "cheese and pesto on pizza shell"
+        },
+        {
+            "instructions": "top with the oven dried heirloom_tomato .",
+            "input": "(dried heirloom tomato; cheese and pesto on pizza shell)",
+            "actions": "top",
+            "output": "(uncooked pizza with dried heirloom tomato; cheese and pesto)"
+        },
+        {
+            "instructions": "place the mushroom slices , bell_pepper slices and red onion_slice over the heirloom_tomato .",
+            "input": "(uncooked pizza with dried heirloom tomato; cheese and pesto; mushroom ,bell pepper and red onion slices)",
+            "actions": "place",
+            "output": "pesto and mozzarella cheese with mushroom , pepper, onion and dried heirloom tomato"
+        },
+        {
+            "instructions": "sprinkle reserved 14 cup of the cheese on top .",
+            "input": "(cheese; pesto and mozzarella cheese with mushroom , pepper, onion and dried heirloom tomato )",
+            "actions": "sprinkle",
+            "output": "pesto and mozzarella cheese with mushroom , pepper, onion and dried heirloom tomato"
+        },
+        {
+            "instructions": "bake until the shell is golden brown and the cheese is melted , about 12 minutes .",
+            "input": "uncooked pizza",
+            "actions": "bake",
+            "output": "baked pesto and mozzarella cheese with mushroom , pepper, onion and dried heirloom tomato"
+        },
+        {
+            "instructions": "cool slightly",
+            "input": "pizza",
+            "actions": "cool",
+            "output": "cooled pizza"
+        },
+        {
+            "instructions": "serve warm .",
+            "input": "cooked oven-dried heirloom tomato basil pesto and mozzarella pizza",
+            "actions": "serve",
+            "output": "oven-dried heirloom tomato basil pesto and mozzarella pizza"
+        }
+    ],
+    "ingredients": [
+        {
+            "text": "1/4 cup basil pesto basil"
+        },
+        {
+            "text": "2 ounces mozzarella cheese shredded, divided about 1/2 cup"
+        },
+        {
+            "text": "1/4 cup tomatoes heirloom, oven-dried, slice into bite size"
+        },
+        {
+            "text": "2 each mushrooms, button sliced, or cremini"
+        },
+        {
+            "text": "1/2 each green bell peppers slice into 1/4-inch thick"
+        },
+        {
+            "text": "1/4 each red onion small onion, slice into 1/4-inch thick"
+        },
+        {
+            "text": "1 each pizza shell store-bought or homemade"
+        }
+    ],
+    "recipe": [
+        {
+            "text": "Preheat the oven to 450 F degree."
+        },
+        {
+            "text": "Spread the pesto equally over each prepared personal sized pizza shell."
+        },
+        {
+            "text": "You can make the pizza crust fresh or use prepared pizza dough."
+        },
+        {
+            "text": "Top the layer of pesto with 1/2 cup of shredded mozzarella cheese."
+        },
+        {
+            "text": "Top with the oven-dried heirloom tomatoes."
+        },
+        {
+            "text": "Place the mushroom slices, bell pepper slices and red onion slices over the heirloom tomatoes."
+        },
+        {
+            "text": "Sprinkle reserved 1/4 cup of the cheese on top."
+        },
+        {
+            "text": "Bake until the shell is golden brown and the cheese is melted, about 12 minutes."
+        },
+        {
+            "text": "Cool slightly and serve warm."
+        },
+        {
+            "text": "How to oven-dry the heirloom tomatoes:"
+        },
+        {
+            "text": "Slice the tomatoes into 1/4 to 1/2-inch thick slices."
+        },
+        {
+            "text": "Line the slices in a single layer on a large baking sheet coated with cooking spray."
+        },
+        {
+            "text": "Season with a little bit salt, black pepper and freshly chopped thymes if needed."
+        },
+        {
+            "text": "Roast in a 200 degrees F oven for about 3 to 4 hours, depending on how dry you want."
+        },
+        {
+            "text": "Use them to make pizza, pie, or toss with salad, pasta."
+        },
+        {
+            "text": "If you don't use them right away, you can put them into a zip-lock bag, and freeze for up to several months."
+        }
+    ]
+}

@@ -1,0 +1,127 @@
+{
+    "title": "bistro_apple_pizza_recipe",
+    "id": "da766a5d42",
+    "table": [
+        {
+            "instructions": "for _ each _ pizza heat oven to 450if .",
+            "input": "NA",
+            "actions": "heat",
+            "output": "NA"
+        },
+        {
+            "instructions": "remove from heat .",
+            "input": "NA",
+            "actions": "remove",
+            "output": "NA"
+        },
+        {
+            "instructions": "brush extra virgin_olive_oil blend onto pizza_crust .",
+            "input": "(virgin_olive_oil; pizza_crust)",
+            "actions": "brush",
+            "output": "brushed_virgin_olive_oil_on_pizza_crust"
+        },
+        {
+            "instructions": "sprinkle on 1 apple",
+            "input": "(pizza_crust; apples)",
+            "actions": "sprinkle",
+            "output": "apple_sprinkled_on_pizza_crust"
+        },
+        {
+            "instructions": "blend one c. mozzarella_cheese , one c. blue_cheese and 12 c. parmesan_cheese",
+            "input": "(mozzarella_cheese; blue_cheese; parmesan_cheese)",
+            "actions": "blend",
+            "output": "blended_cheeses"
+        },
+        {
+            "instructions": "sprinkle on one tsp .",
+            "input": "(blended_cheeses; pizza_crust)",
+            "actions": "sprinkle",
+            "output": "cheeses_sprinkled_on_pizza_crust"
+        },
+        {
+            "instructions": "bake for 12 15 min or possibly till cheese bubbles and crust is brown .",
+            "input": "uncooked_pizza",
+            "actions": "bake",
+            "output": "bistro_apple_pizza"
+        }
+    ],
+    "ingredients": [
+        {
+            "text": "1/4 c. Garlic, chopped"
+        },
+        {
+            "text": "3/4 c. Extra virgin extra virgin olive oil"
+        },
+        {
+            "text": "6 x 12\" prepared pizza dough crusts"
+        },
+        {
+            "text": "1 lb Fresh spinach (aprox. 3 quarts.), coarsely minced"
+        },
+        {
+            "text": "9 c. Granny Smith apple, peeled & thin sliced"
+        },
+        {
+            "text": "6 c. Mozzarella cheese, shredded"
+        },
+        {
+            "text": "6 c. Blue cheese or possibly Roquefort or possibly Gorgonzola cheese, crumbled"
+        },
+        {
+            "text": "3 c. Parmesan cheese, finely grated"
+        },
+        {
+            "text": "2 Tbsp. Dry oregano"
+        }
+    ],
+    "recipe": [
+        {
+            "text": "For _each_ pizza: Heat oven to 450iF."
+        },
+        {
+            "text": "Sauta 2 tsp."
+        },
+        {
+            "text": "garlic in 2 Tbsp."
+        },
+        {
+            "text": "extra virgin olive oil over medium heat for 1-2 min."
+        },
+        {
+            "text": "Remove from heat."
+        },
+        {
+            "text": "Brush extra virgin olive oil blend onto pizza crust."
+        },
+        {
+            "text": "Distribute 2 c. spinach proportionately onto crust."
+        },
+        {
+            "text": "Sprinkle on 1 & 1/2 c. apple."
+        },
+        {
+            "text": "Blend one c. mozzarella cheese, one c. blue cheese and 1/2-c. Parmesan cheese."
+        },
+        {
+            "text": "Distribute cheese proportionately over apple."
+        },
+        {
+            "text": "Sprinkle on one tsp."
+        },
+        {
+            "text": "oregano."
+        },
+        {
+            "text": "Repeat for remaining pizzas."
+        },
+        {
+            "text": "Bake for 12-15 min or possibly till cheese bubbles and crust is brown."
+        },
+        {
+            "text": "NOTES :"
+        },
+        {
+            "text": "Yield: Six 12-inch pizzas (24 servings)."
+        }
+    ]
+}

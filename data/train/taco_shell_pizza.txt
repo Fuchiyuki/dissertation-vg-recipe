@@ -1,0 +1,67 @@
+{
+    "title": "taco_shell_pizza",
+    "id": "730c8279d1",
+    "table": [
+        {
+            "instructions": "heat oven to 40",
+            "input": "NA",
+            "action": "heat",
+            "output": "NA"
+        },
+        {
+            "instructions": "place taco_shell on cookie sheet .",
+            "input": "taco_shell",
+            "action": "place",
+            "output": "taco_shell"
+        },
+        {
+            "instructions": "add pizza_sauce and mozzarella_cheese and mushrooms , peppers , anything you put on a regular pizza .",
+            "input": "(Taco_shell; Pizza_sauce; Mozzarella_cheese; Mushrooms; Peppers)",
+            "action": "add",
+            "output": "taco_shell with pizza sauce, mozzarella cheese, mushrooms and peppers"
+        },
+        {
+            "instructions": "cook for 10 minutes or until cheese melts .",
+            "input": "taco_shell with pizza sauce, mozzarella cheese, mushrooms and peppers",
+            "action": "cook",
+            "output": "Cooked taco shell pizza with melted cheese"
+        },
+        {
+            "instructions": "serve",
+            "input": "Cooked taco shell pizza with melted cheese",
+            "action": "serve",
+            "output": "Cooked taco shell pizza with melted cheese ready to serve"
+        }
+    ],
+    "ingredients": [
+        {
+            "text": "4 white taco shells"
+        },
+        {
+            "text": "pizza sauce"
+        },
+        {
+            "text": "shredded mozzarella cheese"
+        }
+    ],
+    "recipe": [
+        {
+            "text": "pre heat oven to 400."
+        },
+        {
+            "text": "place taco shells on cookie sheet."
+        },
+        {
+            "text": "add pizza sauce and mozzarella cheese (and mushrooms, peppers, anything you put on a regular pizza)."
+        },
+        {
+            "text": "cook for 10 minutes (or until cheese melts)."
+        },
+        {
+            "text": "serve and enjoy!"
+        },
+        {
+            "text": "*the computer may not calculate, but just with the recipe I gave you, 1 serving is just under 200 calories."
+        }
+    ]
+}

@@ -1,0 +1,151 @@
+{
+    "title": "grilled_pizza_burger_sliders",
+    "id": "76009eae1a",
+    "table": [
+        {
+            "instructions": "while ground_beef is still partially frozen , slice roll into 8 patties",
+            "input": "partially frozen ground_beef",
+            "action": "slice",
+            "output": "partially frozen ground beef patties"
+        },
+        {
+            "instructions": "once thawed , season with the salts and pepper on both sides .",
+            "input": "(salt; pepper; thawed ground beef patties)",
+            "action": "season",
+            "output": "seasoned ground beef patties"
+        },
+        {
+            "instructions": "preheat your grill to medium high heat .",
+            "input": "NA",
+            "action": "preheat",
+            "output": "NA"
+        },
+        {
+            "instructions": "cut each cheese_slice into 4 squares .",
+            "input": "cheese slices",
+            "action": "cut",
+            "output": "cheese slices squares"
+        },
+        {
+            "instructions": "grill burgers on medium high heat for 3 4 minutes on each side .",
+            "input": "seasoned ground beef patties patties",
+            "action": "grill",
+            "output": "cooked burger patties"
+        },
+        {
+            "instructions": "add 2 slices of cheese to each burger during the last minute of grilling , sprinkling the cheese with the italian salad_dressing_mix .",
+            "input": "(cheese slices; cooked burger patties; italian salad dressing mix)",
+            "action": "add",
+            "output": "cheese slices and italian salad dressing mix added to cooked burger patties"
+        },
+        {
+            "instructions": "when cheese is melted and burgers are cooked , remove them from the grill .",
+            "input": "burger patties with melted cheese",
+            "action": "remove",
+            "output": "burger patties with melted cheese"
+        },
+        {
+            "instructions": "heat marinara or pizza_sauce in microwave for 1 12 minutes .",
+            "input": "pizza sauce",
+            "action": "heat",
+            "output": "heated pizza sauce"
+        },
+        {
+            "instructions": "slice rolls in half thru the center",
+            "input": "rolls",
+            "action": "slice",
+            "output": "sliced rolls"
+        },
+        {
+            "instructions": "microwave 2 at a time for 15 seconds .",
+            "input": "sliced rolls",
+            "action": "microwave",
+            "output": "microwaved sliced rolls"
+        },
+        {
+            "instructions": "add the burger to the roll",
+            "input": "(burger patties with melted cheese; microwaved sliced rolls)",
+            "action": "add",
+            "output": "burger patties with melted cheese on buns"
+        },
+        {
+            "instructions": "top with marinara_sauce .",
+            "input": "(heated pizza sauce; burger patties with melted cheese on buns)",
+            "action": "top",
+            "output": "burger patties with melted cheese on buns topped with pizza sauce"
+        },
+        {
+            "instructions": "top with onion and pickle if desired or any topping of choice .",
+            "input": "(onion; pickle; grilled_pizza_burger_sliders)",
+            "action": "top",
+            "output": "grilled_pizza_burger_sliders topped with onion or pickle"
+        }
+    ],
+    "ingredients": [
+        {
+            "text": "1 pound Roll Of Ground Beef, Partially Frozen"
+        },
+        {
+            "text": "1 teaspoon Garlic Salt"
+        },
+        {
+            "text": "1 teaspoon Seasoned Salt"
+        },
+        {
+            "text": "1 teaspoon Cracked Black Pepper"
+        },
+        {
+            "text": "4 slices Provolone-mozzarella Cheese"
+        },
+        {
+            "text": "1 Tablespoon Dry Italian Salad Dressing Mix"
+        },
+        {
+            "text": "1 cup Marinara Or Pizza Sauce"
+        },
+        {
+            "text": "8 whole Kings Hawaiian Dinner Rolls"
+        },
+        {
+            "text": "Additional Burger Toppings Of Choice (onion, Pickle, Etc)"
+        }
+    ],
+    "recipe": [
+        {
+            "text": "While ground beef is still partially frozen, slice roll into 8 patties and let them continue to thaw."
+        },
+        {
+            "text": "Once thawed, season with the salts and pepper on both sides."
+        },
+        {
+            "text": "And you may want to flatten them a little to your desired thickness."
+        },
+        {
+            "text": "Preheat your grill to medium-high heat."
+        },
+        {
+            "text": "Cut each cheese slice into 4 squares."
+        },
+        {
+            "text": "Grill burgers on medium-high heat for 3-4 minutes on each side."
+        },
+        {
+            "text": "Add 2 slices of cheese to each burger during the last minute of grilling, sprinkling the cheese with the Italian salad dressing mix."
+        },
+        {
+            "text": "When cheese is melted and burgers are cooked, remove them from the grill."
+        },
+        {
+            "text": "Heat marinara or pizza sauce in microwave for 1-1/2 minutes."
+        },
+        {
+            "text": "Slice rolls in half thru the center and microwave 2 at a time for 15 seconds."
+        },
+        {
+            "text": "Add the burger to the roll and top with marinara sauce."
+        },
+        {
+            "text": "Top with onion and pickle if desired or any topping of choice."
+        }
+    ]
+}

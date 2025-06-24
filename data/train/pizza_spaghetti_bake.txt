@@ -1,0 +1,121 @@
+{
+    "title": "pizza_spaghetti_bake",
+    "id": "3829493aa6",
+    "table": [
+        {
+            "instructions": "preheat oven to 350 degrees .",
+            "input": "NA",
+            "action": "preheat",
+            "output": "NA"
+        },
+        {
+            "instructions": "cook spaghetti 5 7 minutes , before it reaches al dente stage .",
+            "input": "spaghetti",
+            "action": "cook",
+            "output": "cooked_spaghetti"
+        },
+        {
+            "instructions": "mix with egg and milk .",
+            "input": "(egg; milk; cooked_spaghetti)",
+            "action": "mix",
+            "output": "spaghetti, egg and milk mixture"
+        },
+        {
+            "instructions": "pour into a greased 13 x 9 pan",
+            "input": "spaghetti, egg and milk mixture",
+            "action": "pour",
+            "output": "spaghetti, egg and milk mixture in pan"
+        },
+        {
+            "instructions": "bake for 11 minutes to set pizza_crust .",
+            "input": "spaghetti, egg and milk mixture",
+            "action": "bake",
+            "output": "spaghetti crust"
+        },
+        {
+            "instructions": "pour sauce and tomatoes over the spaghetti .",
+            "input": "(spaghetti crust; sauce; tomatoes)",
+            "action": "pour",
+            "output": "spaghetti crust topped with sauce and tomatoes"
+        },
+        {
+            "instructions": "add cheese and toppings .",
+            "input": "(spaghetti crust topped with sauce and tomatoes; cheese; toppings)",
+            "action": "add",
+            "output": "spaghetti crust topped with sauce, tomatoes, cheese and toppings"
+        },
+        {
+            "instructions": "bake at 350 for 25 30 minutes or until cheese is melted and just beginning to brown .",
+            "input": "uncooked spaghetti bake",
+            "action": "bake",
+            "output": "baked spaghetti bake"
+        }
+    ],
+    "ingredients": [
+        {
+            "text": "8 ounces spaghetti"
+        },
+        {
+            "text": "2 eggs"
+        },
+        {
+            "text": "12 cup milk"
+        },
+        {
+            "text": "1 can your favorite spaghetti sauce"
+        },
+        {
+            "text": "1 can of diced tomatoes with garlic"
+        },
+        {
+            "text": "1 (8 ounce) packageshredded mozzarella cheese"
+        },
+        {
+            "text": "onion"
+        },
+        {
+            "text": "green pepper"
+        },
+        {
+            "text": "pepperoni"
+        },
+        {
+            "text": "sausage"
+        },
+        {
+            "text": "mushroom"
+        },
+        {
+            "text": "fresh basil"
+        },
+        {
+            "text": "pizza seasoning"
+        },
+        {
+            "text": "parmesan cheese"
+        }
+    ],
+    "recipe": [
+        {
+            "text": "Preheat oven to 350 degrees."
+        },
+        {
+            "text": "Cook spaghetti 5- 7 minutes, before it reaches al dente stage."
+        },
+        {
+            "text": "Mix with egg and milk."
+        },
+        {
+            "text": "Pour into a greased 13 X 9 pan and bake for 11 minutes to set\"pizza crust\"."
+        },
+        {
+            "text": "Pour sauce and tomatoes over the spaghetti."
+        },
+        {
+            "text": "Add cheese and toppings."
+        },
+        {
+            "text": "Bake at 350 for 25- 30 minutes or until cheese is melted and just beginning to brown."
+        }
+    ]
+}

@@ -1,0 +1,109 @@
+{
+    "title": "mr._food_'s_pizza_pasta_salad",
+    "id": "210422d6d0",
+    "table": [
+        {
+            "instructions": "cook pasta to al dente",
+            "input": "pasta",
+            "action": "cook",
+            "output": "cooked_pasta al dente"
+        },
+        {
+            "instructions": "drain well",
+            "input": "cooked_pasta al dente",
+            "action": "drain",
+            "output": "drained cooked_pasta al dente"
+        },
+        {
+            "instructions": "transfer to a large bowl .",
+            "input": "drained cooked_pasta al dente",
+            "action": "transfer",
+            "output": "drained cooked_pasta al dente"
+        },
+        {
+            "instructions": "while pasta is cooking , whisk oil , vinegar , parmesan_cheese , salt , pepper , italian_seasoning and garlic_powder together in a separate bowl .",
+            "input": "(oil; vinegar; parmesan_cheese; salt; pepper; italian_seasoning; garlic_powder)",
+            "action": "whisk",
+            "output": "parmesan dressing"
+        },
+        {
+            "instructions": "toss pepperoni halves , diced_tomato , shredded_cheese and diced scallions into the pasta bowl .",
+            "input": "(drained cooked_pasta al dente; pepperoni halves; diced_tomato; shredded_cheese; diced scallions; )",
+            "action": "toss",
+            "output": "tossed pasta, cheese and vegetable salad"
+        },
+        {
+            "instructions": "add dressing",
+            "input": "(parmesan dressing; tossed pasta, cheese and vegetable salad)",
+            "action": "add",
+            "output": "dressing added to tossed pasta, cheese and vegetable salad"
+        },
+        {
+            "instructions": "toss well .",
+            "input": "dressed pasta salad",
+            "action": "toss",
+            "output": "well tossed dressed pasta salad"
+        },
+        {
+            "instructions": "refrigerate at least 2 hours before serving .",
+            "input": "well tossed dressed pasta salad",
+            "action": "refrigerate",
+            "output": "refrigerated pasta salad"
+        }
+    ],
+    "ingredients": [
+        {
+            "text": "16 ounces pasta, bowtie style"
+        },
+        {
+            "text": "3 roma tomatoes, diced"
+        },
+        {
+            "text": "8 ounces shredded cheddar cheese"
+        },
+        {
+            "text": "3 scallions, diced"
+        },
+        {
+            "text": "3 ounces pepperoni, sliced in half"
+        },
+        {
+            "text": "12 cup vegetable oil"
+        },
+        {
+            "text": "12 cup red wine vinegar"
+        },
+        {
+            "text": "13 cup parmesan cheese, grated"
+        },
+        {
+            "text": "2 teaspoons italian seasoning"
+        },
+        {
+            "text": "1 teaspoon garlic powder"
+        },
+        {
+            "text": "1 teaspoon salt"
+        },
+        {
+            "text": "14 teaspoon pepper"
+        }
+    ],
+    "recipe": [
+        {
+            "text": "Cook pasta to al dente, drain well and transfer to a large bowl."
+        },
+        {
+            "text": "While pasta is cooking, whisk oil, vinegar, parmesan cheese, salt, pepper, italian seasoning and garlic powder together in a separate bowl."
+        },
+        {
+            "text": "Toss pepperoni halves, diced tomatoes, shredded cheese and diced scallions into the pasta bowl."
+        },
+        {
+            "text": "Add dressing and toss well."
+        },
+        {
+            "text": "Refrigerate at least 2 hours before serving."
+        }
+    ]
+}

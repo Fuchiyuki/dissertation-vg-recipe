@@ -1,0 +1,220 @@
+{
+    "title": "applesauce_brownie_pizza",
+    "id": "6be7f94b1a",
+    "table": [
+        {
+            "instructions": "preheat oven to 350f 180c .",
+            "input": "NA",
+            "action": "preheat",
+            "output": "NA"
+        },
+        {
+            "instructions": "grease a 12 inch , pizza\u2012pan with butter very well .",
+            "input": "NA",
+            "action": "grease",
+            "output": "NA"
+        },
+        {
+            "instructions": "melt chocolate , butter and oil under medium low heat in a small sauce pan until smooth .",
+            "input": "(chocolate; butter; oil)",
+            "action": "melt",
+            "output": "melted_chocolate mixture"
+        },
+        {
+            "instructions": "stir in applesauce .",
+            "input": "(melted_chocolate mixture; applesauce)",
+            "action": "stir",
+            "output": "applesauce stirred into melted_chocolate mixture"
+        },
+        {
+            "instructions": "add sugar",
+            "input": "(sugar; applesauce stirred into melted_chocolate mixture)",
+            "action": "add",
+            "output": "sugar added to chocolate and applesauce mixture"
+        },
+        {
+            "instructions": "mix until dissolved .",
+            "input": "sugar added to chocolate and applesauce mixture",
+            "action": "mix",
+            "output": "chocolate and applesauce mixture"
+        },
+        {
+            "instructions": "mix in 4 eggs and 1 teaspoon vanilla until well blended .",
+            "input": "(eggs; vanilla; chocolate and applesauce mixture)",
+            "action": "mix",
+            "output": "eggs and vanilla mixed into chocolate and applesauce mixture"
+        },
+        {
+            "instructions": "stir in flour until just incorporated .",
+            "input": "(flour; applesauce and chocolare mixture)",
+            "action": "stir",
+            "output": "applesauce and chocolate brownie batter"
+        },
+        {
+            "instructions": "spread mixture into prepared pizza\u2012pan .",
+            "input": "applesauce and chocolate brownie batter",
+            "action": "spread",
+            "output": "spread applesauce and chocolate brownie batter"
+        },
+        {
+            "instructions": "bake for 30 minutes .",
+            "input": "spread applesauce and chocolate brownie batter",
+            "action": "bake",
+            "output": "baked applesauce brownie"
+        },
+        {
+            "instructions": "meanwhile prepare topping",
+            "input": "NA",
+            "action": "prepare",
+            "output": "NA"
+        },
+        {
+            "instructions": "beat cream_cheese , 14 cup sugar , 1 egg and 12 teaspoon vanilla in a bowl with an electric mixer until well blended and smooth .",
+            "input": "(cream_cheese, sugar, egg;  vanilla)",
+            "action": "beat",
+            "output": "whipped cream_cheese mixture"
+        },
+        {
+            "instructions": "pour over hot brownie",
+            "input": "baked applesauce brownie",
+            "action": "pour",
+            "output": "baked applesauce brownie with cream_cheese mixture poured on"
+        },
+        {
+            "instructions": "bake for another 10 minutes longer or until toothpick inserted into center comes out with fudgy crumbs .",
+            "input": "baked applesauce brownie with cream_cheese mixture poured on",
+            "action": "bake",
+            "output": "doubly baked applesauce brownie with cream_cheese mixture poured on"
+        },
+        {
+            "instructions": "do not over bake .",
+            "input": "NA",
+            "action": "bake",
+            "output": "NA"
+        },
+        {
+            "instructions": "arrange fruit slices over cream_cheese layer",
+            "input": "(fruit slices; doubly baked applesauce brownie with cream_cheese mixture)",
+            "action": "arrange",
+            "output": "fruit slices arranged on doubly baked applesauce brownie with cream_cheese mixture"
+        },
+        {
+            "instructions": "drizzle with melted semi sweet_chocolate .",
+            "input": "(melted semi sweet_chocolate; fruit applesauce brownie)",
+            "action": "drizzle",
+            "output": "melted semi sweet chocolate drizzled on fruit applesauce brownie"
+        },
+        {
+            "instructions": "cut into wedges",
+            "input": "fruit applesauce brownie",
+            "action": "cut",
+            "output": "wedges of fruit applesauce brownie"
+        },
+        {
+            "instructions": "serve .",
+            "input": "wedges of fruit applesauce brownie",
+            "action": "serve",
+            "output": "served wedges of fruit applesauce brownie"
+        }
+    ],
+    "ingredients": [
+        {
+            "text": "4 squares chocolate unsweetened unsweetened"
+        },
+        {
+            "text": "2 tablespoons butter"
+        },
+        {
+            "text": "2 tablespoons canola oil or olive oil"
+        },
+        {
+            "text": "1/2 cup applesauce natural unsweetened"
+        },
+        {
+            "text": "1 1/2 cups brown sugar packed"
+        },
+        {
+            "text": "4 large eggs"
+        },
+        {
+            "text": "1 teaspoon vanilla extract"
+        },
+        {
+            "text": "1 cup whole wheat flour"
+        },
+        {
+            "text": "8 ounces cream cheese 1 package"
+        },
+        {
+            "text": "1/4 cup sugar"
+        },
+        {
+            "text": "1 large eggs"
+        },
+        {
+            "text": "1/2 teaspoon vanilla extract"
+        },
+        {
+            "text": "2 squares chocolate (semi-sweet)"
+        },
+        {
+            "text": "1 x fruit assorted, sliced, such as strawberries"
+        }
+    ],
+    "recipe": [
+        {
+            "text": "Preheat oven to 350F (180C)."
+        },
+        {
+            "text": "Grease a 12-inch pizza pan with butter very well."
+        },
+        {
+            "text": "Melt chocolate, butter and oil under medium-low heat in a small sauce pan until smooth."
+        },
+        {
+            "text": "Stir in applesauce."
+        },
+        {
+            "text": "Add sugar and mix until dissolved."
+        },
+        {
+            "text": "Mix in 4 eggs and 1 teaspoon vanilla until well blended."
+        },
+        {
+            "text": "Stir in flour until just incorporated."
+        },
+        {
+            "text": "Spread mixture into prepared pizza pan."
+        },
+        {
+            "text": "Bake for 30 minutes."
+        },
+        {
+            "text": "Meanwhile prepare topping:"
+        },
+        {
+            "text": "Beat cream cheese, 1/4 cup sugar, 1 egg and 1/2 teaspoon vanilla in a bowl with an electric mixer until well blended and smooth."
+        },
+        {
+            "text": "Pour over hot and baked brownie crust."
+        },
+        {
+            "text": "Bake for another 10 minutes longer or until toothpick inserted into center comes out with fudgy crumbs."
+        },
+        {
+            "text": "Do not over bake."
+        },
+        {
+            "text": "Cool in pan."
+        },
+        {
+            "text": "Arrange fruit slices over cream cheese layer."
+        },
+        {
+            "text": "Drizzle with melted semi-sweet chocolate."
+        },
+        {
+            "text": "Cut into wedges and serve."
+        }
+    ]
+}

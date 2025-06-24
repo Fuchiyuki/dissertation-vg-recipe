@@ -1,0 +1,76 @@
+{
+    "title": "after-school_parmesan_pizza_dip",
+    "id": "aaa92507fd",
+    "table": [
+        {
+            "instructions": "mix all_ingredient in microwaveable bowl .",
+            "input": "(pizza sauce; grated parmesan cheese; chopped pepperoni; chopped green peppers)",
+            "action": "mix",
+            "output": "sauce, cheese, pepper and pepperoni mixture"
+        },
+        {
+            "instructions": "microwave on high 30 sec .",
+            "input": "sauce, cheese, pepper and pepperoni mixture",
+            "action": "microwave",
+            "output": "microwaved sauce, cheese, pepper and pepperoni mixture"
+        },
+        {
+            "instructions": "stir .",
+            "input": "microwaved sauce, cheese, pepper and pepperoni mixture",
+            "action": "stir",
+            "output": "stirred sauce, cheese, pepper and pepperoni mixture"
+        },
+        {
+            "instructions": "microwave 1 min .",
+            "input": "stirred sauce, cheese, pepper and pepperoni mixture",
+            "action": "microwave",
+            "output": "twice microwaved sauce, cheese, pepper and pepperoni mixture"
+        },
+        {
+            "instructions": "stir .",
+            "input": "twice microwaved sauce, cheese, pepper and pepperoni mixture",
+            "action": "stir",
+            "output": "stirred sauce, cheese, pepper and pepperoni mixture"
+        },
+        {
+            "instructions": "serve as dip with crackers or assorted cut up fresh vegetables .",
+            "input": "(stirred sauce, cheese, pepper and pepperoni mixture; crackers; assorted fresh vegetables)",
+            "action": "serve",
+            "output": "pizza dip served with crackers or assorted fresh vegetables"
+        }
+    ],
+    "ingredients": [
+        {
+            "text": "1 cup CLASSICO Traditional Pizza Sauce"
+        },
+        {
+            "text": "1/2 cup KRAFT Grated Parmesan Cheese"
+        },
+        {
+            "text": "1/2 cup finely chopped OSCAR MAYER Pepperoni"
+        },
+        {
+            "text": "2 Tbsp. finely chopped green peppers"
+        }
+    ],
+    "recipe": [
+        {
+            "text": "Mix all ingredients in microwaveable bowl."
+        },
+        {
+            "text": "Microwave on HIGH 30 sec."
+        },
+        {
+            "text": "; stir."
+        },
+        {
+            "text": "Microwave 1 min."
+        },
+        {
+            "text": "or until heated through; stir."
+        },
+        {
+            "text": "Serve as dip with crackers or assorted cut-up fresh vegetables."
+        }
+    ]
+}

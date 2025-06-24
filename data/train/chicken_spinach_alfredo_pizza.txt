@@ -1,0 +1,115 @@
+{
+    "title": "chicken_spinach_alfredo_pizza",
+    "id": "f5fef7e7c4",
+    "table": [
+        {
+            "instructions": "roll dough out thin ;",
+            "input": "dough",
+            "actions": "roll",
+            "output": "rolled_dough_thin"
+        },
+        {
+            "instructions": "put on lightly greased cookie sheet",
+            "input": "rolled_dough_thin",
+            "actions": "put",
+            "output": "rolled_dough_thin"
+        },
+        {
+            "instructions": "prick holes all over to minimize bubbling .",
+            "input": "rolled_dough_thin",
+            "actions": "prick",
+            "output": "pricked pizza crust"
+        },
+        {
+            "instructions": "remove from oven .",
+            "input": "pricked pizza crust",
+            "actions": "remove",
+            "output": "baked pizza crust"
+        },
+        {
+            "instructions": "spread alfredo_sauce to within 1 of edges .",
+            "input": "(alfredo_sauce; baked pizza crust)",
+            "actions": "spread",
+            "output": "alfredo_sauce spread on baked pizza crust"
+        },
+        {
+            "instructions": "top with chicken , spinach , onion , feta and olives , then mozzarella",
+            "input": "(chicken; spinach; onion; feta; olives; mozzarella; pizza crust with alfredo sauce)",
+            "actions": "top",
+            "output": "pizza crust with alfredo sauce topped with chicken , spinach , onion , feta and olives and mozzarella "
+        },
+        {
+            "instructions": "return to oven",
+            "input": "uncooked chicken spinach alfredo pizza",
+            "actions": "return",
+            "output": "uncooked chicken spinach alfredo pizza"
+        },
+        {
+            "instructions": "bake at 425f for 10 12 minutes or until done and bottom is browned .",
+            "input": "uncooked chicken spinach alfredo pizza",
+            "actions": "bake",
+            "output": "baked chicken spinach alfredo pizza"
+        },
+        {
+            "instructions": "remove from oven",
+            "input": "baked chicken spinach alfredo pizza",
+            "actions": "remove",
+            "output": "baked chicken spinach alfredo pizza"
+        }
+    ],
+    "ingredients": [
+        {
+            "text": "1 pizza dough"
+        },
+        {
+            "text": "1 cup prepared alfredo sauce"
+        },
+        {
+            "text": "1 (10 ounce) package frozen chopped spinach, cooked and drained"
+        },
+        {
+            "text": "2 -3 boneless chicken breasts, cooked or grilled and diced"
+        },
+        {
+            "text": "12 medium sweet onion, thinly sliced"
+        },
+        {
+            "text": "13 cup sliced black olives, well drained"
+        },
+        {
+            "text": "2 -3 tablespoons feta cheese, crumbled"
+        },
+        {
+            "text": "2 cups shredded mozzarella cheese"
+        },
+        {
+            "text": "12 cup grated parmesan cheese"
+        }
+    ],
+    "recipe": [
+        {
+            "text": "Roll dough out thin; put on lightly greased cookie sheet and prick holes all over to minimize bubbling."
+        },
+        {
+            "text": "Prebake the pizza dough at 425F for 5-7 minutes, remove from oven."
+        },
+        {
+            "text": "Spread alfredo sauce to within 1\" of edges."
+        },
+        {
+            "text": "Top with chicken, spinach, onion, feta and olives, then mozzarella and parmesan last."
+        },
+        {
+            "text": "If you like you can brush some olive oil around the edges of the crust."
+        },
+        {
+            "text": "Return to oven and bake at 425F for 10-12 minutes or until done and bottom is browned."
+        },
+        {
+            "text": "Remove from oven and let stand a few minutes before slicing."
+        },
+        {
+            "text": "Delicious and even better warmed up the next day; I have also added mushrooms when I had them on hand."
+        }
+    ]
+}

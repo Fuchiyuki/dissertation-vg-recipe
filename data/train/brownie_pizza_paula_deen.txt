@@ -1,0 +1,175 @@
+{
+    "title": "brownie_pizza_paula_deen",
+    "id": "f85f291a54",
+    "table": [
+        {
+            "instructions": "preheat oven to 350 degrees f .",
+            "input": "NA",
+            "action": "preheat",
+            "output": "NA"
+        },
+        {
+            "instructions": "grease a 15 inch , pizza\u2012pan .",
+            "input": "NA",
+            "action": "grease",
+            "output": "NA"
+        },
+        {
+            "instructions": "prepare brownie mix according to directions on box .",
+            "input": "brownie mix package",
+            "action": "prepare",
+            "output": "brownie batter"
+        },
+        {
+            "instructions": "bake for 20 minutes or until done .",
+            "input": "brownie batter",
+            "action": "bake",
+            "output": "baked brownie"
+        },
+        {
+            "instructions": "remove from oven",
+            "input": "baked brownie",
+            "action": "remove",
+            "output": "baked brownie crust"
+        },
+        {
+            "instructions": "beat cream_cheese while adding pineapple and sugar together in a bowl .",
+            "input": "(cream_cheese; pineapple; sugar)",
+            "action": "beat",
+            "output": "beaten_cream_cheese and pineapple mixture"
+        },
+        {
+            "instructions": "spread mixture over brownie crust .",
+            "input": "(beaten_cream_cheese and pineapple mixture; baked brownie crust)",
+            "action": "spread",
+            "output": "brownie crust with cream_cheese and pineapple mixture"
+        },
+        {
+            "instructions": "arrange banana , strawberry slices , marshmallows , and cherries over cream_cheese mixture .",
+            "input": "(banana; strawberry slices; marshmallows; cherries; brownie crust with cream_cheese and pineapple mixture)",
+            "action": "arrange",
+            "output": "brownie crust with cream_cheese and pineapple mixture, banana, strawberry slices, marshmallows, and cherries"
+        },
+        {
+            "instructions": "sprinkle with nuts and coconut .",
+            "input": "(nuts; coconut; brownie crust with cream_cheese and pineapple mixture, banana, strawberry slices, marshmallows, and cherries)",
+            "action": "sprinkle",
+            "output": "brownie crust with cream_cheese and pineapple mixture, banana, strawberry slices, marshmallows, and cherries sprinkled with nuts and coconut"
+        },
+        {
+            "instructions": "drizzle with chocolate_syrup .",
+            "input": "(chocolate syrup; brownie crust with cream_cheese and pineapple mixture, banana, strawberry slices, marshmallows, and cherries sprinkled with nuts and coconut)",
+            "action": "drizzle",
+            "output": "fruit brownie pizza drizzled with chocolate syrup"
+        },
+        {
+            "instructions": "add whipped_cream on top and mint for garnish .",
+            "input": "(whipped cream; mint; fruit brownie pizza drizzled with chocolate syrup)",
+            "action": "add",
+            "output": "whipped cream and mint added to top of fruit brownie pizza drizzled with chocolate syrup"
+        },
+        {
+            "instructions": "to serve",
+            "input": "NA",
+            "action": "serve",
+            "output": "NA"
+        },
+        {
+            "instructions": "slice as you would a pizza",
+            "input": "fruit brownie pizza",
+            "action": "slice",
+            "output": "sliced fruit brownie pizza"
+        }
+    ],
+    "ingredients": [
+        {
+            "text": "1 (20 ounce) box fudge brownie mix (recommended Duncan Hines)"
+        },
+        {
+            "text": "1 egg"
+        },
+        {
+            "text": "14 cup water"
+        },
+        {
+            "text": "14 cup oil"
+        },
+        {
+            "text": "1 (8 ounce) package cream cheese, softened"
+        },
+        {
+            "text": "1 (8 ounce) can crushed pineapple, drained"
+        },
+        {
+            "text": "2 tablespoons sugar"
+        },
+        {
+            "text": "2 bananas, sliced"
+        },
+        {
+            "text": "1 cup fresh strawberries, sliced"
+        },
+        {
+            "text": "12 cup marshmallows"
+        },
+        {
+            "text": "10 ounces maraschino cherries"
+        },
+        {
+            "text": "1 cup chopped nuts"
+        },
+        {
+            "text": "12 cup shredded coconut"
+        },
+        {
+            "text": "chocolate syrup, for drizzling"
+        },
+        {
+            "text": "whipped cream"
+        },
+        {
+            "text": "mint, for garnish"
+        }
+    ],
+    "recipe": [
+        {
+            "text": "Preheat oven to 350 degrees F."
+        },
+        {
+            "text": "Grease a 15-inch pizza pan."
+        },
+        {
+            "text": "Prepare brownie mix according to directions on box."
+        },
+        {
+            "text": "(the egg, water and oil are amounts used for Duncan Hines -- if using another brand, adjust accordingly)Pour onto prepared pan."
+        },
+        {
+            "text": "Bake for 20 minutes or until done."
+        },
+        {
+            "text": "Remove from oven and cool."
+        },
+        {
+            "text": "Beat cream cheese while adding pineapple and sugar together in a bowl."
+        },
+        {
+            "text": "Spread mixture over brownie crust."
+        },
+        {
+            "text": "Arrange banana, strawberry slices, marshmallows, and cherries over cream cheese mixture."
+        },
+        {
+            "text": "Sprinkle with nuts and coconut."
+        },
+        {
+            "text": "Drizzle with chocolate syrup."
+        },
+        {
+            "text": "Add whipped cream on top and mint for garnish."
+        },
+        {
+            "text": "To serve, slice as you would a pizza and enjoy!"
+        }
+    ]
+}

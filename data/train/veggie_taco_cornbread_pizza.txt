@@ -1,0 +1,118 @@
+{
+    "title": "veggie_taco_cornbread_pizza",
+    "id": "14c73d23e6",
+    "table": [
+        {
+            "instructions": "heat oven to 400 degrees f .",
+            "input": "NA",
+            "actions": "heat",
+            "output": "NA"
+        },
+        {
+            "instructions": "prepare corn_muffin batter as directed on package ;",
+            "input": "corn_muffin_batter package",
+            "actions": "prepare",
+            "output": "prepared corn muffin batter"
+        },
+        {
+            "instructions": "spread into greased 12 inch , pizza\u2012pan .",
+            "input": "prepared corn muffin batter",
+            "actions": "spread",
+            "output": "spread prepared corn muffin batter"
+        },
+        {
+            "instructions": "bake 8 to 10 min .",
+            "input": "uncooked corn muffin",
+            "actions": "bake",
+            "output": "baked corn muffin crust"
+        },
+        {
+            "instructions": "meanwhile , combine peppers , corn and beans in medium saucepan .",
+            "input": "(peppers; corn; beans)",
+            "actions": "combine",
+            "output": "combine peppers, corn and beans"
+        },
+        {
+            "instructions": "add seasoning_mix and water",
+            "input": "(combine peppers, corn and beans; seasoning mix; water)",
+            "actions": "add",
+            "output": "seasoning_mix and water added to combine peppers, corn and beans"
+        },
+        {
+            "instructions": "cook 10 min .",
+            "input": "bean mixture",
+            "actions": "cook",
+            "output": "cooked bean mixture"
+        },
+        {
+            "instructions": "sprinkle 1 cup cheese onto crust ;",
+            "input": "(corn muffin crust; cheese)",
+            "actions": "sprinkle",
+            "output": "cheese sprinkled on corn muffin crust"
+        },
+        {
+            "instructions": "top with bean mixture and remaining cheese .",
+            "input": "(bean mixture; remaining cheese; crust with cheese)",
+            "actions": "top",
+            "output": "corn crust with cheese topped with bean mixture and remaining cheese"
+        },
+        {
+            "instructions": "bake 4 to 5 min .",
+            "input": "uncooked veggie_taco_cornbread_pizza",
+            "actions": "bake",
+            "output": "baked veggie_taco_cornbread_pizza"
+        }
+    ],
+    "ingredients": [
+        {
+            "text": "1 pkg. (8-1/2 oz.) corn muffin mix"
+        },
+        {
+            "text": "1 red pepper, finely chopped"
+        },
+        {
+            "text": "1 cup frozen corn"
+        },
+        {
+            "text": "1 can (15-1/2 oz.) black beans or kidney beans, rinsed"
+        },
+        {
+            "text": "1 pkg. (1-1/4 oz.) TACO BELL Taco Seasoning Mix"
+        },
+        {
+            "text": "3/4 cup water"
+        },
+        {
+            "text": "1 pkg. (8 oz.) KRAFT Shredded Cheddar Cheese, divided"
+        }
+    ],
+    "recipe": [
+        {
+            "text": "Heat oven to 400 degrees F."
+        },
+        {
+            "text": "Prepare corn muffin batter as directed on package; spread into greased 12-inch pizza pan."
+        },
+        {
+            "text": "Bake 8 to 10 min."
+        },
+        {
+            "text": "or until lightly browned."
+        },
+        {
+            "text": "Meanwhile, combine peppers, corn and beans in medium saucepan."
+        },
+        {
+            "text": "Add seasoning mix and water; cook 10 min., stirring occasionally."
+        },
+        {
+            "text": "Sprinkle 1 cup cheese onto crust; top with bean mixture and remaining cheese."
+        },
+        {
+            "text": "Bake 4 to 5 min."
+        },
+        {
+            "text": "or until cheese is melted."
+        }
+    ]
+}

@@ -1,0 +1,193 @@
+{
+    "title": "mango_chutney_prosciutto_and_paneer_``_pizza_''",
+    "id": "641abe4eba",
+    "table": [
+        {
+            "instructions": "preheat the oven to 450 degrees f .",
+            "input": "NA",
+            "action": "preheat",
+            "output": "NA"
+        },
+        {
+            "instructions": "in a small saucepan , combine the tomato_paste , mango_chutney , minced_garlic , and water over medium heat , until well combined .",
+            "input": "(tomato_paste; mango_chutney; minced_garlic; water)",
+            "action": "combine",
+            "output": "tomato mango_chutney sauce"
+        },
+        {
+            "instructions": "season the mixture with salt and pepper .",
+            "input": "(salt; pepper; tomato mango_chutney sauce)",
+            "action": "season",
+            "output": "seasoned tomato mango_chutney sauce"
+        },
+        {
+            "instructions": "cook for about 5 minutes",
+            "input": "seasoned tomato mango_chutney sauce",
+            "action": "cook",
+            "output": "cooked seasoned tomato mango_chutney sauce"
+        },
+        {
+            "instructions": "then remove the saucepan from the heat",
+            "input": "cooked seasoned tomato mango_chutney sauce",
+            "action": "remove",
+            "output": "cooked seasoned tomato mango_chutney sauce"
+        },
+        {
+            "instructions": "set aside .",
+            "input": "cooked seasoned tomato mango_chutney sauce",
+            "action": "set",
+            "output": "cooked seasoned tomato mango_chutney sauce"
+        },
+        {
+            "instructions": "in a small bowl , combine the mozzarella , paneer , red_pepper_flake , cilantro , green_onion , ground_cumin and extra virgin_olive_oil .",
+            "input": "(mozzarella; paneer; red_pepper_flake; cilantro; green onion; ground cumin; extra virgin olive oil)",
+            "action": "combine",
+            "output": "cheese mixture"
+        },
+        {
+            "instructions": "season the mixture with salt and pepper .",
+            "input": "(salt; pepper; cheese mixture)",
+            "action": "season",
+            "output": "seasoned cheese mixture"
+        },
+        {
+            "instructions": "add more red_pepper_flake if you like it spicy !",
+            "input": "(optional additional red pepper flake; seasoned cheese mixture)",
+            "action": "add",
+            "output": "optional additional red pepper flake added to seasoned cheese mixture"
+        },
+        {
+            "instructions": "arrange the naans on a cookie sheet .",
+            "input": "naans",
+            "action": "arrange",
+            "output": "naans"
+        },
+        {
+            "instructions": "divide the tomato mango_chutney sauce evenly among the naans , spreading to coat the top .",
+            "input": "(naans; cooked tomato mango_chutney sauce)",
+            "action": "divide",
+            "output": "cooked tomato mango_chutney sauce divided among naans"
+        },
+        {
+            "instructions": "evenly divide the cheese mixture among the naans .",
+            "input": "(naans with cooked tomato mango_chutney sauce; cheese mixture)",
+            "action": "divide",
+            "output": "cheese mixture divided among naans with cooked tomato mango_chutney sauce"
+        },
+        {
+            "instructions": "meanwhile , tear the prosciutto into small pieces .",
+            "input": "prosciutto",
+            "action": "tear",
+            "output": "prosciutto teared in pieces"
+        },
+        {
+            "instructions": "when the pizzas are ready , top them with the fresh prosciutto .",
+            "input": "(naans with cooked tomato mango_chutney sauce and cheese mixture; prosciutto teared in pieces)",
+            "action": "top",
+            "output": "naans with cooked tomato mango_chutney sauce, cheese mixture and prosciutto teared in pieces"
+        },
+        {
+            "instructions": "cut each naan into 4 ,",
+            "input": "mango_chutney_prosciutto_and_paneer_naans",
+            "action": "cut",
+            "output": "cut mango_chutney_prosciutto_and_paneer_naans"
+        },
+        {
+            "instructions": "serve !",
+            "input": "cut mango_chutney_prosciutto_and_paneer_naans",
+            "action": "serve",
+            "output": "served mango_chutney_prosciutto_and_paneer_naans"
+        }
+    ],
+    "ingredients": [
+        {
+            "text": "1/2 cup tomato paste"
+        },
+        {
+            "text": "2 tablespoons sweet mango chutney (recommended: Patak's Sweet Mango Chutney)"
+        },
+        {
+            "text": "1 clove garlic, minced"
+        },
+        {
+            "text": "1/2 cup water"
+        },
+        {
+            "text": "Kosher salt and freshly ground black pepper"
+        },
+        {
+            "text": "1/2 cup shredded mozzarella cheese"
+        },
+        {
+            "text": "1/2 cup crumbled paneer cheese*"
+        },
+        {
+            "text": "1/4 teaspoon red pepper flakes"
+        },
+        {
+            "text": "1/4 cup chopped fresh cilantro leaves"
+        },
+        {
+            "text": "1 large green onion, finely chopped"
+        },
+        {
+            "text": "1/8 teaspoon ground cumin"
+        },
+        {
+            "text": "A glug extra-virgin olive oil"
+        },
+        {
+            "text": "4 frozen naan bread (recommended: Trader Joe's)*"
+        },
+        {
+            "text": "4 slices prosciutto, torn"
+        },
+        {
+            "text": "*Can be found at specialty Indian markets."
+        }
+    ],
+    "recipe": [
+        {
+            "text": "Preheat the oven to 450 degrees F."
+        },
+        {
+            "text": "In a small saucepan, combine the tomato paste, mango chutney, minced garlic, and water over medium heat, until well combined."
+        },
+        {
+            "text": "Season the mixture with salt and pepper."
+        },
+        {
+            "text": "Cook for about 5 minutes and then remove the saucepan from the heat and set aside."
+        },
+        {
+            "text": "In a small bowl, combine the mozzarella, paneer, red pepper flakes, cilantro, green onion, ground cumin and extra-virgin olive oil."
+        },
+        {
+            "text": "Season the mixture with salt and pepper."
+        },
+        {
+            "text": "Add more red pepper flakes if you like it spicy!"
+        },
+        {
+            "text": "Arrange the naans on a cookie sheet."
+        },
+        {
+            "text": "Divide the tomato-mango chutney sauce evenly among the naans, spreading to coat the top."
+        },
+        {
+            "text": "Evenly divide the cheese mixture among the naans."
+        },
+        {
+            "text": "Throw in the oven for 10 to 15 minutes, or until crisped around the edges."
+        },
+        {
+            "text": "Meanwhile, tear the prosciutto into small pieces."
+        },
+        {
+            "text": "When the pizzas are ready, top them with the fresh prosciutto."
+        },
+        {
+            "text": "Cut each naan into 4, and serve!"
+        }
+    ]
+}

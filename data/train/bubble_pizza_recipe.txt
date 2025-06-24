@@ -1,0 +1,133 @@
+{
+    "title": "bubble_pizza_recipe",
+    "id": "b5ab5478ee",
+    "table": [
+        {
+            "instructions": "saute fry the onion and garlic in a large skillet till tender .",
+            "input": "(onion; garlic)",
+            "action": "saute",
+            "output": "sauteed_onion and garlic mixture"
+        },
+        {
+            "instructions": "add in the hamburger",
+            "input": "hamburger; sauteed_onion and garlic mixture",
+            "action": "add",
+            "output": "hamburger added to sauteed_onion and garlic mixture"
+        },
+        {
+            "instructions": "brown .",
+            "input": "hamburger added to sauteed_onion and garlic mixture",
+            "action": "brown",
+            "output": "browned hamburger mixture"
+        },
+        {
+            "instructions": "in a 9 by 13 , baking pan break apart the still raw pillsbury_biscuit into smallish bite size pcs .",
+            "input": "raw pillsbury_biscuit",
+            "action": "break",
+            "output": "raw pillsbury_biscuit in small pieces"
+        },
+        {
+            "instructions": "just scatter them all over the bottom of the pan .",
+            "input": "raw pillsbury_biscuit in small pieces",
+            "action": "scatter",
+            "output": "raw pillsbury_biscuit in small pieces scattered in pan"
+        },
+        {
+            "instructions": "mix the pasta_sauce with the browned hamburger .",
+            "input": "pasta sauce; browned hamburger mixture",
+            "action": "mix",
+            "output": "pasta sauce and browned hamburger mixture"
+        },
+        {
+            "instructions": "pour the meat pasta mix over the pcs of dough",
+            "input": "pasta sauce and browned hamburger mixture; raw pillsbury_biscuit in small pieces scattered in pan",
+            "action": "pour",
+            "output": "pasta sauce and browned hamburger mixture poured over raw pillsbury_biscuit in small pieces scattered in pan"
+        },
+        {
+            "instructions": "spread proportionately in the pan .",
+            "input": "pasta sauce and browned hamburger mixture poured over raw pillsbury_biscuit in small pieces scattered in pan",
+            "action": "spread",
+            "output": "pasta sauce and browned hamburger mixture poured and spread over raw pillsbury_biscuit in small pieces scattered in pan"
+        },
+        {
+            "instructions": "empty the package of mozzarella_cheese on top of everything .",
+            "input": "mozzarella cheese package",
+            "action": "empty",
+            "output": "pasta sauce and browned hamburger mixture poured and spread over raw pillsbury_biscuit in small pieces scattered in pan and sprinkled mozzarella cheese"
+        },
+        {
+            "instructions": "bake at 350 till the biscuits have risen inside",
+            "input": "uncooked meat bubble pizza",
+            "action": "bake",
+            "output": "baked meat bubble pizza"
+        },
+        {
+            "instructions": "the cheese will heat",
+            "input": "baked meat bubble pizza",
+            "action": "heat",
+            "output": "baked meat bubble pizza"
+        },
+        {
+            "instructions": "slightly brown .",
+            "input": "baked meat bubble pizza",
+            "action": "brown",
+            "output": "baked meat bubble pizza"
+        }
+    ],
+    "ingredients": [
+        {
+            "text": "1 can Pillsbury biscuits"
+        },
+        {
+            "text": "1 lb Hamburger"
+        },
+        {
+            "text": "1 jar of pre-made tomato-pasta sauce"
+        },
+        {
+            "text": "1 med -size package of mozzarella cheese"
+        },
+        {
+            "text": "1 x Onion"
+        },
+        {
+            "text": "3 x Gloves of garlic"
+        }
+    ],
+    "recipe": [
+        {
+            "text": "Saute/fry the onion & garlic in a large skillet till tender."
+        },
+        {
+            "text": "Add in the hamburger & brown."
+        },
+        {
+            "text": "In a 9 by 13\" baking pan break apart the still raw Pillsbury biscuits into smallish bite-size pcs."
+        },
+        {
+            "text": "Just scatter them all over the bottom of the pan."
+        },
+        {
+            "text": "Mix the pasta sauce with the browned hamburger."
+        },
+        {
+            "text": "(Feel free to drain the meat first to get rid of excess oils)."
+        },
+        {
+            "text": "Pour the meat/pasta mix over the pcs of dough and spread proportionately in the pan."
+        },
+        {
+            "text": "Empty the package of mozzarella cheese on top of everything."
+        },
+        {
+            "text": "Bake at 350 till the biscuits have risen inside and are no longer doughy."
+        },
+        {
+            "text": "The cheese will heat and slightly brown."
+        },
+        {
+            "text": "Takes about 20 min."
+        }
+    ]
+}

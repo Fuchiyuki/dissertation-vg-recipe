@@ -1,0 +1,85 @@
+{
+    "title": "fun_pita_pizza",
+    "id": "df1e13aa23",
+    "table": [
+        {
+            "instructions": "preheat oven to 3",
+            "input": "NA",
+            "actions": "preheat",
+            "output": "NA"
+        },
+        {
+            "instructions": "split whole_wheat_pita pockets apart",
+            "input": "whole_wheat_pita",
+            "actions": "split",
+            "output": "split_whole_wheat_pita"
+        },
+        {
+            "instructions": "spread pizza_sauce evenly on pita",
+            "input": "(pizza sauce; split_whole_wheat_pita)",
+            "actions": "spread",
+            "output": "pizza sauce spread on split_whole_wheat_pita"
+        },
+        {
+            "instructions": "put toppings evenly across",
+            "input": "(toppings; pita with pizza sauce)",
+            "actions": "put",
+            "output": "toppings on pita with pizza sauce"
+        },
+        {
+            "instructions": "bake for approx 10 15 mins , or until cheese is melted , and crust is done to your liking",
+            "input": "uncooked pita pizza",
+            "actions": "bake",
+            "output": "baked pizza pita"
+        }
+    ],
+    "ingredients": [
+        {
+            "text": "1/2 cup Pizza Sauce (I use Classico)"
+        },
+        {
+            "text": "1/2 cup Mozzarella Cheese"
+        },
+        {
+            "text": "1 Toppings (I prefer pepperoni)"
+        },
+        {
+            "text": "4 Whole Wheat Pita Pockets (split)"
+        }
+    ],
+    "recipe": [
+        {
+            "text": "1."
+        },
+        {
+            "text": "Preheat oven to 350"
+        },
+        {
+            "text": "2."
+        },
+        {
+            "text": "Split Whole Wheat Pita Pockets apart"
+        },
+        {
+            "text": "3."
+        },
+        {
+            "text": "Spread Pizza Sauce evenly on Pita"
+        },
+        {
+            "text": "4.Sprinkle Mozzarella Cheese all over"
+        },
+        {
+            "text": "5."
+        },
+        {
+            "text": "Put toppings evenly across"
+        },
+        {
+            "text": "6."
+        },
+        {
+            "text": "Bake for approx 10-15 mins, or until cheese is melted, and crust is done to your liking"
+        }
+    ]
+}

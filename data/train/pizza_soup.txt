@@ -1,0 +1,106 @@
+{
+    "title": "pizza_soup",
+    "id": "e1ddd0e599",
+    "table": [
+        {
+            "instructions": "make sure pasta is cooked",
+            "input": "pasta",
+            "actions": "make",
+            "output": "cooked pasta"
+        },
+        {
+            "instructions": "combine first seven ingredients in large pot",
+            "input": "first seven ingredients",
+            "actions": "combine",
+            "output": ""
+        },
+        {
+            "instructions": "saute for five minutes .",
+            "input": "",
+            "actions": "saute",
+            "output": ""
+        },
+        {
+            "instructions": "add remaining_ingredient except for pasta",
+            "input": "",
+            "actions": "add",
+            "output": ""
+        },
+        {
+            "instructions": "add pasta ;",
+            "input": "",
+            "actions": "add",
+            "output": ""
+        },
+        {
+            "instructions": "serve with shredded mozzeralla and breadsticks",
+            "input": "",
+            "actions": "serve",
+            "output": ""
+        }
+    ],
+    "ingredients": [
+        {
+            "text": "2/3 cup chopped onion"
+        },
+        {
+            "text": "1 cup chopped green peppers"
+        },
+        {
+            "text": "2 clove chopped garlic"
+        },
+        {
+            "text": "1 tbsp lemon juice"
+        },
+        {
+            "text": "2 cup diced tomatoes(fresh or canned)"
+        },
+        {
+            "text": "1 can mushrooms"
+        },
+        {
+            "text": "1/4 cup sliced black olives"
+        },
+        {
+            "text": "15 oz can tomatoe or pizza sauce"
+        },
+        {
+            "text": "6 oz tomatoe paste"
+        },
+        {
+            "text": "2 1/2 cup water"
+        },
+        {
+            "text": "1 cup pepperoni sliced in halves"
+        },
+        {
+            "text": "2 tbsp sugar"
+        },
+        {
+            "text": "2 tbsp beef boullion"
+        },
+        {
+            "text": "3 cup cooked pasta(orzo or penne)"
+        },
+        {
+            "text": "1 optional shredded mozz. and breadsticks"
+        }
+    ],
+    "recipe": [
+        {
+            "text": "make sure pasta is cooked"
+        },
+        {
+            "text": "Combine first seven ingredients in large pot and saute for five minutes."
+        },
+        {
+            "text": "Add remaining ingredients (except for pasta) and let boil for five minutes"
+        },
+        {
+            "text": "add pasta let simmer 3 minutes"
+        },
+        {
+            "text": "serve with shredded mozzeralla and breadsticks"
+        }
+    ]
+}

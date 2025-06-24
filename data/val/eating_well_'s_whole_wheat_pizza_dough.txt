@@ -1,0 +1,106 @@
+{
+    "title": "eating_well_'s_whole_wheat_pizza_dough",
+    "id": "8083398e08",
+    "table": [
+        {
+            "instructions": "combine flours , yeast , salt , and sugar in a food processor ;",
+            "input": "(flours; yeast; salt; sugar)",
+            "action": "combine",
+            "output": "flour mixture"
+        },
+        {
+            "instructions": "combine hot_water and oil in a measuring cup .",
+            "input": "(hot water; oil)",
+            "action": "combine",
+            "output": "combined water and oil"
+        },
+        {
+            "instructions": "with the motor running , gradually pour in enough of the hot liquid until the mixture forms a sticky ball .",
+            "input": "(combined water and oil; flour mixture)",
+            "action": "pour",
+            "output": "dough"
+        },
+        {
+            "instructions": "if it seems dry , add 1 to 2 tbsp warm_water ;",
+            "input": "(dough; optional warm water)",
+            "action": "add",
+            "output": "optional water added to dough"
+        },
+        {
+            "instructions": "if too sticky , add 1 to 2 tbsp , flour .",
+            "input": "(dough; optional flour)",
+            "action": "add",
+            "output": "optional flour added to dough"
+        },
+        {
+            "instructions": "transfer the dough to a lightly floured surface .",
+            "input": "dough",
+            "action": "transfer",
+            "output": "dough"
+        },
+        {
+            "instructions": "spray a sheet of plastic wrap with cooking_spray",
+            "input": "NA",
+            "action": "spray",
+            "output": "NA"
+        },
+        {
+            "instructions": "place it , sprayed side down , over the dough .",
+            "input": "dough",
+            "action": "place",
+            "output": "dough on baking sheet"
+        }
+    ],
+    "ingredients": [
+        {
+            "text": "34 cup whole wheat flour"
+        },
+        {
+            "text": "34 cup all-purpose flour"
+        },
+        {
+            "text": "2 14 teaspoons fast rising yeast, such as Fleischmann's Rapid Rise (1 packet)"
+        },
+        {
+            "text": "34 teaspoon salt"
+        },
+        {
+            "text": "14 teaspoon sugar"
+        },
+        {
+            "text": "12-23 cup hot water (120-130 degrees)"
+        },
+        {
+            "text": "2 teaspoons olive oil"
+        }
+    ],
+    "recipe": [
+        {
+            "text": "Combine flours, yeast, salt, and sugar in a food processor; pulse to mix."
+        },
+        {
+            "text": "Combine hot water and oil in a measuring cup."
+        },
+        {
+            "text": "With the motor running, gradually pour in enough of the hot liquid until the mixture forms a sticky ball."
+        },
+        {
+            "text": "the dough should be quite soft."
+        },
+        {
+            "text": "If it seems dry, add 1 to 2 tbsp warm water; if too sticky, add 1 to 2 tbsp flour."
+        },
+        {
+            "text": "Process until the dough forms a ball, then process for 1 minute to knead."
+        },
+        {
+            "text": "Transfer the dough to a lightly floured surface."
+        },
+        {
+            "text": "Spray a sheet of plastic wrap with cooking spray and place it, sprayed side down, over the dough."
+        },
+        {
+            "text": "Let the dough rest for 10 to 20 minutes before rolling."
+        }
+    ]
+}

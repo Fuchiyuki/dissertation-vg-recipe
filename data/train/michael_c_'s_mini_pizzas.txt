@@ -1,0 +1,124 @@
+{
+    "title": "michael_c_'s_mini_pizzas",
+    "id": "e3b7a1f359",
+    "table": [
+        {
+            "instructions": "preheat oven to 200c .",
+            "input": "NA",
+            "action": "preheat",
+            "output": "NA"
+        },
+        {
+            "instructions": "lightly grease 2 flat baking trays .",
+            "input": "NA",
+            "action": "grease",
+            "output": "NA"
+        },
+        {
+            "instructions": "Sieve the flour into a mixing bowl.",
+            "input": "flour",
+            "action": "sieve",
+            "output": "sieved flour"
+        },
+        {
+            "instructions": "rub in the margarine until the mix looks like fine breadcrumbs .",
+            "input": "(sieved flour; margarine)",
+            "action": "rub",
+            "output": "margarine and flour mixture"
+        },
+        {
+            "instructions": "add the milk",
+            "input": "(margarine and flour mixture; milk)",
+            "action": "add",
+            "output": "partially mixed dough"
+        },
+        {
+            "instructions": "mix to a soft dough .",
+            "input": "partially mixed dough",
+            "action": "mix",
+            "output": "dough"
+        },
+        {
+            "instructions": "roll dough on a lightly floured board",
+            "input": "dough",
+            "action": "roll",
+            "output": "dough"
+        },
+        {
+            "instructions": "divide dough into 8 pieces .",
+            "input": "dough",
+            "action": "divide",
+            "output": "divided dough"
+        },
+        {
+            "instructions": "press each piece into 7 cm circles",
+            "input": "divided dough",
+            "action": "press",
+            "output": "pressed dough"
+        },
+        {
+            "instructions": "transfer to the trays .",
+            "input": "pressed dough",
+            "action": "transfer",
+            "output": "pressed dough"
+        },
+        {
+            "instructions": "spread the pizza_sauce",
+            "input": "(pressed dough; pizza sauce)",
+            "action": "spread",
+            "output": "pressed dough with spread pizza sauce"
+        },
+        {
+            "instructions": "bake for 15 20 minutes , until edges are golden brown .",
+            "input": "uncooked pizza",
+            "action": "bake",
+            "output": "baked pizza"
+        }
+    ],
+    "ingredients": [
+        {
+            "text": "225 grams self-raising flour"
+        },
+        {
+            "text": "50 grams margarine"
+        },
+        {
+            "text": "150 ml milk"
+        },
+        {
+            "text": "300 grams passata or other pizza sauce"
+        }
+    ],
+    "recipe": [
+        {
+            "text": "Preheat oven to 200C."
+        },
+        {
+            "text": "Lightly grease 2 flat baking trays."
+        },
+        {
+            "text": "Sieve the flour into a mixing bowl."
+        },
+        {
+            "text": "Rub in the margarine until the mix looks like fine breadcrumbs."
+        },
+        {
+            "text": "Add the milk and mix to a soft dough."
+        },
+        {
+            "text": "Roll dough on a lightly floured board and divide dough into 8 pieces."
+        },
+        {
+            "text": "Press each piece into 7cm circles and transfer to the trays."
+        },
+        {
+            "text": "Spread the pizza sauce and bake for 15-20 minutes, until edges are golden-brown."
+        },
+        {
+            "text": "Enjoy creating endless topping combinations!"
+        },
+        {
+            "text": "!"
+        }
+    ]
+}

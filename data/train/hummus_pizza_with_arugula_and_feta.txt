@@ -1,0 +1,217 @@
+{
+    "title": "hummus_pizza_with_arugula_and_feta",
+    "id": "f05b38012d",
+    "table": [
+        {
+            "instructions": "set a pizza stone on the lowest rack of the oven .",
+            "input": "NA",
+            "action": "set",
+            "output": "NA"
+        },
+        {
+            "instructions": "preheat the oven to 500 , allowing at least 20 minutes for the stone to heat .",
+            "input": "NA",
+            "action": "preheat",
+            "output": "NA"
+        },
+        {
+            "instructions": "in a food processor , combine the chickpeas , garlic_clove , tahini , water , chili_oil and 3 tablespoons of the lemon_juice",
+            "input": "(chickpeas; garlic_clove; tahini; water; chili_oil; lemon_juice; lemon_juice)",
+            "action": "combine",
+            "output": "hummus"
+        },
+        {
+            "instructions": "season the hummus with salt and black_pepper .",
+            "input": "(hummus; salt; black_pepper)",
+            "action": "season",
+            "output": "seasoned hummus"
+        },
+        {
+            "instructions": "on a lightly floured work surface , stretch each piece of dough out to a 14 inch round .",
+            "input": "dough",
+            "action": "stretch",
+            "output": "stretched round dough"
+        },
+        {
+            "instructions": "lift 1 dough round onto a floured board or pizza peel .",
+            "input": "dough round",
+            "action": "lift",
+            "output": "dough round"
+        },
+        {
+            "instructions": "brush with 2 teaspoons of the olive_oil",
+            "input": "(olive_oil; dough round)",
+            "action": "brush",
+            "output": "dough round brushed with olive_oil"
+        },
+        {
+            "instructions": "season with salt .",
+            "input": "(salt; dough round brushed with olive_oil)",
+            "action": "season",
+            "output": "salted pizza crust"
+        },
+        {
+            "instructions": "slide the dough onto the hot stone",
+            "input": "pizza crust",
+            "action": "slide",
+            "output": "pizza crust"
+        },
+        {
+            "instructions": "bake for 5 minutes , or until lightly browned .",
+            "input": "pizza crust",
+            "action": "bake",
+            "output": "baked pizza crust"
+        },
+        {
+            "instructions": "slide the crust back onto the peel",
+            "input": "baked pizza crust",
+            "action": "slide",
+            "output": "baked pizza crust"
+        },
+        {
+            "instructions": "spread with half of the hummus .",
+            "input": "(hummus; baked pizza crust)",
+            "action": "spread",
+            "output": "baked pizza crust with hummus"
+        },
+        {
+            "instructions": "return the pizza to the oven",
+            "input": "baked pizza crust with hummus",
+            "action": "return",
+            "output": "baked pizza crust with hummus"
+        },
+        {
+            "instructions": "bake for 2 minutes longer , or until deeply golden .",
+            "input": "baked pizza crust with hummus",
+            "action": "bake",
+            "output": "baked pizza crust with hummus longer"
+        },
+        {
+            "instructions": "in a large bowl , whisk the remaining 2 tablespoons each of olive_oil and lemon_juice",
+            "input": "(remaining olive_oil; remaining lemon_juice)",
+            "action": "whisk",
+            "output": "vinaigrette"
+        },
+        {
+            "instructions": "season with salt and black_pepper .",
+            "input": "(salt; black_pepper; vinaigrette)",
+            "action": "season",
+            "output": "seasoned vinaigrette"
+        },
+        {
+            "instructions": "add the arugula , onion , feta and crushed_red_pepper",
+            "input": "(arugula; onion; feta; crushed_red_pepper; seasoned vinaigrette)",
+            "action": "add",
+            "output": "arugula , onion , feta and crushed_red_pepper added to vinaigrette"
+        },
+        {
+            "instructions": "toss .",
+            "input": "arugula , onion , feta and crushed_red_pepper added to vinaigrette",
+            "action": "toss",
+            "output": "tossed arugula and feta salad"
+        },
+        {
+            "instructions": "top the pizzas with the salad",
+            "input": "(baked pizza crust with hummus; tossed arugula and feta salad)",
+            "action": "top",
+            "output": "baked hummus pizza topped with tossed arugula and feta salad"
+        },
+        {
+            "instructions": "cut into wedges",
+            "input": "hummus_pizza_with_arugula_and_feta",
+            "action": "cut",
+            "output": "hummus_pizza_with_arugula_and_feta in wedges"
+        },
+        {
+            "instructions": "serve immediately .",
+            "input": "hummus_pizza_with_arugula_and_feta in wedges",
+            "action": "serve",
+            "output": "served hummus_pizza_with_arugula_and_feta in wedges"
+        }
+    ],
+    "ingredients": [
+        {
+            "text": "One 19-ounce can chickpeas, drained"
+        },
+        {
+            "text": "1 garlic clove"
+        },
+        {
+            "text": "1/4 cup tahini"
+        },
+        {
+            "text": "3 tablespoons water"
+        },
+        {
+            "text": "1/4 teaspoon chili oil"
+        },
+        {
+            "text": "1/4 cup plus 1 tablespoon fresh lemon juice"
+        },
+        {
+            "text": "Salt and freshly ground black pepper"
+        },
+        {
+            "text": "Two 1-pound pieces pizza dough, thawed if frozen"
+        },
+        {
+            "text": "3 tablespoons plus 1 teaspoon extra-virgin olive oil"
+        },
+        {
+            "text": "Three 6-ounce bunches arugula, thick stems discarded"
+        },
+        {
+            "text": "1 small red onion, thinly sliced"
+        },
+        {
+            "text": "4 ounces crumbled feta cheese (3/4 cup)"
+        },
+        {
+            "text": "Pinch of crushed red pepper"
+        }
+    ],
+    "recipe": [
+        {
+            "text": "Set a pizza stone on the lowest rack of the oven."
+        },
+        {
+            "text": "Preheat the oven to 500, allowing at least 20 minutes for the stone to heat."
+        },
+        {
+            "text": "In a food processor, combine the chickpeas, garlic clove, tahini, water, chili oil and 3 tablespoons of the lemon juice and process until smooth."
+        },
+        {
+            "text": "Season the hummus with salt and black pepper."
+        },
+        {
+            "text": "On a lightly floured work surface, stretch each piece of dough out to a 14-inch round."
+        },
+        {
+            "text": "Lift 1 dough round onto a floured board or pizza peel."
+        },
+        {
+            "text": "Brush with 2 teaspoons of the olive oil and season with salt."
+        },
+        {
+            "text": "Slide the dough onto the hot stone and bake for 5 minutes, or until lightly browned."
+        },
+        {
+            "text": "Slide the crust back onto the peel and spread with half of the hummus."
+        },
+        {
+            "text": "Return the pizza to the oven and bake for 2 minutes longer, or until deeply golden."
+        },
+        {
+            "text": "Repeat to make a second pizza, using the remaining dough, another 2 teaspoons of olive oil and the remaining hummus."
+        },
+        {
+            "text": "In a large bowl, whisk the remaining 2 tablespoons each of olive oil and lemon juice and season with salt and black pepper."
+        },
+        {
+            "text": "Add the arugula, onion, feta and crushed red pepper and toss."
+        },
+        {
+            "text": "Top the pizzas with the salad, cut into wedges and serve immediately."
+        }
+    ]
+}

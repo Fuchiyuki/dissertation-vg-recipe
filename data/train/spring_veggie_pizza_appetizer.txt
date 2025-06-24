@@ -1,0 +1,106 @@
+{
+    "title": "spring_veggie_pizza_appetizer",
+    "id": "f6ecc331a8",
+    "table": [
+        {
+            "instructions": "heat oven to 375 degrees f .",
+            "input": "NA",
+            "action": "heat",
+            "output": "NA"
+        },
+        {
+            "instructions": "unroll each package of dough into 2 rectangles .",
+            "input": "pizza dough",
+            "action": "unroll",
+            "output": "unrolled pizza dough"
+        },
+        {
+            "instructions": "press onto bottom and up sides of 15x10x1 inch pan , firmly pressing seams and perforations together to seal .",
+            "input": "unrolled pizza dough",
+            "action": "press",
+            "output": "pressed pizza dough"
+        },
+        {
+            "instructions": "bake 11 to 13 min .",
+            "input": "pressed pizza dough",
+            "action": "bake",
+            "output": "baked crust"
+        },
+        {
+            "instructions": "mix neufchatel , dressing and seasonings until blended ;",
+            "input": "neufchatel; dressing; seasonings",
+            "action": "mix",
+            "output": "neufchatel and dressing mixture"
+        },
+        {
+            "instructions": "spread onto crust .",
+            "input": "baked crust; neufchatel and dressing mixture",
+            "action": "spread",
+            "output": "neufchatel and dressing mixture spread on baked crust"
+        },
+        {
+            "instructions": "top with remaining_ingredient .",
+            "input": "neufchatel and dressing mixture spread on baked crust; chopped sugar snap peas; quartered cherry tomatoes; sliced radishes; chopped yellow peppers; shredded carrots; ",
+            "action": "top",
+            "output": "baked crust with neufchatel mixture, chopped sugar snap peas, quartered cherry tomatoes, sliced radishes, chopped yellow peppers and shredded carrots"
+        },
+        {
+            "instructions": "refrigerate 2 hours .",
+            "input": "assembled spring_veggie_pizza",
+            "action": "refrigerate",
+            "output": "refrigerated spring_veggie_pizza"
+        }
+    ],
+    "ingredients": [
+        {
+            "text": "2 pkg. (8 oz. each) refrigerated reduced-fat crescent dinner rolls"
+        },
+        {
+            "text": "1 pkg. (8 oz.) PHILADELPHIA Neufchatel Cheese, softened"
+        },
+        {
+            "text": "1/2 cup MIRACLE WHIP Dressing"
+        },
+        {
+            "text": "1 tsp. dill weed"
+        },
+        {
+            "text": "1/2 tsp. onion powder"
+        },
+        {
+            "text": "1 cup each chopped sugar snap peas and quartered cherry tomatoes"
+        },
+        {
+            "text": "1/2 cup each sliced radishes, chopped yellow peppers and shredded carrots"
+        },
+        {
+            "text": "3 green onions, chopped"
+        }
+    ],
+    "recipe": [
+        {
+            "text": "Heat oven to 375 degrees F."
+        },
+        {
+            "text": "Unroll each package of dough into 2 rectangles."
+        },
+        {
+            "text": "Press onto bottom and up sides of 15x10x1-inch pan, firmly pressing seams and perforations together to seal."
+        },
+        {
+            "text": "Bake 11 to 13 min."
+        },
+        {
+            "text": "or until golden brown; cool."
+        },
+        {
+            "text": "Mix Neufchatel, dressing and seasonings until blended; spread onto crust."
+        },
+        {
+            "text": "Top with remaining ingredients."
+        },
+        {
+            "text": "Refrigerate 2 hours."
+        }
+    ]
+}

@@ -1,0 +1,118 @@
+{
+    "title": "spicy_cheese_pizza_bread",
+    "id": "3401381bbe",
+    "table": [
+        {
+            "instructions": "preheat oven to 350f .",
+            "input": "NA",
+            "action": "preheat",
+            "output": "NA"
+        },
+        {
+            "instructions": "cut two 12 inch thick rounds horizontally from center of bread reserve remaining bread for another use .",
+            "input": "bread",
+            "action": "cut",
+            "output": "(cut_bread slices from center of bread; remaining bread)"
+        },
+        {
+            "instructions": "brush bread rounds on both sides lightly with oil ;",
+            "input": "(oil; cut_bread slices from center of bread)",
+            "action": "brush",
+            "output": "bread slices brushed with oil"
+        },
+        {
+            "instructions": "place on baking sheet .",
+            "input": "bread slices brushed with oil",
+            "action": "place",
+            "output": "bread slices brushed with oil on baking sheet"
+        },
+        {
+            "instructions": "bake until beginning to crisp , about 15 minutes .",
+            "input": "bread slices brushed with oil on baking sheet",
+            "action": "bake",
+            "output": "baked bread slices brushed with oil"
+        },
+        {
+            "instructions": "top each bread round with half of cheeses , oregano , and crushed_red_pepper .",
+            "input": "(baked bread slices brushed with oil; fontina cheese; provolone cheese; crumbled feta cheese; oregano; crushed red pepper)",
+            "action": "top",
+            "output": "baked bread slices brushed with oil topped with fontina cheese, provolone cheese, crumbled feta cheese, oregano and crsuhed red pepper"
+        },
+        {
+            "instructions": "sprinkle each with half of tomatoes and olives .",
+            "input": "(half of tomatoes; olives; baked bread slices brushed with oil topped with fontina cheese, provolone cheese, crumbled feta cheese, oregano and crsuhed red pepper)",
+            "action": "sprinkle",
+            "output": "baked bread slices brushed with oil topped with fontina cheese, provolone cheese, crumbled feta cheese, oregano,crsuhed red pepper, half of tomatoes and olives"
+        },
+        {
+            "instructions": "bake bread rounds until cheeses melt",
+            "input": "baked bread slices brushed with oil topped with fontina cheese, provolone cheese, crumbled feta cheese, oregano,crsuhed red pepper, half of tomatoes and olives",
+            "action": "bake",
+            "output": "twice baked spicy cheese bread"
+        },
+        {
+            "instructions": "cut into wedges .",
+            "input": "twice baked spicy cheese bread",
+            "action": "cut",
+            "output": "cut twice baked spicy cheese bread in wedges"
+        }
+    ],
+    "ingredients": [
+        {
+            "text": "1 2-pound uncut sourdough or Italian bread round (about 9-inch diameter)"
+        },
+        {
+            "text": "Olive oil"
+        },
+        {
+            "text": "1 1/4 cups grated Fontina cheese"
+        },
+        {
+            "text": "1 1/4 cups grated provolone cheese"
+        },
+        {
+            "text": "1 1/4 cups crumbled feta cheese"
+        },
+        {
+            "text": "1 1/2 teaspoons dried oregano"
+        },
+        {
+            "text": "1/2 teaspoon (generous) dried crushed red pepper"
+        },
+        {
+            "text": "2/3 cup chopped seeded tomatoes"
+        },
+        {
+            "text": "1/2 cup chopped pitted Kalamata olives or other brine-cured black olives"
+        }
+    ],
+    "recipe": [
+        {
+            "text": "Preheat oven to 350F."
+        },
+        {
+            "text": "Cut two 1/2-inch-thick rounds horizontally from center of bread (reserve remaining bread for another use)."
+        },
+        {
+            "text": "Brush bread rounds on both sides lightly with oil; place on baking sheet."
+        },
+        {
+            "text": "Bake until beginning to crisp, about 15 minutes."
+        },
+        {
+            "text": "Cool 5 minutes."
+        },
+        {
+            "text": "Top each bread round with half of cheeses, oregano, and crushed red pepper."
+        },
+        {
+            "text": "Sprinkle each with half of tomatoes and olives."
+        },
+        {
+            "text": "Bake bread rounds until cheeses melt and bottoms are crisp, about 15 minutes."
+        },
+        {
+            "text": "Cut into wedges."
+        }
+    ]
+}

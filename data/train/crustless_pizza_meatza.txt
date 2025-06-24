@@ -1,0 +1,145 @@
+{
+    "title": "crustless_pizza_meatza",
+    "id": "6b5409dc50",
+    "table": [
+        {
+            "instructions": "preheat oven to 350f .",
+            "input": "NA",
+            "actions": "preheat",
+            "output": "NA"
+        },
+        {
+            "instructions": "in a large bowl and with clean hands , combine the meat with the onion and garlic , and a teaspoon of oregano or italian_seasoning if using .",
+            "input": "(meat; garlic; italian_seasoning; onion; oregano; onion; oregano)",
+            "actions": "combine",
+            "output": "(combined_meat; garlic; italian_seasoning; onion; oregano; onion; oregano)"
+        },
+        {
+            "instructions": "mix well .",
+            "input": "(combined_meat; garlic; italian_seasoning; onion; oregano; onion; oregano)",
+            "actions": "mix",
+            "output": "meat_mixture"
+        },
+        {
+            "instructions": "pat the meat mixture out in a even layer in a 9x12 inch , baking pan .",
+            "input": "meat_mixture",
+            "actions": "pat",
+            "output": "patted_meat_mixture"
+        },
+        {
+            "instructions": "bake for 20 minutes .",
+            "input": "patted_meat_mixture",
+            "actions": "bake",
+            "output": "baked_meat_mixture"
+        },
+        {
+            "instructions": "pour off the grease",
+            "input": "baked_meat_mixture",
+            "actions": "pour",
+            "output": "baked_meat_mixture_without_grease"
+        },
+        {
+            "instructions": "spread the pizza_sauce over the meat .",
+            "input": "(baked_meat_mixture_without_grease; pizza_sauce)",
+            "actions": "spread",
+            "output": "pizza_sauce_spread_over_baked_meat_mixture"
+        },
+        {
+            "instructions": "sprinkle the parmesan if using on the sauce ,",
+            "input": "(parmesan; meatza)",
+            "actions": "sprinkle",
+            "output": "parmesan_sprinkled_over_meatza"
+        },
+        {
+            "instructions": "top with whatever you like ie green_pepper , mushrooms , onion , black_olive etc .",
+            "input": "(toppings; meatza)",
+            "actions": "top",
+            "output": "meatza_topped_with_toppings"
+        },
+        {
+            "instructions": "drizzle the whole thing with a little olive_oil if using",
+            "input": "(meatza; olive_oil)",
+            "actions": "drizzle",
+            "output": "olive_oil_drizzled_over_meatza"
+        },
+        {
+            "instructions": "put your meatza 4 inches below a broiler or griller set on high .",
+            "input": "uncooked_meatza",
+            "actions": "put",
+            "output": "uncooked_meatza"
+        },
+        {
+            "instructions": "broil grill for about 5 minutes until cheese is melted and starting to brown .",
+            "input": "uncooked_meatza",
+            "actions": "broil",
+            "output": "broiled_meatza"
+        }
+    ],
+    "ingredients": [
+        {
+            "text": "1 12 lbs ground beef"
+        },
+        {
+            "text": "1 small onion, finely chopped"
+        },
+        {
+            "text": "1 garlic clove, crushed"
+        },
+        {
+            "text": "1 teaspoon dried oregano (optional) or 1 teaspoon italian seasoning (optional)"
+        },
+        {
+            "text": "8 ounces sugar-free pizza sauce"
+        },
+        {
+            "text": "parmesan cheese (optional) or romano cheese (optional)"
+        },
+        {
+            "text": "8 ounces shreddded mozzarella cheese"
+        },
+        {
+            "text": "pizza toppings"
+        },
+        {
+            "text": "olive oil (optional)"
+        }
+    ],
+    "recipe": [
+        {
+            "text": "Preheat oven to 350F."
+        },
+        {
+            "text": "In a large bowl and with clean hands, combine the meat with the onion and garlic, and a teaspoon of oregano or italian seasoning (if using)."
+        },
+        {
+            "text": "Mix well."
+        },
+        {
+            "text": "Pat the meat mixture out in a even layer in a 9x12 inch baking pan."
+        },
+        {
+            "text": "Bake for 20 minutes."
+        },
+        {
+            "text": "When the meat comes out, it will have shrunk a fair amount, because of the grease cooking off."
+        },
+        {
+            "text": "Pour off the grease and spread the pizza sauce over the meat."
+        },
+        {
+            "text": "Sprinkle the parmesan (if using) on the sauce, and then distribute the shredded mozzerella."
+        },
+        {
+            "text": "Top with whatever you like ie: green peppers, mushrooms, onion, black olives etc."
+        },
+        {
+            "text": "Drizzle the whole thing with a little olive oil (if using)"
+        },
+        {
+            "text": "Put your Meatza 4 inches below a broiler or griller set on high."
+        },
+        {
+            "text": "Broil/Grill for about 5 minutes until cheese is melted and starting to brown."
+        }
+    ]
+}

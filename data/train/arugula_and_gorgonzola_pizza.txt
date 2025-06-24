@@ -1,0 +1,202 @@
+{
+    "title": "arugula_and_gorgonzola_pizza",
+    "id": "28de3dc00e",
+    "table": [
+        {
+            "instructions": "preheat the oven to 50",
+            "input": "NA",
+            "action": "preheat",
+            "output": "NA"
+        },
+        {
+            "instructions": "heat the olive_oil in a large skillet .",
+            "input": "olive_oil",
+            "action": "heat",
+            "output": "heated_olive_oil"
+        },
+        {
+            "instructions": "add the sliced onions",
+            "input": "sliced onion; heated_olive_oil",
+            "action": "add",
+            "output": "Sliced onion in heated_olive_oil"
+        },
+        {
+            "instructions": "season with salt and pepper",
+            "input": "Sliced onion in heated_olive_oil; salt; pepper",
+            "action": "season",
+            "output": "seasoned onions"
+        },
+        {
+            "instructions": "cook over moderate heat , stirring occasionally , until the onion is softened , about 4 minutes .",
+            "input": "seasoned onions",
+            "action": "cook",
+            "output": "cooked onions"
+        },
+        {
+            "instructions": "add the garlic",
+            "input": "garlic; cooked onions",
+            "action": "add",
+            "output": "garlic in cooked onions"
+        },
+        {
+            "instructions": "cook for 1 minute .",
+            "input": "garlic and cooked onions mixture",
+            "action": "cook",
+            "output": "cooked onion and garlic mixture"
+        },
+        {
+            "instructions": "add the wine",
+            "input": "wine; cooked onion and garlic mixture",
+            "action": "add",
+            "output": "wine added to cooked onion and garlic mixture"
+        },
+        {
+            "instructions": "cook until evaporated , 3 to 4 minutes .",
+            "input": "wine added to cooked onion and garlic mixture",
+            "action": "cook",
+            "output": "cooked onion, garlic and wine mixture"
+        },
+        {
+            "instructions": "remove the skillet from the heat .",
+            "input": "cooked onion, garlic and wine mixture",
+            "action": "remove",
+            "output": "cooked onion, garlic and wine mixture"
+        },
+        {
+            "instructions": "on a lightly floured surface , roll out the pizza_dough to a 12 inch round .",
+            "input": "pizza_dough",
+            "action": "roll",
+            "output": "pizza_crust"
+        },
+        {
+            "instructions": "spray a baking sheet with olive_oil , cooking_spray",
+            "input": "NA",
+            "action": "spray",
+            "output": "NA"
+        },
+        {
+            "instructions": "sprinkle with cornmeal",
+            "input": "NA",
+            "action": "sprinkle",
+            "output": "NA"
+        },
+        {
+            "instructions": "transfer the dough to the sheet .",
+            "input": "pizza_crust",
+            "action": "transfer",
+            "output": "pizza crust_on_sheet"
+        },
+        {
+            "instructions": "spread the onion on top",
+            "input": "pizza crust_on_sheet; cooked onion, garlic and wine mixture",
+            "action": "spread",
+            "output": "Pizza_crust_with_cooked onion, garlic and wine mixture"
+        },
+        {
+            "instructions": "sprinkle with the gorgonzola and 14 cup of the parmesan .",
+            "input": "Pizza_crust_with_cooked onion, garlic and wine mixture; gorgonzola; parmesan",
+            "action": "sprinkle",
+            "output": "Pizza_crust_with_cooked onion, garlic and wine mixture, gorgonzola and parmesan"
+        },
+        {
+            "instructions": "bake the pizza for 10 to 12 minutes , or until the crust is golden .",
+            "input": "assembled gorgonzola pizza",
+            "action": "bake",
+            "output": "baked gorgonzola pizza"
+        },
+        {
+            "instructions": "sprinkle with the arugula , toasted_walnut and the remaining 14 cup of parmesan .",
+            "input": "arugula; toasted_walnut; remaining parmesan; baked gorgonzola pizza",
+            "action": "sprinkle",
+            "output": "baked gorgonzola pizza with arugula , toasted_walnut and the remaining parmesan"
+        },
+        {
+            "instructions": "slice into wedges",
+            "input": "ready arugula_and_gorgonzola_pizza",
+            "action": "slice",
+            "output": "sliced arugula_and_gorgonzola_pizza"
+        },
+        {
+            "instructions": "serve .",
+            "input": "sliced arugula_and_gorgonzola_pizza",
+            "action": "serve",
+            "output": "Served_ arugula_and_gorgonzola_pizza"
+        }
+    ],
+    "ingredients": [
+        {
+            "text": "1 tablespoon extra-virgin olive oil"
+        },
+        {
+            "text": "1/2 pound spring onions, white bulb only, sliced, or 1 small white onion, thinly sliced"
+        },
+        {
+            "text": "Salt and freshly ground pepper"
+        },
+        {
+            "text": "1/2 tablespoon minced garlic"
+        },
+        {
+            "text": "1/4 cup dry white wine"
+        },
+        {
+            "text": "3/4 pound pizza dough"
+        },
+        {
+            "text": "Olive oil cooking spray"
+        },
+        {
+            "text": "1 tablespoon cornmeal"
+        },
+        {
+            "text": "1 1/2 ounces Gorgonzola cheese, crumbled (6 tablespoons )"
+        },
+        {
+            "text": "1/2 cup freshly grated Parmesan cheese (1 1/2 ounces)"
+        },
+        {
+            "text": "1/4 pound young arugula, trimmed and coarsely chopped"
+        },
+        {
+            "text": "1/4 cup walnut pieces, toasted and coarsely chopped"
+        }
+    ],
+    "recipe": [
+        {
+            "text": "Preheat the oven to 500."
+        },
+        {
+            "text": "Heat the olive oil in a large skillet."
+        },
+        {
+            "text": "Add the sliced onions, season with salt and pepper and cook over moderate heat, stirring occasionally, until the onion is softened, about 4 minutes."
+        },
+        {
+            "text": "Add the garlic and cook for 1 minute."
+        },
+        {
+            "text": "Add the wine and cook until evaporated, 3 to 4 minutes."
+        },
+        {
+            "text": "Remove the skillet from the heat."
+        },
+        {
+            "text": "On a lightly floured surface, roll out the pizza dough to a 12-inch round."
+        },
+        {
+            "text": "Spray a baking sheet with olive oil cooking spray, sprinkle with cornmeal and transfer the dough to the sheet."
+        },
+        {
+            "text": "Spread the onion on top and sprinkle with the Gorgonzola and 1/4 cup of the Parmesan."
+        },
+        {
+            "text": "Bake the pizza for 10 to 12 minutes, or until the crust is golden."
+        },
+        {
+            "text": "Sprinkle with the arugula, toasted walnuts and the remaining 1/4 cup of Parmesan."
+        },
+        {
+            "text": "Slice into wedges and serve."
+        }
+    ]
+}

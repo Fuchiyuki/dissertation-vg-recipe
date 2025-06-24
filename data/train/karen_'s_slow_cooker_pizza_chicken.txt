@@ -1,0 +1,106 @@
+{
+    "title": "karen_'s_slow_cooker_pizza_chicken",
+    "id": "6b115ffce1",
+    "table": [
+        {
+            "instructions": "place chicken , onion , bell_pepper and celery in a slow\u2012cooker .",
+            "input": "(chicken; onion; bell_pepper; celery)",
+            "action": "place",
+            "output": "chicken and vegetable mixture in slow\u2012cooker "
+        },
+        {
+            "instructions": "in a medium bowl combine the tomato_soup , cream of mushroom_soup , tomato_paste , water , parsley , oregano , basil , salt and pepper .",
+            "input": "tomato soup; cream of mushroom soup; tomato paste; water; parsley; oregano; basil; salt; pepper",
+            "action": "combine",
+            "output": "combined mixture of soups, paste and seasonings"
+        },
+        {
+            "instructions": "mix well",
+            "input": "mixture of soups, paste and seasonings",
+            "action": "mix",
+            "output": "mixture of soups, paste and seasonings"
+        },
+        {
+            "instructions": "pour mixture over chicken and vegetables in slow\u2012cooker .",
+            "input": "mixture of soups, paste and seasonings; chicken and vegetable mixture in slow\u2012cooker ",
+            "action": "pour",
+            "output": "mixture of soups, paste and seasonings poured over chicken and vegetable mixture in slow\u2012cooker "
+        },
+        {
+            "instructions": "stir to coat",
+            "input": "mixture of soups, paste and seasonings poured over chicken and vegetable mixture in slow\u2012cooker ",
+            "action": "stir",
+            "output": "stirred soup and chicken mixture in slow-cooked"
+        },
+        {
+            "instructions": "add bay_leaf .",
+            "input": "chicken/vegetable mixturestirred soup and chicken mixture in slow-cooked",
+            "action": "add",
+            "output": "stirred soup and chicken mixture in slow-cooked with added bay leaf"
+        },
+        {
+            "instructions": "cook on low setting for 8 hours , until chicken and vegetables are tender .",
+            "input": "stirred soup and chicken mixture in slow-cooked with added bay leaf",
+            "action": "cook",
+            "output": "cooked slow-cooked pizza chicken dish"
+        }
+    ],
+    "ingredients": [
+        {
+            "text": "4 skinless, boneless chicken breast halves - cut into bite size pieces"
+        },
+        {
+            "text": "1 onion, chopped"
+        },
+        {
+            "text": "1 green bell pepper, chopped"
+        },
+        {
+            "text": "2 stalks celery, sliced"
+        },
+        {
+            "text": "1 (10.75 ounce) can condensed tomato soup"
+        },
+        {
+            "text": "1 (10.75 ounce) can condensed cream of mushroom soup"
+        },
+        {
+            "text": "2 tablespoons tomato paste"
+        },
+        {
+            "text": "1/2 cup water"
+        },
+        {
+            "text": "1 tablespoon dried parsley"
+        },
+        {
+            "text": "1 tablespoon dried oregano"
+        },
+        {
+            "text": "1 tablespoon dried basil"
+        },
+        {
+            "text": "1 bay leaf"
+        },
+        {
+            "text": "salt and pepper to taste"
+        }
+    ],
+    "recipe": [
+        {
+            "text": "Place chicken, onion, bell pepper and celery in a slow cooker."
+        },
+        {
+            "text": "In a medium bowl combine the tomato soup, cream of mushroom soup, tomato paste, water, parsley, oregano, basil, salt and pepper."
+        },
+        {
+            "text": "Mix well and pour mixture over chicken and vegetables in slow cooker."
+        },
+        {
+            "text": "Stir to coat and add bay leaf."
+        },
+        {
+            "text": "Cook on Low setting for 8 hours, until chicken and vegetables are tender."
+        }
+    ]
+}

@@ -1,0 +1,133 @@
+{
+    "title": "vegetable_pizza_breads_recipe",
+    "id": "1ba6cc144b",
+    "table": [
+        {
+            "instructions": "pat crescent_roll onto a lightly greased 15 x 10 12 pan",
+            "input": "crescent_roll",
+            "action": "pat",
+            "output": "patted_crescent_roll"
+        },
+        {
+            "instructions": "bake according to package directions to a light brown .",
+            "input": "patted_crescent_roll",
+            "action": "bake",
+            "output": "baked crescent roll crust"
+        },
+        {
+            "instructions": "mix cream_cheese , salad_dressing and spices .",
+            "input": "(cream cheese; salad dressing; spices)",
+            "action": "mix",
+            "output": "cream cheese mixture"
+        },
+        {
+            "instructions": "spread over cooled crust .",
+            "input": "(cooled baked crescent roll crust; cream cheese mixture)",
+            "action": "spread",
+            "output": "cooled baked crescent roll crust with spread cream cheese mixture"
+        },
+        {
+            "instructions": "top with sprouts and vegetables .",
+            "input": "(sprouts; vegetables; cooled baked crescent roll crust with spread cream cheese mixture)",
+            "action": "top",
+            "output": "cooled baked crescent roll crust with cream cheese mixture, sprouts and vegetables"
+        },
+        {
+            "instructions": "sprinkle with sunflower_seed kernels .",
+            "input": "(cooled baked crescent roll crust with cream cheese mixture, sprouts and vegetables; sunflower seed kernels)",
+            "action": "sprinkle",
+            "output": "cooled baked crescent roll crust with cream cheese mixture, sprouts, vegetables, and sunflower seed kernels"
+        },
+        {
+            "instructions": "cover with the grated cheese .",
+            "input": "(grated cheese; cooled baked crescent roll crust with cream cheese mixture, sprouts, vegetables, and sunflower seed kernels)",
+            "action": "cover",
+            "output": "cooled baked crescent roll crust with cream cheese mixture, sprouts, vegetables, sunflower seed kernels, and grated cheese"
+        },
+        {
+            "instructions": "chill for several hrs or possibly overnight .",
+            "input": "cooled baked crescent roll crust with cream cheese mixture, sprouts, vegetables, sunflower seed kernels, and grated cheese",
+            "action": "chill",
+            "output": "chilled vegetable pizza"
+        },
+        {
+            "instructions": "serve cool .",
+            "input": "chilled vegetable pizza",
+            "action": "serve",
+            "output": "ready to eat chilled vegetable pizza"
+        }
+    ],
+    "ingredients": [
+        {
+            "text": "2 Packages crescent rolls"
+        },
+        {
+            "text": "2 (8 ounce.) Packages cream cheese, softened"
+        },
+        {
+            "text": "3/4 c. salad dressing"
+        },
+        {
+            "text": "1 teaspoon garlic pwdr"
+        },
+        {
+            "text": "1 teaspoon celery seed"
+        },
+        {
+            "text": "1/2 teaspoon dill seed"
+        },
+        {
+            "text": "2 c. alfalfa sprouts"
+        },
+        {
+            "text": "1 c. minced tomatoes"
+        },
+        {
+            "text": "1/2 c. green onions"
+        },
+        {
+            "text": "1/2 c. green peppers"
+        },
+        {
+            "text": "1/2 c. minced mushrooms"
+        },
+        {
+            "text": "1 shredded carrot"
+        },
+        {
+            "text": "1 c. sunflower seed kernels"
+        },
+        {
+            "text": "2 c. grated cheddar cheese"
+        }
+    ],
+    "recipe": [
+        {
+            "text": "Pat crescent rolls onto a lightly greased 15\" x 10 1/2\" pan and bake according to package directions to a light brown."
+        },
+        {
+            "text": "Cold."
+        },
+        {
+            "text": "Mix cream cheese, salad dressing and spices."
+        },
+        {
+            "text": "Spread over cooled crust."
+        },
+        {
+            "text": "Top with sprouts and vegetables."
+        },
+        {
+            "text": "Sprinkle with sunflower seed kernels."
+        },
+        {
+            "text": "Cover with the grated cheese."
+        },
+        {
+            "text": "Chill for several hrs or possibly overnight."
+        },
+        {
+            "text": "Serve cool."
+        }
+    ]
+}

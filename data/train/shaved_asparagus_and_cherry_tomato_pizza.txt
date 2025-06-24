@@ -1,0 +1,148 @@
+{
+    "title": "shaved_asparagus_and_cherry_tomato_pizza",
+    "id": "301bd96745",
+    "table": [
+        {
+            "instructions": "preheat the oven to 400 degrees f .",
+            "input": "NA",
+            "action": "preheat",
+            "output": "NA"
+        },
+        {
+            "instructions": "shave the asparagus down the length of the stalk with a vegetable peeler you are basically shaving it into ribbons .",
+            "input": "asparagus",
+            "action": "shave",
+            "output": "shaved asparagus"
+        },
+        {
+            "instructions": "put the asparagus into a bowl",
+            "input": "shaved asparagus",
+            "action": "put",
+            "output": "shaved asparagus"
+        },
+        {
+            "instructions": "drizzle with lemon_juice , one tablespoon of olive_oil , salt , and pepper .",
+            "input": "(shaved asparagus; lemon juice; olive oil; salt; pepper)",
+            "action": "drizzle",
+            "output": "dressed asparagus"
+        },
+        {
+            "instructions": "brush the remaining tablespoon of olive_oil all over the flatbread .",
+            "input": "(remaining olive oil; flatbread)",
+            "action": "brush",
+            "output": "flatbread brushed with remaining olive oil"
+        },
+        {
+            "instructions": "crisp in the oven .",
+            "input": "flatbread brushed with remaining olive oil",
+            "action": "crisp",
+            "output": "crispied oiled flatbread"
+        },
+        {
+            "instructions": "spread the minced_garlic all over the flatbread",
+            "input": "(crispied oiled flatbread; minced garlic)",
+            "action": "spread",
+            "output": "crispied oiled flatbread with minced garlic"
+        },
+        {
+            "instructions": "gently press it into the dough .",
+            "input": "crispied oiled flatbread with minced garlic",
+            "action": "press",
+            "output": "crispied oiled flatbread with minced garlic pressed"
+        },
+        {
+            "instructions": "top the flatbread with the asparagus",
+            "input": "(crispied oiled flatbread with minced garlic pressed; dressed asparagus)",
+            "action": "top",
+            "output": "crispied oiled flatbread with minced garlic pressed and topped with dressed asparagus"
+        },
+        {
+            "instructions": "sprinkle with the mozzerella cheese ,",
+            "input": "(crispied oiled flatbread with minced garlic pressed and topped with dressed asparagus; mozzarella cheese)",
+            "action": "sprinkle",
+            "output": "crispied oiled flatbread with minced garlic pressed and topped with dressed asparagus and mozzarella cheese"
+        },
+        {
+            "instructions": "then spread the cherry_tomato halves over the cheese consider seasoning the tomatoes with salt and pepper .",
+            "input": "(cherry_tomato halves; salt; pepper; crispied oiled flatbread with minced garlic pressed and topped with dressed asparagus and mozzarella cheese)",
+            "action": "spread",
+            "output": "crispied oiled flatbread with minced garlic pressed and topped with dressed asparagus, mozzarella cheese, seasoned cherry tomato halves"
+        },
+        {
+            "instructions": "bake the pizza for 15 minutes at 400 degrees f or to directions for your flatbread .",
+            "input": "uncooked shaved_asparagus_and_cherry_tomato_pizza",
+            "action": "bake",
+            "output": "baked shaved_asparagus_and_cherry_tomato_pizza"
+        },
+        {
+            "instructions": "towards the end , put the oven on broil",
+            "input": "baked shaved_asparagus_and_cherry_tomato_pizza",
+            "action": "put",
+            "output": "broiled shaved_asparagus_and_cherry_tomato_pizza"
+        },
+        {
+            "instructions": "brown the edges of the pizza for about 2 minutes with the oven door slightly open .",
+            "input": "broiled shaved_asparagus_and_cherry_tomato_pizza",
+            "action": "brown",
+            "output": "broiled shaved_asparagus_and_cherry_tomato_pizza"
+        }
+    ],
+    "ingredients": [
+        {
+            "text": "1 bunch Asparagus, Washed And Tough Ends Removed"
+        },
+        {
+            "text": "1 Tablespoon Lemon Juice, Freshly Squeezed"
+        },
+        {
+            "text": "2 Tablespoons Olive Oil"
+        },
+        {
+            "text": "1 teaspoon Kosher Salt"
+        },
+        {
+            "text": "1 teaspoon Freshly Ground Black Pepper"
+        },
+        {
+            "text": "1 whole 300 Gram Whole Grain Flatbread (or Enough Dough For A 9x13 Square Pizza)"
+        },
+        {
+            "text": "2 cloves Garlic, Minced"
+        },
+        {
+            "text": "3/4 cups Part-skim Mozzarella Cheese, Shredded"
+        },
+        {
+            "text": "1 cup Cherry Tomatoes, Halved"
+        }
+    ],
+    "recipe": [
+        {
+            "text": "Preheat the oven to 400 degrees F."
+        },
+        {
+            "text": "Shave the asparagus down the length of the stalk with a vegetable peeler (you are basically shaving it into ribbons)."
+        },
+        {
+            "text": "Put the asparagus into a bowl and drizzle with lemon juice, one tablespoon of olive oil, salt, and pepper."
+        },
+        {
+            "text": "Brush the remaining tablespoon of olive oil all over the flatbread."
+        },
+        {
+            "text": "Be sure to get the edges, so that they brown and crisp in the oven."
+        },
+        {
+            "text": "Spread the minced garlic all over the flatbread and gently press it into the dough."
+        },
+        {
+            "text": "Top the flatbread with the asparagus, sprinkle with the mozzerella cheese, and then spread the cherry tomato halves over the cheese (consider seasoning the tomatoes with salt and pepper)."
+        },
+        {
+            "text": "Bake the pizza for 15 minutes at 400 degrees F (or to directions for your flatbread)."
+        },
+        {
+            "text": "Towards the end, put the oven on broil and brown the edges of the pizza for about 2 minutes with the oven door slightly open."
+        }
+    ]
+}

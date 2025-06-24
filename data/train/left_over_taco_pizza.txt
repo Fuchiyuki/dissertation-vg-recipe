@@ -1,0 +1,127 @@
+{
+    "title": "left_over_taco_pizza",
+    "id": "5afe1c326c",
+    "table": [
+        {
+            "instructions": "ok stretch your dough .",
+            "input": "dough",
+            "action": "stretch",
+            "output": "stretched_dough"
+        },
+        {
+            "instructions": "now use the sour_cream and guacamole as you sauce .",
+            "input": "(sour cream; guacamole; stretched_dough)",
+            "action": "use",
+            "output": "stretched_dough with sour cream and guacamole"
+        },
+        {
+            "instructions": "take that left over taco_meat , onion , green_pepper , tomato",
+            "input": "(taco meat; green pepper; tomato; stretched_dough with sour cream and guacamole)",
+            "action": "take",
+            "output": "stretched_dough with sour cream, guacamole, taco meat, onion, green pepper and tomato"
+        },
+        {
+            "instructions": "spread it on that sauce .",
+            "input": "stretched_dough with sour cream, guacamole, taco meat, onion, green pepper and tomato",
+            "action": "spread",
+            "output": "stretched_dough with sour cream, guacamole, taco meat, onion, green pepper and tomato"
+        },
+        {
+            "instructions": "next add the cheese",
+            "input": "(cheese; stretched_dough with sour cream, guacamole, taco meat, onion, green pepper and tomato)",
+            "action": "add",
+            "output": "stretched_dough with sour cream, guacamole, taco meat, onion, green pepper, tomato and cheese"
+        },
+        {
+            "instructions": "Fire up the grill and get it hot.",
+            "input": "NA",
+            "action": "get",
+            "output": "NA"
+        },
+        {
+            "instructions": "Add that pie",
+            "input": "stretched_dough with sour cream, guacamole, taco meat, onion, green pepper, tomato and cheese",
+            "action": "add",
+            "output": "grilled taco pizza"
+        },
+        {
+            "instructions": "watch it,\u00a0",
+            "input": "grilled taco pizza",
+            "action": "watch",
+            "output": "grilled taco pizza"
+        },
+        {
+            "instructions": "it should only take a couple minutes .",
+            "input": "NA",
+            "action": "take",
+            "output": "NA"
+        },
+        {
+            "instructions": "OK if you don't have guts to grill you pie, turn on the oven 450,",
+            "input": "NA",
+            "action": "turn",
+            "output": "NA"
+        },
+        {
+            "instructions": "bake until you achieve that golden crust .",
+            "input": "stretched_dough with sour cream, guacamole, taco meat, onion, green pepper, tomato and cheese",
+            "action": "bake",
+            "output": "baked taco pizza"
+        }
+    ],
+    "ingredients": [
+        {
+            "text": "1 packages Left over taco meat"
+        },
+        {
+            "text": "1/4 cup sour cream"
+        },
+        {
+            "text": "1/4 cup guacamole"
+        },
+        {
+            "text": "2 cup sharp cheddar cheese"
+        },
+        {
+            "text": "1 lb semolina pizza dough (or whatever crust you like)"
+        },
+        {
+            "text": "1 tomato chopped"
+        },
+        {
+            "text": "1/2 medium green pepper chopped"
+        },
+        {
+            "text": "1/4 medium onion chopped"
+        }
+    ],
+    "recipe": [
+        {
+            "text": "OK stretch your dough."
+        },
+        {
+            "text": "Now use the sour cream and guacamole as you sauce."
+        },
+        {
+            "text": "Remember a little goes along way."
+        },
+        {
+            "text": "You got the idea, take that left over taco meat, onion, green pepper, tomato and spread it on that sauce."
+        },
+        {
+            "text": "Next add the cheese, don't be scared pile it on up."
+        },
+        {
+            "text": "Fire up the grill and get it hot."
+        },
+        {
+            "text": "500 or more"
+        },
+        {
+            "text": "Add that pie and watch it, it should only take a couple minutes."
+        },
+        {
+            "text": "OK if you don't have guts to grill you pie, turn on the oven 450 and bake until you achieve that golden crust."
+        }
+    ]
+}

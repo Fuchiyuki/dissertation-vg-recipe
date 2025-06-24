@@ -1,0 +1,175 @@
+{
+    "title": "pizza_sicilia_palermo_style_pizza",
+    "id": "d1e593161c",
+    "table": [
+        {
+            "instructions": "make dough by mixing dough ingredients .",
+            "input": "dough",
+            "actions": "make",
+            "output": "made_dough"
+        },
+        {
+            "instructions": "knead 12 to 20 minutes .",
+            "input": "made_dough",
+            "actions": "knead",
+            "output": "kneaded_dough"
+        },
+        {
+            "instructions": "pat into a ball",
+            "input": "kneaded_dough",
+            "actions": "pat",
+            "output": "patted_dough"
+        },
+        {
+            "instructions": "cover it tight",
+            "input": "patted_dough",
+            "actions": "cover",
+            "output": "covered_dough"
+        },
+        {
+            "instructions": "in the oil fry onion tender but not too brown",
+            "input": "oil, onion",
+            "actions": "fry",
+            "output": "fried_onion"
+        },
+        {
+            "instructions": "stir in tomato_paste",
+            "input": "tomato_paste, fried_onion",
+            "actions": "stir",
+            "output": "stirred_tomato_paste"
+        },
+        {
+            "instructions": "season with spices",
+            "input": "stirred_tomato_paste",
+            "actions": "season",
+            "output": "seasoned_tomato_paste"
+        },
+        {
+            "instructions": "pour water over",
+            "input": "seasoned_tomato_paste",
+            "actions": "pour",
+            "output": "poured_tomato_paste"
+        },
+        {
+            "instructions": "simmer slowly 25 to 30 minutes .",
+            "input": "poured_tomato_paste",
+            "actions": "simmer",
+            "output": "simmered_tomato_paste"
+        },
+        {
+            "instructions": "add anchovies when sauce is done .",
+            "input": "simmered_tomato_paste, anchovies",
+            "actions": "add",
+            "output": "added_anchovies_sauce"
+        },
+        {
+            "instructions": "grease well before spreading the well raised dough 12 to 34 inch thick .",
+            "input": "baking sheet, dough",
+            "actions": "grease",
+            "output": "greased_baking_sheet"
+        },
+        {
+            "instructions": "poke your finger tips haphazardly into the dough to make marks that will catch the sauce when you pour it on generously .",
+            "input": "greased_baking_sheet, dough",
+            "actions": "poke",
+            "output": "poked_dough"
+        },
+        {
+            "instructions": "shake on parmesan or parmesan type cheese",
+            "input": "poked_dough",
+            "actions": "shake",
+            "output": "shaken_dough"
+        },
+        {
+            "instructions": "bake in hot oven 350f 12 hour , then 14 hour more at lower heat 250f until the pizza is golden brown .",
+            "input": "shaken_dough",
+            "actions": "bake",
+            "output": "baked_pizza"
+        },
+        {
+            "instructions": "cut in wedges like any other pie",
+            "input": "baked_pizza",
+            "actions": "cut",
+            "output": "cut_pizza"
+        },
+        {
+            "instructions": "serve .",
+            "input": "cut_pizza",
+            "actions": "serve",
+            "output": "served_pizza"
+        }
+    ],
+    "ingredients": [
+        {
+            "text": "1 (1/4 ounce) package dry active yeast, dissolved in 1/2 cup warm water (105-115 F)"
+        },
+        {
+            "text": "2 cups sifted flour"
+        },
+        {
+            "text": "1 teaspoon salt"
+        },
+        {
+            "text": "2 tablespoons olive oil"
+        },
+        {
+            "text": "3 tablespoons olive oil"
+        },
+        {
+            "text": "2 large onions, sliced thin"
+        },
+        {
+            "text": "1 (12 ounce) can tomato paste"
+        },
+        {
+            "text": "8 -10 anchovy fillets, cut small"
+        },
+        {
+            "text": "12 teaspoon oregano"
+        },
+        {
+            "text": "18 teaspoon salt"
+        },
+        {
+            "text": "1 teaspoon crushed red pepper flakes"
+        },
+        {
+            "text": "2 12 cups water"
+        },
+        {
+            "text": "12 cup grated cheese (Italian Blend,Parmesan, Romano or Pecorino)"
+        }
+    ],
+    "recipe": [
+        {
+            "text": "Make dough by mixing dough ingredients."
+        },
+        {
+            "text": "Knead 12 to 20 minutes."
+        },
+        {
+            "text": "Pat into a ball, cover it tight and let stand 3 hours in warm place until twice the size."
+        },
+        {
+            "text": "In the oil fry onion tender but not too brown, stir in tomato paste and keep stirring 3 or 4 minutes."
+        },
+        {
+            "text": "Season with spices, pour water over and simmer slowly 25 to 30 minutes."
+        },
+        {
+            "text": "Add anchovies when sauce is done."
+        },
+        {
+            "text": "Procure a low, wide and handsome tin pizza pan, or reasonable substitute, and grease well before spreading the well-raised dough 1/2 to 3/4 inch thick."
+        },
+        {
+            "text": "Poke your finger tips haphazardly into the dough to make marks that will catch the sauce when you pour it on generously."
+        },
+        {
+            "text": "Shake on Parmesan or Parmesan-type cheese and bake in hot oven (350F) 1/2 hour, then 1/4 hour more at lower heat (250F) until the pizza is golden-brown."
+        },
+        {
+            "text": "Cut in wedges like any other pie and serve."
+        }
+    ]
+}

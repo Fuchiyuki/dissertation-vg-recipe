@@ -1,0 +1,136 @@
+{
+    "title": "good_morning_pizza_recipe",
+    "id": "97546d613d",
+    "table": [
+        {
+            "instructions": "mix pizza_crust_mix",
+            "input": "pizza_crust_mix",
+            "action": "mix",
+            "output": "uncooked pizza crust"
+        },
+        {
+            "instructions": "bake in oven till golden brown .",
+            "input": "uncooked pizza crust",
+            "action": "bake",
+            "output": "baked pizza crust"
+        },
+        {
+            "instructions": "take melted_butter",
+            "input": "melted butter",
+            "action": "take",
+            "output": "melted butter"
+        },
+        {
+            "instructions": "brush over crust thoroughly .",
+            "input": "(melted butter; baked pizza crust)",
+            "action": "brush",
+            "output": "baked pizza crust brushed with melted butter"
+        },
+        {
+            "instructions": "fry bacon , sausage , and ham .",
+            "input": "(bacon; sausage; ham)",
+            "action": "fry",
+            "output": "fried sausage, bacon and ham"
+        },
+        {
+            "instructions": "crumble bacon and sausage .",
+            "input": "fried sausage, bacon and ham",
+            "action": "crumble",
+            "output": "crumbled fried bacon and sausage"
+        },
+        {
+            "instructions": "chop your ham",
+            "input": "fried ham",
+            "action": "chop",
+            "output": "chopped fried ham"
+        },
+        {
+            "instructions": "place over crust .",
+            "input": "(baked pizza crust brushed with melted butter; chopped fried ham; crumbled fried bacon and sausage)",
+            "action": "place",
+            "output": "baked pizza crust brushed with melted butter with crumbled fried bacon and sausage and chopped fried ham"
+        },
+        {
+            "instructions": "sprinkle all large_egg in a bowl ,",
+            "input": "large egg",
+            "action": "sprinkle",
+            "output": "large egg"
+        },
+        {
+            "instructions": "pour over the mix .",
+            "input": "(large egg; baked pizza crust brushed with melted butter with crumbled fried bacon and sausage and chopped fried ham)",
+            "action": "pour",
+            "output": "baked pizza crust brushed with melted butter with crumbled fried bacon and sausage, chopped fried ham and egg"
+        },
+        {
+            "instructions": "then sprinkle your cheese as much as you desire .",
+            "input": "(cheese; baked pizza crust brushed with melted butter with crumbled fried bacon and sausage, chopped fried ham and egg)",
+            "action": "sprinkle",
+            "output": "baked pizza crust brushed with melted butter with crumbled fried bacon and sausage, chopped fried ham, egg and cheese"
+        },
+        {
+            "instructions": "bake at 350 degrees for 20 25 min .",
+            "input": "uncooked breakfast pizza",
+            "action": "bake",
+            "output": "baked breakfast pizza"
+        }
+    ],
+    "ingredients": [
+        {
+            "text": "2 Packages Martha White pizza crust mix"
+        },
+        {
+            "text": "1/2 pound bacon"
+        },
+        {
+            "text": "1 pound sausage"
+        },
+        {
+            "text": "1 pkg. Canadian ham"
+        },
+        {
+            "text": "6 Large eggs"
+        },
+        {
+            "text": "1 pkg. Cheddar cheese"
+        },
+        {
+            "text": "2 sticks butter"
+        },
+        {
+            "text": "Green peppers (optional)"
+        },
+        {
+            "text": "Onions (optional)"
+        },
+        {
+            "text": "Tomatoes (optional)"
+        }
+    ],
+    "recipe": [
+        {
+            "text": "Mix pizza crust mix, bake in oven till golden brown."
+        },
+        {
+            "text": "Take melted butter and brush over crust thoroughly."
+        },
+        {
+            "text": "Fry bacon, sausage, and ham."
+        },
+        {
+            "text": "Crumble bacon and sausage."
+        },
+        {
+            "text": "Chop your ham, place over crust."
+        },
+        {
+            "text": "Sprinkle all Large eggs in a bowl, then pour over the mix."
+        },
+        {
+            "text": "Then sprinkle your cheese as much as you desire."
+        },
+        {
+            "text": "Bake at 350 degrees for 20-25 min."
+        }
+    ]
+}

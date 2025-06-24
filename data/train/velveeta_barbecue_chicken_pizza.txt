@@ -1,0 +1,88 @@
+{
+    "title": "velveeta_barbecue_chicken_pizza",
+    "id": "afb7a24502",
+    "table": [
+        {
+            "instructions": "spray large skillet with cooking_spray .",
+            "input": "NA",
+            "action": "spray",
+            "output": "NA"
+        },
+        {
+            "instructions": "add chicken , green_pepper and onion ;",
+            "input": "(chicken; green_pepper; onion)",
+            "action": "add",
+            "output": "chicken and pepper mixture"
+        },
+        {
+            "instructions": "cook on medium high heat 4 to 5 minutes or until chicken is cooked through .",
+            "input": "chicken and pepper mixture",
+            "action": "cook",
+            "output": "cooked chicken and pepper mixture"
+        },
+        {
+            "instructions": "place crust on cookie sheet .",
+            "input": "crust",
+            "action": "place",
+            "output": "crust"
+        },
+        {
+            "instructions": "spread with barbecue_sauce .",
+            "input": "crust; barbecue sauce",
+            "action": "spread",
+            "output": "crust with barbecue sauce"
+        },
+        {
+            "instructions": "top with chicken mixture",
+            "input": "crust with barbecue sauce; cooked chicken and pepper mixture",
+            "action": "top",
+            "output": "crust with barbecue sauce and cooked chicken and pepper mixture"
+        },
+        {
+            "instructions": "bake at 375f for 12 to 15 minutes until process , cheese food is melted and crust is golden brown .",
+            "input": "uncooked barbecue_chicken_pizza",
+            "action": "bake",
+            "output": "baked barbecue_chicken_pizza"
+        }
+    ],
+    "ingredients": [
+        {
+            "text": "2 boneless skinless chicken breast halves (about 3/4 lb.), cut into thin strips"
+        },
+        {
+            "text": "1 green pepper, cut into strips"
+        },
+        {
+            "text": "1/4 cup thinly sliced red onion (optional)"
+        },
+        {
+            "text": "1 prepared pizza crust (12 inch)"
+        },
+        {
+            "text": "1/3 cup BULL'S-EYE Original Barbecue Sauce"
+        },
+        {
+            "text": "1 pkg. (8 oz.) VELVEETA Mild Cheddar Flavor Shredded Pasteurized Process Cheddar Cheese Food"
+        }
+    ],
+    "recipe": [
+        {
+            "text": "Spray large skillet with cooking spray."
+        },
+        {
+            "text": "Add chicken, green pepper and onion; cook on medium-high heat 4 to 5 minutes or until chicken is cooked through."
+        },
+        {
+            "text": "Place crust on cookie sheet."
+        },
+        {
+            "text": "Spread with barbecue sauce."
+        },
+        {
+            "text": "Top with chicken mixture and process cheese food."
+        },
+        {
+            "text": "Bake at 375F for 12 to 15 minutes until process cheese food is melted and crust is golden brown."
+        }
+    ]
+}

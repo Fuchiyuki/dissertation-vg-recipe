@@ -1,0 +1,133 @@
+{
+    "title": "tombstone_brownie_pizza_for_halloween",
+    "id": "1016b6e2a4",
+    "table": [
+        {
+            "instructions": "heat oven to 350 degrees .",
+            "input": "NA",
+            "actions": "heat",
+            "output": "NA"
+        },
+        {
+            "instructions": "grease a 12 inch pizza\u2012pan with cooking_spray .",
+            "input": "NA",
+            "actions": "grease",
+            "output": "NA"
+        },
+        {
+            "instructions": "press cookie dough evenly into the pizza\u2012pan .",
+            "input": "cookie dough",
+            "actions": "press",
+            "output": "uncooked brownie"
+        },
+        {
+            "instructions": "bake for 14 minutes or until brownie is set and a pick inserted in center comes out slightly moist .",
+            "input": "uncooked brownie",
+            "actions": "bake",
+            "output": "cooked brownie"
+        },
+        {
+            "instructions": "cool in a pan on a wire rack .",
+            "input": "cooked brownie",
+            "actions": "cool",
+            "output": "cooled cooked brownie"
+        },
+        {
+            "instructions": "decorate .",
+            "input": "cooled cooked brownie",
+            "actions": "decorate",
+            "output": "decorated brownie"
+        },
+        {
+            "instructions": "spread the frosting within 1 inch of the edge of the brownie .",
+            "input": "frosting brownie",
+            "actions": "spread",
+            "output": "frosting_spread_on_brownie"
+        },
+        {
+            "instructions": "pipe the white_frosting onto the chocolate covered cookies to resemble tobmstones",
+            "input": "(white frosting; chocolate covered cookies)",
+            "actions": "pipe",
+            "output": "tombstone cookies with white_frosting"
+        },
+        {
+            "instructions": "stand upright in frosting .",
+            "input": "tombstone cookies",
+            "actions": "stand",
+            "output": "tombstone cookies standing in frosting"
+        },
+        {
+            "instructions": "dust the frosting in front of the tombstone with the edible glitter .",
+            "input": "(tombstone cookies; edible glitter)",
+            "actions": "dust",
+            "output": "tombstone cookies dusted with edible glitter"
+        },
+        {
+            "instructions": "decorate the graveyard with the candy of your choice .",
+            "input": "(glitter dusted tombstone cookies; candy)",
+            "actions": "decorate",
+            "output": "cookie graveyard decorated with candy"
+        }
+    ],
+    "ingredients": [
+        {
+            "text": "18 ounces refrigerated brownie bar dough"
+        },
+        {
+            "text": "0.5 (1 lb) container chocolate frosting"
+        },
+        {
+            "text": "white decorating icing"
+        },
+        {
+            "text": "chocolate-coated biscuits or chocolate-covered graham cracker cookies"
+        },
+        {
+            "text": "black edible glitter"
+        },
+        {
+            "text": "gummy worms"
+        },
+        {
+            "text": "candy corn"
+        },
+        {
+            "text": "cream pumpkin"
+        }
+    ],
+    "recipe": [
+        {
+            "text": "Pizza:."
+        },
+        {
+            "text": "Heat oven to 350 degrees."
+        },
+        {
+            "text": "Grease a 12 inch pizza pan with cooking spray."
+        },
+        {
+            "text": "Unwrap the brownie dough and press evenly into the pizza pan."
+        },
+        {
+            "text": "Bake for 14 minutes or until brownie is set and a pick inserted in center comes out slightly moist."
+        },
+        {
+            "text": "Cool in a pan on a wire rack."
+        },
+        {
+            "text": "Decorate:."
+        },
+        {
+            "text": "Spread the frosting within 1 inch of the edge of the brownie."
+        },
+        {
+            "text": "Pipe the white frosting onto the chocolate covered cookies to resemble tobmstones and stand upright in frosting."
+        },
+        {
+            "text": "Dust the frosting in front of the tombstone with the edible glitter."
+        },
+        {
+            "text": "Decorate the graveyard with the candy of your choice."
+        }
+    ]
+}

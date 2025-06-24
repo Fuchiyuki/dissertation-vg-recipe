@@ -1,0 +1,163 @@
+{
+    "title": "pesto_pinwheel_pizza_bread",
+    "id": "a20dffbb0d",
+    "table": [
+        {
+            "instructions": "preheat oven to 450 degrees f .",
+            "input": "NA",
+            "action": "preheat",
+            "output": "NA"
+        },
+        {
+            "instructions": "place a piece of parchment paper on the bottom surface .",
+            "input": "NA",
+            "action": "place",
+            "output": "NA"
+        },
+        {
+            "instructions": "sprinkle the parchment lightly with cornmeal .",
+            "input": "NA",
+            "action": "sprinkle",
+            "output": "NA"
+        },
+        {
+            "instructions": "on a floured surface , roll out dough until it is about 14 thick in roughly the shape of a rectangle .",
+            "input": "dough",
+            "action": "roll",
+            "output": "dough"
+        },
+        {
+            "instructions": "spread pesto evenly over the surface , leaving a 12 border at the edges of the dough .",
+            "input": "(dough; pesto)",
+            "action": "spread",
+            "output": "pesto over dough"
+        },
+        {
+            "instructions": "sprinkle cheeses over the pesto .",
+            "input": "(pesto over dough; cheeses)",
+            "action": "sprinkle",
+            "output": "pesto over dough topped with cheeses"
+        },
+        {
+            "instructions": "starting on one of the long edges of your dough , gently roll the dough up into a loaf .",
+            "input": "pesto over dough topped with cheeses",
+            "action": "roll",
+            "output": "rolled pesto over dough topped with cheeses"
+        },
+        {
+            "instructions": "tuck the edges in at the ends of the loaf when you are done ,",
+            "input": "rolled pesto over dough topped with cheeses",
+            "action": "tuck",
+            "output": "uncooked pesto and cheese pinwheel pizza"
+        },
+        {
+            "instructions": "carefully transfer the loaf to the upside down cookie sheet with the seam of the bread facing down .",
+            "input": "uncooked pesto and cheese pinwheel pizza",
+            "action": "transfer",
+            "output": "uncooked pesto and cheese pinwheel pizza"
+        },
+        {
+            "instructions": "bake for 20 22 minutes or until top of dough is golden brown .",
+            "input": "uncooked pesto rolls",
+            "action": "bake",
+            "output": "cooked pesto rolls"
+        },
+        {
+            "instructions": "remove from oven",
+            "input": "cooked pesto rolls",
+            "action": "remove",
+            "output": "cooked pesto rolls"
+        },
+        {
+            "instructions": "brush the crust with melted_butter .",
+            "input": "(cooked pesto rolls; melted butter)",
+            "action": "brush",
+            "output": "buttered pesto rolls"
+        },
+        {
+            "instructions": "sprinkle lightly with garlic_powder and black_pepper to taste",
+            "input": "(buttered pesto rolls; garlic powder; black pepper)",
+            "action": "sprinkle",
+            "output": "pesto rolls seasoned with garlic powder and black pepper"
+        },
+        {
+            "instructions": "slice",
+            "input": "pesto rolls seasoned with garlic powder and black pepper",
+            "action": "slice",
+            "output": "sliced pesto rolls seasoned with garlic powder and black pepper"
+        },
+        {
+            "instructions": "serve warm with red pasta_sauce for dipping .",
+            "input": "(baked pesto rolls; red pasta sauce)",
+            "action": "serve",
+            "output": "pesto rolls dipped in red pasta sauce"
+        }
+    ],
+    "ingredients": [
+        {
+            "text": "1 whole Batch Of Pizza Dough, Enough For One 12\" Pizza (use Your Favorite Recipe!)"
+        },
+        {
+            "text": "1/2 cups Pesto"
+        },
+        {
+            "text": "1/2 cups Parmesan Cheese, Grated"
+        },
+        {
+            "text": "1/2 cups Asiago Cheese, Grated"
+        },
+        {
+            "text": "1 Tablespoon Butter, Melted"
+        },
+        {
+            "text": "1 teaspoon Garlic Powder"
+        },
+        {
+            "text": "1 teaspoon Black Pepper"
+        },
+        {
+            "text": "Marinara Sauce, For Dipping"
+        },
+        {
+            "text": "Cornmeal, For Sprinkling On Your Pizza Pan"
+        },
+        {
+            "text": "Flour, For Sprinkling On Your Work Surface"
+        }
+    ],
+    "recipe": [
+        {
+            "text": "Preheat oven to 450 degrees F. Flip over a cookie sheet and place a piece of parchment paper on the bottom surface."
+        },
+        {
+            "text": "Sprinkle the parchment lightly with cornmeal."
+        },
+        {
+            "text": "On a floured surface, roll out dough until it is about 1/4 thick in roughly the shape of a rectangle."
+        },
+        {
+            "text": "Spread pesto evenly over the surface, leaving a 1/2 border at the edges of the dough."
+        },
+        {
+            "text": "Sprinkle cheeses over the pesto."
+        },
+        {
+            "text": "Starting on one of the long edges of your dough, gently roll the dough up into a loaf."
+        },
+        {
+            "text": "Tuck the edges in at the ends of the loaf when you are done, and carefully transfer the loaf to the upside-down cookie sheet with the seam of the bread facing down."
+        },
+        {
+            "text": "Bake for 20-22 minutes or until top of dough is golden brown."
+        },
+        {
+            "text": "Remove from oven and brush the crust with melted butter."
+        },
+        {
+            "text": "Sprinkle lightly with garlic powder and black pepper to taste and allow to cool for ten minutes."
+        },
+        {
+            "text": "Slice and serve warm with red pasta sauce for dipping."
+        }
+    ]
+}

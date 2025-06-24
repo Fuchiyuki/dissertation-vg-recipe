@@ -1,0 +1,181 @@
+{
+    "title": "delicious_ground_beef_pizza_casserole",
+    "id": "6017a09841",
+    "table": [
+        {
+            "instructions": "grease a 13x9 inch baking dish .",
+            "input": "NA",
+            "action": "grease",
+            "output": "NA"
+        },
+        {
+            "instructions": "cook the ground beef in a medium skillet with the onions , green_pepper , garlic, salt and pepper until meat is browned",
+            "input": "(ground beef; onions; green pepper; garlic; salt; pepper)",
+            "action": "cook",
+            "output": "cooked ground beef and vegetables"
+        },
+        {
+            "instructions": "drain fat ,",
+            "input": "cooked ground beef and vegetables with excess fat",
+            "action": "drain",
+            "output": "drained cooked ground beef and vegetables"
+        },
+        {
+            "instructions": "mix in the parmesan_cheese .",
+            "input": "(drained cooked ground beef and vegetables; parmesan cheese)",
+            "action": "mix",
+            "output": "cheesy_cooked_ground beef mixture"
+        },
+        {
+            "instructions": "stir in the 12 pound pepperoni chop this pepperoni to add to the mixture",
+            "input": "(cheesy_cooked_ground beef mixture; chopped pepperoni)",
+            "action": "stir",
+            "output": "chopped pepperoni_and ground beef_mixture"
+        },
+        {
+            "instructions": "leave the remaining half pound pepperoni sliced; mushroom , pasta_sauce",
+            "input": "(chopped pepperoni_and ground beef_mixture; mushrooms; pasta sauce)",
+            "action": "leave",
+            "output": "chopped pepperoni_and ground beef_mixture with mushrooms and pasta sauce"
+        },
+        {
+            "instructions": "stir well until combined ;",
+            "input": "chopped pepperoni_and ground beef_mixture with mushrooms and pasta sauce",
+            "action": "stir",
+            "output": "stirred_meat_and vegetables mixture"
+        },
+        {
+            "instructions": "simmer for 20 25 minutes on top of stove .",
+            "input": "stirred_meat_and vegetables mixture",
+            "action": "simmer",
+            "output": "simmering_ground_beef pasta_sauce mixture"
+        },
+        {
+            "instructions": "set oven to 350 degrees .",
+            "input": "NA",
+            "action": "set",
+            "output": "NA"
+        },
+        {
+            "instructions": "place the cooked_rigatoni pasta on the bottom of the greased baking dish .",
+            "input": "cooked_rigatoni",
+            "action": "place",
+            "output": "cooked_rigatoni"
+        },
+        {
+            "instructions": "sprinkle with 2 cups mozzarella_cheese over the pasta .",
+            "input": "(cooked_rigatoni; mozzarella cheese)",
+            "action": "sprinkle",
+            "output": "mozzarella cheese sprinkled on cooked rigatoni"
+        },
+        {
+            "instructions": "top with the ground_beef pasta_sauce mixture .",
+            "input": "cooked_rigatoni with mozzarella cheese, ground_beef pasta_sauce mixture",
+            "action": "top",
+            "output": "cooked_rigatoni with mozzarella cheese topped with ground_beef pasta_sauce mixture"
+        },
+        {
+            "instructions": "bake uncovered for 30 minutes .",
+            "input": "uncooked_ground_beef_pizza_casserole",
+            "action": "bake",
+            "output": "baked_ground_beef_pizza_casserole"
+        },
+        {
+            "instructions": "remove from oven",
+            "input": "baked_ground_beef_pizza_casserole",
+            "action": "remove",
+            "output": "baked_ground_beef_pizza_casserole"
+        },
+        {
+            "instructions": "sprinkle with the remaining 2 cups , mozzarella_cheese .",
+            "input": "(baked_ground_beef_pizza_casserole; mozzarella cheese)",
+            "action": "sprinkle",
+            "output": "remaining mozzarella cheese sprinkled on baked_ground_beef_pizza_casserole"
+        },
+        {
+            "instructions": "return to oven",
+            "input": "baked_ground_beef_pizza_casserole",
+            "action": "return",
+            "output": "baked_ground_beef_pizza_casserole"
+        },
+        {
+            "instructions": "bake for 10 minutes longer , or until bubbly .",
+            "input": "baked_ground_beef_pizza_casserole",
+            "action": "bake",
+            "output": "doubly baked ground_beef_pizza_casserole"
+        }
+    ],
+    "ingredients": [
+        {
+            "text": "1 lb lean ground beef"
+        },
+        {
+            "text": "1 large onion, chopped"
+        },
+        {
+            "text": "1 medium green pepper, chopped"
+        },
+        {
+            "text": "1 tablespoon fresh minced garlic"
+        },
+        {
+            "text": "salt or seasoning salt and pepper"
+        },
+        {
+            "text": "3 -4 tablespoons grated parmesan cheese"
+        },
+        {
+            "text": "1 lb pepperoni, divided"
+        },
+        {
+            "text": "1 (4 ounce) can sliced mushrooms, drained"
+        },
+        {
+            "text": "4 cups pasta sauce"
+        },
+        {
+            "text": "3 -4 cups rigatoni pasta (cooked to firm-tender and drained, do not overcook the pasta)"
+        },
+        {
+            "text": "4 cups mozzarella cheese, divided"
+        }
+    ],
+    "recipe": [
+        {
+            "text": "Grease a 13x9-inch baking dish."
+        },
+        {
+            "text": "Cook the gound beef in a medium skillet with the onions, green peppers, garlic, salt pepper until meat is browned and veggies are tender; drain fat, and mix in the Parmesan cheese."
+        },
+        {
+            "text": "Stir in the 1/2-pound pepperoni (chop this pepperoni to add to the mixture, leave the remaining half pound pepperoni sliced), mushrooms, pasta sauce; stir well until combined; simmer for 20-25 minutes on top of stove."
+        },
+        {
+            "text": "Set oven to 350 degrees."
+        },
+        {
+            "text": "Place the cooked rigatoni pasta on the bottom of the greased baking dish."
+        },
+        {
+            "text": "Sprinkle with 2 cups mozzarella cheese over the pasta."
+        },
+        {
+            "text": "Layer with pepperoni slices evenly over the cheese."
+        },
+        {
+            "text": "Top with the ground beef/pasta sauce mixture."
+        },
+        {
+            "text": "Bake uncovered for 30 minutes."
+        },
+        {
+            "text": "Remove from oven, sprinkle with the remaining 2 cups mozzarella cheese."
+        },
+        {
+            "text": "Return to oven and bake for 10 minutes longer, or until bubbly."
+        },
+        {
+            "text": "Let stand for 10-15 minutes before serving."
+        }
+    ]
+}

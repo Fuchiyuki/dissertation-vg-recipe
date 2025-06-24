@@ -1,0 +1,160 @@
+{
+    "title": "pizza_salad",
+    "id": "78ffd334fd",
+    "table": [
+        {
+            "instructions": "heat oven to 45",
+            "input": "NA",
+            "action": "heat",
+            "output": "NA"
+        },
+        {
+            "instructions": "for the dressing mix tomato , oil , and garlic in a small skillet or saucepan .",
+            "input": "(tomato; oil; garlic)",
+            "action": "mix",
+            "output": "tomato sauce"
+        },
+        {
+            "instructions": "cook over medium high heat for 5 minutes , breaking apart the tomatoes with a spoon .",
+            "input": "tomato sauce",
+            "action": "cook",
+            "output": "cooked omato sauce"
+        },
+        {
+            "instructions": "transfer to a blender",
+            "input": "cooked tomato mixture",
+            "action": "transfer",
+            "output": "cooked tomato mixture in blender"
+        },
+        {
+            "instructions": "add vinegar , salt , pepper , sugar , and basil .",
+            "input": "cooked tomato mixture in blender; vinegar; salt; pepper; sugar; basil",
+            "action": "add",
+            "output": "dressing mixture"
+        },
+        {
+            "instructions": "set dressing aside .",
+            "input": "dressing mixture",
+            "action": "set",
+            "output": "set dressing aside"
+        },
+        {
+            "instructions": "place prepared pizza_shell on rack in 450 degree oven .",
+            "input": "prepared pizza_shell",
+            "action": "place",
+            "output": "prepared pizza_shell"
+        },
+        {
+            "instructions": "bake for 6 to 8 minutes or until shell is crisp",
+            "input": "raw pizza_shell",
+            "action": "bake",
+            "output": "baked pizza_shell"
+        },
+        {
+            "instructions": "for the salad , combine the tomatoes , mozzarella , basil , lettuce , and pepperoni in a large bowl .",
+            "input": "tomatoes, mozzarella , basil , lettuce; pepperoni",
+            "action": "combine",
+            "output": "tomato and mozzarella salad"
+        },
+        {
+            "instructions": "remove pizza_shell from the oven",
+            "input": "baked pizza_shell",
+            "action": "remove",
+            "output": "baked pizza_shell"
+        },
+        {
+            "instructions": "slice into bite sized pieces .",
+            "input": "baked pizza_shell",
+            "action": "slice",
+            "output": "sliced pizza_shell"
+        },
+        {
+            "instructions": "add pizza pieces to the bowl",
+            "input": "sliced pizza_shell, tomato and mozzarella salad",
+            "action": "add",
+            "output": "tomato and mozzarella salad with pizza pieces"
+        },
+        {
+            "instructions": "toss with dressing .",
+            "input": "salad with pizza pieces; dressing",
+            "action": "toss",
+            "output": "tossed salad with pizza pieces"
+        }
+    ],
+    "ingredients": [
+        {
+            "text": "2 plum tomatoes, seeded and coarsely chopped"
+        },
+        {
+            "text": "12 cup olive oil"
+        },
+        {
+            "text": "2 garlic cloves, sliced"
+        },
+        {
+            "text": "3 tablespoons balsamic vinegar"
+        },
+        {
+            "text": "12 teaspoon salt"
+        },
+        {
+            "text": "14 teaspoon black pepper"
+        },
+        {
+            "text": "1 teaspoon sugar"
+        },
+        {
+            "text": "14 cup fresh basil leaf, loosely packed"
+        },
+        {
+            "text": "3 medium tomatoes, cored and coarsely chopped"
+        },
+        {
+            "text": "12 lb fresh mozzarella cheese, diced"
+        },
+        {
+            "text": "12 cup fresh basil leaf, loosely packed"
+        },
+        {
+            "text": "6 cups green leaf lettuce, pieces"
+        },
+        {
+            "text": "2 ounces sliced pepperoni"
+        },
+        {
+            "text": "1 italian pizza bread pizza crust (I like a loaf of foccacia with sun dried tomato)"
+        }
+    ],
+    "recipe": [
+        {
+            "text": "Heat oven to 450."
+        },
+        {
+            "text": "For the dressing: Mix tomato, oil, and garlic in a small skillet or saucepan."
+        },
+        {
+            "text": "Cook over medium-high heat for 5 minutes, breaking apart the tomatoes with a spoon."
+        },
+        {
+            "text": "Transfer to a blender and add vinegar, salt, pepper, sugar, and basil."
+        },
+        {
+            "text": "Pulse to blend and set dressing aside."
+        },
+        {
+            "text": "Place prepared pizza shell on rack in 450 degree oven."
+        },
+        {
+            "text": "Bake for 6 to 8 minutes or until shell is crisp and lightly browned."
+        },
+        {
+            "text": "For the salad, combine the tomatoes, mozzarella, basil, lettuce, and pepperoni in a large bowl."
+        },
+        {
+            "text": "Remove pizza shell from the oven and slice into bite-sized pieces."
+        },
+        {
+            "text": "Add pizza pieces to the bowl and toss with dressing."
+        }
+    ]
+}

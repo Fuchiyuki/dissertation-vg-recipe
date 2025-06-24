@@ -1,0 +1,136 @@
+{
+    "title": "vegetarian_chicken_pizza",
+    "id": "037e9f028d",
+    "table": [
+        {
+            "instructions": "preheat oven to 37",
+            "input": "NA",
+            "action": "preheat",
+            "output": "NA"
+        },
+        {
+            "instructions": "remove pizza_crust from package",
+            "input": "packaged pizza_crust",
+            "action": "remove",
+            "output": "pizza_crust removed from package"
+        },
+        {
+            "instructions": "place on a pan or baking stone .",
+            "input": "pizza crust",
+            "action": "place",
+            "output": "pizza crust on pan or baking stone"
+        },
+        {
+            "instructions": "spoon on pizza_sauce .",
+            "input": "(pizza crust; pizza sauce)",
+            "action": "spoon",
+            "output": "pizza_sauce_spread_on_pizza_crust"
+        },
+        {
+            "instructions": "next add fat free cheese .",
+            "input": "(pizza_sauce_spread_on_pizza_crust; fat free cheese)",
+            "action": "add",
+            "output": "pizza_sauce_and_fat free cheese_spread_on_pizza_crust"
+        },
+        {
+            "instructions": "empty the chicken_strip onto a cutting board",
+            "input": "packaged chicken strips",
+            "action": "empty",
+            "output": "chicken strips"
+        },
+        {
+            "instructions": "cut into bite size pieces ,",
+            "input": "chicken strips",
+            "action": "cut",
+            "output": "bite_sized_chicken_pieces"
+        },
+        {
+            "instructions": "add to pizza .",
+            "input": "(pizza_sauce_and_cheese_spread_on_pizza_crust; bite_sized_chicken_pieces)",
+            "action": "add",
+            "output": "raw pizza_topped_with_sauce_cheese_and_chicken"
+        },
+        {
+            "instructions": "cut the tomato into uniform slices",
+            "input": "tomato",
+            "action": "cut",
+            "output": "tomato_slices"
+        },
+        {
+            "instructions": "arrange on top of the pizza .",
+            "input": "(raw pizza_topped_with_sauce_cheese_and_chicken; tomato_slices)",
+            "action": "arrange",
+            "output": "raw pizza_topped_with_sauce_cheese_chicken_and_tomato"
+        },
+        {
+            "instructions": "sprinkle over basil and oregano ,",
+            "input": "(raw pizza_topped_with_sauce_cheese_chicken_and_tomato; basil; oregano)",
+            "action": "sprinkle",
+            "output": "raw pizza_topped_with_sauce_cheese_chicken_tomato_basil_and_oregano"
+        },
+        {
+            "instructions": "drizzle with the olive_oil .",
+            "input": "(raw pizza_topped_with_sauce_cheese_chicken_tomato_basil_and_oregano; olive oil)",
+            "action": "drizzle",
+            "output": "raw pizza_topped_with_sauce_cheese_chicken_tomato_basil_oregano_and_olive_oil"
+        },
+        {
+            "instructions": "bake for 20 30 minutes or until cheese is golden brown .",
+            "input": "raw pizza_topped_with_sauce_cheese_chicken_tomato_basil_oregano_and_olive_oil",
+            "action": "bake",
+            "output": "baked_chicken pizza"
+        }
+    ],
+    "ingredients": [
+        {
+            "text": "1 prepared pizza crust"
+        },
+        {
+            "text": "12 cup canned pizza sauce"
+        },
+        {
+            "text": "12 cup shredded fat-free cheddar cheese"
+        },
+        {
+            "text": "12 ounces vegetarian chicken pieces"
+        },
+        {
+            "text": "1 medium roma tomato"
+        },
+        {
+            "text": "1 teaspoon dried basil"
+        },
+        {
+            "text": "1 teaspoon dried oregano"
+        },
+        {
+            "text": "1 tablespoon olive oil"
+        }
+    ],
+    "recipe": [
+        {
+            "text": "Preheat oven to 375F"
+        },
+        {
+            "text": "Remove pizza crust from package and place on a pan or baking stone."
+        },
+        {
+            "text": "Spoon on pizza sauce."
+        },
+        {
+            "text": "Next add fat free cheese."
+        },
+        {
+            "text": "Empty the chicken strips onto a cutting board and cut into bite size pieces, then add to pizza."
+        },
+        {
+            "text": "Cut the tomato into uniform slices and arrange on top of the pizza."
+        },
+        {
+            "text": "Sprinkle over basil and oregano, then drizzle with the olive oil."
+        },
+        {
+            "text": "Bake for 20-30 minutes or until cheese is golden brown."
+        }
+    ]
+}

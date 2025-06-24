@@ -1,0 +1,226 @@
+{
+    "title": "macadamia_nut_pesto_pizza",
+    "id": "025eac2a88",
+    "table": [
+        {
+            "instructions": "prepare the pesto .",
+            "input": "pesto",
+            "actions": "prepare",
+            "output": "prepared_pesto"
+        },
+        {
+            "instructions": "add basil , cheese , lemon_juice , and salt and pepper .",
+            "input": "(basil; cheese; lemon_juce; salt; pepper)",
+            "actions": "add",
+            "output": "basil and cheese mixture"
+        },
+        {
+            "instructions": "blend until the pesto is fully incorporated .",
+            "input": "basil and cheese mixture",
+            "actions": "blend",
+            "output": "pesto"
+        },
+        {
+            "instructions": "refrigerate until ready to be used .",
+            "input": "pesto",
+            "actions": "refrigerate",
+            "output": "refrigerated pesto"
+        },
+        {
+            "instructions": "place a pizza stone or large baking sheet in the middle rack",
+            "input": "NA",
+            "actions": "place",
+            "output": "NA"
+        },
+        {
+            "instructions": "preheat oven to 400 degrees f .",
+            "input": "NA",
+            "actions": "preheat",
+            "output": "NA"
+        },
+        {
+            "instructions": "lightly dust your surface area with flour .",
+            "input": "flour",
+            "actions": "dust",
+            "output": "dusted flour"
+        },
+        {
+            "instructions": "take the dough",
+            "input": "dough",
+            "actions": "take",
+            "output": "dough"
+        },
+        {
+            "instructions": "stretch into your desired shape .",
+            "input": "dough",
+            "actions": "stretch",
+            "output": "stretched dough"
+        },
+        {
+            "instructions": "once the oven reaches its temperature , pull the baking stone baking sheet out of the oven",
+            "input": "NA",
+            "actions": "pull",
+            "output": "NA"
+        },
+        {
+            "instructions": "sprinkle cornmeal on the surface .",
+            "input": "cornmeal",
+            "actions": "sprinkle",
+            "output": "sprinkled cornmeal"
+        },
+        {
+            "instructions": "carefully slide the dough on top",
+            "input": "dough",
+            "actions": "slide",
+            "output": "uncooked pizza crust"
+        },
+        {
+            "instructions": "bake for 5 to 10 minutes until the dough is lightly golden .",
+            "input": "uncooked pizza crust",
+            "actions": "bake",
+            "output": "baked pizza crust"
+        },
+        {
+            "instructions": "remove the crust from the oven",
+            "input": "baked pizza crust",
+            "actions": "remove",
+            "output": "baked pizza crust"
+        },
+        {
+            "instructions": "brush with olive_oil over top .",
+            "input": "(baked pizza crust; olive_oil)",
+            "actions": "brush",
+            "output": "baked pizza crust brushed with olive oil"
+        },
+        {
+            "instructions": "spread an even layer of pesto over the crust .",
+            "input": "(oiled pizza crust; refrigerated pesto)",
+            "actions": "spread",
+            "output": "pesto spread on oiled pizza crust"
+        },
+        {
+            "instructions": "top with the chicken , mushrooms , and cheese .",
+            "input": "(pizza crust with pesto; chicken; mushrooms; cheese)",
+            "actions": "top",
+            "output": "pizza crust with pesto topped with chicken , mushrooms , and cheese"
+        },
+        {
+            "instructions": "return the pizza back to the oven",
+            "input": "pizza crust with pesto topped with chicken , mushrooms , and cheese",
+            "actions": "return",
+            "output": "pizza crust with pesto topped with chicken , mushrooms , and cheese"
+        },
+        {
+            "instructions": "bake for an additional 10 15 minutes until all the cheese has melted and pizza is golden brown .",
+            "input": "pizza crust with pesto topped with chicken , mushrooms , and cheese",
+            "actions": "bake",
+            "output": "baked chicken and pesto pizza"
+        },
+        {
+            "instructions": "serve with additional parmesan_cheese and red chili_flake .",
+            "input": "(baked chicken and pesto pizza; parmesan_cheese; red_chili_flake)",
+            "actions": "serve",
+            "output": "chicken and pesto pizza served with parmesan_cheese and red chili_flake"
+        }
+    ],
+    "ingredients": [
+        {
+            "text": "2 cloves Garlic, Finely Diced"
+        },
+        {
+            "text": "1/2 cups Roasted Macadamia Nuts, Unsalted"
+        },
+        {
+            "text": "2- 1/2 cups Sweet Basil"
+        },
+        {
+            "text": "1/2 cups Grated Parmesan Cheese"
+        },
+        {
+            "text": "1/2 whole Lemon, Juiced"
+        },
+        {
+            "text": "Kosher Salt And Pepper To Taste"
+        },
+        {
+            "text": "1/2 cups Extra Virgin Olive Oil, Or More As Needed"
+        },
+        {
+            "text": "16 ounces, weight Fresh Pizza Dough"
+        },
+        {
+            "text": "2 Tablespoons Yellow Cornmeal"
+        },
+        {
+            "text": "2 Tablespoons Olive Oil"
+        },
+        {
+            "text": "1- 1/2 cup Macadamia Nut Pesto (Recipe Included)"
+        },
+        {
+            "text": "8 ounces, weight Grilled Chicken Breast, Sliced"
+        },
+        {
+            "text": "1 cup Crimini Mushrooms, Sliced"
+        },
+        {
+            "text": "8 ounces, weight Fresh Mozzarella Cheese, Sliced"
+        },
+        {
+            "text": "Parmesan Cheese And Red Chili Flakes, To Serve"
+        }
+    ],
+    "recipe": [
+        {
+            "text": "Prepare the pesto."
+        },
+        {
+            "text": "In a food processor, pulse garlic and nuts."
+        },
+        {
+            "text": "Add basil, cheese, lemon juice, and salt and pepper."
+        },
+        {
+            "text": "With the food processor on, stream in olive oil and blend until the pesto is fully incorporated."
+        },
+        {
+            "text": "Be sure to scrape down the sides in between steps."
+        },
+        {
+            "text": "More olive oil can be added if a smoother, loose texture is desired."
+        },
+        {
+            "text": "Refrigerate until ready to be used."
+        },
+        {
+            "text": "Place a pizza stone or large baking sheet in the middle rack and preheat oven to 400 degrees F."
+        },
+        {
+            "text": "Lightly dust your surface area with flour."
+        },
+        {
+            "text": "Take the dough and stretch into your desired shape."
+        },
+        {
+            "text": "Once the oven reaches its temperature, pull the baking stone/baking sheet out of the oven and sprinkle cornmeal on the surface."
+        },
+        {
+            "text": "Carefully slide the dough on top and bake for 5 to 10 minutes until the dough is lightly golden."
+        },
+        {
+            "text": "Remove the crust from the oven and brush with olive oil over top."
+        },
+        {
+            "text": "Spread an even layer of pesto over the crust."
+        },
+        {
+            "text": "Top with the chicken, mushrooms, and cheese."
+        },
+        {
+            "text": "Return the pizza back to the oven and bake for an additional 10-15 minutes until all the cheese has melted and pizza is golden brown."
+        },
+        {
+            "text": "Serve with additional parmesan cheese and red chili flakes."
+        }
+    ]
+}

@@ -1,0 +1,184 @@
+{
+    "title": "deep_dish_breakfast_pizza",
+    "id": "d2516c85cf",
+    "table": [
+        {
+            "instructions": "heat oven to 350f .",
+            "input": "NA",
+            "action": "heat",
+            "output": "NA"
+        },
+        {
+            "instructions": "spray 9 inch pie pan with no stick , cooking_spray ;",
+            "input": "NA",
+            "action": "spray",
+            "output": "NA"
+        },
+        {
+            "instructions": "set aside .",
+            "input": "NA",
+            "action": "set",
+            "output": "NA"
+        },
+        {
+            "instructions": "melt butter in 12 inch nonstick skillet until sizzling ;",
+            "input": "butter",
+            "action": "melt",
+            "output": "melted butter"
+        },
+        {
+            "instructions": "add onions .",
+            "input": "(onions; melted butter)",
+            "action": "add",
+            "output": "onions in melted butter"
+        },
+        {
+            "instructions": "cook over medium heat , stirring occasionally , 15 20 minutes or until onions are deep golden brown .",
+            "input": "onions in melted butter",
+            "action": "cook",
+            "output": "cooked onions"
+        },
+        {
+            "instructions": "pat or roll pizza_crust into 11 inch circle on lightly floured surface .",
+            "input": "pizza dough",
+            "action": "pat",
+            "output": "rolled pizza crust"
+        },
+        {
+            "instructions": "place into prepared pie pan .",
+            "input": "rolled pizza crust",
+            "action": "place",
+            "output": "rolled pizza crust"
+        },
+        {
+            "instructions": "fold under excess dough ;",
+            "input": "rolled pizza crust",
+            "action": "fold",
+            "output": "rolled pizza crust with folded extra dough"
+        },
+        {
+            "instructions": "pinch edges .",
+            "input": "rolled pizza crust with folded extra dough",
+            "action": "pinch",
+            "output": "rolled pizza crust with folded extra dough and pinched edges"
+        },
+        {
+            "instructions": "place half of cheese along bottom of crust .",
+            "input": "(rolled pizza crust with folded extra dough and pinched edges; half of cheese)",
+            "action": "place",
+            "output": "rolled pizza crust with cheese"
+        },
+        {
+            "instructions": "Layer cooked onions, spinach, bacon and red pepper over bottom of crust.",
+            "input": "(rolled pizza crust with cheese; cooked onions; spinach; bacon; red pepper)",
+            "action": "layers",
+            "output": "rolled pizza crust with cheese, cooked onions, spinach, bacon and red pepper"
+        },
+        {
+            "instructions": "combine eggs , half and half and pepper in small bowl ;",
+            "input": "(eggs; pepper; half and half )",
+            "action": "combine",
+            "output": "egg mixture"
+        },
+        {
+            "instructions": "mix well .",
+            "input": "egg mixture",
+            "action": "mix",
+            "output": "well mixed egg mixture"
+        },
+        {
+            "instructions": "pour egg mixture over spinach .",
+            "input": "(egg mixture; rolled pizza crust with cheese, cooked onions, spinach, bacon and red pepper)",
+            "action": "pour",
+            "output": "rolled pizza crust with cheese, cooked onions, spinach, bacon, red pepper and egg mixture"
+        },
+        {
+            "instructions": "top with remaining cheese pieces .",
+            "input": "(remaining cheese pieces; rolled pizza crust with cheese, cooked onions, spinach, bacon, red pepper and egg mixture)",
+            "action": "top",
+            "output": "rolled pizza crust with cheese, cooked onions, spinach, bacon, red pepper, egg mixture and remaining cheese pieces"
+        },
+        {
+            "instructions": "bake 35 45 minutes or until eggs are set 2 inches from edges .",
+            "input": "uncooked deep dish breakfast pizza",
+            "action": "bake",
+            "output": "baked deep dish breakfast pizza"
+        }
+    ],
+    "ingredients": [
+        {
+            "text": "3 tablespoons Land O Lakes Butter"
+        },
+        {
+            "text": "2 cups sliced onions"
+        },
+        {
+            "text": "1 (10-ounce) can refrigerated pizza crust"
+        },
+        {
+            "text": "6 (3/4-ounce) slices Land O Lakes Deli Swiss Cheese, quartered"
+        },
+        {
+            "text": "1 (10-ounce) package frozen chopped spinach, thawed, squeezed dry"
+        },
+        {
+            "text": "4 slices crisply cooked bacon, crumbled"
+        },
+        {
+            "text": "2 tablespoons chopped red bell pepper"
+        },
+        {
+            "text": "3 Land O Lakes Eggs, beaten"
+        },
+        {
+            "text": "3/4 cup Land O Lakes Half & Half"
+        },
+        {
+            "text": "1/4 teaspoon pepper"
+        }
+    ],
+    "recipe": [
+        {
+            "text": "Heat oven to 350F."
+        },
+        {
+            "text": "Spray 9-inch pie pan with no-stick cooking spray; set aside."
+        },
+        {
+            "text": "Melt butter in 12-inch nonstick skillet until sizzling; add onions."
+        },
+        {
+            "text": "Cook over medium heat, stirring occasionally, 15-20 minutes or until onions are deep golden brown."
+        },
+        {
+            "text": "Pat or roll pizza crust into 11-inch circle on lightly floured surface."
+        },
+        {
+            "text": "Place into prepared pie pan."
+        },
+        {
+            "text": "Fold under excess dough; pinch edges."
+        },
+        {
+            "text": "Place half of cheese along bottom of crust."
+        },
+        {
+            "text": "Layer cooked onions, spinach, bacon and red pepper over bottom of crust."
+        },
+        {
+            "text": "Combine eggs, half & half and pepper in small bowl; mix well."
+        },
+        {
+            "text": "Pour egg mixture over spinach."
+        },
+        {
+            "text": "Top with remaining cheese pieces."
+        },
+        {
+            "text": "Bake 35-45 minutes or until eggs are set 2 inches from edges."
+        },
+        {
+            "text": "Let stand 10 minutes before serving."
+        }
+    ]
+}

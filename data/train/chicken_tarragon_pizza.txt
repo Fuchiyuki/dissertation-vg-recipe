@@ -1,0 +1,142 @@
+{
+    "title": "chicken_tarragon_pizza",
+    "id": "a092d74928",
+    "table": [
+        {
+            "instructions": "preheat oven to 450f .",
+            "input": "NA",
+            "action": "preheat",
+            "output": "NA"
+        },
+        {
+            "instructions": "spray each pizza_shell with nonstick cooking_spray ,",
+            "input": "(pizza_shell; cooking spary)",
+            "action": "spray",
+            "output": "pizza_shell sprayed with cooking spray"
+        },
+        {
+            "instructions": "put on baking sheet .",
+            "input": "pizza_shell sprayed with cooking spray",
+            "action": "put",
+            "output": "pizza_shell sprayed with cooking spray"
+        },
+        {
+            "instructions": "heat oil in a large skillet over medium heat .",
+            "input": "oil",
+            "action": "heat",
+            "output": "heated oil"
+        },
+        {
+            "instructions": "saute chicken_strip for 2 minutes ,",
+            "input": "heated oil, chicken_strip",
+            "action": "saute",
+            "output": "sauteed chicken_strip"
+        },
+        {
+            "instructions": "season with garlic_powder .",
+            "input": "sauteed chicken_strip, garlic_powder",
+            "action": "season",
+            "output": "sauteed chicken_strip seasoned  with garlic_powder"
+        },
+        {
+            "instructions": "add red_pepper strips and artichoke_heart to skillet ,",
+            "input": "sauteed chicken_strip seasoned  with garlic_powder, red_pepper strips and artichoke_heart",
+            "action": "add",
+            "output": "sauteed chicken_strip seasoned  with garlic_powder, red_pepper strips and artichoke_heart"
+        },
+        {
+            "instructions": "saute for 2 minutes more .",
+            "input": "sauteed chicken_strip seasoned  with garlic_powder, red_pepper strips and artichoke_heart",
+            "action": "saute",
+            "output": "Sauteed chicken_strips with spices and vegetables"
+        },
+        {
+            "instructions": "divide sun_dried_tomato and chicken mixture evenly among pizza_shell ,",
+            "input": "(Sauteed chicken_strips with spices and vegetables, sun_dried_tomato; pizza_shells)",
+            "action": "divide",
+            "output": "Sauteed chicken_strips with spices and vegetables and sun dried tomato divide among pizza shells"
+        },
+        {
+            "instructions": "sprinkle with tarragon , mozzarella_cheese and parmesan_cheese .",
+            "input": "uncooked chicken pizza, tarragon , mozzarella_cheese and parmesan_cheese",
+            "action": "sprinkle",
+            "output": "tarragon , mozzarella_cheese and parmesan_cheese sprinkled on uncooked chicken pizza"
+        },
+        {
+            "instructions": "bake for 10 minutes , or until cheese melts .",
+            "input": "uncooked chicken_tarragon_pizza",
+            "action": "bake",
+            "output": "Baked chicken_tarragon_pizza"
+        },
+        {
+            "instructions": "remove from oven ,",
+            "input": "Baked chicken_tarragon_pizza",
+            "action": "remove",
+            "output": "Baked chicken_tarragon_pizza"
+        },
+        {
+            "instructions": "serve hot .",
+            "input": "Baked chicken_tarragon_pizza",
+            "action": "serve",
+            "output": "Baked chicken_tarragon_pizza"
+        }
+    ],
+    "ingredients": [
+        {
+            "text": "3 7-inch pizza shells"
+        },
+        {
+            "text": "1 Tbs. olive oil"
+        },
+        {
+            "text": "6 oz. pkg. soy chicken strips"
+        },
+        {
+            "text": "1 tsp. garlic powder"
+        },
+        {
+            "text": "1 roasted red pepper, cut into strips"
+        },
+        {
+            "text": "2 cups quartered artichoke hearts"
+        },
+        {
+            "text": "1/4 cup oil-packed, sun-dried tomatoes, well drained"
+        },
+        {
+            "text": "3 sprigs fresh tarragon, leaves removed"
+        },
+        {
+            "text": "2 cups grated low-fat mozzarella cheese"
+        },
+        {
+            "text": "1/4 cup grated Parmesan cheese"
+        }
+    ],
+    "recipe": [
+        {
+            "text": "Preheat oven to 450F."
+        },
+        {
+            "text": "Spray each pizza shell with nonstick cooking spray, and put on baking sheet."
+        },
+        {
+            "text": "Heat oil in a large skillet over medium heat."
+        },
+        {
+            "text": "Saute chicken strips for 2 minutes, and season with garlic powder."
+        },
+        {
+            "text": "Add red pepper strips and artichoke hearts to skillet, and saute for 2 minutes more."
+        },
+        {
+            "text": "Divide sun-dried tomatoes and chicken mixture evenly among pizza shells, and sprinkle with tarragon, mozzarella cheese and Parmesan cheese."
+        },
+        {
+            "text": "Bake for 10 minutes, or until cheese melts."
+        },
+        {
+            "text": "Remove from oven, and serve hot."
+        }
+    ]
+}

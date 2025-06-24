@@ -1,0 +1,220 @@
+{
+    "title": "crab_rangoon_pizza",
+    "id": "029f2a5910",
+    "table": [
+        {
+            "instructions": "preheat oven to 400 degrees f .",
+            "input": "NA",
+            "action": "preheat",
+            "output": "NA"
+        },
+        {
+            "instructions": "on a foil lined cookie sheet , drizzle olive_oil",
+            "input": "NA",
+            "action": "drizzle",
+            "output": "NA"
+        },
+        {
+            "instructions": "brush it all over the foil .",
+            "input": "NA",
+            "action": "brush",
+            "output": "NA"
+        },
+        {
+            "instructions": "lay out strips of wontons , making sure they are not touching",
+            "input": "wontons strips",
+            "action": "lay",
+            "output": "wontons strips"
+        },
+        {
+            "instructions": "brush with additional olive_oil .",
+            "input": "(wontons strips; olive oil)",
+            "action": "brush",
+            "output": "wontons strips brushed with olive oil"
+        },
+        {
+            "instructions": "bake for 10 minutes or until browned and crispy .",
+            "input": "uncooked wonton strips",
+            "action": "bake",
+            "output": "baked wontons strips"
+        },
+        {
+            "instructions": "remove from heat",
+            "input": "baked wontons strips",
+            "action": "remove",
+            "output": "baked wontons strips"
+        },
+        {
+            "instructions": "set aside .",
+            "input": "baked wontons strips",
+            "action": "set",
+            "output": "cooled baked wontons strips"
+        },
+        {
+            "instructions": "in a medium bowl , with a mixer , blend together cream_cheese , onions , and horseradish .",
+            "input": "(cream cheese; onions; horseradish )",
+            "action": "blend",
+            "output": "cream cheese, onion and horseradish mixture"
+        },
+        {
+            "instructions": "spread 14 of the mixture over one flatbread almost to the edges .",
+            "input": "(cream cheese, onion and horseradish mixture; cooled baked wontons strips)",
+            "action": "spread",
+            "output": "cream cheese, onion and horseradish mixture spread over cooled baked wontons strips"
+        },
+        {
+            "instructions": "top with 14 of the crab_meat .",
+            "input": "(cram meat; cooled baked wontons strips with cream cheese, onion and horseradish mixture)",
+            "action": "top",
+            "output": "cooled baked wontons strips with cream cheese, onion and horseradish mixture and crab meat"
+        },
+        {
+            "instructions": "sprinkle 14 of the asiago cheese over the top .",
+            "input": "(cooled baked wontons strips with cream cheese, onion and horseradish mixture and crab meat; asiago cheese; )",
+            "action": "sprinkle",
+            "output": "cooled baked wontons strips with cream cheese, onion and horseradish mixture, crab meat and asiago cheese"
+        },
+        {
+            "instructions": "sprinkle 14 of the green_onion over the cheese ,",
+            "input": "(green onion; cooled baked wontons strips with cream cheese, onion and horseradish mixture, crab meat and asiago cheese)",
+            "action": "sprinkle",
+            "output": "cooled baked wontons strips with cream cheese, onion and horseradish mixture, crab meat, asiago cheese and green onion"
+        },
+        {
+            "instructions": "sprinkle that with 14 of the parmesan_cheese .",
+            "input": "(parmesan cheese; cooled baked wontons strips with cream cheese, onion and horseradish mixture, crab meat, asiago cheese and green onion)",
+            "action": "sprinkle",
+            "output": "cooled baked wontons strips with cream cheese, onion and horseradish mixture, crab meat, asiago cheese, green onion and parmesan cheese"
+        },
+        {
+            "instructions": "put it on a baking tray .",
+            "input": "cooled baked wontons strips with cream cheese, onion and horseradish mixture, crab meat, asiago cheese, green onion and parmesan cheese",
+            "action": "put",
+            "output": "cooled baked wontons strips with cream cheese, onion and horseradish mixture, crab meat, asiago cheese, green onion and parmesan cheese"
+        },
+        {
+            "instructions": "bake for 20 minutes or until cheese is melted and browning and the flatbread edges are brown and crisping .",
+            "input": "uncooked crab wonton pizza",
+            "action": "bake",
+            "output": "baked crab wonton pizza"
+        },
+        {
+            "instructions": "remove from oven",
+            "input": "baked crab wonton pizza",
+            "action": "remove",
+            "output": "baked crab wonton pizza"
+        },
+        {
+            "instructions": "drizzle chili_sauce over top of each .",
+            "input": "(baked crab wonton pizza; chili sauce)",
+            "action": "drizzle",
+            "output": "baked crab wonton pizza with chili sauce drizzled over"
+        },
+        {
+            "instructions": "return to oven for 2 3 minutes",
+            "input": "baked crab wonton pizza with chili sauce drizzled over",
+            "action": "return",
+            "output": "twice baked crab wonton pizza with chili sauce drizzled over"
+        },
+        {
+            "instructions": "then top with crumbled wonton strips .",
+            "input": "(crumbled wonton strips; twice baked crab wonton pizza with chili sauce drizzled over)",
+            "action": "top",
+            "output": "twice baked crab wonton pizza with chili sauce drizzled over and crumbled wonton strips"
+        },
+        {
+            "instructions": "cut into fourths",
+            "input": "twice baked crab wonton pizza with chili sauce drizzled over and crumbled wonton strips",
+            "action": "cut",
+            "output": "cut twice baked crab wonton pizza with chili sauce drizzled over and crumbled wonton strips"
+        },
+        {
+            "instructions": "serve !",
+            "input": "cut twice baked crab wonton pizza with chili sauce drizzled over and crumbled wonton strips",
+            "action": "serve",
+            "output": "cut twice baked crab wonton pizza with chili sauce drizzled over and crumbled wonton strips ready to serve"
+        }
+    ],
+    "ingredients": [
+        {
+            "text": "1 Tablespoon Olive Oil"
+        },
+        {
+            "text": "4 whole Wonton Skins Or Wrappers, Cut Into Strips"
+        },
+        {
+            "text": "8 ounces, weight Cream Cheese"
+        },
+        {
+            "text": "1/2 cups Finely Chopped Onions"
+        },
+        {
+            "text": "3 Tablespoons Horseradish"
+        },
+        {
+            "text": "4 whole Multigrain Flatbread Squares"
+        },
+        {
+            "text": "8 ounces, weight Flaked Imitation Crabmeat"
+        },
+        {
+            "text": "1 cup Shredded Asiago Cheese"
+        },
+        {
+            "text": "2 whole Green Onions, Chopped"
+        },
+        {
+            "text": "1/4 cups Grated Parmesan Cheese"
+        },
+        {
+            "text": "1/2 cups Sweet Chili Sauce"
+        }
+    ],
+    "recipe": [
+        {
+            "text": "Preheat oven to 400 degrees F. On a foil-lined cookie sheet, drizzle olive oil and brush it all over the foil."
+        },
+        {
+            "text": "Lay out strips of wontons, making sure they are not touching and brush with additional olive oil."
+        },
+        {
+            "text": "Bake for 10 minutes or until browned and crispy."
+        },
+        {
+            "text": "Remove from heat and set aside."
+        },
+        {
+            "text": "In a medium bowl, with a mixer, blend together cream cheese, onions, and horseradish."
+        },
+        {
+            "text": "Spread 1/4 of the mixture over one flatbread almost to the edges."
+        },
+        {
+            "text": "Top with 1/4 of the crab meat."
+        },
+        {
+            "text": "Sprinkle 1/4 of the asiago cheese over the top."
+        },
+        {
+            "text": "Sprinkle 1/4 of the green onions over the cheese, then sprinkle that with 1/4 of the Parmesan cheese."
+        },
+        {
+            "text": "Put it on a baking tray."
+        },
+        {
+            "text": "Repeat with the remaining flatbreads and toppings."
+        },
+        {
+            "text": "Bake for 20 minutes or until cheese is melted and browning and the flatbread edges are brown and crisping."
+        },
+        {
+            "text": "Remove from oven and drizzle chili sauce over top of each."
+        },
+        {
+            "text": "Return to oven for 2-3 minutes and then top with crumbled wonton strips."
+        },
+        {
+            "text": "Cut into fourths and serve!"
+        }
+    ]
+}

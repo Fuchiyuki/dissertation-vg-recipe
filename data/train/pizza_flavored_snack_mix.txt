@@ -1,0 +1,97 @@
+{
+    "title": "pizza_flavored_snack_mix",
+    "id": "4df01ef504",
+    "table": [
+        {
+            "instructions": "combine the parmesan , sauce_mix and garlic_powder .",
+            "input": "(parmesan; sauce_mix; garlic_powder)",
+            "action": "combine",
+            "output": "parmesan, sauce mix and garlic powder mixture"
+        },
+        {
+            "instructions": "in a large plastic bag , combine crispix and pretzels .",
+            "input": "(crispix; pretzels)",
+            "action": "combine",
+            "output": "cereal mix in a bag"
+        },
+        {
+            "instructions": "pour oil over cereal mix .",
+            "input": "(cereal mix in a bag; oil)",
+            "action": "pour",
+            "output": "oil_poured_over_cereal_mix in bag"
+        },
+        {
+            "instructions": "seal bag",
+            "input": "oil_poured_over_cereal_mix in bag",
+            "action": "seal",
+            "output": "sealed cereal mix bag"
+        },
+        {
+            "instructions": "toss gently until well coated .",
+            "input": "sealed cereal mix bag",
+            "action": "toss",
+            "output": "tossed sealed cereal mix bag"
+        },
+        {
+            "instructions": "pour in the parmesan mixture",
+            "input": "(parmesan, sauce mix and garlic powder mixture; tossed sealed cereal mix bag)",
+            "action": "pour",
+            "output": "parmesan_mixture_poured_in tossed sealed cereal mix bag"
+        },
+        {
+            "instructions": "seal bag .",
+            "input": "parmesan_mixture_poured_in tossed cereal mix bag",
+            "action": "seal",
+            "output": "parmesan_mixture_poured_in tossed cereal mix bag and sealed"
+        },
+        {
+            "instructions": "again , toss mixture until coated evenly .",
+            "input": "parmesan_mixture_poured_in tossed cereal mix bag and sealed",
+            "action": "toss",
+            "output": "twice tossed snack mix"
+        }
+    ],
+    "ingredients": [
+        {
+            "text": "8 cups Crispix cereal"
+        },
+        {
+            "text": "14 cup parmesan cheese"
+        },
+        {
+            "text": "1 tablespoon spaghetti sauce mix"
+        },
+        {
+            "text": "2 teaspoons garlic powder"
+        },
+        {
+            "text": "4 cups pretzel nuggets"
+        },
+        {
+            "text": "3 tablespoons vegetable oil"
+        }
+    ],
+    "recipe": [
+        {
+            "text": "Combine the parmesan, sauce mix and garlic powder."
+        },
+        {
+            "text": "In a large plastic bag, combine Crispix and pretzels."
+        },
+        {
+            "text": "Pour oil over cereal mix."
+        },
+        {
+            "text": "Seal bag and toss gently until well coated."
+        },
+        {
+            "text": "Pour in the parmesan mixture and seal bag."
+        },
+        {
+            "text": "Again, toss mixture until coated evenly."
+        },
+        {
+            "text": "Enjoy as a quick snack."
+        }
+    ]
+}

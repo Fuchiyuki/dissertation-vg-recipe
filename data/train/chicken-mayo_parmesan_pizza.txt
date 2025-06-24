@@ -1,0 +1,142 @@
+{
+    "title": "chicken-mayo_parmesan_pizza",
+    "id": "71330ac7b0",
+    "table": [
+        {
+            "instructions": "set oven to 450 degrees .",
+            "input": "NA",
+            "action": "set",
+            "output": "NA"
+        },
+        {
+            "instructions": "place the prepared pizza on a pizza\u2012pan .",
+            "input": "pizza crust",
+            "action": "place",
+            "output": "pizza crust"
+        },
+        {
+            "instructions": "brush the crust with oil ,",
+            "input": "(Uncooked pizza crust; oil)",
+            "action": "brush",
+            "output": "Uncooked pizza crust brushed with oil"
+        },
+        {
+            "instructions": "sprinkle lightly with kosher_salt if using .",
+            "input": "(Uncooked pizza crust with oil; kosher_salt)",
+            "action": "sprinkle",
+            "output": "Salted uncooked pizza crust"
+        },
+        {
+            "instructions": "prick holes in the crust with a fork to prevent riing while baking .",
+            "input": "Salted uncooked pizza crust",
+            "action": "prick",
+            "output": "Salted and pricked uncooked pizza crust"
+        },
+        {
+            "instructions": "bake for 8 10 minutes if the crust rises while baking just push down withm a fork .",
+            "input": "Salted and pricked uncooked pizza crust",
+            "action": "bake",
+            "output": "pre baked pizza crust"
+        },
+        {
+            "instructions": "in a large bowl mix all_ingredient use only 1 cup cheese .",
+            "input": "(mayonnaise; sour cream; chopped cooked chicken; chopped plum tomato; grated parmesan cheese; green chilie; finely chopped green onion; minced fresh garlic; black pepper; shredded monterey jack cheese)",
+            "action": "mix",
+            "output": "chicken mayo mixture"
+        },
+        {
+            "instructions": "spread the mixture onto the pre baked crust .",
+            "input": "(chicken mayo mixture; pre baked crust)",
+            "action": "spread",
+            "output": "chicken mayo mixture spread on  prebaked crust"
+        },
+        {
+            "instructions": "sprinkle the remaining 1 cup or more shredded mozzeralla cheese .",
+            "input": "(pizza crust with chicken mayo mixture; shredded mozzeralla cheese)",
+            "action": "sprinkle",
+            "output": "pizza crust with chicken mayo mixture topped with shredded mozzarella"
+        },
+        {
+            "instructions": "bake for about 15 17 minutes or until heated through and the cheese is melted .",
+            "input": "uncooked chicken mayo pizza",
+            "action": "bake",
+            "output": "baked chicken mayo pizza"
+        }
+    ],
+    "ingredients": [
+        {
+            "text": "1 (12 inch) prepared pizza crust"
+        },
+        {
+            "text": "1 tablespoon oil"
+        },
+        {
+            "text": "kosher salt (optional)"
+        },
+        {
+            "text": "12 cup mayonnaise"
+        },
+        {
+            "text": "2 tablespoons sour cream"
+        },
+        {
+            "text": "1 (12 inch) prepared pizza crust"
+        },
+        {
+            "text": "2 cups chopped cooked chicken"
+        },
+        {
+            "text": "1 large firm plum tomato, chopped"
+        },
+        {
+            "text": "12 cup grated parmesan cheese"
+        },
+        {
+            "text": "1 (4 1/2 ounce) can green chilies (drained and chopped)"
+        },
+        {
+            "text": "3 -4 green onions, finely chopped"
+        },
+        {
+            "text": "1 teaspoon minced fresh garlic"
+        },
+        {
+            "text": "black pepper"
+        },
+        {
+            "text": "2 cups shredded monterey jack cheese or 2 cups mozzarella cheese, divided"
+        }
+    ],
+    "recipe": [
+        {
+            "text": "Set oven to 450 degrees."
+        },
+        {
+            "text": "Place the prepared pizza on a pizza pan."
+        },
+        {
+            "text": "Brush the crust with oil, then sprinkle lightly with kosher salt (if using)."
+        },
+        {
+            "text": "Prick holes in the crust with a fork to prevent riing while baking."
+        },
+        {
+            "text": "Bake for 8-10 minutes (if the crust rises while baking just push down withm a fork)."
+        },
+        {
+            "text": "In a large bowl mix all ingredients (use only 1 cup cheese)."
+        },
+        {
+            "text": "Spread the mixture onto the pre-baked crust."
+        },
+        {
+            "text": "Sprinkle the remaining 1 cup (or more) shredded mozzeralla cheese."
+        },
+        {
+            "text": "Bake for about 15-17 minutes or until heated through and the cheese is melted."
+        },
+        {
+            "text": "Delicious!"
+        }
+    ]
+}

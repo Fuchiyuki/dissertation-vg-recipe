@@ -1,0 +1,94 @@
+{
+    "title": "pepperoni_pizza_bake",
+    "id": "9a695d9f22",
+    "table": [
+        {
+            "instructions": "cook noodles according to package directions ;",
+            "input": "noodles",
+            "actions": "cook",
+            "output": "cooked_noodles"
+        },
+        {
+            "instructions": "drain .",
+            "input": "cooked_noodles",
+            "actions": "drain",
+            "output": "drained_noodles"
+        },
+        {
+            "instructions": "in a bowl , combine noodles and 34 cup , pizza_sauce .",
+            "input": "(drained_noodles; pizza_sauce)",
+            "actions": "combine",
+            "output": "combined_noodles_and_pizza_sauce"
+        },
+        {
+            "instructions": "transfer to a greased 13 in . x 9 in .",
+            "input": "combined_noodles_and_pizza_sauce",
+            "actions": "transfer",
+            "output": "combined_noodles_and_pizza_sauce"
+        },
+        {
+            "instructions": "top with remaining pizza_sauce .",
+            "input": "(combined_noodles_and_pizza_sauce; remaining_pizza_sauce)",
+            "actions": "top",
+            "output": "combined_noodles_and_pizza_sauce_topped_with_remaining_pizza_sauce"
+        },
+        {
+            "instructions": "sprinkle with cheese .",
+            "input": "(cheese; combined_noodles_and_pizza_sauce_topped_with_remaining_pizza_sauce)",
+            "actions": "sprinkle",
+            "output": "sprinkled_cheese on uncooked pizza bake"
+        },
+        {
+            "instructions": "bake , uncovered , at 375 for 15 18 minutes or until heated through and cheese is melted .",
+            "input": "uncooked pizza bake",
+            "actions": "bake",
+            "output": "baked_pizza bake"
+        }
+    ],
+    "ingredients": [
+        {
+            "text": "1 (16 ounce) package wide egg noodles"
+        },
+        {
+            "text": "2 14 cups pizza sauce, divided"
+        },
+        {
+            "text": "1 cup sliced fresh mushrooms"
+        },
+        {
+            "text": "1 (2 1/4 ounce) can sliced ripe olives, drained"
+        },
+        {
+            "text": "1 (3 1/2 ounce) packagesliced pepperoni"
+        },
+        {
+            "text": "2 cups shredded mozzarella cheese"
+        }
+    ],
+    "recipe": [
+        {
+            "text": "Cook noodles according to package directions; drain."
+        },
+        {
+            "text": "In a bowl, combine noodles and 3/4 cup pizza sauce."
+        },
+        {
+            "text": "Transfer to a greased 13-in.x 9-in.x 2-in."
+        },
+        {
+            "text": "baking dish."
+        },
+        {
+            "text": "Top with remaining pizza sauce."
+        },
+        {
+            "text": "Layer with the mushrooms, olives and pepperoni."
+        },
+        {
+            "text": "Sprinkle with cheese."
+        },
+        {
+            "text": "Bake, uncovered, at 375 for 15-18 minutes or until heated through and cheese is melted."
+        }
+    ]
+}

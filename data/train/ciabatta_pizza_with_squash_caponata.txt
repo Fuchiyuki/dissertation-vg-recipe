@@ -1,0 +1,181 @@
+{
+    "title": "ciabatta_pizza_with_squash_caponata",
+    "id": "5201c52c78",
+    "table": [
+        {
+            "instructions": "preheat the oven to 450 degrees f .",
+            "input": "NA",
+            "action": "preheat",
+            "output": "NA"
+        },
+        {
+            "instructions": "heat the extra virgin_olive_oil in a pot over medium high heat .",
+            "input": "virgin_olive_oil",
+            "action": "heat",
+            "output": "heated_virgin_olive_oil"
+        },
+        {
+            "instructions": "add the zucchini , onions , garlic , chile , celery , cubanelle pepper , red_bell_pepper , and salt and pepper , to taste .",
+            "input": "(zucchini; onions; garlic; chile; celery; cubanelle_pepper; red_bell_pepper; salt; pepper; heated olive oil)",
+            "action": "add",
+            "output": "combined_vegetables"
+        },
+        {
+            "instructions": "cook about 10 to 12 minutes to soften vegetables .",
+            "input": "combined_vegetables",
+            "action": "cook",
+            "output": "cooked_vegetables"
+        },
+        {
+            "instructions": "add in the olives , raisins , and capers once the veggies start to give off their juice .",
+            "input": "(cooked_vegetables; olives; raisins; capers)",
+            "action": "add",
+            "output": "cooked_vegetable_mixture"
+        },
+        {
+            "instructions": "add the vinegar , then tomato_sauce .",
+            "input": "(cooked_vegetable_mixture; vinegar; tomato_sauce)",
+            "action": "add",
+            "output": "vegetable_mixture_with_tomato_sauce"
+        },
+        {
+            "instructions": "reduce heat to a simmer .",
+            "input": "(vegetable_mixture_with_tomato_sauce; simmer)",
+            "action": "reduce",
+            "output": "simmered_vegetable_mixture_with_tomato_sauce"
+        },
+        {
+            "instructions": "stir in the parsley and basil to finish .",
+            "input": "(simmered_vegetable_mixture_with_tomato_sauce; parsley; basil)",
+            "action": "stir",
+            "output": "seasoned caponata"
+        },
+        {
+            "instructions": "arrange bread on a large baking sheet",
+            "input": "bread",
+            "action": "arrange",
+            "output": "bread_on_baking_sheet"
+        },
+        {
+            "instructions": "top with an even , thick layer of caponata .",
+            "input": "(bread_on_baking_sheet; seasoned caponata)",
+            "action": "top",
+            "output": "bread_topped_with_caponata"
+        },
+        {
+            "instructions": "then top that with an even layer of cheese",
+            "input": "(bread_topped_with_caponata; cheese)",
+            "action": "top",
+            "output": "caponata_bread topped_with_cheese"
+        },
+        {
+            "instructions": "bake for 5 minutes to brown",
+            "input": "caponata_bread topped_with_cheese",
+            "action": "bake",
+            "output": "baked bread caponata with cheese"
+        },
+        {
+            "instructions": "melt the cheese .",
+            "input": "baked bread caponata with cheese",
+            "action": "melt",
+            "output": "baked bread caponata with melted cheese"
+        },
+        {
+            "instructions": "cut each 12 loaf into 3 large squares of bread pizza .",
+            "input": "baked bread caponata with melted cheese",
+            "action": "cut",
+            "output": "cut_caponata_bread pizza"
+        }
+    ],
+    "ingredients": [
+        {
+            "text": "1/4 cup extra-virgin olive oil"
+        },
+        {
+            "text": "1 1/2 pounds yellow squash and/or zucchini, small dice"
+        },
+        {
+            "text": "1 medium onion, red or yellow, chopped"
+        },
+        {
+            "text": "4 cloves garlic, thinly sliced"
+        },
+        {
+            "text": "1 small red chile, Fresno or Holland, chopped or thinly sliced"
+        },
+        {
+            "text": "2 ribs celery, finely chopped"
+        },
+        {
+            "text": "1 cubanelle pepper, chopped"
+        },
+        {
+            "text": "1 small red bell or sweet red frying pepper, seeded and chopped"
+        },
+        {
+            "text": "Kosher salt and freshly ground black pepper"
+        },
+        {
+            "text": "1/2 cup Sicilian green olives, chopped"
+        },
+        {
+            "text": "2 to 3 tablespoons golden raisins"
+        },
+        {
+            "text": "2 to 3 tablespoons capote capers, drained and chopped"
+        },
+        {
+            "text": "1 tablespoon white balsamic vinegar, or a splash of dry wine"
+        },
+        {
+            "text": "1 (14-ounce) can tomato sauce"
+        },
+        {
+            "text": "A handful flat-leaf parsley, finely chopped"
+        },
+        {
+            "text": "A few leaves fresh basil, torn"
+        },
+        {
+            "text": "1 large loaf ciabatta bread, split horizontally"
+        },
+        {
+            "text": "2 1/2 cups (10-ounce package) shredded provolone, or 1/2 pound caciocavallo cheese, shredded"
+        }
+    ],
+    "recipe": [
+        {
+            "text": "Preheat the oven to 450 degrees F."
+        },
+        {
+            "text": "Heat the extra-virgin olive oil in a pot over medium-high heat."
+        },
+        {
+            "text": "Add the zucchini, onions, garlic, chile, celery, cubanelle pepper, red bell pepper, and salt and pepper, to taste."
+        },
+        {
+            "text": "Cook about 10 to 12 minutes to soften vegetables."
+        },
+        {
+            "text": "Add in the olives, raisins, and capers once the veggies start to give off their juice."
+        },
+        {
+            "text": "Add the vinegar, then tomato sauce."
+        },
+        {
+            "text": "Reduce heat to a simmer."
+        },
+        {
+            "text": "Stir in the parsley and basil to finish."
+        },
+        {
+            "text": "Arrange bread on a large baking sheet and top with an even, thick layer of caponata."
+        },
+        {
+            "text": "Then top that with an even layer of cheese and bake for 5 minutes to brown and melt the cheese."
+        },
+        {
+            "text": "Cut each 1/2 loaf into 3 large squares of bread pizza."
+        }
+    ]
+}

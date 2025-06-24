@@ -1,0 +1,190 @@
+{
+    "title": "lasagna_pizza_pizza_dough_style_..._no_noodles",
+    "id": "8fb52293ed",
+    "table": [
+        {
+            "instructions": "in large skillet , cook beef until no longer pink ;",
+            "input": "beef",
+            "action": "cook",
+            "output": "cooked_beef"
+        },
+        {
+            "instructions": "drain .",
+            "input": "cooked_beef",
+            "action": "drain",
+            "output": "cooked_beef without excess fat"
+        },
+        {
+            "instructions": "stir in tomato_sauce , water and 3 tablespoons spaghetti sauce_mix ;",
+            "input": "(tomato_sauce, water, spaghetti_sauce_mix; cooked_beef without excess fat)",
+            "action": "stir",
+            "output": "beef and tomato sauce mixture"
+        },
+        {
+            "instructions": "heat through .",
+            "input": "beef and tomato sauce mixture",
+            "action": "heat",
+            "output": "heated beef and tomato sauce mixture"
+        },
+        {
+            "instructions": "in a large bowl , combine contents of flour and yeast packets from hot roll mix ;",
+            "input": "hot roll mix package",
+            "action": "combine",
+            "output": "dough"
+        },
+        {
+            "instructions": "add remaining spaghetti sauce_mix .",
+            "input": "(remaining spaghetti sauce_mix; heated beef and tomato sauce mixture)",
+            "action": "add",
+            "output": "heated beef and tomato sauce mixture"
+        },
+        {
+            "instructions": "you could probably use a premade crust also .",
+            "input": "NA",
+            "action": "use",
+            "output": "NA"
+        },
+        {
+            "instructions": "stir in warm_water until dough pulls away from sides of bowl .",
+            "input": "(warm_water; dough)",
+            "action": "stir",
+            "output": "soft_dough"
+        },
+        {
+            "instructions": "turn onto a lightly floured surface ;",
+            "input": "soft_dough",
+            "action": "turn",
+            "output": "soft_dough"
+        },
+        {
+            "instructions": "knead until smooth and elastic , about 5 minutes .",
+            "input": "soft_dough",
+            "action": "knead",
+            "output": "kneaded_dough"
+        },
+        {
+            "instructions": "roll into a 17 x 12 rectangle .",
+            "input": "kneaded_dough",
+            "action": "roll",
+            "output": "rolled_dough"
+        },
+        {
+            "instructions": "transfer to a greased 15 x 10 x 1 baking pan ;",
+            "input": "rolled_dough",
+            "action": "transfer",
+            "output": "rolled_dough"
+        },
+        {
+            "instructions": "build up edges slightly .",
+            "input": "rolled_dough",
+            "action": "build",
+            "output": "rolled_dough with edges"
+        },
+        {
+            "instructions": "spread cottage_cheese over dough .",
+            "input": "cottage_cheese, rolled_dough with edges",
+            "action": "spread",
+            "output": "pizza crust with cottage cheese"
+        },
+        {
+            "instructions": "top with meat mixture and parmesan_cheese .",
+            "input": "pizza crust with cottage cheese, heated beef and tomato sauce mixture, parmesan_cheese",
+            "action": "top",
+            "output": "crust with cottage cheese topped with heated beef and tomato sauce mixture and parmesan cheese"
+        },
+        {
+            "instructions": "bake at 400 degrees for 20 minutes or until bubbly .",
+            "input": "uncooked meat pizza",
+            "action": "bake",
+            "output": "baked meat pizza"
+        },
+        {
+            "instructions": "sprinkle with mozzarella_cheese .",
+            "input": "baked meat pizza, mozzarella_cheese",
+            "action": "sprinkle",
+            "output": "baked meat pizza with mozzarella cheese"
+        },
+        {
+            "instructions": "bake 5 minutes more til cheese melts",
+            "input": "baked meat pizza with mozzarella cheese",
+            "action": "bake",
+            "output": "doubly baked meat pizza"
+        }
+    ],
+    "ingredients": [
+        {
+            "text": "1 lb ground beef"
+        },
+        {
+            "text": "8 ounces tomato sauce"
+        },
+        {
+            "text": "14 cup water"
+        },
+        {
+            "text": "1 (1 1/4 ounce) envelope spaghetti sauce mix, divided"
+        },
+        {
+            "text": "16 ounces hot roll mix"
+        },
+        {
+            "text": "1 cup warm water (120 degrees)"
+        },
+        {
+            "text": "12 ounces small curd cottage cheese"
+        },
+        {
+            "text": "14 cup parmesan cheese, shredded"
+        },
+        {
+            "text": "1 cup shredded mozzarella cheese (4 oz)"
+        }
+    ],
+    "recipe": [
+        {
+            "text": "In large skillet, cook beef until no longer pink; drain."
+        },
+        {
+            "text": "Stir in tomato sauce, water and 3 tablespoons spaghetti sauce mix; heat through."
+        },
+        {
+            "text": "In a large bowl, combine contents of flour and yeast packets from hot roll mix; add remaining spaghetti sauce mix."
+        },
+        {
+            "text": "(This seemed like not enough dough and I opted to use my own dough adding the spaghetti sauce mix to that) and you could probably use a premade crust also."
+        },
+        {
+            "text": "if using the hot roll mix; Stir in warm water until dough pulls away from sides of bowl."
+        },
+        {
+            "text": "Turn onto a lightly floured surface; knead until smooth and elastic, about 5 minutes."
+        },
+        {
+            "text": "or prepare your own dough."
+        },
+        {
+            "text": "Roll into a 17\" X 12\" rectangle."
+        },
+        {
+            "text": "Transfer to a greased 15\" X 10\" x 1\" baking pan; build up edges slightly."
+        },
+        {
+            "text": "spread cottage cheese over dough."
+        },
+        {
+            "text": "Top with meat mixture and parmesan cheese."
+        },
+        {
+            "text": "Bake at 400 degrees for 20 minutes or until bubbly."
+        },
+        {
+            "text": "Sprinkle with mozzarella cheese."
+        },
+        {
+            "text": "Bake 5 minutes more til cheese it melted."
+        },
+        {
+            "text": "Let stand 5 minutes before serving."
+        }
+    ]
+}

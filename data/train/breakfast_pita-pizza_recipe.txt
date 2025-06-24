@@ -1,0 +1,160 @@
+{
+    "title": "breakfast_pita-pizza_recipe",
+    "id": "239e8cdcb0",
+    "table": [
+        {
+            "instructions": "heat the oven to broil",
+            "input": "NA",
+            "actions": "heat",
+            "output": "NA"
+        },
+        {
+            "instructions": "arrange a rack in the middle .",
+            "input": "NA",
+            "actions": "arrange",
+            "output": "NA"
+        },
+        {
+            "instructions": "line a baking sheet with aluminum foil",
+            "input": "NA",
+            "actions": "line",
+            "output": "NA"
+        },
+        {
+            "instructions": "place it under the broiler while the oven is heating .",
+            "input": "NA",
+            "actions": "place",
+            "output": "NA"
+        },
+        {
+            "instructions": "meanwhile , place the pitas on a work surface",
+            "input": "pitas",
+            "actions": "place",
+            "output": "pitas"
+        },
+        {
+            "instructions": "sprinkle with the mozzarella , oregano , and red_pepper_flake .",
+            "input": "(pitas; mozzarella; oregano; red_pepper_flake)",
+            "actions": "sprinkle",
+            "output": "mozzarella , oregano , and red_pepper_flake_sprinkled_over_pitas"
+        },
+        {
+            "instructions": "arrange the spinach over the cheese , leaving a small nest about 1 12 inches wide in the center of each pita .",
+            "input": "(topped_pitas; spinach)",
+            "actions": "arrange",
+            "output": "spinach_arranged_over_topped_pitas"
+        },
+        {
+            "instructions": "when the oven is ready , remove the baking sheet",
+            "input": "NA",
+            "actions": "remove",
+            "output": "NA"
+        },
+        {
+            "instructions": "place the pitas on it .",
+            "input": "topped_pitas",
+            "actions": "place",
+            "output": "topped_pitas"
+        },
+        {
+            "instructions": "crack 1 egg into the nest of each pita",
+            "input": "(topped_pitas; egg)",
+            "actions": "crack",
+            "output": "egg_crack_over_topped_pitas"
+        },
+        {
+            "instructions": "season it with salt and pepper .",
+            "input": "(topped_pitas; salt; pepper)",
+            "actions": "season",
+            "output": "seasoned_pitas"
+        },
+        {
+            "instructions": "remove the baking sheet from the oven",
+            "input": "NA",
+            "actions": "remove",
+            "output": "NA"
+        },
+        {
+            "instructions": "transfer the pitas to a cutting board .",
+            "input": "pitas",
+            "actions": "transfer",
+            "output": "pitas"
+        },
+        {
+            "instructions": "sprinkle with the parmesan",
+            "input": "(pitas; parmesan)",
+            "actions": "sprinkle",
+            "output": "parmesan_sprinkled_over_pitas"
+        },
+        {
+            "instructions": "cut each pita into 4 wedges ,",
+            "input": "pitas",
+            "actions": "cut",
+            "output": "cut_pitas"
+        },
+        {
+            "instructions": "serve immediately .",
+            "input": "breakfast_pita_pizza",
+            "actions": "serve",
+            "output": "breakfast_pita_pizza"
+        }
+    ],
+    "ingredients": [
+        {
+            "text": "2 pitas"
+        },
+        {
+            "text": "1 cup shredded mozzarella cheese (about 4 ounces)"
+        },
+        {
+            "text": "1/4 teaspoon dried oregano"
+        },
+        {
+            "text": "1/4 teaspoon red pepper flakes"
+        },
+        {
+            "text": "1 cup loosely packed baby spinach leaves"
+        },
+        {
+            "text": "2 large eggs"
+        },
+        {
+            "text": "Kosher salt"
+        },
+        {
+            "text": "Freshly ground black pepper"
+        },
+        {
+            "text": "1 tablespoon finely grated Parmesan cheese"
+        }
+    ],
+    "recipe": [
+        {
+            "text": "Heat the oven to broil and arrange a rack in the middle."
+        },
+        {
+            "text": "Line a baking sheet with aluminum foil and place it under the broiler while the oven is heating."
+        },
+        {
+            "text": "Meanwhile, place the pitas on a work surface and sprinkle with the mozzarella, oregano, and red pepper flakes."
+        },
+        {
+            "text": "Arrange the spinach over the cheese, leaving a small nest about 1 1/2 inches wide in the center of each pita."
+        },
+        {
+            "text": "When the oven is ready, remove the baking sheet and place the pitas on it."
+        },
+        {
+            "text": "Crack 1 egg into the nest of each pita and season it with salt and pepper."
+        },
+        {
+            "text": "Broil until the egg whites are set, about 6 to 7 minutes (the yolks will still be runny)."
+        },
+        {
+            "text": "Remove the baking sheet from the oven and transfer the pitas to a cutting board."
+        },
+        {
+            "text": "Sprinkle with the Parmesan, cut each pita into 4 wedges, and serve immediately."
+        }
+    ]
+}

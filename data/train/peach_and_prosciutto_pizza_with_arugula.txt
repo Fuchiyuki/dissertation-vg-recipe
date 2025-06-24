@@ -1,0 +1,241 @@
+{
+    "title": "peach_and_prosciutto_pizza_with_arugula",
+    "id": "906c6ba8df",
+    "table": [
+        {
+            "instructions": "soak the plank for at least 1 hour and up to 24 hours .",
+            "input": "(salt; pepper)",
+            "actions": "soak",
+            "output": "(soaked_salt; pepper)"
+        },
+        {
+            "instructions": "in a small bowl , combine 2 tablespoons of the oil with the thyme , salt , and pepper .",
+            "input": "(oil; thyme; salt; pepper)",
+            "actions": "combine",
+            "output": "oil mixture"
+        },
+        {
+            "instructions": "set aside .",
+            "input": "oil mixture",
+            "actions": "set",
+            "output": "oil mixture"
+        },
+        {
+            "instructions": "on a well floured surface , roll out the pizza_dough as thinly as possible into a rectangle slightly larger than the plank you are using .",
+            "input": "pizza_dough",
+            "actions": "roll",
+            "output": "rolled_pizza_dough"
+        },
+        {
+            "instructions": "prepare the plank for grilling according to the instructions see notes .",
+            "input": "NA",
+            "actions": "prepare",
+            "output": "NA"
+        },
+        {
+            "instructions": "lightly spray the toasted side of the plank with the cooking_spray",
+            "input": "NA",
+            "actions": "spray",
+            "output": "NA"
+        },
+        {
+            "instructions": "dust with cornmeal .",
+            "input": "NA",
+            "actions": "dust",
+            "output": "NA"
+        },
+        {
+            "instructions": "place the pizza_dough on the prepared plank , folding up the edges so that the dough is the same size as the plank .",
+            "input": "pizza_dough",
+            "actions": "place",
+            "output": "pizza_dough"
+        },
+        {
+            "instructions": "lightly prick the dough all over with a fork .",
+            "input": "pizza_dough",
+            "actions": "prick",
+            "output": "pricked_pizza_dough"
+        },
+        {
+            "instructions": "close the lid",
+            "input": "NA",
+            "actions": "close",
+            "output": "NA"
+        },
+        {
+            "instructions": "grill for 5 to 7 minutes , or until the pizza_dough is lightly browned and crisp .",
+            "input": "pizza_crust",
+            "actions": "grill",
+            "output": "grilled_pizza_crust"
+        },
+        {
+            "instructions": "open the grill lid",
+            "input": "NA",
+            "actions": "open",
+            "output": "NA"
+        },
+        {
+            "instructions": "brush the oil mixture evenly over the pizza_dough ,",
+            "input": "(oil_mixture; pizza_crust)",
+            "actions": "brush",
+            "output": "oil_mixture_brushed_on_pizza_crust"
+        },
+        {
+            "instructions": "sprinkle with the mozzarella .",
+            "input": "(oiled_pizza_crust; mozzarella)",
+            "actions": "sprinkle",
+            "output": "mozzarella_sprinkled_over_pizza_crust"
+        },
+        {
+            "instructions": "add the peaches , red onion , prosciutto , and goat_cheese .",
+            "input": "(peaches; red_onion; prosciutto; goat_cheese)",
+            "actions": "add",
+            "output": "pizza_crust_with_toppings"
+        },
+        {
+            "instructions": "close the lid",
+            "input": "NA",
+            "actions": "close",
+            "output": "NA"
+        },
+        {
+            "instructions": "grill until the cheese is golden and bubbly and the peaches and onion are cooked through , about 5 minutes .",
+            "input": "uncooked_pizza",
+            "actions": "grill",
+            "output": "grilled pizza"
+        },
+        {
+            "instructions": "transfer the pizza to a clean work surface .",
+            "input": "grilled pizza",
+            "actions": "transfer",
+            "output": "grilled pizza"
+        },
+        {
+            "instructions": "in a medium bowl , combine the balsamic_vinegar and the remaining 1 teaspoon of oil .",
+            "input": "(balsamic_vinegar; oil)",
+            "actions": "combine",
+            "output": "dressing"
+        },
+        {
+            "instructions": "add the arugula",
+            "input": "(dressing; arugula)",
+            "actions": "add",
+            "output": "arugula_added_to_dressing"
+        },
+        {
+            "instructions": "toss to coat the leaves with the dressing .",
+            "input": "arugula_added_to_dressing",
+            "actions": "toss",
+            "output": "tossed_arugula"
+        },
+        {
+            "instructions": "season with salt and pepper to taste .",
+            "input": "(tossed_arugula; salt; pepper)",
+            "actions": "season",
+            "output": "seasoned_arugula_salad"
+        },
+        {
+            "instructions": "top the pizza with the arugula , salad .",
+            "input": "(pizza; arugula_salad)",
+            "actions": "top",
+            "output": "peach_and_prosciutto_pizza_topped_with_arugula"
+        }
+    ],
+    "ingredients": [
+        {
+            "text": "2 tablespoons plus 1 teaspoon extra-virgin olive oil, divided"
+        },
+        {
+            "text": "1/2 teaspoon chopped fresh thyme"
+        },
+        {
+            "text": "1/4 teaspoon kosher salt"
+        },
+        {
+            "text": "1/4 teaspoon freshly ground black pepper"
+        },
+        {
+            "text": "1/2 pound store-bought or homemade pizza dough, at room temperature"
+        },
+        {
+            "text": "Olive oil cooking spray"
+        },
+        {
+            "text": "Coarse grind cornmeal, for sprinkling"
+        },
+        {
+            "text": "6 ounces mozzarella, grated (about 2 cups)"
+        },
+        {
+            "text": "1 large firm-ripe peach, halved, pitted, and cut into thin wedges (see Notes)"
+        },
+        {
+            "text": "1/2 small red onion, thinly sliced (about 2 cup)"
+        },
+        {
+            "text": "6 paper-thin slices prosciutto, torn into pieces"
+        },
+        {
+            "text": "3 ounces goat cheese, crumbled (about 3/4 cup)"
+        },
+        {
+            "text": "1 teaspoon balsamic vinegar"
+        },
+        {
+            "text": "2 cups loosely packed arugula"
+        }
+    ],
+    "recipe": [
+        {
+            "text": "Soak the plank for at least 1 hour and up to 24 hours."
+        },
+        {
+            "text": "In a small bowl, combine 2 tablespoons of the oil with the thyme, salt, and pepper."
+        },
+        {
+            "text": "Set aside."
+        },
+        {
+            "text": "On a well-floured surface, roll out the pizza dough as thinly as possible into a rectangle slightly larger than the plank you are using."
+        },
+        {
+            "text": "Prepare the plank for grilling according to the instructions (see Notes)."
+        },
+        {
+            "text": "Lightly spray the toasted side of the plank with the cooking spray and dust with cornmeal."
+        },
+        {
+            "text": "Place the pizza dough on the prepared plank, folding up the edges so that the dough is the same size as the plank."
+        },
+        {
+            "text": "Lightly prick the dough all over with a fork."
+        },
+        {
+            "text": "Close the lid and grill for 5 to 7 minutes, or until the pizza dough is lightly browned and crisp."
+        },
+        {
+            "text": "Open the grill lid and brush the oil mixture evenly over the pizza dough, then sprinkle with the mozzarella."
+        },
+        {
+            "text": "Add the peaches, red onion, prosciutto, and goat cheese."
+        },
+        {
+            "text": "Close the lid and grill until the cheese is golden and bubbly and the peaches and onion are cooked through, about 5 minutes."
+        },
+        {
+            "text": "Transfer the pizza to a clean work surface."
+        },
+        {
+            "text": "In a medium bowl, combine the balsamic vinegar and the remaining 1 teaspoon of oil."
+        },
+        {
+            "text": "Add the arugula and toss to coat the leaves with the dressing."
+        },
+        {
+            "text": "Season with salt and pepper to taste."
+        },
+        {
+            "text": "Top the pizza with the arugula salad."
+        }
+    ]
+}

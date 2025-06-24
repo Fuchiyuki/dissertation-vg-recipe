@@ -1,0 +1,88 @@
+{
+    "title": "hawaiian_pizzadilla_vegetarian",
+    "id": "e663ab60b3",
+    "table": [
+        {
+            "instructions": " While youre building your pizzadilla, have the olive oil heating up in a skillet over medium heat. ",
+            "input": "olive oil",
+            "action": "heat",
+            "output": "heated olive oil"
+        },
+        {
+            "instructions": "fold the other half of the tortilla over",
+            "input": "tortilla",
+            "action": "fold",
+            "output": "folded tortilla"
+        },
+        {
+            "instructions": "carefully place it in skillet .",
+            "input": "folded tortilla",
+            "action": "place",
+            "output": "folded tortilla in pan with heated oil"
+        },
+        {
+            "instructions": "squish it with a spatula to ensure that all the ingredients get friendly with one another .",
+            "input": "folded tortilla in pan with heated oil",
+            "action": "squish",
+            "output": "squished folded tortilla in pan with heated oil"
+        },
+        {
+            "instructions": "remove if from the pan when the tortilla is nice",
+            "input": "squished folded tortilla in pan with heated oil",
+            "action": "remove",
+            "output": "cooked_tortilla"
+        },
+        {
+            "instructions": "brown and the cheese is melted .",
+            "input": "cooked_tortilla",
+            "action": "brown",
+            "output": "cooked_tortilla with browned cheese"
+        },
+        {
+            "instructions": "cut into slices",
+            "input": "cooked_tortilla with browned cheese",
+            "action": "cut",
+            "output": "sliced cooked_tortilla with browned cheese"
+        }
+    ],
+    "ingredients": [
+        {
+            "text": "1 Tablespoon Olive Oil"
+        },
+        {
+            "text": "1 whole Wheat Tortilla (Large)"
+        },
+        {
+            "text": "1/2 cups Mozzarella Cheese"
+        },
+        {
+            "text": "23 cups Pineapple, Chunks"
+        },
+        {
+            "text": "1 dash Italian Spices"
+        },
+        {
+            "text": "1 Tablespoon Pizza Sauce"
+        }
+    ],
+    "recipe": [
+        {
+            "text": "While youre building your pizzadilla, have the olive oil heating up in a skillet over medium heat."
+        },
+        {
+            "text": "On one half of the tortilla, layer on the ingredients in the following order: cheese, pineapple, cheese, spices and then the pizza sauce."
+        },
+        {
+            "text": "Fold the other half of the tortilla over and carefully place it in skillet."
+        },
+        {
+            "text": "Squish it with a spatula to ensure that all the ingredients get friendly with one another."
+        },
+        {
+            "text": "Flip a few times while heating over medium heat and remove if from the pan when the tortilla is nice and brown and the cheese is melted."
+        },
+        {
+            "text": "Cut into slices and scarf down with zero guilt!"
+        }
+    ]
+}

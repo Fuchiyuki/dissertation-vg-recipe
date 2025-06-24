@@ -1,0 +1,112 @@
+{
+    "title": "smoked_duck_pizza_with_hoisin_recipe",
+    "id": "fc544ff337",
+    "table": [
+        {
+            "instructions": "line the bottom of the oven with aluminum foil",
+            "input": "NA",
+            "action": "line",
+            "output": "NA"
+        },
+        {
+            "instructions": "heat to 450 degrees f .",
+            "input": "NA",
+            "action": "heat",
+            "output": "NA"
+        },
+        {
+            "instructions": "brush pizza_crust with hoisin_sauce",
+            "input": "(pizza_crust; hoisin sauce)",
+            "action": "brush",
+            "output": "brushed_pizza_crust with hoisin sauce"
+        },
+        {
+            "instructions": "top with red onion .",
+            "input": "(red onion; brushed_pizza_crust with hoisin sauce)",
+            "action": "top",
+            "output": "pizza crust with hoisin sauce topped with red onion"
+        },
+        {
+            "instructions": "arrange smoked duck_breast in a circle",
+            "input": "(pizza crust with hoisin sauce and red onion; smoked duck breast)",
+            "action": "arrange",
+            "output": "smoked duck breast arranged on pizza crust with hoisin sauce and red onion"
+        },
+        {
+            "instructions": "top with cheese .",
+            "input": "(pizza crust pizza crust with hoisin sauce, red onion and smoked duck breast; cheese)",
+            "action": "top",
+            "output": "pizza crust with hoisin sauce, red onion and smoked duck breast topped with cheese"
+        },
+        {
+            "instructions": "place pizza directly on the oven rack",
+            "input": "uncooked smoked_duck_pizza_with_hoisin_recipe",
+            "action": "place",
+            "output": "uncooked smoked_duck_pizza_with_hoisin_recipe"
+        },
+        {
+            "instructions": "bake until golden and crisp , about 5 to 7 minutes .",
+            "input": "uncooked smoked_duck_pizza_with_hoisin_recipe",
+            "action": "bake",
+            "output": "baked smoked_duck_pizza_with_hoisin_recipe"
+        },
+        {
+            "instructions": "top with cilantro and red_pepper_flake if using",
+            "input": "baked smoked_duck_pizza_with_hoisin_recipe, cilantro, red pepper flake",
+            "action": "top",
+            "output": "baked smoked_duck_pizza_with_hoisin_recipe topped with cilantro and red pepper flake"
+        },
+        {
+            "instructions": "cut into small squares if serving as an hors doeuvre ,",
+            "input": "baked smoked_duck_pizza_with_hoisin_recipe",
+            "action": "cut",
+            "output": "cut baked smoked_duck_pizza_with_hoisin_recipe"
+        },
+        {
+            "instructions": "serve .",
+            "input": "cut baked smoked_duck_pizza_with_hoisin_recipe",
+            "action": "serve",
+            "output": "served cut baked smoked_duck_pizza_with_hoisin_recipe"
+        }
+    ],
+    "ingredients": [
+        {
+            "text": "1 (11-inch) premade pizza crust or flatbread, such as Boboli, baked and cooled"
+        },
+        {
+            "text": "1/4 cup hoisin sauce"
+        },
+        {
+            "text": "1/2 medium red onion, halved and sliced paper thin"
+        },
+        {
+            "text": "1/4 pound smoked duck breast, thinly sliced"
+        },
+        {
+            "text": "3 ounces shredded Monterey Jack cheese (about 1 cup)"
+        },
+        {
+            "text": "2 tablespoons coarsely chopped fresh cilantro leaves"
+        },
+        {
+            "text": "Red pepper flakes (optional)"
+        }
+    ],
+    "recipe": [
+        {
+            "text": "Line the bottom of the oven with aluminum foil and heat to 450 degrees F."
+        },
+        {
+            "text": "Brush pizza crust with hoisin sauce and top with red onion."
+        },
+        {
+            "text": "Arrange smoked duck breast in a circle and top with cheese."
+        },
+        {
+            "text": "Place pizza directly on the oven rack and bake until golden and crisp, about 5 to 7 minutes."
+        },
+        {
+            "text": "Top with cilantro and red pepper flakes (if using), cut into small squares (if serving as an hors doeuvre), and serve."
+        }
+    ]
+}

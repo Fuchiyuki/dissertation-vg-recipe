@@ -1,0 +1,97 @@
+{
+    "title": "mediterranean_greek_pizza",
+    "id": "bc12b45a5b",
+    "table": [
+        {
+            "instructions": "pat the crust dough",
+            "input": "crust dough",
+            "action": "pat",
+            "output": "patted_crust"
+        },
+        {
+            "instructions": "combine all the sauce ingredients , stirring until smooth .",
+            "input": "sauce ingredients",
+            "action": "combine",
+            "output": "sauce"
+        },
+        {
+            "instructions": "divide between crusts .",
+            "input": "(patted crusts; sauce)",
+            "action": "divide",
+            "output": "patted crusts with sauce"
+        },
+        {
+            "instructions": "top each pizza with half the mozzarella_cheese , followed by other ingredients in order given .",
+            "input": "(patted crusts with sauce; mozzarella cheese; fresh spinach leaves; sliced red onions; sliced red bell pepper; sliced black olives; crumbled feta cheese; black pepper)",
+            "action": "top",
+            "output": "patted crusts with sauce, mozzarella cheese, fresh spinach leaves, sliced red onions, sliced red bell pepper, sliced black olives, crumbled feta cheese and black pepper"
+        },
+        {
+            "instructions": "bake in a preheated oven at 400aaf for 20 minutes or until cheese is browned and bubbly .",
+            "input": "uncooked mediterranean_greek_pizza",
+            "action": "bake",
+            "output": "baked mediterranean_greek_pizza"
+        }
+    ],
+    "ingredients": [
+        {
+            "text": "2 (14 inch) pizza crusts, unbaked (I use Pizza Dough and Sauce)"
+        },
+        {
+            "text": "1 (6 ounce) can tomato paste"
+        },
+        {
+            "text": "12 cup red wine or 12 cup water"
+        },
+        {
+            "text": "1 teaspoon italian seasoning"
+        },
+        {
+            "text": "1 teaspoon salt"
+        },
+        {
+            "text": "1 tablespoon sugar"
+        },
+        {
+            "text": "1 tablespoon olive oil"
+        },
+        {
+            "text": "1 lb mozzarella cheese, shredded"
+        },
+        {
+            "text": "14 cup small fresh spinach leaves"
+        },
+        {
+            "text": "12 red onions or 12 sweet vidalia onion, sliced very thin"
+        },
+        {
+            "text": "12 red bell pepper, sliced thin"
+        },
+        {
+            "text": "4 -6 ounces sliced black olives"
+        },
+        {
+            "text": "4 ounces feta cheese, crumbled"
+        },
+        {
+            "text": "black pepper"
+        }
+    ],
+    "recipe": [
+        {
+            "text": "Pat the crust dough out on two greased pizza pans."
+        },
+        {
+            "text": "Combine all the sauce ingredients, stirring until smooth."
+        },
+        {
+            "text": "Divide between crusts."
+        },
+        {
+            "text": "Top each pizza with half the mozzarella cheese, followed by other ingredients in order given."
+        },
+        {
+            "text": "Bake in a preheated oven at 400AAF for 20 minutes or until cheese is browned and bubbly."
+        }
+    ]
+}

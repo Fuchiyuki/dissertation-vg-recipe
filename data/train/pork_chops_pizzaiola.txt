@@ -1,0 +1,193 @@
+{
+    "title": "pork_chops_pizzaiola",
+    "id": "5e88830cbf",
+    "table": [
+        {
+            "instructions": "season chops with salt and pepper .",
+            "input": "(chops; salt; pepper)",
+            "actions": "season",
+            "output": "seasoned chops"
+        },
+        {
+            "instructions": "heat extra virgin_olive_oil in large skillet over medium high heat .",
+            "input": "extra virgin_olive_oil",
+            "actions": "heat",
+            "output": "heated extra virgin_olive_oil"
+        },
+        {
+            "instructions": "add the crushed_garlic",
+            "input": "(heated extra virgin_olive_oil; crushed_garlic)",
+            "actions": "add",
+            "output": "crushed garlic in heated olive_oil"
+        },
+        {
+            "instructions": "stir it around to flavor the oil .",
+            "input": "crushed garlic in heated olive_oil",
+            "actions": "stir",
+            "output": "stirred garlic in oil"
+        },
+        {
+            "instructions": "add in the chops",
+            "input": "(sizzling garlic in olive oil; seasoned chops)",
+            "actions": "add",
+            "output": "seasoned chops added to garlic and oil"
+        },
+        {
+            "instructions": "caramelize on both sides , 2 3 minutes per side .",
+            "input": "seasoned chops added to garlic and oil",
+            "actions": "caramelize",
+            "output": "caramelized chops"
+        },
+        {
+            "instructions": "remove the chops to a plate",
+            "input": "caramelized chops",
+            "actions": "remove",
+            "output": "caramelized chops"
+        },
+        {
+            "instructions": "stir in the fennel_seed , onions , red_pepper_flake , and oregano .",
+            "input": "(garlic oil; fennel_seed; onions; red_pepper_flake; oregano)",
+            "actions": "stir",
+            "output": "fennel_seed, onions, red_pepper_flake and oregano stirred in garlic oil"
+        },
+        {
+            "instructions": "reduce the heat",
+            "input": "cooking seasonings",
+            "actions": "reduce",
+            "output": "cooking seasonings"
+        },
+        {
+            "instructions": "cook for 7 8 minutes .",
+            "input": "cooking seasonings",
+            "actions": "cook",
+            "output": "cooking seasonings"
+        },
+        {
+            "instructions": "add the tomato_paste ,",
+            "input": "(cooking seasonings; tomato_paste)",
+            "actions": "add",
+            "output": "tomato_paste_added to cooking seasonings"
+        },
+        {
+            "instructions": "cook for 1 minute .",
+            "input": "cooking tomato paste and seasonings",
+            "actions": "cook",
+            "output": "cooking tomato paste and seasonings"
+        },
+        {
+            "instructions": "add the wine",
+            "input": "(cooking tomato paste and seasonings; wine)",
+            "actions": "add",
+            "output": "wine added to cooking tomato paste"
+        },
+        {
+            "instructions": "cook for another minute .",
+            "input": "wine and tomato sauce",
+            "actions": "cook",
+            "output": "cooking wine and tomato sauce"
+        },
+        {
+            "instructions": "stir in the stock",
+            "input": "(stock; wine and tomato sauce)",
+            "actions": "stir",
+            "output": "stock stirred in wine and tomato sauce"
+        },
+        {
+            "instructions": "combine well .",
+            "input": "tomato sauce",
+            "actions": "combine",
+            "output": "tomato sauce"
+        },
+        {
+            "instructions": "slide the chops back into the pan",
+            "input": "(caramelized chops; tomato sauce)",
+            "actions": "slide",
+            "output": "caramelized chops added to tomato sauce"
+        },
+        {
+            "instructions": "cover",
+            "input": "chops and tomato sauce",
+            "actions": "cover",
+            "output": "covered chops and tomato sauce"
+        },
+        {
+            "instructions": "simmer to finish cooking the chops , about 5 6 minutes .",
+            "input": "simmering chops and tomato sauce",
+            "actions": "simmer",
+            "output": "cooked chops pizzaiola"
+        }
+    ],
+    "ingredients": [
+        {
+            "text": "4 pork chops, 1 1/2 inch thick, bone in"
+        },
+        {
+            "text": "kosher salt"
+        },
+        {
+            "text": "fresh ground black pepper"
+        },
+        {
+            "text": "2 tablespoons extra virgin olive oil"
+        },
+        {
+            "text": "1 large garlic clove, crushed"
+        },
+        {
+            "text": "1 teaspoon fennel seed"
+        },
+        {
+            "text": "1 medium onion, chopped"
+        },
+        {
+            "text": "1 teaspoon crushed red pepper flakes"
+        },
+        {
+            "text": "1 teaspoon dried oregano or 2 sprigs fresh oregano, leaves chopped"
+        },
+        {
+            "text": "14 cup tomato paste"
+        },
+        {
+            "text": "1 cup red wine"
+        },
+        {
+            "text": "2 cups chicken stock"
+        }
+    ],
+    "recipe": [
+        {
+            "text": "Season chops with salt and pepper."
+        },
+        {
+            "text": "Heat extra virgin olive oil in large skillet over medium-high heat."
+        },
+        {
+            "text": "Add the crushed garlic and stir it around to flavor the oil."
+        },
+        {
+            "text": "Add in the chops and caramelize on both sides, 2 - 3 minutes per side."
+        },
+        {
+            "text": "Remove the chops to a plate and reserve."
+        },
+        {
+            "text": "Stir in the fennel seeds, onions, red pepper flakes, and oregano."
+        },
+        {
+            "text": "Reduce the heat and cook for 7 - 8 minutes."
+        },
+        {
+            "text": "Add the tomato paste, and cook for 1 minute."
+        },
+        {
+            "text": "Add the wine and cook for another minute."
+        },
+        {
+            "text": "Stir in the stock and combine well."
+        },
+        {
+            "text": "Slide the chops back into the pan, cover and simmer to finish cooking the chops, about 5 - 6 minutes."
+        }
+    ]
+}

@@ -1,0 +1,70 @@
+{
+    "title": "canadian_bacon_hawaiian_pizza",
+    "id": "fc2f9473e9",
+    "table": [
+        {
+            "instructions": "heat oven to 450f .",
+            "input": "NA",
+            "actions": "heat",
+            "output": "NA"
+        },
+        {
+            "instructions": "place crust on baking sheet ;",
+            "input": "crust",
+            "actions": "place",
+            "output": "crust"
+        },
+        {
+            "instructions": "spread with sauce .",
+            "input": "(crust; sauce)",
+            "actions": "spread",
+            "output": "sauce spread on crust"
+        },
+        {
+            "instructions": "top with remaining_ingredient .",
+            "input": "(remaining ingredient; crust with sauce)",
+            "actions": "top",
+            "output": "uncooked pizza"
+        },
+        {
+            "instructions": "bake 8 to 10 min .",
+            "input": "uncooked pizza",
+            "actions": "bake",
+            "output": "cooked pizza"
+        }
+    ],
+    "ingredients": [
+        {
+            "text": "1 Italian pizza crust (8 inch)"
+        },
+        {
+            "text": "1/4 cup CLASSICO Traditional Pizza Sauce"
+        },
+        {
+            "text": "1/2 cup KRAFT 2% Milk Shredded Mozzarella Cheese"
+        },
+        {
+            "text": "2 slices Canadian bacon, quartered"
+        },
+        {
+            "text": "1/4 cup well-drained canned pineapple tidbits"
+        }
+    ],
+    "recipe": [
+        {
+            "text": "Heat oven to 450F."
+        },
+        {
+            "text": "Place crust on baking sheet; spread with sauce."
+        },
+        {
+            "text": "Top with remaining ingredients."
+        },
+        {
+            "text": "Bake 8 to 10 min."
+        },
+        {
+            "text": "or until cheese is melted."
+        }
+    ]
+}

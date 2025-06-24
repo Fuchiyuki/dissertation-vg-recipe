@@ -1,0 +1,205 @@
+{
+    "title": "broccoli_tomato_and_smoked_ham_pizza_recipe",
+    "id": "10cdb93273",
+    "table": [
+        {
+            "instructions": "rub st ivel mono into flour lightly till the mix resembles breadcrumbs .",
+            "input": "(butter; flour)",
+            "action": "rub",
+            "output": "rubbed_butter into flour"
+        },
+        {
+            "instructions": "add in sufficient lowfat milk to create a soft dough",
+            "input": "(lowfat milk; butter and flour mix)",
+            "action": "add",
+            "output": "Dough made with butter, flour and milk and lowfat milk"
+        },
+        {
+            "instructions": "knead lightly .",
+            "input": "Dough made with butter, flour and milk and lowfat milk",
+            "action": "knead",
+            "output": "Kneaded dough"
+        },
+        {
+            "instructions": "roll dough out on a lightly floured surface , to a circle roughly 25 cm",
+            "input": "Kneaded dough",
+            "action": "roll",
+            "output": "Dough rolled out into a circle"
+        },
+        {
+            "instructions": "place the dough on a lightly greased baking sheet",
+            "input": "Dough rolled out into a circle",
+            "action": "place",
+            "output": "Dough rolled out into a circle"
+        },
+        {
+            "instructions": "make the edges slightly thicker than the centre .",
+            "input": "Dough rolled out into a circle",
+            "action": "make",
+            "output": "pizza base"
+        },
+        {
+            "instructions": "spread the tomato puree over the pizza base",
+            "input": "(tomato puree; pizza base)",
+            "action": "spread",
+            "output": "tomato puree spread on pizza base"
+        },
+        {
+            "instructions": "heat the oil in a saucepan",
+            "input": "Oil",
+            "action": "heat",
+            "output": "Heated oil"
+        },
+        {
+            "instructions": "add in the onion , garlic , red_pepper and mushrooms",
+            "input": "(Onion; garlic; red pepper; mushrooms; heated oil)",
+            "action": "add",
+            "output": "Onions, garlic, red pepper and mushrooms in heated oil"
+        },
+        {
+            "instructions": "cook for 5 min , stirring occasionally .",
+            "input": "",
+            "action": "cook",
+            "output": "cooking vegetable mix"
+        },
+        {
+            "instructions": "season with salt and pepper",
+            "input": "(cooking vegetable mix; salt; pepper)",
+            "action": "season",
+            "output": "Seasoned cooking vegetable mix"
+        },
+        {
+            "instructions": "spread the mix over the pizza , base .",
+            "input": "(Pizza base with tomato puree; cooked vegetable mix)",
+            "action": "spread",
+            "output": "Pizza base with tomato puree, onions, red pepper and mushroom mixture spread on top"
+        },
+        {
+            "instructions": "place the broccoli , ham and tomatoes on the vegetables .",
+            "input": "(Broccoli, ham; tomatoes; Pizza base with tomato puree, onions, red pepper and mushroom mixture spread on top)",
+            "action": "place",
+            "output": "broccoli, ham and tomatoes on top of Pizza base with tomato puree, onions, red pepper and mushroom mixture"
+        },
+        {
+            "instructions": "mix the two cheeses together",
+            "input": "cheeses",
+            "action": "mix",
+            "output": "Two cheeses mixed together"
+        },
+        {
+            "instructions": "sprinkle over the pizza .",
+            "input": "(mozzarella cheese; cheddar cheese)",
+            "action": "sprinkle",
+            "output": "broccoli tomato and smoked ham pizza with mixed cheeses sprinkled on top"
+        },
+        {
+            "instructions": "bake in a preheated oven at 220c 425f gas mark 7 for 25 30 min , till golden .",
+            "input": "uncooked broccoli_tomato_and_smoked_ham_pizza",
+            "action": "bake",
+            "output": "Baked broccoli_tomato_and_smoked_ham_pizza"
+        },
+        {
+            "instructions": "serve the pizza warm or possibly cool with a fresh mixed salad or possibly coleslaw .",
+            "input": "Baked broccoli_tomato_and_smoked_ham_pizza",
+            "action": "serve",
+            "output": "served Baked broccoli_tomato_and_smoked_ham_pizza"
+        }
+    ],
+    "ingredients": [
+        {
+            "text": "225 gm Plain wholemeal flour, (8oz)"
+        },
+        {
+            "text": "1 pch salt"
+        },
+        {
+            "text": "10 ml Baking pwdr, (2tsp)"
+        },
+        {
+            "text": "50 gm St Ivel Mono, (2oz) Approximately 150 ml, (0.25pt) semi-skimmed lowfat milk"
+        },
+        {
+            "text": "30 ml Tomato puree, (2tsp)"
+        },
+        {
+            "text": "10 ml Dry mixed herbs, (2tsp)"
+        },
+        {
+            "text": "10 ml Rapeseed oil, (2tsp)"
+        },
+        {
+            "text": "1 x Onion, skinned and sliced"
+        },
+        {
+            "text": "1 x Clove garlic, skinned and crushed"
+        },
+        {
+            "text": "1 sm Red pepper, seeded and sliced"
+        },
+        {
+            "text": "175 gm Mushrooms, sliced (6oz) Salt and freshly grnd black pepper"
+        },
+        {
+            "text": "225 gm Broccoli florets, blanched (8oz)"
+        },
+        {
+            "text": "175 gm Cooked smoked ham, trimmed and diced (6oz)"
+        },
+        {
+            "text": "4 x Tomatoes, sliced"
+        },
+        {
+            "text": "75 gm Cheddar cheese, grated (3oz)"
+        },
+        {
+            "text": "75 gm Mozzarella cheese, grated (3oz)"
+        }
+    ],
+    "recipe": [
+        {
+            "text": "Sift the flour, salt and baking pwdr into a bowl."
+        },
+        {
+            "text": "Rub St Ivel Mono into flour lightly till the mix resembles breadcrumbs."
+        },
+        {
+            "text": "Add in sufficient lowfat milk to create a soft dough and knead lightly."
+        },
+        {
+            "text": "Roll dough out on a lightly floured surface, to a circle roughly 25cm"
+        },
+        {
+            "text": "(10 inch) in diameter."
+        },
+        {
+            "text": "Place the dough on a lightly greased baking sheet and make the edges slightly thicker than the centre."
+        },
+        {
+            "text": "Spread the tomato puree over the pizza base and sprinkle the herbs on top."
+        },
+        {
+            "text": "Heat the oil in a saucepan and add in the onion, garlic, red pepper and mushrooms and cook for 5 min, stirring occasionally."
+        },
+        {
+            "text": "Season with salt and pepper and spread the mix over the pizza base."
+        },
+        {
+            "text": "Place the broccoli, ham and tomatoes on the vegetables."
+        },
+        {
+            "text": "Mix the two cheeses together and sprinkle over the pizza."
+        },
+        {
+            "text": "Bake in a preheated oven at 220C / 425F gas mark 7 for 25-30 min, till golden."
+        },
+        {
+            "text": "Serve the pizza warm or possibly cool with a fresh mixed salad or possibly coleslaw."
+        },
+        {
+            "text": "Variation:Instead of making up your own pizza base, use a packet mix and make it up following the manufacturer's instructions."
+        },
+        {
+            "text": "Use the pizza base as the basis for other delicious toppings such as cheese, ham & pineapple, seafood, chilli sauce, chicken & mushroom or possibly stilton & asparagus."
+        }
+    ]
+}

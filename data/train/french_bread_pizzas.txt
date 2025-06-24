@@ -1,0 +1,145 @@
+{
+    "title": "french_bread_pizzas",
+    "id": "aab80fcc1f",
+    "table": [
+        {
+            "instructions": "preheat the oven to 375 degrees .",
+            "input": "NA",
+            "action": "preheat",
+            "output": "NA"
+        },
+        {
+            "instructions": "slice rolls in half",
+            "input": "rolls",
+            "action": "slice",
+            "output": "sliced_rolls in half"
+        },
+        {
+            "instructions": "lay them , cut side up , on a large baking sheet .",
+            "input": "sliced_rolls in half",
+            "action": "lay",
+            "output": "sliced_rolls in half"
+        },
+        {
+            "instructions": "top each half with a generous portion of either marinara or pesto .",
+            "input": "marinara sauce; sliced_rolls in half",
+            "action": "top",
+            "output": "sliced_rolls in half topped with marinara"
+        },
+        {
+            "instructions": "next , top with a generous amount of grated mozzarella and parmesan , if you d like .",
+            "input": "sliced_rolls in half topped with marinara; grated mozzarella; grated parmesan",
+            "action": "top",
+            "output": "sliced_rolls in half topped with marinara, grated mozzarella and grated parmesan"
+        },
+        {
+            "instructions": "add whatever toppings you d like on top of the cheese !",
+            "input": "toppings; sliced_rolls in half topped with marinara, grated mozzarella and grated parmesan",
+            "action": "add",
+            "output": "sliced_rolls in half topped with marinara, grated mozzarella, grated parmesan and toppings"
+        },
+        {
+            "instructions": "once all assembled , put the pan in the oven on the lowest rack for 8 to 10 minutes .",
+            "input": "sliced_rolls in half topped with marinara, grated mozzarella, grated parmesan and toppings",
+            "action": "put",
+            "output": "baking pizza rolls"
+        },
+        {
+            "instructions": "put it on the highest rack until the cheese starts to bubble a bit",
+            "input": "baking pizza rolls",
+            "action": "put",
+            "output": "baking pizza rolls"
+        },
+        {
+            "instructions": "turn golden .",
+            "input": "baking pizza rolls",
+            "action": "turn",
+            "output": "baking pizza rolls"
+        },
+        {
+            "instructions": "remove",
+            "input": "baking pizza rolls",
+            "action": "remove",
+            "output": "baked pizza rolls"
+        },
+        {
+            "instructions": "serve immediately !",
+            "input": "baked pizza rolls",
+            "action": "serve",
+            "output": "baked pizza rolls ready to serve"
+        }
+    ],
+    "ingredients": [
+        {
+            "text": "6 whole Deli Rolls Or Crusty Italian Rolls"
+        },
+        {
+            "text": "Jarred Marinara Sauce Or Pizza Sauce"
+        },
+        {
+            "text": "Jarred Or Refrigerated Pesto"
+        },
+        {
+            "text": "2 pounds Mozzarella Cheese, Grated"
+        },
+        {
+            "text": "Grated Parmesan Cheese To Taste"
+        },
+        {
+            "text": "2 Tablespoons Butter"
+        },
+        {
+            "text": "1 whole Onion, Sliced"
+        },
+        {
+            "text": "1/2 pounds Sausage (regular Breakfast Sausage Or Italian Sausage)"
+        },
+        {
+            "text": "Pepperoni Slices"
+        },
+        {
+            "text": "Canadian Bacon Slices"
+        },
+        {
+            "text": "Pineapple Chunks, Fresh Or Canned"
+        },
+        {
+            "text": "Roma Tomatoes, Sliced"
+        },
+        {
+            "text": "Sliced Black Olives"
+        },
+        {
+            "text": "Optional Ingredients: Goat Cheese, Sliced Bell Peppers, Various Cheeses, Pepperoncinis, Jalapeno Slices, Diced Red Onion, Any Other Pizza Topping You'd Like!"
+        }
+    ],
+    "recipe": [
+        {
+            "text": "Preheat the oven to 375 degrees."
+        },
+        {
+            "text": "Slice rolls in half and lay them, cut side up, on a large baking sheet."
+        },
+        {
+            "text": "Top each half with a generous portion of either marinara or pesto."
+        },
+        {
+            "text": "Next, top with a generous amount of grated mozzarella and Parmesan, if youd like."
+        },
+        {
+            "text": "Add whatever toppings youd like on top of the cheese!"
+        },
+        {
+            "text": "Once all assembled, put the pan in the oven on the lowest rack for 8 to 10 minutes."
+        },
+        {
+            "text": "Crank up the heat to 425 and put it on the highest rack until the cheese starts to bubble a bit and turn golden."
+        },
+        {
+            "text": "Remove and serve immediately!"
+        },
+        {
+            "text": "You can cut the pizzas in half right across the middle so there are mini-French Bread Pizzas for everyone."
+        }
+    ]
+}

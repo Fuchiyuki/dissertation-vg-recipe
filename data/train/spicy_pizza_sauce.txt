@@ -1,0 +1,145 @@
+{
+    "title": "spicy_pizza_sauce",
+    "id": "41a5c003ae",
+    "table": [
+        {
+            "instructions": "heat a large saucepan over medium high heat .",
+            "input": "NA",
+            "action": "heat",
+            "output": "NA"
+        },
+        {
+            "instructions": "coat pan with cooking_spray .",
+            "input": "NA",
+            "action": "coat",
+            "output": "NA"
+        },
+        {
+            "instructions": "add onion to pan ;",
+            "input": "onion",
+            "action": "add",
+            "output": "onion"
+        },
+        {
+            "instructions": "saute 3 minutes or until tender .",
+            "input": "onion",
+            "action": "saute",
+            "output": "sauteed onion"
+        },
+        {
+            "instructions": "add garlic to pan ;",
+            "input": "sauteed onion, garlic",
+            "action": "add",
+            "output": "garlic added to sauteed onion"
+        },
+        {
+            "instructions": "saute 30 seconds .",
+            "input": "garlic added to sauteed onion",
+            "action": "saute",
+            "output": "sauteed onion and garlic mix"
+        },
+        {
+            "instructions": "stir in wine ;",
+            "input": "sauteed onion and garlic mix, wine",
+            "action": "stir",
+            "output": "wine stirrred into sauteed onion and garlic mix"
+        },
+        {
+            "instructions": "cook 30 seconds .",
+            "input": "wine stirrred into sauteed onion and garlic mix",
+            "action": "cook",
+            "output": "onion, garlic and wine sauce"
+        },
+        {
+            "instructions": "add tomato_paste , oregano , crushed_red_pepper , black_pepper , and tomatoes .",
+            "input": "onion, garlic and wine sauce, tomato_paste, oregano , crushed_red_pepper , black_pepper , and tomatoes",
+            "action": "add",
+            "output": "tomato_paste, oregano , crushed_red_pepper , black_pepper and tomatoes added to onion, garlic and wine sauce"
+        },
+        {
+            "instructions": "reduce heat ,",
+            "input": "simmering pizza sauce",
+            "action": "reduce",
+            "output": "simmering pizza sauce"
+        },
+        {
+            "instructions": "simmer for 20 minutes or until thick .",
+            "input": "simmering pizza sauce",
+            "action": "simmer",
+            "output": "simmering pizza sauce"
+        },
+        {
+            "instructions": "remove from heat ;",
+            "input": "simmering pizza sauce",
+            "action": "remove",
+            "output": "cooked pizza sauce"
+        },
+        {
+            "instructions": "stir in vinegar .",
+            "input": "cooked pizza sauce; vinegar",
+            "action": "stir",
+            "output": "cooked pizza sauce with stirred in vinegar"
+        }
+    ],
+    "ingredients": [
+        {
+            "text": "Cooking spray"
+        },
+        {
+            "text": "1/4 cup finely chopped onion"
+        },
+        {
+            "text": "1 garlic clove, minced"
+        },
+        {
+            "text": "1/4 cup white wine"
+        },
+        {
+            "text": "2 tablespoons tomato paste"
+        },
+        {
+            "text": "1 teaspoon dried oregano"
+        },
+        {
+            "text": "1/2 teaspoon crushed red pepper"
+        },
+        {
+            "text": "1/8 teaspoon freshly ground black pepper"
+        },
+        {
+            "text": "1 (14.5-ounce) can crushed tomatoes, undrained"
+        },
+        {
+            "text": "1/2 teaspoon balsamic vinegar"
+        }
+    ],
+    "recipe": [
+        {
+            "text": "Heat a large saucepan over medium-high heat."
+        },
+        {
+            "text": "Coat pan with cooking spray."
+        },
+        {
+            "text": "Add onion to pan; saute 3 minutes or until tender."
+        },
+        {
+            "text": "Add garlic to pan; saute 30 seconds."
+        },
+        {
+            "text": "Stir in wine; cook 30 seconds."
+        },
+        {
+            "text": "Add tomato paste, oregano, crushed red pepper, black pepper, and tomatoes."
+        },
+        {
+            "text": "Reduce heat, and simmer for 20 minutes or until thick."
+        },
+        {
+            "text": "Remove from heat; stir in vinegar."
+        },
+        {
+            "text": "Cool.Note: Nutritional analysis is for 1 1/3 cups Spicy Pizza Sauce."
+        }
+    ]
+}

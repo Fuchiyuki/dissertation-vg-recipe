@@ -1,0 +1,130 @@
+{
+    "title": "zucchini_bread_breakfast_pizza",
+    "id": "55d62c3287",
+    "table": [
+        {
+            "instructions": "preheat oven to 350 degrees f 175 degrees c.",
+            "input": "NA",
+            "actions": "preheat",
+            "output": "NA"
+        },
+        {
+            "instructions": "line a baking sheet with parchment paper .",
+            "input": "NA",
+            "actions": "line",
+            "output": "NA"
+        },
+        {
+            "instructions": "combine coconut_flour and cinnamon in a bowl .",
+            "input": "(coconut_flour; cinnamon)",
+            "actions": "combine",
+            "output": "(combined_coconut_flour; cinnamon)"
+        },
+        {
+            "instructions": "add zucchini , egg , 1 12 teaspoon , maple_syrup , and vanilla_extract",
+            "input": "combined_coconut_four, cinnamon",
+            "actions": "add",
+            "output": "zucchini_mixture"
+        },
+        {
+            "instructions": "mix well .",
+            "input": "zucchini_mixture",
+            "actions": "mix",
+            "output": "zucchini_mixture"
+        },
+        {
+            "instructions": "spread zucchini mixture into the form of a pizza_crust on the prepared baking sheet .",
+            "input": "zucchini_mixture",
+            "actions": "spread",
+            "output": "uncooked_pizza_crust"
+        },
+        {
+            "instructions": "bake in the preheated oven until zucchini crust is cooked through , about 15 minutes .",
+            "input": "uncooked_pizza_crust",
+            "actions": "bake",
+            "output": "cooked_pizza_crust"
+        },
+        {
+            "instructions": "cool crust .",
+            "input": "cooked_pizza_crust",
+            "actions": "cool",
+            "output": "pizza_crust"
+        },
+        {
+            "instructions": "spread yogurt onto zucchini crust",
+            "input": "pizza_crust",
+            "actions": "spread",
+            "output": "untopped_pizza_crust"
+        },
+        {
+            "instructions": "top with strawberries , grapes , banana , orange_zest , and a drizzle of maple_syrup .",
+            "input": "untooped_pizza_crust",
+            "actions": "top",
+            "output": "pizza"
+        }
+    ],
+    "ingredients": [
+        {
+            "text": "2 tablespoons coconut flour"
+        },
+        {
+            "text": "1/8 teaspoon ground cinnamon"
+        },
+        {
+            "text": "1/2 cup shredded zucchini"
+        },
+        {
+            "text": "1 egg, beaten"
+        },
+        {
+            "text": "1 1/2 teaspoons pure maple syrup"
+        },
+        {
+            "text": "1/8 teaspoon vanilla extract"
+        },
+        {
+            "text": "1/4 cup Greek yogurt"
+        },
+        {
+            "text": "2 fresh strawberries, hulled and sliced"
+        },
+        {
+            "text": "4 grapes, halved"
+        },
+        {
+            "text": "1/2 banana, sliced"
+        },
+        {
+            "text": "1/4 teaspoon orange zest, or to taste (optional)"
+        },
+        {
+            "text": "1 teaspoon maple syrup, or to taste (optional)"
+        }
+    ],
+    "recipe": [
+        {
+            "text": "Preheat oven to 350 degrees F (175 degrees C)."
+        },
+        {
+            "text": "Line a baking sheet with parchment paper."
+        },
+        {
+            "text": "Combine coconut flour and cinnamon in a bowl."
+        },
+        {
+            "text": "Add zucchini, egg, 1 1/2 teaspoon maple syrup, and vanilla extract and mix well."
+        },
+        {
+            "text": "Spread zucchini mixture into the form of a pizza crust on the prepared baking sheet."
+        },
+        {
+            "text": "Bake in the preheated oven until zucchini \"crust\" is cooked through, about 15 minutes."
+        },
+        {
+            "text": "Cool \"crust\"."
+        },
+        {
+            "text": "Spread yogurt onto zucchini \"crust\" and top with strawberries, grapes, banana, orange zest, and a drizzle of maple syrup."
+        }
+    ]
+}

@@ -1,0 +1,223 @@
+{
+    "title": "holiday_pizza",
+    "id": "79a9a87307",
+    "table": [
+        {
+            "instructions": "preheat oven to 350 degrees f .",
+            "input": "NA",
+            "action": "preheat",
+            "output": "NA"
+        },
+        {
+            "instructions": "toss to combine",
+            "input": "NA",
+            "action": "toss",
+            "output": "NA"
+        },
+        {
+            "instructions": "set aside .",
+            "input": "NA",
+            "action": "set",
+            "output": "NA"
+        },
+        {
+            "instructions": "combine carrot , celery , zucchini , peppers , olive_oil , pine nuts and the sauce base ,",
+            "input": "(carrot; celery; zucchini; peppers; olive_oil; pine nuts; sauce base)",
+            "action": "combine",
+            "output": "vegetables mixture"
+        },
+        {
+            "instructions": "meanwhile , bake the eggplant until softened , about 20 minutes .",
+            "input": "eggplant",
+            "action": "bake",
+            "output": "baked softened eggplant"
+        },
+        {
+            "instructions": "let cool slightly ,",
+            "input": "baked eggplant",
+            "action": "cool",
+            "output": "cooled baked eggplant"
+        },
+        {
+            "instructions": "remove peel",
+            "input": "unpeeled eggplant",
+            "action": "remove",
+            "output": "peeled eggplant"
+        },
+        {
+            "instructions": "mash flesh .",
+            "input": "peeled eggplant",
+            "action": "mash",
+            "output": "mashed eggplant"
+        },
+        {
+            "instructions": "add to vegetables .",
+            "input": "(vegetables mixture; mashed eggplant)",
+            "action": "add",
+            "output": "vegetables mixed with mashed eggplant"
+        },
+        {
+            "instructions": "simmer until eggplant combines with vegetable sauce , about 5 to 10 minutes .",
+            "input": "vegetables mixed with mashed eggplant",
+            "action": "simmer",
+            "output": "cooked vegetable sauce with mashed eggplant"
+        },
+        {
+            "instructions": "set aside .",
+            "input": "cooked vegetable sauce with mashed eggplant",
+            "action": "set",
+            "output": "cooked vegetable sauce with mashed eggplant"
+        },
+        {
+            "instructions": "for the pizza stretch the dough out into a large pizza\u2012pan or baking sheet .",
+            "input": "pizza dough",
+            "action": "stretch",
+            "output": "stretched pizza crust"
+        },
+        {
+            "instructions": "spread with the vegetable sauce .",
+            "input": "(vegetable sauce; stretched pizza crust)",
+            "action": "spread",
+            "output": "vegetable sauce spread over crust"
+        },
+        {
+            "instructions": "top with mozzarella chunks , chicken , tuna and grated cheese .",
+            "input": "(mozzarella chunks , chicken , tuna; grated cheese; vegetable sauce spread over crust)",
+            "action": "top",
+            "output": "Pizza crust topped with vegetable sauce, mozzarella chunks , chicken , tuna and grated cheese"
+        },
+        {
+            "instructions": "bake in the oven at 350 degrees f for 10 minutes ,",
+            "input": "Uncooked chicken , tuna and vegetable pizza",
+            "action": "bake",
+            "output": "Baked chicken , tuna and vegetable pizza"
+        },
+        {
+            "instructions": "bake until bottom crust is brown and crispy , about 8 minutes .",
+            "input": "Baked chicken , tuna and vegetable pizza",
+            "action": "bake",
+            "output": "Baked chicken , tuna and vegetable pizza"
+        },
+        {
+            "instructions": "if desired , garnish with cooked tri color pasta .",
+            "input": "(optional cooked tri color pasta; Baked chicken , tuna and vegetable pizza)",
+            "action": "garnish",
+            "output": "Baked chicken , tuna and vegetable pizza garnished with optional cooked tri color pasta"
+        }
+    ],
+    "ingredients": [
+        {
+            "text": "12 ounces plum tomatoes, seeded and chopped"
+        },
+        {
+            "text": "1 1/3 ounces tomato paste"
+        },
+        {
+            "text": "1/4 teaspoon olive oil"
+        },
+        {
+            "text": "Kosher salt and freshly ground black pepper"
+        },
+        {
+            "text": "Garlic powder, for seasoning"
+        },
+        {
+            "text": "8 fresh basil leaves, torn"
+        },
+        {
+            "text": "1 carrot, chopped"
+        },
+        {
+            "text": "1 rib celery, chopped"
+        },
+        {
+            "text": "1 small eggplant, chopped"
+        },
+        {
+            "text": "1 zucchini, chopped"
+        },
+        {
+            "text": "1/2 green bell pepper, sliced"
+        },
+        {
+            "text": "1/2 yellow bell pepper, sliced"
+        },
+        {
+            "text": "1 roasted red bell pepper, sliced"
+        },
+        {
+            "text": "1/4 cup olive oil"
+        },
+        {
+            "text": "1 ounce pine nuts"
+        },
+        {
+            "text": "1 small eggplant"
+        },
+        {
+            "text": "24 ounces pizza dough"
+        },
+        {
+            "text": "1/3 pound fresh mozzarella, cut into chunks"
+        },
+        {
+            "text": "1 pound fresh buffalo mozzarella, cut into chunks"
+        },
+        {
+            "text": "6 ounces cooked chicken, diced or shredded"
+        },
+        {
+            "text": "6 ounces cooked tuna, diced or shredded"
+        },
+        {
+            "text": "2 ounces grated romano cheese"
+        },
+        {
+            "text": "Cooked tri-color pasta, for garnish, optional"
+        }
+    ],
+    "recipe": [
+        {
+            "text": "Preheat oven to 350 degrees F."
+        },
+        {
+            "text": "For the sauce base: Combine all ingredients in a large bowl."
+        },
+        {
+            "text": "Toss to combine and set aside."
+        },
+        {
+            "text": "For the vegetables: In a large saucepan over medium-low heat, combine carrot, celery, zucchini, peppers, olive oil, pine nuts and the sauce base, and let simmer for 45 minutes."
+        },
+        {
+            "text": "Meanwhile, bake the eggplant until softened, about 20 minutes."
+        },
+        {
+            "text": "Let cool slightly, then remove peel and mash flesh."
+        },
+        {
+            "text": "Add to vegetables."
+        },
+        {
+            "text": "Simmer until eggplant combines with vegetable sauce, about 5 to 10 minutes."
+        },
+        {
+            "text": "Set aside."
+        },
+        {
+            "text": "For the pizza: stretch the dough out into a large pizza pan or baking sheet."
+        },
+        {
+            "text": "Spread with the vegetable sauce."
+        },
+        {
+            "text": "Top with mozzarella chunks, chicken, tuna and grated cheese."
+        },
+        {
+            "text": "Bake in the oven at 350 degrees F for 10 minutes, then increase oven temperature to 450 degrees F and bake until bottom crust is brown and crispy, about 8 minutes."
+        },
+        {
+            "text": "If desired, garnish with cooked tri-color pasta."
+        }
+    ]
+}

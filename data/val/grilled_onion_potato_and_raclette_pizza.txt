@@ -1,0 +1,193 @@
+{
+    "title": "grilled_onion_potato_and_raclette_pizza",
+    "id": "5c5028ed14",
+    "table": [
+        {
+            "instructions": "simmer potatoes in it for 20 minutes or until easily pierced with a fork .",
+            "input": "Uncooked potatoes",
+            "actions": "simmer",
+            "output": "Cooked potatoes"
+        },
+        {
+            "instructions": "when done , drain",
+            "input": "Cooked potatoes",
+            "actions": "drain",
+            "output": "drained cooked potatoes"
+        },
+        {
+            "instructions": "cut into 14 thick slices .",
+            "input": "cooked potatoes",
+            "actions": "cut",
+            "output": "sliced cooked potatoes"
+        },
+        {
+            "instructions": "meanwhile, in a medium skillet over medium low heat , sautee the sliced onion with 1 teaspoon of the oregano and the two tablespoons olive_oil until onions are translucent , or about 15 minutes ;",
+            "input": "(sliced onion; oregano; olive oil)",
+            "actions": "sautee",
+            "output": "sauteed onion with oregano"
+        },
+        {
+            "instructions": "set aside .",
+            "input": "sauteed onion with oregano",
+            "actions": "set",
+            "output": "sauteed onion with oregano"
+        },
+        {
+            "instructions": "season with salt , pepper and remaining oregano .",
+            "input": "(sauteed onion with oregano; salt; pepper; remaining oregano)",
+            "actions": "season",
+            "output": "seasoned sauteed onion mixture"
+        },
+        {
+            "instructions": "sprinkle with the garlic .",
+            "input": "(seasoned sauteed onion mixture; garlic)",
+            "actions": "sprinkle",
+            "output": "seasoned sauteed onion mixture with garlic"
+        },
+        {
+            "instructions": "top with slices of potato ,",
+            "input": "(seasoned sauteed onion mixture; sliced potatoes)",
+            "actions": "top",
+            "output": "seasoned sauteed onion mixture topped with sliced potato"
+        },
+        {
+            "instructions": "tear the raclette into pieces",
+            "input": "Whole raclette",
+            "actions": "tear",
+            "output": "teared raclette"
+        },
+        {
+            "instructions": "scatter over the potato slices .",
+            "input": "(teared raclette; onion mixture with sliced potatoes)",
+            "actions": "scatter",
+            "output": "Raclette scattered over sliced potatoes on onion mixture"
+        },
+        {
+            "instructions": "finally , spread the onion_slice on top of the potatoes and cheese .",
+            "input": "(onion_slice; onion mixture, potato and raclette layers)",
+            "actions": "spread",
+            "output": "Sliced onions spread on top of onion mixture, potato and raclette layers"
+        },
+        {
+            "instructions": "grill on medium low heat for 5 7 minutes ,",
+            "input": "uncooked onion, potato and raclette pizza",
+            "actions": "grill",
+            "output": "grilled onion, potato and raclette pizza"
+        },
+        {
+            "instructions": "shut grill off",
+            "input": "NA",
+            "actions": "shut",
+            "output": "NA"
+        },
+        {
+            "instructions": "watch closely if browning too quickly",
+            "input": "NA",
+            "actions": "watch",
+            "output": "NA"
+        },
+        {
+            "instructions": "move pizza to top rack of grill .",
+            "input": "grilled onion, potato and raclette pizza",
+            "actions": "move",
+            "output": "grilled onion, potato and raclette pizza"
+        },
+        {
+            "instructions": "remove to serving plate",
+            "input": "grilled onion, potato and raclette pizza",
+            "actions": "remove",
+            "output": "grilled onion, potato and raclette pizza"
+        },
+        {
+            "instructions": "drizzle with olive_oil",
+            "input": "(grilled onion, potato and raclette pizza; olive oil)",
+            "actions": "drizzle",
+            "output": "grilled onion, potato and raclette pizza drizzled with olive oil"
+        },
+        {
+            "instructions": "season with salt , pepper and the fresh_lemon_juice squeezed over top .",
+            "input": "(grilled onion, potato and raclette pizza; salt; pepper; lemon juice)",
+            "actions": "season",
+            "output": "grilled onion, potato and raclette pizza seasoned with salt, pepper and lemon juice"
+        },
+        {
+            "instructions": "serve immediately .",
+            "input": "grilled onion, potato and raclette pizza",
+            "actions": "serve",
+            "output": "grilled onion, potato and raclette pizza"
+        }
+    ],
+    "ingredients": [
+        {
+            "text": "1 pizza crust, 10 inches in diameter, pre-baked"
+        },
+        {
+            "text": "4 potatoes"
+        },
+        {
+            "text": "2 onions, sliced"
+        },
+        {
+            "text": "2 garlic cloves, chopped"
+        },
+        {
+            "text": "4 ounces raclette cheese, in thick slices"
+        },
+        {
+            "text": "14 lemon"
+        },
+        {
+            "text": "2 teaspoons dried oregano"
+        },
+        {
+            "text": "2 tablespoons olive oil (plus more for drizzling)"
+        },
+        {
+            "text": "salt"
+        },
+        {
+            "text": "black pepper, freshly ground"
+        }
+    ],
+    "recipe": [
+        {
+            "text": "If you aren't using a pre-baked pizza dough, bake the raw dough until 10 minutes shy of being done before using in the recipe."
+        },
+        {
+            "text": "The author mentions adding a thin layer of tomato sauce prior to baking the crust."
+        },
+        {
+            "text": "Bring a pot of lightly salted water to the boil and simmer potatoes in it for 20 minutes or until easily pierced with a fork."
+        },
+        {
+            "text": "When done, drain, cool and cut into 1/4\"-thick slices."
+        },
+        {
+            "text": "Meanwhile, in a medium skillet over medium-low heat, sautee the sliced onion with 1 teaspoon of the oregano and the two tablespoons olive oil until onions are translucent, or about 15 minutes; set aside."
+        },
+        {
+            "text": "To assemble the pizza: Drizzle the prepared crust with olive oil and season with salt, pepper and remaining oregano."
+        },
+        {
+            "text": "Sprinkle with the garlic."
+        },
+        {
+            "text": "Top with slices of potato, then tear the raclette into pieces and scatter over the potato slices."
+        },
+        {
+            "text": "Finally, spread the onion slices on top of the potatoes and cheese."
+        },
+        {
+            "text": "Grill on medium-low heat for 5-7 minutes, then shut grill off and let pizza sit for 5 minutes or until the cheese has melted and the pizza is crispy and browned."
+        },
+        {
+            "text": "Watch closely--If browning too quickly, move pizza to top rack of grill."
+        },
+        {
+            "text": "Remove to serving plate, drizzle with olive oil and season with salt, pepper and the fresh lemon juice squeezed over top."
+        },
+        {
+            "text": "Serve immediately."
+        }
+    ]
+}

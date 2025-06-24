@@ -1,0 +1,103 @@
+{
+    "title": "cambozola_pita_pizzas",
+    "id": "de25829f29",
+    "table": [
+        {
+            "instructions": "spread onions in shallow baking dish .",
+            "input": "onions",
+            "actions": "spread",
+            "output": "spread_onions"
+        },
+        {
+            "instructions": "dot with butter ;",
+            "input": "(spread_onions; butter)",
+            "actions": "dot",
+            "output": "spread_onions_dottet_with_butter"
+        },
+        {
+            "instructions": "sprinkle with brown_sugar , vinegar , salt and pepper to taste .",
+            "input": "(brown sugar; vinegar, salt and pepper)",
+            "actions": "sprinkle",
+            "output": "onion_dish_sprinkled_with_brwon_sugar, vinegar, salt and pepper"
+        },
+        {
+            "instructions": "bake , covered , in 300 ' f oven for 30 to 40 minutes or until tender , stirring once .",
+            "input": "uncooked onion mixture",
+            "actions": "bake",
+            "output": "baked onion mixture"
+        },
+        {
+            "instructions": "place pita_round on baking sheets .",
+            "input": "pita rounds",
+            "actions": "place",
+            "output": "pita rounds"
+        },
+        {
+            "instructions": "top each round with a spoonful of onion mixture , cheese and 2 to 4 slivers sundried tomatoes .",
+            "input": "(pita_rounds; onion mixture, cheese; sundried tomatoes)",
+            "actions": "top",
+            "output": "uncooked_pita_pizzas"
+        },
+        {
+            "instructions": "just before serving , bake pizzas in 375 ' f oven for 6 to 8 minutes or until lightly browned and bubbly .",
+            "input": "uncooked_pita_pizzas",
+            "actions": "bake",
+            "output": "cambozola_pita_pizzas"
+        }
+    ],
+    "ingredients": [
+        {
+            "text": "4 onions, thinly sliced"
+        },
+        {
+            "text": "2 tablespoons butter"
+        },
+        {
+            "text": "1 tablespoon brown sugar"
+        },
+        {
+            "text": "4 teaspoons balsamic vinegar or 4 teaspoons water"
+        },
+        {
+            "text": "salt and pepper"
+        },
+        {
+            "text": "18 mini pita pockets, halved in rounds"
+        },
+        {
+            "text": "12 lb cambozola cheese, crumbled"
+        },
+        {
+            "text": "23 cup sun-dried tomato packed in oil, drained and slivered"
+        }
+    ],
+    "recipe": [
+        {
+            "text": "Spread onions in shallow baking dish."
+        },
+        {
+            "text": "Dot with butter; sprinkle with brown sugar, vinegar, salt and pepper to taste."
+        },
+        {
+            "text": "Bake, covered, in 300' F oven for 30 to 40 minutes or until tender, stirring once."
+        },
+        {
+            "text": "(Can be prepared ahead, covered and refrigerated for up to 2 days."
+        },
+        {
+            "text": ")."
+        },
+        {
+            "text": "Place pita rounds on baking sheets."
+        },
+        {
+            "text": "Top each round with a spoonful of onion mixture, cheese and 2 to 4 slivers sundried tomatoes."
+        },
+        {
+            "text": "Just before serving, bake pizzas in 375' F oven for 6 to 8 minutes or until lightly browned and bubbly."
+        },
+        {
+            "text": "Makes about 36 pizzas."
+        }
+    ]
+}

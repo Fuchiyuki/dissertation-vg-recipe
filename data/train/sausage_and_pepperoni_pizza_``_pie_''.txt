@@ -1,0 +1,196 @@
+{
+    "title": "sausage_and_pepperoni_pizza_``_pie_''",
+    "id": "330fb0483a",
+    "table": [
+        {
+            "instructions": "preheat oven to 425f .",
+            "input": "NA",
+            "action": "preheat",
+            "output": "NA"
+        },
+        {
+            "instructions": "fry sausage in heavy medium skillet over medium heat until cooked through , turning occasionally",
+            "input": "sausage",
+            "action": "fry",
+            "output": "fried_sausage"
+        },
+        {
+            "instructions": "drain .",
+            "input": "fried_sausage with excess fat",
+            "action": "drain",
+            "output": "fried_sausage without excess fat"
+        },
+        {
+            "instructions": "dice sausage .",
+            "input": "fried_sausage without excess fat",
+            "action": "dice",
+            "output": "diced fried_sausage without excess fat"
+        },
+        {
+            "instructions": "dust 1 side of 1 crust with 1 teaspoon , flour .",
+            "input": "(pizza crust; flour)",
+            "action": "dust",
+            "output": "dusted pizza crust"
+        },
+        {
+            "instructions": "gently transfer crust to 9 inch diameter , pie pan , floured side down .",
+            "input": "dusted pizza crust",
+            "action": "transfer",
+            "output": "dusted pizza crust"
+        },
+        {
+            "instructions": "press into pan .",
+            "input": "dusted pizza crust",
+            "action": "press",
+            "output": "pressed pizza crust"
+        },
+        {
+            "instructions": "arrange half of mozzarella over bottom of crust .",
+            "input": "(mozzarella; pressed pizza crust)",
+            "action": "arrange",
+            "output": "mozzarella arranged on pressed pizza crust"
+        },
+        {
+            "instructions": "spread 12 cup spaghetti sauce over mozzarella .",
+            "input": "(pizza crust with mozzarella; spaghetti sauce)",
+            "action": "spread",
+            "output": "tomato_sauce_spread_on_pizza_dough with mozzarella"
+        },
+        {
+            "instructions": "sprinkle half of jack_cheese atop sauce .",
+            "input": "(tomato_sauce_spread_on_pizza_dough with mozzarella; jack_cheese)",
+            "action": "sprinkle",
+            "output": "tomato_sauce_spread_on_pizza_dough with mozzarella and jack_cheese"
+        },
+        {
+            "instructions": "drizzle 12 cup spaghetti sauce over cheese .",
+            "input": "(spaghetti sauce; uncooked tomato and cheese pizza)",
+            "action": "drizzle",
+            "output": "spaghetti sauce drizzled on uncooked tomato and cheese pizza"
+        },
+        {
+            "instructions": "top with half of pepperoni and half of sausage .",
+            "input": "(diced cooked sausage; pepperoni)",
+            "action": "top",
+            "output": "uncooked tomato and cheese pizza topped with diced sausage and pepperoni"
+        },
+        {
+            "instructions": "sprinkle with olives",
+            "input": "(olives; uncooked pepperoni and sausage pizza)",
+            "action": "sprinkle",
+            "output": "olives sprinkled on uncooked pepperoni and sausage pizza"
+        },
+        {
+            "instructions": "drizzle with remaining 12 cup , spaghetti sauce .",
+            "input": "(remaining spaghetti sauce; uncooked pepperoni and sausage pizza with olives)",
+            "action": "drizzle",
+            "output": "remaining spaghetti sauce drizzled on uncooked pepperoni and sausage pizza with olives"
+        },
+        {
+            "instructions": "top with remaining pie_crust .",
+            "input": "(remaining pie crust; uncooked pepperoni and sausage pizza with olives)",
+            "action": "top",
+            "output": "uncooked pepperoni and sausage pizza with olives topped with remaining pie crust"
+        },
+        {
+            "instructions": "pinch edges of crust together to seal .",
+            "input": "uncooked pepperoni and sausage pie pizza with olives",
+            "action": "pinch",
+            "output": "uncooked pepperoni and sausage pie pizza with olives with pinched edges"
+        },
+        {
+            "instructions": "crimp edges to make decorative border .",
+            "input": "uncooked pepperoni and sausage pie pizza with olives with pinched edges",
+            "action": "crimp",
+            "output": "uncooked pepperoni and sausage pie pizza with olives with pinched and crimped edges"
+        },
+        {
+            "instructions": "bake until golden brown , about 40 minutes .",
+            "input": "uncooked pepperoni and sausage pie pizza with olives with pinched and crimped edges",
+            "action": "bake",
+            "output": "baked pepperoni and sausage pie pizza with olives with pinched and crimped edges"
+        }
+    ],
+    "ingredients": [
+        {
+            "text": "1 pound Italian sausage"
+        },
+        {
+            "text": "1 15-ounce package refrigerated ready pie crusts"
+        },
+        {
+            "text": "1 teaspoon all purpose flour"
+        },
+        {
+            "text": "1 8-ounce package sliced mozzarella"
+        },
+        {
+            "text": "2 cups purchased spaghetti sauce"
+        },
+        {
+            "text": "1 cup shredded Monterey Jack cheese (about 4 ounces)"
+        },
+        {
+            "text": "3 ounces thinly sliced pepperoni"
+        },
+        {
+            "text": "1/2 cup pimiento-stuffed olives, sliced"
+        }
+    ],
+    "recipe": [
+        {
+            "text": "Preheat oven to 425F."
+        },
+        {
+            "text": "Fry sausage in heavy medium skillet over medium heat until cooked through, turning occasionally, Drain."
+        },
+        {
+            "text": "Dice sausage."
+        },
+        {
+            "text": "Dust 1 side of 1 crust with 1 teaspoon flour."
+        },
+        {
+            "text": "Gently transfer crust to 9-inch-diameter pie pan, floured side down."
+        },
+        {
+            "text": "Press into pan."
+        },
+        {
+            "text": "Arrange half of mozzarella over bottom of crust."
+        },
+        {
+            "text": "Spread 1/2 cup spaghetti sauce over mozzarella."
+        },
+        {
+            "text": "Sprinkle half of Jack cheese atop sauce."
+        },
+        {
+            "text": "Drizzle 1/2 cup spaghetti sauce over cheese."
+        },
+        {
+            "text": "Top with half of pepperoni and half of sausage."
+        },
+        {
+            "text": "Repeat layering with remaining mozzarella, 1/2 cup spaghetti sauce, remaining Jack cheese, pepperoni and sausage."
+        },
+        {
+            "text": "Sprinkle with olives and drizzle with remaining 1/2 cup spaghetti sauce."
+        },
+        {
+            "text": "Top with remaining pie crust."
+        },
+        {
+            "text": "Pinch edges of crust together to seal."
+        },
+        {
+            "text": "Crimp edges to make decorative border."
+        },
+        {
+            "text": "Bake until golden brown, about 40 minutes."
+        },
+        {
+            "text": "Let pie stand 30 minutes before serving."
+        }
+    ]
+}

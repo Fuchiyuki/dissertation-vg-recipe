@@ -1,0 +1,118 @@
+{
+    "title": "neo-neapolitan_pizza_dough",
+    "id": "296b539ddd",
+    "table": [
+        {
+            "instructions": "with a big metal spoon , stir together all the ingredients in a 4 quart bowl or the bowl of an electric stand mixer until combined .",
+            "input": "(bread flour; sugar; kosher salt; instant yeast; olive oil; water)",
+            "action": "stir",
+            "output": "stirred dough"
+        },
+        {
+            "instructions": "mix on low speed for about 4 minutes , or until all the flour gathers to form a coarse ball .",
+            "input": "stirred dough",
+            "action": "mix",
+            "output": "ball of dough"
+        },
+        {
+            "instructions": "mix again on med low speed for 2 more minutes , or until the dough clears the sides of the bowl",
+            "input": "ball of dough",
+            "action": "mix",
+            "output": "ball of dough"
+        },
+        {
+            "instructions": "  if the dough is too soft and sticky to hold its shape , mix in more flour by the tablespoonful ;",
+            "input": "(ball of dough; optional flour)",
+            "action": "mix",
+            "output": "ball of dough"
+        },
+        {
+            "instructions": "if it is too stiff or dry , mix in more water by the tablespoonful .",
+            "input": "(ball of dough; optional water)",
+            "action": "mix",
+            "output": "ball of dough"
+        },
+        {
+            "instructions": "round each piece into a ball",
+            "input": "ball of dough",
+            "action": "round",
+            "output": "ball of dough"
+        },
+        {
+            "instructions": "brush or rub each ball with olive_oil .",
+            "input": "(dough_ball; olive_oil)",
+            "action": "brush",
+            "output": "oiled_dough"
+        },
+        {
+            "instructions": "place each ball inside its own zip lock freezer bag ;",
+            "input": "oiled_dough",
+            "action": "place",
+            "output": "oiled_dough into bag"
+        },
+        {
+            "instructions": "put them in the refrigerator overnight or freeze any pieces you will not be using the next day .",
+            "input": "oiled_dough into bag",
+            "action": "put",
+            "output": "refrigerated dough"
+        },
+        {
+            "instructions": "the next day , remove the balls from the refrigerator 2 hours before you plan to roll them out to take the chill off .",
+            "input": "refrigerated dough",
+            "action": "remove",
+            "output": "room temperature dough"
+        }
+    ],
+    "ingredients": [
+        {
+            "text": "5 cups unbleached gluten flour or 5 cups bread flour"
+        },
+        {
+            "text": "1 tablespoon sugar or 1 tablespoon honey"
+        },
+        {
+            "text": "3 12 teaspoons kosher salt"
+        },
+        {
+            "text": "1 teaspoon instant yeast"
+        },
+        {
+            "text": "2 tablespoons olive oil"
+        },
+        {
+            "text": "1 34 cups room-temperature water, plus"
+        },
+        {
+            "text": "1 tablespoon room-temperature water"
+        }
+    ],
+    "recipe": [
+        {
+            "text": "With a big metal spoon, stir together all the ingredients in a 4-quart bowl or the bowl of an electric stand mixer until combined."
+        },
+        {
+            "text": "Fit mixer with dough hook; mix on low speed for about 4 minutes, or until all the flour gathers to form a coarse ball."
+        },
+        {
+            "text": "Let dough rest for 5 minutes, then mix again on med-low speed for 2 more minutes, or until the dough clears the sides of the bowl and sticks just a little to the bottom."
+        },
+        {
+            "text": "*If the dough is too soft and sticky to hold its shape, mix in more flour by the tablespoonful; if it is too stiff or dry, mix in more water by the tablespoonful."
+        },
+        {
+            "text": "The dough should pass the windowpane testsnip off a piece of dough and gently tugging and turning it, stretching it out until it forms a paper-thin, translucent membrane somewhere near the center; if dough does not form this membrane, it probably needs another minute or two of mixing)."
+        },
+        {
+            "text": "Immediately divided the dough into 4-equal portions; round each piece into a ball and brush or rub each ball with olive oil."
+        },
+        {
+            "text": "Place each ball inside its own zip-lock freezer bag; let the balls sit at room temperature for 15 minutes, then put them in the refrigerator overnight or freeze any pieces you will not be using the next day."
+        },
+        {
+            "text": "The next day, remove the balls from the refrigerator 2 hours before you plan to roll them out to take the chill off."
+        },
+        {
+            "text": "Makes four 10 ounce dough balls."
+        }
+    ]
+}

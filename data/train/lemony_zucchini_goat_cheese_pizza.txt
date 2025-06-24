@@ -1,0 +1,121 @@
+{
+    "title": "lemony_zucchini_goat_cheese_pizza",
+    "id": "0bfbbb392a",
+    "table": [
+        {
+            "instructions": "preheat your oven to 450 degrees .",
+            "input": "NA",
+            "action": "preheat",
+            "output": "NA"
+        },
+        {
+            "instructions": "roll your pizza_dough into a thin 12 inch circle",
+            "input": "pizza_dough",
+            "action": "roll",
+            "output": "rolled_pizza_dough"
+        },
+        {
+            "instructions": "lay it on a tray or stone that has been dusted lightly with cornmeal .",
+            "input": "rolled_pizza_dough",
+            "action": "lay",
+            "output": "rolled_pizza_dough"
+        },
+        {
+            "instructions": "in a small bowl , stir together the goat_cheese with the juice of half your lemon .",
+            "input": "(goat cheese; juice of half lemon)",
+            "action": "stir",
+            "output": "goat cheese and lemon juice mixture"
+        },
+        {
+            "instructions": "season it with salt and freshly_ground_pepper ,",
+            "input": "(goat cheese and lemon juice mixture; salt; ground pepper)",
+            "action": "season",
+            "output": "seasoned goat cheese and lemon juice mixture"
+        },
+        {
+            "instructions": "spread it over your pizza_dough .",
+            "input": "(pizza dough; seasoned goat cheese and lemon juice mixture)",
+            "action": "spread",
+            "output": "seasoned goat cheese and lemon juice mixture spread on pizza dough"
+        },
+        {
+            "instructions": "scatter fresh_basil slivers over the cheese .",
+            "input": "(fresh basil slivers; pizza dough with seasoned goat cheese and lemon juice mixture)",
+            "action": "scatter",
+            "output": "pizza dough with seasoned goat cheese and lemon juice mixture, and fresh basil slivers"
+        },
+        {
+            "instructions": "arrange your zucchini coins in concentric circles over the goat_cheese spread , overlapping them slightly .",
+            "input": "(pizza dough with seasoned goat cheese and lemon juice mixture, and fresh basil slivers; zucchini slices)",
+            "action": "arrange",
+            "output": "pizza dough with seasoned goat cheese and lemon juice mixture, fresh basil slivers and concentric circles of zucchini slices"
+        },
+        {
+            "instructions": "squeeze the juice of the second half of your lemon on top of you zucchini ,",
+            "input": "(juice of half lemon; pizza dough with seasoned goat cheese and lemon juice mixture, fresh basil slivers and concentric circles of zucchini slices)",
+            "action": "squeeze",
+            "output": "pizza dough with seasoned goat cheese and lemon juice mixture, fresh basil slivers and concentric circles of zucchini slices and lemon juice"
+        },
+        {
+            "instructions": "drizzle with olive_oil",
+            "input": "(olive oil; pizza dough with seasoned goat cheese and lemon juice mixture, fresh basil slivers and concentric circles of zucchini slices and lemon juice)",
+            "action": "drizzle",
+            "output": "olive oil drizzled over pizza dough with seasoned goat cheese and lemon juice mixture, fresh basil slivers and concentric circles of zucchini slices and lemon juice"
+        }
+    ],
+    "ingredients": [
+        {
+            "text": "1 basic pizza dough (approx. 11 to 12 inches across)"
+        },
+        {
+            "text": "1 lemon"
+        },
+        {
+            "text": "4 ounces goat cheese, at room temperature"
+        },
+        {
+            "text": "3 leaves fresh basil, cut into thin slivers"
+        },
+        {
+            "text": "12 medium yellow zucchini, sliced thinly (1/8-inch)"
+        },
+        {
+            "text": "12 medium green zucchini, sliced as the same as above"
+        },
+        {
+            "text": "drizzle olive oil"
+        },
+        {
+            "text": "salt and pepper"
+        }
+    ],
+    "recipe": [
+        {
+            "text": "Preheat your oven to 450 degrees."
+        },
+        {
+            "text": "Roll your pizza dough into a thin 12-inch circle and lay it on a tray or stone that has been dusted lightly with cornmeal."
+        },
+        {
+            "text": "In a small bowl, stir together the goat cheese with the juice of half your lemon."
+        },
+        {
+            "text": "Season it with salt and freshly ground pepper, and spread it over your pizza dough."
+        },
+        {
+            "text": "Scatter fresh basil slivers over the cheese."
+        },
+        {
+            "text": "Arrange your zucchini coins in concentric circles over the goat cheese spread, overlapping them slightly."
+        },
+        {
+            "text": "You can alternate their colors, if youre feeling fancy."
+        },
+        {
+            "text": "Squeeze the juice of the second half of your lemon on top of you zucchini, then drizzle with olive oil and finish with more salt and freshly ground black pepper."
+        },
+        {
+            "text": "Bake in preheated oven for 10 to 15 minutes (your baking time will vary, so please watch carefully), or until the edges of your pizza are golden brown and the zucchini looks roasted and a little curled up at the edges."
+        }
+    ]
+}

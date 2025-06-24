@@ -1,0 +1,79 @@
+{
+    "title": "two-pepper_pepperoni_pizza",
+    "id": "84b8438df3",
+    "table": [
+        {
+            "instructions": "heat oven to 450f .",
+            "input": "NA",
+            "actions": "heat",
+            "output": "NA"
+        },
+        {
+            "instructions": "place pizza_crust on baking sheet ;",
+            "input": "pizza_crust",
+            "actions": "place",
+            "output": "pizza_crust"
+        },
+        {
+            "instructions": "spread with sauce .",
+            "input": "pizza_sauce",
+            "actions": "spread",
+            "output": "pizza_sauce"
+        },
+        {
+            "instructions": "top with 34 cup , cheese , peppers and pepperoni ;",
+            "input": "cheese_pepper_pepperoni",
+            "actions": "top",
+            "output": "uncooked _pizza"
+        },
+        {
+            "instructions": "sprinkle with remaining cheese .",
+            "input": "sprinkle_cheese",
+            "actions": "sprinkle",
+            "output": "greased_pizza"
+        },
+        {
+            "instructions": "bake 10 to 12 min .",
+            "input": "baked_pizza",
+            "actions": "bake",
+            "output": "pizza"
+        }
+    ],
+    "ingredients": [
+        {
+            "text": "1 ready-to-use baked pizza crust (12 inch)"
+        },
+        {
+            "text": "1/2 cup CLASSICO Traditional Pizza Sauce"
+        },
+        {
+            "text": "1-1/2 cups KRAFT Shredded Low-Moisture Part-Skim Mozzarella Cheese, divided"
+        },
+        {
+            "text": "1/2 cup green pepper strips"
+        },
+        {
+            "text": "1/2 cup red pepper strips"
+        },
+        {
+            "text": "12 slices OSCAR MAYER Pepperoni"
+        }
+    ],
+    "recipe": [
+        {
+            "text": "Heat oven to 450F."
+        },
+        {
+            "text": "Place pizza crust on baking sheet; spread with sauce."
+        },
+        {
+            "text": "Top with 3/4 cup cheese, peppers and pepperoni; sprinkle with remaining cheese."
+        },
+        {
+            "text": "Bake 10 to 12 min."
+        },
+        {
+            "text": "or until crust is lightly browned and cheese is melted."
+        }
+    ]
+}

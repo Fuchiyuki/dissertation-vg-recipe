@@ -1,0 +1,202 @@
+{
+    "title": "pepperoni_pan_pizza",
+    "id": "16ce713be7",
+    "table": [
+        {
+            "instructions": "in mixing bowl , combine 2 cups , flour , yeast and salt .",
+            "input": "(flour; yeast; salt)",
+            "action": "combine",
+            "output": "flour and yeast mix"
+        },
+        {
+            "instructions": "add water and oil ;",
+            "input": "(water; oil; flour and yeast mix)",
+            "action": "add",
+            "output": "partially mixed dough"
+        },
+        {
+            "instructions": "beat until smooth .",
+            "input": "partially mixed dough",
+            "action": "beat",
+            "output": "smooth dough"
+        },
+        {
+            "instructions": "add enough remaining flour to form a soft dough .",
+            "input": "flour, smooth mixture",
+            "action": "add",
+            "output": "dough"
+        },
+        {
+            "instructions": "turn onto a floured surface ;",
+            "input": "dough",
+            "action": "turn",
+            "output": "dough"
+        },
+        {
+            "instructions": "knead until smooth and elastic , about 5 7 minutes .",
+            "input": "dough",
+            "action": "knead",
+            "output": "kneaded dough"
+        },
+        {
+            "instructions": "cover",
+            "input": "kneaded dough",
+            "action": "cover",
+            "output": "covered kneaded dough"
+        },
+        {
+            "instructions": "meanwhile , in a bowl , combine tomatoes , tomato_paste , oil and seasonings .",
+            "input": "(tomatos; tomato_paste; oil; seasonings)",
+            "action": "combine",
+            "output": "pizza sauce"
+        },
+        {
+            "instructions": "divide dough in half ;",
+            "input": "dough",
+            "action": "divide",
+            "output": "halved dough"
+        },
+        {
+            "instructions": "press each portion into a greased 15 in by 10 inch by 1 inch baking pan coated with nonstick cooking_spray .",
+            "input": "halved dough",
+            "action": "press",
+            "output": "pizza crust"
+        },
+        {
+            "instructions": "prick dough generously with a fork .",
+            "input": "pizza crust",
+            "action": "prick",
+            "output": "pricked pizza crust"
+        },
+        {
+            "instructions": "bake at 425 degrees for 12 16 minutes or until crust is lightly browned .",
+            "input": "uncooked pricked pizza crust",
+            "action": "bake",
+            "output": "baked crust"
+        },
+        {
+            "instructions": "spread sauce over each crust ;",
+            "input": "(pizza sauce; baked crust)",
+            "action": "spread",
+            "output": "sauced crust"
+        },
+        {
+            "instructions": "top with pepperoni and cheeses .",
+            "input": "(sauced crust; pepperoni; cheese)",
+            "action": "top",
+            "output": "sauced crust topped with pepperoni and cheeses"
+        },
+        {
+            "instructions": "bake 8 10 minutes longer or until cheese is melted and bubbly .",
+            "input": "uncooked pepperoni_pan_pizza",
+            "action": "bake",
+            "output": "baked pepperoni_pan_pizza"
+        },
+        {
+            "instructions": "cut into squares .",
+            "input": "baked pepperoni_pan_pizza",
+            "action": "cut",
+            "output": "sliced pepperoni_pan_pizza"
+        }
+    ],
+    "ingredients": [
+        {
+            "text": "2 34-3 cups flour"
+        },
+        {
+            "text": "1 (1/4 ounce) package active dry yeast"
+        },
+        {
+            "text": "14 teaspoon salt"
+        },
+        {
+            "text": "1 cup warm water"
+        },
+        {
+            "text": "1 tablespoon vegetable oil"
+        },
+        {
+            "text": "1 (14 1/2 ounce) can diced tomatoes, undrained"
+        },
+        {
+            "text": "1 (6 ounce) can tomato paste"
+        },
+        {
+            "text": "1 tablespoon vegetable oil"
+        },
+        {
+            "text": "1 teaspoon salt"
+        },
+        {
+            "text": "12 teaspoon dried basil"
+        },
+        {
+            "text": "12 teaspoon oregano"
+        },
+        {
+            "text": "12 teaspoon marjoram"
+        },
+        {
+            "text": "12 teaspoon thyme"
+        },
+        {
+            "text": "14 teaspoon garlic powder"
+        },
+        {
+            "text": "14 teaspoon pepper"
+        },
+        {
+            "text": "1 (3 1/2 ounce) packagesliced pepperoni"
+        },
+        {
+            "text": "5 cups shredded mozzarella cheese"
+        },
+        {
+            "text": "14 cup grated parmesan cheese"
+        },
+        {
+            "text": "14 cup grated romano cheese"
+        }
+    ],
+    "recipe": [
+        {
+            "text": "In mixing bowl, combine 2 cups flour, yeast and salt."
+        },
+        {
+            "text": "Add water and oil; beat until smooth."
+        },
+        {
+            "text": "Add enough remaining flour to form a soft dough."
+        },
+        {
+            "text": "Turn onto a floured surface; knead until smooth and elastic, about 5-7 minutes."
+        },
+        {
+            "text": "Cover and let stand for 10 minutes."
+        },
+        {
+            "text": "Meanwhile, in a bowl, combine tomatoes, tomato paste, oil and seasonings."
+        },
+        {
+            "text": "Divide dough in half; press each portion into a greased 15-in by 10-inch by 1-inch baking pan coated with nonstick cooking spray."
+        },
+        {
+            "text": "Prick dough generously with a fork."
+        },
+        {
+            "text": "Bake at 425 degrees for 12-16 minutes or until crust is lightly browned."
+        },
+        {
+            "text": "Spread sauce over each crust; top with pepperoni and cheeses."
+        },
+        {
+            "text": "Bake 8-10 minutes longer or until cheese is melted and bubbly."
+        },
+        {
+            "text": "Cut into squares."
+        },
+        {
+            "text": "This makes 2 pizzas, 9 slices each."
+        }
+    ]
+}

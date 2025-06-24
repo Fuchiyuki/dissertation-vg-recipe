@@ -1,0 +1,217 @@
+{
+    "title": "fresh_pizza_dough",
+    "id": "591dd82ba9",
+    "table": [
+        {
+            "instructions": "in a small bowl , combine the yeast , sugar and water",
+            "input": "(yeast; sugar; water)",
+            "action": "combine",
+            "output": "yeast_mixture"
+        },
+        {
+            "instructions": "stir gently to dissolve .",
+            "input": "yeast_mixture",
+            "action": "stir",
+            "output": "yeast_mixture"
+        },
+        {
+            "instructions": "if you 're using a stand mixer , combine the salt and flour to the bowl",
+            "input": "(flour; salt)",
+            "action": "combine",
+            "output": "combined_flour_and_salt"
+        },
+        {
+            "instructions": "add the yeast mixture , at the lowest speed , until the flour incorporates .",
+            "input": "(combined_flour_and salt; yeast_mixture)",
+            "action": "add",
+            "output": "dough"
+        },
+        {
+            "instructions": "mix until the dough gathers into a ball .",
+            "input": "dough",
+            "action": "mix",
+            "output": "dough"
+        },
+        {
+            "instructions": "this should take about 2 minutes .",
+            "input": "NA",
+            "action": "take",
+            "output": "NA"
+        },
+        {
+            "instructions": "add the olive_oil",
+            "input": "(dough; olive oil)",
+            "action": "add",
+            "output": "dough"
+        },
+        {
+            "instructions": "get a feel for the dough as you 're making it by squeezing a small amount together between your thumb and fingers .",
+            "input": "NA",
+            "action": "get",
+            "output": "NA"
+        },
+        {
+            "instructions": "if it 's crumbly , add more water , if it 's sticky",
+            "input": "(dough; optional water)",
+            "action": "add",
+            "output": "optional water added to dough"
+        },
+        {
+            "instructions": "if it 's sticky , add more flour , 1 tablespoon at a time .",
+            "input": "(dough; optional flour)",
+            "action": "add",
+            "output": "optional flour added to dough"
+        },
+        {
+            "instructions": "turn the dough out onto a lightly floured surface",
+            "input": "dough",
+            "action": "turn",
+            "output": "dough"
+        },
+        {
+            "instructions": "fold it over itself a few times , kneading until it 's smooth and elastic .",
+            "input": "dough",
+            "action": "fold",
+            "output": "kneaded_dough"
+        },
+        {
+            "instructions": "if you 're making the dough by hand , add the yeast mixture to a large bowl",
+            "input": "yeast mixture",
+            "action": "add",
+            "output": "yeast mixture"
+        },
+        {
+            "instructions": "stir in the salt and the 2 tablespoons of olive_oil .",
+            "input": "(yeast mixture; salt; olive oil)",
+            "action": "stir",
+            "output": "salt and olive oil added to yeast mixture"
+        },
+        {
+            "instructions": "knead in the rest of the flour by hand , adding just enough so that the dough is soft but not too sticky .",
+            "input": "(flour; oil and yeast mixture)",
+            "action": "knead",
+            "output": "kneaded_dough"
+        },
+        {
+            "instructions": "as you work , squeeze a small amount of dough together between your thumb and fingers .",
+            "input": "NA",
+            "action": "squeeze",
+            "output": "NA"
+        },
+        {
+            "instructions": "if it 's crumbly , add more water ;",
+            "input": "(dough; optional water)",
+            "action": "add",
+            "output": "optional water added to dough"
+        },
+        {
+            "instructions": "if it 's sticky , add more flour , 1 tablespoon at a time .",
+            "input": "(dough; optional flour)",
+            "action": "add",
+            "output": "optional flour added to dough"
+        },
+        {
+            "instructions": "knead until smooth and elastic , about 10 minutes .",
+            "input": "dough",
+            "action": "knead",
+            "output": "kneaded_dough"
+        },
+        {
+            "instructions": "form the dough into a round",
+            "input": "kneaded_dough",
+            "action": "form",
+            "output": "formed_dough"
+        },
+        {
+            "instructions": "put it into a lightly oiled bowl , turning it over to coat the dough entirely with the oil .",
+            "input": "formed_dough",
+            "action": "put",
+            "output": "oiled_dough"
+        },
+        {
+            "instructions": "cover with plastic wrap or a damp towel",
+            "input": "oiled_dough",
+            "action": "cover",
+            "output": "covered_dough"
+        }
+    ],
+    "ingredients": [
+        {
+            "text": "2 packages active dry yeast"
+        },
+        {
+            "text": "2 teaspoons sugar"
+        },
+        {
+            "text": "2 cups warm water (100 to 110 degrees F.)"
+        },
+        {
+            "text": "2 tablespoons kosher salt"
+        },
+        {
+            "text": "6 cups unbleached all-purpose flour, plus more for dusting"
+        },
+        {
+            "text": "2 tablespoons extra-virgin olive oil, plus extra for bowl"
+        }
+    ],
+    "recipe": [
+        {
+            "text": "In a small bowl, combine the yeast, sugar and water and stir gently to dissolve."
+        },
+        {
+            "text": "Let the mixture stand until the yeast comes alive and starts to foam, 5 to 10 minutes."
+        },
+        {
+            "text": "If you're using a stand mixer, combine the salt and flour to the bowl and pulse a few times to mix."
+        },
+        {
+            "text": "Add the yeast mixture, at the lowest speed, until the flour incorporates."
+        },
+        {
+            "text": "When the dough starts to come together, increase the speed to medium and mix until the dough gathers into a ball."
+        },
+        {
+            "text": "This should take about 2 minutes."
+        },
+        {
+            "text": "Add the olive oil and pulse a few more times."
+        },
+        {
+            "text": "Stop the machine periodically to scrape the dough off the hook."
+        },
+        {
+            "text": "Get a feel for the dough as you're making it by squeezing a small amount together between your thumb and fingers."
+        },
+        {
+            "text": "If it's crumbly, add more water, if it's sticky, add more flour, 1 tablespoon at a time."
+        },
+        {
+            "text": "Turn the dough out onto a lightly floured surface and fold it over itself a few times, kneading until it's smooth and elastic."
+        },
+        {
+            "text": "If you're making the dough by hand, add the yeast mixture to a large bowl and stir in the salt and the 2 tablespoons of olive oil."
+        },
+        {
+            "text": "Then begin stirring in the flour."
+        },
+        {
+            "text": "When the mixture becomes too stiff to stir with a spoon, knead in the rest of the flour by hand, adding just enough so that the dough is soft but not too sticky."
+        },
+        {
+            "text": "As you work, squeeze a small amount of dough together between your thumb and fingers."
+        },
+        {
+            "text": "If it's crumbly, add more water; if it's sticky, add more flour, 1 tablespoon at a time."
+        },
+        {
+            "text": "Knead until smooth and elastic, about 10 minutes."
+        },
+        {
+            "text": "Form the dough into a round and put it into a lightly oiled bowl, turning it over to coat the dough entirely with the oil."
+        },
+        {
+            "text": "Cover with plastic wrap or a damp towel and let it rise in a warm spot (i.e., over a gas pilot light) until it doubles in size, about 1 hour."
+        }
+    ]
+}

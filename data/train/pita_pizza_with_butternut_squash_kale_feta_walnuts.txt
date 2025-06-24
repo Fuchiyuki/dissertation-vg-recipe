@@ -1,0 +1,202 @@
+{
+    "title": "pita_pizza_with_butternut_squash_kale_feta_walnuts",
+    "id": "2c6037992d",
+    "table": [
+        {
+            "instructions": "pour 3 teaspoons 1 tablespoon of olive_oil into a large pan on medium high heat .",
+            "input": "olive_oil",
+            "action": "pour",
+            "output": "heated_olive_oil"
+        },
+        {
+            "instructions": "add kale and garlic to the hot pan ,",
+            "input": "(heated_olive_oil;kale;garlic)",
+            "action": "add",
+            "output": "kale and garlic in heated_olive_oil"
+        },
+        {
+            "instructions": "add vinegar , nutmeg , salt and pepper .",
+            "input": "(kale and garlic in heated_olive_oil;vinegar;nutmeg;salt;pepper)",
+            "action": "add",
+            "output": "seasoned_kale_mixture"
+        },
+        {
+            "instructions": "saute until kale wilts down",
+            "input": "seasoned_kale_mixture",
+            "action": "saute",
+            "output": "sauteed_kale_mixture"
+        },
+        {
+            "instructions": "steam or boil the butternut squash for 58 minutes until you can easily pierce it with a fork .",
+            "input": "butternut_squash",
+            "action": "steam",
+            "output": "steamed_butternut squash"
+        },
+        {
+            "instructions": "set aside .",
+            "input": "steamed_butternut squash",
+            "action": "set",
+            "output": "steamed_butternut squash"
+        },
+        {
+            "instructions": "to make the pita a little bit crispy , using a pair of tongs",
+            "input": "NA",
+            "action": "make",
+            "output": "NA"
+        },
+        {
+            "instructions": "place it right over the flame on your stovetop burner .",
+            "input": "pita",
+            "action": "place",
+            "output": "pita"
+        },
+        {
+            "instructions": "move it around",
+            "input": "pita",
+            "action": "move",
+            "output": "pita"
+        },
+        {
+            "instructions": "it should only take 12 minutes to get warm and crispy .",
+            "input": "pita",
+            "action": "take",
+            "output": "crispy_pita"
+        },
+        {
+            "instructions": "place the pita on a greased baking sheet",
+            "input": "crispy_pita",
+            "action": "place",
+            "output": "crispy_pita"
+        },
+        {
+            "instructions": "brush with the remaining teaspoon of olive_oil .",
+            "input": "(oil;crispy_pita)",
+            "action": "brush",
+            "output": "brushed_pita"
+        },
+        {
+            "instructions": "top with 1 tablespoon feta",
+            "input": "(feta;brushed_pita)",
+            "action": "top",
+            "output": "feta_topped_pita"
+        },
+        {
+            "instructions": "add kale and butternut_squash cubes .",
+            "input": "(feta_topped_pita; sauteed_kale_mixture; butternut_squash)",
+            "action": "add",
+            "output": "feta_kale and butternut squash_pita"
+        },
+        {
+            "instructions": "top with the remaining tablespoon of feta and walnuts .",
+            "input": "(feta_kale and butternut squash_pita; walnuts)",
+            "action": "top",
+            "output": "feta_kale and butternut squash_pita_with_walnuts"
+        },
+        {
+            "instructions": "place the baking sheet on the top shelf of your oven",
+            "input": "NA",
+            "action": "place",
+            "output": "NA"
+        },
+        {
+            "instructions": "broil for 23 minutes , just long enough to warm it up",
+            "input": "feta_kale and butternut squash_pita_with_walnuts",
+            "action": "broil",
+            "output": "warmed feta_kale and butternut squash_pita_with_walnuts"
+        },
+        {
+            "instructions": "slightly melt the cheese .",
+            "input": "warmed feta_kale and butternut squash_pita_with_walnuts",
+            "action": "melt",
+            "output": "warmed feta_kale and butternut squash_pita_with_walnuts with melted cheese"
+        },
+        {
+            "instructions": "you may also bake it at 450 degrees f for 5 minutes .",
+            "input": "warmed feta_kale and butternut squash_pita_with_walnuts with melted cheese",
+            "action": "bake",
+            "output": "warmed feta_kale and butternut squash_pita_with_walnuts with melted cheese"
+        }
+    ],
+    "ingredients": [
+        {
+            "text": "4 teaspoons Extra Virgin Olive Oil, Divided"
+        },
+        {
+            "text": "1 head Kale, Stems Removed, Chopped"
+        },
+        {
+            "text": "1 clove Garlic, Minced"
+        },
+        {
+            "text": "1 Tablespoon Balsamic Vinegar"
+        },
+        {
+            "text": "1 dash Nutmeg"
+        },
+        {
+            "text": "Salt And Pepper"
+        },
+        {
+            "text": "1/2 cups Butternut Squash, Cubed"
+        },
+        {
+            "text": "1 Whole Wheat Pita"
+        },
+        {
+            "text": "2 Tablespoons Feta Cheese Crumbles"
+        },
+        {
+            "text": "1 Tablespoon Walnuts, Chopped"
+        }
+    ],
+    "recipe": [
+        {
+            "text": "Pour 3 teaspoons (1 tablespoon) of olive oil into a large pan on medium-high heat."
+        },
+        {
+            "text": "Add kale and garlic to the hot pan, then add vinegar, nutmeg, salt and pepper."
+        },
+        {
+            "text": "Saute until kale wilts down and darkens in color."
+        },
+        {
+            "text": "This makes more than youll need to top the pizza, so save the rest of it."
+        },
+        {
+            "text": "If you end up loving it as much as I do, youll find plenty of other uses for it."
+        },
+        {
+            "text": "Steam or boil thebutternut squash for 58 minutes until you can easily pierce it with a fork."
+        },
+        {
+            "text": "Set aside."
+        },
+        {
+            "text": "To make the pita a little bit crispy, using a pair of tongs, place it right over the flame on your stovetop burner."
+        },
+        {
+            "text": "Move it around and flip it constantly, being careful not to burn it."
+        },
+        {
+            "text": "It should only take 12 minutes to get warm and crispy."
+        },
+        {
+            "text": "Place the pita on a greased baking sheet and brush with the remaining teaspoon of olive oil."
+        },
+        {
+            "text": "Top with 1 tablespoon feta crumbles."
+        },
+        {
+            "text": "Add kale and butternut squash cubes."
+        },
+        {
+            "text": "Top with the remaining tablespoon of feta and walnuts."
+        },
+        {
+            "text": "Place the baking sheet on the top shelf of your oven and broil for 23 minutes, just long enough to warm it up and slightly melt the cheese."
+        },
+        {
+            "text": "You may also bake it at 450 degrees F for 5 minutes."
+        }
+    ]
+}

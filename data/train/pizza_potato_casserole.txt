@@ -1,0 +1,94 @@
+{
+    "title": "pizza_potato_casserole",
+    "id": "c0e77a8d0f",
+    "table": [
+        {
+            "instructions": "heat oven to 400 .",
+            "input": "NA",
+            "action": "heat",
+            "output": "NA"
+        },
+        {
+            "instructions": "empty potato slices and packet of seasoned sauce into a bowl .",
+            "input": "(potato slices; packet of seasoned sauce)",
+            "action": "empty",
+            "output": "packet of seasoned sauce and potato slices combined"
+        },
+        {
+            "instructions": "mix into ungreased 2 qt casserole .",
+            "input": "sauce and potato mixture",
+            "action": "mix",
+            "output": "sauce and potato mixture"
+        },
+        {
+            "instructions": "heat tomatoes , water , and oregano to boiling ;",
+            "input": "(tomatoes; water; oregano)",
+            "action": "heat",
+            "output": "heated tomato sauce"
+        },
+        {
+            "instructions": "stir into potatoes .",
+            "input": "(heated tomato sauce; sauce and potato mixture)",
+            "action": "stir",
+            "output": "stirred potato_mixture"
+        },
+        {
+            "instructions": "arrange pepperoni on top",
+            "input": "(stirred potato_mixture; pepperoni)",
+            "action": "arrange",
+            "output": "stirred potato_mixture topped with pepperoni"
+        },
+        {
+            "instructions": "sprinkle with cheese .",
+            "input": "(stirred potato_mixture topped with pepperoni; cheese)",
+            "action": "sprinkle",
+            "output": "cheese_covered_pepperoni_topped_potato_mixture"
+        },
+        {
+            "instructions": "bake uncovered 30 35 minute .",
+            "input": "uncooked pizza_potato_casserole",
+            "action": "bake",
+            "output": "baked pizza_potato_casserole"
+        }
+    ],
+    "ingredients": [
+        {
+            "text": "1 (5 1/2 ounce) box scalloped potatoes mix"
+        },
+        {
+            "text": "1 (16 ounce) can diced tomatoes"
+        },
+        {
+            "text": "1 12 cups water"
+        },
+        {
+            "text": "14 teaspoon oregano leaves"
+        },
+        {
+            "text": "1 (4 ounce) packagesliced pepperoni"
+        },
+        {
+            "text": "4 ounces shredded mozzarella cheese"
+        }
+    ],
+    "recipe": [
+        {
+            "text": "Heat oven to 400*."
+        },
+        {
+            "text": "Empty potato slices and packet of seasoned sauce into a bowl."
+        },
+        {
+            "text": "Mix into ungreased 2-qt casserole."
+        },
+        {
+            "text": "Heat tomatoes, water, and oregano to boiling; stir into potatoes."
+        },
+        {
+            "text": "Arrange pepperoni on top and sprinkle with cheese."
+        },
+        {
+            "text": "Bake uncovered 30-35 minute."
+        }
+    ]
+}

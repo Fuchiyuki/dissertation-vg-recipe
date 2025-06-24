@@ -1,0 +1,106 @@
+{
+    "title": "vegy_pizza",
+    "id": "0aaa58fbdc",
+    "table": [
+        {
+            "instructions": "unroll crescent_roll",
+            "input": "crescent_roll",
+            "action": "unroll",
+            "output": "unrolled_crescent_roll"
+        },
+        {
+            "instructions": "do not separate the dough into individual crescents",
+            "input": "NA",
+            "action": "separate",
+            "output": "NA"
+        },
+        {
+            "instructions": "lay on a greased cookie sheet .",
+            "input": "unrolled_crescent_roll",
+            "action": "lay",
+            "output": "unrolled_crescent_roll"
+        },
+        {
+            "instructions": "press the seams together .",
+            "input": "unrolled_crescent_roll",
+            "action": "press",
+            "output": "unrolled_crescent_roll with pressed seams"
+        },
+        {
+            "instructions": "bake at 350 degrees for 7 10 minutes until lightly browned .",
+            "input": "unrolled_crescent_roll with pressed seams",
+            "action": "bake",
+            "output": "baked pizza base"
+        },
+        {
+            "instructions": "leave in the pan and cool .",
+            "input": "baked pizza base",
+            "action": "leave",
+            "output": "cooled baked pizza base"
+        },
+        {
+            "instructions": "mix the ranch_dressing , mayo and cream_cheese together",
+            "input": "ranch_dressing, mayo, cream_cheese",
+            "action": "mix",
+            "output": "ranchmixture"
+        },
+        {
+            "instructions": "spread over the cooled crust .",
+            "input": "cooled pizza crust, ranch mixture",
+            "action": "spread",
+            "output": "pizza crust with ranch mixture"
+        },
+        {
+            "instructions": "top with the chopped veggies carrots , tomatoes , broccoli , cukes whatever you want to use !",
+            "input": "(pizza crust with ranch mixture; chopped carrots, chopped tomatoes, chopped broccoli, chopped cucumbers)",
+            "action": "top",
+            "output": "pizza crust with ranch mixture topped with chopped carrots , tomatoes , broccoli , cucumbers"
+        },
+        {
+            "instructions": "serve for an appetizer or potluck dish",
+            "input": "veggie pizza",
+            "action": "serve",
+            "output": "served veggie"
+        }
+    ],
+    "ingredients": [
+        {
+            "text": "2 packages crescent rolls"
+        },
+        {
+            "text": "2 (8 ounce) packages cream cheese, room temperature"
+        },
+        {
+            "text": "1 cup mayonnaise"
+        },
+        {
+            "text": "1 package Hidden Valley Original Ranch Dressing"
+        },
+        {
+            "text": "assorted chopped colorful raw vegetables"
+        }
+    ],
+    "recipe": [
+        {
+            "text": "unroll crescent rolls (but do not separate the dough into individual crescents) and lay on a greased cookie sheet."
+        },
+        {
+            "text": "press the seams together."
+        },
+        {
+            "text": "bake at 350 degrees for 7-10 minutes until lightly browned."
+        },
+        {
+            "text": "leave in the pan and cool."
+        },
+        {
+            "text": "mix the ranch dressing, mayo and cream cheese together and spread over the cooled\"crust\"."
+        },
+        {
+            "text": "top with the chopped vegies- carrots, tomatos, broccoli, cukes- whatever you want to use!"
+        },
+        {
+            "text": "serve for an appetizer or potluck dish and wait for the compliments!"
+        }
+    ]
+}

@@ -1,0 +1,82 @@
+{
+    "title": "individual_deep_dish_pizzas",
+    "id": "2245f40644",
+    "table": [
+        {
+            "instructions": "heat oven to 450 degrees f .",
+            "input": "NA",
+            "actions": "heat",
+            "output": "NA"
+        },
+        {
+            "instructions": "roll perfect parmesan , pizza_dough into 8 6 inch circles on lightly floured surface .",
+            "input": "parmesan_pizza_dough",
+            "actions": "roll",
+            "output": "rolled_parmesan_pizza_dough"
+        },
+        {
+            "instructions": "press into muffin cups sprayed with cooking_spray , stretching dough as necessary to fit .",
+            "input": "rolled_parmesan_pizza_dough",
+            "actions": "press",
+            "output": "pressed_pizza_dough"
+        },
+        {
+            "instructions": "fill each dough cup with pasta_sauce and tomatoes ;",
+            "input": "(pasta_sauce; tomatoes, pressed_pizza_dough)",
+            "actions": "fill",
+            "output": "pressed_pizza_dough_filled_with_pasta_sauce_and_tomatoes"
+        },
+        {
+            "instructions": "top with cheese .",
+            "input": "(cheese; pressed_pizza_dough_filled_with_pasta_sauce_and_tomatoes)",
+            "actions": "top",
+            "output": "pressed_pizza_dough_filled_with_pasta_sauce_and_tomatoes_topped_with_cheese"
+        },
+        {
+            "instructions": "bake 12 to 15 min .",
+            "input": "uncooked_pizza",
+            "actions": "bake",
+            "output": "individual_deep_dish_pizzas"
+        }
+    ],
+    "ingredients": [
+        {
+            "text": "1/4 recipe Perfect Parmesan Pizza Dough"
+        },
+        {
+            "text": "1/2 cup Classico di Napoli Tomato & Basil Pasta Sauce"
+        },
+        {
+            "text": "3/4 cup chopped tomatoes"
+        },
+        {
+            "text": "1 cup Kraft Shredded Pizza Mozzarella Cheese"
+        }
+    ],
+    "recipe": [
+        {
+            "text": "Heat oven to 450 degrees F."
+        },
+        {
+            "text": "Roll Perfect Parmesan Pizza Dough into 8 (6-inch) circles on lightly floured surface."
+        },
+        {
+            "text": "Press into muffin cups sprayed with cooking spray, stretching dough as necessary to fit."
+        },
+        {
+            "text": "Fill each dough cup with pasta sauce and tomatoes; top with cheese."
+        },
+        {
+            "text": "Bake 12 to 15 min."
+        },
+        {
+            "text": "or until crust is golden brown."
+        },
+        {
+            "text": "Let cool 2 min."
+        },
+        {
+            "text": "before removing from cups."
+        }
+    ]
+}

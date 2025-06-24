@@ -1,0 +1,70 @@
+{
+    "title": "mini_pizzas",
+    "id": "5d3d98b731",
+    "table": [
+        {
+            "instructions": "heat oven to 400 degrees f .",
+            "input": "NA",
+            "actions": "heat",
+            "output": "NA"
+        },
+        {
+            "instructions": "place muffin halves on foil covered baking sheet ;",
+            "input": "muffin halves",
+            "actions": "place",
+            "output": "muffin halves"
+        },
+        {
+            "instructions": "spread with pizza_sauce .",
+            "input": "(muffin halves; pizza sauce)",
+            "actions": "spread",
+            "output": "muffin halves topped with pizza sauce"
+        },
+        {
+            "instructions": "top with remaining_ingredient .",
+            "input": "(muffin halves topped with pizza sauce; remaining ingredient)",
+            "actions": "top",
+            "output": "muffin halves topped with pizza sauce and remaining ingredient"
+        },
+        {
+            "instructions": "bake 8 to 10 min .",
+            "input": "uncooked muffin halves topped with pizza sauce and remaining ingredient",
+            "actions": "bake",
+            "output": "baked mini pizzas"
+        }
+    ],
+    "ingredients": [
+        {
+            "text": "4 English muffins, cut in half, toasted"
+        },
+        {
+            "text": "1/2 cup CLASSICO Traditional Pizza Sauce"
+        },
+        {
+            "text": "1 cup KRAFT Shredded Mozzarella Cheese"
+        },
+        {
+            "text": "1/4 cup KRAFT Grated Parmesan Cheese"
+        },
+        {
+            "text": "24 slices OSCAR MAYER Pepperoni"
+        }
+    ],
+    "recipe": [
+        {
+            "text": "Heat oven to 400 degrees F."
+        },
+        {
+            "text": "Place muffin halves on foil-covered baking sheet; spread with pizza sauce."
+        },
+        {
+            "text": "Top with remaining ingredients."
+        },
+        {
+            "text": "Bake 8 to 10 min."
+        },
+        {
+            "text": "or until cheese is melted."
+        }
+    ]
+}

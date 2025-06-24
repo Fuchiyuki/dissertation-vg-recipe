@@ -1,0 +1,133 @@
+{
+    "title": "phyllo_pizza_with_fresh_tomatoes_and_feta_cheese",
+    "id": "b4a7a6e17f",
+    "table": [
+        {
+            "instructions": "preheat oven to 400 degrees f .",
+            "input": "NA",
+            "action": "preheat",
+            "output": "NA"
+        },
+        {
+            "instructions": "in a 9 x 13 baking dish or on a baking sheet , lay out one piece of phyllo_dough .",
+            "input": "phyllo dough",
+            "action": "lay",
+            "output": "phyllo dough in baking sheet"
+        },
+        {
+            "instructions": "spray or brush a thin layer of olive_oil covering the whole piece of phyllo .",
+            "input": "(phyllo dough in baking sheet; olive oil)",
+            "action": "spray",
+            "output": "olive oil onto phyllo dough"
+        },
+        {
+            "instructions": "sprinkle the parmesan_cheese over the phyllo , as evenly as possible .",
+            "input": "(olive oil onto phyllo dough; parmesan cheese)",
+            "action": "sprinkle",
+            "output": "parmesan cheese sprinkled onto oiled phyllo dough"
+        },
+        {
+            "instructions": "spread tomato slices out over the phyllo_dough .",
+            "input": "(tomato slices; oiled phyllo dough with parmesan cheese)",
+            "action": "spread",
+            "output": "oiled phyllo dough with parmesan cheese and tomato slices"
+        },
+        {
+            "instructions": "tear the 12 leaves of basil",
+            "input": "(basil; oiled phyllo dough with parmesan cheese and tomato slices)",
+            "action": "tear",
+            "output": "oiled phyllo dough with parmesan cheese, tomato slices and basil"
+        },
+        {
+            "instructions": "season with the sea_salt and pepper .",
+            "input": "(sea salt; pepper; oiled phyllo dough with parmesan cheese, tomato slices and basil)",
+            "action": "season",
+            "output": "seasoned oiled phyllo dough with parmesan cheese, tomato slices and basil with sea salt and pepper"
+        },
+        {
+            "instructions": "if desired , drizzle with a little extra virgin_olive_oil .",
+            "input": "optional extra virgin olive oil",
+            "action": "drizzle",
+            "output": "optional extra virgin olive oil drizzled over seasoned oiled phyllo dough with parmesan cheese, tomato slices and basil with sea salt and pepper"
+        },
+        {
+            "instructions": "bake for about 15 minutes , or until feta begins to brown .",
+            "input": "seasoned oiled phyllo dough with parmesan cheese, tomato slices, feta cheese and basil with sea salt and pepper",
+            "action": "bake",
+            "output": "baked phyllo_pizza_with_fresh_tomatoes_and_feta_cheese"
+        },
+        {
+            "instructions": "garnish with fresh torn basil .",
+            "input": "(basil; baked phyllo_pizza_with_fresh_tomatoes_and_feta_cheese)",
+            "action": "garnish",
+            "output": "baked phyllo_pizza_with_fresh_tomatoes_and_feta_cheese garnished with basil"
+        }
+    ],
+    "ingredients": [
+        {
+            "text": "6 sheets phyllo dough"
+        },
+        {
+            "text": "1 large tomatoes, sliced 1/4-inch thick"
+        },
+        {
+            "text": "14 cup parmesan cheese, finely grated"
+        },
+        {
+            "text": "23 cup feta cheese, crumbled"
+        },
+        {
+            "text": "12 leaves fresh basil"
+        },
+        {
+            "text": "sea salt"
+        },
+        {
+            "text": "fresh ground black pepper"
+        },
+        {
+            "text": "olive oil"
+        },
+        {
+            "text": "fresh basil (to garnish)"
+        }
+    ],
+    "recipe": [
+        {
+            "text": "Preheat oven to 400 degrees F."
+        },
+        {
+            "text": "In a 9\" x 13\" baking dish or on a baking sheet, lay out one piece of phyllo dough."
+        },
+        {
+            "text": "Spray or brush a thin layer of olive oil covering the whole piece of phyllo."
+        },
+        {
+            "text": "Repeat until all 6 pieces are layered and coated with olive oil."
+        },
+        {
+            "text": "Sprinkle the Parmesan cheese over the phyllo, as evenly as possible."
+        },
+        {
+            "text": "Spread tomato slices out over the phyllo dough."
+        },
+        {
+            "text": "Tear the 12 leaves of basil and distribute evenly over the pizza."
+        },
+        {
+            "text": "Season with the sea salt and pepper."
+        },
+        {
+            "text": "If desired, drizzle with a little extra virgin olive oil."
+        },
+        {
+            "text": "Bake for about 15 minutes, or until feta begins to brown."
+        },
+        {
+            "text": "Be sure to keep a watchful eye on it though, if the edges begin to brown too much before the feta is browned to your liking cover the edges with strips of foil to impede burning."
+        },
+        {
+            "text": "Garnish with fresh torn basil."
+        }
+    ]
+}

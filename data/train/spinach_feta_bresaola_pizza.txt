@@ -1,0 +1,100 @@
+{
+    "title": "spinach_feta_bresaola_pizza",
+    "id": "8122726200",
+    "table": [
+        {
+            "instructions": "roll out on 12 diameter pizza tray .",
+            "input": "dough",
+            "action": "roll",
+            "output": "rolled dough"
+        },
+        {
+            "instructions": "cook onions and garlic in olive_oil_spray just before they start to go translucent .",
+            "input": "(onions; garlic; olive oil)",
+            "action": "cook",
+            "output": "cooked_onions and garlic mixture"
+        },
+        {
+            "instructions": "sprinkle with garlic, oregano and basil .",
+            "input": "(garlic; oregano; basil; cooked_onions and garlic mixture)",
+            "action": "sprinkle",
+            "output": "cooked_onions and garlic mixture sprinkled with garlic, oregano and basil"
+        },
+        {
+            "instructions": "top dough with onion mixture .",
+            "input": "(rolled dough; cooked_onions and garlic mixture sprinkled with garlic, oregano and basil)",
+            "action": "top",
+            "output": "pizza dough topped with cooked_onions mixture, oregano and basil"
+        },
+        {
+            "instructions": "sprinkle chopped bresaola , chopped spinach and feta on pizza .",
+            "input": "(chopped bresaola; chopped spinach; feta;pizza dough topped with cooked_onions mixture, oregano and basil)",
+            "action": "sprinkle",
+            "output": "pizza dough topped with cooked_onions mixture, herbs, chopped bresaola , chopped spinach and feta"
+        },
+        {
+            "instructions": "bake for 10 minutes .",
+            "input": "uncooked spinach_feta_bresaola_pizza",
+            "action": "bake",
+            "output": "baked spinach_feta_bresaola_pizza"
+        }
+    ],
+    "ingredients": [
+        {
+            "text": "1 teaspoon ground basil"
+        },
+        {
+            "text": "2 teaspoons garlic powder"
+        },
+        {
+            "text": "1 teaspoon ground oregano"
+        },
+        {
+            "text": "3 garlic cloves, clove(s)"
+        },
+        {
+            "text": "4 cups chopped fresh spinach"
+        },
+        {
+            "text": "olive oil flavored cooking spray (10 sprays)"
+        },
+        {
+            "text": "1 cup red onion"
+        },
+        {
+            "text": "12 cup fat free feta cheese"
+        },
+        {
+            "text": "4 ounces bresaola"
+        },
+        {
+            "text": "whole wheat pizza dough"
+        }
+    ],
+    "recipe": [
+        {
+            "text": "Let dough thaw overnight."
+        },
+        {
+            "text": "Let sit at room temp for 20 minutes."
+        },
+        {
+            "text": "Roll out on 12\" diameter pizza tray."
+        },
+        {
+            "text": "Cook onions and garlic in olive oil spray just before they start to go translucent."
+        },
+        {
+            "text": "Sprinkle with garlic, oregano and basil."
+        },
+        {
+            "text": "Top dough with onion mixture."
+        },
+        {
+            "text": "Sprinkle chopped bresaola, chopped spinach and feta on pizza."
+        },
+        {
+            "text": "Bake for 10 minutes."
+        }
+    ]
+}

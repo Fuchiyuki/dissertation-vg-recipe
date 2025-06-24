@@ -1,0 +1,97 @@
+{
+    "title": "delicious_oven_pizza_sub_sandwiches",
+    "id": "2f9336f1be",
+    "table": [
+        {
+            "instructions": "replace the tops .",
+            "input": "bun tops",
+            "action": "replace",
+            "output": "bun tops"
+        },
+        {
+            "instructions": "wrap each bun in heavy duty foil that has been sprayed well with non stick cooking_spray .",
+            "input": "bun",
+            "action": "wrap",
+            "output": "wrapped_bun"
+        },
+        {
+            "instructions": "place on baking sheet .",
+            "input": "wrapped_bun",
+            "action": "place",
+            "output": "wrapped_bun"
+        },
+        {
+            "instructions": "bake at a 400 degree oven for about 12 15 minutes , or until the cheese is melted .",
+            "input": "wrapped_bun",
+            "action": "bake",
+            "output": "baked wrapped_bun"
+        },
+        {
+            "instructions": "serve immediately .",
+            "input": "baked wrapped_bun",
+            "action": "serve",
+            "output": "served buns"
+        }
+    ],
+    "ingredients": [
+        {
+            "text": "6 bread buns, split in half"
+        },
+        {
+            "text": "12 lb bulk Italian sausage, cooked and drained"
+        },
+        {
+            "text": "1 lb of shaved deli ham"
+        },
+        {
+            "text": "1 (8 ounce) can pizza sauce (see Kittencal's Pizza Sauce or Kittencal's No-Cook Pizza Sauce or Marinara Dipping Sauce)"
+        },
+        {
+            "text": "1 lb sliced mozzarella cheese"
+        },
+        {
+            "text": "1 medium sweet onion, sliced"
+        },
+        {
+            "text": "30 -35 mild banana pepper rings"
+        },
+        {
+            "text": "black pepper"
+        },
+        {
+            "text": "2 (3 1/2 ounce) packagessliced pepperoni"
+        },
+        {
+            "text": "14-12 lb thinly sliced hard salami"
+        }
+    ],
+    "recipe": [
+        {
+            "text": "Slice 6 buns (or how many you desire, just increase the ingredients)."
+        },
+        {
+            "text": "On the bottom half of the buns, layer sausage, then ham, then pizza sauce, then cheese, then onion, then banana peppers (seaon the peppers with black pepper) then pepperoni and lastly the salami."
+        },
+        {
+            "text": "Replace the tops."
+        },
+        {
+            "text": "Wrap each bun in heavy-duty foil that has been sprayed well with non-stick cooking spray."
+        },
+        {
+            "text": "Place on baking sheet."
+        },
+        {
+            "text": "Bake at a 400 degree oven for about 12-15 minutes, or until the cheese is melted."
+        },
+        {
+            "text": "Serve immediately."
+        },
+        {
+            "text": "**NOTE** banana peppers in a jar are usually found in the pickle section of any grocery store."
+        },
+        {
+            "text": "Delicious!"
+        }
+    ]
+}

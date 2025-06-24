@@ -1,0 +1,166 @@
+{
+    "title": "backcountry_pizza_crust",
+    "id": "19dfd8d8bb",
+    "table": [
+        {
+            "instructions": "in small glass bowl , dissolve yeast in warm_water",
+            "input": "(yeast; warm water)",
+            "action": "dissolve",
+            "output": "dissolved_yeast"
+        },
+        {
+            "instructions": "in large bowl , combine flour , salt , olive_oil , honey , and cold_water .",
+            "input": "(flour; salt; olive_oil; honey; cold_water)",
+            "action": "combine",
+            "output": "dough"
+        },
+        {
+            "instructions": "add yeast mixture",
+            "input": "(dough; dissolved_yeast)",
+            "action": "add",
+            "output": "dough"
+        },
+        {
+            "instructions": "stir to blend .",
+            "input": "dough",
+            "action": "stir",
+            "output": "dough"
+        },
+        {
+            "instructions": "knead by hand until smooth and glossy , about 10 minutes .",
+            "input": "dough",
+            "action": "knead",
+            "output": "kneaded dough"
+        },
+        {
+            "instructions": "form into ball",
+            "input": "kneaded dough",
+            "action": "form",
+            "output": "dough ball"
+        },
+        {
+            "instructions": "place dough in oiled bowl , turning to coat entire surface .",
+            "input": "dough ball",
+            "action": "place",
+            "output": "dough ball"
+        },
+        {
+            "instructions": "cover with plastic wrap and towel ,",
+            "input": "dough ball",
+            "action": "cover",
+            "output": "covered dough ball"
+        },
+        {
+            "instructions": "let rise until doubled in bulk , about 1 hour .",
+            "input": "covered dough ball",
+            "action": "rise",
+            "output": "dough doubled in size"
+        },
+        {
+            "instructions": "preheat oven to 425 degrees .",
+            "input": "NA",
+            "action": "preheat",
+            "output": "NA"
+        },
+        {
+            "instructions": "divide in half ,",
+            "input": "dough doubled in size",
+            "action": "divide",
+            "output": "two halved doughs"
+        },
+        {
+            "instructions": "shape each piece into a 12 inch round .",
+            "input": "two halved doughs",
+            "action": "shape",
+            "output": "two shaped doughs in round"
+        },
+        {
+            "instructions": "place dough in freezer safe plastic bag",
+            "input": "two shaped doughs in round",
+            "action": "place",
+            "output": "two shaped doughs in freezer safe plastic bag"
+        },
+        {
+            "instructions": "freeze .",
+            "input": "two shaped doughs in freezer safe plastic bag",
+            "action": "freeze",
+            "output": "frozen doughs in freezer safe plastic bag"
+        },
+        {
+            "instructions": "thaw , at room temperature , 30 minutes before preceeding .",
+            "input": "frozen doughs in freezer safe plastic bag",
+            "action": "thaw",
+            "output": "thawed doughs"
+        },
+        {
+            "instructions": "bake 10 15 minutes , or until crust is golden brown .",
+            "input": "thawed doughs",
+            "action": "bake",
+            "output": "baked pizza crust"
+        }
+    ],
+    "ingredients": [
+        {
+            "text": "1 14 ounces dry yeast"
+        },
+        {
+            "text": "14 cup warm water (105-115 degrees)"
+        },
+        {
+            "text": "3 cups flour"
+        },
+        {
+            "text": "1 teaspoon salt"
+        },
+        {
+            "text": "2 tablespoons olive oil"
+        },
+        {
+            "text": "1 tablespoon honey"
+        },
+        {
+            "text": "34 cup cold water"
+        }
+    ],
+    "recipe": [
+        {
+            "text": "In small glass bowl, dissolve yeast in warm water and let stand 5-10 minutes, until slightly bubbly."
+        },
+        {
+            "text": "In large bowl, combine flour, salt, olive oil, honey, and cold water."
+        },
+        {
+            "text": "Add yeast mixture and stir to blend."
+        },
+        {
+            "text": "Knead by hand until smooth and glossy, about 10 minutes."
+        },
+        {
+            "text": "Form into ball and place dough in oiled bowl, turning to coat entire surface."
+        },
+        {
+            "text": "Cover with plastic wrap and towel, and let rise until doubled in bulk, about 1 hour."
+        },
+        {
+            "text": "Preheat oven to 425 degrees."
+        },
+        {
+            "text": "Divide in half, and shape each piece into a 12-inch round."
+        },
+        {
+            "text": "(May be prepeared to this point up to 2 months in advance."
+        },
+        {
+            "text": "Place dough in freezer-safe plastic bag and freeze."
+        },
+        {
+            "text": "Thaw, at room temperature, 30 minutes before preceeding."
+        },
+        {
+            "text": ")."
+        },
+        {
+            "text": "Crust may be prebaked 10 minutes before adding toppings, or top uncooked crust with desired toppings and bake 10-15 minutes, or until crust is golden brown."
+        }
+    ]
+}

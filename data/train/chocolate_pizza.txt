@@ -1,0 +1,112 @@
+{
+    "title": "chocolate_pizza",
+    "id": "f0df6d8e61",
+    "table": [
+        {
+            "instructions": "cut 5 cherries in half .",
+            "input": "cherries",
+            "action": "cut",
+            "output": "halved_cherries"
+        },
+        {
+            "instructions": "melt all 3 chocolates in double boiler save 13 cup of white_chocolate for drizzle .",
+            "input": "chocolate",
+            "action": "melt",
+            "output": "melted chocolate; reserved white chocolate"
+        },
+        {
+            "instructions": "when the chocolate is melted add peanuts , rice krispies , and marshmallows .",
+            "input": "(peanuts; rice krispies; marshmallows; melted chocolate)",
+            "action": "add",
+            "output": "peanuts, marshmallows and rice krispies in melted chocolate"
+        },
+        {
+            "instructions": "spread all of the following ingredients in an 12 , pizza\u2012pan .",
+            "input": "peanuts, marshmallows and rice krispies in melted chocolate",
+            "action": "spread",
+            "output": "spreaded peanuts, marshmallows, rice krispies and chocolate mixture"
+        },
+        {
+            "instructions": "press cherries sprinkle with coconut .",
+            "input": "halved_cherries; spreaded peanuts, marshmallows, rice krispies and chocolate mixture",
+            "action": "press",
+            "output": "halved_cherries pressed in  spreaded peanuts, marshmallows, rice krispies and chocolate mixture"
+        },
+        {
+            "instructions": "melt 12 cup of white_chocolate with a teaspoon of oil ;",
+            "input": "reserved white chocolate; oil",
+            "action": "melt",
+            "output": "melted white chocolate"
+        },
+        {
+            "instructions": "drizzle over the top .",
+            "input": "melted white chocolate; halved_cherries pressed in  spreaded peanuts, marshmallows, rice krispies and chocolate mixture",
+            "action": "drizzle",
+            "output": "melted white chocolate drizzled on spreaded peanuts, marshmallows, rice krispies, chocolate mixture and halved cherries"
+        },
+        {
+            "instructions": "refrigerate for 24 hours",
+            "input": "chocolate, cherries, peanut and rice krispies pizza",
+            "action": "refrigerate",
+            "output": "refrigerated chocolate, cherries, peanut and rice krispies pizza"
+        },
+        {
+            "instructions": "serve the next day .",
+            "input": "refrigerated chocolate, cherries, peanut and rice krispies pizza",
+            "action": "serve",
+            "output": "served chocolate, cherries, peanut and rice krispies pizza the next day"
+        }
+    ],
+    "ingredients": [
+        {
+            "text": "12 ounces milk chocolate chips"
+        },
+        {
+            "text": "12 ounces semi-sweet chocolate chips"
+        },
+        {
+            "text": "12 ounces white chocolate chips (Save 1/3 cup for later)"
+        },
+        {
+            "text": "1 cup peanuts"
+        },
+        {
+            "text": "1 cup Rice Krispies"
+        },
+        {
+            "text": "2 cups miniature marshmallows"
+        },
+        {
+            "text": "maraschino cherry"
+        },
+        {
+            "text": "coconut"
+        },
+        {
+            "text": "1 teaspoon oil"
+        }
+    ],
+    "recipe": [
+        {
+            "text": "Cut 5 cherries in half."
+        },
+        {
+            "text": "Melt all 3 Chocolates in double boiler (save 1/3 cup of white Chocolate for drizzle)."
+        },
+        {
+            "text": "When the chocolate is melted add peanuts, Rice krispies, and marshmallows."
+        },
+        {
+            "text": "Spread all of the following ingredients in an 12\" pizza pan."
+        },
+        {
+            "text": "Press cherries- sprinkle with coconut."
+        },
+        {
+            "text": "Melt 1/2 cup of white chocolate with a teaspoon of oil- drizzle over the top."
+        },
+        {
+            "text": "Refrigerate for 24 hours then serve the next day."
+        }
+    ]
+}

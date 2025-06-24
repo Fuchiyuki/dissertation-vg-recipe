@@ -1,0 +1,118 @@
+{
+    "title": "asian_fusion_pizza",
+    "id": "c42b6e4447",
+    "table": [
+        {
+            "instructions": "to make sauce combine first 11 ingriedients in a food procesor .",
+            "input": "(chopped green onion; chopped fresh cilantro leaves; chopped jalapeno peppers; minced garlic; minced ginger; peanut butter; sesame oil; fish sauce; lime juice; coconut milk; hoisin sauce)",
+            "action": "make",
+            "output": "prepared sauce"
+        },
+        {
+            "instructions": "spread over crust .",
+            "input": "(prepared sauce; pizza crust)",
+            "action": "spread",
+            "output": "sauced_pizza crust"
+        },
+        {
+            "instructions": "add chicken , onions , water_chestnut and sprouts .",
+            "input": "(sauced_pizza crust; chicken; onions; water_chestnuts; sprouts)",
+            "action": "add",
+            "output": "sauced_pizza crust topped with chicken , onions , water_chestnut and sprouts"
+        },
+        {
+            "instructions": "top with cheese .",
+            "input": "(cheese; sauced_pizza crust topped with chicken , onions , water_chestnut and sprouts)",
+            "action": "top",
+            "output": "sauced_pizza crust topped with chicken , onions , water_chestnut, sprouts and cheese"
+        },
+        {
+            "instructions": "bake on 350 for 20 minutes .",
+            "input": "ready_to_bake_pizza",
+            "action": "bake",
+            "output": "baked pizza"
+        },
+        {
+            "instructions": "top with ginger .",
+            "input": "(ginger; baked pizza)",
+            "action": "top",
+            "output": "Garnished pizza with ginger"
+        }
+    ],
+    "ingredients": [
+        {
+            "text": "12 cup chopped green onion"
+        },
+        {
+            "text": "13 cup chopped fresh cilantro leaves"
+        },
+        {
+            "text": "2 jalapeno peppers, stemmed, seeded and chopped"
+        },
+        {
+            "text": "2 teaspoons minced garlic"
+        },
+        {
+            "text": "1 teaspoon minced ginger"
+        },
+        {
+            "text": "1 (12 ounce) jar smooth peanut butter"
+        },
+        {
+            "text": "2 tablespoons sesame oil"
+        },
+        {
+            "text": "13 cup fish sauce"
+        },
+        {
+            "text": "1 tablespoon fresh lime juice"
+        },
+        {
+            "text": "1 (14 ounce) can coconut milk"
+        },
+        {
+            "text": "2 tablespoons hoisin sauce"
+        },
+        {
+            "text": "1 prebaked pie crust"
+        },
+        {
+            "text": "1 cup cooked shredded chicken"
+        },
+        {
+            "text": "4 diced spring onions"
+        },
+        {
+            "text": "1 (8 ounce) can water chestnuts, diced"
+        },
+        {
+            "text": "1 cup mozzarella cheese"
+        },
+        {
+            "text": "12 cup alfalfa sprout"
+        },
+        {
+            "text": "8 slices pickled ginger, diced"
+        }
+    ],
+    "recipe": [
+        {
+            "text": "To make sauce combine first 11 ingriedients in a food procesor."
+        },
+        {
+            "text": "spread over crust."
+        },
+        {
+            "text": "add chicken, onions, water chestnuts and sprouts."
+        },
+        {
+            "text": "top with cheese."
+        },
+        {
+            "text": "bake on 350 for 20 minutes."
+        },
+        {
+            "text": "top with ginger."
+        }
+    ]
+}

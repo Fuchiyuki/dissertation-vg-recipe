@@ -1,0 +1,103 @@
+{
+    "title": "easy_elegant_pizza_appetizers",
+    "id": "ffe31fe0cd",
+    "table": [
+        {
+            "instructions": "mix cheese , tomato_sauce , onions and black_olive .",
+            "input": "(cheese; tomato_sauce; onions; black_olive)",
+            "action": "mix",
+            "output": "cheese and tomato sauce mixture"
+        },
+        {
+            "instructions": "add oregano to taste i usually add about 1 tsp to start .",
+            "input": "(oregano; cheese and tomato sauce mixture)",
+            "action": "add",
+            "output": "oregano into cheese and tomato sauce mixture"
+        },
+        {
+            "instructions": "add salt and pepper to taste .",
+            "input": "(salt; pepper; cheese and tomato sauce mixture with oregano)",
+            "action": "add",
+            "output": "seasoned cheese and tomato sauce mixture"
+        },
+        {
+            "instructions": "cut each slice of bread in half or smaller if desired .",
+            "input": "slice of bread",
+            "action": "cut",
+            "output": "halved slice of bread"
+        },
+        {
+            "instructions": "spread about a spoonful of cheese mixture on bread .",
+            "input": "(seasoned cheese and tomato sauce mixture; halved slice of bread)",
+            "action": "spread",
+            "output": "seasoned cheese and tomato sauce mixture spread on slices of bread"
+        },
+        {
+            "instructions": "place on a greased cookie sheet",
+            "input": "slices of bread with cheese and tomato sauce mixture",
+            "action": "place",
+            "output": "slices of bread with cheese and tomato sauce mixture"
+        },
+        {
+            "instructions": "bake at 375 degrees until cheese melts .",
+            "input": "uncooked bread pizza slices",
+            "action": "bake",
+            "output": "baked bread pizza slices"
+        },
+        {
+            "instructions": "serve immediately .",
+            "input": "baked bread pizza slices",
+            "action": "serve",
+            "output": "baked bread pizza slices ready to serve"
+        }
+    ],
+    "ingredients": [
+        {
+            "text": "1 lb grated cheddar cheese (my mother always uses Sharp, but I prefer mild)"
+        },
+        {
+            "text": "1 (15 ounce) can tomato sauce"
+        },
+        {
+            "text": "14 cup instant minced onion (or equivalent of fresh)"
+        },
+        {
+            "text": "1 (3 3/4 ounce) canchopped black olives"
+        },
+        {
+            "text": "oregano"
+        },
+        {
+            "text": "salt & pepper"
+        },
+        {
+            "text": "15 -20 slices francisco French bread or 15 -20 slices miniature party rye rounds or 15 -20 slices sourdough bread"
+        }
+    ],
+    "recipe": [
+        {
+            "text": "Mix cheese, tomato sauce, onions and black olives."
+        },
+        {
+            "text": "Add oregano to taste (I usually add about 1 tsp to start.)"
+        },
+        {
+            "text": "Add salt and pepper to taste."
+        },
+        {
+            "text": "At this point you can refrigerate mix, covered, until ready to use."
+        },
+        {
+            "text": "Cut each slice of bread in half or smaller if desired."
+        },
+        {
+            "text": "Spread about a spoonful of cheese mixture on bread."
+        },
+        {
+            "text": "Place on a greased cookie sheet and bake at 375 degrees until cheese melts."
+        },
+        {
+            "text": "Serve immediately."
+        }
+    ]
+}

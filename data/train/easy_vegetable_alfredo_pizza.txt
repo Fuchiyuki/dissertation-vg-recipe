@@ -1,0 +1,166 @@
+{
+    "title": "easy_vegetable_alfredo_pizza",
+    "id": "5d1e5c9a0c",
+    "table": [
+        {
+            "instructions": "heat oven to 450f .",
+            "input": "NA",
+            "actions": "heat",
+            "output": "NA"
+        },
+        {
+            "instructions": "mix cream_cheese_spread , milk and seasoning until blended .",
+            "input": "(cream_cheese_spread; milk; seasoning)",
+            "actions": "mix",
+            "output": "cream_cheese_spread mixture"
+        },
+        {
+            "instructions": "meanwhile , heat 2 tsp of oil in large skillet on medium high heat .",
+            "input": "oil",
+            "actions": "heat",
+            "output": "heated oil"
+        },
+        {
+            "instructions": "add mushrooms and peppers ;",
+            "input": "(heated_oil; mushrooms; peppers)",
+            "actions": "add",
+            "output": "peppers and mushrooms added to heated oil"
+        },
+        {
+            "instructions": "cook 4 to 5 min .",
+            "input": "uncooked_peppers_and mushrooms",
+            "actions": "cook",
+            "output": "cooked_peppers_and_mushrooms"
+        },
+        {
+            "instructions": "add spinach ;",
+            "input": "(cooked_peppers_and_mushrooms; spinach)",
+            "actions": "add",
+            "output": "spinach added to cooked_peppers_and_mushrooms"
+        },
+        {
+            "instructions": "stir .",
+            "input": "cooked_peppers, mushrooms and spinach",
+            "actions": "stir",
+            "output": "stirred vegetable_mixture"
+        },
+        {
+            "instructions": "cook 1 min .",
+            "input": "stirred vegetable_mixture",
+            "actions": "cook",
+            "output": "cooked_vegetable_mixture"
+        },
+        {
+            "instructions": "remove from heat .",
+            "input": "cooked_vegetable_mixture",
+            "actions": "remove",
+            "output": "cooked_vegetable_mixture"
+        },
+        {
+            "instructions": "place pizza_crust on baking sheet ;",
+            "input": "pizza_crust",
+            "actions": "place",
+            "output": "pizza_crust"
+        },
+        {
+            "instructions": "spread with cream_cheese mixture .",
+            "input": "(pizza_crust; cream_cheese mixture)",
+            "actions": "spread",
+            "output": "cream_cheese_mixture_spread on_pizza_crust"
+        },
+        {
+            "instructions": "top with 12 cup cheese , cooked_vegetable and remaining cheese .",
+            "input": "(cream_cheese_mixture_spread on_pizza_crust; cheese; cooked_vegetable mixture)",
+            "actions": "top",
+            "output": "pizza crust with cream_cheese_mixture_, cooked vegetable mixture and remaining cheese"
+        },
+        {
+            "instructions": "brush edge of crust with remaining oil .",
+            "input": "(remaining oil; uncooked vegetable alfredo pizza)",
+            "actions": "brush",
+            "output": "uncooked vegetable alfredo pizza with oiled brushed edges"
+        },
+        {
+            "instructions": "bake 12 to 14 min .",
+            "input": "uncooked vegetable alfredo pizza with oiled brushed edges",
+            "actions": "bake",
+            "output": "baked vegetable alfredo pizza"
+        }
+    ],
+    "ingredients": [
+        {
+            "text": "2/3 cup PHILADELPHIA Cream Cheese Spread"
+        },
+        {
+            "text": "1 Tbsp. milk"
+        },
+        {
+            "text": "1/2 tsp. Italian seasoning"
+        },
+        {
+            "text": "1 Tbsp. oil, divided"
+        },
+        {
+            "text": "2 cups sliced fresh mushrooms"
+        },
+        {
+            "text": "1/2 red pepper, cut into strips"
+        },
+        {
+            "text": "3 cups baby spinach leaves"
+        },
+        {
+            "text": "1 ready-to-use baked pizza crust (12 inch)"
+        },
+        {
+            "text": "1-1/2 cups KRAFT Shredded Mozzarella Cheese with a TOUCH OF PHILADELPHIA"
+        }
+    ],
+    "recipe": [
+        {
+            "text": "Heat oven to 450F."
+        },
+        {
+            "text": "Mix cream cheese spread, milk and seasoning until blended."
+        },
+        {
+            "text": "Meanwhile, heat 2 tsp."
+        },
+        {
+            "text": "oil in large skillet on medium-high heat."
+        },
+        {
+            "text": "Add mushrooms and peppers; cook 4 to 5 min."
+        },
+        {
+            "text": "or until crisp-tender, stirring occasionally."
+        },
+        {
+            "text": "Add spinach; stir."
+        },
+        {
+            "text": "Cook 1 min."
+        },
+        {
+            "text": "or just until wilted."
+        },
+        {
+            "text": "Remove from heat."
+        },
+        {
+            "text": "Place pizza crust on baking sheet; spread with cream cheese mixture."
+        },
+        {
+            "text": "Top with 1/2 cup cheese, cooked vegetables and remaining cheese."
+        },
+        {
+            "text": "Brush edge of crust with remaining oil."
+        },
+        {
+            "text": "Bake 12 to 14 min."
+        },
+        {
+            "text": "or until cheese is melted."
+        }
+    ]
+}

@@ -1,0 +1,178 @@
+{
+    "title": "copycat_california_pizza_kitchen_tuscan_hummus",
+    "id": "1767ccb5a6",
+    "table": [
+        {
+            "instructions": "add the beans",
+            "input": "beans",
+            "action": "add",
+            "output": "beans"
+        },
+        {
+            "instructions": "next , with the machine running , puree them",
+            "input": "beans",
+            "action": "puree",
+            "output": "pureed beans"
+        },
+        {
+            "instructions": "you slowly pour the sesame_paste through the feed tube .",
+            "input": "(sesame paste; pureed beans)",
+            "action": "pour",
+            "output": "sesame paste poured over pureed beans"
+        },
+        {
+            "instructions": "still with the motor running , pour the olive_oil , lemon_juice , and soy_sauce through the feed tube , stopping the processor occasionally to scrape down the sides of the bowl .",
+            "input": "(olive_oil; lemon_juice; soy_sauce; sesame paste and beans mixture)",
+            "action": "pour",
+            "output": "olive_oil , lemon_juice and soy_sauce poured over sesame paste and beans mixture"
+        },
+        {
+            "instructions": "open the lid ,",
+            "input": "NA",
+            "action": "open",
+            "output": "NA"
+        },
+        {
+            "instructions": "add the salt , cumin , coriander , and cayenne .",
+            "input": "(cumin; salt; coriander; cayenne; beans puree)",
+            "action": "add",
+            "output": "cumin, salt, coriander and cayenne added to bean puree"
+        },
+        {
+            "instructions": "if the puree is too thick , mix in the 14 to 12 cup cold_water .",
+            "input": "(bean puree; water)",
+            "action": "mix",
+            "output": "runny bean puree"
+        },
+        {
+            "instructions": "transfer the puree to a bowl",
+            "input": "bean puree",
+            "action": "transfer",
+            "output": "bean puree"
+        },
+        {
+            "instructions": "cover ,",
+            "input": "bean puree",
+            "action": "cover",
+            "output": "bean puree"
+        },
+        {
+            "instructions": "refrigerate before serving .",
+            "input": "bean puree",
+            "action": "refrigerate",
+            "output": "refrigerated hummus"
+        },
+        {
+            "instructions": "preheat the oven to 250 degrees f .",
+            "input": "NA",
+            "action": "preheat",
+            "output": "NA"
+        },
+        {
+            "instructions": "put the pita_bread in the oven",
+            "input": "pita_bread",
+            "action": "put",
+            "output": "pita_bread"
+        },
+        {
+            "instructions": "heat until thoroughly warmed , 6 to 8 minutes .",
+            "input": "pita_bread",
+            "action": "heat",
+            "output": "heated pita_bread"
+        },
+        {
+            "instructions": "carefully remove",
+            "input": "heated pita_bread",
+            "action": "remove",
+            "output": "heated pita_bread"
+        },
+        {
+            "instructions": "cut into wedges .",
+            "input": "heated pita_bread",
+            "action": "cut",
+            "output": "cut pita_bread into wedges"
+        },
+        {
+            "instructions": "serve with the chilled hummus .",
+            "input": "(pita_bread_wedges; chilled hummus)",
+            "action": "serve",
+            "output": "chilled hummus served with pita_bread_wedges"
+        }
+    ],
+    "ingredients": [
+        {
+            "text": "10 medium garlic cloves"
+        },
+        {
+            "text": "30 ounces cannellini beans, canned drained"
+        },
+        {
+            "text": "12 cup sesame paste (tahini)"
+        },
+        {
+            "text": "14 cup fresh lemon juice"
+        },
+        {
+            "text": "1 tablespoon soy sauce"
+        },
+        {
+            "text": "12 teaspoon soy sauce"
+        },
+        {
+            "text": "1 12 teaspoons salt"
+        },
+        {
+            "text": "1 12 teaspoons ground cumin"
+        },
+        {
+            "text": "18 teaspoon ground coriander"
+        },
+        {
+            "text": "12 teaspoon cayenne pepper"
+        },
+        {
+            "text": "14 cup cold water, if needed"
+        },
+        {
+            "text": "2 tablespoons Italian parsley, minced fresh"
+        }
+    ],
+    "recipe": [
+        {
+            "text": "Process the garlic cloves in a food processor until finely minced, stopping the processor occasionally to scrape down the sides of the bowl."
+        },
+        {
+            "text": "Add the beans and pulse the machine a few times to chop them coarsely."
+        },
+        {
+            "text": "Next, with the machine running, puree them while you slowly pour the sesame paste through the feed tube."
+        },
+        {
+            "text": "Still with the motor running, pour the olive oil, lemon juice, and soy sauce through the feed tube, stopping the processor occasionally to scrape down the sides of the bowl."
+        },
+        {
+            "text": "Stop the processor, open the lid, and add the salt, cumin, coriander, and cayenne."
+        },
+        {
+            "text": "Process until thoroughly blended."
+        },
+        {
+            "text": "If the puree is too thick, mix in the 1/4 to 1/2 cup cold water."
+        },
+        {
+            "text": "Transfer the puree to a bowl, cover, and refrigerate before serving."
+        },
+        {
+            "text": "Preheat the oven to 250 degrees F."
+        },
+        {
+            "text": "Put the pita breads in the oven and heat until thoroughly warmed, 6 to 8 minutes."
+        },
+        {
+            "text": "Carefully remove and cut into wedges."
+        },
+        {
+            "text": "Serve with the chilled hummus."
+        }
+    ]
+}

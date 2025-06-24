@@ -1,0 +1,181 @@
+{
+    "title": "caramelized-leek_and_bacon_pizza",
+    "id": "272eb76292",
+    "table": [
+        {
+            "instructions": "in a large pan over medium heat , cook bacon until crisp , about 8 minutes .",
+            "input": "bacon",
+            "actions": "cook",
+            "output": "cooked_bacon"
+        },
+        {
+            "instructions": "transfer to a paper towel lined plate ;",
+            "input": "cooked_bacon",
+            "actions": "transfer",
+            "output": "cooked_bacon"
+        },
+        {
+            "instructions": "set aside .",
+            "input": "cooked_bacon",
+            "actions": "set",
+            "output": "cooked_bacon"
+        },
+        {
+            "instructions": "drain all but a very thin layer of bacon_fat from pan .",
+            "input": "cooked_bacon",
+            "actions": "drain",
+            "output": "drained bacon fat from cooked bacon"
+        },
+        {
+            "instructions": "add leeks to pan",
+            "input": "(leeks; bacon_fat)",
+            "actions": "add",
+            "output": "leeks added to bacon fat"
+        },
+        {
+            "instructions": "saute until soft , about 12 minutes .",
+            "input": "leeks added to bacon fat",
+            "actions": "saute",
+            "output": "sauteed leeks in bacon fat"
+        },
+        {
+            "instructions": "remove pan from heat ;",
+            "input": "sauteed leeks in bacon fat",
+            "actions": "remove",
+            "output": "sauteed leeks in bacon fat"
+        },
+        {
+            "instructions": "set aside .",
+            "input": "sauteed leeks in bacon fat",
+            "actions": "set",
+            "output": "sauteed leeks in bacon fat"
+        },
+        {
+            "instructions": "preheat oven , with pizza stone set on lowest rack , to 500 degrees f .",
+            "input": "NA",
+            "actions": "preheat",
+            "output": "NA"
+        },
+        {
+            "instructions": "on a lightly floured surface and using a rolling pin , flatten dough to a 12 inch circle that 's 12 inch thick .",
+            "input": "dough",
+            "actions": "flatten",
+            "output": "pizza crust"
+        },
+        {
+            "instructions": "drizzle crust with olive_oil",
+            "input": "(pizza_crust; olive_oil)",
+            "actions": "drizzle",
+            "output": "olive_oil_drizzled on pizza crust"
+        },
+        {
+            "instructions": "sprinkle on garlic_powder .",
+            "input": "(garlic_powder; oiled_pizza_crust)",
+            "actions": "sprinkle",
+            "output": "garlic_powder sprinkled on oiled pizza crust"
+        },
+        {
+            "instructions": "using a rubber spatula , spread a thin layer of mascarpone on the crust .",
+            "input": "(mascarpone; pizza_crust)",
+            "actions": "spread",
+            "output": "mascarpone spred on pizza crust"
+        },
+        {
+            "instructions": "sprinkle on half the mozzarella ,",
+            "input": "(pizza_crust; mozzarella)",
+            "actions": "sprinkle",
+            "output": "pizza_crust_with sprinkled mozzarella"
+        },
+        {
+            "instructions": "top with reserved leeks and bacon .",
+            "input": "(sauteed leeks; bacon; pizza_crust)",
+            "actions": "top",
+            "output": "pizza_crust_topped_with_sauteed_leeks and cooked bacon"
+        },
+        {
+            "instructions": "sprinkle on parmesan and remaining mozzarella .",
+            "input": "(parmesan; mozzarella; uncooked_leek and bacon_pizza)",
+            "actions": "sprinkle",
+            "output": "parmesan and mozzarella sprinkled over uncooked_leek and bacon_pizza"
+        },
+        {
+            "instructions": "bake until crust is golden and cheese is bubbly , 10 to 12 minutes .",
+            "input": "uncooked_leek and bacon_pizza",
+            "actions": "bake",
+            "output": "baked_leek and bacon_pizza"
+        },
+        {
+            "instructions": "let sit 2 minutes before slicing .",
+            "input": "baked_leek and bacon_pizza",
+            "actions": "sit",
+            "output": "baked_leek and bacon_pizza"
+        }
+    ],
+    "ingredients": [
+        {
+            "text": "6 slice thick-cut bacon"
+        },
+        {
+            "text": "2 medium leeks"
+        },
+        {
+            "text": "flour"
+        },
+        {
+            "text": "1 lb. store-bought pizza dough"
+        },
+        {
+            "text": "1 tbsp. olive oil"
+        },
+        {
+            "text": "1/2 tsp. garlic powder"
+        },
+        {
+            "text": "1/4 c. mascarpone"
+        },
+        {
+            "text": "1 1/2 c. shredded mozzarella"
+        },
+        {
+            "text": "1/4 c. grated Parmesan"
+        }
+    ],
+    "recipe": [
+        {
+            "text": "In a large pan over medium heat, cook bacon until crisp, about 8 minutes."
+        },
+        {
+            "text": "Transfer to a paper-towel-lined plate; set aside."
+        },
+        {
+            "text": "Drain all but a very thin layer of bacon fat from pan."
+        },
+        {
+            "text": "Add leeks to pan and saute until soft, about 12 minutes."
+        },
+        {
+            "text": "Remove pan from heat; set aside."
+        },
+        {
+            "text": "Preheat oven, with pizza stone set on lowest rack, to 500 degrees F. On a lightly floured surface and using a rolling pin, flatten dough to a 12-inch circle that's 1/2 inch thick."
+        },
+        {
+            "text": "Drizzle crust with olive oil and sprinkle on garlic powder."
+        },
+        {
+            "text": "Using a rubber spatula, spread a thin layer of mascarpone on the crust."
+        },
+        {
+            "text": "Sprinkle on half the mozzarella, then top with reserved leeks and bacon."
+        },
+        {
+            "text": "Sprinkle on Parmesan and remaining mozzarella."
+        },
+        {
+            "text": "Bake until crust is golden and cheese is bubbly, 10 to 12 minutes."
+        },
+        {
+            "text": "Let sit 2 minutes before slicing."
+        }
+    ]
+}

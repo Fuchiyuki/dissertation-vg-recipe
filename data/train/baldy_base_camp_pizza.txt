@@ -1,0 +1,109 @@
+{
+    "title": "baldy_base_camp_pizza",
+    "id": "4d5c1b8ae8",
+    "table": [
+        {
+            "instructions": "mix pizza_dough per instructions , adding rosemary , basil and oregano to the dough .",
+            "input": "(pizza_dough ingredients; rosemary; basil; oregano)",
+            "action": "mix",
+            "output": "mixed_pizza_dough with herbs"
+        },
+        {
+            "instructions": "spread it out in a pizza\u2012pan",
+            "input": "mixed_pizza_dough with herbs",
+            "action": "spread",
+            "output": "pizza dough with herbs spread on pizza pan"
+        },
+        {
+            "instructions": "bake for 8 to 10 minutes until golden .",
+            "input": "pizza dough with herbs spread on pizza pan",
+            "action": "bake",
+            "output": "baked herb pizza crust"
+        },
+        {
+            "instructions": "cut the top off of the garlic_bulb .",
+            "input": "Garlic bulb",
+            "action": "cut",
+            "output": "Garlic bulb with top cut off"
+        },
+        {
+            "instructions": "put olive_oil and italian_seasoning into a ramekin",
+            "input": "(Olive Oil; italian seasoning)",
+            "action": "put",
+            "output": "olive oil and italian seasoning"
+        },
+        {
+            "instructions": "put in the bulb cut side down .",
+            "input": "(Garlic bulb with top cut off; olive oil and italian seasoning)",
+            "action": "put",
+            "output": "Garlic bulb with top cut off in olive oil and italian seasoning"
+        },
+        {
+            "instructions": "bake in a toaster oven at 350f 180c for 25 minutes .",
+            "input": "Garlic bulb with top cut off in olive oil and italian seasoning",
+            "action": "bake",
+            "output": "roasted garlic bulb"
+        },
+        {
+            "instructions": "cut the pizza into slices",
+            "input": "baked herb pizza crust",
+            "action": "cut",
+            "output": "sliced pizza crust"
+        },
+        {
+            "instructions": "serve with the cambozola cheese and garlic .",
+            "input": "(sliced pizza crust; cambozola cheese; roasted garlic bulb)",
+            "action": "serve",
+            "output": "sliced pizza crust served with cambozola cheese and roasted garlic"
+        }
+    ],
+    "ingredients": [
+        {
+            "text": "1 box pizza dough"
+        },
+        {
+            "text": "2 teaspoons rosemary leaves"
+        },
+        {
+            "text": "1 teaspoon basil"
+        },
+        {
+            "text": "1 teaspoon oregano"
+        },
+        {
+            "text": "1 large garlic bulb red, skinned"
+        },
+        {
+            "text": "8 ounces cambozola cheese"
+        },
+        {
+            "text": "1 tablespoon olive oil"
+        },
+        {
+            "text": "1 teaspoon italian seasoning"
+        }
+    ],
+    "recipe": [
+        {
+            "text": "Mix pizza dough per instructions, adding rosemary, basil and oregano to the dough."
+        },
+        {
+            "text": "Spread it out in a pizza pan and bake for 8 to 10 minutes until golden."
+        },
+        {
+            "text": "Cut the top off of the garlic bulb."
+        },
+        {
+            "text": "Put olive oil and italian seasoning into a ramekin and put in the bulb cut side down."
+        },
+        {
+            "text": "Bake in a toaster oven at 350F (180C) for 25 minutes."
+        },
+        {
+            "text": "Cut the pizza into slices and serve with the Cambozola cheese and garlic."
+        },
+        {
+            "text": "To eat, place some cheese onto a slice, pop a garlic clove onto it and smear it in."
+        }
+    ]
+}

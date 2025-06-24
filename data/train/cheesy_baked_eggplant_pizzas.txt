@@ -1,0 +1,136 @@
+{
+    "title": "cheesy_baked_eggplant_pizzas",
+    "id": "efebec12d6",
+    "table": [
+        {
+            "instructions": "preheat oven to 350 degrees f .",
+            "input": "NA",
+            "action": "preheat",
+            "output": "NA"
+        },
+        {
+            "instructions": "press each slice of eggplant with paper towels to remove a little of the excess moisture .",
+            "input": "eggplant slice",
+            "action": "press",
+            "output": "dried eggplant slice"
+        },
+        {
+            "instructions": "put egg_white and bread_crumb in separate shallow bowls .",
+            "input": "(egg_white; bread_crumb)",
+            "action": "put",
+            "output": "(egg_white; bread_crumb)"
+        },
+        {
+            "instructions": "dip eggplant slices in egg_white ,",
+            "input": "(dried eggplant slices; egg_white)",
+            "action": "dip",
+            "output": "dipped_dried eggplant slice in egg white"
+        },
+        {
+            "instructions": "coat with breadcrumbs .",
+            "input": "(dipped_dried eggplant slice in egg white; breadcrumbs)",
+            "action": "coat",
+            "output": "dipped_dried eggplant slice in egg white coated in breadcrumbs"
+        },
+        {
+            "instructions": "put on a baking sheet",
+            "input": "breaded_eggplant",
+            "action": "put",
+            "output": "breaded_eggplant"
+        },
+        {
+            "instructions": "drizzle with a tiny bit of olive_oil .",
+            "input": "(olive oil; breaded_eggplant)",
+            "action": "drizzle",
+            "output": "oil_drizzled_on_breaded_eggplant"
+        },
+        {
+            "instructions": "bake for 10 minutes or until crisp on one side .",
+            "input": "oil_drizzled_on_breaded_eggplant",
+            "action": "bake",
+            "output": "baked_breaded eggplant slices"
+        },
+        {
+            "instructions": "turn each piece over",
+            "input": "baked_breaded eggplant slices",
+            "action": "turn",
+            "output": "baked_breaded eggplant slices"
+        },
+        {
+            "instructions": "drizzle with a tiny bit of olive_oil ,",
+            "input": "(olive oil; baked_breaded eggplant slices)",
+            "action": "drizzle",
+            "output": "olive oil drizzled over baked_breaded eggplant slices"
+        },
+        {
+            "instructions": "bake another 5 8 minutes .",
+            "input": "baked_breaded eggplant slices",
+            "action": "bake",
+            "output": "twice baked_breaded eggplant slices"
+        },
+        {
+            "instructions": "top each slice with a little tomato_sauce , spinach or other toppings , and cheese .",
+            "input": "(twice baked_breaded eggplant slices; tomato_sauce; spinach, cheese)",
+            "action": "top",
+            "output": "twice baked_breaded eggplant slices topepd with tomato sauce, spinach and cheese"
+        },
+        {
+            "instructions": "bake another 5 10 minutes until cheese is melted .",
+            "input": "twice baked_breaded eggplant slices topepd with tomato sauce, spinach and cheese",
+            "action": "bake",
+            "output": "thrice baked_breaded eggplant slices topepd with tomato sauce, spinach and cheese"
+        }
+    ],
+    "ingredients": [
+        {
+            "text": "1 whole Large Eggplant, Unpeeled, Cut Into 1 Inch Slices"
+        },
+        {
+            "text": "1/2 cups Egg Whites"
+        },
+        {
+            "text": "1 cup Seasoned Bread Crumbs"
+        },
+        {
+            "text": "1 Tablespoon Olive Oil"
+        },
+        {
+            "text": "1 cup Tomato Sauce"
+        },
+        {
+            "text": "1 bunch Fresh Baby Spinach"
+        },
+        {
+            "text": "1 cup Shredded Or Sliced Mozzarella (or Provolone)"
+        }
+    ],
+    "recipe": [
+        {
+            "text": "Preheat oven to 350 degrees F. Press each slice of eggplant with paper towels to remove a little of the excess moisture."
+        },
+        {
+            "text": "Put egg whites and bread crumbs in separate shallow bowls."
+        },
+        {
+            "text": "Dip eggplant slices in egg whites, then coat with breadcrumbs."
+        },
+        {
+            "text": "Put on a baking sheet and drizzle with a tiny bit of olive oil."
+        },
+        {
+            "text": "Bake for 10 minutes or until crisp on one side."
+        },
+        {
+            "text": "Turn each piece over, drizzle with a tiny bit of olive oil, and bake another 5-8 minutes."
+        },
+        {
+            "text": "Top each slice with a little tomato sauce, spinach (or other toppings), and cheese."
+        },
+        {
+            "text": "Bake another 5-10 minutes until cheese is melted."
+        },
+        {
+            "text": "Note: You can also use more traditional toppings like pepperoni or sausage if you dont need it to be meatless."
+        }
+    ]
+}

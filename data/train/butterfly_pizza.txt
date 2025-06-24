@@ -1,0 +1,151 @@
+{
+    "title": "butterfly_pizza",
+    "id": "3de891f2ee",
+    "table": [
+        {
+            "instructions": "preheat oven to 475 degrees f .",
+            "input": "NA",
+            "action": "preheat",
+            "output": "NA"
+        },
+        {
+            "instructions": "grease a large flat baking sheet with olive_oil .",
+            "input": "NA",
+            "action": "grease",
+            "output": "NA"
+        },
+        {
+            "instructions": "separate 13 of the dough",
+            "input": "dough",
+            "action": "separate",
+            "output": "separated dough"
+        },
+        {
+            "instructions": "set aside .",
+            "input": "separated dough",
+            "action": "set",
+            "output": "separated dough"
+        },
+        {
+            "instructions": "on a greased baking sheet shape the remaining two thirds of the dough into a butterfly with 2 wings .",
+            "input": "dough",
+            "action": "shape",
+            "output": "shaped dough in wings shape"
+        },
+        {
+            "instructions": "roll the reserved piece of dough into a snake",
+            "input": "remaining dough",
+            "action": "roll",
+            "output": "rolled remaining dough into a snake shape"
+        },
+        {
+            "instructions": "position in the center of the two wings as the body .",
+            "input": "rolled remaining dough into a snake shape; shaped dough in wings shape",
+            "action": "position",
+            "output": "rolled remaining dough into a snake shape position at the center of wings shaped dough"
+        },
+        {
+            "instructions": "pull some of the body dough up to shape into a head",
+            "input": "rolled remaining dough into a snake shape position at the center of wings shaped dough",
+            "action": "pull",
+            "output": "rolled remaining dough into a snake shape position at the center of wings shaped dough"
+        },
+        {
+            "instructions": "pull some of the body dough down for a tail .",
+            "input": "rolled remaining dough into a snake shape position at the center of wings shaped dough",
+            "action": "pull",
+            "output": "rolled remaining dough into a snake shape position at the center of wings shaped dough"
+        },
+        {
+            "instructions": "spread sauce over the wings .",
+            "input": "sauce; rolled remaining dough into a snake shape position at the center of wings shaped dough",
+            "action": "spread",
+            "output": "spread_sauce over wings shaped dough portion"
+        },
+        {
+            "instructions": "sprinkle with cheese",
+            "input": "cheese; butterfly shaped crust with sauce",
+            "action": "sprinkle",
+            "output": "butterfly shaped pizza crust topped with sauce and cheese"
+        },
+        {
+            "instructions": "decorate with toppings of choice .",
+            "input": "Toppings; butterfly shaped pizza crust topped with sauce and cheese",
+            "action": "decorate",
+            "output": "butterfly shaped pizza crust topped with sauce and cheese and toppings"
+        },
+        {
+            "instructions": "bake the pizza on the middle rack of the oven for 20 to 30 minutes until crust is golden brown and cheese is bubbly .",
+            "input": "Uncooked butterfly_pizza",
+            "action": "bake",
+            "output": "baked butterfly_pizza"
+        },
+        {
+            "instructions": "serve warm .",
+            "input": "baked butterfly_pizza",
+            "action": "serve",
+            "output": "baked butterfly_pizza"
+        }
+    ],
+    "ingredients": [
+        {
+            "text": "2 to 3 tablespoons olive oil"
+        },
+        {
+            "text": "1 recipe basic pizza dough"
+        },
+        {
+            "text": "2 cups prepared tomato sauce"
+        },
+        {
+            "text": "3 cups grated mozzarella, cheddar and/or monterey jack cheese"
+        },
+        {
+            "text": "1 green bell pepper, cut into 1/2-inch wide strips"
+        },
+        {
+            "text": "1 yellow or orange bell pepper, cut into strips"
+        },
+        {
+            "text": "Large Kalamata olives, halved and pitted"
+        },
+        {
+            "text": "Sliced pepperoni"
+        }
+    ],
+    "recipe": [
+        {
+            "text": "Preheat oven to 475 degrees F. Grease a large flat baking sheet with olive oil."
+        },
+        {
+            "text": "Separate 1/3 of the dough and set aside."
+        },
+        {
+            "text": "On a greased baking sheet shape the remaining two- thirds of the dough into a butterfly with 2 wings."
+        },
+        {
+            "text": "Roll the reserved piece of dough into a \"snake\" and position in the center of the two wings as the \"body\"."
+        },
+        {
+            "text": "Pull some of the \"body\" dough up to shape into a \"head\" and pull some of the \"body\" dough down for a \"tail.\""
+        },
+        {
+            "text": "Spread sauce over the \"wings\"."
+        },
+        {
+            "text": "Sprinkle with cheese and decorate with toppings of choice."
+        },
+        {
+            "text": "Bake the pizza on the middle rack of the oven for 20 to 30 minutes until crust is golden brown and cheese is bubbly."
+        },
+        {
+            "text": "Serve warm."
+        },
+        {
+            "text": "As an alternative the dough can be divided into 4 pieces and then shaped into bug or creature of choice, i.e."
+        },
+        {
+            "text": "spider with legs, ladybug, dragonfly, snake, etc."
+        }
+    ]
+}

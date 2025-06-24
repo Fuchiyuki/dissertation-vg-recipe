@@ -1,0 +1,109 @@
+{
+    "title": "english-muffin_breakfast_pizza",
+    "id": "9e39bf3d68",
+    "table": [
+        {
+            "instructions": "preheat the oven to 450 degrees .",
+            "input": "NA",
+            "action": "preheat",
+            "output": "NA"
+        },
+        {
+            "instructions": "line a small baking sheet with foil .",
+            "input": "NA",
+            "action": "line",
+            "output": "NA"
+        },
+        {
+            "instructions": "place the english_muffin halves cut side up on the baking sheet .",
+            "input": "english_muffin",
+            "action": "place",
+            "output": "english_muffin"
+        },
+        {
+            "instructions": "top each with tomato",
+            "input": "(english_muffin; tomato)",
+            "action": "top",
+            "output": "tomato_topped_english_muffin"
+        },
+        {
+            "instructions": "drizzle with the olive_oil .",
+            "input": "(tomato_topped_english_muffin; olive_oil)",
+            "action": "drizzle",
+            "output": "oil_covered_tomato_topped_english_muffin"
+        },
+        {
+            "instructions": "sprinkle the canadian_bacon over the tomatoes ,",
+            "input": "(oil_covered_tomato_topped_english_muffin; canandian_bacon)",
+            "action": "sprinkle",
+            "output": "oil_covered_tomato_canandian_bacon__topped_english_muffin"
+        },
+        {
+            "instructions": "top with the mozzarella .",
+            "input": "(oil_covered_tomato_canandian_bacon__topped_english_muffin; mozzarella)",
+            "action": "top",
+            "output": "oil_covered_tomato_canandian_bacon__topped_english_muffin topped with mozzarella"
+        },
+        {
+            "instructions": "bake for 10 to 12 minutes , or until the cheese is melted and beginning to brown .",
+            "input": "uncooked english-muffin_breakfast_pizza",
+            "action": "bake",
+            "output": "baked english-muffin_breakfast_pizza"
+        },
+        {
+            "instructions": "sprinkle with basil .",
+            "input": "(baked english-muffin_breakfast_pizza; basil)",
+            "action": "sprinkle",
+            "output": "basil sprinkled on baked english-muffin_breakfast_pizza"
+        }
+    ],
+    "ingredients": [
+        {
+            "text": "1 whole-wheat English muffin, split"
+        },
+        {
+            "text": "1 small tomato, seeded and diced"
+        },
+        {
+            "text": "1 teaspoon extra-virgin olive oil"
+        },
+        {
+            "text": "1 thin slice (1/2 ounce) Canadian bacon, diced"
+        },
+        {
+            "text": "1/4 cup shredded part-skim mozzarella cheese"
+        },
+        {
+            "text": "Chopped fresh basil, for garnish"
+        }
+    ],
+    "recipe": [
+        {
+            "text": "Preheat the oven to 450 degrees."
+        },
+        {
+            "text": "Line a small baking sheet with foil."
+        },
+        {
+            "text": "Place the English muffin halves cut-side up on the baking sheet."
+        },
+        {
+            "text": "Top each with tomato and drizzle with the olive oil."
+        },
+        {
+            "text": "Sprinkle the Canadian bacon over the tomatoes, then top with the mozzarella."
+        },
+        {
+            "text": "Bake for 10 to 12 minutes, or until the cheese is melted and beginning to brown."
+        },
+        {
+            "text": "Sprinkle with basil."
+        },
+        {
+            "text": "Photograph by Kate Mathis"
+        },
+        {
+            "text": "Per serving: Calories 300; Fat 13 g (Saturated 5 g); Cholesterol 20 mg; Sodium 670 mg; Carbohydrate 32 g; Fiber 6 g; Protein 17 g"
+        }
+    ]
+}

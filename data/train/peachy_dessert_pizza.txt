@@ -1,0 +1,205 @@
+{
+    "title": "peachy_dessert_pizza",
+    "id": "3c23c40964",
+    "table": [
+        {
+            "instructions": "preheat oven to 450f .",
+            "input": "NA",
+            "actions": "preheat",
+            "output": "NA"
+        },
+        {
+            "instructions": "line pizza\u2012pan or baking sheet with foil .",
+            "input": "NA",
+            "actions": "line",
+            "output": "NA"
+        },
+        {
+            "instructions": "place brown_sugar , lemon_juice and cinnamon in mixing bowl ,",
+            "input": "(brown_sugar; lemon_juice; cinnamon)",
+            "actions": "place",
+            "output": "brown_sugar mixture"
+        },
+        {
+            "instructions": "stir to combine .",
+            "input": "brown_sugar mixture",
+            "actions": "stir",
+            "output": "brown_sugar mixture"
+        },
+        {
+            "instructions": "add peaches ,",
+            "input": "(peaches; brown_sugar mixture)",
+            "actions": "add",
+            "output": "peach and brown sugar mixture"
+        },
+        {
+            "instructions": "stir to coat slices with mixture .",
+            "input": "peach and brown sugar mixture",
+            "actions": "stir",
+            "output": "stirred peach and brown sugar mixture"
+        },
+        {
+            "instructions": "set aside .",
+            "input": "peach mixture",
+            "actions": "set",
+            "output": "peach mixture"
+        },
+        {
+            "instructions": "place ricotta_cheese in separate mixing bowl ,",
+            "input": "ricotta_cheese",
+            "actions": "place",
+            "output": "ricotta_cheese"
+        },
+        {
+            "instructions": "beat in sugar , lemon_peel and vanilla_extract .",
+            "input": "(ricotta_cheese; sugar ; lemon_peel ; vanilla_extract)",
+            "actions": "beat",
+            "output": "beaten ricotta_cheese mixture"
+        },
+        {
+            "instructions": "butter pizza_crust ,",
+            "input": "pizza crust",
+            "actions": "butter",
+            "output": "buttered pizza crust"
+        },
+        {
+            "instructions": "place on baking sheet .",
+            "input": "Buttered pizza crust",
+            "actions": "place",
+            "output": "Buttered pizza crust"
+        },
+        {
+            "instructions": "spoon half the peach mixture over crust .",
+            "input": "(peach mixture; Buttered pizza crust)",
+            "actions": "spoon",
+            "output": "pizza base with peach mixture"
+        },
+        {
+            "instructions": "sprinkle with half the almonds .",
+            "input": "(pizza base with peach mixture; almonds)",
+            "actions": "sprinkle",
+            "output": "pizza base with peach mixture sprinkled with almonds"
+        },
+        {
+            "instructions": "top with ricotta_cheese mixture ,",
+            "input": "(pizza base with peach mixture sprinkled with almonds; ricotta_cheese mixture)",
+            "actions": "top",
+            "output": "pizza base with peach and almonds topped with ricotta cheese mixture"
+        },
+        {
+            "instructions": "spoon remaining peach mixture over top .",
+            "input": "(pizza base with peaches and almonds topped with ricotta cheese mixture; remaining peach mixture)",
+            "actions": "spoon",
+            "output": "pizza base with peaches and almonds topped with ricotta cheese mixture"
+        },
+        {
+            "instructions": "sprinkle evenly with remaining almonds .",
+            "input": "(pizza base with peaches, almonds and ricotta cheese mixture; remaining almonds)",
+            "actions": "sprinkle",
+            "output": "pizza base with peaches, almonds and ricotta cheese mixture"
+        },
+        {
+            "instructions": "bake for 8 to 10 minutes .",
+            "input": "uncooked peachy dessert pizza",
+            "actions": "bake",
+            "output": "cooked peachy dessert pizza"
+        },
+        {
+            "instructions": "remove from oven",
+            "input": "cooked peachy dessert pizza",
+            "actions": "remove",
+            "output": "cooked peachy dessert pizza"
+        },
+        {
+            "instructions": "garnish with strawberries",
+            "input": "(cooked peachy dessert pizza; strawberries)",
+            "actions": "garnish",
+            "output": "peachy dessert pizza topped with strawberries"
+        },
+        {
+            "instructions": "serve .",
+            "input": "peachy dessert pizza topped with strawberries",
+            "actions": "serve",
+            "output": "peachy dessert pizza topped with strawberries"
+        }
+    ],
+    "ingredients": [
+        {
+            "text": "13 cup firmly packed brown sugar"
+        },
+        {
+            "text": "2 Tbs. fresh lemon juice"
+        },
+        {
+            "text": "1 tsp. ground cinnamon"
+        },
+        {
+            "text": "2 medium-sized peaches, unpeeled and sliced"
+        },
+        {
+            "text": "1 cup low-fat ricotta cheese"
+        },
+        {
+            "text": "13 cup confectioners sugar"
+        },
+        {
+            "text": "1/4 cup candied lemon peel"
+        },
+        {
+            "text": "1 tsp. vanilla extract"
+        },
+        {
+            "text": "1 tsp. butter or soy margarine"
+        },
+        {
+            "text": "1 8-inch premade, round pizza crust"
+        },
+        {
+            "text": "1/2 cup thinly sliced almonds"
+        },
+        {
+            "text": "2 cups sliced fresh strawberries"
+        }
+    ],
+    "recipe": [
+        {
+            "text": "Preheat oven to 450F."
+        },
+        {
+            "text": "Line pizza pan or baking sheet with foil."
+        },
+        {
+            "text": "Place brown sugar, lemon juice and cinnamon in mixing bowl, and stir to combine."
+        },
+        {
+            "text": "Add peaches, and stir to coat slices with mixture."
+        },
+        {
+            "text": "Set aside."
+        },
+        {
+            "text": "Place ricotta cheese in separate mixing bowl, and beat in sugar, lemon peel and vanilla extract."
+        },
+        {
+            "text": "Butter pizza crust, and place on baking sheet."
+        },
+        {
+            "text": "Spoon half the peach mixture over crust."
+        },
+        {
+            "text": "Sprinkle with half the almonds."
+        },
+        {
+            "text": "Top with ricotta cheese mixture, and spoon remaining peach mixture over top."
+        },
+        {
+            "text": "Sprinkle evenly with remaining almonds."
+        },
+        {
+            "text": "Bake for 8 to 10 minutes."
+        },
+        {
+            "text": "Remove from oven, garnish with strawberries and serve."
+        }
+    ]
+}

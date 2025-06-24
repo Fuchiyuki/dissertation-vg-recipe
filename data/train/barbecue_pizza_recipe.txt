@@ -1,0 +1,136 @@
+{
+    "title": "barbecue_pizza_recipe",
+    "id": "6bd95e5f24",
+    "table": [
+        {
+            "instructions": "unroll pizza_dough",
+            "input": "pizza dough",
+            "actions": "unroll",
+            "output": "unrolled pizza dough"
+        },
+        {
+            "instructions": "brush one side with extra virgin_olive_oil .",
+            "input": "(unrolled pizza dough; extra virgin_olive_oil)",
+            "actions": "brush",
+            "output": "unrolled pizza dough brushed with extra virgin_olive_oil"
+        },
+        {
+            "instructions": "put in grill , oil side down .",
+            "input": "uncooked pizza crust",
+            "actions": "put",
+            "output": "baked pizza crust"
+        },
+        {
+            "instructions": "watch carefully",
+            "input": "NA",
+            "actions": "watch",
+            "output": "NA"
+        },
+        {
+            "instructions": "it does n't burn .",
+            "input": "NA",
+            "actions": "burn",
+            "output": "NA"
+        },
+        {
+            "instructions": "just leave on till it begins to puff up 4 6 min .",
+            "input": "NA",
+            "actions": "leave",
+            "output": "NA"
+        },
+        {
+            "instructions": "remove from grill .",
+            "input": "baked pizza crust",
+            "actions": "remove",
+            "output": "baked pizza crust"
+        },
+        {
+            "instructions": "spread extra virgin_olive_oil on other side .",
+            "input": "(baked pizza crust; extra virgin_olive_oil)",
+            "actions": "spread",
+            "output": "extra virgin_olive_oil spread on other side of baked pizza crust"
+        },
+        {
+            "instructions": "on cooked side spread goat_cheese to cover entire surface area .",
+            "input": "(goat cheese; baked oiled pizza crust)",
+            "actions": "spread",
+            "output": "goat cheese spread on baked pizza crust"
+        },
+        {
+            "instructions": "decorate with basil and tomato .",
+            "input": "(basil; tomato; baked pizza crust with goat cheese)",
+            "actions": "decorate",
+            "output": "baked pizza crust with goat cheese decorated with basil and tomato"
+        },
+        {
+            "instructions": "sprinkle with mozzarella_cheese .",
+            "input": "(mozzarella cheese; goat cheese pizza)",
+            "actions": "sprinkle",
+            "output": "mozzarella cheese sprinkled on goat cheese pizza"
+        },
+        {
+            "instructions": "could also add in meat i.",
+            "input": "NA",
+            "actions": "add",
+            "output": "NA"
+        }
+    ],
+    "ingredients": [
+        {
+            "text": "Pizza dough from dairy case"
+        },
+        {
+            "text": "8 ounce. container spreadable goat cheese"
+        },
+        {
+            "text": "2 very ripe tomatoes or possibly sundried tomatoes"
+        },
+        {
+            "text": "Fresh basil leaves"
+        },
+        {
+            "text": "1/2 c. shredded Mozzarella cheese"
+        },
+        {
+            "text": "Extra virgin olive oil"
+        }
+    ],
+    "recipe": [
+        {
+            "text": "Unroll pizza dough and brush one side with extra virgin olive oil."
+        },
+        {
+            "text": "Put in grill oil side down."
+        },
+        {
+            "text": "Watch carefully so it doesn't burn."
+        },
+        {
+            "text": "Just leave on till it begins to puff up 4-6 min."
+        },
+        {
+            "text": "Remove from grill."
+        },
+        {
+            "text": "Spread extra virgin olive oil on other side."
+        },
+        {
+            "text": "On cooked side spread goat cheese to cover entire surface area."
+        },
+        {
+            "text": "Decorate with basil and tomato."
+        },
+        {
+            "text": "Sprinkle with Mozzarella cheese."
+        },
+        {
+            "text": "Could also add in meat (i.e."
+        },
+        {
+            "text": "shrimp, pepperoni)."
+        },
+        {
+            "text": "Continue baking or possibly grill till cheese melts."
+        }
+    ]
+}

@@ -1,0 +1,226 @@
+{
+    "title": "swiss_cheese_calzone_pizza_pocket_oamc",
+    "id": "34b9dc72b6",
+    "table": [
+        {
+            "instructions": "combine first five ingredients in a large bowl",
+            "input": "yeast, sugar, plain flour, olive oil, warm water",
+            "action": "combine",
+            "output": "dough"
+        },
+        {
+            "instructions": "mix to form a soft dough .",
+            "input": "dough",
+            "action": "mix",
+            "output": "dough"
+        },
+        {
+            "instructions": "turn dough on to a floured board and",
+            "input": "dough",
+            "action": "turn",
+            "output": "dough"
+        },
+        {
+            "instructions": "knead until ' springy ' about five minutes .",
+            "input": "dough",
+            "action": "knead",
+            "output": "kneaded dough"
+        },
+        {
+            "instructions": "place dough into oiled bowl",
+            "input": "dough",
+            "action": "place",
+            "output": "oiled dough"
+        },
+        {
+            "instructions": "cover with a tea towel",
+            "input": "oiled dough",
+            "action": "cover",
+            "output": "covered dough"
+        },
+        {
+            "instructions": "put in a warm place for 40 minutes , or until doubled in size .",
+            "input": "covered dough",
+            "action": "put",
+            "output": "rested dough"
+        },
+        {
+            "instructions": "turn on to floured board",
+            "input": "rested dough",
+            "action": "turn",
+            "output": "rested dough"
+        },
+        {
+            "instructions": "knead for minutes .",
+            "input": "rested dough",
+            "action": "knead",
+            "output": "kneaded dough"
+        },
+        {
+            "instructions": "roll each into a circle .",
+            "input": "kneaded dough",
+            "action": "roll",
+            "output": "rolled dough circles"
+        },
+        {
+            "instructions": "spread with tomato_paste",
+            "input": "(rolled dough circles; tomato paste)",
+            "action": "spread",
+            "output": "tomato paste spread on rolled dough circles"
+        },
+        {
+            "instructions": "top each with cheese_slice .",
+            "input": "(cheese slice; rolled dough circles with tomato paste)",
+            "action": "top",
+            "output": "rolled dough circles with tomato paste topped with cheese slice"
+        },
+        {
+            "instructions": "lightly fry leek and bacon .",
+            "input": "(leek; bacon)",
+            "action": "fry",
+            "output": "fried leek and bacon"
+        },
+        {
+            "instructions": "add pumpkin",
+            "input": "(fried leek and bacon; pumpkin)",
+            "action": "add",
+            "output": "pumpkin added to fried leek and bacon"
+        },
+        {
+            "instructions": "cook for three or four minutes .",
+            "input": "pumpkin added to fried leek and bacon",
+            "action": "cook",
+            "output": "cooked vegetable and bacon filling"
+        },
+        {
+            "instructions": "cool slightly",
+            "input": "cooked vegetable and bacon filling",
+            "action": "cool",
+            "output": "cooled filling"
+        },
+        {
+            "instructions": "spoon filling into dough circles",
+            "input": "(rolled dough circles; filling)",
+            "action": "spoon",
+            "output": "filling spooned on rolled dough circles"
+        },
+        {
+            "instructions": "sprinkle with oregano .",
+            "input": "(rolled dough circles with filling; oregano)",
+            "action": "sprinkle",
+            "output": "oregano sprinkled on rolled dough circles"
+        },
+        {
+            "instructions": "moisten edges of dough",
+            "input": "filled dough circles",
+            "action": "moisten",
+            "output": "filled dough circles with moisten edges"
+        },
+        {
+            "instructions": "fold over filling to form half circles .",
+            "input": "filled dough circles with moisten edges",
+            "action": "fold",
+            "output": "folded dough circles with filling"
+        },
+        {
+            "instructions": "pinch to seal .",
+            "input": "folded dough circles with filling",
+            "action": "pinch",
+            "output": "sealed dough pockets"
+        },
+        {
+            "instructions": "place calzone on greased trays",
+            "input": "sealed dough pockets",
+            "action": "place",
+            "output": "calzone"
+        },
+        {
+            "instructions": "brush with milk",
+            "input": "(calzone; milk)",
+            "action": "brush",
+            "output": "calzone brush with milk"
+        },
+        {
+            "instructions": "bake at 190 deg for 20 minutes or until golden .",
+            "input": "uncooked calzone",
+            "action": "bake",
+            "output": "baked calzone"
+        }
+    ],
+    "ingredients": [
+        {
+            "text": "1 teaspoon yeast"
+        },
+        {
+            "text": "12 teaspoon sugar"
+        },
+        {
+            "text": "12 cup plain flour"
+        },
+        {
+            "text": "2 tablespoons olive oil"
+        },
+        {
+            "text": "34 cup water, warm"
+        },
+        {
+            "text": "140 g tomato paste"
+        },
+        {
+            "text": "100 g swiss cheese"
+        },
+        {
+            "text": "1 large leek, washed and sliced"
+        },
+        {
+            "text": "150 g bacon, chopped"
+        },
+        {
+            "text": "1 cup pumpkin, diced"
+        },
+        {
+            "text": "2 teaspoons oregano"
+        },
+        {
+            "text": "1 tablespoon milk"
+        }
+    ],
+    "recipe": [
+        {
+            "text": "Combine first five ingredients in a large bowl and mix to form a soft dough."
+        },
+        {
+            "text": "Turn dough on to a floured board and ,knead until 'springy' ( about five minutes)."
+        },
+        {
+            "text": "Place dough into oiled bowl, cover with a tea towel and put in a warm place for 40 minutes, or until doubled in size."
+        },
+        {
+            "text": "turn on to floured board and knead for minutes."
+        },
+        {
+            "text": "Dived dough into four and roll each into a circle."
+        },
+        {
+            "text": "Spread with tomato paste and top each with cheese slices."
+        },
+        {
+            "text": "Lightly fry leek and bacon."
+        },
+        {
+            "text": "Add pumpkin and cook for three or four minutes."
+        },
+        {
+            "text": "cool slightly then spoon filling into dough circles and sprinkle with oregano."
+        },
+        {
+            "text": "Moisten edges of dough then fold over filling to form half circles."
+        },
+        {
+            "text": "Pinch to seal."
+        },
+        {
+            "text": "Place calzone on greased trays, Brush with milk and bake at 190 deg for 20 minutes or until golden."
+        }
+    ]
+}

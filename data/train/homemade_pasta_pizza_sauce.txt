@@ -1,0 +1,91 @@
+{
+    "title": "homemade_pasta_pizza_sauce",
+    "id": "7e442433e5",
+    "table": [
+        {
+            "instructions": "empty tomato_paste into a large bowl",
+            "input": "tomato_paste",
+            "action": "empty",
+            "output": "tomato_paste"
+        },
+        {
+            "instructions": "add equal parts , water and oil.",
+            "input": "(tomato_paste; oil; water)",
+            "action": "add",
+            "output": "oil and water added to tomato_paste"
+        },
+        {
+            "instructions": "stir with a large spoon until smooth .",
+            "input": "oil and water added to tomato_paste",
+            "action": "stir",
+            "output": "stirred tomato sauce"
+        },
+        {
+            "instructions": "add all of your spices to your sauce .",
+            "input": "(spices; stirred tomato sauce)",
+            "action": "add",
+            "output": "spices added to tomato_sauce"
+        },
+        {
+            "instructions": "make sure to do several taste tests as you go !",
+            "input": "homemade_pasta_pizza_sauce",
+            "action": "make",
+            "output": "homemade_pasta_pizza_sauce"
+        }
+    ],
+    "ingredients": [
+        {
+            "text": "30 ounces tomato paste"
+        },
+        {
+            "text": "30 ounces water"
+        },
+        {
+            "text": "1 tablespoon garlic powder"
+        },
+        {
+            "text": "12 tablespoon italian seasoning"
+        },
+        {
+            "text": "12 tablespoon onion flakes"
+        },
+        {
+            "text": "12 tablespoon pepper"
+        },
+        {
+            "text": "12 tablespoon salt"
+        },
+        {
+            "text": "12 tablespoon sugar"
+        }
+    ],
+    "recipe": [
+        {
+            "text": "Empty tomato paste into a large bowl and add equal parts water."
+        },
+        {
+            "text": "Stir with a large spoon until smooth."
+        },
+        {
+            "text": "You may want to use a masher to make it easier to get the clumps out."
+        },
+        {
+            "text": "Add all of your spices to your sauce."
+        },
+        {
+            "text": "The measurements are just a starting point, as you may need to change the measurements according to your taste."
+        },
+        {
+            "text": "The spices in the sauce are what make it great, but the amount of each is up to each individual's taste."
+        },
+        {
+            "text": "Make sure to do several taste tests as you go!"
+        },
+        {
+            "text": "Depending on what you're using the sauce for, you may need to simmer the sauce on the stove."
+        },
+        {
+            "text": "This recipe yields a lot of sauce, so either store or freeze for later use."
+        }
+    ]
+}

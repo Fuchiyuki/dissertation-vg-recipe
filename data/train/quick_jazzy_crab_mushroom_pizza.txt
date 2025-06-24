@@ -1,0 +1,112 @@
+{
+    "title": "quick_jazzy_crab_mushroom_pizza",
+    "id": "c11c7aec27",
+    "table": [
+        {
+            "instructions": "preheat your oven to 37",
+            "input": "NA",
+            "action": "preheat",
+            "output": "NA"
+        },
+        {
+            "instructions": "spread as much pizza_sauce as you like on your prepared_pizza_crust .",
+            "input": "(pizza_sauce; prepared_pizza_crust)",
+            "action": "spread",
+            "output": "prepared_pizza_crust with pizza sacue"
+        },
+        {
+            "instructions": "lay your mozzarella_cheese slices over the sauce .",
+            "input": "(prepared_pizza_crust with pizza sacue; mozzarella cheese)",
+            "action": "lay",
+            "output": "pizza crust with sauce and mozzarella cheese slices"
+        },
+        {
+            "instructions": "add your shredded_cheese , then your crab , and your veggies in whatever order you like .",
+            "input": "(shredded cheese; crab; veggies; pizza crust with sauce and mozzarella cheese slices)",
+            "action": "add",
+            "output": "pizza crust with sauce and mozzarella cheese slices, shredded cheese, vegeatbles and crab"
+        },
+        {
+            "instructions": "add a few squeezes of fresh_lime_juice over the top , being sure to get some on the crab_meat .",
+            "input": "(pizza crust with sauce and mozzarella cheese slices, shredded cheese, vegeatbles and crab; fresh lime juice)",
+            "action": "add",
+            "output": "pizza crust with sauce and mozzarella cheese slices, shredded cheese, vegeatbles, crab and lime juice"
+        },
+        {
+            "instructions": "bake in your preheated 375f oven for 12 15 min until gooey and slightly browned .",
+            "input": "uncooked vegetables and crab pizza",
+            "action": "bake",
+            "output": "baked vegetables and crab pizza"
+        }
+    ],
+    "ingredients": [
+        {
+            "text": "1 large packaged pizza crust (my favorite is Boboli)"
+        },
+        {
+            "text": "1 small jar of your favorite pizza sauce"
+        },
+        {
+            "text": "1 fresh mozzarella cheese ball (cut into 1/4 in thick slices)"
+        },
+        {
+            "text": "1 packages shredded mozzarella (or your favorite cheese)"
+        },
+        {
+            "text": "6 oz fresh crab meat"
+        },
+        {
+            "text": "1 sliced any variety fresh mushrooms (as much as you like, I like a lot on mine)"
+        },
+        {
+            "text": "1/4 diced onion (or as much as you like)"
+        },
+        {
+            "text": "1/4 diced bell pepper (or as much as you like)"
+        },
+        {
+            "text": "1 diced jalapeno or serrano pepper (depending on how spicy you like it)"
+        },
+        {
+            "text": "1 a few squeezes of fresh lime juice"
+        },
+        {
+            "text": "1 pinch Old Bay seasoning or any Creole seasoning"
+        },
+        {
+            "text": "1 dash hot sauce (optional)"
+        }
+    ],
+    "recipe": [
+        {
+            "text": "Preheat your oven to 375."
+        },
+        {
+            "text": "Spread as much pizza sauce as you like on your prepared pizza crust."
+        },
+        {
+            "text": "Lay your mozzarella cheese slices over the sauce."
+        },
+        {
+            "text": "Add your shredded cheese, then your crab, and your veggies in whatever order you like."
+        },
+        {
+            "text": "(You can also add any other toppings you like, such as pepperoni, fresh basil, tomato, whatever ingredients float your boat.)"
+        },
+        {
+            "text": "Add a few squeezes of fresh lime juice over the top, being sure to get some on the crab meat."
+        },
+        {
+            "text": "Give it a couple shakes of Old Bay (or any Creole seasoning) over the top."
+        },
+        {
+            "text": "(I also added some black pepper.)"
+        },
+        {
+            "text": "Bake in your preheated 375F oven for 12-15 min until gooey and slightly browned."
+        },
+        {
+            "text": "Enjoy!"
+        }
+    ]
+}

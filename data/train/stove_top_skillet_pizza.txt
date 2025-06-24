@@ -1,0 +1,112 @@
+{
+    "title": "stove_top_skillet_pizza",
+    "id": "70d8fc6da8",
+    "table": [
+        {
+            "instructions": "prepare pizza_crust according to package directions .",
+            "input": "pizza_crust package",
+            "action": "prepare",
+            "output": "prepared_pizza_crust dough"
+        },
+        {
+            "instructions": "press dough in skillet making sure dough goes up about a 12 inch up the sides of the pan .",
+            "input": "prepared_pizza_crust dough",
+            "action": "press",
+            "output": "flattened pizza dough"
+        },
+        {
+            "instructions": "put pizza_sauce on dough .",
+            "input": "(pizza sauce; flattened pizza dough)",
+            "action": "put",
+            "output": "pizza crust with sauce"
+        },
+        {
+            "instructions": "put pepperoni , green_pepper , and olives over sauce .",
+            "input": "(pepperoni; green pepper; olives; pizza crust with sauce)",
+            "action": "put",
+            "output": "pizza dough with sauce, pepperoni, green pepper, and olives"
+        },
+        {
+            "instructions": "top with cheese .",
+            "input": "(cheese; pizza dough with sauce, pepperoni, green pepper, and olives)",
+            "action": "top",
+            "output": "pizza dough with sauce, pepperoni, green pepper, olives, and cheese"
+        },
+        {
+            "instructions": "cover",
+            "input": "pizza dough with sauce, pepperoni, green pepper, olives, and cheese",
+            "action": "cover",
+            "output": "pizza dough with sauce, pepperoni, green pepper, olives, and cheese"
+        },
+        {
+            "instructions": "cook over medium heat for about 15 minutes or until crust is brown on bottom and cheese is melted .",
+            "input": "pizza dough with sauce, pepperoni, green pepper, olives, and cheese",
+            "action": "cook",
+            "output": "cooked pizza with sauce, pepperoni, green pepper, olives, and cheese"
+        },
+        {
+            "instructions": "slide onto cutting board",
+            "input": "cooked pizza with sauce, pepperoni, green pepper, olives, and cheese",
+            "action": "slide",
+            "output": "cooked pizza with sauce, pepperoni, green pepper, olives, and cheese"
+        },
+        {
+            "instructions": "cut",
+            "input": "cooked pizza with sauce, pepperoni, green pepper, olives, and cheese",
+            "action": "cut",
+            "output": "cut pepperoni and vegatable pizza"
+        },
+        {
+            "instructions": "serve .",
+            "input": "cut pepperoni and vegatable pizza",
+            "action": "serve",
+            "output": "cut pepperoni and vegatable pizza ready to eat"
+        }
+    ],
+    "ingredients": [
+        {
+            "text": "1 (6 1/2 ounce) package pizza crust mix"
+        },
+        {
+            "text": "12 cup pizza sauce"
+        },
+        {
+            "text": "12 cup pepperoni"
+        },
+        {
+            "text": "14 cup chopped green pepper"
+        },
+        {
+            "text": "14 cup sliced black olives"
+        },
+        {
+            "text": "2 cups shredded mozzarella cheese"
+        }
+    ],
+    "recipe": [
+        {
+            "text": "Spary a 12 inch stove top skillet with cooking spray."
+        },
+        {
+            "text": "Prepare pizza crust according to package directions."
+        },
+        {
+            "text": "Press dough in skillet making sure dough goes up about a 1/2 inch up the sides of the pan."
+        },
+        {
+            "text": "Put pizza sauce on dough."
+        },
+        {
+            "text": "Put pepperoni, green pepper, and olives over sauce."
+        },
+        {
+            "text": "Top with cheese."
+        },
+        {
+            "text": "Cover and cook over medium heat for about 15 minutes or until crust is brown on bottom and cheese is melted."
+        },
+        {
+            "text": "Slide onto cutting board, cut and serve."
+        }
+    ]
+}

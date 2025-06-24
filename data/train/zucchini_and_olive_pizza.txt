@@ -1,0 +1,151 @@
+{
+    "title": "zucchini_and_olive_pizza",
+    "id": "69c2424aa6",
+    "table": [
+        {
+            "instructions": "place an oven rack in the lower third of the oven",
+            "input": "NA",
+            "action": "place",
+            "output": "NA"
+        },
+        {
+            "instructions": "preheat the oven to 450f .",
+            "input": "NA",
+            "action": "preheat",
+            "output": "NA"
+        },
+        {
+            "instructions": "on a lightly floured work surface , roll out the dough into a 12 inch circle .",
+            "input": "dough",
+            "action": "roll",
+            "output": "rolled dough"
+        },
+        {
+            "instructions": "transfer to a baking sheet lined with parchment paper .",
+            "input": "rolled dough",
+            "action": "transfer",
+            "output": "rolled dough"
+        },
+        {
+            "instructions": "with a pastry brush , brush the 1 tablespoon , olive_oil over the dough .",
+            "input": "(olive oil; rolled dough)",
+            "action": "brush",
+            "output": "olive oil brush on rolled dough"
+        },
+        {
+            "instructions": "using the tines of a fork , prick the dough all over .",
+            "input": "oiled rolled dough",
+            "action": "prick",
+            "output": "fork pricked rolled dough"
+        },
+        {
+            "instructions": "arrange the zucchini slices in a single layer on top of the dough .",
+            "input": "(zuchini slices; fork pricked pizza crust)",
+            "action": "arrange",
+            "output": "zuchini slices arranged on pizza crust"
+        },
+        {
+            "instructions": "drizzle the zucchini with olive_oil .",
+            "input": "(pizza crust with layer of zucchini; olive oil)",
+            "action": "drizzle",
+            "output": "olive oil drizzled on pizza crust with layer of zucchini"
+        },
+        {
+            "instructions": "bake for 18 to 20 minutes , until the edges begin to brown .",
+            "input": "uncooked pizza crust with zucchini layer",
+            "action": "bake",
+            "output": "baked pizza crust with zucchini layer"
+        },
+        {
+            "instructions": "sprinkle the pizza with 1 tablespoon of oregano , the cheeses , and the olives .",
+            "input": "(baked pizza crust with zucchini layer; oregano; cheese; olives)",
+            "action": "sprinkle",
+            "output": "oregano, cheese and olives sprinkled on baked pizza crust with zucchini layer"
+        },
+        {
+            "instructions": "bake for 5 to 7 minutes , until the cheeses are melted and bubbly .",
+            "input": "baked pizza crust with zucchini layer, cheese and olives",
+            "action": "bake",
+            "output": "baked pizza crust with zucchini layer, melted cheese and olives "
+        },
+        {
+            "instructions": "sprinkle the pizza with the remaining oregano",
+            "input": "(baked pizza crust with zucchini layer, melted cheese and olives ; remaining oregano)",
+            "action": "sprinkle",
+            "output": "oregano sprinkled on baked pizza crust with zucchini layer, melted cheese and olives "
+        },
+        {
+            "instructions": "cut into wedges ,",
+            "input": "baked zucchini_and_olive_pizza",
+            "action": "cut",
+            "output": "wedges of baked zucchini_and_olive_pizza "
+        },
+        {
+            "instructions": "serve .",
+            "input": "wedges of baked zucchini_and_olive_pizza ",
+            "action": "serve",
+            "output": "served wedges of baked zucchini_and_olive_pizza "
+        }
+    ],
+    "ingredients": [
+        {
+            "text": "All-purpose flour, for dusting"
+        },
+        {
+            "text": "1 pound pizza dough, thawed if frozen"
+        },
+        {
+            "text": "1 tablespoon olive oil, plus more for drizzling"
+        },
+        {
+            "text": "1 large (8-ounce) zucchini, trimmed and thinly sliced"
+        },
+        {
+            "text": "2 tablespoons chopped fresh oregano leaves"
+        },
+        {
+            "text": "1 1/2 cups (6 ounces) shredded mozzarella cheese"
+        },
+        {
+            "text": "1 cup (2 1/2 ounces) grated Pecorino Romano cheese"
+        },
+        {
+            "text": "1/2 cup pitted black olives, sliced"
+        }
+    ],
+    "recipe": [
+        {
+            "text": "Place an oven rack in the lower third of the oven and preheat the oven to 450F."
+        },
+        {
+            "text": "On a lightly floured work surface, roll out the dough into a 12-inch circle."
+        },
+        {
+            "text": "Transfer to a baking sheet lined with parchment paper."
+        },
+        {
+            "text": "With a pastry brush, brush the 1 tablespoon olive oil over the dough."
+        },
+        {
+            "text": "Using the tines of a fork, prick the dough all over."
+        },
+        {
+            "text": "Arrange the zucchini slices in a single layer on top of the dough."
+        },
+        {
+            "text": "Drizzle the zucchini with olive oil."
+        },
+        {
+            "text": "Bake for 18 to 20 minutes, until the edges begin to brown."
+        },
+        {
+            "text": "Sprinkle the pizza with 1 tablespoon of oregano, the cheeses, and the olives."
+        },
+        {
+            "text": "Bake for 5 to 7 minutes, until the cheeses are melted and bubbly."
+        },
+        {
+            "text": "Sprinkle the pizza with the remaining oregano, cut into wedges, and serve."
+        }
+    ]
+}

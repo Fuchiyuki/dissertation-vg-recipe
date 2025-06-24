@@ -1,0 +1,190 @@
+{
+    "title": "radicchio_feta_and_olive_pizzas",
+    "id": "f32bb63869",
+    "table": [
+        {
+            "instructions": "in a large bowl stir together water and yeast",
+            "input": "(water; yeast)",
+            "actions": "stir",
+            "output": "(stirred_water; yeast)"
+        },
+        {
+            "instructions": "stir in flour and salt",
+            "input": "NA",
+            "actions": "stir",
+            "output": "NA"
+        },
+        {
+            "instructions": "blend until mixture forms a dough , adding additional tablespoon , water if too dry .",
+            "input": "(stirred_water; yeast)",
+            "actions": "blend",
+            "output": "incorporated_dry_ingredients"
+        },
+        {
+            "instructions": "on a lightly floured surface knead dough about 10 minutes , or until smooth and elastic .",
+            "input": "incorporated_dry_ingredients",
+            "actions": "knead",
+            "output": "blended_dough"
+        },
+        {
+            "instructions": "in bowl of mixer make dough as described above .",
+            "input": "blended_dough",
+            "actions": "make",
+            "output": "kneaded_dough"
+        },
+        {
+            "instructions": "put dough in a very lightly oiled deep bowl , turning to coat ,",
+            "input": "kneaded_dough",
+            "actions": "put",
+            "output": "dough_in_mixer"
+        },
+        {
+            "instructions": "punch down dough",
+            "input": "dough_in_mixe",
+            "actions": "punch",
+            "output": "oiled_dough_in_bowl"
+        },
+        {
+            "instructions": "divide into 4 equal pieces .",
+            "input": "oiled_dough_in_bowl",
+            "actions": "divide",
+            "output": "punched_down_dough"
+        },
+        {
+            "instructions": "if dough is frozen , thaw overnight in refrigerator before using .",
+            "input": "punched_down_dough",
+            "actions": "thaw",
+            "output": "divided_dough"
+        },
+        {
+            "instructions": "preheat oven to 500f .",
+            "input": "NA",
+            "actions": "preheat",
+            "output": "thawed_dough"
+        },
+        {
+            "instructions": "roll out 1 piece of dough into a 12 by 6 inch oval",
+            "input": "thawed_dough",
+            "actions": "roll",
+            "output": "rolled_dough_oval"
+        },
+        {
+            "instructions": "transfer to a baking sheet .",
+            "input": "rolled_dough_oval",
+            "actions": "transfer",
+            "output": "rolled_dough_oval"
+        },
+        {
+            "instructions": "in a large saucepan simmer wine , radicchio , onion , and salt to taste over moderate heat until almost all liquid is evaporated , 3 to 5 minutes .",
+            "input": "(wine; radicchio; onion; salt)",
+            "actions": "simmer",
+            "output": "simmered_wine_radicchio_onion_mixture"
+        },
+        {
+            "instructions": "spoon mixture evenly over dough ovals , leaving a 12 inch border around edge of each pizza ,",
+            "input": "(wine_radicchio_onion_mixture; dough)",
+            "actions": "spoon",
+            "output": "wine_radicchio_onion_mixture_spooned over pizza dough"
+        },
+        {
+            "instructions": "sprinkle with olives , feta , and cumin_seed .",
+            "input": "(wine_radicchio_onion_mixture_spooned over pizza dough; olives; feta; cumin_seed)",
+            "actions": "sprinkle",
+            "output": "pizza_sprinkled_with_olives, feta and cumin_seed"
+        },
+        {
+            "instructions": "bake pizzas in lower and middle thirds of oven 15 minutes , or until crusts are crisp and pale golden .",
+            "input": "pizza_sprinkled_with_olives, feta and cumin_seed",
+            "actions": "bake",
+            "output": "baked_radicchio, feta and olive pizzas"
+        }
+    ],
+    "ingredients": [
+        {
+            "text": "4 teaspoons yellow cornmeal"
+        },
+        {
+            "text": "1/4 cup dry red wine"
+        },
+        {
+            "text": "2 large heads radicchio about 1 1/4 pounds), cores discarded, cut into 1/2-inch-thick slices"
+        },
+        {
+            "text": "1 large onion (about 3/4 pound), sliced thin"
+        },
+        {
+            "text": "16 Kalamata or other brine-cured black olives pitted and cut into strips"
+        },
+        {
+            "text": "2 ounces feta, crumbled (about 1/2 cup)"
+        },
+        {
+            "text": "1 teaspoon cumin seeds"
+        },
+        {
+            "text": "3/4 cup warm water (110-115F.) plus additional tablespoon if necessary"
+        },
+        {
+            "text": "a 1/4-ounce package (2 1/2 teaspoons) active dry yeast"
+        },
+        {
+            "text": "2 cups all-purpose flour"
+        },
+        {
+            "text": "1 1/2 teaspoons salt"
+        }
+    ],
+    "recipe": [
+        {
+            "text": "In a large bowl stir together water and yeast and let stand until foamy, about 5 minutes."
+        },
+        {
+            "text": "Stir in flour and salt and blend until mixture forms a dough, adding additional tablespoon water if too dry."
+        },
+        {
+            "text": "On a lightly floured surface knead dough about 10 minutes, or until smooth and elastic."
+        },
+        {
+            "text": "(Alternatively, dough may be made in a standing electric mixer."
+        },
+        {
+            "text": "In bowl of mixer make dough as described above."
+        },
+        {
+            "text": "With dough hook knead dough about 5 minutes, or until smooth and elastic.)"
+        },
+        {
+            "text": "Put dough in a very lightly oiled deep bowl, turning to coat, and let rise, covered loosely, in a warm place 1 1/2 hours, or until doubled in bulk."
+        },
+        {
+            "text": "Punch down dough and divide into 4 equal pieces."
+        },
+        {
+            "text": "Dough keeps, each piece put in a small, sealable plastic bag and sealed, pressing out excess air, chilled overnight or frozen 2 weeks."
+        },
+        {
+            "text": "If dough is frozen,thaw overnight in refrigerator before using."
+        },
+        {
+            "text": "Makes enough dough for four 12- by 6-inch oval pizzas."
+        },
+        {
+            "text": "Preheat oven to 500F."
+        },
+        {
+            "text": "On a work surface sprinkled with 1 teaspoon cornmeal roll out 1 piece of dough into a 12- by 6-inch oval and transfer to a baking sheet."
+        },
+        {
+            "text": "Repeat with remaining cornmeal and dough, ending up with 2 ovals on each of 2 baking sheets."
+        },
+        {
+            "text": "In a large saucepan simmer wine, radicchio, onion, and salt to taste over moderate heat until almost all liquid is evaporated, 3 to 5 minutes."
+        },
+        {
+            "text": "Spoon mixture evenly over dough ovals, leaving a 1/2-inch border around edge of each pizza, and sprinkle with olives, feta, and cumin seeds."
+        },
+        {
+            "text": "Bake pizzas in lower and middle thirds of oven 15 minutes, or until crusts are crisp and pale golden."
+        }
+    ]
+}

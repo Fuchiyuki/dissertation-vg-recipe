@@ -1,0 +1,235 @@
+{
+    "title": "vegetarian_rice_crust_pizza",
+    "id": "75ff123de6",
+    "table": [
+        {
+            "instructions": "preheat oven to 400 f degrees .",
+            "input": "NA",
+            "action": "preheat",
+            "output": "NA"
+        },
+        {
+            "instructions": "in a medium size saucepan , add rice and water or broth .",
+            "input": "(rice; water/broth)",
+            "action": "add",
+            "output": "rice with water or broth"
+        },
+        {
+            "instructions": "reduce heat",
+            "input": "rice with water or broth",
+            "action": "reduce",
+            "output": "simmering rice with water or broth"
+        },
+        {
+            "instructions": "cover",
+            "input": "simmering rice",
+            "action": "cover",
+            "output": "covered simmering rice"
+        },
+        {
+            "instructions": "simmer for about 20 minutes or until all liquid is absorbed .",
+            "input": "covered simmering rice",
+            "action": "simmer",
+            "output": "covered cooked rice"
+        },
+        {
+            "instructions": "set aside to cool slightly .",
+            "input": "cooked rice",
+            "action": "set",
+            "output": "cooled cooked rice"
+        },
+        {
+            "instructions": "in a mixing bowl , combine cooked_rice , beaten_egg , mozzarella_cheese and tabasco sauce",
+            "input": "(cooled cooked rice; beaten egg; mozzarella cheese; tabaasco sauce)",
+            "action": "combine",
+            "output": "cooked rice and mozzarella mixture"
+        },
+        {
+            "instructions": "mix well .",
+            "input": "cooked rice and mozzarella mixture",
+            "action": "mix",
+            "output": "cooked rice and mozzarella mixture"
+        },
+        {
+            "instructions": "press mixture evenly into a lightly greased 12 inch , pizza\u2012pan , covering bottom and sides .",
+            "input": "cooked rice and mozzarella mixture",
+            "action": "press",
+            "output": "pressed cooked rice and mozzarella mixture"
+        },
+        {
+            "instructions": "bake in preheated 400 f oven for 4 minutes or until set .",
+            "input": "uncooked pressed cooked rice and mozzarella mixture",
+            "action": "bake",
+            "output": "baked rice and cheese crust"
+        },
+        {
+            "instructions": "remove from oven",
+            "input": "baked rice and cheese crust",
+            "action": "remove",
+            "output": "baked rice and cheese crust"
+        },
+        {
+            "instructions": "in a mixing bowl , stir together tomato_sauce , garlic , 12 cup , mozzarella_cheese , oregano , basil , italian herb_seasoning and black_pepper .",
+            "input": "(tomato sauce; garlic; mozzarella cheese; oregano; basil; italian herb seasoning; black pepper)",
+            "action": "stir",
+            "output": "seasoned tomato sauce and mozzarella mixture"
+        },
+        {
+            "instructions": "spread sauce mixture over the bottom of the rice , crust .",
+            "input": "(seasoned tomato sauce and mozzarella mixture; baked rice and cheese crust)",
+            "action": "spread",
+            "output": "seasoned tomato sauce and mozzarella mixture spread over baked rice and cheese crust"
+        },
+        {
+            "instructions": "sprinkle over with 1 cup grated mozzarella_cheese .",
+            "input": "(grated mozzarella_cheese; seasoned tomato sauce and mozzarella mixture spread over baked rice and cheese crust)",
+            "action": "sprinkle",
+            "output": "baked rice and cheese crust with tomato and mozzarella sauce mixture and grated mozzarella"
+        },
+        {
+            "instructions": "arrange sliced_mushroom , green_pepper , red_pepper , sliced_tomato , and sliced red onion in layers .",
+            "input": "(sliced mushrooms; green pepper; red peppers; sliced tomato; sliced red onion; baked rice and cheese crust with tomato and mozzarella sauce mixture and grated mozzarella)",
+            "action": "arrange",
+            "output": "baked rice and cheese crust with tomato and mozzarella sauce mixture, grated mozzarella, sliced_mushroom , green_pepper , red_pepper , sliced_tomato , and sliced red onion in layers"
+        },
+        {
+            "instructions": "sprinkle remaining 1 cup of remaining mozzarella_cheese over top .",
+            "input": "(remaining mozzarella cheese; baked rice and cheese crust with tomato and mozzarella sauce mixture, grated mozzarella, sliced_mushroom , green_pepper , red_pepper , sliced_tomato , and sliced red onion in layers)",
+            "action": "sprinkle",
+            "output": "baked rice and cheese crust with tomato and mozzarella sauce mixture, grated mozzarella, sliced_mushroom , green_pepper , red_pepper , sliced_tomato , and sliced red onion in layers and remaining mozzarella on top"
+        },
+        {
+            "instructions": "drizzle with 2 tablespoons of olive_oil .",
+            "input": "(olive oil; baked rice and cheese crust with tomato and mozzarella sauce mixture, grated mozzarella, sliced_mushroom , green_pepper , red_pepper , sliced_tomato , and sliced red onion in layers and remaining mozzarella on top)",
+            "action": "drizzle",
+            "output": "olive oil drizzled over assembled vegetable rice crust pizza"
+        },
+        {
+            "instructions": "bake in preheated 400 f oven for 15 minutes or until cheese bubbles .",
+            "input": "uncooked and assembled vegetable rice crust pizza",
+            "action": "bake",
+            "output": "baked vegetable rice crust pizza"
+        },
+        {
+            "instructions": "remove from oven",
+            "input": "baked vegetable rice crust pizza",
+            "action": "remove",
+            "output": "baked vegetable rice crust pizza"
+        }
+    ],
+    "ingredients": [
+        {
+            "text": "2 cups long grain white rice or 2 cups brown rice, uncooked"
+        },
+        {
+            "text": "4 cups water or 4 cups vegetable broth"
+        },
+        {
+            "text": "1 large egg, beaten"
+        },
+        {
+            "text": "12 cup grated mozzarella cheese"
+        },
+        {
+            "text": "116 teaspoon Tabasco sauce or 116 teaspoon red hot sauce"
+        },
+        {
+            "text": "12 cup tomato sauce"
+        },
+        {
+            "text": "2 cloves garlic, finely chopped"
+        },
+        {
+            "text": "14 teaspoon dried oregano"
+        },
+        {
+            "text": "14 teaspoon dried basil"
+        },
+        {
+            "text": "14 teaspoon Italian herb seasoning"
+        },
+        {
+            "text": "14 teaspoon freshly ground black pepper"
+        },
+        {
+            "text": "2 12 cups grated mozzarella cheese, , divided"
+        },
+        {
+            "text": "1 cup mushroom, sliced"
+        },
+        {
+            "text": "1 medium green pepper, seeded and sliced"
+        },
+        {
+            "text": "1 medium sweet red pepper, seeded and sliced"
+        },
+        {
+            "text": "1 medium fresh tomatoes, , sliced"
+        },
+        {
+            "text": "1 medium red onion, thinly sliced"
+        },
+        {
+            "text": "1 tablespoon extra virgin olive oil"
+        }
+    ],
+    "recipe": [
+        {
+            "text": "RICE CRUST-----------------."
+        },
+        {
+            "text": "Preheat oven to 400 F degrees."
+        },
+        {
+            "text": "In a medium size saucepan, add rice and water or broth."
+        },
+        {
+            "text": "Bring to a boil, reduce heat, cover and simmer for about 20 minutes or until all liquid is absorbed."
+        },
+        {
+            "text": "Fluff rice with a fork and set aside to cool slightly."
+        },
+        {
+            "text": "In a mixing bowl, combine cooked rice, beaten egg, mozzarella cheese and Tabasco sauce and mix well."
+        },
+        {
+            "text": "Press mixture evenly into a lightly greased 12 inch pizza pan, covering bottom and sides."
+        },
+        {
+            "text": "Bake in preheated 400 F oven for 4 minutes or until set."
+        },
+        {
+            "text": "Remove from oven and let cool slightly before adding filling."
+        },
+        {
+            "text": "VEGETARIAN FILLING------------."
+        },
+        {
+            "text": "In a mixing bowl, stir together tomato sauce, garlic, 1/2 cup mozzarella cheese, oregano, basil, Italian herb seasoning and black pepper."
+        },
+        {
+            "text": "Spread sauce mixture over the bottom of the rice crust."
+        },
+        {
+            "text": "Sprinkle over with 1 cup grated mozzarella cheese."
+        },
+        {
+            "text": "Arrange sliced mushrooms, green peppers, red peppers, sliced tomatoes, and sliced red onion in layers."
+        },
+        {
+            "text": "Sprinkle remaining 1 cup of remaining mozzarella cheese over top."
+        },
+        {
+            "text": "Drizzle with 2 tablespoons of olive oil."
+        },
+        {
+            "text": "Bake in preheated 400 F oven for 15 minutes or until cheese bubbles."
+        },
+        {
+            "text": "Remove from oven and let rest for 5 minutes before slicing."
+        },
+        {
+            "text": "You can also use chopped fresh broccoli as another vegetable."
+        }
+    ]
+}

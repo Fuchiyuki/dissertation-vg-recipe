@@ -1,0 +1,166 @@
+{
+    "title": "peaches_'n_cream_dessert_pizza_recipe",
+    "id": "c36a818c16",
+    "table": [
+        {
+            "instructions": "preheat oven to 375 degrees .",
+            "input": "NA",
+            "actions": "preheat",
+            "output": "NA"
+        },
+        {
+            "instructions": "combine sweetened condensed lowfat milk , lowfat sour_cream , lemon_juice , and vanilla ;",
+            "input": "(sweetened condensed lowfa milk; lowfat sour_cream; lemon_juice; vanilla)",
+            "actions": "combine",
+            "output": "combined_sweetened condensed lowfatmilk, lowfat sour_cream; lemon_juice and vanilla"
+        },
+        {
+            "instructions": "mix well .",
+            "input": "combined_sweetened condensed lowfatmilk, lowfat sour_cream; lemon_juice and vanilla",
+            "actions": "mix",
+            "output": "filling"
+        },
+        {
+            "instructions": "chill .",
+            "input": "filling",
+            "actions": "chill",
+            "output": "chilled filling"
+        },
+        {
+            "instructions": "cream together butter and sugar",
+            "input": "(butter; sugar)",
+            "actions": "cream",
+            "output": "creamed butter and sugar mixture"
+        },
+        {
+            "instructions": "fold in flour , oats and walnuts till blended .",
+            "input": "(creamed butter and sugar mixture; flour; oats; walnuts)",
+            "actions": "fold",
+            "output": "dough"
+        },
+        {
+            "instructions": "spray , pizza\u2012pan with pam .",
+            "input": "NA",
+            "actions": "spray",
+            "output": "NA"
+        },
+        {
+            "instructions": "press dough into 12 inch circle forming ridge around edge like a pizza .",
+            "input": "dough",
+            "actions": "press",
+            "output": "pressed dough"
+        },
+        {
+            "instructions": "prick with fork",
+            "input": "pressed dough",
+            "actions": "prick",
+            "output": "pricked crust"
+        },
+        {
+            "instructions": "bake 10 12 min or possibly till golden .",
+            "input": "pricked dough",
+            "actions": "bake",
+            "output": "baked crust"
+        },
+        {
+            "instructions": "spoon filling proportionately onto crust .",
+            "input": "(baked crust; filling)",
+            "actions": "spoon",
+            "output": "filling spooned onto crust"
+        },
+        {
+            "instructions": "arrange peach_slice on filling",
+            "input": "(filled crust; peach_slice)",
+            "actions": "arrange",
+            "output": "peach slices arranged over filled crust"
+        },
+        {
+            "instructions": "garnish with nuts .",
+            "input": "(filled crust with peaches; nuts)",
+            "actions": "garnish",
+            "output": "filled crust garnished with peaches and nuts"
+        },
+        {
+            "instructions": "chill .",
+            "input": "peaches and cream pizza",
+            "actions": "chill",
+            "output": "chilled peaches and cream pizza"
+        },
+        {
+            "instructions": "serve cool .",
+            "input": "chilled peaches and cream pizza",
+            "actions": "serve",
+            "output": "served chilled peaches and cream pizza"
+        }
+    ],
+    "ingredients": [
+        {
+            "text": "1 can condensed (sweetened) lowfat milk"
+        },
+        {
+            "text": "1/2 c. lowfat sour cream"
+        },
+        {
+            "text": "1/4 c. lemon juice"
+        },
+        {
+            "text": "1 teaspoon vanilla extract"
+        },
+        {
+            "text": "1/2 c. butter, softened"
+        },
+        {
+            "text": "1/4 c. firmly packed light brown sugar"
+        },
+        {
+            "text": "1 c. flour"
+        },
+        {
+            "text": "1/4 c. quick oats"
+        },
+        {
+            "text": "1/4 c. finely minced walnuts"
+        },
+        {
+            "text": "1 (29 ounce.) can peaches (cling)"
+        },
+        {
+            "text": "Pam-spray additional 1/3 c. nuts"
+        }
+    ],
+    "recipe": [
+        {
+            "text": "Preheat oven to 375 degrees."
+        },
+        {
+            "text": "Combine sweetened condensed lowfat milk, lowfat sour cream, lemon juice, and vanilla; mix well."
+        },
+        {
+            "text": "Chill."
+        },
+        {
+            "text": "Cream together butter and sugar, fold in flour, oats and walnuts till blended."
+        },
+        {
+            "text": "Spray pizza pan with Pam."
+        },
+        {
+            "text": "press dough into 12 inch circle forming ridge around edge (like a pizza)."
+        },
+        {
+            "text": "Prick with fork and bake 10-12 min or possibly till golden."
+        },
+        {
+            "text": "Cold, spoon filling proportionately onto crust."
+        },
+        {
+            "text": "Arrange peach slices on filling and garnish with nuts."
+        },
+        {
+            "text": "Chill."
+        },
+        {
+            "text": "Serve cool."
+        }
+    ]
+}

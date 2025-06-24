@@ -1,0 +1,118 @@
+{
+    "title": "easy_buffalo_chicken_pizza",
+    "id": "c7423b942d",
+    "table": [
+        {
+            "instructions": "boil chicken_in_water till done .",
+            "input": "chicken; water",
+            "action": "boil",
+            "output": "boiled_chicken_in_water"
+        },
+        {
+            "instructions": "remove chicken from water , either can diced it or shred it , however you like .",
+            "input": "boiled_chicken_in_water",
+            "action": "remove",
+            "output": "boiled diced chicken"
+        },
+        {
+            "instructions": "in a small medium bowl , dump chicken in bowl",
+            "input": "boiled diced chicken",
+            "action": "dump",
+            "output": "boiled diced chicken"
+        },
+        {
+            "instructions": "pour sauce , to cover the chicken",
+            "input": "boiled diced chicken; sauce",
+            "action": "pour",
+            "output": "boiled diced chicken covered by sauce"
+        },
+        {
+            "instructions": "toss it well .",
+            "input": "boiled diced chicken covered by sauce",
+            "action": "toss",
+            "output": "boiled diced chicken and sauce mixture"
+        },
+        {
+            "instructions": "pour half of the packet of sauce i normally like light on sauce ,",
+            "input": "sauce",
+            "action": "pour",
+            "output": "sauce"
+        },
+        {
+            "instructions": "spread on crust .",
+            "input": "pizza crust; sauce",
+            "action": "spread",
+            "output": "pizza crust with sauce"
+        },
+        {
+            "instructions": "sprinkle",
+            "input": "pizza crust with sauce; shredded cheese",
+            "action": "sprinkle",
+            "output": "pizza crust with sauce and shredded cheese"
+        },
+        {
+            "instructions": "spread shredded_cheese on .",
+            "input": "pizza crust with sauce and shredded cheese",
+            "action": "spread",
+            "output": "pizza crust with sauce and shredded cheese"
+        },
+        {
+            "instructions": "sprinkle hot_sauce on top of cheese or you can sprinkle on top of chicken once on there .",
+            "input": "hot sauce; crust with boiled diced chicken and sauce mixture and shredded cheese",
+            "action": "sprinkle",
+            "output": "crust with sauce, shredded cheese and hot sauce"
+        },
+        {
+            "instructions": "spread buffalo chicken onto crust .",
+            "input": "crust with sauce, shredded cheese and hot sauce; boiled diced chicken and sauce mixture",
+            "action": "spread",
+            "output": "crust with sauce, shredded cheese, hot sauce and boiled diced chicken and buffalo sauce mixture"
+        },
+        {
+            "instructions": "bake in oven at 400 for 15 minutes .",
+            "input": "uncoked buffalo_chicken_pizza",
+            "action": "bake",
+            "output": "baked buffalo_chicken_pizza"
+        }
+    ],
+    "ingredients": [
+        {
+            "text": "1 boboli original pizza crust (sauce included)"
+        },
+        {
+            "text": "1 -2 boneless skinless chicken breast (depends on the size of the chicken breast, or how much meat you want on it)"
+        },
+        {
+            "text": "34 cup Frank's red hot sauce (Buffalo Wing Sauce)"
+        },
+        {
+            "text": "1 cup fancy shredded cheese"
+        }
+    ],
+    "recipe": [
+        {
+            "text": "Boil chicken in water till done."
+        },
+        {
+            "text": "Remove chicken from water, either can diced it or shred it, however you like."
+        },
+        {
+            "text": "In a small/medium bowl, dump chicken in bowl, pour sauce, to cover the chicken, toss it well."
+        },
+        {
+            "text": "Pour half of the packet of sauce (I normally like light on sauce, but you can use whole packet if you like), spread on crust."
+        },
+        {
+            "text": "Sprinkle and spread shredded cheese on."
+        },
+        {
+            "text": "Sprinkle hot sauce on top of cheese (or you can sprinkle on top of chicken once on there)."
+        },
+        {
+            "text": "Spread buffalo chicken onto crust."
+        },
+        {
+            "text": "Bake in oven at 400 for 15 minutes."
+        }
+    ]
+}

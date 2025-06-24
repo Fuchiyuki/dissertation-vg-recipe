@@ -1,0 +1,76 @@
+{
+    "title": "eggplant_pizza",
+    "id": "b070032e07",
+    "table": [
+        {
+            "instructions": "cut your eggplant circle form",
+            "input": "eggplant",
+            "action": "cut",
+            "output": "cut eggplant"
+        },
+        {
+            "instructions": "drizzle olive_oil or bush over eggplant",
+            "input": "(Olive oil, Eggplant)",
+            "action": "drizzle",
+            "output": "eggplant drizzled with olive oil"
+        },
+        {
+            "instructions": "bake on 370 for 7 min each side",
+            "input": "uncooked eggplant drizzled with olive oil",
+            "action": "bake",
+            "output": "Baked eggplant"
+        },
+        {
+            "instructions": "add pasta sauce over eggplant",
+            "input": "(Pasta sauce, Baked eggplant)",
+            "action": "add",
+            "output": "pasta sauce added to baked eggplant"
+        },
+        {
+            "instructions": "add mozzarella over eggplant",
+            "input": "(Mozzarella, Eggplant with pasta sauce)",
+            "action": "add",
+            "output": "mozzarella added to baked eggplant with pasta sauce"
+        },
+        {
+            "instructions": "put back in oven till the cheese is melted",
+            "input": "eggplant pizza with cold cheese",
+            "action": "put",
+            "output": "eggplant pizza with melted cheese"
+        }
+    ],
+    "ingredients": [
+        {
+            "text": "1 cup Organic pasta sauce or pizza sauce"
+        },
+        {
+            "text": "1 1/2 cup Mozzarella cheese or cheese of your choice"
+        },
+        {
+            "text": "3 tbsp Olive oil"
+        },
+        {
+            "text": "1 Eggplant"
+        }
+    ],
+    "recipe": [
+        {
+            "text": "Cut your eggplant (circle form)"
+        },
+        {
+            "text": "Drizzle olive oil or bush over eggplant"
+        },
+        {
+            "text": "Bake on 370 for 7 min each side"
+        },
+        {
+            "text": "Add pasta pasta over eggplant"
+        },
+        {
+            "text": "Add mozzarella over eggplant"
+        },
+        {
+            "text": "Put back in oven till the cheese is melted"
+        }
+    ]
+}

@@ -1,0 +1,166 @@
+{
+    "title": "microwave_multi_sausages_pizza",
+    "id": "ec424cf278",
+    "table": [
+        {
+            "instructions": "heat oil in pan",
+            "input": "oil",
+            "actions": "heat",
+            "output": "heated_oil"
+        },
+        {
+            "instructions": "put onions",
+            "input": "(heated_oil; onions)",
+            "actions": "put",
+            "output": "onions_in_heated_oil"
+        },
+        {
+            "instructions": "cook till soft .",
+            "input": "onions_in_heated_oil",
+            "actions": "cook",
+            "output": "cooked_onions"
+        },
+        {
+            "instructions": "then put garlic",
+            "input": "(cooked_onions; garlic)",
+            "actions": "put",
+            "output": "cooked_onions_with_raw_garlic"
+        },
+        {
+            "instructions": "cook until slightly golden .",
+            "input": "cooked_onions_with_raw_garlic",
+            "actions": "cook",
+            "output": "cooked_onions_and_garlic"
+        },
+        {
+            "instructions": "add other ingredients of group1 except butter .",
+            "input": "(cooked_onions_and_garlic; remaining_ingredients)",
+            "actions": "add",
+            "output": "cooked_onions_and_garlic_with added_ingredients"
+        },
+        {
+            "instructions": "cook for 2 3 min .",
+            "input": "uncooked_mixture",
+            "actions": "cook",
+            "output": "cooked_mixture"
+        },
+        {
+            "instructions": "then add butter",
+            "input": "(cooked_mixture; butter)",
+            "actions": "add",
+            "output": "cooked_mixture"
+        },
+        {
+            "instructions": "saute for 2 3 min more .",
+            "input": "cooking mixture",
+            "actions": "saute",
+            "output": "sauteed_mixture"
+        },
+        {
+            "instructions": "take one pre backed pizza , base i always find in superstores on microwave safe plate",
+            "input": "pre_baked_pizza",
+            "actions": "take",
+            "output": "pre-baked_pizza"
+        },
+        {
+            "instructions": "make layers one by one 1spread tomato_sauce , 2cheese , 3sausage mix , 4tomato sauce , 5cheese .",
+            "input": "(pre-baked_pizza; cheese; sausage_mix; tomato_sauce)",
+            "actions": "make",
+            "output": "uncooked_pizza_topped_with_sausage_mix,_tomato_sauce,_cheese"
+        },
+        {
+            "instructions": "cover with a lid and microwave on 70 power for 2min 30sec .",
+            "input": "uncooked_pizza_topped_with_sausage_mix,_tomato_sauce,_cheese",
+            "actions": "cover",
+            "output": "cooked_pizza"
+        },
+        {
+            "instructions": "serve hot .",
+            "input": "cooked_pizza",
+            "actions": "serve",
+            "output": "microwave_multi_sausages_pizza"
+        }
+    ],
+    "ingredients": [
+        {
+            "text": "1 cup chicken sausage"
+        },
+        {
+            "text": "1 cup chicken pepperoni sausage"
+        },
+        {
+            "text": "1 cup chicken nuggets (cubed)"
+        },
+        {
+            "text": "1 stick leek (chopped)"
+        },
+        {
+            "text": "1/2 capsicum( chopped)"
+        },
+        {
+            "text": "1 green chilli (chopped)"
+        },
+        {
+            "text": "1/2 tsp white pepper powder"
+        },
+        {
+            "text": "1 onion, chopped"
+        },
+        {
+            "text": "2 clove garlic chopped"
+        },
+        {
+            "text": "3 tbsp olive oil, extra virgin"
+        },
+        {
+            "text": "1 tbsp butter"
+        },
+        {
+            "text": "1/4 tsp dry oregano"
+        },
+        {
+            "text": "3 pre backed personal pan size pizza base"
+        }
+    ],
+    "recipe": [
+        {
+            "text": "Heat oil in pan, put onions & cook till soft."
+        },
+        {
+            "text": "Then put garlic & cook until slightly golden."
+        },
+        {
+            "text": "Add other ingredients of Group#1 except butter."
+        },
+        {
+            "text": "Cook for 2-3 min."
+        },
+        {
+            "text": "Then add butter & saute for 2-3 min more."
+        },
+        {
+            "text": "Keep aside when done."
+        },
+        {
+            "text": "Take one pre backed pizza base ( I always find in superstores) on microwave safe plate,make layers one by one -1#spread tomato sauce,2#cheese, 3#sausage mix, 4#tomato sauce,5#cheese."
+        },
+        {
+            "text": "Finish with sprinkle of dry oregano."
+        },
+        {
+            "text": "Cover with a lid and microwave on 70% power for 2min 30sec."
+        },
+        {
+            "text": "Serve hot."
+        },
+        {
+            "text": "Enjoy."
+        },
+        {
+            "text": "You can refrigerate the mix and can use in making pasta."
+        },
+        {
+            "text": "Also mini pizzas can be made by using bread slices."
+        }
+    ]
+}

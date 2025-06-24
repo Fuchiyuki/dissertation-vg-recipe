@@ -1,0 +1,148 @@
+{
+    "title": "zesty_breakfast_pizza",
+    "id": "b7363a1e11",
+    "table": [
+        {
+            "instructions": "heat butter in a large skillet .",
+            "input": "butter",
+            "action": "heat",
+            "output": "melted_butter"
+        },
+        {
+            "instructions": "add onion , green_pepper and bacon ;",
+            "input": "(onion; green pepper; bacon; melted_butter)",
+            "action": "add",
+            "output": "onion , green_pepper and bacon added to melted butter"
+        },
+        {
+            "instructions": "cook until tender .",
+            "input": "onion , green_pepper and bacon added to melted butter",
+            "action": "cook",
+            "output": "cooked pepper and bacon mixture"
+        },
+        {
+            "instructions": "place crust on pizza\u2012pan or baking sheet .",
+            "input": "pizza crust",
+            "action": "place",
+            "output": "pizza crust"
+        },
+        {
+            "instructions": "place in 400 degree oven to warm .",
+            "input": "pizza crust",
+            "action": "place",
+            "output": "warming pizza crust"
+        },
+        {
+            "instructions": "meanwhile , add eggs and pepper to skillet .",
+            "input": "(eggs; pizza crust)",
+            "action": "add",
+            "output": "eggs added to pizza crust"
+        },
+        {
+            "instructions": "cook",
+            "input": "eggs added to pizza crust",
+            "action": "cook",
+            "output": "cooking eggs and pepper mixture"
+        },
+        {
+            "instructions": "stir until eggs are almost set .",
+            "input": "cooking eggs and pepper mixture",
+            "action": "stir",
+            "output": "lightly cooked eggs and pepper mixture"
+        },
+        {
+            "instructions": "spread over pizza_crust ;",
+            "input": "(lightly cooked eggs and pepper mixture; warmed pizza crust)",
+            "action": "spread",
+            "output": "lightly cooked eggs and pepper mixture spread on warmed pizza crust"
+        },
+        {
+            "instructions": "top with picante_sauce .",
+            "input": "(picante sauce; pizza crust with eggs and pepper mixture)",
+            "action": "top",
+            "output": "pizza crust with eggs and pepper mixture topped with picante sauce"
+        },
+        {
+            "instructions": "sprinkle with cheese .",
+            "input": "(cheese; pizza crust with eggs and pepper mixture and picante sauce)",
+            "action": "sprinkle",
+            "output": "cheese sprinkled on pizza crust with eggs and pepper mixture and picante sauce"
+        },
+        {
+            "instructions": "bake at 400 degrees for 5 minutes or until cheese melts .",
+            "input": "uncooked breakfast pizza",
+            "action": "bake",
+            "output": "baked breakfast pizza"
+        },
+        {
+            "instructions": "sprinkle with cilantro .",
+            "input": "(cilantro; baked breakfast pizza)",
+            "action": "sprinkle",
+            "output": "cilantro sprinkled on baked breakfast pizza"
+        }
+    ],
+    "ingredients": [
+        {
+            "text": "1 tablespoon butter or 1 tablespoon margarine"
+        },
+        {
+            "text": "14 cup chopped onion"
+        },
+        {
+            "text": "14 cup chopped green pepper"
+        },
+        {
+            "text": "14 cup chopped Canadian bacon"
+        },
+        {
+            "text": "1 prebaked italian bread pizza crust (12 inches)"
+        },
+        {
+            "text": "8 eggs, beaten"
+        },
+        {
+            "text": "14 teaspoon pepper"
+        },
+        {
+            "text": "34 cup Pace Picante Sauce"
+        },
+        {
+            "text": "12 cup shredded cheddar cheese"
+        },
+        {
+            "text": "2 tablespoons chopped fresh cilantro"
+        }
+    ],
+    "recipe": [
+        {
+            "text": "Heat butter in a large skillet."
+        },
+        {
+            "text": "Add onion, green pepper and bacon; cook until tender."
+        },
+        {
+            "text": "Place crust on pizza pan or baking sheet."
+        },
+        {
+            "text": "Place in 400 degree oven to warm."
+        },
+        {
+            "text": "Meanwhile, add eggs and pepper to skillet."
+        },
+        {
+            "text": "Cook and stir until eggs are almost set."
+        },
+        {
+            "text": "Spread over pizza crust; top with picante sauce."
+        },
+        {
+            "text": "Sprinkle with cheese."
+        },
+        {
+            "text": "Bake at 400 degrees for 5 minutes or until cheese melts."
+        },
+        {
+            "text": "Sprinkle with cilantro."
+        }
+    ]
+}

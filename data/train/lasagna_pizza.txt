@@ -1,0 +1,109 @@
+{
+    "title": "lasagna_pizza",
+    "id": "a73e46fb4b",
+    "table": [
+        {
+            "instructions": "cook lasagna_noodle until tender but firm .",
+            "input": "lasagna_noodle",
+            "actions": "cook",
+            "output": "cooked_lasagna_noodle"
+        },
+        {
+            "instructions": "drain .",
+            "input": "cooked_lasagna_noodle",
+            "actions": "drain",
+            "output": "drained_lasagna_noodle"
+        },
+        {
+            "instructions": "arrange noodles .",
+            "input": "drained_lasagna_noodle",
+            "actions": "arrange",
+            "output": "arranged_noodle"
+        },
+        {
+            "instructions": "put on the american_cheese .",
+            "input": "(lasagna_noodles; american_cheese)",
+            "actions": "put",
+            "output": "lasagna_layer"
+        },
+        {
+            "instructions": "then cover with remaining noodles .",
+            "input": "(lasagna_layer; lasagna_noodles)",
+            "actions": "cover",
+            "output": "lasagna_layer_covered_with_lasagna_noodles"
+        },
+        {
+            "instructions": "spread ragu to your liking .",
+            "input": "(ragu; lasagna_layers)",
+            "actions": "spread",
+            "output": "ragu_spread_over_lasagna_layers"
+        },
+        {
+            "instructions": "add pepperoni .",
+            "input": "(pepperoni; lasagna)",
+            "actions": "add",
+            "output": "pepperoni_added_to_lasagna"
+        },
+        {
+            "instructions": "bake at 350f degrees until pepper and onions are done to your liking .",
+            "input": "uncooked_lasagna",
+            "actions": "bake",
+            "output": "baked_lasagna"
+        }
+    ],
+    "ingredients": [
+        {
+            "text": "1 (26 ounce) jar Ragu tomato sauce"
+        },
+        {
+            "text": "4 ounces sliced pepperoni"
+        },
+        {
+            "text": "6 slices American cheese"
+        },
+        {
+            "text": "1 small green pepper, chopped or sliced"
+        },
+        {
+            "text": "1 small onion, chopped or sliced"
+        },
+        {
+            "text": "12 cup shredded cheddar cheese"
+        },
+        {
+            "text": "lasagna noodle"
+        }
+    ],
+    "recipe": [
+        {
+            "text": "Cook lasagna noodles until tender but firm."
+        },
+        {
+            "text": "Drain."
+        },
+        {
+            "text": "Butter cookie sheet."
+        },
+        {
+            "text": "Arrange noodles."
+        },
+        {
+            "text": "Put on the American cheese."
+        },
+        {
+            "text": "Then cover with remaining noodles."
+        },
+        {
+            "text": "Spread Ragu to your liking."
+        },
+        {
+            "text": "Then cheddar cheese, then pepper and onion."
+        },
+        {
+            "text": "Add pepperoni."
+        },
+        {
+            "text": "Bake at 350F degrees until pepper and onions are done to your liking."
+        }
+    ]
+}

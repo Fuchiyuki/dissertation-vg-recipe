@@ -1,0 +1,190 @@
+{
+    "title": "pizza_con_tutti_pizza_with_everything",
+    "id": "946979e684",
+    "table": [
+        {
+            "instructions": "if it is to be baked on a pizza\u2012pan , preheat the oven to 475 degrees ;",
+            "input": "NA",
+            "action": "preheat",
+            "output": "NA"
+        },
+        {
+            "instructions": "if it is to be baked on a stone , preheat the oven to 500 degrees",
+            "input": "NA",
+            "action": "preheat",
+            "output": "NA"
+        },
+        {
+            "instructions": "put the stone in the oven .",
+            "input": "NA",
+            "action": "put",
+            "output": "NA"
+        },
+        {
+            "instructions": "divide the dough in half .",
+            "input": "dough",
+            "action": "divide",
+            "output": "halved dough"
+        },
+        {
+            "instructions": "flatten , one half at a time , with the hands into a circle .",
+            "input": "halved dough",
+            "action": "flatten",
+            "output": "flattened dough"
+        },
+        {
+            "instructions": "if pizza\u2012pan are used , rub the surface of each with one tablespoon of oil .",
+            "input": "NA",
+            "action": "rub",
+            "output": "NA"
+        },
+        {
+            "instructions": "if a baking stone is used , you will place the pizza circle on the wooden paddle .",
+            "input": "NA",
+            "action": "place",
+            "output": "NA"
+        },
+        {
+            "instructions": "you should bake one pizza first",
+            "input": "NA",
+            "action": "bake",
+            "output": "NA"
+        },
+        {
+            "instructions": "arrange one circle of dough on each pan or on the wooden paddle .",
+            "input": "flattened dough",
+            "action": "arrange",
+            "output": "arranged circle of dough"
+        },
+        {
+            "instructions": "add half of the marinara_sauce to the center of each circle of pastry",
+            "input": "(marinara_sauce;  circle of dough)",
+            "action": "add",
+            "output": "marinara_sauce added to circle of dough"
+        },
+        {
+            "instructions": "smooth it almost , but not quite , to the edge .",
+            "input": "marinara_sauce added to circle of dough",
+            "action": "smooth",
+            "output": "marinara_sauce smoothened"
+        },
+        {
+            "instructions": "scatter half of the mushrooms , half of the sausage slices , half of the mozzarella and half of the parmesan over the sauce .",
+            "input": "(mushrooms; sausage slices; mozzarella; parmesan; pizza crust with marinara sauce)",
+            "action": "scatter",
+            "output": "mushrooms, sausage slices, mozzarella and parmesan scattered on pizza crust with marinara sauce"
+        },
+        {
+            "instructions": "sprinkle each pizza with two tablespoons of olive_oil .",
+            "input": "(uncooked pizza; olive oil)",
+            "action": "sprinkle",
+            "output": "olive oil sprinkled on uncooked pizza"
+        },
+        {
+            "instructions": "if a pizza\u2012pan is used , place it in the oven for 14 minutes or until the pizza is well done .",
+            "input": "uncooked pizza",
+            "action": "place",
+            "output": "uncooked pizza"
+        },
+        {
+            "instructions": "if the baking stone is used , slide the pizza off onto the stone",
+            "input": "uncooked pizza",
+            "action": "slide",
+            "output": "uncooked pizza"
+        },
+        {
+            "instructions": "bake 14 minutes or until the pizza is well done .",
+            "input": "uncooked pizza",
+            "action": "bake",
+            "output": "baked pizza"
+        },
+        {
+            "instructions": "serve with red_pepper_flake on the side .",
+            "input": "(baked pizza; red_pepper_flake)",
+            "action": "serve",
+            "output": "baked pizza served with red_pepper_flakes"
+        }
+    ],
+    "ingredients": [
+        {
+            "text": "Pizza dough made with four cups of flour (see recipe)"
+        },
+        {
+            "text": "1/4 cup olive oil plus oil for greasing a pizza pan, optional"
+        },
+        {
+            "text": "2 cups marinara sauce (see recipe)"
+        },
+        {
+            "text": "1 cup thinly sliced mushrooms"
+        },
+        {
+            "text": "1 cup thinly sliced sausages, such as Italian sausages or salami or Polish sausages"
+        },
+        {
+            "text": "2 cups coarsely grated low-fat or regular-fat mozzarella cheese"
+        },
+        {
+            "text": "1/4 cup Parmesan cheese"
+        },
+        {
+            "text": "Red-pepper flakes"
+        }
+    ],
+    "recipe": [
+        {
+            "text": "There are two recommended ways of cooking pizza at home."
+        },
+        {
+            "text": "It may be prepared and cooked in a 14-inch pizza pan, or it may be baked on a baking stone."
+        },
+        {
+            "text": "If it is to be baked on a pizza pan, preheat the oven to 475 degrees; if it is to be baked on a stone, preheat the oven to 500 degrees and put the stone in the oven."
+        },
+        {
+            "text": "Divide the dough in half."
+        },
+        {
+            "text": "Flatten, one-half at a time, with the hands into a circle."
+        },
+        {
+            "text": "Start punching it all around with the back of a clinched fist to shape it into a larg er circl e about 12 or 13 inches in diameter."
+        },
+        {
+            "text": "Keep the surface floured lightly but enough so that thedough does not stick."
+        },
+        {
+            "text": "If pizza pans are used, rub the surface of each with one tablespoon of oil."
+        },
+        {
+            "text": "If a baking stone is used, you will place the pizza circle on the wooden paddle."
+        },
+        {
+            "text": "You should bake one pizza first and continue to make the second after the first is baked."
+        },
+        {
+            "text": "Arrange one circle of dough on each pan or on the wooden paddle."
+        },
+        {
+            "text": "Add half of the marinara sauce to the center of each circle of pastry and smooth it almost, but not quite, to the edge."
+        },
+        {
+            "text": "Scatter half of the mushrooms, half of the sausage slices, half of the Mozzarella and half of the Parmesan over the sauce."
+        },
+        {
+            "text": "Sprinkle each pizza with two tablespoons of olive oil."
+        },
+        {
+            "text": "If a pizza pan is used, place it in the oven for 14 minutes or until the pizza is well done."
+        },
+        {
+            "text": "If the baking stone is used, slide the pizza off onto the stone and bake 14 minutes or until the pizza is well done."
+        },
+        {
+            "text": "Repeat with the second pizza."
+        },
+        {
+            "text": "Serve with red-pepper flakes on the side."
+        }
+    ]
+}

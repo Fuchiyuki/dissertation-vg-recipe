@@ -1,0 +1,106 @@
+{
+    "title": "olive_and_brie_pizza",
+    "id": "45cc8b062d",
+    "table": [
+        {
+            "instructions": "preheat oven to 400 degrees .",
+            "input": "NA",
+            "actions": "preheat",
+            "output": "NA"
+        },
+        {
+            "instructions": "place crust on lightly floured baking or cookie sheet .",
+            "input": "crust",
+            "actions": "place",
+            "output": "crust"
+        },
+        {
+            "instructions": "fold in edges of crust 12 , pressing down to form a rim .",
+            "input": "crust",
+            "actions": "fold",
+            "output": "crust_with_folded_edges"
+        },
+        {
+            "instructions": "spread mustard over inside of crust ;",
+            "input": "(crust; mustard)",
+            "actions": "spread",
+            "output": "spread_mustard_over_crust"
+        },
+        {
+            "instructions": "top with 12 of the brie_cheese .",
+            "input": "(brie_cheese; pizza_crust)",
+            "actions": "top",
+            "output": "pizza_crust_topped_with_brie_cheese"
+        },
+        {
+            "instructions": "top with tomatoes , green_onion , and olives .",
+            "input": "(tomatoes; green_onion;olives; pizza_crust)",
+            "actions": "top",
+            "output": "pizza_crust_topped_with_tomatoes , green_onion , and olives"
+        },
+        {
+            "instructions": "top with remaining brie_cheese , oregano , and parmesan_cheese .",
+            "input": "(remaining_brie_cheese; oregano; parmesan_cheese)",
+            "actions": "top",
+            "output": "pizza_crust_topped_with_remaining_brie_cheese, parmesan cheese and olives"
+        },
+        {
+            "instructions": "bake for 18 20 minute or until crust is golden brown and crisp .",
+            "input": "uncooked_pizza",
+            "actions": "bake",
+            "output": "baked_olive_and_brie_pizza"
+        }
+    ],
+    "ingredients": [
+        {
+            "text": "1 refrigerated 9 inch pie shell, at room temp"
+        },
+        {
+            "text": "2 tablespoons Dijon mustard"
+        },
+        {
+            "text": "8 ounces brie cheese, rind removed, cut into 1/2-inch pieces"
+        },
+        {
+            "text": "3 plum tomatoes, seeded and thinly sliced"
+        },
+        {
+            "text": "23 cup black pitted ripe olives, drained and halved"
+        },
+        {
+            "text": "3 tablespoons thinly sliced green onions, with tops"
+        },
+        {
+            "text": "34 teaspoon dried oregano"
+        },
+        {
+            "text": "12 cup grated parmesan cheese"
+        }
+    ],
+    "recipe": [
+        {
+            "text": "Preheat oven to 400 degrees."
+        },
+        {
+            "text": "Place crust on lightly floured baking or cookie sheet."
+        },
+        {
+            "text": "Fold in edges of crust 1/2\", pressing down to form a rim."
+        },
+        {
+            "text": "Spread mustard over inside of crust; top with 1/2 of the Brie cheese."
+        },
+        {
+            "text": "Top with tomatoes, green onions, and olives."
+        },
+        {
+            "text": "Top with remaining Brie cheese, oregano, and parmesan cheese."
+        },
+        {
+            "text": "Bake for 18-20 minute or until crust is golden brown and crisp."
+        },
+        {
+            "text": "Let stand 10 minute before serving."
+        }
+    ]
+}

@@ -1,0 +1,184 @@
+{
+    "title": "eggplant_squash_pizza_gluten_free_also_south_beach",
+    "id": "5f35bf8a98",
+    "table": [
+        {
+            "instructions": "turn oven to broil .",
+            "input": "NA",
+            "action": "turn",
+            "output": "NA"
+        },
+        {
+            "instructions": "cut two medium to small eggplants in 1 inch slices .",
+            "input": "eggplants",
+            "action": "cut",
+            "output": "cut eggplants"
+        },
+        {
+            "instructions": "place squash slices on pan packed together but not overlapping .",
+            "input": "squash slices",
+            "action": "place",
+            "output": "squash sliced placed on pan"
+        },
+        {
+            "instructions": "place under broiler for 6 minutes .",
+            "input": "squash sliced placed on pan",
+            "action": "place",
+            "output": "squash sliced placed on pan"
+        },
+        {
+            "instructions": "turn squash over .",
+            "input": "squash sliced placed on pan",
+            "action": "turn",
+            "output": "squash sliced placed on pan turned over"
+        },
+        {
+            "instructions": "drizzle with remaining olive_oil .",
+            "input": "(squash sliced placed on pan turned over; olive oil)",
+            "action": "drizzle",
+            "output": "slice of squash drizzled with olive oil placed on pan"
+        },
+        {
+            "instructions": "remove pan from broiler",
+            "input": "slice of squash drizzled with olive oil placed on pan",
+            "action": "remove",
+            "output": "slice of squash drizzled with olive oil"
+        },
+        {
+            "instructions": "set oven to 42",
+            "input": "NA",
+            "action": "set",
+            "output": "NA"
+        },
+        {
+            "instructions": "mix grated cheeses together .",
+            "input": "grated cheeses",
+            "action": "mix",
+            "output": "grated cheeses mix"
+        },
+        {
+            "instructions": "pour tomato_sauce to cover squash lightly .",
+            "input": "(tomato sauce; slice of squash drizzled with olive oil)",
+            "action": "pour",
+            "output": "slice of squash drizzled with olive oil and tomato"
+        },
+        {
+            "instructions": "sprinkle on mixed grated cheese .",
+            "input": "(grated cheeses mix; slice of squash drizzled with olive oil and tomato)",
+            "action": "sprinkle",
+            "output": "slice of squash drizzled with olive oil, tomato and grated cheeses mix"
+        },
+        {
+            "instructions": "sprinkle on mushrooms and olives .",
+            "input": "(slice of squash drizzled with olive oil, tomato and grated cheeses mix; mushrooms; olives)",
+            "action": "sprinkle",
+            "output": "slice of squash drizzled with olive oil, tomato, grated cheeses mix, mushrooms and olives"
+        },
+        {
+            "instructions": "top with a little more mixed grated cheese .",
+            "input": "(slice of squash drizzled with olive oil, tomato, grated cheeses mix, mushrooms and olives; grated cheeses mix)",
+            "action": "top",
+            "output": "slice of squash drizzled with olive oil, tomato, grated cheeses mix, mushrooms and olives"
+        },
+        {
+            "instructions": "put pan in oven for 8 10 minutes .",
+            "input": "slice of squash drizzled with olive oil, tomato, grated cheeses mix, mushrooms and olives",
+            "action": "put",
+            "output": "baked eggplant squash pizza"
+        },
+        {
+            "instructions": "serve",
+            "input": "baked eggplant squash pizza",
+            "action": "serve",
+            "output": "served baked eggplant squash pizza"
+        }
+    ],
+    "ingredients": [
+        {
+            "text": "2 small eggplants (any type)"
+        },
+        {
+            "text": "2 -4 small crookneck yellow squash"
+        },
+        {
+            "text": "2 small zucchini"
+        },
+        {
+            "text": "12 cup olive oil"
+        },
+        {
+            "text": "12 cup tomato sauce"
+        },
+        {
+            "text": "12 cup grated mozzarella cheese"
+        },
+        {
+            "text": "12 cup grated grated asiago-parmesan cheese"
+        },
+        {
+            "text": "12 cup grated cheddar cheese"
+        },
+        {
+            "text": "12 cup raw mushrooms, coarsely diced"
+        },
+        {
+            "text": "12 cup pitted black olives, coarsely diced"
+        }
+    ],
+    "recipe": [
+        {
+            "text": "Turn oven to broil."
+        },
+        {
+            "text": "Cut two medium to small eggplants in 1 inch slices."
+        },
+        {
+            "text": "Cut yellow squash or small zucchini length-wise to similar width ( basically you want them to be similar size for similar bite texture later)."
+        },
+        {
+            "text": "Oil baking pan with 14 cup olive oil."
+        },
+        {
+            "text": "Place squash slices on pan packed together but not overlapping."
+        },
+        {
+            "text": "Place under broiler for 6 minutes."
+        },
+        {
+            "text": "Turn squash over."
+        },
+        {
+            "text": "Take care not to burn yourself, the squash and the pan are now quite hot!"
+        },
+        {
+            "text": "Drizzle with remaining olive oil."
+        },
+        {
+            "text": "Broil for an additional 5-6 minutes (the squash should look well browned but not burnt)."
+        },
+        {
+            "text": "Remove pan from broiler and set oven to 425."
+        },
+        {
+            "text": "Mix grated cheeses together."
+        },
+        {
+            "text": "Pour tomato sauce to cover squash lightly."
+        },
+        {
+            "text": "Sprinkle on mixed grated cheese."
+        },
+        {
+            "text": "Sprinkle on mushrooms and olives."
+        },
+        {
+            "text": "Top with a little more mixed grated cheese."
+        },
+        {
+            "text": "Put pan in oven for 8-10 minutes."
+        },
+        {
+            "text": "Serve and enjoy!"
+        }
+    ]
+}

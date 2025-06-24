@@ -1,0 +1,97 @@
+{
+    "title": "pot_of_pizza",
+    "id": "2acd08f4b0",
+    "table": [
+        {
+            "instructions": "stir in mushrooms , meat, tomato_sauce , italian_seasoning , and splenda .",
+            "input": "(mushrooms; tomato_sauce; italian_seasoning; splenda)",
+            "actions": "stir",
+            "output": "stirred_mushrooms and meat mixture"
+        },
+        {
+            "instructions": "pour mixture into a slow\u2012cooker sprayed with pam .",
+            "input": "mushrooms and meat mixture",
+            "actions": "pour",
+            "output": "poured_mushrooms and meat mixture"
+        },
+        {
+            "instructions": "spread noodles over meat mixture .",
+            "input": "(noodles; mushrooms and meat mixture)",
+            "actions": "spread",
+            "output": "mushrooms and meat mixture spread over noodles"
+        },
+        {
+            "instructions": "cover",
+            "input": "noodles and meat mixture",
+            "actions": "cover",
+            "output": "noodles and meat mixture covered"
+        },
+        {
+            "instructions": "cook on low for 6 8 hours .",
+            "input": "noodles and meat mixture covered",
+            "actions": "cook",
+            "output": "noodles and meat mixture cooked"
+        },
+        {
+            "instructions": "mix well before serving .",
+            "input": "noodles and meat mixture cooked",
+            "actions": "mix",
+            "output": "pot of pizza"
+        }
+    ],
+    "ingredients": [
+        {
+            "text": "8 ounces lean ground beef or 8 ounces ground turkey"
+        },
+        {
+            "text": "12 cup onion, chopped"
+        },
+        {
+            "text": "12 cup green pepper, chopped"
+        },
+        {
+            "text": "1 (2 1/2 ounce) jar sliced mushrooms"
+        },
+        {
+            "text": "1 (15 ounce) can tomato sauce"
+        },
+        {
+            "text": "1 teaspoon italian seasoning"
+        },
+        {
+            "text": "1 teaspoon Splenda sugar substitute"
+        },
+        {
+            "text": "3 cups whole wheat noodles, cooked"
+        },
+        {
+            "text": "14 cup fat-free cheddar cheese"
+        },
+        {
+            "text": "14 cup fat free mozzarella cheese"
+        }
+    ],
+    "recipe": [
+        {
+            "text": "In a large skillet sprayed with cooking spray, brown meat, onion and green pepper."
+        },
+        {
+            "text": "Stir in mushrooms, tomato sauce, Italian seasoning, and Splenda."
+        },
+        {
+            "text": "Pour mixture into a slow cooker sprayed with Pam."
+        },
+        {
+            "text": "Spread noodles over meat mixture."
+        },
+        {
+            "text": "Layer cheddar and mozzarella evenly over the top."
+        },
+        {
+            "text": "Cover and cook on low for 6-8 hours."
+        },
+        {
+            "text": "Mix well before serving."
+        }
+    ]
+}

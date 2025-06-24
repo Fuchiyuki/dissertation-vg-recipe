@@ -1,0 +1,97 @@
+{
+    "title": "no-yeast_pizza_base",
+    "id": "19aa44691c",
+    "table": [
+        {
+            "instructions": "rub flour and margarine together to form breadcrumbs",
+            "input": "(flour; margarine)",
+            "actions": "rub",
+            "output": "breadcrumbs"
+        },
+        {
+            "instructions": "beat the eggs",
+            "input": "eggs",
+            "actions": "beat",
+            "output": "beaten_eggs"
+        },
+        {
+            "instructions": "add a small amount of beaten_egg to the mixture at a time .",
+            "input": "(breadcrumbs; beaten_eggs)",
+            "actions": "add",
+            "output": "dough"
+        },
+        {
+            "instructions": "mix well until it has bound together",
+            "input": "dough",
+            "actions": "mix",
+            "output": "mixed_dough"
+        },
+        {
+            "instructions": "turn out onto a floured surface",
+            "input": "mixed_dough",
+            "actions": "turn",
+            "output": "dough"
+        },
+        {
+            "instructions": "knead until fairly smooth",
+            "input": "dough",
+            "actions": "knead",
+            "output": "kneaded_dough"
+        },
+        {
+            "instructions": "place on a greased baking tray",
+            "input": "kneaded_dough",
+            "actions": "place",
+            "output": "pizza_crust"
+        },
+        {
+            "instructions": "add the toppings .",
+            "input": "(pizza_crust; toppings)",
+            "actions": "add",
+            "output": "uncooked_pizza"
+        },
+        {
+            "instructions": "place at the top of a preheated oven at 190 degrees centigrade gas mark 4",
+            "input": "uncooked_pizza",
+            "actions": "place",
+            "output": "uncooked_pizza"
+        },
+        {
+            "instructions": "cook for about 20 25 minutes .",
+            "input": "uncooked_pizza",
+            "actions": "cook",
+            "output": "cooked_pizza"
+        }
+    ],
+    "ingredients": [
+        {
+            "text": "8 ounces self-raising flour (all purpose? flour with a raising agent already added)"
+        },
+        {
+            "text": "2 eggs"
+        },
+        {
+            "text": "2 ounces margarine"
+        }
+    ],
+    "recipe": [
+        {
+            "text": "rub flour and margarine together to form \"breadcrumbs\""
+        },
+        {
+            "text": "beat the eggs then add a small amount of beaten egg to the mixture at a time."
+        },
+        {
+            "text": "Mix well until it has bound together but isn't too sticky"
+        },
+        {
+            "text": "turn out onto a floured surface and knead until fairly smooth"
+        },
+        {
+            "text": "place on a greased baking tray and add the toppings."
+        },
+        {
+            "text": "place at the top of a preheated oven at 190 degrees Centigrade (gas mark 4) and cook for about 20-25 minutes."
+        }
+    ]
+}

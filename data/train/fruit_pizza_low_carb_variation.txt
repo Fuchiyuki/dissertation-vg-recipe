@@ -1,0 +1,184 @@
+{
+    "title": "fruit_pizza_low_carb_variation",
+    "id": "6a8b763bf6",
+    "table": [
+        {
+            "instructions": "mix the eggs , vanilla , and melted_butter in one bowl .",
+            "input": "(eggs; vanilla; melted_butter)",
+            "actions": "mix",
+            "output": "eggs and vanila mixture"
+        },
+        {
+            "instructions": "mix thoroughly .",
+            "input": "eggs and vanila mixture",
+            "actions": "mix",
+            "output": "wet ingredients"
+        },
+        {
+            "instructions": "in a separate bowl , mix the coconut , meal i just used dried coconut for an accurate carb count , salt , baking_soda , and stevia .",
+            "input": "(coconut meal; salt; baking_soda; stevia)",
+            "actions": "mix",
+            "output": "dry ingredients"
+        },
+        {
+            "instructions": "add the dry ingredients to the wet",
+            "input": "(dry ingredients; wet ingredients)",
+            "actions": "add",
+            "output": "dry and wet ingredients mixture"
+        },
+        {
+            "instructions": "mix thoroughly .",
+            "input": "dry and wet ingredients mixture",
+            "actions": "mix",
+            "output": "batter"
+        },
+        {
+            "instructions": "grease a 17 14 x 12 14 x 1 jelly , roll pan .",
+            "input": "NA",
+            "actions": "grease",
+            "output": "NA"
+        },
+        {
+            "instructions": "spread the batter evenly into the pan .",
+            "input": "batter",
+            "actions": "spread",
+            "output": "spread batter"
+        },
+        {
+            "instructions": "bake at 350 f for 15 minutes , or until golden brown .",
+            "input": "raw batter",
+            "actions": "bake",
+            "output": "baked cake"
+        },
+        {
+            "instructions": "mix the cream_cheese , sour_cream , lemon_zest , and stevia .",
+            "input": "(cream_cheese; sour_cream; lemon_zest; stevia)",
+            "actions": "mix",
+            "output": "frosting"
+        },
+        {
+            "instructions": "add more sweetener if necessary .",
+            "input": "(frosting; sweetener)",
+            "actions": "add",
+            "output": "sweetened frosting"
+        },
+        {
+            "instructions": "spread the frosting evenly over the cake .",
+            "input": "(baked cake; frosting)",
+            "actions": "spread",
+            "output": "frosting spread over cake"
+        },
+        {
+            "instructions": "slice the fruit",
+            "input": "fruits",
+            "actions": "slice",
+            "output": "sliced fruits"
+        },
+        {
+            "instructions": "slice",
+            "input": "fruit pizza",
+            "actions": "slice",
+            "output": "sliced fruit pizza"
+        },
+        {
+            "instructions": "serve .",
+            "input": "sliced fruit pizza",
+            "actions": "serve",
+            "output": "sliced fruit pizza"
+        }
+    ],
+    "ingredients": [
+        {
+            "text": "9 eggs"
+        },
+        {
+            "text": "34 cup butter, melted"
+        },
+        {
+            "text": "2 tablespoons vanilla"
+        },
+        {
+            "text": "34 cup dried coconut (use coconut meal)"
+        },
+        {
+            "text": "12 teaspoon sea salt"
+        },
+        {
+            "text": "12 teaspoon baking soda"
+        },
+        {
+            "text": "1 -2 teaspoon stevia"
+        },
+        {
+            "text": "16 ounces cream cheese"
+        },
+        {
+            "text": "1 cup sour cream"
+        },
+        {
+            "text": "1 tablespoon lemon zest"
+        },
+        {
+            "text": "1 tablespoon stevia"
+        },
+        {
+            "text": "4 cups strawberries (or any mixed berries or fruit)"
+        }
+    ],
+    "recipe": [
+        {
+            "text": "Mix the eggs, vanilla, and melted butter in one bowl."
+        },
+        {
+            "text": "Be sure the butter is cool enough to not cook the eggs."
+        },
+        {
+            "text": "Mix thoroughly."
+        },
+        {
+            "text": "In a separate bowl, mix the coconut meal (I just used dried coconut for an accurate carb count), salt, baking soda, and stevia."
+        },
+        {
+            "text": "(Stevia is an herb that tastes sweet."
+        },
+        {
+            "text": "You can replace it with sugar or any sugar substitute."
+        },
+        {
+            "text": ")."
+        },
+        {
+            "text": "Add the dry ingredients to the wet and mix thoroughly."
+        },
+        {
+            "text": "Grease a 17 1/4\" x 12 1/4\" x 1\" jelly roll pan."
+        },
+        {
+            "text": "Spread the batter evenly into the pan."
+        },
+        {
+            "text": "Bake at 350 f for 15 minutes, or until golden brown."
+        },
+        {
+            "text": "Let cool completely."
+        },
+        {
+            "text": "Mix the cream cheese, sour cream, lemon zest, and stevia."
+        },
+        {
+            "text": "Add more sweetener if necessary."
+        },
+        {
+            "text": "I don't like my sweets very sweet and I think the fruit adds more than enough flavor."
+        },
+        {
+            "text": "Spread the frosting evenly over the cake."
+        },
+        {
+            "text": "Slice the fruit and layer on top of the frosting."
+        },
+        {
+            "text": "Slice and serve."
+        }
+    ]
+}

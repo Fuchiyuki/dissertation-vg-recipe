@@ -1,0 +1,85 @@
+{
+    "title": "fruit_cookie_pizza",
+    "id": "fff08dc742",
+    "table": [
+        {
+            "instructions": "preheat oven to the recommended temperature for the recipe you are using .",
+            "input": "NA",
+            "action": "preheat",
+            "output": "NA"
+        },
+        {
+            "instructions": "spread the cookie dough on a pizza\u2012pan",
+            "input": "cookie dough",
+            "action": "spread",
+            "output": "spread_cookie dough"
+        },
+        {
+            "instructions": "spread evenly all the way to the end .",
+            "input": "spread_cookie dough",
+            "action": "spread",
+            "output": "spread_cookie dough"
+        },
+        {
+            "instructions": "bake for the suggested amount of time for the cookie recipe used .",
+            "input": "spread_cookie dough",
+            "action": "bake",
+            "output": "baked cookie pizza"
+        },
+        {
+            "instructions": "once the cookie pizza is lightly browned , pull it out",
+            "input": "baked cookie pizza",
+            "action": "pull",
+            "output": "baked cookie pizza"
+        },
+        {
+            "instructions": "spread the fruit dip on top of the cooled crust",
+            "input": "(fruit dip; baked cookie pizza)",
+            "action": "spread",
+            "output": "fruit dip spread on baked cookie pizza"
+        },
+        {
+            "instructions": "finally , arrange the fruit on top in any manor you 'd like",
+            "input": "(baked cookie pizza with fruit dip; fruit)",
+            "action": "arrange",
+            "output": "arrange fruit on baked cookie pizza with fruit dip"
+        },
+        {
+            "instructions": "make it decorative .",
+            "input": "fruit pizza",
+            "action": "make",
+            "output": "fruit_cookie_pizza"
+        }
+    ],
+    "ingredients": [
+        {
+            "text": "20 ounces sugar cookie dough (your favorite sugar cookie dough recipe or store bought, usually 18oz, which is fine)"
+        },
+        {
+            "text": "12 ounces cream cheese fruit dip"
+        },
+        {
+            "text": "3 cups mixed fruit, of your choice cut make sure they are strained and let to sit and dry for at least 15 minutes"
+        }
+    ],
+    "recipe": [
+        {
+            "text": "Preheat oven to the recommended temperature for the recipe you are using."
+        },
+        {
+            "text": "Spread the cookie dough on a pizza pan, spread evenly all the way to the end."
+        },
+        {
+            "text": "Bake for the suggested amount of time for the cookie recipe used."
+        },
+        {
+            "text": "Once the cookie (pizza) is lightly browned, pull it out and allow it to cool for 15 minutes."
+        },
+        {
+            "text": "Spread the fruit dip on top of the cooled crust, dont be sparring, give it a good thick coat."
+        },
+        {
+            "text": "Finally, arrange the fruit on top in any manor you'd like, be creative, make it decorative."
+        }
+    ]
+}

@@ -1,0 +1,148 @@
+{
+    "title": "pineapple_ham_basil_pizza",
+    "id": "0bbdcae9ce",
+    "table": [
+        {
+            "instructions": "use a well seasoned heavy cast iron skillet , at least 12 in diameter .",
+            "input": "NA",
+            "action": "use",
+            "output": "NA"
+        },
+        {
+            "instructions": "preheat oven to 450 f very hot .",
+            "input": "NA",
+            "action": "preheat",
+            "output": "NA"
+        },
+        {
+            "instructions": "toss grated mozzarella_cheese with 2 tablespoons , olive_oil .",
+            "input": "(grated mozzarella_cheese; olive oil)",
+            "action": "toss",
+            "output": "tossed_mozzarella_cheese in olive oil"
+        },
+        {
+            "instructions": "drizzle 2 tablespoons , olive_oil into skillet .",
+            "input": "olive oil",
+            "action": "drizzle",
+            "output": "heated olive oil"
+        },
+        {
+            "instructions": "press dough into pan .",
+            "input": "dough",
+            "action": "press",
+            "output": "pressed dough_in_pan"
+        },
+        {
+            "instructions": "spread mozzarella over crust",
+            "input": "(pressed dough_in_pan; mozzarella)",
+            "action": "spread",
+            "output": "pizza crust with mozzarella cheese"
+        },
+        {
+            "instructions": "follow in this order with pineapple , ham , basil , walnuts , feta .",
+            "input": "(pizza crust with mozzarella cheese; pineapple; ham; basil; walnuts; feta)",
+            "action": "follow",
+            "output": "pizza crust with mozzarella cheese, pineapple, ham, basil, walnuts and feta"
+        },
+        {
+            "instructions": "drizzle remaining 1 tablespoon of olive_oil on top .",
+            "input": "(pizza crust with mozzarella cheese, pineapple, ham, basil, walnuts and feta; remaining olive_oil)",
+            "action": "drizzle",
+            "output": "pizza crust with mozzarella cheese, pineapple, ham, basil, walnuts, feta and remaining olive oil"
+        },
+        {
+            "instructions": "put into very hot preheated oven bake for about 20 minutes .",
+            "input": "pizza crust with mozzarella cheese, pineapple, ham, basil, walnuts, feta and remaining olive oil",
+            "action": "put",
+            "output": "cooking pineapple_ham_basil_pizza"
+        },
+        {
+            "instructions": "use a spatula to lift edge of crust to check that it is golden and crisp .",
+            "input": "cooking pineapple_ham_basil_pizza",
+            "action": "use",
+            "output": "cooking pineapple_ham_basil_pizza"
+        },
+        {
+            "instructions": "remove when done to your liking",
+            "input": "cooking pineapple_ham_basil_pizza",
+            "action": "remove",
+            "output": "baked pineapple_ham_basil_pizza"
+        },
+        {
+            "instructions": "transfer to platter",
+            "input": "baked pineapple_ham_basil_pizza",
+            "action": "transfer",
+            "output": "baked pineapple_ham_basil_pizza"
+        },
+        {
+            "instructions": "slice",
+            "input": "baked pineapple_ham_basil_pizza",
+            "action": "slice",
+            "output": "sliced baked pineapple_ham_basil_pizza"
+        },
+        {
+            "instructions": "serve .",
+            "input": "sliced baked pineapple_ham_basil_pizza",
+            "action": "serve",
+            "output": "sliced baked pineapple_ham_basil_pizza ready to serve"
+        }
+    ],
+    "ingredients": [
+        {
+            "text": "1 recipe pizza dough, your favorite recipe"
+        },
+        {
+            "text": "1 12 cups mozzarella cheese, shredded"
+        },
+        {
+            "text": "14 cup crushed pineapple, drained"
+        },
+        {
+            "text": "14 cup walnuts, broken"
+        },
+        {
+            "text": "1 tablespoon fresh basil, slivered"
+        },
+        {
+            "text": "14 cup deli ham, cut in fine shreds"
+        },
+        {
+            "text": "14 cup feta cheese, crumbled"
+        },
+        {
+            "text": "5 tablespoons olive oil"
+        }
+    ],
+    "recipe": [
+        {
+            "text": "Use a well-seasoned heavy cast iron skillet, at least 12\" in diameter."
+        },
+        {
+            "text": "Preheat oven to 450 F (very HOT)."
+        },
+        {
+            "text": "Toss grated mozzarella cheese with 2 tablespoons olive oil."
+        },
+        {
+            "text": "Drizzle 2 tablespoons olive oil into skillet."
+        },
+        {
+            "text": "Press dough into pan."
+        },
+        {
+            "text": "Spread mozzarella over crust then follow in this order with: pineapple, ham, basil, walnuts, feta."
+        },
+        {
+            "text": "Drizzle remaining 1 tablespoon of olive oil on top."
+        },
+        {
+            "text": "Put into very hot preheated oven - bake for about 20 minutes."
+        },
+        {
+            "text": "Use a spatula to lift edge of crust to check that it is golden and crisp."
+        },
+        {
+            "text": "Remove when done to your liking, transfer to platter, slice and serve."
+        }
+    ]
+}

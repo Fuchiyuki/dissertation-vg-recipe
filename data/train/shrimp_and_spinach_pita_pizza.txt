@@ -1,0 +1,106 @@
+{
+    "title": "shrimp_and_spinach_pita_pizza",
+    "id": "241da5627b",
+    "table": [
+        {
+            "instructions": "preheat oven to 400f .",
+            "input": "NA",
+            "actions": "preheat",
+            "output": "NA"
+        },
+        {
+            "instructions": "heat oil in a small skillet",
+            "input": "oil",
+            "actions": "heat",
+            "output": "heated_oil"
+        },
+        {
+            "instructions": "add onion",
+            "input": "(heated_oil; onion)",
+            "actions": "add",
+            "output": "onion added to heated oil"
+        },
+        {
+            "instructions": "cook over medium heat 1 minute .",
+            "input": "onion added to heated oil",
+            "actions": "cook",
+            "output": "cooked onion"
+        },
+        {
+            "instructions": "add spinach and oregano",
+            "input": "(cooked onion; spinach; oregano)",
+            "actions": "add",
+            "output": "spinach and oregano added to cooked onion"
+        },
+        {
+            "instructions": "cook 1 minute .",
+            "input": "spinach and oregano added to cooked onion",
+            "actions": "cook",
+            "output": "cooked spinach and onion mixture"
+        },
+        {
+            "instructions": "sprinkle 14 cup , cheese on each pita .",
+            "input": "(pita; cheese)",
+            "actions": "sprinkle",
+            "output": "pita with sprinkled cheese"
+        },
+        {
+            "instructions": "top with spinach , tomatoes , shrimp and remaining cheese .",
+            "input": "(tomatoes; shrimp; remaining cheese; spinach mixture; pita with sprinkled cheese)",
+            "actions": "top",
+            "output": "pita with sprinkled cheese topped with spinach mixture, tomatoes , shrimp and remaining cheese"
+        },
+        {
+            "instructions": "bake 10 minutes or until cheese is melted .",
+            "input": "uncooked shrimp_and_spinach_pita_pizza",
+            "actions": "bake",
+            "output": "baked shrimp_and_spinach_pita_pizza"
+        }
+    ],
+    "ingredients": [
+        {
+            "text": "12 teaspoon olive oil"
+        },
+        {
+            "text": "14 cup thinly sliced red onion"
+        },
+        {
+            "text": "3 cups chopped fresh spinach"
+        },
+        {
+            "text": "14 teaspoon dried oregano"
+        },
+        {
+            "text": "1 cup shredded mozzarella cheese"
+        },
+        {
+            "text": "2 pita breads (6 inch)"
+        },
+        {
+            "text": "2 plum tomatoes, sliced"
+        },
+        {
+            "text": "10 large cooked and peeled shrimp"
+        }
+    ],
+    "recipe": [
+        {
+            "text": "Preheat oven to 400F."
+        },
+        {
+            "text": "Heat oil in a small skillet, add onion and cook over medium heat 1 minute."
+        },
+        {
+            "text": "Add spinach and oregano and cook 1 minute."
+        },
+        {
+            "text": "Sprinkle 1/4 cup cheese on each pita."
+        },
+        {
+            "text": "Top with spinach, tomatoes, shrimp and remaining cheese."
+        },
+        {
+            "text": "Bake 10 minutes or until cheese is melted."
+        }
+    ]
+}

@@ -1,0 +1,112 @@
+{
+    "title": "no_dough_pizza_low_carb_cream_cheese_pizza_crust",
+    "id": "44b9fc2414",
+    "table": [
+        {
+            "instructions": "preheat oven to 35",
+            "input": "NA",
+            "actions": "preheat",
+            "output": "NA"
+        },
+        {
+            "instructions": "with a handheld mixer , mix cream_cheese , eggs , pepper , garlic_powder and parmesan_cheese until combined .",
+            "input": "(cream_cheese; eggs; pepper; garlic_powder; parmesan_cheese)",
+            "actions": "mix",
+            "output": "cream_cheese and parmesan_cheese mixture"
+        },
+        {
+            "instructions": "spread into baking dish .",
+            "input": "cream_cheese and parmesan_cheese mixture",
+            "actions": "spread",
+            "output": "spread cream_cheese and parmesan_cheese mixturen"
+        },
+        {
+            "instructions": "bake for 15 20 minutes , or until golden brown .",
+            "input": "uncooked cream_cheese and parmesan_cheese mixture",
+            "actions": "bake",
+            "output": "baked cheese crust"
+        },
+        {
+            "instructions": "spread pizza_sauce on crust .",
+            "input": "(baked cheese crust; pizza_sauce)",
+            "actions": "spread",
+            "output": "pizza sauce spread on baked cheese crust"
+        },
+        {
+            "instructions": "top with cheese and toppings .",
+            "input": "(baked cheese crust with pizza sauce; cheese; toppings)",
+            "actions": "top",
+            "output": "baked cheese crust with pizza sauce topped with cheese and toppings"
+        },
+        {
+            "instructions": "sprinkle pizza with garlic_powder .",
+            "input": "(garlic powder; no dough low carb pizza)",
+            "actions": "sprinkle",
+            "output": "garlic powder sprinkled on no dough low carb pizza"
+        },
+        {
+            "instructions": "bake 8 10 minutes , until cheese is melted .",
+            "input": "uncooked no dough low carb pizza",
+            "actions": "bake",
+            "output": "baked no dough low carb pizza"
+        }
+    ],
+    "ingredients": [
+        {
+            "text": "1 (8 ounce) package cream cheese, room temperature"
+        },
+        {
+            "text": "2 eggs"
+        },
+        {
+            "text": "14 teaspoon ground black pepper"
+        },
+        {
+            "text": "1 teaspoon garlic powder"
+        },
+        {
+            "text": "14 cup grated parmesan cheese"
+        },
+        {
+            "text": "12 cup pizza sauce (may need more to cover crust)"
+        },
+        {
+            "text": "1 12 cups shredded mozzarella cheese"
+        },
+        {
+            "text": "pepperoni or ham or sausage or mushrooms or bell pepper, etc"
+        }
+    ],
+    "recipe": [
+        {
+            "text": "Preheat oven to 350."
+        },
+        {
+            "text": "Lightly spay a 9x13 baking dish with cooking spray."
+        },
+        {
+            "text": "With a handheld mixer, mix cream cheese, eggs, pepper, garlic powder and parmesan cheese until combined."
+        },
+        {
+            "text": "Spread into baking dish."
+        },
+        {
+            "text": "Bake for 15-20 minutes, or until golden brown."
+        },
+        {
+            "text": "Allow crust to cool for 10 minutes."
+        },
+        {
+            "text": "Spread pizza sauce on crust."
+        },
+        {
+            "text": "Top with cheese and toppings."
+        },
+        {
+            "text": "Sprinkle pizza with garlic powder."
+        },
+        {
+            "text": "Bake 8-10 minutes, until cheese is melted."
+        }
+    ]
+}

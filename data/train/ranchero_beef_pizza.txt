@@ -1,0 +1,76 @@
+{
+    "title": "ranchero_beef_pizza",
+    "id": "24303fc3e3",
+    "table": [
+        {
+            "instructions": "heat oven to 400 degrees f .",
+            "input": "NA",
+            "action": "heat",
+            "output": "NA"
+        },
+        {
+            "instructions": "place pizza_crust on ungreased cookie sheet .",
+            "input": "pizza_crust",
+            "action": "place",
+            "output": "pizza_crust"
+        },
+        {
+            "instructions": "sprinkle with 1 cup of the cheese .",
+            "input": "(pizza crust; cheese)",
+            "action": "sprinkle",
+            "output": "pizza_crust topped with cheese"
+        },
+        {
+            "instructions": "top with beef and onion .",
+            "input": "(beef; onion; pizza_crust topped with cheese)",
+            "action": "top",
+            "output": "pizza_crust with cheese topped with beef and onion"
+        },
+        {
+            "instructions": "sprinkle with remaining cup of cheese .",
+            "input": "(cheese; pizza_crust with cheese topped with beef and onion)",
+            "action": "sprinkle",
+            "output": "remaining cheese sprinkled on pizza_crust with cheese topped with beef and onion"
+        },
+        {
+            "instructions": "bake about 15 minute or until hot .",
+            "input": "uncooked beef pizza",
+            "action": "bake",
+            "output": "baked beef pizza"
+        }
+    ],
+    "ingredients": [
+        {
+            "text": "1 (12 -14 inch) prebaked prepared pizza crust"
+        },
+        {
+            "text": "2 cups shredded smoked cheddar cheese (8 oz) or 2 cups regular cheddar cheese (8 oz)"
+        },
+        {
+            "text": "2 cups refrigerated original barbecue sauce with shredded barbecued beef (18 oz can)"
+        },
+        {
+            "text": "4 slices red onions"
+        }
+    ],
+    "recipe": [
+        {
+            "text": "Heat oven to 400 degrees F."
+        },
+        {
+            "text": "Place pizza crust on ungreased cookie sheet."
+        },
+        {
+            "text": "Sprinkle with 1 cup of the cheese."
+        },
+        {
+            "text": "Top with beef and onion."
+        },
+        {
+            "text": "Sprinkle with remaining cup of cheese."
+        },
+        {
+            "text": "Bake about 15 minute or until hot."
+        }
+    ]
+}

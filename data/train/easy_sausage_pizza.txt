@@ -1,0 +1,82 @@
+{
+    "title": "easy_sausage_pizza",
+    "id": "e78ee76c08",
+    "table": [
+        {
+            "instructions": "remove sausage from casing",
+            "input": "italian_sausage with casing",
+            "action": "remove",
+            "output": "italian_sausage without casing"
+        },
+        {
+            "instructions": "pinch into dime sized pieces .",
+            "input": "italian_sausage without casing",
+            "action": "pinch",
+            "output": "pieces of italian_sausage"
+        },
+        {
+            "instructions": "spread sauce over crust ;",
+            "input": "sauce; crust",
+            "action": "spread",
+            "output": "crust with sauce"
+        },
+        {
+            "instructions": "sprinkle with 1 cup , cheese .",
+            "input": "cheese; crust with sauce",
+            "action": "sprinkle",
+            "output": "crust topped with cheese"
+        },
+        {
+            "instructions": "add italian_sausage pieces and green_pepper .",
+            "input": "(pieces of italian_sausage; green pepper)",
+            "action": "add",
+            "output": "crust topped with cheese, italian_sausage pieces and green_pepper"
+        },
+        {
+            "instructions": "top with the remaining cheese .",
+            "input": "remaining cheese; crust topped with cheese, italian_sausage pieces and green_pepper",
+            "action": "top",
+            "output": "uncooked sausage pizza"
+        },
+        {
+            "instructions": "bake according to crust , package directions or until sausage is no longer pink 160 degrees f and cheese is melted .",
+            "input": "uncooked sausage pizza",
+            "action": "bake",
+            "output": "baked sausage pizza"
+        }
+    ],
+    "ingredients": [
+        {
+            "text": "1 (19 ounce) package Johnsonville Mild Italian Sausage Links (or 16 ounces Johnsonville Italian Ground Sausage)"
+        },
+        {
+            "text": "1 (12 inch) pre-baked packaged prepared pizza crust"
+        },
+        {
+            "text": "1 cup pizza sauce"
+        },
+        {
+            "text": "1 14 cups shredded mozzarella cheese, divided"
+        },
+        {
+            "text": "12 cup green pepper, chopped"
+        }
+    ],
+    "recipe": [
+        {
+            "text": "Remove sausage from casing and pinch into dime-sized pieces."
+        },
+        {
+            "text": "Spread sauce over crust; sprinkle with 1 cup cheese."
+        },
+        {
+            "text": "Add Italian Sausage pieces and green pepper."
+        },
+        {
+            "text": "Top with the remaining cheese."
+        },
+        {
+            "text": "Bake according to crust package directions or until sausage is no longer pink (160 degrees F) and cheese is melted."
+        }
+    ]
+}

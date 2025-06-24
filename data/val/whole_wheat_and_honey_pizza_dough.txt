@@ -1,0 +1,121 @@
+{
+    "title": "whole_wheat_and_honey_pizza_dough",
+    "id": "5943f55712",
+    "table": [
+        {
+            "instructions": "preheat oven to 350 degrees f 175 degrees c.",
+            "input": "NA",
+            "action": "preheat",
+            "output": "NA"
+        },
+        {
+            "instructions": "in a small bowl , dissolve yeast in warm_water .",
+            "input": "(yeast; warm water)",
+            "action": "dissolve",
+            "output": "dissolved_yeast"
+        },
+        {
+            "instructions": "in a large bowl combine flour , wheat_germ and salt .",
+            "input": "(flour; wheat germ; salt)",
+            "action": "combine",
+            "output": "flour mixture"
+        },
+        {
+            "instructions": "make a well in the middle",
+            "input": "flour mixture",
+            "action": "make",
+            "output": "flour mixture with a well in the middle"
+        },
+        {
+            "instructions": "add honey and yeast mixture .",
+            "input": "(flour mixture with a well in the middle; honey; yeast mixture)",
+            "action": "add",
+            "output": "partially mixed whole wheat and honey dough"
+        },
+        {
+            "instructions": "stir well to combine .",
+            "input": "partially mixed whole wheat and honey dough",
+            "action": "stir",
+            "output": "mixed whole wheat and honey dough"
+        },
+        {
+            "instructions": "cover",
+            "input": "mixed whole wheat and honey dough",
+            "action": "cover",
+            "output": "covered whole wheat and honey dough"
+        },
+        {
+            "instructions": "set in a warm place to rise for a few minutes .",
+            "input": "covered whole wheat and honey dough",
+            "action": "set",
+            "output": "risen whole wheat and honey dough"
+        },
+        {
+            "instructions": "roll dough on a floured pizza\u2012pan",
+            "input": "whole wheat and honey dough",
+            "action": "roll",
+            "output": "whole wheat and honey dough rolled on a floured pan"
+        },
+        {
+            "instructions": "poke a few holes in it with a fork .",
+            "input": "whole wheat and honey dough rolled on a floured pan",
+            "action": "poke",
+            "output": "whole wheat and honey dough rolled on a floured pan and poked"
+        },
+        {
+            "instructions": "bake in preheated oven for 5 to 10 minutes , or until desired crispiness is achieved .",
+            "input": "whole wheat and honey dough rolled on a floured pan and poked",
+            "action": "bake",
+            "output": "baked whole wheat and honey pizza crust"
+        }
+    ],
+    "ingredients": [
+        {
+            "text": "1 (.25 ounce) package active dry yeast"
+        },
+        {
+            "text": "1 cup warm water"
+        },
+        {
+            "text": "2 cups whole wheat flour"
+        },
+        {
+            "text": "1/4 cup wheat germ"
+        },
+        {
+            "text": "1 teaspoon salt"
+        },
+        {
+            "text": "1 tablespoon honey"
+        }
+    ],
+    "recipe": [
+        {
+            "text": "Preheat oven to 350 degrees F (175 degrees C)."
+        },
+        {
+            "text": "In a small bowl, dissolve yeast in warm water."
+        },
+        {
+            "text": "Let stand until creamy, about 10 minutes."
+        },
+        {
+            "text": "In a large bowl combine flour, wheat germ and salt."
+        },
+        {
+            "text": "Make a well in the middle and add honey and yeast mixture."
+        },
+        {
+            "text": "Stir well to combine."
+        },
+        {
+            "text": "Cover and set in a warm place to rise for a few minutes."
+        },
+        {
+            "text": "Roll dough on a floured pizza pan and poke a few holes in it with a fork."
+        },
+        {
+            "text": "Bake in preheated oven for 5 to 10 minutes, or until desired crispiness is achieved."
+        }
+    ]
+}

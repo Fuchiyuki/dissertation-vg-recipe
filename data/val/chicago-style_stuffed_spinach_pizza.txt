@@ -1,0 +1,274 @@
+{
+    "title": "chicago-style_stuffed_spinach_pizza",
+    "id": "9a3f359ab3",
+    "table": [
+        {
+            "instructions": "crust dissolve yeast and sugar in water in a large bowl",
+            "input": "(yeast; sugar)",
+            "actions": "dissolve",
+            "output": "dissolved_sugar_in_water"
+        },
+        {
+            "instructions": "stir in oil",
+            "input": "(oil; dissolved_sugar_in_water)",
+            "actions": "stir",
+            "output": "oil_stirred_in_dissolved_sugar_in_water"
+        },
+        {
+            "instructions": "stir in 4 cups of the flour until smooth ;",
+            "input": "(flour; yeast_mixture)",
+            "actions": "stir",
+            "output": "dough"
+        },
+        {
+            "instructions": "add additional flour as needed to form a stiff dough .",
+            "input": "(flour; dough)",
+            "actions": "add",
+            "output": "dough"
+        },
+        {
+            "instructions": "lightly flour the work surface",
+            "input": "NA",
+            "actions": "flour",
+            "output": "NA"
+        },
+        {
+            "instructions": "knead dough until smooth and elastic , about 7 to 10 minutes",
+            "input": "dough",
+            "actions": "knead",
+            "output": "kneaded_dough"
+        },
+        {
+            "instructions": "put into a greased bowl ;",
+            "input": "kneaded_dough",
+            "actions": "put",
+            "output": "kneaded_dough"
+        },
+        {
+            "instructions": "turn to coat top",
+            "input": "kneaded_dough",
+            "actions": "turn",
+            "output": "coated_dough"
+        },
+        {
+            "instructions": "sauce heat oil in a large saucepan over medium high heat",
+            "input": "oil",
+            "actions": "heat",
+            "output": "heated_oil"
+        },
+        {
+            "instructions": "add garlic",
+            "input": "(heated oil; garlic)",
+            "actions": "add",
+            "output": "garlic in heated oil"
+        },
+        {
+            "instructions": "cook 2 minutes",
+            "input": "garlic in heated oil",
+            "actions": "cook",
+            "output": "cooked garlic"
+        },
+        {
+            "instructions": "stir in tomatoes , oregano , basil , salt and pepper ;",
+            "input": "(tomatoes; oregano; basil; salt; pepper, cooked_garlic)",
+            "actions": "stir",
+            "output": "tomato_sauce"
+        },
+        {
+            "instructions": "simmer until very thick , about 30 minutes or so .",
+            "input": "tomato_sauce",
+            "actions": "simmer",
+            "output": "simmering_tomato_sauce"
+        },
+        {
+            "instructions": "filling mix spinach , mozzarella , mushrooms , parmesan , romano , garlic_olive_oil , basil , salt and pepper in a large bowl .",
+            "input": " spinach , mozzarella , mushrooms , parmesan , romano , garlic_olive_oil , basil , salt and pepper",
+            "actions": "mix",
+            "output": "spinach_mixture"
+        },
+        {
+            "instructions": "heat oven to 45",
+            "input": "NA",
+            "actions": "heat",
+            "output": "NA"
+        },
+        {
+            "instructions": "punch down dough ;",
+            "input": "risen_dough",
+            "actions": "punch",
+            "output": "punched_down_dough"
+        },
+        {
+            "instructions": "lightly oil a 12 inch , pizza\u2012pan that is at least 2 deep .",
+            "input": "NA",
+            "actions": "oil",
+            "output": "NA"
+        },
+        {
+            "instructions": "roll two thirds of dough into a 16 inch circle ;",
+            "input": "dough",
+            "actions": "roll",
+            "output": "rolled_dough"
+        },
+        {
+            "instructions": "put the spinach mixture into center of dough ;",
+            "input": "(dough; spinach_mixture)",
+            "actions": "put",
+            "output": "spinach_mixture_put_in_dough"
+        },
+        {
+            "instructions": "smooth evenly over the surface .",
+            "input": "spinach_mixture_put_in_dough",
+            "actions": "smooth",
+            "output": "spinach_mixture_smoothened_over_dough"
+        },
+        {
+            "instructions": "roll the remaining dough on a lightly floured surface to a 12 inch circle ;",
+            "input": "remaining_dough",
+            "actions": "roll",
+            "output": "rolled_remaining_dough"
+        },
+        {
+            "instructions": "place over the spinach , filling",
+            "input": "(rolled_remaining_dough; spinach_mixture_over_dough)",
+            "actions": "place",
+            "output": "rolled_remaining_dough_over_spinach_mixture_over_dough"
+        },
+        {
+            "instructions": "pinch the edges together",
+            "input": "rolled_remaining_dough_over_spinach_mixture_over_dough",
+            "actions": "pinch",
+            "output": "stuffed_spinach_pizza_with_pinched_edges"
+        },
+        {
+            "instructions": "cut excess dough at the edges so that the bottom dough is level with the top crust .",
+            "input": "stuffed_spinach_pizza_with_pinched_edges",
+            "actions": "cut",
+            "output": "stuffed_spinach_pizza_without_excess_dough"
+        },
+        {
+            "instructions": "pour sauce over the dough to cover .",
+            "input": "(stuffed_spinach_pizza; tomato_sauce)",
+            "actions": "pour",
+            "output": "tomato_sauce_poured_over_stuffed_spinach_pizza"
+        },
+        {
+            "instructions": "bake until crust is golden , 20 40 minutes .",
+            "input": "uncooked_chicago-style_stuffed_spinach_pizza",
+            "actions": "bake",
+            "output": "baked_chicago-style_stuffed_spinach_pizza"
+        }
+    ],
+    "ingredients": [
+        {
+            "text": "2 packages active dry yeast"
+        },
+        {
+            "text": "1 tablespoon sugar"
+        },
+        {
+            "text": "2 cups warm water"
+        },
+        {
+            "text": "13 cup vegetable oil"
+        },
+        {
+            "text": "4 -6 cups flour"
+        },
+        {
+            "text": "2 tablespoons olive oil"
+        },
+        {
+            "text": "1 clove garlic, minced"
+        },
+        {
+            "text": "1 (28 ounce) can crushed tomatoes in puree"
+        },
+        {
+            "text": "2 teaspoons dried oregano"
+        },
+        {
+            "text": "1 12 teaspoons dried basil"
+        },
+        {
+            "text": "14 teaspoon salt"
+        },
+        {
+            "text": "14 teaspoon fresh ground black pepper"
+        },
+        {
+            "text": "3 (10 ounce) packages frozen chopped spinach, thawed and well drained (squeeze water out with your hands)"
+        },
+        {
+            "text": "2 12 cups shredded mozzarella cheese"
+        },
+        {
+            "text": "8 ounces fresh mushrooms, sliced (optional)"
+        },
+        {
+            "text": "12 cup freshly grated parmesan cheese"
+        },
+        {
+            "text": "12 cup freshly grated romano cheese"
+        },
+        {
+            "text": "2 cloves garlic, minced"
+        },
+        {
+            "text": "2 tablespoons olive oil"
+        },
+        {
+            "text": "1 teaspoon dried basil"
+        },
+        {
+            "text": "14 teaspoon salt"
+        },
+        {
+            "text": "14 teaspoon fresh ground black pepper"
+        }
+    ],
+    "recipe": [
+        {
+            "text": "Crust: dissolve yeast and sugar in water in a large bowl; let stand until bubbly; stir in oil then stir in 4 cups of the flour until smooth; add additional flour as needed to form a stiff dough."
+        },
+        {
+            "text": "Lightly flour the work surface; knead dough until smooth and elastic, about 7 to 10 minutes; put into a greased bowl; turn to coat top then let rise, covered, in a warm place until doubled, about 1 hour."
+        },
+        {
+            "text": "Sauce: heat oil in a large saucepan over medium-high heat; add garlic, cook 2 minutes; stir in tomatoes, oregano, basil, salt and pepper; simmer until very thick, about 30 minutes or so."
+        },
+        {
+            "text": "Filling: mix spinach, mozzarella, mushrooms, parmesan, romano, garlic, olive oil, basil, salt and pepper in a large bowl."
+        },
+        {
+            "text": "Heat oven to 450."
+        },
+        {
+            "text": "Punch down dough; let rest 10 minutes."
+        },
+        {
+            "text": "Lightly oil a 12-inch pizza pan that is at least 2\" deep."
+        },
+        {
+            "text": "Roll two-thirds of dough into a 16-inch circle; let sides overhang the pan."
+        },
+        {
+            "text": "Put the spinach mixture into center of dough; smooth evenly over the surface."
+        },
+        {
+            "text": "Roll the remaining dough on a lightly floured surface to a 12-inch circle; place over the spinach filling then pinch the edges together and cut excess dough at the edges so that the bottom dough is level with the top crust."
+        },
+        {
+            "text": "Pour sauce over the dough to cover."
+        },
+        {
+            "text": "Bake until crust is golden, 20-40 minutes."
+        },
+        {
+            "text": "Let stand 10 minutes before slicing into wedges for serving."
+        },
+        {
+            "text": "Ice cold beer or root beer is great with this pizza."
+        }
+    ]
+}

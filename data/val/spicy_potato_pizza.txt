@@ -1,0 +1,247 @@
+{
+    "title": "spicy_potato_pizza",
+    "id": "e2294f84b0",
+    "table": [
+        {
+            "instructions": "it will make enough for 2 pizzas made on regular cookie sheets",
+            "input": "NA",
+            "action": "make",
+            "output": "NA"
+        },
+        {
+            "instructions": "  sprinkle the yeast over the warm_water ,",
+            "input": "yeast; warm water",
+            "action": "sprinkle",
+            "output": "yeast sprinkled in warm water"
+        },
+        {
+            "instructions": "let sit for about 5 minutes .",
+            "input": "yeast sprinkled in warm water",
+            "action": "sit",
+            "output": "dissolved yeast"
+        },
+        {
+            "instructions": "mix the flour and salt together , and",
+            "input": "flour; salt",
+            "action": "mix",
+            "output": "salt and flour mixed"
+        },
+        {
+            "instructions": "slowly add the olive_oil until all three ingredients are just combined .",
+            "input": "(salt and flour mixed; olive oil )",
+            "action": "add",
+            "output": "oil_and_flour_mixture"
+        },
+        {
+            "instructions": "add the water yeast mixture to the flour ,",
+            "input": "(flour_mixture;dissolved yeast)",
+            "action": "add",
+            "output": "dissolved yeast mixed into flour"
+        },
+        {
+            "instructions": "combine .",
+            "input": "dissolved yeast mixed into flour",
+            "action": "combine",
+            "output": "dough"
+        },
+        {
+            "instructions": "coat the inside of a mixing bowl with olive_oil",
+            "input": "dough",
+            "action": "coat",
+            "output": "dough"
+        },
+        {
+            "instructions": "put the ball of dough in the bowl ,",
+            "input": "dough",
+            "action": "put",
+            "output": "dough"
+        },
+        {
+            "instructions": "roll around to coat .",
+            "input": "dough",
+            "action": "roll",
+            "output": "oiled dough"
+        },
+        {
+            "instructions": "cover the bowl with a lid or saran wrap ,",
+            "input": "oiled dough",
+            "action": "cover",
+            "output": "covered dough"
+        },
+        {
+            "instructions": "place in the fridge overnight , or for up to 3 days .",
+            "input": "covered dough",
+            "action": "place",
+            "output": "refrigerated and rested dough"
+        },
+        {
+            "instructions": "to make a spicy potato pizza when ready to make the pizza",
+            "input": "NA",
+            "action": "make",
+            "output": "NA"
+        },
+        {
+            "instructions": "preheat oven to 500f",
+            "input": "NA",
+            "action": "preheat",
+            "output": "NA"
+        },
+        {
+            "instructions": "top the second as you choose .",
+            "input": "NA",
+            "action": "top",
+            "output": "NA"
+        },
+        {
+            "instructions": "slice your potatoes into thin slices ,",
+            "input": "potatoes",
+            "action": "slice",
+            "output": "sliced_potatoes"
+        },
+        {
+            "instructions": "boil them in a mixture of water and hot_sauce until they are just softened .",
+            "input": "(sliced_potatoes;water;hot_sauce)",
+            "action": "boil",
+            "output": "spicy_potatoes"
+        },
+        {
+            "instructions": "mix the salsa and sour_cream together ,",
+            "input": "(salsa;sour_cream)",
+            "action": "mix",
+            "output": "salsa_mix"
+        },
+        {
+            "instructions": "spread it out on the dough .",
+            "input": "(salsa_mix; refrigerated and rested dough)",
+            "action": "spread",
+            "output": "salsa_mix_topped_dough"
+        },
+        {
+            "instructions": "top with the boiled potatoes slices ,",
+            "input": "(salsa_mix_topped_dough;spicy_potatoes)",
+            "action": "top",
+            "output": "spicy_potato_and_salsa_topped_dough"
+        },
+        {
+            "instructions": "cover them with the cheese and then the bacon .",
+            "input": "(spicy_potato_and_salsa_topped_dough;cheese;bacon)",
+            "action": "cover",
+            "output": "spicy_potato_and_cheesy_bacon_topped_dough"
+        },
+        {
+            "instructions": "bake in the oven for about 10 15 minutes , or until the edges are a beautiful golden brown .",
+            "input": "spicy_potato_and_cheesy_bacon_topped_dough",
+            "action": "bake",
+            "output": "spicy_potato_pizza"
+        },
+        {
+            "instructions": "remove ,",
+            "input": "spicy_potato_pizza",
+            "action": "remove",
+            "output": "spicy_potato_pizza"
+        },
+        {
+            "instructions": "sprinkle the pizza with the chopped green_onion .",
+            "input": "(spicy_potato_pizza;green_onion)",
+            "action": "sprinkle",
+            "output": "spicy_potato_pizza_with_green_onion"
+        },
+        {
+            "instructions": "serve with sour_cream ,",
+            "input": "(spicy_potato_pizza_with_green onion;sour_cream)",
+            "action": "serve",
+            "output": "sour_cream_and_green_onion_spicy_potato_pizza"
+        }
+    ],
+    "ingredients": [
+        {
+            "text": "1 teaspoon Active Dry Yeast"
+        },
+        {
+            "text": "1- 1/2 cup Warm Water"
+        },
+        {
+            "text": "4 cups Flour"
+        },
+        {
+            "text": "1 teaspoon Salt"
+        },
+        {
+            "text": "13 cups Olive Oil"
+        },
+        {
+            "text": "4 whole Medium Potatoes"
+        },
+        {
+            "text": "1 teaspoon Hot Sauce"
+        },
+        {
+            "text": "1/2 cups Sour Cream"
+        },
+        {
+            "text": "1/4 cups Salsa"
+        },
+        {
+            "text": "1- 1/2 cup Shredded Marble Cheese"
+        },
+        {
+            "text": "3 whole Green Onions, Sliced"
+        },
+        {
+            "text": "6 whole Slices Of Bacon, Cooked And Chopped"
+        }
+    ],
+    "recipe": [
+        {
+            "text": "Note: This dough recipe is from tastykitchen.com, and it will make enough for 2 pizzas made on regular cookie sheets"
+        },
+        {
+            "text": "For the Pizza Dough: Sprinkle the yeast over the warm water, and let sit for about 5 minutes."
+        },
+        {
+            "text": "Mix the flour and salt together, and then slowly add the olive oil until all three ingredients are just combined."
+        },
+        {
+            "text": "Add the water/yeast mixture to the flour, and combine."
+        },
+        {
+            "text": "Coat the inside of a mixing bowl with olive oil, put the ball of dough in the bowl, and roll around to coat."
+        },
+        {
+            "text": "Cover the bowl with a lid or Saran Wrap, and place in the fridge overnight, or for up to 3 days."
+        },
+        {
+            "text": "To make a Spicy Potato Pizza: When ready to make the pizza, preheat oven to 500F and spread the dough out onto a greased baking sheet (there is enough dough for two pizzas, so you can make a second Spicy Potato Pizza, or another pizza of your choosing!"
+        },
+        {
+            "text": "At my house, the second pizza is always pepperoni and mushroom."
+        },
+        {
+            "text": "So the above toppings ingredients are enough for one pizza."
+        },
+        {
+            "text": "Top the second as you choose)."
+        },
+        {
+            "text": "Slice your potatoes into thin slices, and boil them in a mixture of water and hot sauce until they are just softened."
+        },
+        {
+            "text": "(If you dont enjoy spicy foods, you can simply omit the hot sauce)."
+        },
+        {
+            "text": "Mix the salsa and sour cream together, and spread it out on the dough."
+        },
+        {
+            "text": "Top with the boiled potatoes slices, and cover them with the cheese and then the bacon."
+        },
+        {
+            "text": "Bake in the oven for about 10 15 minutes, or until the edges are a beautiful golden brown."
+        },
+        {
+            "text": "Remove, and sprinkle the pizza with the chopped green onions."
+        },
+        {
+            "text": "Serve with sour cream, and fall in love!"
+        }
+    ]
+}

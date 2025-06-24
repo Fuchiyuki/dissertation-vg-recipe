@@ -1,0 +1,94 @@
+{
+    "title": "garden_vegetable_pizza",
+    "id": "937110aefe",
+    "table": [
+        {
+            "instructions": "saute zucchini , onions and broccoli in butter in large skillet on medium high heat 6 to 7 min .",
+            "input": "(zucchini; onions; broccoli)",
+            "actions": "saute",
+            "output": "sauteed_vegetables"
+        },
+        {
+            "instructions": "add peppers and oregano ;",
+            "input": "(sauteed_vegetables; peppers; oregano)",
+            "actions": "add",
+            "output": "peppers and oregano added to sauteed_vegetables"
+        },
+        {
+            "instructions": "saute 1 min .",
+            "input": "sauteing vegetables with oregano",
+            "actions": "saute",
+            "output": "sauteed vegetable mixture"
+        },
+        {
+            "instructions": "for each serving spread pizza_crust with 2 tbsp .",
+            "input": "(pizza_crust; pizza_sauce)",
+            "actions": "spread",
+            "output": "pizza_sauce spread on pizza crust"
+        },
+        {
+            "instructions": "top with about 23 cup of the vegetable mixture and about 14 cup of the cheese .",
+            "input": "(sauteed vegetable mixture; cheese)",
+            "actions": "top",
+            "output": "pizza crust with pizza sauce topped with sauteed vegetable mixture and cheese"
+        },
+        {
+            "instructions": "bake in 450f standard oven 10 to 12 min .",
+            "input": "uncooked garden vegetable pizza",
+            "actions": "bake",
+            "output": "baked garden vegetable pizza"
+        }
+    ],
+    "ingredients": [
+        {
+            "text": "1 qt. zucchini, thinly sliced"
+        },
+        {
+            "text": "2 cups red onions, thinly sliced"
+        },
+        {
+            "text": "2 cups broccoli florets"
+        },
+        {
+            "text": "1/2 cup butter"
+        },
+        {
+            "text": "2 cups red and yellow peppers, diced Target 1 pkg For $2.99 thru 02/06"
+        },
+        {
+            "text": "2 tsp. dried oregano leaves"
+        },
+        {
+            "text": "18 each Pre-baked pizza crusts (6 inch)"
+        },
+        {
+            "text": "2-1/4 cups canned pizza sauce"
+        },
+        {
+            "text": "1 qt. shredded mozzarella cheese"
+        }
+    ],
+    "recipe": [
+        {
+            "text": "Saute zucchini, onions and broccoli in butter in large skillet on medium-high heat 6 to 7 min."
+        },
+        {
+            "text": "or until crisp-tender."
+        },
+        {
+            "text": "Add peppers and oregano; saute 1 min."
+        },
+        {
+            "text": "For each serving: Spread pizza crust with 2 Tbsp."
+        },
+        {
+            "text": "pizza sauce; top with about 2/3 cup of the vegetable mixture and about 1/4 cup of the cheese."
+        },
+        {
+            "text": "Bake in 450F-standard oven 10 to 12 min."
+        },
+        {
+            "text": "or until cheese is melted and crust is crisp and lightly browned."
+        }
+    ]
+}

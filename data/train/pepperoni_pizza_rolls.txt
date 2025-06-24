@@ -1,0 +1,169 @@
+{
+    "title": "pepperoni_pizza_rolls",
+    "id": "9c4defd995",
+    "table": [
+        {
+            "instructions": "once pepperoni has been chopped and cheese has been grated , combine them in a medium bowl along with the pizza_sauce",
+            "input": "(pizza_sauce; chopped pepperoni; grated_cheese)",
+            "actions": "combine",
+            "output": "pizza_sauce, cheese and pepperoni mixture"
+        },
+        {
+            "instructions": "mix well .",
+            "input": "pizza_sauce, cheese and pepperoni mixture",
+            "actions": "mix",
+            "output": "pizza_sauce, cheese and pepperoni mixture"
+        },
+        {
+            "instructions": "working one wrapper at a time , place 2 3 teaspoons of the mixture in the center of a wonton_wrapper .",
+            "input": "(wonton_wrapper; pizza_sauce, cheese and pepperoni mixture)",
+            "actions": "place",
+            "output": "pizza_sauce, cheese and pepperoni mixture in wonton_wrapper"
+        },
+        {
+            "instructions": "dip your finger in water",
+            "input": "NA",
+            "actions": "dip",
+            "output": "NA"
+        },
+        {
+            "instructions": "run it along all four edges of the wrapper .",
+            "input": "wonton wrapper with sauce mixture",
+            "actions": "run",
+            "output": "wonton wrapper with sauce mixture with wet edges"
+        },
+        {
+            "instructions": "fold the two side corners over the mixture ;",
+            "input": "wonton wrapper with sauce mixture with wet edges",
+            "actions": "fold",
+            "output": "folded sides on wonton wrapper over mixture"
+        },
+        {
+            "instructions": "then , fold the bottom corner up over the mixture ,",
+            "input": "folded sides on wonton wrapper over mixture",
+            "actions": "fold",
+            "output": "folded bottom corner of wonton wrappers over mixture"
+        },
+        {
+            "instructions": "roll the whole wrapper so that it presses onto the top corner .",
+            "input": "folded bottom corner of wonton wrappers over mixture",
+            "actions": "roll",
+            "output": "closed wrapper"
+        },
+        {
+            "instructions": "if any gaps remain , press them closed .",
+            "input": "closed wrapper",
+            "actions": "press",
+            "output": "pressed edges closed wrapper closed wrapper"
+        },
+        {
+            "instructions": "set aside",
+            "input": "sealed pizza rolls",
+            "actions": "set",
+            "output": "sealed pizza rolls"
+        },
+        {
+            "instructions": "in a medium saucepan , add enough oil to fill the pan about two inches deep .",
+            "input": "oil",
+            "actions": "add",
+            "output": "oil"
+        },
+        {
+            "instructions": "place a candy deep fryer thermometer over the edge",
+            "input": "NA",
+            "actions": "place",
+            "output": "NA"
+        },
+        {
+            "instructions": "heat on high until the oil is about 375 degrees f .",
+            "input": "oil",
+            "actions": "heat",
+            "output": "heated_oil"
+        },
+        {
+            "instructions": "working in small batches , add rolls to the oil",
+            "input": "(heated_oil; sealed pizza rolls)",
+            "actions": "add",
+            "output": "uncooked pizza rolls added to heated oil"
+        },
+        {
+            "instructions": "fry until golden brown in color .",
+            "input": "pizza rolls in oil",
+            "actions": "fry",
+            "output": "fried pizza rolls"
+        },
+        {
+            "instructions": "remove them from the oil with a slotted spoon to a plate lined with paper towels .",
+            "input": "fried pepperoni pizza rolls",
+            "actions": "remove",
+            "output": "fried pepperoni pizza rolls"
+        }
+    ],
+    "ingredients": [
+        {
+            "text": "6 ounces, weight Pepperoni (from A Whole Stick, Chopped Into Small Cubes)"
+        },
+        {
+            "text": "1 cup Freshly Grated Mozzarella Cheese"
+        },
+        {
+            "text": "13 cups Freshly Grated Parmesan Cheese"
+        },
+        {
+            "text": "13 cups Grated Asiago Cheese"
+        },
+        {
+            "text": "1 cup Pizza Sauce"
+        },
+        {
+            "text": "50 whole Wonton Wrappers"
+        },
+        {
+            "text": "3 cups Vegetable Oil"
+        }
+    ],
+    "recipe": [
+        {
+            "text": "Once pepperoni has been chopped and cheese has been grated, combine them in a medium bowl along with the pizza sauce and mix well."
+        },
+        {
+            "text": "Working one wrapper at a time, place 2-3 teaspoons of the mixture in the center of a wonton wrapper."
+        },
+        {
+            "text": "Dip your finger in water and run it along all four edges of the wrapper."
+        },
+        {
+            "text": "Fold the two side corners over the mixture the press one over the other."
+        },
+        {
+            "text": "Then, fold the bottom corner up over the mixture, then roll the whole wrapper so that it presses onto the top corner."
+        },
+        {
+            "text": "If any gaps remain, press them closed."
+        },
+        {
+            "text": "Set aside and repeat until all the filling is used, making sure to exclude as much liquid as possible to prevent the wraps from getting soggy."
+        },
+        {
+            "text": "(For photos of the process, visit the original post on the website.)"
+        },
+        {
+            "text": "In a medium saucepan, add enough oil to fill the pan about two inches deep."
+        },
+        {
+            "text": "Place a candy/deep fryer thermometer over the edge and heat on high until the oil is about 375 degrees F. Working in small batches, add rolls to the oil and fry until golden brown in color."
+        },
+        {
+            "text": "Remove them from the oil with a slotted spoon to a plate lined with paper towels."
+        },
+        {
+            "text": "Continue to fry all of the rolls."
+        },
+        {
+            "text": "Allow them to sit for a few minutes before serving to avoid squirting yourself in the face with boiling hot pizza sauce."
+        },
+        {
+            "text": "Be amazed at how quickly these will disappear."
+        }
+    ]
+}

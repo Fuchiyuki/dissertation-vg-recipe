@@ -1,0 +1,214 @@
+{
+    "title": "beef_pizza_casserole_with_pizza_crust",
+    "id": "fdba10b011",
+    "table": [
+        {
+            "instructions": "set oven to 425 degrees .",
+            "input": "NA",
+            "actions": "set",
+            "output": "NA"
+        },
+        {
+            "instructions": "grease a 13 x 9 inch , casserole dish .",
+            "input": "NA",
+            "actions": "grease",
+            "output": "NA"
+        },
+        {
+            "instructions": "in a large skillet cook the ground_beef with onions , garlic , green_bell_pepper and dried chili_flake until the beef is no longer pink about 10 minutes drain *",
+            "input": "(ground beef; onions; green_bell_pepper; dried_chili)",
+            "actions": "cook",
+            "output": "cooked ground beef mixture"
+        },
+        {
+            "instructions": "return to skillet .",
+            "input": "cooked drained ground beef mixture",
+            "actions": "return",
+            "output": "cooked drained ground beef mixture"
+        },
+        {
+            "instructions": "add in the 14 cup grated_parmesan_cheese .",
+            "input": "(cooked drained ground beef mixture; grated_parmesan_cheese)",
+            "actions": "add",
+            "output": "grated_parmesan_cheese added to cooked drained ground beef mixture"
+        },
+        {
+            "instructions": "add in 14 cup , flour ;",
+            "input": "(flour; parmesan cheese and ground beef mixture)",
+            "actions": "add",
+            "output": "flour added to parmesan cheese and ground beef mixture"
+        },
+        {
+            "instructions": "stir until well blended .",
+            "input": "ground beef mixture",
+            "actions": "stir",
+            "output": "stirred ground beef mixture"
+        },
+        {
+            "instructions": "add in pasta_sauce and mushrooms",
+            "input": "(pasta_sauce; mushrooms; stirred ground beef mixture)",
+            "actions": "add",
+            "output": "pasta_sauce and mushrooms added to ground beef mixture"
+        },
+        {
+            "instructions": "simmer for about 10 minutes",
+            "input": "ground beef sauce mixture",
+            "actions": "simmer",
+            "output": "simmering ground beef sauce mixture"
+        },
+        {
+            "instructions": "season with salt and pepper to taste .",
+            "input": "(simmering ground beef sauce mixture; salt; pepper)",
+            "actions": "season",
+            "output": "seasoned simmering ground beef sauce mixture"
+        },
+        {
+            "instructions": "spoon the ground_beef mixture into the baking dish ,",
+            "input": "cooked ground beef sauce mixture",
+            "actions": "spoon",
+            "output": "spooned cooked ground beef sauce mixture"
+        },
+        {
+            "instructions": "sprinkle with about 2 cups , mozza cheese .",
+            "input": "(spooned cooked ground beef sauce mixture; mozzarella_cheese)",
+            "actions": "sprinkle",
+            "output": "mozzarella_cheese sprinkled over cooked ground beef sauce mixture"
+        },
+        {
+            "instructions": "unroll the pizza_crust",
+            "input": "pizza_crust",
+            "actions": "unroll",
+            "output": "unrolled pizza crust"
+        },
+        {
+            "instructions": "place on top of the cheese tucking edges into baking dish if necessary .",
+            "input": "(cheese; pizza_crust)",
+            "actions": "place",
+            "output": "cheese on top of the pizza crust"
+        },
+        {
+            "instructions": "brush the top of the crust with olive_oil ,",
+            "input": "(olive oil; pizza crust with cheese)",
+            "actions": "brush",
+            "output": "pizza crust with cheese brushed with oil"
+        },
+        {
+            "instructions": "sprinkle with about 1 2 cups , mozzarella cheese ,",
+            "input": "(mozzarella_cheese; pizza crust)",
+            "actions": "sprinkle",
+            "output": "mozzarella_cheese sprinkled over pizza crust "
+        },
+        {
+            "instructions": "sprinkle with about 14 cup , parmesan_cheese .",
+            "input": "(parmesan_cheese; uncooked pizza)",
+            "actions": "sprinkle",
+            "output": "parmesan_cheese sprinkled on uncooked pizza "
+        },
+        {
+            "instructions": "sprinkle with about 1 teaspoon italian_seasoning on top of the cheeses .",
+            "input": "(italian_seasoning; uncooked pizza)",
+            "actions": "sprinkle",
+            "output": "italian_seasoning sprinkled on uncooked pizza"
+        },
+        {
+            "instructions": "bake in a 425 degree oven for about 20 minutes or until browned if you are using you own prepared_pizza_crust",
+            "input": "uncooked pizza",
+            "actions": "bake",
+            "output": "baked pizza"
+        }
+    ],
+    "ingredients": [
+        {
+            "text": "2 lbs ground beef"
+        },
+        {
+            "text": "2 teaspoons dried chili pepper flakes, to taste (optional)"
+        },
+        {
+            "text": "2 onions, chopped"
+        },
+        {
+            "text": "1 -2 tablespoon fresh minced garlic (or to taste)"
+        },
+        {
+            "text": "1 small green bell pepper, seeded and chopped"
+        },
+        {
+            "text": "3 teaspoons dried Italian seasoning (or to taste)"
+        },
+        {
+            "text": "seasoning salt (or use white salt)"
+        },
+        {
+            "text": "pepper"
+        },
+        {
+            "text": "14 cup grated parmesan cheese"
+        },
+        {
+            "text": "14 cup flour"
+        },
+        {
+            "text": "1 (26 ounce) jarfavorite pasta sauce (or use homemade)"
+        },
+        {
+            "text": "1 12 cups canned sliced mushrooms, drained (I use the whole can!)"
+        },
+        {
+            "text": "2 cups grated mozzarella cheese (can use more)"
+        },
+        {
+            "text": "1 (13 ounce) canrefrigerated prepared pizza crust (or use you own own recipe)"
+        },
+        {
+            "text": "1 tablespoon olive oil"
+        },
+        {
+            "text": "1 12 cups grated mozzarella cheese (or to taste)"
+        },
+        {
+            "text": "14 cup parmesan cheese"
+        },
+        {
+            "text": "1 12 teaspoons dried Italian seasoning"
+        }
+    ],
+    "recipe": [
+        {
+            "text": "Set oven to 425 degrees."
+        },
+        {
+            "text": "Grease a 13 x 9-inch casserole dish."
+        },
+        {
+            "text": "In a large skillet cook the ground beef with onions, garlic, green bell pepper and dried chili flakes until the beef is no longer pink (about 10 minutes) drain and return to skillet."
+        },
+        {
+            "text": "Add in the 1/4 cup grated Parmesan cheese."
+        },
+        {
+            "text": "Add in 1/4 cup flour; stir until well blended."
+        },
+        {
+            "text": "Add in pasta sauce and mushrooms; bring to a boil over medium heat, stirring constantly; simmer for about 10 minutes, season with salt and pepper to taste."
+        },
+        {
+            "text": "Spoon the ground beef mixture into the baking dish, then sprinkle with about 2 cups mozza cheese."
+        },
+        {
+            "text": "Unroll the pizza crust and place on top of the cheese (tucking edges into baking dish if necessary)."
+        },
+        {
+            "text": "Brush the top of the crust with olive oil, then sprinkle with about 1-2 cups mozza cheese, then sprinkle with about 1/4 cup Parmesan cheese."
+        },
+        {
+            "text": "Sprinkle with about 1 teaspoon Italian seasoning on top of the cheeses."
+        },
+        {
+            "text": "Bake in a 425 degree oven for about 20 minutes or until browned (if you are using you own prepared pizza crust the baking time may be longer)."
+        },
+        {
+            "text": "Delicious!"
+        }
+    ]
+}

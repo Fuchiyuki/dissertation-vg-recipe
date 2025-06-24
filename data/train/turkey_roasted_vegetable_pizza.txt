@@ -1,0 +1,100 @@
+{
+    "title": "turkey_roasted_vegetable_pizza",
+    "id": "6035cd7051",
+    "table": [
+        {
+            "instructions": "heat oven to 450 degrees f .",
+            "input": "NA",
+            "action": "heat",
+            "output": "NA"
+        },
+        {
+            "instructions": "toss vegetables with dressing ;",
+            "input": "(vegetables; dressing)",
+            "action": "toss",
+            "output": "tossed_vegetables with dressing"
+        },
+        {
+            "instructions": "spread into 15x10x1 inch pan sprayed with cooking_spray .",
+            "input": "NA",
+            "action": "spread",
+            "output": "NA"
+        },
+        {
+            "instructions": "bake 10 to 15 min .",
+            "input": "vegetables_with_dressing",
+            "action": "bake",
+            "output": "baked_veggies"
+        },
+        {
+            "instructions": "spread pizza_crust with cream_cheese_spread ;",
+            "input": "(pizza_crust;cream_cheese_spread)",
+            "action": "spread",
+            "output": "cream_cheese_pizza"
+        },
+        {
+            "instructions": "top with turkey , vegetables and cheese .",
+            "input": "(cream_cheese_pizza;turkey;vegetables;cheese)",
+            "action": "top",
+            "output": "raw_turkey_and_rosted veggie_pizza"
+        },
+        {
+            "instructions": "place directly on oven rack .",
+            "input": "NA",
+            "action": "place",
+            "output": "NA"
+        },
+        {
+            "instructions": "bake 8 to 10 min .",
+            "input": "raw_turkey_and_rosted veggie_pizza",
+            "action": "bake",
+            "output": "baked turkey_roasted_vegetable_pizza"
+        }
+    ],
+    "ingredients": [
+        {
+            "text": "3 cups chopped fresh vegetables (green and red peppers, mushrooms, yellow squash, onions, zucchini) Target 1 pkg For $2.99 thru 02/06"
+        },
+        {
+            "text": "1/2 cup KRAFT Italian Roasted Red Pepper Dressing"
+        },
+        {
+            "text": "1 Italian pizza crust (12 inch)"
+        },
+        {
+            "text": "1/2 cup PHILADELPHIA Whipped Cream Cheese Spread"
+        },
+        {
+            "text": "12 slices OSCAR MAYER Deli Fresh Bold Mesquite Smoked Turkey Breast"
+        },
+        {
+            "text": "1/2 cup KRAFT Shredded Colby & Monterey Jack Cheeses"
+        }
+    ],
+    "recipe": [
+        {
+            "text": "Heat oven to 450 degrees F."
+        },
+        {
+            "text": "Toss vegetables with dressing; spread into 15x10x1-inch pan sprayed with cooking spray."
+        },
+        {
+            "text": "Bake 10 to 15 min."
+        },
+        {
+            "text": "or until vegetables are crisp-tender, stirring occasionally."
+        },
+        {
+            "text": "Spread pizza crust with cream cheese spread; top with turkey, vegetables and cheese."
+        },
+        {
+            "text": "Place directly on oven rack."
+        },
+        {
+            "text": "Bake 8 to 10 min."
+        },
+        {
+            "text": "or until crust is golden brown and cheese is melted."
+        }
+    ]
+}

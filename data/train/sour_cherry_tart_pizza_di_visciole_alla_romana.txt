@@ -1,0 +1,253 @@
+{
+    "title": "sour_cherry_tart_pizza_di_visciole_alla_romana",
+    "id": "c38734dd7e",
+    "table": [
+        {
+            "instructions": "preheat the oven to 350 degrees f .",
+            "input": "NA",
+            "action": "preheat",
+            "output": "NA"
+        },
+        {
+            "instructions": "in a saucepan , combine the milk , sugar and lemon_zest",
+            "input": "(milk; sugar; lemon_zest)",
+            "action": "combine",
+            "output": "milk mixture"
+        },
+        {
+            "instructions": "in a medium sized bowl , combine 3 egg_yolk , the vanilla , and the cornstarch",
+            "input": "(egg_yolk; vanilla; cornstarch)",
+            "action": "combine",
+            "output": "egg_yolk, vanilla, cornstarch combined"
+        },
+        {
+            "instructions": "whisk well to combine .",
+            "input": "egg_yolk, vanilla, cornstarch combined",
+            "action": "whisk",
+            "output": "whisked egg mixture"
+        },
+        {
+            "instructions": "add the hot milk in a stream , whisking constantly .",
+            "input": "(whisked egg mixture; hot milk)",
+            "action": "add",
+            "output": "hot milk added to egg_yolk, vanilla, cornstarch"
+        },
+        {
+            "instructions": "return this mixture to the pan",
+            "input": "hot milk added to egg_yolk, vanilla, cornstarch",
+            "action": "return",
+            "output": "cooking egg and milk mixture"
+        },
+        {
+            "instructions": "cook over a low flame for 10 minutes , stirring constantly .",
+            "input": "cooking egg and milk mixture",
+            "action": "cook",
+            "output": "cooked pastry cream"
+        },
+        {
+            "instructions": "roll out the pastry_dough , reserving a piece the size of a baby 's fist .",
+            "input": "pastry dough",
+            "action": "roll",
+            "output": "rolled pastry dough"
+        },
+        {
+            "instructions": "line an 8 inch , tart pan with the dough .",
+            "input": "rolled pastry dough",
+            "action": "line",
+            "output": "rolled pastry dough"
+        },
+        {
+            "instructions": "cover the bottom with half the cooked cream mixture ,",
+            "input": "(dough; half of pastry cream mixture)",
+            "action": "cover",
+            "output": "dough covered with half of pastry cream mixture"
+        },
+        {
+            "instructions": "spread the jam over that .",
+            "input": "(dough covered with half of pastry cream mixture; jam)",
+            "action": "spread",
+            "output": "dough covered with half of pastry cream mixture and with jam"
+        },
+        {
+            "instructions": "add the remaining cream mixture .",
+            "input": "(dough covered with half of pastry cream mixture and with jam; remaining pastry cream mixture)",
+            "action": "add",
+            "output": "dough covered with pastry cream mixture and with jam"
+        },
+        {
+            "instructions": "roll out the reserved dough to form a top for the tart ,",
+            "input": "reserved dough",
+            "action": "roll",
+            "output": "rolled reserved dough"
+        },
+        {
+            "instructions": "gently lay it over the tart , pinching the edges .",
+            "input": "(reserved dough; dough covered with pastry cream mixture and with jam)",
+            "action": "lay",
+            "output": "uncooked cream and jam tart corvered with rolled reserved dough"
+        },
+        {
+            "instructions": "brush the top with the remaining egg_yolk",
+            "input": "(uncooked cream and jam tart corvered with rolled reserved dough; egg_yolk)",
+            "action": "brush",
+            "output": "uncooked cream and jam tart corvered with rolled reserved dough and brushed with egg_yolk"
+        },
+        {
+            "instructions": "bake 45 minutes .",
+            "input": "uncooked cream and jam tart",
+            "action": "bake",
+            "output": "baked cream and jam tart"
+        },
+        {
+            "instructions": "sprinkle with confectioners ' sugar .",
+            "input": "(baked cream and jam tart; confectioners sugar)",
+            "action": "sprinkle",
+            "output": "baked cream and jam tart  sprinkled with confectioners sugar"
+        },
+        {
+            "instructions": "in a medium bowl , combine the flour , salt , and sugar .",
+            "input": "(flour; salt; sugar)",
+            "action": "combine",
+            "output": "combined flour, salt, and sugar"
+        },
+        {
+            "instructions": "cut the butter into the dry ingredients until the mixture resembles coarse crumbs .",
+            "input": "(combined flour, salt, and sugar; butter)",
+            "action": "cut",
+            "output": "butter cut into dry ingredients"
+        },
+        {
+            "instructions": "in a small bowl , combine the egg , the yolk , and the vanilla ,",
+            "input": "(egg; yolk; vanilla)",
+            "action": "combine",
+            "output": "egg mixture"
+        },
+        {
+            "instructions": "stir this mixture into the flour mixture with a fork until it just comes together .",
+            "input": "(egg mixture; butter cut into dry ingredients)",
+            "action": "stir",
+            "output": "egg mixture stirred together with flour mixture"
+        },
+        {
+            "instructions": "turn the mixture onto a floured board",
+            "input": "partially mixed dough",
+            "action": "turn",
+            "output": "partially mixed dough"
+        },
+        {
+            "instructions": "press the dough into a disc shape about 4 inches across",
+            "input": "dough",
+            "action": "press",
+            "output": "pressed dough"
+        },
+        {
+            "instructions": "wrap tightly in plastic wrap",
+            "input": "pressed dough",
+            "action": "wrap",
+            "output": "wrapped dough"
+        },
+        {
+            "instructions": "freeze for 15 minutes .",
+            "input": "wrapped dough",
+            "action": "freeze",
+            "output": "frozen wrapped dough"
+        }
+    ],
+    "ingredients": [
+        {
+            "text": "1 cup milk"
+        },
+        {
+            "text": "1/4 cup sugar"
+        },
+        {
+            "text": "1 lemon, zested"
+        },
+        {
+            "text": "3 egg yolks, plus 1 yolk"
+        },
+        {
+            "text": "1 tablespoon vanilla extract"
+        },
+        {
+            "text": "1 tablespoon cornstarch"
+        },
+        {
+            "text": "1 recipe basic pastry dough, recipe follows"
+        },
+        {
+            "text": "8 ounces sour cherry jam"
+        },
+        {
+            "text": "1 tablespoon confectioners' sugar"
+        },
+        {
+            "text": "2 cups flour, plus additional for rolling out pastry"
+        },
+        {
+            "text": "1/2 teaspoon salt"
+        },
+        {
+            "text": "1 cup confectioners' sugar"
+        },
+        {
+            "text": "3/4 cup butter, cut into small cubes and chilled"
+        },
+        {
+            "text": "1 egg, plus 1 yolk"
+        },
+        {
+            "text": "2 tablespoons vanilla extract"
+        }
+    ],
+    "recipe": [
+        {
+            "text": "Preheat the oven to 350 degrees F. In a saucepan, combine the milk, sugar and lemon zest and bring to a boil."
+        },
+        {
+            "text": "In a medium-sized bowl, combine 3 egg yolks, the vanilla, and the cornstarch and whisk well to combine."
+        },
+        {
+            "text": "Add the hot milk in a stream, whisking constantly."
+        },
+        {
+            "text": "Return this mixture to the pan and cook over a low flame for 10 minutes, stirring constantly."
+        },
+        {
+            "text": "Roll out the pastry dough, reserving a piece the size of a baby's fist."
+        },
+        {
+            "text": "Line an 8-inch tart pan with the dough."
+        },
+        {
+            "text": "Cover the bottom with half the cooked cream mixture, then spread the jam over that."
+        },
+        {
+            "text": "Add the remaining cream mixture."
+        },
+        {
+            "text": "Roll out the reserved dough to form a top for the tart, and gently lay it over the tart, pinching the edges."
+        },
+        {
+            "text": "Brush the top with the remaining egg yolk and bake 45 minutes."
+        },
+        {
+            "text": "Let cool, then sprinkle with confectioners' sugar."
+        },
+        {
+            "text": "In a medium bowl, combine the flour, salt, and sugar."
+        },
+        {
+            "text": "Cut the butter into the dry ingredients until the mixture resembles coarse crumbs."
+        },
+        {
+            "text": "In a small bowl, combine the egg, the yolk, and the vanilla, and stir this mixture into the flour mixture with a fork until it just comes together."
+        },
+        {
+            "text": "Turn the mixture onto a floured board and gently work the mixture until a dough is formed."
+        },
+        {
+            "text": "Press the dough into a disc shape about 4 inches across, wrap tightly in plastic wrap and freeze for 15 minutes."
+        }
+    ]
+}

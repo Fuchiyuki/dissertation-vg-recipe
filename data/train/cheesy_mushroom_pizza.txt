@@ -1,0 +1,130 @@
+{
+    "title": "cheesy_mushroom_pizza",
+    "id": "2fd12de384",
+    "table": [
+        {
+            "instructions": "place two trays in the oven to heat for 10 minutes .",
+            "input": "NA",
+            "action": "place",
+            "output": "NA"
+        },
+        {
+            "instructions": "heat up oil in medium a non stick pan over high heat .",
+            "input": "oil",
+            "action": "heat",
+            "output": "heated oil"
+        },
+        {
+            "instructions": "add the mushrooms ,",
+            "input": "(mushroooms; heated oil)",
+            "action": "add",
+            "output": "mushrooms in heated oil"
+        },
+        {
+            "instructions": "cook for about 10 minutes or until cooked through .",
+            "input": "mushrooms in heated oil",
+            "action": "cook",
+            "output": "cooked mushrooms"
+        },
+        {
+            "instructions": "set aside .",
+            "input": "Cooked Mushrooms",
+            "action": "set",
+            "output": "Cooked Mushrooms"
+        },
+        {
+            "instructions": "divide the dough into 2 balls",
+            "input": "Dough",
+            "action": "divide",
+            "output": "Dough balls"
+        },
+        {
+            "instructions": "roll out on a lightly floured surface to 15 inch rounds .",
+            "input": "Dough Balls",
+            "action": "roll",
+            "output": "rolled Pizza_dough"
+        },
+        {
+            "instructions": "coat trays with cooking_spray ,",
+            "input": "NA",
+            "action": "coat",
+            "output": "NA"
+        },
+        {
+            "instructions": "put the dough on top .",
+            "input": "rolled Pizza_dough",
+            "action": "put",
+            "output": "prepped_pizza crust"
+        },
+        {
+            "instructions": "spread evenly the mozzarella cheese , top with the sauteed mushrooms .",
+            "input": "(mozzarella cheese; cooked_mushroom; prepped_pizza crust)",
+            "action": "spread",
+            "output": "mozzarella cheese and cooked mushrooms spread over pizza crust"
+        },
+        {
+            "instructions": "bake for about 15 minutes or until the topping is golden and the crust is crispy .",
+            "input": "assembled cheesy_mushroom_pizza",
+            "action": "bake",
+            "output": "baked cheesy_mushroom_pizza"
+        },
+        {
+            "instructions": "serve warm .",
+            "input": "baked cheesy_mushroom_pizza",
+            "action": "serve",
+            "output": "ready to serve cheesy_mushroom_pizza"
+        }
+    ],
+    "ingredients": [
+        {
+            "text": "1 each pizza shell prepared dough (or pre-baked crust)"
+        },
+        {
+            "text": "1 tablespoon olive oil or other vegetable oil"
+        },
+        {
+            "text": "1 cup mushrooms, button crimini, white or any small button kind"
+        },
+        {
+            "text": "1 cup mozzarella cheese grated"
+        },
+        {
+            "text": "1 cup parmesan, parmigiano-reggiano cheese, grated for serving"
+        }
+    ],
+    "recipe": [
+        {
+            "text": "Prehaeat oven to 425 degree F."
+        },
+        {
+            "text": "Place two trays in the oven to heat for 10 minutes."
+        },
+        {
+            "text": "Heat up oil in medium a non-stick pan over high heat."
+        },
+        {
+            "text": "Add the mushrooms, and cook for about 10 minutes or until cooked through."
+        },
+        {
+            "text": "Set aside."
+        },
+        {
+            "text": "Divide the dough into 2 balls and roll out on a lightly floured surface to 15-inch rounds."
+        },
+        {
+            "text": "Coat trays with cooking spray, then put the dough on top."
+        },
+        {
+            "text": "Spread evenly the mozzarellac cheese, top with the sauteed mushrooms."
+        },
+        {
+            "text": "Bake for about 15 minutes or until the topping is golden and the crust is crispy."
+        },
+        {
+            "text": "Sprinle with shaved parmesan cheese."
+        },
+        {
+            "text": "Serve warm."
+        }
+    ]
+}

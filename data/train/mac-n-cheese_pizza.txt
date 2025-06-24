@@ -1,0 +1,172 @@
+{
+    "title": "mac-n-cheese_pizza",
+    "id": "95dc61b481",
+    "table": [
+        {
+            "instructions": "preheat oven to 400 degrees f 200 degrees c.",
+            "input": "NA",
+            "actions": "preheat",
+            "output": "NA"
+        },
+        {
+            "instructions": "spray a 10x15 inch , baking sheet with cooking_spray .",
+            "input": "NA",
+            "actions": "spray",
+            "output": "NA"
+        },
+        {
+            "instructions": "unroll pizza_crust",
+            "input": "pizza_crust",
+            "actions": "unroll",
+            "output": "unrolled_pizza_crust"
+        },
+        {
+            "instructions": "place on the prepared baking pan .",
+            "input": "unrolled_pizza_crust",
+            "actions": "place",
+            "output": "unrolled_pizza_crust"
+        },
+        {
+            "instructions": "cook elbow_macaroni in the boiling_water , stirring occasionally until cooked through but firm to the bite , 8 minutes .",
+            "input": "(elbow_macaroni; boiling_water)",
+            "actions": "cook",
+            "output": "cooked elbow_macaroni ini boiling water"
+        },
+        {
+            "instructions": "drain .",
+            "input": "cooked elbow_macaroni ini boiling water",
+            "actions": "drain",
+            "output": "drained cooked elbow_macaroni"
+        },
+        {
+            "instructions": "melt butter in a large saucepan over medium heat ;",
+            "input": "butter",
+            "actions": "melt",
+            "output": "melted butter"
+        },
+        {
+            "instructions": "cook",
+            "input": "melted butter",
+            "actions": "cook",
+            "output": "melted butter"
+        },
+        {
+            "instructions": "stir flour with butter until it has a slightly toasted fragrance , about 2 minutes .",
+            "input": "(melted butter; flour)",
+            "actions": "stir",
+            "output": "toasted flour in melted butter"
+        },
+        {
+            "instructions": "whisk in milk",
+            "input": "(milk; toasted flour in melted butter)",
+            "actions": "whisk",
+            "output": "milk whisked in toasted flour in melted butter"
+        },
+        {
+            "instructions": "simmer until thickened , whisking constantly , 2 more minutes .",
+            "input": "roux",
+            "actions": "simmer",
+            "output": "simmering roux"
+        },
+        {
+            "instructions": "stir in processed_cheese cubes .",
+            "input": "(simmering; processed_cheese cubes)",
+            "actions": "stir",
+            "output": "stirred cheese sauce"
+        },
+        {
+            "instructions": "spread about 34 cup of cheese_sauce onto the pizza_crust .",
+            "input": "(pizza_crust; stirred cheese sauce)",
+            "actions": "spread",
+            "output": "cheese sauce spread over pizza crust"
+        },
+        {
+            "instructions": "stir cooked macaroni into remaining cheese_sauce",
+            "input": "(cooked elbow_macaroni; remaining cheese_sauce)",
+            "actions": "stir",
+            "output": "elbow_macaroni stirred in remaining cheese_sauce"
+        },
+        {
+            "instructions": "sprinkle top of pizza with mozzarella_cheese .",
+            "input": "(mozzarella_cheese; mac-n-cheese pizza)",
+            "actions": "sprinkle",
+            "output": "mozzarella_cheese sprinkled on mac-n-cheese_pizza"
+        },
+        {
+            "instructions": "bake in the preheated oven until the crust is lightly browned and the mozzarella_cheese is golden brown , about 15 minutes .",
+            "input": "uncooked mac-n-cheese_pizza",
+            "actions": "bake",
+            "output": "baked mac-n-cheese_pizza"
+        }
+    ],
+    "ingredients": [
+        {
+            "text": "cooking spray"
+        },
+        {
+            "text": "1 (11 ounce) package refrigerated pizza crust"
+        },
+        {
+            "text": "1 1/2 cups elbow macaroni"
+        },
+        {
+            "text": "1/4 cup butter"
+        },
+        {
+            "text": "1 tablespoon all-purpose flour"
+        },
+        {
+            "text": "milk"
+        },
+        {
+            "text": "3/4 pound processed cheese (such as Velveeta), cubed"
+        },
+        {
+            "text": "1/2 cup shredded mozzarella cheese"
+        }
+    ],
+    "recipe": [
+        {
+            "text": "Preheat oven to 400 degrees F (200 degrees C)."
+        },
+        {
+            "text": "Spray a 10x15-inch baking sheet with cooking spray."
+        },
+        {
+            "text": "Unroll pizza crust and place on the prepared baking pan."
+        },
+        {
+            "text": "Bring a large pot of lightly salted water to a boil."
+        },
+        {
+            "text": "Cook elbow macaroni in the boiling water, stirring occasionally until cooked through but firm to the bite, 8 minutes."
+        },
+        {
+            "text": "Drain."
+        },
+        {
+            "text": "Melt butter in a large saucepan over medium heat; cook and stir flour with butter until it has a slightly toasted fragrance, about 2 minutes."
+        },
+        {
+            "text": "Whisk in milk and simmer until thickened, whisking constantly, 2 more minutes."
+        },
+        {
+            "text": "Stir in processed cheese cubes."
+        },
+        {
+            "text": "Let the cheese cubes melt, stirring often, to make a smooth cheese sauce."
+        },
+        {
+            "text": "Spread about 3/4 cup of cheese sauce onto the pizza crust."
+        },
+        {
+            "text": "Stir cooked macaroni into remaining cheese sauce in the saucepan and spoon the macaroni and cheese onto the crust in an even layer."
+        },
+        {
+            "text": "Sprinkle top of pizza with mozzarella cheese."
+        },
+        {
+            "text": "Bake in the preheated oven until the crust is lightly browned and the mozzarella cheese is golden brown, about 15 minutes."
+        }
+    ]
+}

@@ -1,0 +1,145 @@
+{
+    "title": "zucchini_crusted_pizza",
+    "id": "3e75303637",
+    "table": [
+        {
+            "instructions": "preheat oven to 350f .",
+            "input": "NA",
+            "actions": "preheat",
+            "output": "NA"
+        },
+        {
+            "instructions": "salt zucchini lightly",
+            "input": "zucchini",
+            "actions": "salt",
+            "output": "salted_zucchini"
+        },
+        {
+            "instructions": "squeeze out all excess liquid .",
+            "input": "salted_zucchini",
+            "actions": "squeeze",
+            "output": "squeezed_zucchini"
+        },
+        {
+            "instructions": "crumble sausage",
+            "input": "sausage",
+            "actions": "crumble",
+            "output": "crumbled sausage"
+        },
+        {
+            "instructions": "cook according to package directions .",
+            "input": "crumbled sausage",
+            "actions": "cook",
+            "output": "cooked crumbled sausage"
+        },
+        {
+            "instructions": "drain sausage",
+            "input": "cooked crumbled sausage",
+            "actions": "drain",
+            "output": "drained cooked crumbled sausage"
+        },
+        {
+            "instructions": "set aside .",
+            "input": "drained cooked crumbled sausage",
+            "actions": "set",
+            "output": "drained cooked crumbled sausage"
+        },
+        {
+            "instructions": "for crust , combine zucchini , eggs , flour , first two cheeses 12 cup mozzarella and parmesean and basil .",
+            "input": "(zucchini; eggs; flour; mozzarella; parmesan; basil)",
+            "actions": "combine",
+            "output": "zucchini and flour mixture"
+        },
+        {
+            "instructions": "mix well",
+            "input": "zucchini and flour mixture",
+            "actions": "mix",
+            "output": "zucchini and flour mixture"
+        },
+        {
+            "instructions": "spread into a buttered 13x9 inch , baking dish .",
+            "input": "zucchini and flour mixture",
+            "actions": "spread",
+            "output": "spread_ zucchini and flour mixture"
+        },
+        {
+            "instructions": "bake at 350 f for 20 to 25 minutes or until surface is dry and firm .",
+            "input": "zucchini crust",
+            "actions": "bake",
+            "output": "baked zucchini crust"
+        },
+        {
+            "instructions": "bake an additional 25 minutes .",
+            "input": "baked zucchini crust",
+            "actions": "bake",
+            "output": "zucchini_crusted_pizza"
+        }
+    ],
+    "ingredients": [
+        {
+            "text": "3 12 cups coarsely shredded zucchini"
+        },
+        {
+            "text": "3 eggs, beaten"
+        },
+        {
+            "text": "13 cup flour"
+        },
+        {
+            "text": "2 ounces shredded mozzarella cheese"
+        },
+        {
+            "text": "2 ounces shredded parmesan cheese"
+        },
+        {
+            "text": "12 teaspoon basil leaves"
+        },
+        {
+            "text": "1 12 cups pizza sauce"
+        },
+        {
+            "text": "12 lb sauteed mushroom"
+        },
+        {
+            "text": "12 lb Italian sausage"
+        },
+        {
+            "text": "4 ounces shredded mozzarella cheese"
+        },
+        {
+            "text": "2 ounces shredded provolone cheese"
+        }
+    ],
+    "recipe": [
+        {
+            "text": "Preheat oven to 350F."
+        },
+        {
+            "text": "Salt zucchini lightly and let stand for 15 minutes."
+        },
+        {
+            "text": "Squeeze out all excess liquid."
+        },
+        {
+            "text": "While letting zucchini stand, crumble sausage and cook according to package directions."
+        },
+        {
+            "text": "Drain sausage and set aside."
+        },
+        {
+            "text": "For crust, combine zucchini, eggs, flour, first two cheeses (1/2 cup Mozzarella and Parmesean) and basil."
+        },
+        {
+            "text": "Mix well and spread into a buttered 13x9 inch baking dish."
+        },
+        {
+            "text": "Bake at 350 F for 20 to 25 minutes or until surface is dry and firm."
+        },
+        {
+            "text": "Layer sauce, mushrooms, sausage and cheeses on baked crust."
+        },
+        {
+            "text": "Bake an additional 25 minutes."
+        }
+    ]
+}

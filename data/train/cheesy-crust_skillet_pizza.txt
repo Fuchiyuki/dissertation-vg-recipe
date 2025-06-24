@@ -1,0 +1,85 @@
+{
+    "title": "cheesy-crust_skillet_pizza",
+    "id": "3f53b98161",
+    "table": [
+        {
+            "instructions": "heat a 10 inch non stick skillet over medium high heat .",
+            "input": "NA",
+            "actions": "heat",
+            "output": "NA"
+        },
+        {
+            "instructions": "sprinkle shredded_mozzarella_cheese evenly into hot skillet ;",
+            "input": "shredded_mozzarella_cheese",
+            "actions": "sprinkle",
+            "output": "c"
+        },
+        {
+            "instructions": "cook until cheese is melted , 2 to 3 minutes .",
+            "input": "sprinkled_shredded_mozzarella_cheese",
+            "actions": "cook",
+            "output": "melted shredded_mozzarella_cheese"
+        },
+        {
+            "instructions": "arrange tomato slices , basil leaves , and fresh_mozzarella slices on the melted cheese , leaving space for a crust to form ;",
+            "input": "(cheesy crust; tomato_slices; basil leaves; fresh mozzarella slices)",
+            "actions": "arrange",
+            "output": "tomato slices , basil leaves , and fresh_mozzarella slices arranged on cheesy crust"
+        },
+        {
+            "instructions": "cook until top is bubbling and edges are browned , 2 to 3 minutes .",
+            "input": "cheesy crust pizza",
+            "actions": "cook",
+            "output": "cooked cheesy crust pizza"
+        },
+        {
+            "instructions": "remove skillet from heat",
+            "input": "cooked cheesy crust pizza",
+            "actions": "remove",
+            "output": "cooked cheesy crust pizza"
+        },
+        {
+            "instructions": "gently slice pizza onto a cutting board ;",
+            "input": "cooked cheesy crust pizza",
+            "actions": "slice",
+            "output": "sliced cheesy crust pizza"
+        },
+        {
+            "instructions": "cool for 1 minute before slicing .",
+            "input": "sliced cheesy crust pizza",
+            "actions": "cool",
+            "output": "cooled sliced cheesy crust pizza"
+        }
+    ],
+    "ingredients": [
+        {
+            "text": "1 1/2 cups shredded part-skim mozzarella cheese"
+        },
+        {
+            "text": "5 cherry tomatoes, thinly sliced"
+        },
+        {
+            "text": "2 tablespoons torn fresh basil leaves"
+        },
+        {
+            "text": "4 small fresh mozzarella balls (bocconcini), thinly sliced"
+        }
+    ],
+    "recipe": [
+        {
+            "text": "Heat a 10-inch non-stick skillet over medium-high heat."
+        },
+        {
+            "text": "Sprinkle shredded mozzarella cheese evenly into hot skillet; cook until cheese is melted, 2 to 3 minutes."
+        },
+        {
+            "text": "Arrange tomato slices, basil leaves, and fresh mozzarella slices on the melted cheese, leaving space for a \"crust\" to form; cook until top is bubbling and edges are browned, 2 to 3 minutes."
+        },
+        {
+            "text": "Remove skillet from heat and loosen pizza with a spatula."
+        },
+        {
+            "text": "Gently slice pizza onto a cutting board; cool for 1 minute before slicing."
+        }
+    ]
+}

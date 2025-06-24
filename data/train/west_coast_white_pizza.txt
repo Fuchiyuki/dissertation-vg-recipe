@@ -1,0 +1,232 @@
+{
+    "title": "west_coast_white_pizza",
+    "id": "fb49a8af3a",
+    "table": [
+        {
+            "instructions": "position an oven rack on the second lowest level in the oven",
+            "input": "NA",
+            "actions": "position",
+            "output": "NA"
+        },
+        {
+            "instructions": "place a baking stone on the rack .",
+            "input": "NA",
+            "actions": "place",
+            "output": "NA"
+        },
+        {
+            "instructions": "position another rack in the upper third of the oven ;",
+            "input": "NA",
+            "actions": "position",
+            "output": "NA"
+        },
+        {
+            "instructions": "preheat oven to 50",
+            "input": "NA",
+            "actions": "preheat",
+            "output": "NA"
+        },
+        {
+            "instructions": "in a bowl , toss the shredded chicken with 14 cup , ranch_dressing ;",
+            "input": "(shredded chicken; ranch_dressing)",
+            "actions": "toss",
+            "output": "shredded chicken tossed in ranch_dressing"
+        },
+        {
+            "instructions": "set aside .",
+            "input": "chicken mixture",
+            "actions": "set",
+            "output": "chicken mixture"
+        },
+        {
+            "instructions": "lay prepared dough on a prepared pizza\u2012screen or pan ;",
+            "input": "dough",
+            "actions": "lay",
+            "output": "laid dough"
+        },
+        {
+            "instructions": "gently stretch the dough into a 14 inch round .",
+            "input": "laid dough",
+            "actions": "stretch",
+            "output": "stretched_dough"
+        },
+        {
+            "instructions": "spread the remaining 13 cup , ranch_dressing over the dough , leaving a 1 inch border .",
+            "input": "(ranch_dressing; stretched_dough)",
+            "actions": "spread",
+            "output": "ranch_dressing spread on stretched_dough"
+        },
+        {
+            "instructions": "arrange the chicken evenly over the sauce .",
+            "input": "(pizza crust with ranch dressing; chicken_mixture)",
+            "actions": "arrange",
+            "output": "chicken mixture arranged over pizza crust"
+        },
+        {
+            "instructions": "sprinkle the provolone and mozzarella_cheese over the top .",
+            "input": "(pizza_crust with chicken and ranch; provolone; mozzarella_cheese)",
+            "actions": "sprinkle",
+            "output": "provolone and mozzarella_cheese sprinkled on pizza crust with chicken"
+        },
+        {
+            "instructions": "crush the thyme between your fingers ;",
+            "input": "thyme",
+            "actions": "crush",
+            "output": "crushed thyme"
+        },
+        {
+            "instructions": "sprinkle it evenly over the cheese .",
+            "input": "(crushed thyme; chicken ranch  pizza)",
+            "actions": "sprinkle",
+            "output": "crushed thyme sprinkled on chicken ranch pizza"
+        },
+        {
+            "instructions": "put the pizza in the oven on the upper rack ;",
+            "input": "uncooked chicken ranch pizza",
+            "actions": "put",
+            "output": "uncooked chicken ranch pizza"
+        },
+        {
+            "instructions": "bake about 10 minutes or until the crust is crisp and golden brown .",
+            "input": "uncooked chicken ranch pizza",
+            "actions": "bake",
+            "output": "baked chicken ranch pizza"
+        },
+        {
+            "instructions": "using a pizza peel , lift the pizza off the screen or pan",
+            "input": "baked chicken ranch pizza",
+            "actions": "lift",
+            "output": "baked chicken ranch pizza"
+        },
+        {
+            "instructions": "place the crust directly on the baking stone .",
+            "input": "baked chicken ranch pizza",
+            "actions": "place",
+            "output": "baked chicken ranch pizza"
+        },
+        {
+            "instructions": "remove the pizza\u2012screen pan from the oven .",
+            "input": "baked chicken ranch pizza",
+            "actions": "remove",
+            "output": "baked chicken ranch pizza"
+        },
+        {
+            "instructions": "bake the pizza about 3 minutes",
+            "input": "baked chicken ranch pizza",
+            "actions": "bake",
+            "output": "baked chicken ranch pizza"
+        },
+        {
+            "instructions": "using the peel , remove the pizza from the oven",
+            "input": "baked chicken ranch pizza",
+            "actions": "remove",
+            "output": "baked chicken ranch pizza"
+        },
+        {
+            "instructions": "transfer to a cutting board .",
+            "input": "baked chicken ranch pizza",
+            "actions": "transfer",
+            "output": "baked chicken ranch pizza"
+        },
+        {
+            "instructions": "slice the pizza into wedges",
+            "input": "baked chicken ranch pizza",
+            "actions": "slice",
+            "output": "sliced chicken ranch pizza"
+        },
+        {
+            "instructions": "place a slice of tomato on each wedge",
+            "input": "(sliced tomato; sliced chicken ranch pizza)",
+            "actions": "place",
+            "output": "slice of tomato on sliced chicken ranch pizza"
+        },
+        {
+            "instructions": "serve .",
+            "input": "west_coast_white_pizza",
+            "actions": "serve",
+            "output": "west_coast_white_pizza"
+        }
+    ],
+    "ingredients": [
+        {
+            "text": "1 12 cups shredded cooked chicken breasts"
+        },
+        {
+            "text": "14 cup ranch dressing, plus"
+        },
+        {
+            "text": "13 cup ranch dressing"
+        },
+        {
+            "text": "prepared pizza dough (for a 14-inch pizza)"
+        },
+        {
+            "text": "1 tablespoon minced garlic"
+        },
+        {
+            "text": "12 cup coarsely shredded provolone cheese"
+        },
+        {
+            "text": "1 12 cups coarsely shredded mozzarella cheese"
+        },
+        {
+            "text": "13 cup ricotta cheese"
+        },
+        {
+            "text": "12 teaspoon dried thyme"
+        },
+        {
+            "text": "1 large roma tomato, thinly sliced"
+        }
+    ],
+    "recipe": [
+        {
+            "text": "Position an oven rack on the second-lowest level in the oven and place a baking stone on the rack."
+        },
+        {
+            "text": "Position another rack in the upper third of the oven; preheat oven to 500."
+        },
+        {
+            "text": "In a bowl, toss the shredded chicken with 1/4 cup ranch dressing; set aside."
+        },
+        {
+            "text": "Lay prepared dough on a prepared pizza screen or pan; gently stretch the dough into a 14-inch round."
+        },
+        {
+            "text": "Spread the remaining 1/3 cup ranch dressing over the dough, leaving a 1-inch border."
+        },
+        {
+            "text": "Arrange the chicken evenly over the sauce."
+        },
+        {
+            "text": "Evenly distribute the garlic over the chicken."
+        },
+        {
+            "text": "Sprinkle the provolone and mozzarella cheese over the top."
+        },
+        {
+            "text": "Evenly distribute little globs of ricotta over the other cheeses."
+        },
+        {
+            "text": "Crush the thyme between your fingers; sprinkle it evenly over the cheese."
+        },
+        {
+            "text": "Put the pizza in the oven on the upper rack; bake about 10 minutes or until the crust is crisp and golden brown."
+        },
+        {
+            "text": "Using a pizza peel, lift the pizza off the screen or pan and place the crust directly on the baking stone."
+        },
+        {
+            "text": "Remove the pizza screen/pan from the oven."
+        },
+        {
+            "text": "Bake the pizza about 3 minutes or until the bottom of the crust is golden brown."
+        },
+        {
+            "text": "Using the peel, remove the pizza from the oven and transfer to a cutting board."
+        },
+        {
+            "text": "Slice the pizza into wedges, place a slice of tomato on each wedge and serve."
+        }
+    ]
+}

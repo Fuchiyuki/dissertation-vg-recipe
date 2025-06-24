@@ -1,0 +1,133 @@
+{
+    "title": "blackberry_mint_pizza_recipe",
+    "id": "df335a3f34",
+    "table": [
+        {
+            "instructions": "preheat oven to 42",
+            "input": "NA",
+            "action": "preheat",
+            "output": "NA"
+        },
+        {
+            "instructions": "in food processor , blend cream_cheese, lowfat sour_cream and 1 tb sugar ;",
+            "input": "(lowfat sour_cream; cream cheese; sugar)",
+            "action": "blend",
+            "output": "sour cream and cream cheese mixture"
+        },
+        {
+            "instructions": "chill .",
+            "input": "sour cream and cream cheese mixture",
+            "action": "chill",
+            "output": "chilled_sour cream and cream cheese mixture"
+        },
+        {
+            "instructions": "unfold",
+            "input": "puff_pastry_sheet",
+            "action": "unfold",
+            "output": "unfolded_pastry_sheet"
+        },
+        {
+            "instructions": "place puff_pastry_sheet on cookie sheet .",
+            "input": "unfolded_pastry_sheet",
+            "action": "place",
+            "output": "unfolded_pastry_sheet"
+        },
+        {
+            "instructions": "sprinkle with remaining 1 tb , sugar .",
+            "input": "(unfolded_pastry_sheet; sugar)",
+            "action": "sprinkle",
+            "output": "sugar_sprinkled_pastry_sheet"
+        },
+        {
+            "instructions": "with rolling pin , roll pastry to 12 inch square .",
+            "input": "sugar_sprinkled_pastry_sheet",
+            "action": "roll",
+            "output": "rolled_pastry_square"
+        },
+        {
+            "instructions": "prick with fork .",
+            "input": "rolled_pastry_square",
+            "action": "prick",
+            "output": "fork_pricked_pastry_square"
+        },
+        {
+            "instructions": "bake 10 minutes .",
+            "input": "fork_pricked_pastry_square",
+            "action": "bake",
+            "output": "partially_baked_pastry_square"
+        },
+        {
+            "instructions": "remove from oven ;",
+            "input": "partially_baked_pastry_square",
+            "action": "remove",
+            "output": "partially_baked_pastry_square"
+        },
+        {
+            "instructions": "spread with cream_cheese mix .",
+            "input": "(partially_baked_pastry_square; chilled_sour cream and cream cheese mixture)",
+            "action": "spread",
+            "output": "chilled_sour cream and cream cheese mixture_spread_on_pastry"
+        },
+        {
+            "instructions": "top with mint and blackberries .",
+            "input": "(chilled_sour cream and cream cheese mixture_spread_on_pastry; mint; blackberry)",
+            "action": "top",
+            "output": "mint_and_blackberries_topped_pastry with cream cheese"
+        }
+    ],
+    "ingredients": [
+        {
+            "text": "1 pkt (8oz) reduced calorie cream cheese"
+        },
+        {
+            "text": "1/4 c. Reduced-calorie lowfat sour cream"
+        },
+        {
+            "text": "2 Tbsp. Sugar, divided"
+        },
+        {
+            "text": "1/2 x Pakg frzn puff pastry sheets, thawed (1 sheet)"
+        },
+        {
+            "text": "1 Tbsp. Mint leaves, cut into strips"
+        },
+        {
+            "text": "1/2 pt Blackberries Mint leaves for garnish"
+        }
+    ],
+    "recipe": [
+        {
+            "text": "Preheat oven to 425."
+        },
+        {
+            "text": "In food processor, blend cream cheese, lowfat sour cream and 1 TB sugar; chill."
+        },
+        {
+            "text": "Unfold and place puff pastry sheet on cookie sheet."
+        },
+        {
+            "text": "Sprinkle with remaining 1 TB sugar."
+        },
+        {
+            "text": "With rolling pin, roll pastry to 12 inch square."
+        },
+        {
+            "text": "Prick with fork."
+        },
+        {
+            "text": "Bake 10 minutes."
+        },
+        {
+            "text": "till brown."
+        },
+        {
+            "text": "remove from oven; spread with cream cheese mix."
+        },
+        {
+            "text": "Top with mint and Blackberries."
+        },
+        {
+            "text": "Makes 6 servings."
+        }
+    ]
+}

@@ -1,0 +1,118 @@
+{
+    "title": "flaky_pizza_snacks_on_crescents",
+    "id": "5af4e6ed1c",
+    "table": [
+        {
+            "instructions": "preheat oven to 37",
+            "input": "NA",
+            "action": "preheat",
+            "output": "NA"
+        },
+        {
+            "instructions": "spray cookie sheet with pam .",
+            "input": "NA",
+            "action": "spray",
+            "output": "NA"
+        },
+        {
+            "instructions": "unroll dough in 1 large rectangle ;",
+            "input": "dough",
+            "action": "unroll",
+            "output": "unrolled_dough"
+        },
+        {
+            "instructions": "press perforations to seal .",
+            "input": "unrolled_dough",
+            "action": "press",
+            "output": "unrolled_sealed_dough"
+        },
+        {
+            "instructions": "spread pizza_sauce evenly leaving a 12 inch border .",
+            "input": "(unrolled_dough; pizza_sauce)",
+            "action": "spread",
+            "output": "pizza_sauce_covered_dough"
+        },
+        {
+            "instructions": "sprinkle with parmesan_cheese .",
+            "input": "(pizza_sauce_covered_dough;parmesan_cheese)",
+            "action": "sprinkle",
+            "output": "parmesan cheese_sprinkled on pizza_dough"
+        },
+        {
+            "instructions": "with sharp knife , cut into 16 slices .",
+            "input": "pizza dough with tomato sauce and parmesan cheese",
+            "action": "cut",
+            "output": "sliced_cheese_pizza_dough"
+        },
+        {
+            "instructions": "place cut side down on baking sheet .",
+            "input": "NA",
+            "action": "place",
+            "output": "NA"
+        },
+        {
+            "instructions": "top each with one slice of pepperoni then 1 tsp mozzarella_cheese .",
+            "input": "(sliced_cheese_pizza_dough;mozzarella_cheese;pepperoni)",
+            "action": "top",
+            "output": "pepperoni_and_cheese_pizza_dough_slice"
+        },
+        {
+            "instructions": "bake at 375 for 9 11 minutes , or until edges are golden brown and the cheese is melted .",
+            "input": "pepperoni_and_cheese_pizza_dough_slice",
+            "action": "bake",
+            "output": "pepperoni_pizza_snack"
+        }
+    ],
+    "ingredients": [
+        {
+            "text": "1 (8 ounce) package refrigerated crescent dinner rolls"
+        },
+        {
+            "text": "13 cup pizza sauce"
+        },
+        {
+            "text": "14 cup parmesan cheese, grated"
+        },
+        {
+            "text": "16 slices pepperoni"
+        },
+        {
+            "text": "13 cup mozzarella cheese, shredded"
+        }
+    ],
+    "recipe": [
+        {
+            "text": "Preheat oven to 375."
+        },
+        {
+            "text": "Spray cookie sheet with Pam."
+        },
+        {
+            "text": "Unroll dough in 1 large rectangle; press perforations to seal."
+        },
+        {
+            "text": "Spread pizza sauce evenly leaving a 1/2-inch border."
+        },
+        {
+            "text": "Sprinkle with parmesan cheese."
+        },
+        {
+            "text": "Starting at short side, roll up rectangle jelly-roll style."
+        },
+        {
+            "text": "With sharp knife, cut into 16 slices."
+        },
+        {
+            "text": "Place cut side down on baking sheet."
+        },
+        {
+            "text": "Top each with one slice of pepperoni then 1 tsp mozzarella cheese."
+        },
+        {
+            "text": "Bake at 375 for 9-11 minutes, or until edges are golden brown and the cheese is melted."
+        },
+        {
+            "text": "The bottom will be a deep golden brown."
+        }
+    ]
+}

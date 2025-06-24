@@ -1,0 +1,130 @@
+{
+    "title": "garlic_basil_chicken_pizza",
+    "id": "62c3552fb9",
+    "table": [
+        {
+            "instructions": "preheat oven to 500 degrees .",
+            "input": "NA",
+            "action": "preheat",
+            "output": "NA"
+        },
+        {
+            "instructions": "roll out pizza_dough into a rectangular shape .",
+            "input": "pizza_dough",
+            "action": "roll",
+            "output": "rolled_pizza_dough"
+        },
+        {
+            "instructions": "drizzle on olive_oil",
+            "input": "(olive_oil; rolled_pizza_dough)",
+            "action": "drizzle",
+            "output": "oiled pizza crust"
+        },
+        {
+            "instructions": "sprinkle on a little salt",
+            "input": "(salt; oiled pizza crust)",
+            "action": "sprinkle",
+            "output": "oiled pizza crust with salt"
+        },
+        {
+            "instructions": "randomly lay pieces of chicken over parmesan .",
+            "input": "(chicken; parmesan; oiled pizza crust with salt)",
+            "action": "lay",
+            "output": "oiled pizza crust with salt, chicken and parmesan"
+        },
+        {
+            "instructions": "lay slices of mozzarella evenly over the top of the crust .",
+            "input": "(mozzarella; oiled pizza crust with salt, chicken and parmesan)",
+            "action": "lay",
+            "output": "oiled pizza crust with salt, chicken, parmesan and mozzarella"
+        },
+        {
+            "instructions": "on top of mozzarella , sprinkle garlic and basil , followed by one more dusting of parmesan .",
+            "input": "(garlic; basil; parmesan; oiled pizza crust with salt, chicken, parmesan and mozzarella)",
+            "action": "sprinkle",
+            "output": "oiled pizza crust with salt, chicken, parmesan, mozzarella, garlic and basil"
+        },
+        {
+            "instructions": "bake for 15 to 17 minutes in the lower half of the oven , or until crust is golden brown .",
+            "input": "uncooked garlic_basil_chicken_pizza",
+            "action": "bake",
+            "output": "baked garlic_basil_chicken_pizza"
+        },
+        {
+            "instructions": "remove from oven",
+            "input": "baked garlic_basil_chicken_pizza",
+            "action": "remove",
+            "output": "baked garlic_basil_chicken_pizza"
+        },
+        {
+            "instructions": "cut into squares .",
+            "input": "baked garlic_basil_chicken_pizza",
+            "action": "cut",
+            "output": "baked and cut garlic_basil_chicken_pizza"
+        },
+        {
+            "instructions": "serve immediately .",
+            "input": "baked and cut garlic_basil_chicken_pizza",
+            "action": "serve",
+            "output": "baked and cut garlic_basil_chicken_pizza ready to eat"
+        }
+    ],
+    "ingredients": [
+        {
+            "text": "1 whole Pizza Crust (store-bought Or Ree's Homemade)"
+        },
+        {
+            "text": "1 Tablespoon Olive Oil (or More)"
+        },
+        {
+            "text": "18 teaspoons Kosher Salt To Taste"
+        },
+        {
+            "text": "1/4 cups Parmesan Cheese, Grated"
+        },
+        {
+            "text": "1/2 whole Roaster Chicken Shredded (Light & Dark Meat)"
+        },
+        {
+            "text": "10 ounces, weight Fresh Mozzarella Cheese, Thinly Sliced"
+        },
+        {
+            "text": "1/4 cups Fresh Basil, Chiffonade"
+        },
+        {
+            "text": "4 cloves Garlic, Chopped Finely, Or Less To Taste"
+        }
+    ],
+    "recipe": [
+        {
+            "text": "Preheat oven to 500 degrees."
+        },
+        {
+            "text": "Roll out pizza dough into a rectangular shape."
+        },
+        {
+            "text": "Drizzle on olive oil, sprinkle on a little salt, followed by a little Parmesan."
+        },
+        {
+            "text": "Randomly lay pieces of chicken over parmesan."
+        },
+        {
+            "text": "Lay slices of mozzarella evenly over the top of the crust."
+        },
+        {
+            "text": "On top of mozzarella, sprinkle garlic & basil, followed by one more dusting of parmesan."
+        },
+        {
+            "text": "Bake for 15 to 17 minutes in the lower half of the oven, or until crust is golden brown."
+        },
+        {
+            "text": "Remove from oven and cut into squares."
+        },
+        {
+            "text": "Serve immediately."
+        },
+        {
+            "text": "***NOTE: For the crust recipe, see Related Blog Post under picture."
+        }
+    ]
+}

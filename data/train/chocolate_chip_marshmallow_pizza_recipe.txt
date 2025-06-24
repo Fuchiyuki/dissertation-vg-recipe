@@ -1,0 +1,148 @@
+{
+    "title": "chocolate_chip_marshmallow_pizza_recipe",
+    "id": "d012f860b8",
+    "table": [
+        {
+            "instructions": "heat oven to 375 degrees .",
+            "input": "NA",
+            "action": "heat",
+            "output": "NA"
+        },
+        {
+            "instructions": "in large bowl , combine sugar , brown_sugar , butter , peanut_butter , vanilla and egg ;",
+            "input": "(sugar , brown_sugar , butter , peanut_butter , vanilla; egg)",
+            "action": "combine",
+            "output": "wet mixture"
+        },
+        {
+            "instructions": "blend well .",
+            "input": "wet mixture",
+            "action": "blend",
+            "output": "blended wet mixture"
+        },
+        {
+            "instructions": "lightly spoon flour into measuring c. ;",
+            "input": "(flour; blended wet mixture)",
+            "action": "spoon",
+            "output": "dough"
+        },
+        {
+            "instructions": "level off .",
+            "input": "dough",
+            "action": "level",
+            "output": "dough"
+        },
+        {
+            "instructions": "stir in flour .",
+            "input": "(flour; dough)",
+            "action": "stir",
+            "output": "dough"
+        },
+        {
+            "instructions": "press dough proportionately over bottom of 12 or possibly 14 inch , pizza\u2012pan , forming rim along edge .",
+            "input": "dough",
+            "action": "press",
+            "output": "pressed dough"
+        },
+        {
+            "instructions": "bake at 375 degrees for 10 min .",
+            "input": "uncooked cookie dough",
+            "action": "bake",
+            "output": "baked cookie"
+        },
+        {
+            "instructions": "sprinkle with marshmallows and chocolate_chip ;",
+            "input": "(marshmallows; chocolate chip; baked cookie)",
+            "action": "sprinkle",
+            "output": "marshmallows and chocolate_chip sprinkled on baked cookie"
+        },
+        {
+            "instructions": "cut into wedges .",
+            "input": "chocolate_chip_marshmallow_pizza cookie",
+            "action": "cut",
+            "output": "cut chocolate_chip_marshmallow_pizza"
+        },
+        {
+            "instructions": "store in tightly covered container .",
+            "input": "chocolate_chip_marshmallow_pizza",
+            "action": "store",
+            "output": "chocolate_chip_marshmallow_pizza"
+        },
+        {
+            "instructions": "tip self_rising_flour is not recommended .",
+            "input": "NA",
+            "action": "tip",
+            "output": "NA"
+        }
+    ],
+    "ingredients": [
+        {
+            "text": "1/2 c. sugar"
+        },
+        {
+            "text": "1/2 c. firmly packed brown sugar"
+        },
+        {
+            "text": "1/2 c. butter, softened"
+        },
+        {
+            "text": "1/2 c. peanut butter"
+        },
+        {
+            "text": "1/2 teaspoon vanilla"
+        },
+        {
+            "text": "1 egg"
+        },
+        {
+            "text": "1 1/2 c. Pillsbury Best all-purpose or possibly unbleached flour"
+        },
+        {
+            "text": "2 c. miniature marshmallows"
+        },
+        {
+            "text": "6 ounce. pkg. (1 c.) semi-sweet chocolate chips"
+        }
+    ],
+    "recipe": [
+        {
+            "text": "Heat oven to 375 degrees."
+        },
+        {
+            "text": "In large bowl, combine sugar, brown sugar, butter, peanut butter, vanilla and egg; blend well."
+        },
+        {
+            "text": "Lightly spoon flour into measuring c.; level off."
+        },
+        {
+            "text": "Stir in flour."
+        },
+        {
+            "text": "Press dough proportionately over bottom of 12 or possibly 14 inch pizza pan, forming rim along edge."
+        },
+        {
+            "text": "Bake at 375 degrees for 10 min."
+        },
+        {
+            "text": "Sprinkle with marshmallows and chocolate chips; continue to bake for 5-18 min or possibly till marshmallows are puffy and lightly browned."
+        },
+        {
+            "text": "Cold; cut into wedges."
+        },
+        {
+            "text": "Store in tightly covered container."
+        },
+        {
+            "text": "20 servings."
+        },
+        {
+            "text": "Tip: Self-rising flour is not recommended."
+        },
+        {
+            "text": "Kids love it!"
+        },
+        {
+            "text": "It's fun to serve it in a pizza box that you've saved."
+        }
+    ]
+}

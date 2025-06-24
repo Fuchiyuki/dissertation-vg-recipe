@@ -1,0 +1,121 @@
+{
+    "title": "jan_'s_loaded_pizza_fries",
+    "id": "0a7d602142",
+    "table": [
+        {
+            "instructions": "preheat oven to 400 degrees f 200 degrees c.",
+            "input": "NA",
+            "action": "preheat",
+            "output": "NA"
+        },
+        {
+            "instructions": "spread fries onto a baking sheet",
+            "input": "fries",
+            "action": "spread",
+            "output": "fries spread on baking sheet"
+        },
+        {
+            "instructions": "coat with cooking_spray .",
+            "input": "(fries; cooking spray)",
+            "action": "coat",
+            "output": "fries coated with cooking spray"
+        },
+        {
+            "instructions": "bake in the preheated oven until crispy , 35 to 40 minutes .",
+            "input": "fries coated with cooking spray",
+            "action": "bake",
+            "output": "baked fries"
+        },
+        {
+            "instructions": "mix pizza_sauce and oregano together in a bowl ;",
+            "input": "(pizza_sauce; oregano)",
+            "action": "mix",
+            "output": "pizza_sauce with oregano"
+        },
+        {
+            "instructions": "pour over fries .",
+            "input": "(pizza_sauce with oregano; baked fries)",
+            "action": "pour",
+            "output": "pizza_sauce with oregano over baked fries"
+        },
+        {
+            "instructions": "sprinkle mozzarella_cheese over sauce mixture",
+            "input": "(mozzarella cheese; baked fries with pizza sauce)",
+            "action": "sprinkle",
+            "output": "mozzarella cheese sprinkled over baked fries with pizza sauce"
+        },
+        {
+            "instructions": "top with pepperoni_slice .",
+            "input": "(pepperoni slices; baked fries with pizza sauce and mozzarella)",
+            "action": "top",
+            "output": "baked fries with pizza sauce and mozzarella topped with pepperoni slices"
+        },
+        {
+            "instructions": "sprinkle parsley over sauce and pepperoni .",
+            "input": "(parsley; uncooked loaded pizza fries)",
+            "action": "sprinkle",
+            "output": "parsley covered uncooked loaded pizza fries"
+        },
+        {
+            "instructions": "turn the oven to broil .",
+            "input": "NA",
+            "action": "turn",
+            "output": "NA"
+        },
+        {
+            "instructions": "broil fries until cheese is browned and bubbling , 2 to 4 minutes .",
+            "input": "uncooked uncooked loaded pizza fries",
+            "action": "broil",
+            "output": "broiled loaded pizza fries"
+        }
+    ],
+    "ingredients": [
+        {
+            "text": "1 (32 ounce) package frozen French fries"
+        },
+        {
+            "text": "cooking spray"
+        },
+        {
+            "text": "1 1/2 cups pizza sauce, or to taste"
+        },
+        {
+            "text": "1 teaspoon oregano"
+        },
+        {
+            "text": "1 (12 ounce) package shredded mozzarella cheese"
+        },
+        {
+            "text": "1 (8 ounce) package sliced pepperoni"
+        },
+        {
+            "text": "1 teaspoon dried parsley flakes"
+        }
+    ],
+    "recipe": [
+        {
+            "text": "Preheat oven to 400 degrees F (200 degrees C)."
+        },
+        {
+            "text": "Spread fries onto a baking sheet and coat with cooking spray."
+        },
+        {
+            "text": "Bake in the preheated oven until crispy, 35 to 40 minutes."
+        },
+        {
+            "text": "Mix pizza sauce and oregano together in a bowl; pour over fries."
+        },
+        {
+            "text": "Sprinkle mozzarella cheese over sauce mixture and top with pepperoni slices."
+        },
+        {
+            "text": "Sprinkle parsley over sauce and pepperoni."
+        },
+        {
+            "text": "Turn the oven to broil."
+        },
+        {
+            "text": "Broil fries until cheese is browned and bubbling, 2 to 4 minutes."
+        }
+    ]
+}

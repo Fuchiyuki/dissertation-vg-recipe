@@ -1,0 +1,109 @@
+{
+    "title": "dad_'s_easy_cheesy_bbq_chicken_pizza",
+    "id": "e2672a11f5",
+    "table": [
+        {
+            "instructions": "heat oven to 400f .",
+            "input": "NA",
+            "action": "heat",
+            "output": "NA"
+        },
+        {
+            "instructions": "coat chicken with fresh take",
+            "input": "(chicken; breadcrumbs)",
+            "action": "coat",
+            "output": "coated_chicken in breadcrumbs"
+        },
+        {
+            "instructions": "bake as directed on package ;",
+            "input": "coated_chicken in breadcrumbs",
+            "action": "bake",
+            "output": "baked coated_chicken"
+        },
+        {
+            "instructions": "cool slightly .",
+            "input": "baked coated_chicken",
+            "action": "cool",
+            "output": "cooled baked chicken"
+        },
+        {
+            "instructions": "cut chicken into thin strips .",
+            "input": "cooled baked chicken",
+            "action": "cut",
+            "output": "cooked chicken strips"
+        },
+        {
+            "instructions": "spread pizza_crust with barbecue_sauce ;",
+            "input": "(pizza crust; barbecue sauce)",
+            "action": "spread",
+            "output": "pizza crust with barbecue sauce"
+        },
+        {
+            "instructions": "top with chicken and remaining_ingredient .",
+            "input": "(pizza crust with barbecue sauce; cooked chicken strips; cheddar cheese; sliced green onion)",
+            "action": "top",
+            "output": "pizza crust with barbecue sauce, cooked chicken strips, cheddar cheese and sliced green onion"
+        },
+        {
+            "instructions": "sprinkle with any remaining fresh take ;",
+            "input": "(breadcrumb; pizza crust with barbecue sauce, cooked chicken strips, cheddar cheese and sliced green onion)",
+            "action": "sprinkle",
+            "output": "pizza crust with barbecue sauce, cooked chicken strips, cheddar cheese, sliced green onion and breadcrumb"
+        },
+        {
+            "instructions": "place directly on middle oven rack .",
+            "input": "uncooked cheesy_bbq_chicken_pizza",
+            "action": "place",
+            "output": "uncooked cheesy_bbq_chicken_pizza"
+        },
+        {
+            "instructions": "bake 15 to 18 min .",
+            "input": "uncooked cheesy_bbq_chicken_pizza",
+            "action": "bake",
+            "output": "baked cheesy_bbq_chicken_pizza"
+        }
+    ],
+    "ingredients": [
+        {
+            "text": "4 small boneless skinless chicken breasts (1 lb.)"
+        },
+        {
+            "text": "1 pkg. (6 oz.) FRESH TAKE Classic Four Cheese Recipe Cheese Breadcrumb Mix, mixed together"
+        },
+        {
+            "text": "1 ready-to-use baked pizza crust (12 inch)"
+        },
+        {
+            "text": "1/3 cup KRAFT Original Barbecue Sauce"
+        },
+        {
+            "text": "1-1/2 cups KRAFT Shredded Cheddar Cheese"
+        },
+        {
+            "text": "1 green onion, thinly sliced"
+        }
+    ],
+    "recipe": [
+        {
+            "text": "Heat oven to 400F."
+        },
+        {
+            "text": "Coat chicken with FRESH TAKE and bake as directed on package; cool slightly."
+        },
+        {
+            "text": "Cut chicken into thin strips."
+        },
+        {
+            "text": "Spread pizza crust with barbecue sauce; top with chicken and remaining ingredients."
+        },
+        {
+            "text": "Sprinkle with any remaining FRESH TAKE; place directly on middle oven rack."
+        },
+        {
+            "text": "Bake 15 to 18 min."
+        },
+        {
+            "text": "or until cheese is melted and edge of crust is golden brown."
+        }
+    ]
+}

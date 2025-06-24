@@ -1,0 +1,103 @@
+{
+    "title": "cornbread_pizza_recipe_vickeysaal",
+    "id": "308dd82131",
+    "table": [
+        {
+            "instructions": "add 23 cups all_purpose_flour , 2tblsp olive_oil , and 23 cup water",
+            "input": "(all_purpose_flour; olive_oil; water)",
+            "action": "add",
+            "output": "flour, oil and dough mixture"
+        },
+        {
+            "instructions": "mix all together .",
+            "input": "flour, oil and dough mixture",
+            "action": "mix",
+            "output": "mixed dough"
+        },
+        {
+            "instructions": "roll out on cookie sheet or pizza\u2012pan .",
+            "input": "mixed dough",
+            "action": "roll",
+            "output": "rolled crust"
+        },
+        {
+            "instructions": "bake at 400 for 12 minutes .",
+            "input": "uncooked crust",
+            "action": "bake",
+            "output": "baked crust"
+        },
+        {
+            "instructions": "cook sausage we like the spicey brand and bacon or whatever you like",
+            "input": "sausage",
+            "action": "cook",
+            "output": "cooked sausage"
+        },
+        {
+            "instructions": "sautee onions , peppers , and mushrooms .",
+            "input": "(onions; pepper; mushrooms)",
+            "action": "sautee",
+            "output": "sauteed onion, pepper and mushrooms mixture"
+        },
+        {
+            "instructions": "we also put pinapple and jalipinoes on ours .",
+            "input": "(pineapple; jalapenos)",
+            "action": "put",
+            "output": "(pineapple; jalapenos)"
+        },
+        {
+            "instructions": "when crust comes out build your pizza_sauce , then meat and veggies",
+            "input": "(baked crust; cooked sausage; sauteed onion, pepper and mushrooms mixture; pineapple; jalapenos)",
+            "action": "build",
+            "output": "baked crust with cooked sausage, sauteed onion, pepper and mushrooms mixture, pineapple and jalapenos"
+        },
+        {
+            "instructions": "top with pizza cheese",
+            "input": "(cheese; baked crust with cooked sausage, sauteed onion, pepper and mushrooms mixture, pineapple and jalapenos)",
+            "action": "top",
+            "output": "baked crust with cooked sausage, sauteed onion, pepper and mushrooms mixture, pineapple, jalapenos and cheese"
+        },
+        {
+            "instructions": "bake for 12 15 minutes ! !",
+            "input": "uncooked sausage and pineapple pizza",
+            "action": "bake",
+            "output": "baked sausage and pineapple pizza"
+        }
+    ],
+    "ingredients": [
+        {
+            "text": "1 box of Jiffy Corn Muffin Mix"
+        },
+        {
+            "text": "your favorite toppings"
+        },
+        {
+            "text": "spaghetti sauce (any brand)"
+        },
+        {
+            "text": "2/3 cup flour plus some for dusting the dough"
+        }
+    ],
+    "recipe": [
+        {
+            "text": "Start with 1 box of jiffy cornbread mix,add 2/3 cups all purpose flour,2tblsp olive oil,and 2/3 cup water,mix all together."
+        },
+        {
+            "text": "Roll out on cookie sheet or pizza pan."
+        },
+        {
+            "text": "Bake at 400 for 12 minutes."
+        },
+        {
+            "text": "Cook sausage(we like the spicey brand) and Bacon (or whatever you like),sautee onions,peppers,and mushrooms."
+        },
+        {
+            "text": "We also put pinapple and jalipinoes on ours."
+        },
+        {
+            "text": "When crust comes out build your pizza, sauce, then meat and veggies,top with pizza cheese and bake for 12-15 minutes!!"
+        },
+        {
+            "text": "Yummy!"
+        }
+    ]
+}

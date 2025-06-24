@@ -1,0 +1,106 @@
+{
+    "title": "super_simple_pizza_sauce",
+    "id": "34cbe7609f",
+    "table": [
+        {
+            "instructions": "heat on med heat .",
+            "input": "NA",
+            "actions": "heat",
+            "output": "NA"
+        },
+        {
+            "instructions": "add garlic",
+            "input": "garlic",
+            "actions": "add",
+            "output": "added_garlic"
+        },
+        {
+            "instructions": "cook til just under brown .",
+            "input": "uncooked_garlic",
+            "actions": "cook",
+            "output": "cooked_garlic"
+        },
+        {
+            "instructions": "add in remainder of ingredients minus s and p.",
+            "input": "(cooked_garlic; remaining_ingredients)",
+            "actions": "add",
+            "output": "cooked_garlic and remaining ingredients"
+        },
+        {
+            "instructions": "simmer 30 min or until thickened to your liking .",
+            "input": "mixture of garlic and remaining ingredients",
+            "actions": "simmer",
+            "output": "simmered_mixture of garlic and remaining ingredients"
+        },
+        {
+            "instructions": "add salt and pepper to taste .",
+            "input": "(simmered_mixture of garlic and remaining ingredients; salt; pepper)",
+            "actions": "add",
+            "output": "seasoned_simmering_mixture"
+        },
+        {
+            "instructions": "spread on favorite pizza_dough",
+            "input": "pizza_dough, cooked_mixture",
+            "actions": "spread",
+            "output": "cooked_mixture_spreaded on pizza_dough"
+        },
+        {
+            "instructions": "add in all your favorite accoutrements",
+            "input": "(pizza_dough_with_toppings; accoutrements)",
+            "actions": "add",
+            "output": "pizza"
+        }
+    ],
+    "ingredients": [
+        {
+            "text": "6 ounces tomato paste"
+        },
+        {
+            "text": "1 cup water"
+        },
+        {
+            "text": "12 cup water (in addition)"
+        },
+        {
+            "text": "1 tablespoon italian seasoning"
+        },
+        {
+            "text": "2 ounces red wine"
+        },
+        {
+            "text": "2 teaspoons olive oil"
+        },
+        {
+            "text": "3 -4 garlic cloves, crushed (3-4 Tbsp minced garlic)"
+        },
+        {
+            "text": "salt, pepper"
+        },
+        {
+            "text": "crushed red pepper flakes (optional)"
+        }
+    ],
+    "recipe": [
+        {
+            "text": "in a heavy sauce pan, medium size coat bottom with olive oil, turning pan, heat on med heat."
+        },
+        {
+            "text": "add garlic and cook til just under brown."
+        },
+        {
+            "text": "add in remainder of ingredients minus S & P."
+        },
+        {
+            "text": "bring to boil, then simmer 30 min or until thickened to your liking."
+        },
+        {
+            "text": "add salt and pepper to taste."
+        },
+        {
+            "text": "spread on favorite pizza dough, add in all your favorite accoutrements and enjoy."
+        },
+        {
+            "text": "thid is a basic recipe, I have added in chunked tomatoes, slivered onions, shredded chicken, black olives, handful of parmesean cheese, and warmed through before preparing pie."
+        }
+    ]
+}

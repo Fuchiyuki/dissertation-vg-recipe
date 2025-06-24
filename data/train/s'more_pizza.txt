@@ -1,0 +1,193 @@
+{
+    "title": "s'more_pizza",
+    "id": "04873b5e9c",
+    "table": [
+        {
+            "instructions": "preheat the oven to 400 degrees f .",
+            "input": "NA",
+            "actions": "preheat",
+            "output": "NA"
+        },
+        {
+            "instructions": "form the pizza_dough into two 12 to14 inch rounds , 14 inch thick .",
+            "input": "pizza_dough",
+            "actions": "form",
+            "output": "formed_pizza_rounds"
+        },
+        {
+            "instructions": "bake , preferably on a pizza stone or pizza\u2012pan , for 4 to 6 minutes , or until just beginning to brown .",
+            "input": "pizza_rounds",
+            "actions": "bake",
+            "output": "baked_pizza_crust"
+        },
+        {
+            "instructions": "leave the oven at 400 degrees f .",
+            "input": "NA",
+            "actions": "leave",
+            "output": "NA"
+        },
+        {
+            "instructions": "while the pizza_crust is baking , toast the almonds in a medium dry skillet over medium high heat .",
+            "input": "almonds",
+            "actions": "toast",
+            "output": "toasted almonds"
+        },
+        {
+            "instructions": "transfer the almonds to a plate to cool .",
+            "input": "toasted almonds",
+            "actions": "transfer",
+            "output": "cooled toasted almonds"
+        },
+        {
+            "instructions": "melt the butter in the skillet .",
+            "input": "butter",
+            "actions": "melt",
+            "output": "melted butter"
+        },
+        {
+            "instructions": "add the graham_cracker crumbs , chili_powder , cayenne and salt .",
+            "input": "(melted_butter; graham_cracker_crumbs; chili_powder; cayenne; salt)",
+            "actions": "add",
+            "output": "graham_cracker crumbs , chili_powder , cayenne and salt added to melted butter"
+        },
+        {
+            "instructions": "cook for 2 to 3 minutes , until the crumbs are well coated .",
+            "input": "graham_cracker crumbs_mixture",
+            "actions": "cook",
+            "output": "cooked_graham_cracker crumbs_mixture"
+        },
+        {
+            "instructions": "remove from the heat",
+            "input": "cooked_graham_cracker crumbs_mixture",
+            "actions": "remove",
+            "output": "cooked_graham_cracker crumbs_mixture"
+        },
+        {
+            "instructions": "set aside .",
+            "input": "cooked_graham_cracker crumbs_mixture",
+            "actions": "set",
+            "output": "cooked_graham_cracker crumbs_mixture"
+        },
+        {
+            "instructions": "for each pizza , top the crust with half of the marshmallows",
+            "input": "(baked_pizza_crust; marshmallows)",
+            "actions": "top",
+            "output": "baked_pizza_crust_topped_with_marshmallows"
+        },
+        {
+            "instructions": "scatter half of the chocolate over the marshmallows .",
+            "input": "(baked_pizza_crust_topped_with_marshmallows; chocolate)",
+            "actions": "scatter",
+            "output": "baked_pizza_crust_topped_with_marshmallows_and_chocolate"
+        },
+        {
+            "instructions": "return to the oven for 3 to 5 minutes , until the marshmallows are puffed",
+            "input": "baked_pizza_crust_topped_with_marshmallows_and_chocolate",
+            "actions": "return",
+            "output": "baked_pizza_crust_topped_with_puffed_marshmallows_and_chocolate"
+        },
+        {
+            "instructions": "sprinkle the pizza with half of the graham_cracker mixture",
+            "input": "( graham_cracker mixture; marshmallow and chocolate_pizza)",
+            "actions": "sprinkle",
+            "output": "graham_cracker mixture sprinkled over marshmallow and chocolate_pizza"
+        },
+        {
+            "instructions": "top with half of the almonds .",
+            "input": "(marshmallow, chocolate and graham_cracker mixture_pizza; toasted_almonds)",
+            "actions": "top",
+            "output": "marshmallow, chocolate and graham_cracker mixture_pizza topped with toasted almonds"
+        },
+        {
+            "instructions": "slice",
+            "input": "marshmallow, chocolate and graham_cracker mixture_pizza topped with toasted almonds",
+            "actions": "slice",
+            "output": "sliced s'more pizza"
+        },
+        {
+            "instructions": "serve .",
+            "input": "sliced s'more pizza",
+            "actions": "serve",
+            "output": "sliced s'more pizza"
+        }
+    ],
+    "ingredients": [
+        {
+            "text": "2 1 -pound store-bought pizza-dough balls"
+        },
+        {
+            "text": "1/4 cup slivered almonds"
+        },
+        {
+            "text": "3 tablespoons unsalted butter"
+        },
+        {
+            "text": "1 sleeve graham crackers, crushed (about 1 1/4 cups crumbs)"
+        },
+        {
+            "text": "1/2 teaspoon chili powder"
+        },
+        {
+            "text": "1/4 teaspoon cayenne pepper"
+        },
+        {
+            "text": "1/4 teaspoon fine sea salt"
+        },
+        {
+            "text": "3 cups mini marshmallows"
+        },
+        {
+            "text": "2 4 -ounce dark chocolate bars, broken into 1/4-inch chunks"
+        }
+    ],
+    "recipe": [
+        {
+            "text": "Preheat the oven to 400 degrees F."
+        },
+        {
+            "text": "Form the pizza dough into two 12-to-14-inch rounds, 1/4 inch thick."
+        },
+        {
+            "text": "Bake, preferably on a pizza stone or pizza pan, for 4 to 6 minutes, or until just beginning to brown."
+        },
+        {
+            "text": "Leave the oven at 400 degrees F."
+        },
+        {
+            "text": "While the pizza crust is baking, toast the almonds in a medium dry skillet over medium-high heat."
+        },
+        {
+            "text": "Transfer the almonds to a plate to cool."
+        },
+        {
+            "text": "Melt the butter in the skillet."
+        },
+        {
+            "text": "Add the graham cracker crumbs, chili powder, cayenne and salt."
+        },
+        {
+            "text": "Cook for 2 to 3 minutes, until the crumbs are well coated."
+        },
+        {
+            "text": "Remove from the heat and set aside."
+        },
+        {
+            "text": "For each pizza, top the crust with half of the marshmallows and scatter half of the chocolate over the marshmallows."
+        },
+        {
+            "text": "Return to the oven for 3 to 5 minutes, until the marshmallows are puffed and lightly browned."
+        },
+        {
+            "text": "Sprinkle the pizza with half of the graham cracker mixture and top with half of the almonds."
+        },
+        {
+            "text": "Let rest 3 to 4 minutes, slice and serve."
+        },
+        {
+            "text": "Repeat to make the second pizza."
+        },
+        {
+            "text": "Photograph by Yunhee Kim"
+        }
+    ]
+}

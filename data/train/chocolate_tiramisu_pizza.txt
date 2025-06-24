@@ -1,0 +1,82 @@
+{
+    "title": "chocolate_tiramisu_pizza",
+    "id": "d8de32390d",
+    "table": [
+        {
+            "instructions": "preheat oven to 300 degrees f .",
+            "input": "NA",
+            "action": "preheat",
+            "output": "NA"
+        },
+        {
+            "instructions": "in a food processor , whip the mascarpone cheese and confectioners ' sugar until smooth and creamy .",
+            "input": "(mascarpone; confectioners sugar)",
+            "action": "whip",
+            "output": "whipped_mascarpone mixture"
+        },
+        {
+            "instructions": "add espresso",
+            "input": "(whipped_mascarpone mixture; espresso)",
+            "action": "add",
+            "output": "whipped_mascarpone mixture mixed with espresso"
+        },
+        {
+            "instructions": "add a bit more espresso if mixture is too stiff .",
+            "input": "(whipped_mascarpone mixture mixed with espresso; optional espresso)",
+            "action": "add",
+            "output": "softened tiramisu filling"
+        },
+        {
+            "instructions": "spread the tiramisu filling over baked pizza_shell .",
+            "input": "(baked pizza shell; softened tiramisu filling)",
+            "action": "spread",
+            "output": "softened tiramisu filling spread on baked pizza shell"
+        },
+        {
+            "instructions": "place on a baking sheet in the oven just until slightly warmed .",
+            "input": "tiramisu_pizza",
+            "action": "place",
+            "output": "warmed tiramisu_pizza"
+        }
+    ],
+    "ingredients": [
+        {
+            "text": "12 ounces mascarpone cheese"
+        },
+        {
+            "text": "1/3 cup confectioners' sugar"
+        },
+        {
+            "text": "1/4 cup brewed espresso, cooled, plus more as needed"
+        },
+        {
+            "text": "1 prebaked pizza shell"
+        },
+        {
+            "text": "Unsweetened cocoa powder, for dusting"
+        }
+    ],
+    "recipe": [
+        {
+            "text": "Preheat oven to 300 degrees F."
+        },
+        {
+            "text": "In a food processor, whip the mascarpone cheese and confectioners' sugar until smooth and creamy."
+        },
+        {
+            "text": "Add espresso, process until mixture is creamy and spreadable."
+        },
+        {
+            "text": "Add a bit more espresso if mixture is too stiff."
+        },
+        {
+            "text": "Spread the tiramisu filling over baked pizza shell."
+        },
+        {
+            "text": "Create a dappled effect by first dusting the cheese liberally with cocoa powder, followed by a very light dusting."
+        },
+        {
+            "text": "Place on a baking sheet in the oven just until slightly warmed."
+        }
+    ]
+}

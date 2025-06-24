@@ -1,0 +1,136 @@
+{
+    "title": "emily_'s_favorite_breakfast_pizza",
+    "id": "6bf8b97946",
+    "table": [
+        {
+            "instructions": "melt butter in a large skillet .",
+            "input": "butter",
+            "action": "melt",
+            "output": "melted_butter"
+        },
+        {
+            "instructions": "saute onion , green_bell_pepper , and bacon until tender .",
+            "input": "(melted_butter; onion; green bell pepper; bacon)",
+            "action": "saute",
+            "output": "sauteed vegetables and bacon mixture"
+        },
+        {
+            "instructions": "add eggs , salt , and pepper to skillet .",
+            "input": "(eggs; salt; pepper; sauteed vegetables and bacon mixture)",
+            "action": "add",
+            "output": "eggs, salt and pepper added to sauteed vegetables and bacon mixture"
+        },
+        {
+            "instructions": "stir",
+            "input": "eggs, salt and pepper added to sauteed vegetables and bacon mixture",
+            "action": "stir",
+            "output": "stirred egg mixture"
+        },
+        {
+            "instructions": "cook until eggs are almost set , but not runny .",
+            "input": "stirred egg mixture",
+            "action": "cook",
+            "output": "cooked egg mixture"
+        },
+        {
+            "instructions": "place pizza_crust in pizza\u2012pan or baking stone .",
+            "input": "pizza crust",
+            "action": "place",
+            "output": "pizza crust"
+        },
+        {
+            "instructions": "spread egg mixture evenly over pizza_crust .",
+            "input": "(pizza crust; cooked egg mixture)",
+            "action": "spread",
+            "output": "cooked egg mixture spread over pizza crust"
+        },
+        {
+            "instructions": "top with picante_sauce .",
+            "input": "(picante sauce; pizza crust with egg mixture)",
+            "action": "top",
+            "output": "pizza crust with egg mixture and picante sauce"
+        },
+        {
+            "instructions": "sprinkle with cheese .",
+            "input": "(cheese; pizza crust with egg mixture and picante sauce)",
+            "action": "sprinkle",
+            "output": "cheese sprinkled over pizza crust with egg mixture and picante sauce"
+        },
+        {
+            "instructions": "bake at 400 degrees for 5 10 minutes or until cheese melts .",
+            "input": "uncooked assembled spicy breakfast pizza",
+            "action": "bake",
+            "output": "baked spicy breakfast pizza"
+        },
+        {
+            "instructions": "sprinkle with cilantro .",
+            "input": "(baked spicy breakfast pizza; cilantro )",
+            "action": "sprinkle",
+            "output": "baked spicy breakfast pizza garnished with cilantro"
+        }
+    ],
+    "ingredients": [
+        {
+            "text": "1 tablespoon margarine or 1 tablespoon butter"
+        },
+        {
+            "text": "13 cup chopped onion"
+        },
+        {
+            "text": "13 cup chopped green bell pepper"
+        },
+        {
+            "text": "12 cup chopped Canadian bacon"
+        },
+        {
+            "text": "1 prebaked 12-inch pizza crust"
+        },
+        {
+            "text": "8 eggs"
+        },
+        {
+            "text": "salt and pepper"
+        },
+        {
+            "text": "1 cup picante sauce"
+        },
+        {
+            "text": "1 cup shredded cheddar cheese"
+        },
+        {
+            "text": "2 tablespoons chopped fresh cilantro"
+        }
+    ],
+    "recipe": [
+        {
+            "text": "Melt butter in a large skillet."
+        },
+        {
+            "text": "Saute onion, green bell pepper, and bacon until tender."
+        },
+        {
+            "text": "Add eggs, salt, and pepper to skillet."
+        },
+        {
+            "text": "Stir and cook until eggs are almost set, but not runny."
+        },
+        {
+            "text": "Place pizza crust in pizza pan or baking stone."
+        },
+        {
+            "text": "Spread egg mixture evenly over pizza crust."
+        },
+        {
+            "text": "Top with picante sauce."
+        },
+        {
+            "text": "Sprinkle with cheese."
+        },
+        {
+            "text": "Bake at 400 degrees for 5-10 minutes or until cheese melts."
+        },
+        {
+            "text": "Sprinkle with cilantro."
+        }
+    ]
+}

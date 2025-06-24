@@ -1,0 +1,91 @@
+{
+    "title": "lasagna_pizzazz",
+    "id": "47f2672372",
+    "table": [
+        {
+            "instructions": "brown sausage",
+            "input": "sausage",
+            "actions": "brown",
+            "output": "browned_sausage"
+        },
+        {
+            "instructions": "in skillet , add in mushrooms , caraway_seed and oregano .",
+            "input": "(browned_sausage; mushrooms; caraway_seed; oregano)",
+            "actions": "add",
+            "output": "seasoned_browned_sausage_and_mushrooms"
+        },
+        {
+            "instructions": "coat the bottom of the lasagna pan with marinara about 1 cup layer lasagna_noodle meat either sausage or pepperoni and cheese either mozzarella , provolone or muenster and one cup of sauce",
+            "input": "(marinara; lasagna_noodle; meat; mozzarella)",
+            "actions": "coat",
+            "output": "uncooked_lasagna"
+        },
+        {
+            "instructions": "bake at 350 for 55 minutes .",
+            "input": "uncooked_lasagna",
+            "actions": "bake",
+            "output": "baked_lasagna"
+        },
+        {
+            "instructions": "remove",
+            "input": "baked_lasagna",
+            "actions": "remove",
+            "output": "baked_lasagna"
+        },
+        {
+            "instructions": "top with parmesan_cheese and oregano",
+            "input": "(baked_lasagna; parmesan_cheese; oregano)",
+            "actions": "top",
+            "output": "baked_lasagna_topped_with_parmesa_cheese_and_oregano"
+        },
+        {
+            "instructions": "serve .",
+            "input": "lasagna_pizza",
+            "actions": "serve",
+            "output": "lasagna_pizza"
+        }
+    ],
+    "ingredients": [
+        {
+            "text": "1 lb ground Italian sausage"
+        },
+        {
+            "text": "2 packages pepperoni"
+        },
+        {
+            "text": "2 cup button mushrooms, chopped"
+        },
+        {
+            "text": "26 oz robust marinara (not chucky style)"
+        },
+        {
+            "text": "16 oz mozzarella cheese"
+        },
+        {
+            "text": "16 oz provolone cheese"
+        },
+        {
+            "text": "16 oz muenster cheese"
+        },
+        {
+            "text": "1 packages no boil lasagna noodles"
+        }
+    ],
+    "recipe": [
+        {
+            "text": "Brown sausage in skillet, add in mushrooms, caraway seeds and oregano."
+        },
+        {
+            "text": "Coat the bottom of the lasagna pan with marinara (about 1 cup) layer lasagna noodles meat (either sausage or pepperoni) and cheese (either mozzarella, provolone or muenster) and one cup of sauce and repeat with opposite ingredients each layer."
+        },
+        {
+            "text": "Top layer will be remaining sauce and cheese, the sauce should be on top of the cheese on this layer (kind of like a deep dish pizza)."
+        },
+        {
+            "text": "Bake at 350 for 55 minutes."
+        },
+        {
+            "text": "Remove and top with parmesan cheese and oregano, let cool for 10 minutes and serve."
+        }
+    ]
+}

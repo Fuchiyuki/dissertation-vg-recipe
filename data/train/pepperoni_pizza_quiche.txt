@@ -1,0 +1,112 @@
+{
+    "title": "pepperoni_pizza_quiche",
+    "id": "2f1d28f455",
+    "table": [
+        {
+            "instructions": "heat oven to 35",
+            "input": "NA",
+            "actions": "heat",
+            "output": "NA"
+        },
+        {
+            "instructions": "sprinkle 1 c , cheese and 12 the pepperoni pieces in bottom of pie_shell .",
+            "input": "(pie_shell; cheese; pepperoni pieces)",
+            "actions": "sprinkle",
+            "output": "sprinkled_cheese and pepperoni pieces on pie_shell"
+        },
+        {
+            "instructions": "whisk evaporated_milk , eggs , flour , basil , garlic_powder and italian_seasoning in med bowl until well blended .",
+            "input": "(evaporated_milk; eggs; flour; basil; garlic_powder; italian_seasoning)",
+            "actions": "whisk",
+            "output": "whisked egg mixture"
+        },
+        {
+            "instructions": "pour mixture into pie_shell",
+            "input": "(pie_shell with fillings; whisked egg mixture)",
+            "actions": "pour",
+            "output": "whisked egg mixture poured into pie_shell with fillings"
+        },
+        {
+            "instructions": "sprinkle with remaining cheese .",
+            "input": "(uncooked pepperoni pizza quiche; remaining cheese)",
+            "actions": "sprinkle",
+            "output": "remaining cheese sprinkled on uncooked pepperoni pizza quiche"
+        },
+        {
+            "instructions": "decorate top with remaining pepperoni pieces and any other toppings you like .",
+            "input": "(uncooked pepperoni pizza quiche; remaining pepperoni pieces; toppings)",
+            "actions": "decorate",
+            "output": "uncooked pepperoni pizza quiche decorated with pepperoni pieces and toppings"
+        },
+        {
+            "instructions": "bake 40 45 minutes or until knife inserted comes out clean .",
+            "input": "uncooked pepperoni_pizza_quiche",
+            "actions": "bake",
+            "output": "baked pepperoni_pizza_quiche"
+        },
+        {
+            "instructions": "cool 5 minutes before serving .",
+            "input": "baked pepperoni_pizza_quiche",
+            "actions": "cool",
+            "output": "cooled baked pepperoni_pizza_quiche"
+        }
+    ],
+    "ingredients": [
+        {
+            "text": "1 unbaked 9-inch pie shell, frozen (4 c volume)"
+        },
+        {
+            "text": "1 (8 ounce) package Italian cheese blend, shredded"
+        },
+        {
+            "text": "1 (12 ounce) can evaporated milk"
+        },
+        {
+            "text": "3 large eggs, beaten"
+        },
+        {
+            "text": "2 tablespoons flour"
+        },
+        {
+            "text": "1 teaspoon dried basil leaves"
+        },
+        {
+            "text": "1 teaspoon garlic powder"
+        },
+        {
+            "text": "12 teaspoon italian seasoning"
+        },
+        {
+            "text": "2 ounces thinly sliced pepperoni (about 20-30 slices about 1 1/2-2 inches in diameter, cut into quarters and divided)"
+        },
+        {
+            "text": "cherry tomatoes (to garnish) or grape tomatoes, on top after it comes out of the oven (to garnish)"
+        }
+    ],
+    "recipe": [
+        {
+            "text": "Pre heat oven to 350."
+        },
+        {
+            "text": "Sprinkle 1 c cheese and 1/2 the pepperoni pieces in bottom of pie shell."
+        },
+        {
+            "text": "Whisk evaporated milk, eggs, flour, basil, garlic powder and Italian seasoning in med bowl until well blended."
+        },
+        {
+            "text": "Pour mixture into pie shell and sprinkle with remaining cheese."
+        },
+        {
+            "text": "Decorate top with remaining pepperoni pieces and any other toppings you like."
+        },
+        {
+            "text": "Place quiche on baking sheet if the pie pan you use is a foil one, otherwise just put in oven."
+        },
+        {
+            "text": "Bake 40-45 minutes or until knife inserted comes out clean."
+        },
+        {
+            "text": "Cool 5 minutes before serving."
+        }
+    ]
+}

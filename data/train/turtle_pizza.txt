@@ -1,0 +1,157 @@
+{
+    "title": "turtle_pizza",
+    "id": "b6a180943c",
+    "table": [
+        {
+            "instructions": "preheat oven to 350 degrees f .",
+            "input": "NA",
+            "actions": "preheat",
+            "output": "NA"
+        },
+        {
+            "instructions": "cut tortillas into 8 wedges , each .",
+            "input": "tortillas",
+            "actions": "cut",
+            "output": "cut_tortillas"
+        },
+        {
+            "instructions": "bake the tortilla wedges for 8 minutes , or until a light golden brown if you try to cut the baked tortilla",
+            "input": "tortilla_wedges",
+            "actions": "bake",
+            "output": "tortilla_chips"
+        },
+        {
+            "instructions": "it will break",
+            "input": "NA",
+            "actions": "break",
+            "output": "NA"
+        },
+        {
+            "instructions": "crack .",
+            "input": "NA",
+            "actions": "crack",
+            "output": "NA"
+        },
+        {
+            "instructions": "combine caramels and condensed_milk in a microwave safe glass dish .",
+            "input": "(caramels; condensed_milk)",
+            "actions": "combine",
+            "output": "caramels_condensed_milk_mixture"
+        },
+        {
+            "instructions": "melt in a double boiler or microwave on high for 1 minute",
+            "input": "caramels_condensed_milk_mixture",
+            "actions": "melt",
+            "output": "caramels_condensed_milk_mixture"
+        },
+        {
+            "instructions": "stir ,",
+            "input": "NA",
+            "actions": "stir",
+            "output": "NA"
+        },
+        {
+            "instructions": "microwave again for 1 minute .",
+            "input": "caramels_condensed_milk_mixture",
+            "actions": "microwave",
+            "output": "caramels_condensed_milk_mixture"
+        },
+        {
+            "instructions": "stir again .",
+            "input": "NA",
+            "actions": "stir",
+            "output": "NA"
+        },
+        {
+            "instructions": "when caramels are melted , stir mixture until it is smooth .",
+            "input": "caramels_condensed_milk_mixture",
+            "actions": "stir",
+            "output": "caramels_condensed_milk_mixture"
+        },
+        {
+            "instructions": "spread it evenly on the tortilla wedges .",
+            "input": "(caramels_condensed_milk_mixture; wedges)",
+            "actions": "spread",
+            "output": "(caramels_condensed_milk_mixture; wedges)"
+        },
+        {
+            "instructions": "melt chocolate .",
+            "input": "chocolate",
+            "actions": "melt",
+            "output": "melted_chocolate"
+        },
+        {
+            "instructions": "stir until smooth .",
+            "input": "melted_chocolate",
+            "actions": "stir",
+            "output": "melted_chocolate"
+        },
+        {
+            "instructions": "spread the chocolate layer over the caramel layer .",
+            "input": "(melted_chocolate;caramels_condensed_milk_mixture)",
+            "actions": "spread",
+            "output": "(melted_chocolate;caramels_condensed_milk_mixture)"
+        },
+        {
+            "instructions": "sprinkle the nuts evenly over the chocolate .",
+            "input": "nuts",
+            "actions": "sprinkle",
+            "output": "(nuts;melted_chocolate;caramels_condensed_milk_mixture)"
+        }
+    ],
+    "ingredients": [
+        {
+            "text": "4 (10 inch) flour tortillas (use the largest you can find)"
+        },
+        {
+            "text": "1 (12 ounce) package caramel candies, unwrapped"
+        },
+        {
+            "text": "12 cup sweetened condensed milk"
+        },
+        {
+            "text": "1 cup semi-sweet chocolate chips"
+        },
+        {
+            "text": "1 cup toasted pecans"
+        }
+    ],
+    "recipe": [
+        {
+            "text": "Preheat oven to 350 degrees F."
+        },
+        {
+            "text": "Cut tortillas into 8 wedges, each."
+        },
+        {
+            "text": "Bake the tortilla wedges for 8 minutes, or until a light golden brown (If you try to cut the baked tortilla, it will break and crack)."
+        },
+        {
+            "text": "Combine caramels and condensed milk in a microwave-safe glass dish."
+        },
+        {
+            "text": "Melt in a double boiler or microwave on high for 1 minute, stir, and microwave again for 1 minute."
+        },
+        {
+            "text": "Stir again."
+        },
+        {
+            "text": "When caramels are melted, stir mixture until it is smooth."
+        },
+        {
+            "text": "Spread it evenly on the tortilla wedges."
+        },
+        {
+            "text": "Melt chocolate."
+        },
+        {
+            "text": "Stir until smooth."
+        },
+        {
+            "text": "Spread the chocolate layer over the caramel layer."
+        },
+        {
+            "text": "Sprinkle the nuts evenly over the chocolate."
+        }
+    ]
+}

@@ -1,0 +1,106 @@
+{
+    "title": "lunch_box_pizza",
+    "id": "b133fb796b",
+    "table": [
+        {
+            "instructions": "spray 10 cups in a muffin tin with cooking_spray .",
+            "input": "NA",
+            "action": "spray",
+            "output": "NA"
+        },
+        {
+            "instructions": "preheat oven to 425 degrees f .",
+            "input": "NA",
+            "action": "preheat",
+            "output": "NA"
+        },
+        {
+            "instructions": "roll or pat out each biscuit until it is approximately 3 inches in diameter .",
+            "input": "Biscuit dough",
+            "action": "roll",
+            "output": "Flattened biscuit dough"
+        },
+        {
+            "instructions": "place in the muffin cup so that it lines the bottom",
+            "input": "Flatted biscuit dough",
+            "action": "place",
+            "output": "Biscuit cups"
+        },
+        {
+            "instructions": "mix together the italian_seasoning and the tomato_sauce .",
+            "input": "(italian_seasoning; tomato_sauce)",
+            "action": "mix",
+            "output": "Seasoned tomato sauce"
+        },
+        {
+            "instructions": "spoon into the cups evenly using all the sauce .",
+            "input": "(Seasoned tomato sauce; biscuit cups)",
+            "action": "spoon",
+            "output": "Biscuit cups with tomato sauce"
+        },
+        {
+            "instructions": "divide the cheese evenly between the muffin cups",
+            "input": "(Cheese; Biscuit cups with tomato sauce)",
+            "action": "divide",
+            "output": "Biscuit cups with tomato sauce and cheese"
+        },
+        {
+            "instructions": "top each one with a pepperoni_slice .",
+            "input": "(pepperoni_slice; Biscuit cups with tomato sauce and cheese)",
+            "action": "top",
+            "output": "Biscuit cups with tomato sauce, cheese and pepperoni slice"
+        },
+        {
+            "instructions": "bake for 15 20 minutes .",
+            "input": "Biscuit cups with tomato sauce, cheese and pepperoni slice",
+            "action": "bake",
+            "output": "baked mini biscuit pizza"
+        }
+    ],
+    "ingredients": [
+        {
+            "text": "1 can (10-count Package, Or About 8 Oz. Size) Refrigerated Biscuits"
+        },
+        {
+            "text": "1 teaspoon Italian Seasoning"
+        },
+        {
+            "text": "1/2 cups Tomato Sauce"
+        },
+        {
+            "text": "1/2 cups Shredded Cheese, Your Favorite"
+        },
+        {
+            "text": "10 slices Pepperoni"
+        }
+    ],
+    "recipe": [
+        {
+            "text": "Spray 10 cups in a muffin tin with cooking spray."
+        },
+        {
+            "text": "Preheat oven to 425 degrees F."
+        },
+        {
+            "text": "Roll or pat out each biscuit until it is approximately 3 inches in diameter."
+        },
+        {
+            "text": "Place in the muffin cup so that it lines the bottom and goes up the sides evenly."
+        },
+        {
+            "text": "Mix together the Italian seasoning and the tomato sauce."
+        },
+        {
+            "text": "Spoon into the cups evenly using all the sauce."
+        },
+        {
+            "text": "This is a little over 1 tablespoon per cup."
+        },
+        {
+            "text": "Divide the cheese evenly between the muffin cups and top each one with a pepperoni slice."
+        },
+        {
+            "text": "Bake for 15-20 minutes."
+        }
+    ]
+}

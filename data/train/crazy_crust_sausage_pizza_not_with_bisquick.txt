@@ -1,0 +1,187 @@
+{
+    "title": "crazy_crust_sausage_pizza_not_with_bisquick",
+    "id": "10de5b0c64",
+    "table": [
+        {
+            "instructions": "set oven to 350 degrees .",
+            "input": "NA",
+            "action": "set",
+            "output": "NA"
+        },
+        {
+            "instructions": "in a large skillet cook the sausage_meat with onion , bell_pepper and garlic until browned , stirring to break up the meat ;",
+            "input": "(sausage_meat; onion; bell_pepper; garlic)",
+            "action": "cook",
+            "output": "cooked sausage mixture"
+        },
+        {
+            "instructions": "drain fat",
+            "input": "cooked sausage mixture",
+            "action": "drain",
+            "output": "cooked sausage mixture drained from fat"
+        },
+        {
+            "instructions": "set aside .",
+            "input": "cooked sausage mixture drained from fat",
+            "action": "set",
+            "output": "cooked sausage mixture drained from fat"
+        },
+        {
+            "instructions": "grease a 14 inch round deep dish pizza\u2012pan",
+            "input": "NA",
+            "action": "grease",
+            "output": "NA"
+        },
+        {
+            "instructions": "dust lightly with flour .",
+            "input": "NA",
+            "action": "dust",
+            "output": "NA"
+        },
+        {
+            "instructions": "in a medium bowl mix together the flour with baking_powder , salt , italian_seasoning , black_pepper and cayenne_pepper if using add in milk and eggs",
+            "input": "(flour; baking_powder; salt; italian_seasoning; black_pepper; cayenne_pepper; milk; eggs)",
+            "action": "mix",
+            "output": "mixed_batter"
+        },
+        {
+            "instructions": "stir until well blended .",
+            "input": "mixed_batter",
+            "action": "stir",
+            "output": "blended_batter"
+        },
+        {
+            "instructions": "pour the mixture into the prepared pan tilting pan as necessary so that the batter covers the bottom of the pan .",
+            "input": "blended_batter",
+            "action": "pour",
+            "output": "batter_in_prepared_pan"
+        },
+        {
+            "instructions": "sprinkle the top of the batter with 14 cup , parmesan_cheese ,",
+            "input": "(batter_in_prepared_pan; parmesan_cheese)",
+            "action": "sprinkle",
+            "output": "parmesan_cheese_sprinkled_on_batter"
+        },
+        {
+            "instructions": "sprinkle the sausage mixture and sliced_mushroom over the batter and cheese .",
+            "input": "(parmesan_cheese_sprinkled_on_batter; sausage_mixture; sliced_mushroom)",
+            "action": "sprinkle",
+            "output": "parmesan_cheese_sausage_mixture_and_sliced_mushroom_sprinkled_on_batter"
+        },
+        {
+            "instructions": "bake at 350 degrees for about 25 30 minutes or until pizza is golden brown .",
+            "input": "parmesan_cheese_sausage_mixture_and_sliced_mushroom_sprinkled_on_batter",
+            "action": "bake",
+            "output": "baked_sausage_pizza"
+        },
+        {
+            "instructions": "remove from oven",
+            "input": "baked_sausage_pizza",
+            "action": "remove",
+            "output": "baked_sausage_pizza"
+        },
+        {
+            "instructions": "drizzle with pizza_sauce , then 14 cup grated_parmesan_cheese",
+            "input": "(baked_sausage_pizza; pizza sauce; grated parmesan cheese)",
+            "action": "drizzle",
+            "output": "baked_sausage_pizza drizzled with pizza sauce and grated parmesan cheese"
+        },
+        {
+            "instructions": "then top with grated mozza cheese ;",
+            "input": "(baked_sausage_pizza drizzled with pizza sauce and grated parmesan cheese; mozzarella cheese)",
+            "action": "top",
+            "output": "baked sausage pizza with pizza sauce and parmesan cheese_topped_with_grated_mozzarella_cheese"
+        },
+        {
+            "instructions": "return to oven",
+            "input": "baked sausage pizza with pizza sauce and parmesan cheese_topped_with_grated_mozzarella_cheese",
+            "action": "return",
+            "output": "baked sausage pizza with pizza sauce and parmesan cheese_topped_with_grated_mozzarella_cheese"
+        },
+        {
+            "instructions": "bake about 8 minutes or until the crust is a deep golden brown and the cheese is melted .",
+            "input": "baked sausage pizza with pizza sauce and parmesan cheese_topped_with_grated_mozzarella_cheese",
+            "action": "bake",
+            "output": "doubly baked sausage pizza"
+        }
+    ],
+    "ingredients": [
+        {
+            "text": "1 12 lbs Italian sausages, casings removed (mild or spicy)"
+        },
+        {
+            "text": "1 onion, chopped"
+        },
+        {
+            "text": "1 tablespoon minced fresh garlic (or to taste)"
+        },
+        {
+            "text": "1 green bell pepper, seeded and chopped"
+        },
+        {
+            "text": "1 12 cups flour"
+        },
+        {
+            "text": "12 teaspoon baking powder"
+        },
+        {
+            "text": "1 teaspoon salt"
+        },
+        {
+            "text": "1 teaspoon dried Italian seasoning"
+        },
+        {
+            "text": "12 teaspoon black pepper"
+        },
+        {
+            "text": "1 pinch cayenne pepper (optional)"
+        },
+        {
+            "text": "23 cup milk"
+        },
+        {
+            "text": "2 eggs, lightly beaten"
+        },
+        {
+            "text": "1 cup canned sliced mushrooms, well drained (or to taste)"
+        },
+        {
+            "text": "2 cups shredded mozzarella cheese (or to taste)"
+        },
+        {
+            "text": "12 cup grated parmesan cheese, divided (can use more)"
+        },
+        {
+            "text": "2 cups pizza sauce (can use more, see my Kittencal's Pizza Sauce)"
+        }
+    ],
+    "recipe": [
+        {
+            "text": "Set oven to 350 degrees."
+        },
+        {
+            "text": "In a large skillet cook the sausage meat with onion, bell pepper and garlic until browned, stirring to break up the meat; drain fat and set aside."
+        },
+        {
+            "text": "Grease a 14-inch round deep-dish pizza pan then dust lightly with flour."
+        },
+        {
+            "text": "In a medium bowl mix together the flour with baking powder, salt, Italian seasoning, black pepper and cayenne pepper (if using) add in milk and eggs, stir until well blended."
+        },
+        {
+            "text": "Pour the mixture into the prepared pan tilting pan as necessary so that the batter covers the bottom of the pan."
+        },
+        {
+            "text": "Sprinkle the top of the batter with 1/4 cup parmesan cheese, then sprinkle the sausage mixture and sliced mushrooms over the batter and cheese."
+        },
+        {
+            "text": "Bake at 350 degrees for about 25-30 minutes or until pizza is golden brown."
+        },
+        {
+            "text": "Remove from oven and drizzle with pizza sauce, then 1/4 cup grated parmesan cheese and then top with grated mozza cheese; return to oven and bake about 8 minutes or until the crust is a deep golden brown and the cheese is melted."
+        },
+        {
+            "text": "Delicious!"
+        }
+    ]
+}

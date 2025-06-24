@@ -1,0 +1,232 @@
+{
+    "title": "evelyn-inspired_greek_tomato-spinach_pizza",
+    "id": "20abf56b2a",
+    "table": [
+        {
+            "instructions": "preheat the oven to 400f .",
+            "input": "NA",
+            "action": "preheat",
+            "output": "NA"
+        },
+        {
+            "instructions": "heat the oil",
+            "input": "oil",
+            "action": "heat",
+            "output": "heated_oil"
+        },
+        {
+            "instructions": "saute the onion and garlic for about 5 minutes , until the onions are translucent .",
+            "input": "(onion; garlic; heated_oil)",
+            "action": "saute",
+            "output": "sauted_onion_and_garlic"
+        },
+        {
+            "instructions": "add the spinach and keep sauteing until all the moisture has evaporated",
+            "input": "(sauted_onion_and_garlic; spinach)",
+            "action": "add",
+            "output": "combined_onion_garlic_and_spinach"
+        },
+        {
+            "instructions": "add the oregano , basil and black_pepper .",
+            "input": "(oregano; basil; black pepper; combined_onion_garlic_and_spinach)",
+            "action": "add",
+            "output": "seasoned spinach mixture with herbs"
+        },
+        {
+            "instructions": "mix it into the spinach mixture",
+            "input": "seasoned spinach mixture with herbs",
+            "action": "mix",
+            "output": "seasoned spinach mixture with herbs"
+        },
+        {
+            "instructions": "then remove from the heat .",
+            "input": "seasoned spinach mixture with herbs",
+            "action": "remove",
+            "output": "seasoned spinach mixture with herbs"
+        },
+        {
+            "instructions": "mix in the ricotta_cheese .",
+            "input": "(seasoned spinach mixture with herbs; ricotta_cheese)",
+            "action": "mix",
+            "output": "ricotta and spinach mixture"
+        },
+        {
+            "instructions": "set aside for now .",
+            "input": "ricotta and spinach mixture",
+            "action": "set",
+            "output": "ricotta and spinach mixture"
+        },
+        {
+            "instructions": "roll pan with a small rim",
+            "input": "NA",
+            "action": "roll",
+            "output": "NA"
+        },
+        {
+            "instructions": "grease it .",
+            "input": "NA",
+            "action": "grease",
+            "output": "NA"
+        },
+        {
+            "instructions": "brush the sheet of phyllo with some of the melted_butter .",
+            "input": "(melted butter; phyllo)",
+            "action": "brush",
+            "output": "brushed_phyllo with melted butter"
+        },
+        {
+            "instructions": "top that with a second sheet of phyllo_dough ,",
+            "input": "(brushed_phyllo with melted butter; phyllodough)",
+            "action": "top",
+            "output": "brushed_phyllo with melted butter topped with another phyllo sheet"
+        },
+        {
+            "instructions": "brush that with some melted_butter .",
+            "input": "(brushed_phyllo with melted butter topped with another phyllo sheet; melted butter)",
+            "action": "brush",
+            "output": "phyllo sheets layer brushed with melted butter"
+        },
+        {
+            "instructions": "roll the overlapping ends of the dough onto itself to form the pizza_crust .",
+            "input": "phyllo sheets layer brushed with melted butter",
+            "action": "roll",
+            "output": "phyllo pizza crust"
+        },
+        {
+            "instructions": "using a spatula , spread the spinach ricotta mixture over the phyllo in an even layer .",
+            "input": "(phyllo pizza crust; cooled_spinach and ricotta_mixture)",
+            "action": "spread",
+            "output": "phyllo pizza crust_with_spinach_and ricotta mixture"
+        },
+        {
+            "instructions": "arrange the tomatoes over this layer .",
+            "input": "(phyllo pizza crust_with_spinach_and ricotta mixture; tomatoes)",
+            "action": "arrange",
+            "output": "phyllo pizza crust_with_spinach_and ricotta mixture and tomato"
+        },
+        {
+            "instructions": "mix the mozzarella with the haloumi .",
+            "input": "(mozzarella; haloumi)",
+            "action": "mix",
+            "output": "mozzarella_and halloumi mixture"
+        },
+        {
+            "instructions": "that 's okay , do n't kill yourself over it , just use 1 12 cups of mozzarella instead .",
+            "input": "NA",
+            "action": "use",
+            "output": "NA"
+        },
+        {
+            "instructions": "sprinkle the cheese over the tomatoes .",
+            "input": "(mozzarella_and halloumi mixture; phyllo pizza crust_with_spinach_and ricotta mixture and tomato)",
+            "action": "sprinkle",
+            "output": "phyllo pizza crust_with_spinach_and ricotta mixture, tomato and mozzarella_and halloumi mixture"
+        },
+        {
+            "instructions": "bake in the oven for 25 30 minutes , or until golden brown .",
+            "input": "uncooked phyllo pizza crust_with_spinach_and ricotta mixture, tomato and mozzarella_and halloumi mixture",
+            "action": "bake",
+            "output": "baked greek inspired pizza"
+        }
+    ],
+    "ingredients": [
+        {
+            "text": "14 cup olive oil"
+        },
+        {
+            "text": "2 cups chopped onions"
+        },
+        {
+            "text": "3 garlic cloves, minced"
+        },
+        {
+            "text": "3 (10 ounce) boxes frozen spinach, thawed and squeezed dry"
+        },
+        {
+            "text": "2 teaspoons dried oregano"
+        },
+        {
+            "text": "12 cup fresh basil, chopped"
+        },
+        {
+            "text": "14 teaspoon fresh ground black pepper"
+        },
+        {
+            "text": "15 ounces ricotta cheese"
+        },
+        {
+            "text": "10 sheets frozen phyllo dough, thawed"
+        },
+        {
+            "text": "14 cup butter, melted"
+        },
+        {
+            "text": "5 fresh tomatoes, sliced"
+        },
+        {
+            "text": "1 cup grated mozzarella cheese"
+        },
+        {
+            "text": "12 cup grated halloumi cheese"
+        }
+    ],
+    "recipe": [
+        {
+            "text": "Preheat the oven to 400F."
+        },
+        {
+            "text": "Heat the oil and saute the onion and garlic for about 5 minutes, until the onions are translucent."
+        },
+        {
+            "text": "Add the spinach and keep sauteing until all the moisture has evaporated (you don't want this to be bone dry, just all the excess moisture should be cooked off)."
+        },
+        {
+            "text": "Add the oregano, basil and black pepper."
+        },
+        {
+            "text": "Mix it into the spinach mixture and then remove from the heat."
+        },
+        {
+            "text": "Mix in the ricotta cheese."
+        },
+        {
+            "text": "Set aside for now."
+        },
+        {
+            "text": "Find a jelly roll pan with a small rim and grease it."
+        },
+        {
+            "text": "Lay one sheet of phyllo dough down on it, the sheet can be a little bigger than the pan, that's okay."
+        },
+        {
+            "text": "Brush the sheet of phyllo with some of the melted butter."
+        },
+        {
+            "text": "Top that with a second sheet of phyllo dough, and brush that with some melted butter."
+        },
+        {
+            "text": "Keep going until all ten sheets have been layered and butter."
+        },
+        {
+            "text": "Roll the overlapping ends of the dough onto itself to form the pizza\"crust\"."
+        },
+        {
+            "text": "Using a spatula, spread the spinach-ricotta mixture over the phyllo in an even layer."
+        },
+        {
+            "text": "Arrange the tomatoes over this layer."
+        },
+        {
+            "text": "Mix the mozzarella with the haloumi."
+        },
+        {
+            "text": "If you can't get haloumi cheese, that's okay, don't kill yourself over it, just use 1 1/2 cups of mozzarella instead."
+        },
+        {
+            "text": "Sprinkle the cheese over the tomatoes."
+        },
+        {
+            "text": "Bake in the oven for 25-30 minutes, or until golden brown."
+        }
+    ]
+}

@@ -1,0 +1,175 @@
+{
+    "title": "puff_pastry_breakfast_pizza",
+    "id": "33fbd8a03a",
+    "table": [
+        {
+            "instructions": "preheat your oven to 425 f .",
+            "input": "NA",
+            "actions": "preheat",
+            "output": "NA"
+        },
+        {
+            "instructions": "fold the edges over slightly to create a crust .",
+            "input": "NA",
+            "actions": "fold",
+            "output": "NA"
+        },
+        {
+            "instructions": "place pastry sheets onto parchment lined baking sheets .",
+            "input": "NA",
+            "actions": "place",
+            "output": "NA"
+        },
+        {
+            "instructions": "prick the inside of your dough with a fork .",
+            "input": "Uncooked_crust",
+            "actions": "prick",
+            "output": "Uncooked_crust"
+        },
+        {
+            "instructions": "bake for about 8 10 minutes .",
+            "input": "Uncooked_crust",
+            "actions": "bake",
+            "output": "Cooked_crust"
+        },
+        {
+            "instructions": "make sure you do nt under cook this part or it may result in the egg leaking and the bottom crust having a chewier texturestill tasty but difficult to work with .",
+            "input": "Cooked_crust",
+            "actions": "make",
+            "output": "Cooked_crust"
+        },
+        {
+            "instructions": "remove from oven .",
+            "input": "Cooked_crust",
+            "actions": "remove",
+            "output": "Cooked_crust"
+        },
+        {
+            "instructions": "using a fork , prick the puffy inside of the dough",
+            "input": "Fluffy_crust",
+            "actions": "prick",
+            "output": "deflated_crust"
+        },
+        {
+            "instructions": "press gently with the back of the fork to deflate the middle so that the crust stands a bit taller .",
+            "input": "Unpressed_crust",
+            "actions": "press",
+            "output": "Crust"
+        },
+        {
+            "instructions": "use two separate bowls for each mixture with some salt and pepper to taste .",
+            "input": "Two_cheese_mixture_salt_and_pepper_to_taste",
+            "actions": "use",
+            "output": "Two_seperate_seasoned_cheese_mixture"
+        },
+        {
+            "instructions": "make sure to mix them well .",
+            "input": "Two_seperate_cheese_mixture",
+            "actions": "make",
+            "output": "Two_seperate_cheese_mixture"
+        },
+        {
+            "instructions": "evenly sprinkle half of each cheese onto each pastry sheet .",
+            "input": "Two_seperate_cheese_mixture",
+            "actions": "sprinkle",
+            "output": "Two_cheese_pastry"
+        },
+        {
+            "instructions": "carefully pour the egg mixture on top of this",
+            "input": "Two_cheese_pastry",
+            "actions": "pour",
+            "output": "Two_cheese_pastry_with_egg_mixture"
+        },
+        {
+            "instructions": "sprinkle with the bacon .",
+            "input": "Two_cheese_pastry_with_egg_mixture",
+            "actions": "sprinkle",
+            "output": "Two_cheese_pastry_with_egg_mixture_with_bacon"
+        },
+        {
+            "instructions": "bake for 10 15 minutes or until the egg is set .",
+            "input": "Two_cheese_pastry_with_egg_mixture_with_bacon",
+            "actions": "bake",
+            "output": "Set_cheese_pastry"
+        }
+    ],
+    "ingredients": [
+        {
+            "text": "1 package (2 Sheets Per Package) Frozen Puff Pastry Sheets, Thawed"
+        },
+        {
+            "text": "10 whole Eggs, Divided"
+        },
+        {
+            "text": "1/2 cups Milk Or Cream, Divided"
+        },
+        {
+            "text": "2 pinches Salt And Pepper, to taste"
+        },
+        {
+            "text": "1 cup Shredded Cheddar Cheese, Divided"
+        },
+        {
+            "text": "1 cup Shredded Mozzarella Cheese, Divided"
+        },
+        {
+            "text": "1/2 pounds Bacon, Cooked And Crumbled"
+        }
+    ],
+    "recipe": [
+        {
+            "text": "Preheat your oven to 425 F."
+        },
+        {
+            "text": "On a lightly floured surface, roll out each sheet of puff pastry dough so its slightly thinner and there are no cracks (you can fix any cracks by smoothing it over with a bit of water)."
+        },
+        {
+            "text": "Fold the edges over slightly to create a crust."
+        },
+        {
+            "text": "I used a bit of water to adhere them."
+        },
+        {
+            "text": "Place pastry sheets onto parchment lined baking sheets."
+        },
+        {
+            "text": "Prick the inside of your dough with a fork."
+        },
+        {
+            "text": "Bake for about 8-10 minutes."
+        },
+        {
+            "text": "Your dough will look puffy and golden brown."
+        },
+        {
+            "text": "Make sure you dont under cook this part (or it may result in the egg leaking and the bottom crust having a chewier texturestill tasty but difficult to work with)."
+        },
+        {
+            "text": "Remove from oven."
+        },
+        {
+            "text": "Using a fork, prick the puffy inside of the dough and press gently with the back of the fork to deflate the middle so that the crust stands a bit taller."
+        },
+        {
+            "text": "I cannot stress enough to be gentle so that your fork only pierces the top layer and not all the way through the crust."
+        },
+        {
+            "text": "Mix your eggs and cream (youll use half of each for each pastry sheet so use two separate bowls for each mixture) with some salt and pepper to taste."
+        },
+        {
+            "text": "Make sure to mix them well."
+        },
+        {
+            "text": "Evenly sprinkle half of each cheese onto each pastry sheet."
+        },
+        {
+            "text": "Carefully pour the egg mixture on top of this and sprinkle with the bacon."
+        },
+        {
+            "text": "Bake for 10-15 minutes or until the egg is set."
+        },
+        {
+            "text": "This makes 2 breakfast pizzas."
+        }
+    ]
+}

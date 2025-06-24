@@ -1,0 +1,160 @@
+{
+    "title": "pepperoni_and_bacon_pizza_rolls",
+    "id": "2c4539f72a",
+    "table": [
+        {
+            "instructions": "fry bacon until just crisp",
+            "input": "bacon",
+            "actions": "fry",
+            "output": "fried_bacon"
+        },
+        {
+            "instructions": "drain on paper towels .",
+            "input": "fried_bacon",
+            "actions": "drain",
+            "output": "drained_fried_bacon"
+        },
+        {
+            "instructions": "crumble when cool .",
+            "input": "drained_fried_bacon",
+            "actions": "crumble",
+            "output": "crumbled_fried_bacon"
+        },
+        {
+            "instructions": "wipe the bacon_grease out of the pan with a paper towel",
+            "input": "NA",
+            "actions": "wipe",
+            "output": "NA"
+        },
+        {
+            "instructions": "fry pepperoni in same pan .",
+            "input": "pepperoni",
+            "actions": "fry",
+            "output": "fried_pepperoni"
+        },
+        {
+            "instructions": "drain on paper towels .",
+            "input": "fried_pepperoni",
+            "actions": "drain",
+            "output": "drained_fried_pepperoni"
+        },
+        {
+            "instructions": "combine bacon , pepperoni , sauce and cheese .",
+            "input": "(crumbled_fried_bacon; fried_pepperoni; sauce; cheese)",
+            "actions": "combine",
+            "output": "filling"
+        },
+        {
+            "instructions": "working with 4 wrappers at a time place 2 heaping tablespoons of filling on each wrapper .",
+            "input": "filling",
+            "actions": "place",
+            "output": "wrapped_filling"
+        },
+        {
+            "instructions": "brush all 4 edges with water .",
+            "input": "(wrapped_filling; water)",
+            "actions": "brush",
+            "output": "wet_wrapped_filling"
+        },
+        {
+            "instructions": "roll one corner over the filling",
+            "input": "wet_wrapped_filling",
+            "actions": "roll",
+            "output": "rolled_wrapped_filling"
+        },
+        {
+            "instructions": "fold in the 2 sides",
+            "input": "rolled_wrapped_filling",
+            "actions": "fold",
+            "output": "folded_wrapped_filling"
+        },
+        {
+            "instructions": "then roll up completely .",
+            "input": "rolled_wrapped_filling",
+            "actions": "roll",
+            "output": "pepperoni and bacon pizza wrappers"
+        },
+        {
+            "instructions": "heat an inch of vegetable_oil in a large deep skillet to 375 degrees .",
+            "input": "vegetable_oil",
+            "actions": "heat",
+            "output": "heated_vegetable_oil"
+        },
+        {
+            "instructions": "fry 4 wrappers at a time .",
+            "input": "pepperoni and bacon pizza wrappers",
+            "actions": "fry",
+            "output": "fried_wrappers"
+        },
+        {
+            "instructions": "when both sides are golden remove to a baking sheet lined with newspaper and paper towel to cool .",
+            "input": "fried_wrappers",
+            "actions": "remove",
+            "output": "fried_wrappers"
+        },
+        {
+            "instructions": "to reheat place in a single layer on a baking sheet in a 350 degree oven until warmed through .",
+            "input": "fried_pepperoni and bacon pizza wrappers",
+            "actions": "reheat",
+            "output": "reheated_fried_pepperoni and bacon pizza wrappers"
+        }
+    ],
+    "ingredients": [
+        {
+            "text": "8 ounces bacon, sliced 1/4 inch"
+        },
+        {
+            "text": "12 ounces pepperoni, mild, cut into 1/4 inch dice (buy a chunk at the deli and peel the skin)"
+        },
+        {
+            "text": "1 cup pizza sauce (I use Freezer Pizza Sauce, purchased is fine)"
+        },
+        {
+            "text": "6 ounces mozzarella cheese, shredded (bagged pre-shredded pizza cheese is good)"
+        },
+        {
+            "text": "24 egg roll wraps"
+        }
+    ],
+    "recipe": [
+        {
+            "text": "Fry bacon until just crisp and drain on paper towels."
+        },
+        {
+            "text": "Crumble when cool."
+        },
+        {
+            "text": "Wipe the bacon grease out of the pan with a paper towel and fry pepperoni in same pan."
+        },
+        {
+            "text": "Drain on paper towels."
+        },
+        {
+            "text": "Combine bacon, pepperoni, sauce and cheese."
+        },
+        {
+            "text": "Working with 4 wrappers at a time place 2 heaping tablespoons of filling on each wrapper."
+        },
+        {
+            "text": "Brush all 4 edges with water."
+        },
+        {
+            "text": "Roll one corner over the filling, fold in the 2 sides and then roll up completely."
+        },
+        {
+            "text": "Heat an inch of vegetable oil in a large deep skillet to 375 degrees."
+        },
+        {
+            "text": "Fry 4 wrappers at a time."
+        },
+        {
+            "text": "When both sides are golden remove to a baking sheet lined with newspaper and paper towel to cool."
+        },
+        {
+            "text": "These may be eaten immediately or frozen."
+        },
+        {
+            "text": "To reheat place in a single layer on a baking sheet in a 350 degree oven until warmed through."
+        }
+    ]
+}

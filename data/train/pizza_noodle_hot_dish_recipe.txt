@@ -1,0 +1,100 @@
+{
+    "title": "pizza_noodle_hot_dish_recipe",
+    "id": "5e4ccf851e",
+    "table": [
+        {
+            "instructions": "cook sausage ;",
+            "input": "sausage",
+            "action": "cook",
+            "output": "cooked_sausage"
+        },
+        {
+            "instructions": "drain .",
+            "input": "cooked_sausage",
+            "action": "drain",
+            "output": "cooked_sausage without excess fat"
+        },
+        {
+            "instructions": "cook noodles ;",
+            "input": "noodles",
+            "action": "cook",
+            "output": "cooked noodles"
+        },
+        {
+            "instructions": "drain",
+            "input": "cooked noodles",
+            "action": "drain",
+            "output": "drained cooked noodles"
+        },
+        {
+            "instructions": "rinse .",
+            "input": "drained cooked noodles",
+            "action": "rinse",
+            "output": "rinsed noodles"
+        },
+        {
+            "instructions": "mix everything together , except mozzarella_cheese .",
+            "input": "(pizza sauce; cooked noodles; cooked sausage)",
+            "action": "mix",
+            "output": "cooked sauce, noodle and sausage mixture"
+        },
+        {
+            "instructions": "put mozzarella_cheese on top .",
+            "input": "(mozzarella cheese; cooked sauce, noodle and sausage mixture)",
+            "action": "put",
+            "output": "assembled pizza noodle casserole"
+        },
+        {
+            "instructions": "bake at 325 degrees for 25 min .",
+            "input": "assembled pizza noodle casserole",
+            "action": "bake",
+            "output": "baked pizza noodle casserole"
+        }
+    ],
+    "ingredients": [
+        {
+            "text": "1 pound Italian sausage"
+        },
+        {
+            "text": "4 ounce. pepperoni"
+        },
+        {
+            "text": "2 cans Cheddar cheese soup"
+        },
+        {
+            "text": "1/2 pound wide noodles"
+        },
+        {
+            "text": "1 lg. jar spaghetti sauce"
+        },
+        {
+            "text": "1 lg. onion, minced"
+        },
+        {
+            "text": "12 ounce. Mozzarella cheese"
+        }
+    ],
+    "recipe": [
+        {
+            "text": "Cook sausage; drain."
+        },
+        {
+            "text": "Cook noodles; drain and rinse."
+        },
+        {
+            "text": "Mix everything together, except Mozzarella cheese."
+        },
+        {
+            "text": "Put Mozzarella cheese on top."
+        },
+        {
+            "text": "9 x 13 inch pan."
+        },
+        {
+            "text": "Bake at 325 degrees for 25 min."
+        },
+        {
+            "text": "Serves 6 to 8."
+        }
+    ]
+}

@@ -1,0 +1,193 @@
+{
+    "title": "white_pizza_with_pizzaz",
+    "id": "84ef5c2efb",
+    "table": [
+        {
+            "instructions": "preheat oven to 50",
+            "input": "NA",
+            "action": "preheat",
+            "output": "NA"
+        },
+        {
+            "instructions": "in a wide skillet , heat 2 t.",
+            "input": "oil",
+            "action": "heat",
+            "output": "heated oil"
+        },
+        {
+            "instructions": "add onions and garlic",
+            "input": "(onions; garlic; heated oil)",
+            "action": "add",
+            "output": "onions and garlic into heated oil"
+        },
+        {
+            "instructions": "saute until golden .",
+            "input": "onions and garlic into heated oil",
+            "action": "saute",
+            "output": "Golden onions and garlic"
+        },
+        {
+            "instructions": "add broccoli",
+            "input": "(Broccoli; Golden onions and garlic)",
+            "action": "add",
+            "output": "Saut\u00e9ed onions, garlic, and broccoli."
+        },
+        {
+            "instructions": "cook , stirring , until bite tender .",
+            "input": "Saut\u00e9ed onions, garlic, and broccoli.",
+            "action": "cook",
+            "output": "Tender saut\u00e9ed onions, garlic, and broccoli."
+        },
+        {
+            "instructions": "season to taste with salt and pepper .",
+            "input": "(Salt; pepper; Tender saut\u00e9ed onions, garlic, and broccoli.)",
+            "action": "season",
+            "output": "Seasoned sauteed broccoli, onions and garlic mixture"
+        },
+        {
+            "instructions": "remove from heat",
+            "input": "Seasoned sauteed broccoli, onions and garlic mixture",
+            "action": "remove",
+            "output": "Seasoned sauteed broccoli, onions and garlic mixture"
+        },
+        {
+            "instructions": "toss drained tomatoes with oregano , basil and parmesan until nicely distributed .",
+            "input": "(Drained tomatoes; oregano; basil; parmesan)",
+            "action": "toss",
+            "output": "parmesan and tomato pizza sauce"
+        },
+        {
+            "instructions": "roll or stretch out dough onto a 14 pizza\u2012pan .",
+            "input": "Dough",
+            "action": "roll",
+            "output": "Uncooked pizza crust"
+        },
+        {
+            "instructions": "smear surface with olive_oil .",
+            "input": "(Uncooked pizza crust; olive oil)",
+            "action": "smear",
+            "output": "Uncooked pizza crust brushed with olive oil."
+        },
+        {
+            "instructions": "cover surface with shredded mozzarella , making sure cheese goes right out to the edge of the dough .",
+            "input": "(Uncooked pizza crust brushed with olive oil.; mozzarella)",
+            "action": "cover",
+            "output": "Uncooked pizza crust brushed with olive oil and covered with mozzarella"
+        },
+        {
+            "instructions": "top with broccoli and tomato mixtures and olives .",
+            "input": "(Uncooked pizza crust brushed with olive oil and covered with mozzarella; Seasoned sauteed broccoli, onions and garlic mixture; olives)",
+            "action": "top",
+            "output": "Uncooked pizza crust brushed with olive oil and topped with mozzarella, sauteed broccoli, onions and garlic mixture and olives"
+        },
+        {
+            "instructions": "bake on center rack for 5 10 minutes until crust is a lovely color and cheese bubbles .",
+            "input": "Uncooked vegetable pizza",
+            "action": "bake",
+            "output": "baked vegetable pizza"
+        },
+        {
+            "instructions": "remove from oven",
+            "input": "baked vegetable pizza",
+            "action": "remove",
+            "output": "baked vegetable pizza"
+        },
+        {
+            "instructions": "slice",
+            "input": "baked vegetable pizza",
+            "action": "slice",
+            "output": "Sliced vegetable pizza"
+        },
+        {
+            "instructions": "serve !",
+            "input": "Sliced vegetable pizza",
+            "action": "serve",
+            "output": "Vegetable pizza slice"
+        }
+    ],
+    "ingredients": [
+        {
+            "text": "2 tablespoons olive oil"
+        },
+        {
+            "text": "2 tablespoons butter"
+        },
+        {
+            "text": "1 medium sweet white onion, diced"
+        },
+        {
+            "text": "2 garlic cloves, minced"
+        },
+        {
+            "text": "12 lb fresh broccoli, separated into fleurets"
+        },
+        {
+            "text": "1 (14 1/2 ounce) can diced tomatoes, drained"
+        },
+        {
+            "text": "14 teaspoon dried oregano"
+        },
+        {
+            "text": "14 teaspoon dried sweet basil leaves"
+        },
+        {
+            "text": "14 cup parmesan cheese, shredded"
+        },
+        {
+            "text": "1 cup black olives, sliced"
+        },
+        {
+            "text": "1 pizza dough"
+        },
+        {
+            "text": "2 tablespoons olive oil"
+        },
+        {
+            "text": "1 lb mozzarella cheese, shredded"
+        }
+    ],
+    "recipe": [
+        {
+            "text": "Preheat oven to 500."
+        },
+        {
+            "text": "In a wide skillet, heat 2 T. olive oil with butter."
+        },
+        {
+            "text": "Add onions and garlic and saute until golden."
+        },
+        {
+            "text": "Add broccoli and cook, stirring, until bite tender."
+        },
+        {
+            "text": "Season to taste with salt and pepper."
+        },
+        {
+            "text": "Remove from heat and allow to cool."
+        },
+        {
+            "text": "Toss drained tomatoes with oregano, basil and Parmesan until nicely distributed."
+        },
+        {
+            "text": "Roll or stretch out dough onto a 14 pizza pan."
+        },
+        {
+            "text": "Smear surface with olive oil."
+        },
+        {
+            "text": "Cover surface with shredded mozzarella, making sure cheese goes right out to the edge of the dough."
+        },
+        {
+            "text": "Top with broccoli and tomato mixtures and olives."
+        },
+        {
+            "text": "Bake on center rack for 5 - 10 minutes until crust is a lovely color and cheese bubbles."
+        },
+        {
+            "text": "Remove from oven and allow to rest until cheese sets."
+        },
+        {
+            "text": "Slice and serve!"
+        }
+    ]
+}

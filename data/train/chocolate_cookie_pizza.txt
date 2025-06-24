@@ -1,0 +1,223 @@
+{
+    "title": "chocolate_cookie_pizza",
+    "id": "28f3f475da",
+    "table": [
+        {
+            "instructions": "preheat oven to 350 degrees f 175 degrees c.",
+            "input": "NA",
+            "actions": "preheat",
+            "output": "NA"
+        },
+        {
+            "instructions": "combine butter , brown_sugar , white_sugar , vanilla , and egg until well combined .",
+            "input": "(butter; brown_sugar; white_sugar; vanilla; egg)",
+            "actions": "combine",
+            "output": "(combined_butter; brown_sugar; white_sugar; vanilla; egg)"
+        },
+        {
+            "instructions": "stir in the flour and the baking_soda dough will be stiff .",
+            "input": "(wet_mixture; flour; baking_soda)",
+            "actions": "stir",
+            "output": "dough"
+        },
+        {
+            "instructions": "pat dough onto an ungreased 12 inch , pizza\u2012pan or on a cookie sheet .",
+            "input": "dough",
+            "actions": "pat",
+            "output": "shaped_dough"
+        },
+        {
+            "instructions": "bake at 350 degrees f 175 degrees c for 15 minutes or until golden brown .",
+            "input": "raw_cookie_dough",
+            "actions": "bake",
+            "output": "baked_cookie"
+        },
+        {
+            "instructions": "remove cookie from oven",
+            "input": "baked_cookie",
+            "actions": "remove",
+            "output": "cookie"
+        },
+        {
+            "instructions": "in a saucepan heat the chocolate_chip , remaining butter or margarine , and milk over very low heat .",
+            "input": "(chocolate_chip; butter; milk)",
+            "actions": "heat",
+            "output": "(heated_chocolate_chip; butter; milk)"
+        },
+        {
+            "instructions": "stir until chocolate is melted .",
+            "input": "(heated_chocolate_chip; butter; milk)",
+            "actions": "stir",
+            "output": "chocolate_mixture"
+        },
+        {
+            "instructions": "remove the chocolate mixture from the heat",
+            "input": "chocolate_mixture",
+            "actions": "remove",
+            "output": "chocolate_mixture"
+        },
+        {
+            "instructions": "stir in the confectioners ' sugar .",
+            "input": "(chocolate_mixture; confectioner_sugar)",
+            "actions": "stir",
+            "output": "sweetened_chocolate_mixture"
+        },
+        {
+            "instructions": "beat until smooth , glossy , and of spreading consistency .",
+            "input": "sweetened_chocolate_mixture",
+            "actions": "beat",
+            "output": "chocolate_frosting"
+        },
+        {
+            "instructions": "if frosting is not glossy , stir in a few drops of hot_water .",
+            "input": "NA",
+            "actions": "stir",
+            "output": "NA"
+        },
+        {
+            "instructions": "spread over the top of the baked",
+            "input": "(cookie; chocolate_frosting)",
+            "actions": "spread",
+            "output": "cookie_with_chocolate_frostig"
+        },
+        {
+            "instructions": "immediately sprinkle with pecan_half , mandm candies , and coconut .",
+            "input": "(cookie_with_chocolate_frosting; pecan_half; candies; coconut)",
+            "actions": "sprinkle",
+            "output": "(frosted_cookie_sprinkled_with_pecan_half; candies; coconut)"
+        },
+        {
+            "instructions": "press lightly into frosting .",
+            "input": "(frosted_cookie_sprinkled_with_pecan_half; candies; coconut)",
+            "actions": "press",
+            "output": "(frosted_cookie_sprinkled_with_pecan_half; candies; coconut)"
+        },
+        {
+            "instructions": "drizzle top with the melted white_chocolate .",
+            "input": "(decorated_cookie; melted_white_chocolate)",
+            "actions": "drizzle",
+            "output": "decorated_cookie_with_drizzled_white_chocolate"
+        },
+        {
+            "instructions": "let stand until set .",
+            "input": "decorated_cookie_with_drizzled_white_chocolate",
+            "actions": "stand",
+            "output": "decorated_cookie"
+        },
+        {
+            "instructions": "remove from pan if desired .",
+            "input": "NA",
+            "actions": "remove",
+            "output": "NA"
+        },
+        {
+            "instructions": "cut into wedges .",
+            "input": "chocolate_cookie_pizza",
+            "actions": "cut",
+            "output": "cut_chocolate_cookie_pizza"
+        }
+    ],
+    "ingredients": [
+        {
+            "text": "1/2 cup butter, softened"
+        },
+        {
+            "text": "1/2 cup packed brown sugar"
+        },
+        {
+            "text": "1/4 cup white sugar"
+        },
+        {
+            "text": "1 teaspoon vanilla extract"
+        },
+        {
+            "text": "1 egg"
+        },
+        {
+            "text": "1 1/4 cups all-purpose flour"
+        },
+        {
+            "text": "1/2 teaspoon baking soda"
+        },
+        {
+            "text": "6 ounces semisweet chocolate chips"
+        },
+        {
+            "text": "2 tablespoons butter"
+        },
+        {
+            "text": "3 tablespoons milk"
+        },
+        {
+            "text": "1 cup confectioners' sugar"
+        },
+        {
+            "text": "1/2 cup pecan halves"
+        },
+        {
+            "text": "1/2 cup candy-coated milk chocolate pieces"
+        },
+        {
+            "text": "1/4 cup flaked coconut"
+        },
+        {
+            "text": "2 ounces white chocolate, melted"
+        }
+    ],
+    "recipe": [
+        {
+            "text": "Preheat oven to 350 degrees F (175 degrees C)."
+        },
+        {
+            "text": "Combine butter, brown sugar, white sugar, vanilla, and egg until well combined."
+        },
+        {
+            "text": "Stir in the flour and the baking soda (dough will be stiff)."
+        },
+        {
+            "text": "Pat dough onto an ungreased 12 inch pizza pan or on a cookie sheet."
+        },
+        {
+            "text": "Bake at 350 degrees F (175 degrees C) for 15 minutes or until golden brown."
+        },
+        {
+            "text": "Remove cookie from oven and let it cool."
+        },
+        {
+            "text": "In a saucepan heat the chocolate chips, remaining butter or margarine, and milk over very low heat."
+        },
+        {
+            "text": "Stir until chocolate is melted."
+        },
+        {
+            "text": "Remove the chocolate mixture from the heat and stir in the confectioners' sugar."
+        },
+        {
+            "text": "Beat until smooth, glossy, and of spreading consistency."
+        },
+        {
+            "text": "If frosting is not glossy, stir in a few drops of hot water."
+        },
+        {
+            "text": "Spread over the top of the baked and cooled cookie."
+        },
+        {
+            "text": "Immediately sprinkle with pecan halves, M&M candies, and coconut."
+        },
+        {
+            "text": "Press lightly into frosting."
+        },
+        {
+            "text": "Drizzle top with the melted white chocolate."
+        },
+        {
+            "text": "Let stand until set."
+        },
+        {
+            "text": "Remove from pan if desired."
+        },
+        {
+            "text": "Cut into wedges."
+        }
+    ]
+}

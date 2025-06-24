@@ -1,0 +1,148 @@
+{
+    "title": "crossing-culture_chinese_hoisin_pizza",
+    "id": "45a71db549",
+    "table": [
+        {
+            "instructions": "position an oven rack in the center of the oven ;",
+            "input": "NA",
+            "action": "position",
+            "output": "NA"
+        },
+        {
+            "instructions": "preheat oven to 50",
+            "input": "NA",
+            "action": "preheat",
+            "output": "NA"
+        },
+        {
+            "instructions": "while the oven is heating , toss the chicken with 3 tablespoons hoisin , garlic , ginger , sambal oelek , and 3 of the green_onion .",
+            "input": "(chicken; hoisin; sambal oelek; garlic; ginger; green_onion)",
+            "action": "toss",
+            "output": "tossed spicy chicken mixture"
+        },
+        {
+            "instructions": "remove crust from plastic bag",
+            "input": "crust",
+            "action": "remove",
+            "output": "prepared crust"
+        },
+        {
+            "instructions": "place crust on a pizza\u2012screen , pizza\u2012pan , or rimless baking sheet .",
+            "input": "prepared crust",
+            "action": "place",
+            "output": "prepared crust"
+        },
+        {
+            "instructions": "top the pizza spread 14 cup , hoisin_sauce evenly over the crust , leaving a 1 inch border .",
+            "input": "(pizza crust; hoisin sauce)",
+            "action": "top",
+            "output": "crust with hoisin sauce"
+        },
+        {
+            "instructions": "arrange chicken mixture in a single layer over the onion .",
+            "input": "(tossed spicy chicken mixture; crust with hoisin sauce)",
+            "action": "arrange",
+            "output": "spicy chicken mixture arranged on crust with hoisin sauce"
+        },
+        {
+            "instructions": "sprinkle the cheese evenly over the top .",
+            "input": "(cheese; crust with hoisin sauce and spicy chicken mixture)",
+            "action": "sprinkle",
+            "output": "crust with hoisin sauce, spicy chicken mixture and cheese"
+        },
+        {
+            "instructions": "place the pizza in the oven ;",
+            "input": "uncooked crust with hoisin sauce, spicy chicken mixture and cheese",
+            "action": "place",
+            "output": "uncooked crust with hoisin sauce, spicy chicken mixture and cheese"
+        },
+        {
+            "instructions": "bake about 10 minutes until the crust is crisp and deep golden brown and the cheese is golden .",
+            "input": "uncooked crust with hoisin sauce, spicy chicken mixture and cheese",
+            "action": "bake",
+            "output": "baked hoisin and chicken pizza"
+        },
+        {
+            "instructions": "sprinkle the remaining green_onion and cilantro over the pizza ;",
+            "input": "(green onion; cilantro; baked hoisin and chicken pizza)",
+            "action": "sprinkle",
+            "output": "baked hoisin and chicken pizza garnished with cilantro and green onion"
+        },
+        {
+            "instructions": "slice the pizza into wedges",
+            "input": "baked hoisin and chicken pizza garnished with cilantro and green onion",
+            "action": "slice",
+            "output": "sliced baked hoisin and chicken pizza garnished with cilantro and green onion"
+        },
+        {
+            "instructions": "serve immediately .",
+            "input": "sliced baked hoisin and chicken pizza garnished with cilantro and green onion",
+            "action": "serve",
+            "output": "sliced baked hoisin and chicken pizza garnished with cilantro and green onion ready to serve"
+        }
+    ],
+    "ingredients": [
+        {
+            "text": "1 34 cups shredded cooked chicken"
+        },
+        {
+            "text": "3 tablespoons hoisin sauce, plus"
+        },
+        {
+            "text": "14 cup hoisin sauce"
+        },
+        {
+            "text": "2 teaspoons minced garlic"
+        },
+        {
+            "text": "1 tablespoon minced fresh ginger"
+        },
+        {
+            "text": "1 teaspoon sambal oelek"
+        },
+        {
+            "text": "6 green onions, cut on the diagonal into thin slices (include some green tops)"
+        },
+        {
+            "text": "1 (12 inch) Boboli pizza crusts"
+        },
+        {
+            "text": "1 cup thinly sliced white onion"
+        },
+        {
+            "text": "1 12 cups coarsely shredded mozzarella cheese"
+        },
+        {
+            "text": "12 cup lightly packed cilantro leaf"
+        }
+    ],
+    "recipe": [
+        {
+            "text": "Position an oven rack in the center of the oven; preheat oven to 500."
+        },
+        {
+            "text": "While the oven is heating, toss the chicken with 3 tablespoons hoisin, garlic, ginger, sambal oelek, and 3 of the green onions."
+        },
+        {
+            "text": "Remove crust from plastic bag and save the packet of tomato sauce for another use."
+        },
+        {
+            "text": "Place crust on a pizza screen, pizza pan, or rimless baking sheet."
+        },
+        {
+            "text": "Top the pizza: spread 1/4 cup hoisin sauce evenly over the crust, leaving a 1-inch border."
+        },
+        {
+            "text": "Distribute the white onion over the sauce; arrange chicken mixture in a single layer over the onion."
+        },
+        {
+            "text": "Sprinkle the cheese evenly over the top."
+        },
+        {
+            "text": "Place the pizza in the oven; bake about 10 minutes until the crust is crisp and deep golden brown and the cheese is golden."
+        },
+        {
+            "text": "Sprinkle the remaining green onions and cilantro over the pizza; slice the pizza into wedges and serve immediately."
+        }
+    ]
+}

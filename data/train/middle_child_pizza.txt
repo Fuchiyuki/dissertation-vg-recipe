@@ -1,0 +1,163 @@
+{
+    "title": "middle_child_pizza",
+    "id": "bdb8e083f2",
+    "table": [
+        {
+            "instructions": "preheat your oven to 500f .",
+            "input": "NA",
+            "action": "preheat",
+            "output": "NA"
+        },
+        {
+            "instructions": "generously coat a half sheet pan with olive_oil .",
+            "input": "NA",
+            "action": "coat",
+            "output": "NA"
+        },
+        {
+            "instructions": "stretch your dough to fit the pan .",
+            "input": "dough",
+            "action": "stretch",
+            "output": "stretched dough"
+        },
+        {
+            "instructions": "smear the pesto all over the dough with your fingers .",
+            "input": "(stretched dough; pesto)",
+            "action": "smear",
+            "output": "pesto smeared over stretched dough"
+        },
+        {
+            "instructions": "sprinkle the artichokes over the top .",
+            "input": "(pizza crust with pesto; artichokes)",
+            "action": "sprinkle",
+            "output": "artichokes sprinkled on pizza crust with pesto"
+        },
+        {
+            "instructions": "sprinkle the parmesan , the garlic_salt , and the oregano all over the top .",
+            "input": "(parmesan; garlic_salt; oregano; uncooked pesto artichoke pizza)",
+            "action": "sprinkle",
+            "output": "parmesan, garlic_salt and oregano sprinkled on uncooked pesto artichoke pizza"
+        },
+        {
+            "instructions": "bake for 12 hour .",
+            "input": "uncooked pesto artichoke pizza",
+            "action": "bake",
+            "output": "baked pesto artichoke pizza"
+        },
+        {
+            "instructions": "take your masterpiece out of the oven",
+            "input": "baked pesto artichoke pizza",
+            "action": "take",
+            "output": "baked pesto artichoke pizza"
+        },
+        {
+            "instructions": "drizzle a little olive_oil over the top .",
+            "input": "(olive_oil; baked pesto artichoke pizza)",
+            "action": "drizzle",
+            "output": "olive oil drizzled on baked pesto artichoke pizza"
+        },
+        {
+            "instructions": "transfer to a cutting board",
+            "input": "baked pesto artichoke pizza",
+            "action": "transfer",
+            "output": "baked pesto artichoke pizza"
+        },
+        {
+            "instructions": "serve with freshly_grated_parmesan and red_pepper_flake .",
+            "input": "(baked pesto artichoke pizza; red pepper flake; freshly grated parmesan)",
+            "action": "serve",
+            "output": "freshly_grated_parmesan and red_pepper_flake sprinkled on baked pesto artichoke pizza"
+        }
+    ],
+    "ingredients": [
+        {
+            "text": "1/4 cups Olive Oil"
+        },
+        {
+            "text": "1 whole Recipe For Pizza Dough"
+        },
+        {
+            "text": "1/2 cups Basil Pesto"
+        },
+        {
+            "text": "1 cup Finely Chopped Artichoke Hearts"
+        },
+        {
+            "text": "1 cup Seeded, Finely Chopped Tomatoes"
+        },
+        {
+            "text": "1/2 cups Finely Chopped Olives (either Black Or Kalamata)"
+        },
+        {
+            "text": "1 cup Crumbled Feta"
+        },
+        {
+            "text": "2 Tablespoons Shredded Parmesan Cheese"
+        },
+        {
+            "text": "1/4 teaspoons Garlic Salt"
+        },
+        {
+            "text": "1/2 teaspoons Dried Oregano Leaves"
+        }
+    ],
+    "recipe": [
+        {
+            "text": "Preheat your oven to 500F."
+        },
+        {
+            "text": "Generously coat a half-sheet pan with olive oil."
+        },
+        {
+            "text": "If you think its too much, youll probably need more."
+        },
+        {
+            "text": "Youre trying to prevent the pizza from sticking."
+        },
+        {
+            "text": "Stretch your dough to fit the pan."
+        },
+        {
+            "text": "Pretty much any dough recipe will work here."
+        },
+        {
+            "text": "I am particularly fond of Jim Laheys pizza recipe."
+        },
+        {
+            "text": "It is easy (no kneading) and delicious."
+        },
+        {
+            "text": "Smear the pesto all over the dough with your fingers."
+        },
+        {
+            "text": "Sprinkle the artichokes over the top."
+        },
+        {
+            "text": "They are so yummy and I heart artichokes 4 ever!"
+        },
+        {
+            "text": "Tomatoes are next, followed by the black olives, then the feta."
+        },
+        {
+            "text": "Sprinkle the parmesan, the garlic salt, and the oregano all over the top."
+        },
+        {
+            "text": "Isnt it pretty?"
+        },
+        {
+            "text": "Bake for 1/2 hour."
+        },
+        {
+            "text": "( If your oven is small, you might consider covering the pizza with aluminum foil for the first fifteen minutes)."
+        },
+        {
+            "text": "Take your masterpiece out of the oven and drizzle a little olive oil over the top."
+        },
+        {
+            "text": "Transfer to a cutting board and serve with freshly grated parmesan and red pepper flakes."
+        },
+        {
+            "text": "I love this cold for breakfast!"
+        }
+    ]
+}
