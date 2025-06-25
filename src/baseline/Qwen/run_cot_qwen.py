@@ -5,38 +5,32 @@ from typing import List
 
 def build_cot_prompt(instruction: str) -> str:
     """
-    Compose a Chain-of-Thought prompt for triple extraction.
+    Compose a detailed Chain-of-Thought prompt for extracting a single knowledge triple from cooking instructions.
+    The prompt instructs the model to think step-by-step, articulate each reasoning step clearly,
+    and then provide the final relation triple in the format <subject, relation, object>.
     """
     return f"""
-You are an AI assistant that extracts structured knowledge from cooking instructions.
-Think step-by-step, then provide the final relation triple in the form <subject, relation, object>.
+You are an AI assistant specialized in extracting structured knowledge from cooking instructions.
+For the following single instruction step, perform the following tasks:
 
-Instruction: "{instruction}"
+1. Carefully analyze the instruction and identify all implicit and explicit actions, entities, and effects.
+2. Write out your reasoning in a clear, numbered list of thought steps, ensuring each step builds on the previous one.
+3. After completing the reasoning steps, provide exactly one relation triple summarizing the core knowledge in the format <subject, relation, object>.
+
+**Important:**
+- Do not include any text outside the numbered reasoning steps and the final triple.
+- Ensure your reasoning is thorough, referencing any implicit assumptions or domain knowledge.
+
+Instruction:
+"{instruction}"
 
 Let's think step by step:
 1.
 2.
 ...
-Based on the above reasoning, the triple is:"""
 
-
-def build_cok_prompt(instruction: str, num_triples: int = 3) -> str:
-    """
-    Compose a Chain-of-Knowledge prompt for extracting multiple knowledge triples.
-    """
-    header = (
-        f"以下の料理手順をよく読んで、"  
-        f"この手順に必要となる知識トリプルを〈主語, 関係, 目的語〉の形式で{num_triples}つ列挙してください。"
-    )
-    body = f"Instruction:\n\"{instruction}\""
-    footer = (
-        "出力フォーマット:\n"
-        +"1. <subject_1, relation_1, object_1>\n"
-        +"2. <subject_2, relation_2, object_2>\n"
-        +"...\n"
-        +f"{num_triples}. <subject_{num_triples}, relation_{num_triples}, object_{num_triples}>"
-    )
-    return "\n\n".join([header, body, footer])
+Based on the above reasoning, the triple is: <subject, relation, object>
+""".strip()
 
 
 # run_cot.py
@@ -117,3 +111,4 @@ def main_cok(n_triples: int = 3):
 
 if __name__ == '__main__':
     main_cok()
+
